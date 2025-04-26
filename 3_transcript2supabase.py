@@ -1,117 +1,181 @@
 import json
+import os.path
+import time
+
 from dotenv import load_dotenv
-from ai import fetch_transcript, improve_transcript, process_vocabulary
+from ai import CompletionClient
 from db import MitLesenDatabase
-from transcript import YouTubeTranscriptFetcher
 
 load_dotenv()
 
-TRANSCRIPT_CHUNK_SIZE = 20
-VOCABULARY_CHUNK_SIZE = 2
-
-def chunk_lines(lines, size):
-    return [lines[i:i + size] for i in range(0, len(lines), size)]
-
-def chunk_sentences(sentences, size):
-    return [sentences[i:i + size] for i in range(0, len(sentences), size)]
-
-def generate_sentence_id(video_index, sentence_index):
-    return f"{video_index + 1}-{sentence_index + 1}"
-
-def generate_word_id(sentence_id, word_index):
-    return f"{sentence_id}-{word_index + 1}"
-
 if __name__ == "__main__":
-    db = MitLesenDatabase()
-
-    # https://github.com/hyperaudio/hyperaudio-lite
+    DATA_FOLDER = 'data'
 
     videos = [
-        #{"youtube_id": "O2w9acaudd8", "title": "Shangri-La Frontier - Folge 1", "is_premium": False},
-        #{"youtube_id": "t0SQPbD2F08", "title": "BLUE LOCK - Folge 1", "is_premium": False},
-        {"youtube_id": "CvlVuSN_twQ", "title": "JUJUTSU KAISEN - Folge 1", "is_premium": False},
-        # https://www.youtube.com/watch?v=O2w9acaudd8&t=514s
+        {"youtube_id": "t0SQPbD2F08", "title": "BLUE LOCK - Folge 1", "is_premium": False},
+        # {"youtube_id": "O2w9acaudd8", "title": "Shangri-La Frontier - Folge 1", "is_premium": False},
+        # {"youtube_id": "CvlVuSN_twQ", "title": "JUJUTSU KAISEN - Folge 1", "is_premium": False},
     ]
 
-    yt = YouTubeTranscriptFetcher(language_code='de', preserve_formatting=True)
+    schema = """
+    {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "text": {
+          "type": "string"
+        },
+        "translation": {
+          "type": "string"
+        },
+        "start": {
+          "type": "number"
+        },
+        "end": {
+          "type": "number"
+        },
+        "words": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "text": {
+                "type": "string"
+              },
+              "start": {
+                "type": "number"
+              },
+              "end": {
+                "type": "number"
+              },
+              "translation": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              },
+              "case": {
+                "type": "string"
+              }
+            },
+            "required": ["text", "start", "end", "type", "case"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": ["id", "text", "translation", "start", "end", "words"],
+      "additionalProperties": false
+    }
+    """
+
+    db = MitLesenDatabase()
 
     for vid_index, video in enumerate(videos):
         youtube_id = video["youtube_id"]
         title = video["title"]
         is_premium = video["is_premium"]
+        transcript_path = os.path.join(DATA_FOLDER, youtube_id + '.json')
 
-        try:
-            raw_transcript = yt.fetch(youtube_id)
-            
-            # Improve the transcript before processing
-            improved_transcript = improve_transcript(youtube_id, raw_transcript)
-            print(f"Improved transcript for {title}")
-            
-            # Split the improved transcript into chunks for processing
-            transcript_lines = [line.strip() for line in improved_transcript.split('\n') if line.strip()]
-            transcript_chunks = chunk_lines(transcript_lines, TRANSCRIPT_CHUNK_SIZE)
-            
-            # Process transcript for sentences in chunks
-            all_sentences = []
-            sent_count = 0
-            
-            for chunk_index, chunk_text_lines in enumerate(transcript_chunks):
-                chunk_str = "\n".join(chunk_text_lines)
-                print(f"Processing transcript chunk {chunk_index+1}/{len(transcript_chunks)}")
-                
-                parsed_chunk_str = fetch_transcript(youtube_id, chunk_str)
-                if parsed_chunk_str:
-                    parsed_chunk = json.loads(parsed_chunk_str)
-                    
-                    # Assign proper sentence IDs
-                    for s_idx, sentence in enumerate(parsed_chunk["sentences"]):
-                        sentence_id = generate_sentence_id(vid_index, sent_count + s_idx)
-                        sentence["id"] = sentence_id
-                    
-                    all_sentences.extend(parsed_chunk["sentences"])
-                    sent_count += len(parsed_chunk["sentences"])
-            
-            # Create final transcript JSON
-            parsed_transcript = {
-                "videoId": youtube_id,
-                "sentences": all_sentences
-            }
-            
-            print(f"Processed full transcript with {len(all_sentences)} sentences")
-            
-            # Process vocabulary in chunks
-            all_words = []
-            sentence_chunks = chunk_sentences(parsed_transcript["sentences"], VOCABULARY_CHUNK_SIZE)
-            
-            for chunk_index, sentence_chunk in enumerate(sentence_chunks):
-                print(f"Processing vocabulary chunk {chunk_index+1}/{len(sentence_chunks)}")
-                parsed_vocab_str = process_vocabulary(youtube_id, sentence_chunk)
-                if parsed_vocab_str:
-                    parsed_vocab = json.loads(parsed_vocab_str)
-                    # Fix word IDs
-                    for w_idx, word in enumerate(parsed_vocab["words"]):
-                        sentence_id = word["sentenceId"]
-                        word["id"] = generate_word_id(sentence_id, w_idx)
-                    all_words.extend(parsed_vocab["words"])
-            
-            # Create final vocabulary JSON
-            vocabulary = {
-                "videoId": youtube_id,
-                "words": all_words
-            }
-            
-            # Insert both transcript and vocabulary
-            db.insert(
-                title=title,
-                youtube_id=youtube_id,
-                is_premium=is_premium,
-                transcript=json.dumps(parsed_transcript),
-                vocabulary=json.dumps(vocabulary)
-            )
+        with open(transcript_path, 'r', encoding='utf-8') as file:
+            text = file.read()
+            transcript = json.loads(text)
+            client = CompletionClient(backend='gemini')
+            try:
+                for sentence in transcript:
+                    prompt = f"""
+                          You will be given a JSON like the following one:                                                  
+                          {{
+                            "id": 0,
+                            "text": "Wenn wir",
+                            "start": 0.16,
+                            "end": 1.48,
+                            "words": [
+                              {{
+                                "text": "Wenn",
+                                "start": 0.16,
+                                "end": 1.3                                
+                              }},
+                              {{
+                                "text": "wir",
+                                "start": 1.3,
+                                "end": 1.48,
+                              }}
+                            ]
+                          }}                        
+                                            
+                        # Task
+                        2. Your task is to add the missing translation for both sentences and words:
+                           For the Sentence:
+                           - An English translation.                        
+                           For the Words: 
+                           - An English translation.
+                           - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle).
+                           - If applicable (German nouns and pronouns), include grammatical case (nominativ, akkusativ, dativ, genitiv).
 
-            print(f"✅ Inserted {title} with {len(parsed_transcript['sentences'])} sentences and {len(all_words)} words")
-        except ValueError as err:
-            print(f"❌ Error for {youtube_id}: {err}")
-            continue
+                        # Guidelines
+                        - For each sentence, include its translation
+                           - non-literal translation, natural sounding english translation 
+                        - For each word, 
+                           - include its text, translation, and grammatical information.
+                           - use concise, literal translations.
+
+                        # Constraints
+                        - Do not output any explanatory text—only the JSON.
+                        - Do not use markdown formatting or code blocks (e.g., do not use triple backticks or any syntax highlighting).
+                        - Follow this sample schema exactly: {schema}
+                        - Make sure the words appears in the same order that are given in the transcript.
+
+                        # JSON Output                          
+                          {{
+                            "id": 0,
+                            "text": "Wenn wir",
+                            "translation": "When we",
+                            "start": 0.16,
+                            "end": 1.48,
+                            "words": [
+                              {{
+                                "text": "Wenn",
+                                "start": 0.16,
+                                "end": 1.3
+                                "translation": "we",
+                                "type": "pronoun",
+                                "case": "nominativ"                                
+                              }},
+                              {{
+                                "text": "wir",
+                                "start": 1.3,
+                                "end": 1.48,
+                                "type": "pronoun",
+                                "case": "nominativ"
+                              }}
+                            ]
+                          }}                                                 
+                        
+                        # JSON Input
+                        {sentence}
+                    """
+                    completion = client.complete(prompt)
+                    new_sentence = json.loads(completion)
+                    print(json.dumps(new_sentence, indent=2, ensure_ascii=False))
+                    sentence["translation"] = new_sentence["translation"]
+                    print("--")
+                    for i, (t_word, v_word) in enumerate(zip(sentence["words"], new_sentence["words"])):
+                        sentence["words"][i] = v_word | t_word
+                    print(json.dumps(sentence, indent=2, ensure_ascii=False))
+                    time.sleep(2)
+
+                db.insert(
+                    title=title,
+                    youtube_id=youtube_id,
+                    is_premium=is_premium,
+                    transcript=json.dumps(transcript),
+                )
+
+                print(f"✅ Inserted in videos table")
+            except Exception as err:
+                print(f"❌ Error for {youtube_id}: {err}")
 
     db.close()

@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import multiprocessing as mp
 import os
 import argparse
@@ -35,48 +33,80 @@ def transcribe_with_buzz(
     if model_path is None:
         raise RuntimeError("Failed to download or locate model")
 
-    # 2. Configure transcription options
-    transcription_opts = TranscriptionOptions(
-        language="de",
-        task=Task.TRANSCRIBE,
-        model=model,
-        word_level_timings=True
-    )
+    # 2. Prepare file options (we only need TXT once, and SRT twice)
     file_opts = FileTranscriptionOptions(
         file_paths=[audio_path],
         output_formats={OutputFormat.TXT, OutputFormat.SRT}
     )
 
-    # 3. Build transcription task
-    task = FileTranscriptionTask(
-        transcription_options=transcription_opts,
+    # 3. First pass: with word-level timings
+    opts_with = TranscriptionOptions(
+        language="de",
+        task=Task.TRANSCRIBE,
+        model=model,
+        word_level_timings=True
+    )
+    task_with = FileTranscriptionTask(
+        transcription_options=opts_with,
         file_transcription_options=file_opts,
         model_path=model_path,
         source=FileTranscriptionTask.Source.FILE_IMPORT,
         file_path=audio_path,
         output_directory=output_dir
     )
+    segments_with = WhisperFileTranscriber(task_with).transcribe()
 
-    # 4. Run transcription
-    transcriber = WhisperFileTranscriber(task)
-    segments = transcriber.transcribe()
+    # 4. Second pass: without word-level timings
+    opts_without = TranscriptionOptions(
+        language="de",
+        task=Task.TRANSCRIBE,
+        model=model,
+        word_level_timings=False
+    )
+    task_without = FileTranscriptionTask(
+        transcription_options=opts_without,
+        file_transcription_options=file_opts,
+        model_path=model_path,
+        source=FileTranscriptionTask.Source.FILE_IMPORT,
+        file_path=audio_path,
+        output_directory=output_dir
+    )
+    segments_without = WhisperFileTranscriber(task_without).transcribe()
 
-    # 5. Write outputs
-    for fmt in file_opts.output_formats:
-        out_path = get_output_file_path(
-            file_path=audio_path,
-            task=Task.TRANSCRIBE,
-            language=transcription_opts.language,
-            model=model,
-            output_format=fmt,
-            output_directory=output_dir
-        )
-        write_output(path=out_path, segments=segments, output_format=fmt)
-        print(f"Written {fmt.value.upper()} → {out_path}")
+    # 5. Write TXT (only once, from the first pass)
+    txt_path = get_output_file_path(
+        file_path=audio_path,
+        task=Task.TRANSCRIBE,
+        language=opts_with.language,
+        model=model,
+        output_format=OutputFormat.TXT,
+        output_directory=output_dir
+    )
+    write_output(path=txt_path, segments=segments_with, output_format=OutputFormat.TXT)
+    print(f"Written TXT → {txt_path}")
+
+    # 6. Write SRTs
+    base_srt = get_output_file_path(
+        file_path=audio_path,
+        task=Task.TRANSCRIBE,
+        language=opts_with.language,
+        model=model,
+        output_format=OutputFormat.SRT,
+        output_directory=output_dir
+    )
+    # with word timings
+    srt_with = base_srt.replace(".srt", "_with_word_timings.srt")
+    write_output(path=srt_with, segments=segments_with, output_format=OutputFormat.SRT)
+    print(f"Written SRT with word timings → {srt_with}")
+
+    # without word timings
+    srt_without = base_srt.replace(".srt", "_without_word_timings.srt")
+    write_output(path=srt_without, segments=segments_without, output_format=OutputFormat.SRT)
+    print(f"Written SRT without word timings → {srt_without}")
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Transcribe audio.mp3 using Buzz + Whisper-v3-turbo"
+        description="Transcribe audio using Buzz + Whisper-v3-turbo"
     )
     parser.add_argument(
         "audio_path", help="Path to your input .mp3 file (e.g. audio.mp3)"
@@ -89,7 +119,7 @@ def main():
     parser.add_argument(
         "--out-dir",
         default=None,
-        help="Directory to save .txt and .srt outputs"
+        help="Directory to save outputs"
     )
     args = parser.parse_args()
 
@@ -100,6 +130,6 @@ def main():
     )
 
 if __name__ == "__main__":
-    # Ensure CUDA contexts aren’t inherited via fork—use spawn instead :contentReference[oaicite:9]{index=9}
+    # Ensure CUDA contexts aren’t inherited via fork—use spawn instead
     mp.set_start_method("spawn", force=True)
     main()

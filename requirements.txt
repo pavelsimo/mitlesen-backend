@@ -3,5 +3,5 @@ youtube-transcript-api
 supabase
 google-genai
 dotenv
-googletrans==4.0.2
 buzz-captions
+whisper-timestamped
