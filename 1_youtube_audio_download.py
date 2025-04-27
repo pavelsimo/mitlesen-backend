@@ -4,10 +4,7 @@ import argparse
 from yt_dlp import YoutubeDL
 
 
-# https://www.jentsch.io/openai-whisper-large-v3-turbo-ein-gamechanger-fuer-schnelle-transkriptionen/
-# https://github.com/yt-dlp/yt-dlp
-# ELAN 6.4 ~ https://www.youtube.com/watch?v=c6fQf_LYH7s
-# Praat
+
 def download_audio(youtube_id: str, output_dir: str):
     """
     Download the audio of a YouTube video as an MP3 file.
@@ -15,13 +12,10 @@ def download_audio(youtube_id: str, output_dir: str):
     :param youtube_id: The YouTube video ID (e.g. "dQw4w9WgXcQ").
     :param output_dir: Directory where the MP3 will be saved.
     """
-    # Ensure output directory exists
-    os.makedirs(output_dir, exist_ok=True)
 
-    # Build the full YouTube URL
+    os.makedirs(output_dir, exist_ok=True)
     url = f"https://www.youtube.com/watch?v={youtube_id}"
 
-    # yt-dlp options for best audio and converting to mp3
     ydl_opts = {
         'format': 'bestaudio/best',
         'outtmpl': os.path.join(output_dir, f'{youtube_id}.%(ext)s'),
@@ -34,7 +28,6 @@ def download_audio(youtube_id: str, output_dir: str):
         'no_warnings': True,
     }
 
-    # Download!
     with YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
 
