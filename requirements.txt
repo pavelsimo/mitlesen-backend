@@ -1,7 +1,7 @@
 openai
-youtube-transcript-api
 supabase
 google-genai
 dotenv
-buzz-captions
-whisper-timestamped
+whisperx
+ctranslate2
+yt-dlp
