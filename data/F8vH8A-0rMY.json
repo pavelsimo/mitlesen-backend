@@ -1,0 +1,463 @@
+[
+  {
+    "id": 0,
+    "text": " Also, Bäume fällen bringt 60 Riesen pro Monat.",
+    "start": 2.325,
+    "end": 7.009,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 2.325,
+        "end": 3.586
+      },
+      {
+        "text": "Bäume",
+        "start": 3.646,
+        "end": 4.007
+      },
+      {
+        "text": "fällen",
+        "start": 4.047,
+        "end": 4.347
+      },
+      {
+        "text": "bringt",
+        "start": 4.387,
+        "end": 4.687
+      },
+      {
+        "text": "Riesen",
+        "start": 5.167,
+        "end": 5.468
+      },
+      {
+        "text": "pro",
+        "start": 5.508,
+        "end": 5.668
+      },
+      {
+        "text": "Monat.",
+        "start": 5.708,
+        "end": 7.009
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Meine verkaufte Niere letztens hat 1,2 Mille eingebracht.",
+    "start": 7.049,
+    "end": 11.873,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 7.049,
+        "end": 7.249
+      },
+      {
+        "text": "verkaufte",
+        "start": 7.289,
+        "end": 7.729
+      },
+      {
+        "text": "Niere",
+        "start": 7.749,
+        "end": 8.03
+      },
+      {
+        "text": "letztens",
+        "start": 8.07,
+        "end": 8.79
+      },
+      {
+        "text": "hat",
+        "start": 8.81,
+        "end": 9.611
+      },
+      {
+        "text": "Mille",
+        "start": 9.891,
+        "end": 10.151
+      },
+      {
+        "text": "eingebracht.",
+        "start": 10.171,
+        "end": 11.873
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Mein rechtes Auge hat mir 300 Riesen beschert.",
+    "start": 11.913,
+    "end": 16.436,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 11.913,
+        "end": 12.093
+      },
+      {
+        "text": "rechtes",
+        "start": 12.153,
+        "end": 12.573
+      },
+      {
+        "text": "Auge",
+        "start": 12.633,
+        "end": 13.734
+      },
+      {
+        "text": "hat",
+        "start": 13.774,
+        "end": 13.934
+      },
+      {
+        "text": "mir",
+        "start": 13.954,
+        "end": 14.114
+      },
+      {
+        "text": "Riesen",
+        "start": 14.215,
+        "end": 14.935
+      },
+      {
+        "text": "beschert.",
+        "start": 14.975,
+        "end": 16.436
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Eine meiner Klöten habe ich auch vertickt.",
+    "start": 16.476,
+    "end": 19.058,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 16.476,
+        "end": 16.676
+      },
+      {
+        "text": "meiner",
+        "start": 16.697,
+        "end": 16.917
+      },
+      {
+        "text": "Klöten",
+        "start": 16.937,
+        "end": 17.277
+      },
+      {
+        "text": "habe",
+        "start": 17.297,
+        "end": 17.417
+      },
+      {
+        "text": "ich",
+        "start": 17.457,
+        "end": 17.577
+      },
+      {
+        "text": "auch",
+        "start": 17.597,
+        "end": 17.757
+      },
+      {
+        "text": "vertickt.",
+        "start": 17.797,
+        "end": 19.058
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wie viel gab's dafür noch mal?",
+    "start": 19.078,
+    "end": 20.88,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 19.078,
+        "end": 19.178
+      },
+      {
+        "text": "viel",
+        "start": 19.218,
+        "end": 19.379
+      },
+      {
+        "text": "gab's",
+        "start": 19.399,
+        "end": 19.599
+      },
+      {
+        "text": "dafür",
+        "start": 19.639,
+        "end": 19.839
+      },
+      {
+        "text": "noch",
+        "start": 19.879,
+        "end": 19.979
+      },
+      {
+        "text": "mal?",
+        "start": 20.079,
+        "end": 20.88
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Rat mal 100 Riesen, oder?",
+    "start": 20.94,
+    "end": 25.784,
+    "words": [
+      {
+        "text": "Rat",
+        "start": 20.94,
+        "end": 21.08
+      },
+      {
+        "text": "mal",
+        "start": 21.16,
+        "end": 21.28
+      },
+      {
+        "text": "Riesen,",
+        "start": 21.54,
+        "end": 21.981
+      },
+      {
+        "text": "oder?",
+        "start": 22.021,
+        "end": 25.784
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Bleibt also ein Schuldenberg von 38 Millionen und 40 Riesen.",
+    "start": 25.824,
+    "end": 29.747,
+    "words": [
+      {
+        "text": "Bleibt",
+        "start": 25.824,
+        "end": 26.144
+      },
+      {
+        "text": "also",
+        "start": 26.184,
+        "end": 26.404
+      },
+      {
+        "text": "ein",
+        "start": 26.424,
+        "end": 26.564
+      },
+      {
+        "text": "Schuldenberg",
+        "start": 26.624,
+        "end": 27.385
+      },
+      {
+        "text": "von",
+        "start": 27.445,
+        "end": 29.166
+      },
+      {
+        "text": "Millionen",
+        "start": 29.206,
+        "end": 29.386
+      },
+      {
+        "text": "und",
+        "start": 29.406,
+        "end": 29.547
+      },
+      {
+        "text": "Riesen.",
+        "start": 29.607,
+        "end": 29.747
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Hey, Pochita.",
+    "start": 36.066,
+    "end": 37.188,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 36.066,
+        "end": 36.267
+      },
+      {
+        "text": "Pochita.",
+        "start": 36.307,
+        "end": 37.188
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ganz ruhig, keine Sorge.",
+    "start": 37.208,
+    "end": 38.829,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 37.208,
+        "end": 37.388
+      },
+      {
+        "text": "ruhig,",
+        "start": 37.448,
+        "end": 37.728
+      },
+      {
+        "text": "keine",
+        "start": 37.748,
+        "end": 37.969
+      },
+      {
+        "text": "Sorge.",
+        "start": 37.989,
+        "end": 38.829
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wir moxen ihn gleich ab, okay?",
+    "start": 38.85,
+    "end": 41.573,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 38.85,
+        "end": 39.01
+      },
+      {
+        "text": "moxen",
+        "start": 39.03,
+        "end": 39.31
+      },
+      {
+        "text": "ihn",
+        "start": 39.35,
+        "end": 39.45
+      },
+      {
+        "text": "gleich",
+        "start": 39.47,
+        "end": 39.69
+      },
+      {
+        "text": "ab,",
+        "start": 39.731,
+        "end": 39.851
+      },
+      {
+        "text": "okay?",
+        "start": 39.911,
+        "end": 41.573
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Für einen getöteten Teufel gibt's durchschnittlich 300 Riesen.",
+    "start": 41.613,
+    "end": 49.782,
+    "words": [
+      {
+        "text": "Für",
+        "start": 41.613,
+        "end": 41.793
+      },
+      {
+        "text": "einen",
+        "start": 41.813,
+        "end": 42.033
+      },
+      {
+        "text": "getöteten",
+        "start": 42.073,
+        "end": 42.674
+      },
+      {
+        "text": "Teufel",
+        "start": 42.734,
+        "end": 44.016
+      },
+      {
+        "text": "gibt's",
+        "start": 44.056,
+        "end": 44.316
+      },
+      {
+        "text": "durchschnittlich",
+        "start": 44.356,
+        "end": 44.997
+      },
+      {
+        "text": "Riesen.",
+        "start": 45.097,
+        "end": 49.782
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Tja, als Teufelsjäger kommt wirklich am meisten rum.",
+    "start": 49.802,
+    "end": 52.545,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 49.802,
+        "end": 50.203
+      },
+      {
+        "text": "als",
+        "start": 50.243,
+        "end": 50.443
+      },
+      {
+        "text": "Teufelsjäger",
+        "start": 50.483,
+        "end": 51.244
+      },
+      {
+        "text": "kommt",
+        "start": 51.264,
+        "end": 51.504
+      },
+      {
+        "text": "wirklich",
+        "start": 51.524,
+        "end": 51.845
+      },
+      {
+        "text": "am",
+        "start": 51.885,
+        "end": 52.025
+      },
+      {
+        "text": "meisten",
+        "start": 52.065,
+        "end": 52.385
+      },
+      {
+        "text": "rum.",
+        "start": 52.445,
+        "end": 52.545
+      }
+    ]
+  }
+]

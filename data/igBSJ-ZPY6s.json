@@ -1,0 +1,1625 @@
+[
+  {
+    "id": 0,
+    "text": " Wir müssen einen Weg finden, dich möglichst gut zu verbergen, solange wir in der Stadt sind.",
+    "start": 0.251,
+    "end": 3.413,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 0.251,
+        "end": 0.331
+      },
+      {
+        "text": "müssen",
+        "start": 0.351,
+        "end": 0.571
+      },
+      {
+        "text": "einen",
+        "start": 0.611,
+        "end": 0.731
+      },
+      {
+        "text": "Weg",
+        "start": 0.771,
+        "end": 0.891
+      },
+      {
+        "text": "finden,",
+        "start": 0.931,
+        "end": 1.132
+      },
+      {
+        "text": "dich",
+        "start": 1.172,
+        "end": 1.332
+      },
+      {
+        "text": "möglichst",
+        "start": 1.352,
+        "end": 1.632
+      },
+      {
+        "text": "gut",
+        "start": 1.652,
+        "end": 1.792
+      },
+      {
+        "text": "zu",
+        "start": 1.812,
+        "end": 1.892
+      },
+      {
+        "text": "verbergen,",
+        "start": 1.912,
+        "end": 2.272
+      },
+      {
+        "text": "solange",
+        "start": 2.312,
+        "end": 2.632
+      },
+      {
+        "text": "wir",
+        "start": 2.652,
+        "end": 2.792
+      },
+      {
+        "text": "in",
+        "start": 2.813,
+        "end": 2.873
+      },
+      {
+        "text": "der",
+        "start": 2.893,
+        "end": 2.993
+      },
+      {
+        "text": "Stadt",
+        "start": 3.013,
+        "end": 3.213
+      },
+      {
+        "text": "sind.",
+        "start": 3.253,
+        "end": 3.413
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sonst gibt es wieder so ein Theater wie in Sekunde.",
+    "start": 3.673,
+    "end": 5.694,
+    "words": [
+      {
+        "text": "Sonst",
+        "start": 3.673,
+        "end": 3.873
+      },
+      {
+        "text": "gibt",
+        "start": 3.893,
+        "end": 4.013
+      },
+      {
+        "text": "es",
+        "start": 4.053,
+        "end": 4.173
+      },
+      {
+        "text": "wieder",
+        "start": 4.213,
+        "end": 4.373
+      },
+      {
+        "text": "so",
+        "start": 4.393,
+        "end": 4.513
+      },
+      {
+        "text": "ein",
+        "start": 4.553,
+        "end": 4.633
+      },
+      {
+        "text": "Theater",
+        "start": 4.654,
+        "end": 4.994
+      },
+      {
+        "text": "wie",
+        "start": 5.034,
+        "end": 5.114
+      },
+      {
+        "text": "in",
+        "start": 5.154,
+        "end": 5.254
+      },
+      {
+        "text": "Sekunde.",
+        "start": 5.274,
+        "end": 5.694
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Und diesmal lassen sie vielleicht nicht so schnell locker.",
+    "start": 5.734,
+    "end": 8.556,
+    "words": [
+      {
+        "text": "Und",
+        "start": 5.734,
+        "end": 5.914
+      },
+      {
+        "text": "diesmal",
+        "start": 5.934,
+        "end": 6.214
+      },
+      {
+        "text": "lassen",
+        "start": 6.234,
+        "end": 6.454
+      },
+      {
+        "text": "sie",
+        "start": 6.474,
+        "end": 6.555
+      },
+      {
+        "text": "vielleicht",
+        "start": 6.575,
+        "end": 6.835
+      },
+      {
+        "text": "nicht",
+        "start": 6.875,
+        "end": 6.975
+      },
+      {
+        "text": "so",
+        "start": 6.995,
+        "end": 7.075
+      },
+      {
+        "text": "schnell",
+        "start": 7.115,
+        "end": 7.295
+      },
+      {
+        "text": "locker.",
+        "start": 7.315,
+        "end": 8.556
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wenn du meinst, ich soll mich verstecken, werde ich es nach langem mal wieder einsetzen.",
+    "start": 8.616,
+    "end": 13.278,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 8.616,
+        "end": 8.796
+      },
+      {
+        "text": "du",
+        "start": 8.816,
+        "end": 8.936
+      },
+      {
+        "text": "meinst,",
+        "start": 8.956,
+        "end": 9.156
+      },
+      {
+        "text": "ich",
+        "start": 9.176,
+        "end": 9.276
+      },
+      {
+        "text": "soll",
+        "start": 9.316,
+        "end": 9.456
+      },
+      {
+        "text": "mich",
+        "start": 9.476,
+        "end": 9.616
+      },
+      {
+        "text": "verstecken,",
+        "start": 9.636,
+        "end": 10.557
+      },
+      {
+        "text": "werde",
+        "start": 10.597,
+        "end": 10.797
+      },
+      {
+        "text": "ich",
+        "start": 10.817,
+        "end": 10.917
+      },
+      {
+        "text": "es",
+        "start": 10.957,
+        "end": 11.057
+      },
+      {
+        "text": "nach",
+        "start": 11.077,
+        "end": 11.197
+      },
+      {
+        "text": "langem",
+        "start": 11.237,
+        "end": 11.557
+      },
+      {
+        "text": "mal",
+        "start": 11.577,
+        "end": 11.697
+      },
+      {
+        "text": "wieder",
+        "start": 11.717,
+        "end": 11.997
+      },
+      {
+        "text": "einsetzen.",
+        "start": 12.038,
+        "end": 13.278
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Was denn?",
+    "start": 13.338,
+    "end": 19.161,
+    "words": [
+      {
+        "text": "Was",
+        "start": 13.338,
+        "end": 13.558
+      },
+      {
+        "text": "denn?",
+        "start": 13.578,
+        "end": 19.161
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Diese Technik ist ein wohlgehütetes Geheimnis der Killerkaninchen.",
+    "start": 19.221,
+    "end": 22.823,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 19.221,
+        "end": 19.522
+      },
+      {
+        "text": "Technik",
+        "start": 19.562,
+        "end": 19.842
+      },
+      {
+        "text": "ist",
+        "start": 19.882,
+        "end": 19.962
+      },
+      {
+        "text": "ein",
+        "start": 20.022,
+        "end": 20.142
+      },
+      {
+        "text": "wohlgehütetes",
+        "start": 20.162,
+        "end": 20.902
+      },
+      {
+        "text": "Geheimnis",
+        "start": 20.942,
+        "end": 21.343
+      },
+      {
+        "text": "der",
+        "start": 21.383,
+        "end": 21.503
+      },
+      {
+        "text": "Killerkaninchen.",
+        "start": 21.543,
+        "end": 22.823
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Was ich dir nun zeigen werde, musst du also unbedingt für dich behalten, okay?",
+    "start": 22.863,
+    "end": 26.545,
+    "words": [
+      {
+        "text": "Was",
+        "start": 22.863,
+        "end": 23.003
+      },
+      {
+        "text": "ich",
+        "start": 23.043,
+        "end": 23.144
+      },
+      {
+        "text": "dir",
+        "start": 23.164,
+        "end": 23.264
+      },
+      {
+        "text": "nun",
+        "start": 23.304,
+        "end": 23.484
+      },
+      {
+        "text": "zeigen",
+        "start": 23.524,
+        "end": 23.764
+      },
+      {
+        "text": "werde,",
+        "start": 23.804,
+        "end": 24.044
+      },
+      {
+        "text": "musst",
+        "start": 24.104,
+        "end": 24.224
+      },
+      {
+        "text": "du",
+        "start": 24.244,
+        "end": 24.344
+      },
+      {
+        "text": "also",
+        "start": 24.364,
+        "end": 24.584
+      },
+      {
+        "text": "unbedingt",
+        "start": 24.644,
+        "end": 25.065
+      },
+      {
+        "text": "für",
+        "start": 25.105,
+        "end": 25.185
+      },
+      {
+        "text": "dich",
+        "start": 25.205,
+        "end": 25.385
+      },
+      {
+        "text": "behalten,",
+        "start": 25.425,
+        "end": 25.805
+      },
+      {
+        "text": "okay?",
+        "start": 25.865,
+        "end": 26.545
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Okay.",
+    "start": 26.665,
+    "end": 27.086,
+    "words": [
+      {
+        "text": "Okay.",
+        "start": 26.665,
+        "end": 27.086
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Metamorphose, los!",
+    "start": 29.151,
+    "end": 40.999,
+    "words": [
+      {
+        "text": "Metamorphose,",
+        "start": 29.151,
+        "end": 40.338
+      },
+      {
+        "text": "los!",
+        "start": 40.639,
+        "end": 40.999
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Na, hab ich dich überrascht?",
+    "start": 41.319,
+    "end": 43.58,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 41.319,
+        "end": 42.18
+      },
+      {
+        "text": "hab",
+        "start": 42.22,
+        "end": 42.34
+      },
+      {
+        "text": "ich",
+        "start": 42.38,
+        "end": 42.48
+      },
+      {
+        "text": "dich",
+        "start": 42.5,
+        "end": 42.66
+      },
+      {
+        "text": "überrascht?",
+        "start": 42.72,
+        "end": 43.58
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "So kann ich mich unter die Menschen mischen, ohne auch nur den leisesten Verdacht zu erregen.",
+    "start": 43.66,
+    "end": 47.323,
+    "words": [
+      {
+        "text": "So",
+        "start": 43.66,
+        "end": 43.841
+      },
+      {
+        "text": "kann",
+        "start": 43.861,
+        "end": 44.021
+      },
+      {
+        "text": "ich",
+        "start": 44.061,
+        "end": 44.161
+      },
+      {
+        "text": "mich",
+        "start": 44.181,
+        "end": 44.321
+      },
+      {
+        "text": "unter",
+        "start": 44.361,
+        "end": 44.561
+      },
+      {
+        "text": "die",
+        "start": 44.581,
+        "end": 44.681
+      },
+      {
+        "text": "Menschen",
+        "start": 44.701,
+        "end": 45.001
+      },
+      {
+        "text": "mischen,",
+        "start": 45.041,
+        "end": 45.301
+      },
+      {
+        "text": "ohne",
+        "start": 45.342,
+        "end": 45.422
+      },
+      {
+        "text": "auch",
+        "start": 45.462,
+        "end": 45.622
+      },
+      {
+        "text": "nur",
+        "start": 45.642,
+        "end": 45.762
+      },
+      {
+        "text": "den",
+        "start": 45.782,
+        "end": 45.902
+      },
+      {
+        "text": "leisesten",
+        "start": 45.942,
+        "end": 46.362
+      },
+      {
+        "text": "Verdacht",
+        "start": 46.382,
+        "end": 46.802
+      },
+      {
+        "text": "zu",
+        "start": 46.822,
+        "end": 46.902
+      },
+      {
+        "text": "erregen.",
+        "start": 46.963,
+        "end": 47.323
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Na super.",
+    "start": 50.2,
+    "end": 51.401,
+    "words": [
+      {
+        "text": "Na",
+        "start": 50.2,
+        "end": 50.28
+      },
+      {
+        "text": "super.",
+        "start": 50.3,
+        "end": 51.401
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich dachte, ich spiele hier das weltweit anerkannte japanische Meisterwerk, das mit dem Slogan Erschließe die Welt, genieße die Welt für sich wirbt, das Full-Dive-VR-Game Shangri-La Frontier.",
+    "start": 51.461,
+    "end": 62.668,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 51.461,
+        "end": 51.561
+      },
+      {
+        "text": "dachte,",
+        "start": 51.621,
+        "end": 51.941
+      },
+      {
+        "text": "ich",
+        "start": 51.981,
+        "end": 52.081
+      },
+      {
+        "text": "spiele",
+        "start": 52.121,
+        "end": 52.441
+      },
+      {
+        "text": "hier",
+        "start": 52.482,
+        "end": 52.602
+      },
+      {
+        "text": "das",
+        "start": 52.642,
+        "end": 52.842
+      },
+      {
+        "text": "weltweit",
+        "start": 52.862,
+        "end": 53.402
+      },
+      {
+        "text": "anerkannte",
+        "start": 53.422,
+        "end": 54.083
+      },
+      {
+        "text": "japanische",
+        "start": 54.103,
+        "end": 54.843
+      },
+      {
+        "text": "Meisterwerk,",
+        "start": 54.863,
+        "end": 55.804
+      },
+      {
+        "text": "das",
+        "start": 55.824,
+        "end": 56.004
+      },
+      {
+        "text": "mit",
+        "start": 56.044,
+        "end": 56.144
+      },
+      {
+        "text": "dem",
+        "start": 56.164,
+        "end": 56.304
+      },
+      {
+        "text": "Slogan",
+        "start": 56.364,
+        "end": 56.864
+      },
+      {
+        "text": "Erschließe",
+        "start": 56.904,
+        "end": 57.485
+      },
+      {
+        "text": "die",
+        "start": 57.505,
+        "end": 57.645
+      },
+      {
+        "text": "Welt,",
+        "start": 57.685,
+        "end": 57.945
+      },
+      {
+        "text": "genieße",
+        "start": 57.965,
+        "end": 58.445
+      },
+      {
+        "text": "die",
+        "start": 58.485,
+        "end": 58.586
+      },
+      {
+        "text": "Welt",
+        "start": 58.606,
+        "end": 58.826
+      },
+      {
+        "text": "für",
+        "start": 58.866,
+        "end": 59.026
+      },
+      {
+        "text": "sich",
+        "start": 59.046,
+        "end": 59.246
+      },
+      {
+        "text": "wirbt,",
+        "start": 59.286,
+        "end": 59.746
+      },
+      {
+        "text": "das",
+        "start": 59.766,
+        "end": 60.006
+      },
+      {
+        "text": "Full-Dive-VR-Game",
+        "start": 60.066,
+        "end": 61.387
+      },
+      {
+        "text": "Shangri-La",
+        "start": 61.427,
+        "end": 62.048
+      },
+      {
+        "text": "Frontier.",
+        "start": 62.068,
+        "end": 62.668
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ist alles okay?",
+    "start": 62.728,
+    "end": 63.529,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 62.728,
+        "end": 62.928
+      },
+      {
+        "text": "alles",
+        "start": 63.008,
+        "end": 63.229
+      },
+      {
+        "text": "okay?",
+        "start": 63.269,
+        "end": 63.529
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Und ich dachte, das wäre... Was ist denn mit dir?",
+    "start": 64.625,
+    "end": 67.407,
+    "words": [
+      {
+        "text": "Und",
+        "start": 64.625,
+        "end": 64.765
+      },
+      {
+        "text": "ich",
+        "start": 64.825,
+        "end": 64.925
+      },
+      {
+        "text": "dachte,",
+        "start": 64.965,
+        "end": 65.246
+      },
+      {
+        "text": "das",
+        "start": 65.286,
+        "end": 65.466
+      },
+      {
+        "text": "wäre...",
+        "start": 65.486,
+        "end": 66.146
+      },
+      {
+        "text": "Was",
+        "start": 66.166,
+        "end": 66.346
+      },
+      {
+        "text": "ist",
+        "start": 66.406,
+        "end": 66.546
+      },
+      {
+        "text": "denn",
+        "start": 66.586,
+        "end": 66.766
+      },
+      {
+        "text": "mit",
+        "start": 66.786,
+        "end": 66.967
+      },
+      {
+        "text": "dir?",
+        "start": 67.007,
+        "end": 67.407
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "...ein Loot-basiertes Action-RPG.",
+    "start": 67.447,
+    "end": 69.908,
+    "words": [
+      {
+        "text": "...ein",
+        "start": 67.447,
+        "end": 67.607
+      },
+      {
+        "text": "Loot-basiertes",
+        "start": 67.667,
+        "end": 68.568
+      },
+      {
+        "text": "Action-RPG.",
+        "start": 68.648,
+        "end": 69.908
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Hallo, Sanraku!",
+    "start": 69.968,
+    "end": 71.309,
+    "words": [
+      {
+        "text": "Hallo,",
+        "start": 69.968,
+        "end": 70.589
+      },
+      {
+        "text": "Sanraku!",
+        "start": 70.629,
+        "end": 71.309
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Jemand zu Hause?",
+    "start": 71.349,
+    "end": 72.77,
+    "words": [
+      {
+        "text": "Jemand",
+        "start": 71.349,
+        "end": 71.689
+      },
+      {
+        "text": "zu",
+        "start": 71.729,
+        "end": 71.83
+      },
+      {
+        "text": "Hause?",
+        "start": 71.87,
+        "end": 72.77
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Warum ignorierst du mich?",
+    "start": 72.81,
+    "end": 73.991,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 72.81,
+        "end": 73.09
+      },
+      {
+        "text": "ignorierst",
+        "start": 73.13,
+        "end": 73.591
+      },
+      {
+        "text": "du",
+        "start": 73.631,
+        "end": 73.731
+      },
+      {
+        "text": "mich?",
+        "start": 73.751,
+        "end": 73.991
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Hast du dir einen Sonnenstich geholt?",
+    "start": 74.011,
+    "end": 75.612,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 74.011,
+        "end": 74.171
+      },
+      {
+        "text": "du",
+        "start": 74.191,
+        "end": 74.311
+      },
+      {
+        "text": "dir",
+        "start": 74.331,
+        "end": 74.411
+      },
+      {
+        "text": "einen",
+        "start": 74.451,
+        "end": 74.591
+      },
+      {
+        "text": "Sonnenstich",
+        "start": 74.611,
+        "end": 75.112
+      },
+      {
+        "text": "geholt?",
+        "start": 75.152,
+        "end": 75.612
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Wollen wir uns in den Schatzen setzen, bis es dir wieder besser geht?",
+    "start": 75.632,
+    "end": 78.273,
+    "words": [
+      {
+        "text": "Wollen",
+        "start": 75.632,
+        "end": 75.792
+      },
+      {
+        "text": "wir",
+        "start": 75.832,
+        "end": 75.892
+      },
+      {
+        "text": "uns",
+        "start": 75.912,
+        "end": 75.972
+      },
+      {
+        "text": "in",
+        "start": 75.992,
+        "end": 76.092
+      },
+      {
+        "text": "den",
+        "start": 76.112,
+        "end": 76.172
+      },
+      {
+        "text": "Schatzen",
+        "start": 76.212,
+        "end": 76.492
+      },
+      {
+        "text": "setzen,",
+        "start": 76.532,
+        "end": 76.773
+      },
+      {
+        "text": "bis",
+        "start": 76.793,
+        "end": 76.893
+      },
+      {
+        "text": "es",
+        "start": 76.933,
+        "end": 77.013
+      },
+      {
+        "text": "dir",
+        "start": 77.033,
+        "end": 77.133
+      },
+      {
+        "text": "wieder",
+        "start": 77.153,
+        "end": 77.333
+      },
+      {
+        "text": "besser",
+        "start": 77.373,
+        "end": 77.693
+      },
+      {
+        "text": "geht?",
+        "start": 77.733,
+        "end": 78.273
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Wo kommt diese Bunny-Girl-Haare-im-Gatscher-Game-Scheiße auf einmal her?",
+    "start": 78.293,
+    "end": 83.016,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 78.293,
+        "end": 78.434
+      },
+      {
+        "text": "kommt",
+        "start": 78.454,
+        "end": 78.674
+      },
+      {
+        "text": "diese",
+        "start": 78.714,
+        "end": 78.954
+      },
+      {
+        "text": "Bunny-Girl-Haare-im-Gatscher-Game-Scheiße",
+        "start": 78.994,
+        "end": 80.695
+      },
+      {
+        "text": "auf",
+        "start": 80.735,
+        "end": 80.855
+      },
+      {
+        "text": "einmal",
+        "start": 80.895,
+        "end": 81.135
+      },
+      {
+        "text": "her?",
+        "start": 81.155,
+        "end": 83.016
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Das reicht erst mal.",
+    "start": 87.579,
+    "end": 88.32,
+    "words": [
+      {
+        "text": "Das",
+        "start": 87.579,
+        "end": 87.859
+      },
+      {
+        "text": "reicht",
+        "start": 87.879,
+        "end": 88.039
+      },
+      {
+        "text": "erst",
+        "start": 88.079,
+        "end": 88.199
+      },
+      {
+        "text": "mal.",
+        "start": 88.219,
+        "end": 88.32
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Diese Form zu halten, kostet mich viel Energie.",
+    "start": 90.753,
+    "end": 92.494,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 90.753,
+        "end": 90.933
+      },
+      {
+        "text": "Form",
+        "start": 90.953,
+        "end": 91.133
+      },
+      {
+        "text": "zu",
+        "start": 91.153,
+        "end": 91.233
+      },
+      {
+        "text": "halten,",
+        "start": 91.253,
+        "end": 91.453
+      },
+      {
+        "text": "kostet",
+        "start": 91.493,
+        "end": 91.794
+      },
+      {
+        "text": "mich",
+        "start": 91.834,
+        "end": 91.974
+      },
+      {
+        "text": "viel",
+        "start": 92.014,
+        "end": 92.214
+      },
+      {
+        "text": "Energie.",
+        "start": 92.254,
+        "end": 92.494
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ich verwandle mich wieder, wenn wir die Stadt erreichen.",
+    "start": 92.554,
+    "end": 95.135,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 92.554,
+        "end": 92.654
+      },
+      {
+        "text": "verwandle",
+        "start": 92.714,
+        "end": 93.134
+      },
+      {
+        "text": "mich",
+        "start": 93.174,
+        "end": 93.314
+      },
+      {
+        "text": "wieder,",
+        "start": 93.334,
+        "end": 93.514
+      },
+      {
+        "text": "wenn",
+        "start": 93.534,
+        "end": 93.654
+      },
+      {
+        "text": "wir",
+        "start": 93.674,
+        "end": 93.794
+      },
+      {
+        "text": "die",
+        "start": 93.814,
+        "end": 93.914
+      },
+      {
+        "text": "Stadt",
+        "start": 93.934,
+        "end": 94.175
+      },
+      {
+        "text": "erreichen.",
+        "start": 94.215,
+        "end": 95.135
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Momentan sind vier bis fünf Minuten mein Limit.",
+    "start": 95.175,
+    "end": 97.236,
+    "words": [
+      {
+        "text": "Momentan",
+        "start": 95.175,
+        "end": 95.595
+      },
+      {
+        "text": "sind",
+        "start": 95.615,
+        "end": 95.775
+      },
+      {
+        "text": "vier",
+        "start": 95.795,
+        "end": 95.915
+      },
+      {
+        "text": "bis",
+        "start": 95.955,
+        "end": 96.115
+      },
+      {
+        "text": "fünf",
+        "start": 96.155,
+        "end": 96.335
+      },
+      {
+        "text": "Minuten",
+        "start": 96.355,
+        "end": 96.676
+      },
+      {
+        "text": "mein",
+        "start": 96.716,
+        "end": 96.876
+      },
+      {
+        "text": "Limit.",
+        "start": 96.916,
+        "end": 97.236
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Mehr ist leider nicht drin.",
+    "start": 97.276,
+    "end": 99.117,
+    "words": [
+      {
+        "text": "Mehr",
+        "start": 97.276,
+        "end": 97.396
+      },
+      {
+        "text": "ist",
+        "start": 97.436,
+        "end": 97.556
+      },
+      {
+        "text": "leider",
+        "start": 97.596,
+        "end": 97.876
+      },
+      {
+        "text": "nicht",
+        "start": 97.896,
+        "end": 98.056
+      },
+      {
+        "text": "drin.",
+        "start": 98.116,
+        "end": 99.117
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Also gut, ich verstehe.",
+    "start": 99.157,
+    "end": 100.837,
+    "words": [
+      {
+        "text": "Also",
+        "start": 99.157,
+        "end": 99.377
+      },
+      {
+        "text": "gut,",
+        "start": 99.417,
+        "end": 99.557
+      },
+      {
+        "text": "ich",
+        "start": 99.597,
+        "end": 99.717
+      },
+      {
+        "text": "verstehe.",
+        "start": 99.757,
+        "end": 100.837
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "In der Stadt werden wir nach einem abgelegenen Ort suchen, wo du dich zurück verwandeln kannst.",
+    "start": 100.877,
+    "end": 105.119,
+    "words": [
+      {
+        "text": "In",
+        "start": 100.877,
+        "end": 100.957
+      },
+      {
+        "text": "der",
+        "start": 100.997,
+        "end": 101.097
+      },
+      {
+        "text": "Stadt",
+        "start": 101.117,
+        "end": 101.358
+      },
+      {
+        "text": "werden",
+        "start": 101.378,
+        "end": 101.578
+      },
+      {
+        "text": "wir",
+        "start": 101.598,
+        "end": 101.738
+      },
+      {
+        "text": "nach",
+        "start": 101.758,
+        "end": 101.878
+      },
+      {
+        "text": "einem",
+        "start": 101.898,
+        "end": 102.098
+      },
+      {
+        "text": "abgelegenen",
+        "start": 102.118,
+        "end": 102.718
+      },
+      {
+        "text": "Ort",
+        "start": 102.758,
+        "end": 102.878
+      },
+      {
+        "text": "suchen,",
+        "start": 102.918,
+        "end": 103.178
+      },
+      {
+        "text": "wo",
+        "start": 103.198,
+        "end": 103.278
+      },
+      {
+        "text": "du",
+        "start": 103.298,
+        "end": 103.398
+      },
+      {
+        "text": "dich",
+        "start": 103.418,
+        "end": 103.558
+      },
+      {
+        "text": "zurück",
+        "start": 103.598,
+        "end": 103.819
+      },
+      {
+        "text": "verwandeln",
+        "start": 103.839,
+        "end": 104.259
+      },
+      {
+        "text": "kannst.",
+        "start": 104.299,
+        "end": 105.119
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Aber wenn es dir darum geht, kein Aufsehen zu erregen, hast du selbst mit dieser Form ein fatales, oder besser gesagt, ein killermäßiges Detail übersehen, meine magische kleine Freundin.",
+    "start": 105.159,
+    "end": 113.963,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 105.159,
+        "end": 105.339
+      },
+      {
+        "text": "wenn",
+        "start": 105.359,
+        "end": 105.499
+      },
+      {
+        "text": "es",
+        "start": 105.539,
+        "end": 105.619
+      },
+      {
+        "text": "dir",
+        "start": 105.639,
+        "end": 105.739
+      },
+      {
+        "text": "darum",
+        "start": 105.779,
+        "end": 105.979
+      },
+      {
+        "text": "geht,",
+        "start": 105.999,
+        "end": 106.2
+      },
+      {
+        "text": "kein",
+        "start": 106.22,
+        "end": 106.38
+      },
+      {
+        "text": "Aufsehen",
+        "start": 106.42,
+        "end": 106.78
+      },
+      {
+        "text": "zu",
+        "start": 106.82,
+        "end": 106.9
+      },
+      {
+        "text": "erregen,",
+        "start": 106.96,
+        "end": 107.28
+      },
+      {
+        "text": "hast",
+        "start": 107.32,
+        "end": 107.48
+      },
+      {
+        "text": "du",
+        "start": 107.5,
+        "end": 107.62
+      },
+      {
+        "text": "selbst",
+        "start": 107.64,
+        "end": 107.88
+      },
+      {
+        "text": "mit",
+        "start": 107.9,
+        "end": 108.04
+      },
+      {
+        "text": "dieser",
+        "start": 108.08,
+        "end": 108.3
+      },
+      {
+        "text": "Form",
+        "start": 108.34,
+        "end": 108.5
+      },
+      {
+        "text": "ein",
+        "start": 108.54,
+        "end": 108.641
+      },
+      {
+        "text": "fatales,",
+        "start": 108.661,
+        "end": 109.201
+      },
+      {
+        "text": "oder",
+        "start": 109.241,
+        "end": 109.621
+      },
+      {
+        "text": "besser",
+        "start": 109.641,
+        "end": 109.901
+      },
+      {
+        "text": "gesagt,",
+        "start": 109.941,
+        "end": 110.801
+      },
+      {
+        "text": "ein",
+        "start": 110.841,
+        "end": 111.082
+      },
+      {
+        "text": "killermäßiges",
+        "start": 111.122,
+        "end": 111.782
+      },
+      {
+        "text": "Detail",
+        "start": 111.822,
+        "end": 112.182
+      },
+      {
+        "text": "übersehen,",
+        "start": 112.202,
+        "end": 112.662
+      },
+      {
+        "text": "meine",
+        "start": 112.702,
+        "end": 112.862
+      },
+      {
+        "text": "magische",
+        "start": 112.902,
+        "end": 113.282
+      },
+      {
+        "text": "kleine",
+        "start": 113.302,
+        "end": 113.563
+      },
+      {
+        "text": "Freundin.",
+        "start": 113.603,
+        "end": 113.963
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Wer mit einem halbnackten Vogelkopf abhängt, ist fast schon genauso verdächtig wie er selbst.",
+    "start": 116.079,
+    "end": 120.553,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 116.079,
+        "end": 116.24
+      },
+      {
+        "text": "mit",
+        "start": 116.26,
+        "end": 116.38
+      },
+      {
+        "text": "einem",
+        "start": 116.4,
+        "end": 116.601
+      },
+      {
+        "text": "halbnackten",
+        "start": 116.641,
+        "end": 117.223
+      },
+      {
+        "text": "Vogelkopf",
+        "start": 117.243,
+        "end": 117.784
+      },
+      {
+        "text": "abhängt,",
+        "start": 117.825,
+        "end": 118.446
+      },
+      {
+        "text": "ist",
+        "start": 118.507,
+        "end": 118.687
+      },
+      {
+        "text": "fast",
+        "start": 118.727,
+        "end": 118.908
+      },
+      {
+        "text": "schon",
+        "start": 118.928,
+        "end": 119.108
+      },
+      {
+        "text": "genauso",
+        "start": 119.149,
+        "end": 119.47
+      },
+      {
+        "text": "verdächtig",
+        "start": 119.49,
+        "end": 119.991
+      },
+      {
+        "text": "wie",
+        "start": 120.011,
+        "end": 120.111
+      },
+      {
+        "text": "er",
+        "start": 120.152,
+        "end": 120.292
+      },
+      {
+        "text": "selbst.",
+        "start": 120.332,
+        "end": 120.553
+      }
+    ]
+  }
+]

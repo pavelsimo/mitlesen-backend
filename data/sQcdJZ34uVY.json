@@ -1,0 +1,773 @@
+[
+  {
+    "id": 0,
+    "text": " Aber die ist doch höchstens vier oder fünf.",
+    "start": 0.271,
+    "end": 2.753,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 0.271,
+        "end": 0.411
+      },
+      {
+        "text": "die",
+        "start": 0.431,
+        "end": 0.511
+      },
+      {
+        "text": "ist",
+        "start": 0.531,
+        "end": 0.591
+      },
+      {
+        "text": "doch",
+        "start": 0.611,
+        "end": 0.752
+      },
+      {
+        "text": "höchstens",
+        "start": 0.792,
+        "end": 1.112
+      },
+      {
+        "text": "vier",
+        "start": 1.152,
+        "end": 1.312
+      },
+      {
+        "text": "oder",
+        "start": 1.332,
+        "end": 1.512
+      },
+      {
+        "text": "fünf.",
+        "start": 1.552,
+        "end": 2.753
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sechs!",
+    "start": 2.793,
+    "end": 4.294,
+    "words": [
+      {
+        "text": "Sechs!",
+        "start": 2.793,
+        "end": 4.294
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sechs!",
+    "start": 4.334,
+    "end": 5.115,
+    "words": [
+      {
+        "text": "Sechs!",
+        "start": 4.334,
+        "end": 5.115
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Bist du wirklich schon sechs Jahre alt?",
+    "start": 5.155,
+    "end": 7.757,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 5.155,
+        "end": 5.335
+      },
+      {
+        "text": "du",
+        "start": 5.355,
+        "end": 5.535
+      },
+      {
+        "text": "wirklich",
+        "start": 5.555,
+        "end": 5.855
+      },
+      {
+        "text": "schon",
+        "start": 5.875,
+        "end": 6.195
+      },
+      {
+        "text": "sechs",
+        "start": 6.235,
+        "end": 6.456
+      },
+      {
+        "text": "Jahre",
+        "start": 6.496,
+        "end": 6.756
+      },
+      {
+        "text": "alt?",
+        "start": 6.836,
+        "end": 7.757
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Dafür ist sie doch viel zu klein.",
+    "start": 7.797,
+    "end": 14.381,
+    "words": [
+      {
+        "text": "Dafür",
+        "start": 7.797,
+        "end": 8.097
+      },
+      {
+        "text": "ist",
+        "start": 8.137,
+        "end": 8.297
+      },
+      {
+        "text": "sie",
+        "start": 8.337,
+        "end": 8.437
+      },
+      {
+        "text": "doch",
+        "start": 8.457,
+        "end": 8.657
+      },
+      {
+        "text": "viel",
+        "start": 8.677,
+        "end": 8.857
+      },
+      {
+        "text": "zu",
+        "start": 8.897,
+        "end": 9.037
+      },
+      {
+        "text": "klein.",
+        "start": 9.077,
+        "end": 14.381
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Eine Zeitung?",
+    "start": 14.461,
+    "end": 15.602,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 14.461,
+        "end": 14.702
+      },
+      {
+        "text": "Zeitung?",
+        "start": 14.742,
+        "end": 15.602
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ein Kreuzworträtsel.",
+    "start": 15.642,
+    "end": 17.163,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 15.642,
+        "end": 15.802
+      },
+      {
+        "text": "Kreuzworträtsel.",
+        "start": 15.842,
+        "end": 17.163
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Als ob ein Kind das lösen könnte.",
+    "start": 17.223,
+    "end": 20.606,
+    "words": [
+      {
+        "text": "Als",
+        "start": 17.223,
+        "end": 17.323
+      },
+      {
+        "text": "ob",
+        "start": 17.383,
+        "end": 17.484
+      },
+      {
+        "text": "ein",
+        "start": 17.524,
+        "end": 17.644
+      },
+      {
+        "text": "Kind",
+        "start": 17.684,
+        "end": 17.884
+      },
+      {
+        "text": "das",
+        "start": 17.904,
+        "end": 18.084
+      },
+      {
+        "text": "lösen",
+        "start": 18.124,
+        "end": 18.364
+      },
+      {
+        "text": "könnte.",
+        "start": 18.384,
+        "end": 20.606
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Für mich hingegen ist das ein Kinderspiel.",
+    "start": 20.646,
+    "end": 23.548,
+    "words": [
+      {
+        "text": "Für",
+        "start": 20.646,
+        "end": 20.766
+      },
+      {
+        "text": "mich",
+        "start": 20.806,
+        "end": 20.926
+      },
+      {
+        "text": "hingegen",
+        "start": 20.966,
+        "end": 21.386
+      },
+      {
+        "text": "ist",
+        "start": 21.426,
+        "end": 21.526
+      },
+      {
+        "text": "das",
+        "start": 21.566,
+        "end": 21.707
+      },
+      {
+        "text": "ein",
+        "start": 21.747,
+        "end": 21.887
+      },
+      {
+        "text": "Kinderspiel.",
+        "start": 21.907,
+        "end": 23.548
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Senkrecht eins ist Homöostase.",
+    "start": 23.588,
+    "end": 25.589,
+    "words": [
+      {
+        "text": "Senkrecht",
+        "start": 23.588,
+        "end": 24.008
+      },
+      {
+        "text": "eins",
+        "start": 24.068,
+        "end": 24.268
+      },
+      {
+        "text": "ist",
+        "start": 24.308,
+        "end": 24.408
+      },
+      {
+        "text": "Homöostase.",
+        "start": 24.429,
+        "end": 25.589
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Lagerecht eins Kausalität.",
+    "start": 25.629,
+    "end": 27.411,
+    "words": [
+      {
+        "text": "Lagerecht",
+        "start": 25.629,
+        "end": 26.13
+      },
+      {
+        "text": "eins",
+        "start": 26.19,
+        "end": 26.41
+      },
+      {
+        "text": "Kausalität.",
+        "start": 26.45,
+        "end": 27.411
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Darunter Symplektomorphismus.",
+    "start": 27.431,
+    "end": 29.092,
+    "words": [
+      {
+        "text": "Darunter",
+        "start": 27.431,
+        "end": 28.031
+      },
+      {
+        "text": "Symplektomorphismus.",
+        "start": 28.071,
+        "end": 29.092
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Alles richtig.",
+    "start": 34.5,
+    "end": 35.421,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 34.5,
+        "end": 34.84
+      },
+      {
+        "text": "richtig.",
+        "start": 34.881,
+        "end": 35.421
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ernsthaft?",
+    "start": 35.481,
+    "end": 36.361,
+    "words": [
+      {
+        "text": "Ernsthaft?",
+        "start": 35.481,
+        "end": 36.361
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Was für ein kluges Kind.",
+    "start": 36.401,
+    "end": 38.002,
+    "words": [
+      {
+        "text": "Was",
+        "start": 36.401,
+        "end": 36.501
+      },
+      {
+        "text": "für",
+        "start": 36.521,
+        "end": 36.621
+      },
+      {
+        "text": "ein",
+        "start": 36.661,
+        "end": 36.781
+      },
+      {
+        "text": "kluges",
+        "start": 36.821,
+        "end": 37.241
+      },
+      {
+        "text": "Kind.",
+        "start": 37.281,
+        "end": 38.002
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Somit sollte die Aufnahmeprüfung für Sie ein Klack sein.",
+    "start": 38.022,
+    "end": 41.143,
+    "words": [
+      {
+        "text": "Somit",
+        "start": 38.022,
+        "end": 38.322
+      },
+      {
+        "text": "sollte",
+        "start": 38.362,
+        "end": 38.642
+      },
+      {
+        "text": "die",
+        "start": 38.662,
+        "end": 38.762
+      },
+      {
+        "text": "Aufnahmeprüfung",
+        "start": 38.802,
+        "end": 39.542
+      },
+      {
+        "text": "für",
+        "start": 39.562,
+        "end": 39.662
+      },
+      {
+        "text": "Sie",
+        "start": 39.682,
+        "end": 39.802
+      },
+      {
+        "text": "ein",
+        "start": 39.822,
+        "end": 39.962
+      },
+      {
+        "text": "Klack",
+        "start": 39.982,
+        "end": 40.222
+      },
+      {
+        "text": "sein.",
+        "start": 40.262,
+        "end": 41.143
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Gut, ich nehme Sie mit.",
+    "start": 41.163,
+    "end": 42.683,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 41.163,
+        "end": 41.303
+      },
+      {
+        "text": "ich",
+        "start": 41.323,
+        "end": 41.423
+      },
+      {
+        "text": "nehme",
+        "start": 41.463,
+        "end": 41.703
+      },
+      {
+        "text": "Sie",
+        "start": 41.743,
+        "end": 41.843
+      },
+      {
+        "text": "mit.",
+        "start": 41.883,
+        "end": 42.683
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Was den Papierkram angeht... Nicht nötig.",
+    "start": 42.723,
+    "end": 45.024,
+    "words": [
+      {
+        "text": "Was",
+        "start": 42.723,
+        "end": 42.843
+      },
+      {
+        "text": "den",
+        "start": 42.883,
+        "end": 43.023
+      },
+      {
+        "text": "Papierkram",
+        "start": 43.043,
+        "end": 43.504
+      },
+      {
+        "text": "angeht...",
+        "start": 43.544,
+        "end": 43.804
+      },
+      {
+        "text": "Nicht",
+        "start": 43.984,
+        "end": 44.224
+      },
+      {
+        "text": "nötig.",
+        "start": 44.324,
+        "end": 45.024
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Nehmen Sie die Kleine und gehen Sie.",
+    "start": 45.084,
+    "end": 46.885,
+    "words": [
+      {
+        "text": "Nehmen",
+        "start": 45.084,
+        "end": 45.304
+      },
+      {
+        "text": "Sie",
+        "start": 45.324,
+        "end": 45.444
+      },
+      {
+        "text": "die",
+        "start": 45.464,
+        "end": 45.544
+      },
+      {
+        "text": "Kleine",
+        "start": 45.584,
+        "end": 45.864
+      },
+      {
+        "text": "und",
+        "start": 45.904,
+        "end": 46.065
+      },
+      {
+        "text": "gehen",
+        "start": 46.085,
+        "end": 46.405
+      },
+      {
+        "text": "Sie.",
+        "start": 46.425,
+        "end": 46.885
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Und schon habe ich ein Kind.",
+    "start": 46.925,
+    "end": 48.505,
+    "words": [
+      {
+        "text": "Und",
+        "start": 46.925,
+        "end": 47.085
+      },
+      {
+        "text": "schon",
+        "start": 47.105,
+        "end": 47.325
+      },
+      {
+        "text": "habe",
+        "start": 47.345,
+        "end": 47.485
+      },
+      {
+        "text": "ich",
+        "start": 47.505,
+        "end": 47.585
+      },
+      {
+        "text": "ein",
+        "start": 47.605,
+        "end": 47.725
+      },
+      {
+        "text": "Kind.",
+        "start": 47.765,
+        "end": 48.505
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Irgendwie unheimlich, wie einfach das war.",
+    "start": 48.565,
+    "end": 50.606,
+    "words": [
+      {
+        "text": "Irgendwie",
+        "start": 48.565,
+        "end": 48.886
+      },
+      {
+        "text": "unheimlich,",
+        "start": 48.926,
+        "end": 49.366
+      },
+      {
+        "text": "wie",
+        "start": 49.406,
+        "end": 49.526
+      },
+      {
+        "text": "einfach",
+        "start": 49.546,
+        "end": 49.786
+      },
+      {
+        "text": "das",
+        "start": 49.806,
+        "end": 49.946
+      },
+      {
+        "text": "war.",
+        "start": 49.986,
+        "end": 50.606
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Und?",
+    "start": 50.666,
+    "end": 50.886,
+    "words": [
+      {
+        "text": "Und?",
+        "start": 50.666,
+        "end": 50.886
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Bist du damit einverstanden?",
+    "start": 50.906,
+    "end": 52.047,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 50.906,
+        "end": 51.086
+      },
+      {
+        "text": "du",
+        "start": 51.106,
+        "end": 51.186
+      },
+      {
+        "text": "damit",
+        "start": 51.206,
+        "end": 51.466
+      },
+      {
+        "text": "einverstanden?",
+        "start": 51.486,
+        "end": 52.047
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Spion?",
+    "start": 52.087,
+    "end": 52.927,
+    "words": [
+      {
+        "text": "Spion?",
+        "start": 52.087,
+        "end": 52.927
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Mission?",
+    "start": 52.967,
+    "end": 54.147,
+    "words": [
+      {
+        "text": "Mission?",
+        "start": 52.967,
+        "end": 54.147
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Spannend!",
+    "start": 54.808,
+    "end": 56.348,
+    "words": [
+      {
+        "text": "Spannend!",
+        "start": 54.808,
+        "end": 56.348
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Dieses Mädchen besitzt übersinnliche Kräfte.",
+    "start": 56.388,
+    "end": 58.249,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 56.388,
+        "end": 56.668
+      },
+      {
+        "text": "Mädchen",
+        "start": 56.688,
+        "end": 56.968
+      },
+      {
+        "text": "besitzt",
+        "start": 57.008,
+        "end": 57.389
+      },
+      {
+        "text": "übersinnliche",
+        "start": 57.409,
+        "end": 58.009
+      },
+      {
+        "text": "Kräfte.",
+        "start": 58.029,
+        "end": 58.249
+      }
+    ]
+  }
+]

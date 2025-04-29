@@ -7,6 +7,7 @@ from typing import Dict, List, Any, Optional, Union, Tuple
 from dotenv import load_dotenv
 from ai import CompletionClient
 from db import MitLesenDatabase
+from mitlesen.logger import logger
 
 load_dotenv()
 
@@ -130,7 +131,7 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 
                 # Create batch prompt
                 sentences_json = json.dumps(batch_sentences, ensure_ascii=False)
-                print(f"About to process batch {batch_number} with {word_count} words (sentences {batch_start_idx} to {batch_end_idx})")
+                logger.debug(f"About to process batch {batch_number} with {word_count} words (sentences {batch_start_idx} to {batch_end_idx})")
                 prompt = f"""
                       You will be given multiple sentences in JSON format to translate.
                       
@@ -194,7 +195,7 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 while retry_count < MAX_RETRIES and not success:
                     try:
                         completion = client.complete(prompt)
-                        print(completion)
+                        logger.info(completion)
                         processed_batch: List[Dict[str, Any]] = json.loads(completion)
                         
                         # Update the original transcript with processed data
@@ -211,20 +212,20 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                                     # Merge the processed word info with original word data
                                     transcript[original_idx]["words"][j] = proc_word | orig_word
                         
-                        print(f"Processed batch {batch_number} (sentences {batch_start_idx} to {batch_end_idx}, {word_count} words)")
+                        logger.info(f"Processed batch {batch_number} (sentences {batch_start_idx} to {batch_end_idx}, {word_count} words)")
                         success = True
                         batch_number += 1
                         
                     except Exception as err:
                         retry_count += 1
-                        print(f"❌ Error processing batch with sentences {batch_start_idx}-{batch_end_idx}: {err}")
+                        logger.info(f"❌ Error processing batch with sentences {batch_start_idx}-{batch_end_idx}: {err}")
                         
                         if retry_count < MAX_RETRIES:
                             delay = get_retry_delay(retry_count)
-                            print(f"Waiting {delay} seconds before retry {retry_count}/{MAX_RETRIES}...")
+                            logger.info(f"Waiting {delay} seconds before retry {retry_count}/{MAX_RETRIES}...")
                             time.sleep(delay)
                         else:
-                            print(f"Failed to process batch after {MAX_RETRIES} retries. Moving to next batch.")
+                            logger.info(f"Failed to process batch after {MAX_RETRIES} retries. Moving to next batch.")
                             batch_number += 1
                 
                 # Wait between batches (only if successful)
@@ -238,9 +239,9 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 transcript=json.dumps(transcript),
             )
 
-            print(f"✅ Inserted in videos table")
+            logger.info(f"✅ Inserted in videos table")
         except Exception as err:
-            print(f"❌ Error for {youtube_id}: {err}")
+            logger.info(f"❌ Error for {youtube_id}: {err}")
 
     db.close()
 

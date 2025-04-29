@@ -1,0 +1,799 @@
+[
+  {
+    "id": 0,
+    "text": " Deine Dummheit ist ansteckend, also verzieh dich!",
+    "start": 0.311,
+    "end": 4.392,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 0.311,
+        "end": 0.511
+      },
+      {
+        "text": "Dummheit",
+        "start": 0.551,
+        "end": 0.791
+      },
+      {
+        "text": "ist",
+        "start": 0.851,
+        "end": 1.011
+      },
+      {
+        "text": "ansteckend,",
+        "start": 1.051,
+        "end": 1.591
+      },
+      {
+        "text": "also",
+        "start": 1.631,
+        "end": 1.871
+      },
+      {
+        "text": "verzieh",
+        "start": 1.911,
+        "end": 2.251
+      },
+      {
+        "text": "dich!",
+        "start": 2.291,
+        "end": 4.392
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das ist der perfekte Moment für den Super-Killer-Punch!",
+    "start": 4.432,
+    "end": 7.332,
+    "words": [
+      {
+        "text": "Das",
+        "start": 4.432,
+        "end": 4.572
+      },
+      {
+        "text": "ist",
+        "start": 4.632,
+        "end": 4.732
+      },
+      {
+        "text": "der",
+        "start": 4.752,
+        "end": 4.852
+      },
+      {
+        "text": "perfekte",
+        "start": 4.892,
+        "end": 5.312
+      },
+      {
+        "text": "Moment",
+        "start": 5.332,
+        "end": 5.632
+      },
+      {
+        "text": "für",
+        "start": 5.652,
+        "end": 5.732
+      },
+      {
+        "text": "den",
+        "start": 5.772,
+        "end": 5.892
+      },
+      {
+        "text": "Super-Killer-Punch!",
+        "start": 5.912,
+        "end": 7.332
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hör zu, Anya.",
+    "start": 7.372,
+    "end": 9.653,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 7.372,
+        "end": 7.632
+      },
+      {
+        "text": "zu,",
+        "start": 7.652,
+        "end": 7.872
+      },
+      {
+        "text": "Anya.",
+        "start": 7.912,
+        "end": 9.653
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wirklich stark sind nicht die, die ihre Fäuste spielen lassen.",
+    "start": 9.673,
+    "end": 12.413,
+    "words": [
+      {
+        "text": "Wirklich",
+        "start": 9.673,
+        "end": 10.033
+      },
+      {
+        "text": "stark",
+        "start": 10.073,
+        "end": 10.333
+      },
+      {
+        "text": "sind",
+        "start": 10.353,
+        "end": 10.573
+      },
+      {
+        "text": "nicht",
+        "start": 10.593,
+        "end": 10.753
+      },
+      {
+        "text": "die,",
+        "start": 10.773,
+        "end": 10.913
+      },
+      {
+        "text": "die",
+        "start": 10.933,
+        "end": 11.033
+      },
+      {
+        "text": "ihre",
+        "start": 11.073,
+        "end": 11.233
+      },
+      {
+        "text": "Fäuste",
+        "start": 11.273,
+        "end": 11.593
+      },
+      {
+        "text": "spielen",
+        "start": 11.613,
+        "end": 11.913
+      },
+      {
+        "text": "lassen.",
+        "start": 11.953,
+        "end": 12.413
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Du darfst es also nicht überstürzen.",
+    "start": 12.453,
+    "end": 14.614,
+    "words": [
+      {
+        "text": "Du",
+        "start": 12.453,
+        "end": 12.573
+      },
+      {
+        "text": "darfst",
+        "start": 12.593,
+        "end": 12.793
+      },
+      {
+        "text": "es",
+        "start": 12.853,
+        "end": 12.973
+      },
+      {
+        "text": "also",
+        "start": 12.993,
+        "end": 13.193
+      },
+      {
+        "text": "nicht",
+        "start": 13.213,
+        "end": 13.413
+      },
+      {
+        "text": "überstürzen.",
+        "start": 13.453,
+        "end": 14.614
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wenn du nur ein bisschen geärgert wirst, tu es mit einem Lächeln ab und sei ein cooles Mädchen.",
+    "start": 14.634,
+    "end": 19.274,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 14.634,
+        "end": 14.794
+      },
+      {
+        "text": "du",
+        "start": 14.834,
+        "end": 14.934
+      },
+      {
+        "text": "nur",
+        "start": 14.974,
+        "end": 15.074
+      },
+      {
+        "text": "ein",
+        "start": 15.094,
+        "end": 15.194
+      },
+      {
+        "text": "bisschen",
+        "start": 15.214,
+        "end": 15.534
+      },
+      {
+        "text": "geärgert",
+        "start": 15.554,
+        "end": 15.994
+      },
+      {
+        "text": "wirst,",
+        "start": 16.014,
+        "end": 16.274
+      },
+      {
+        "text": "tu",
+        "start": 16.294,
+        "end": 16.394
+      },
+      {
+        "text": "es",
+        "start": 16.434,
+        "end": 16.554
+      },
+      {
+        "text": "mit",
+        "start": 16.574,
+        "end": 16.694
+      },
+      {
+        "text": "einem",
+        "start": 16.734,
+        "end": 16.914
+      },
+      {
+        "text": "Lächeln",
+        "start": 16.974,
+        "end": 17.314
+      },
+      {
+        "text": "ab",
+        "start": 17.354,
+        "end": 17.494
+      },
+      {
+        "text": "und",
+        "start": 17.514,
+        "end": 17.634
+      },
+      {
+        "text": "sei",
+        "start": 17.674,
+        "end": 17.814
+      },
+      {
+        "text": "ein",
+        "start": 17.834,
+        "end": 17.994
+      },
+      {
+        "text": "cooles",
+        "start": 18.014,
+        "end": 18.374
+      },
+      {
+        "text": "Mädchen.",
+        "start": 18.394,
+        "end": 19.274
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ein cooles Mädchen?",
+    "start": 19.334,
+    "end": 20.475,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 19.334,
+        "end": 19.514
+      },
+      {
+        "text": "cooles",
+        "start": 19.554,
+        "end": 19.874
+      },
+      {
+        "text": "Mädchen?",
+        "start": 19.894,
+        "end": 20.475
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Denk immer daran, solange du lächelst, kommt es erst gar nicht zum Streit.",
+    "start": 20.495,
+    "end": 23.635,
+    "words": [
+      {
+        "text": "Denk",
+        "start": 20.495,
+        "end": 20.735
+      },
+      {
+        "text": "immer",
+        "start": 20.775,
+        "end": 20.975
+      },
+      {
+        "text": "daran,",
+        "start": 20.995,
+        "end": 21.335
+      },
+      {
+        "text": "solange",
+        "start": 21.355,
+        "end": 21.715
+      },
+      {
+        "text": "du",
+        "start": 21.735,
+        "end": 21.835
+      },
+      {
+        "text": "lächelst,",
+        "start": 21.875,
+        "end": 22.295
+      },
+      {
+        "text": "kommt",
+        "start": 22.315,
+        "end": 22.515
+      },
+      {
+        "text": "es",
+        "start": 22.555,
+        "end": 22.675
+      },
+      {
+        "text": "erst",
+        "start": 22.695,
+        "end": 22.815
+      },
+      {
+        "text": "gar",
+        "start": 22.835,
+        "end": 22.975
+      },
+      {
+        "text": "nicht",
+        "start": 23.015,
+        "end": 23.175
+      },
+      {
+        "text": "zum",
+        "start": 23.195,
+        "end": 23.315
+      },
+      {
+        "text": "Streit.",
+        "start": 23.355,
+        "end": 23.635
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Hey, jetzt reiß dich mal zusammen, ja?",
+    "start": 24.895,
+    "end": 26.736,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 24.895,
+        "end": 25.175
+      },
+      {
+        "text": "jetzt",
+        "start": 25.195,
+        "end": 25.375
+      },
+      {
+        "text": "reiß",
+        "start": 25.415,
+        "end": 25.595
+      },
+      {
+        "text": "dich",
+        "start": 25.615,
+        "end": 25.735
+      },
+      {
+        "text": "mal",
+        "start": 25.795,
+        "end": 25.995
+      },
+      {
+        "text": "zusammen,",
+        "start": 26.015,
+        "end": 26.396
+      },
+      {
+        "text": "ja?",
+        "start": 26.436,
+        "end": 26.736
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Lass dir doch nicht alles von dem gefallen!",
+    "start": 26.776,
+    "end": 28.336,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 26.776,
+        "end": 26.916
+      },
+      {
+        "text": "dir",
+        "start": 26.936,
+        "end": 27.016
+      },
+      {
+        "text": "doch",
+        "start": 27.036,
+        "end": 27.156
+      },
+      {
+        "text": "nicht",
+        "start": 27.176,
+        "end": 27.336
+      },
+      {
+        "text": "alles",
+        "start": 27.376,
+        "end": 27.556
+      },
+      {
+        "text": "von",
+        "start": 27.596,
+        "end": 27.696
+      },
+      {
+        "text": "dem",
+        "start": 27.716,
+        "end": 27.916
+      },
+      {
+        "text": "gefallen!",
+        "start": 27.936,
+        "end": 28.336
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " So eine Kleinigkeit macht einem ja gar nichts aus.",
+    "start": 29.461,
+    "end": 37.449,
+    "words": [
+      {
+        "text": "So",
+        "start": 29.461,
+        "end": 29.621
+      },
+      {
+        "text": "eine",
+        "start": 29.761,
+        "end": 30.002
+      },
+      {
+        "text": "Kleinigkeit",
+        "start": 30.022,
+        "end": 30.522
+      },
+      {
+        "text": "macht",
+        "start": 30.542,
+        "end": 30.662
+      },
+      {
+        "text": "einem",
+        "start": 30.702,
+        "end": 30.902
+      },
+      {
+        "text": "ja",
+        "start": 30.943,
+        "end": 31.303
+      },
+      {
+        "text": "gar",
+        "start": 31.323,
+        "end": 36.148
+      },
+      {
+        "text": "nichts",
+        "start": 36.428,
+        "end": 36.729
+      },
+      {
+        "text": "aus.",
+        "start": 36.829,
+        "end": 37.449
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Was?",
+    "start": 37.469,
+    "end": 37.69,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 37.469,
+        "end": 37.69
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Macht die sich etwa über mich lustig?",
+    "start": 37.73,
+    "end": 40.372,
+    "words": [
+      {
+        "text": "Macht",
+        "start": 37.73,
+        "end": 37.93
+      },
+      {
+        "text": "die",
+        "start": 37.97,
+        "end": 38.09
+      },
+      {
+        "text": "sich",
+        "start": 38.13,
+        "end": 38.35
+      },
+      {
+        "text": "etwa",
+        "start": 38.39,
+        "end": 38.731
+      },
+      {
+        "text": "über",
+        "start": 38.771,
+        "end": 38.991
+      },
+      {
+        "text": "mich",
+        "start": 39.011,
+        "end": 39.171
+      },
+      {
+        "text": "lustig?",
+        "start": 39.351,
+        "end": 40.372
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Sie lässt sich nichts anmerken.",
+    "start": 40.412,
+    "end": 42.374,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 40.412,
+        "end": 40.573
+      },
+      {
+        "text": "lässt",
+        "start": 40.593,
+        "end": 40.833
+      },
+      {
+        "text": "sich",
+        "start": 40.873,
+        "end": 41.053
+      },
+      {
+        "text": "nichts",
+        "start": 41.093,
+        "end": 41.393
+      },
+      {
+        "text": "anmerken.",
+        "start": 41.453,
+        "end": 42.374
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wie erwachsen.",
+    "start": 42.394,
+    "end": 43.476,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 42.394,
+        "end": 42.495
+      },
+      {
+        "text": "erwachsen.",
+        "start": 42.535,
+        "end": 43.476
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich nimm's zurück, sie ist überhaupt nicht wie ein Kleinkind.",
+    "start": 43.536,
+    "end": 46.138,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 43.536,
+        "end": 43.676
+      },
+      {
+        "text": "nimm's",
+        "start": 43.696,
+        "end": 43.976
+      },
+      {
+        "text": "zurück,",
+        "start": 43.996,
+        "end": 44.216
+      },
+      {
+        "text": "sie",
+        "start": 44.236,
+        "end": 44.377
+      },
+      {
+        "text": "ist",
+        "start": 44.437,
+        "end": 44.497
+      },
+      {
+        "text": "überhaupt",
+        "start": 44.517,
+        "end": 44.857
+      },
+      {
+        "text": "nicht",
+        "start": 44.877,
+        "end": 45.017
+      },
+      {
+        "text": "wie",
+        "start": 45.037,
+        "end": 45.137
+      },
+      {
+        "text": "ein",
+        "start": 45.177,
+        "end": 45.277
+      },
+      {
+        "text": "Kleinkind.",
+        "start": 45.297,
+        "end": 46.138
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Du bist viel erwachsener als du aussiehst.",
+    "start": 46.158,
+    "end": 48.341,
+    "words": [
+      {
+        "text": "Du",
+        "start": 46.158,
+        "end": 46.319
+      },
+      {
+        "text": "bist",
+        "start": 46.339,
+        "end": 46.539
+      },
+      {
+        "text": "viel",
+        "start": 46.579,
+        "end": 46.719
+      },
+      {
+        "text": "erwachsener",
+        "start": 46.739,
+        "end": 47.239
+      },
+      {
+        "text": "als",
+        "start": 47.28,
+        "end": 47.4
+      },
+      {
+        "text": "du",
+        "start": 47.42,
+        "end": 47.58
+      },
+      {
+        "text": "aussiehst.",
+        "start": 47.64,
+        "end": 48.341
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Hätte ich nicht gedacht.",
+    "start": 48.361,
+    "end": 49.842,
+    "words": [
+      {
+        "text": "Hätte",
+        "start": 48.361,
+        "end": 48.521
+      },
+      {
+        "text": "ich",
+        "start": 48.561,
+        "end": 48.661
+      },
+      {
+        "text": "nicht",
+        "start": 48.701,
+        "end": 48.881
+      },
+      {
+        "text": "gedacht.",
+        "start": 48.941,
+        "end": 49.842
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Erwachsen?",
+    "start": 49.942,
+    "end": 50.543,
+    "words": [
+      {
+        "text": "Erwachsen?",
+        "start": 49.942,
+        "end": 50.543
+      }
+    ]
+  }
+]

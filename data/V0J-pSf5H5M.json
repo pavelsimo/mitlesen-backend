@@ -1,0 +1,1391 @@
+[
+  {
+    "id": 0,
+    "text": " Wartet mal!",
+    "start": 0.451,
+    "end": 2.492,
+    "words": [
+      {
+        "text": "Wartet",
+        "start": 0.451,
+        "end": 0.671
+      },
+      {
+        "text": "mal!",
+        "start": 0.711,
+        "end": 2.492
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wenn ihr euch traut, dürft ihr uns herausfordern.",
+    "start": 2.532,
+    "end": 4.494,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 2.532,
+        "end": 2.693
+      },
+      {
+        "text": "ihr",
+        "start": 2.733,
+        "end": 2.793
+      },
+      {
+        "text": "euch",
+        "start": 2.833,
+        "end": 2.993
+      },
+      {
+        "text": "traut,",
+        "start": 3.033,
+        "end": 3.273
+      },
+      {
+        "text": "dürft",
+        "start": 3.293,
+        "end": 3.433
+      },
+      {
+        "text": "ihr",
+        "start": 3.473,
+        "end": 3.553
+      },
+      {
+        "text": "uns",
+        "start": 3.593,
+        "end": 3.733
+      },
+      {
+        "text": "herausfordern.",
+        "start": 3.773,
+        "end": 4.494
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Und die Gewinner dürfen dann hier spielen.",
+    "start": 4.534,
+    "end": 6.615,
+    "words": [
+      {
+        "text": "Und",
+        "start": 4.534,
+        "end": 4.674
+      },
+      {
+        "text": "die",
+        "start": 4.694,
+        "end": 4.794
+      },
+      {
+        "text": "Gewinner",
+        "start": 4.834,
+        "end": 5.154
+      },
+      {
+        "text": "dürfen",
+        "start": 5.194,
+        "end": 5.434
+      },
+      {
+        "text": "dann",
+        "start": 5.454,
+        "end": 5.614
+      },
+      {
+        "text": "hier",
+        "start": 5.634,
+        "end": 5.774
+      },
+      {
+        "text": "spielen.",
+        "start": 5.814,
+        "end": 6.615
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Es ist langweilig, immer nur einer gegen einen zu spielen.",
+    "start": 6.695,
+    "end": 9.557,
+    "words": [
+      {
+        "text": "Es",
+        "start": 6.695,
+        "end": 6.795
+      },
+      {
+        "text": "ist",
+        "start": 6.835,
+        "end": 7.015
+      },
+      {
+        "text": "langweilig,",
+        "start": 7.055,
+        "end": 7.555
+      },
+      {
+        "text": "immer",
+        "start": 7.595,
+        "end": 7.776
+      },
+      {
+        "text": "nur",
+        "start": 7.816,
+        "end": 7.936
+      },
+      {
+        "text": "einer",
+        "start": 7.976,
+        "end": 8.196
+      },
+      {
+        "text": "gegen",
+        "start": 8.216,
+        "end": 8.456
+      },
+      {
+        "text": "einen",
+        "start": 8.496,
+        "end": 8.716
+      },
+      {
+        "text": "zu",
+        "start": 8.736,
+        "end": 8.836
+      },
+      {
+        "text": "spielen.",
+        "start": 8.876,
+        "end": 9.557
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Was haltet ihr davon, wenn wir gegeneinander spielen?",
+    "start": 9.597,
+    "end": 12.878,
+    "words": [
+      {
+        "text": "Was",
+        "start": 9.597,
+        "end": 9.737
+      },
+      {
+        "text": "haltet",
+        "start": 9.757,
+        "end": 10.037
+      },
+      {
+        "text": "ihr",
+        "start": 10.077,
+        "end": 10.157
+      },
+      {
+        "text": "davon,",
+        "start": 10.197,
+        "end": 10.417
+      },
+      {
+        "text": "wenn",
+        "start": 10.457,
+        "end": 10.597
+      },
+      {
+        "text": "wir",
+        "start": 10.617,
+        "end": 10.717
+      },
+      {
+        "text": "gegeneinander",
+        "start": 10.757,
+        "end": 11.438
+      },
+      {
+        "text": "spielen?",
+        "start": 11.478,
+        "end": 12.878
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ähm, also... Na, was ist?",
+    "start": 12.999,
+    "end": 15.08,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 12.999,
+        "end": 13.499
+      },
+      {
+        "text": "also...",
+        "start": 13.579,
+        "end": 14.219
+      },
+      {
+        "text": "Na,",
+        "start": 14.259,
+        "end": 14.479
+      },
+      {
+        "text": "was",
+        "start": 14.499,
+        "end": 14.68
+      },
+      {
+        "text": "ist?",
+        "start": 14.78,
+        "end": 15.08
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Spielt ihr gegen uns oder habt ihr drei Schiss?",
+    "start": 15.12,
+    "end": 21.964,
+    "words": [
+      {
+        "text": "Spielt",
+        "start": 15.12,
+        "end": 15.38
+      },
+      {
+        "text": "ihr",
+        "start": 15.46,
+        "end": 15.54
+      },
+      {
+        "text": "gegen",
+        "start": 15.58,
+        "end": 15.84
+      },
+      {
+        "text": "uns",
+        "start": 15.9,
+        "end": 16.1
+      },
+      {
+        "text": "oder",
+        "start": 16.14,
+        "end": 16.32
+      },
+      {
+        "text": "habt",
+        "start": 16.341,
+        "end": 16.481
+      },
+      {
+        "text": "ihr",
+        "start": 16.541,
+        "end": 16.641
+      },
+      {
+        "text": "drei",
+        "start": 16.661,
+        "end": 16.881
+      },
+      {
+        "text": "Schiss?",
+        "start": 16.921,
+        "end": 21.964
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Von mir aus gern.",
+    "start": 22.004,
+    "end": 23.485,
+    "words": [
+      {
+        "text": "Von",
+        "start": 22.004,
+        "end": 22.224
+      },
+      {
+        "text": "mir",
+        "start": 22.244,
+        "end": 22.424
+      },
+      {
+        "text": "aus",
+        "start": 22.464,
+        "end": 22.644
+      },
+      {
+        "text": "gern.",
+        "start": 22.684,
+        "end": 23.485
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Die machen wir fertig.",
+    "start": 23.525,
+    "end": 24.785,
+    "words": [
+      {
+        "text": "Die",
+        "start": 23.525,
+        "end": 23.705
+      },
+      {
+        "text": "machen",
+        "start": 23.725,
+        "end": 23.945
+      },
+      {
+        "text": "wir",
+        "start": 23.985,
+        "end": 24.145
+      },
+      {
+        "text": "fertig.",
+        "start": 24.185,
+        "end": 24.785
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Die beiden sehen aber stark aus.",
+    "start": 24.805,
+    "end": 26.306,
+    "words": [
+      {
+        "text": "Die",
+        "start": 24.805,
+        "end": 25.046
+      },
+      {
+        "text": "beiden",
+        "start": 25.086,
+        "end": 25.326
+      },
+      {
+        "text": "sehen",
+        "start": 25.346,
+        "end": 25.526
+      },
+      {
+        "text": "aber",
+        "start": 25.566,
+        "end": 25.686
+      },
+      {
+        "text": "stark",
+        "start": 25.766,
+        "end": 26.106
+      },
+      {
+        "text": "aus.",
+        "start": 26.146,
+        "end": 26.306
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ob wir da gewinnen können?",
+    "start": 26.346,
+    "end": 27.407,
+    "words": [
+      {
+        "text": "Ob",
+        "start": 26.346,
+        "end": 26.486
+      },
+      {
+        "text": "wir",
+        "start": 26.506,
+        "end": 26.606
+      },
+      {
+        "text": "da",
+        "start": 26.626,
+        "end": 26.727
+      },
+      {
+        "text": "gewinnen",
+        "start": 26.747,
+        "end": 27.087
+      },
+      {
+        "text": "können?",
+        "start": 27.147,
+        "end": 27.407
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Die sind ja leicht zu provozieren.",
+    "start": 27.427,
+    "end": 28.808,
+    "words": [
+      {
+        "text": "Die",
+        "start": 27.427,
+        "end": 27.547
+      },
+      {
+        "text": "sind",
+        "start": 27.567,
+        "end": 27.707
+      },
+      {
+        "text": "ja",
+        "start": 27.727,
+        "end": 27.847
+      },
+      {
+        "text": "leicht",
+        "start": 27.907,
+        "end": 28.087
+      },
+      {
+        "text": "zu",
+        "start": 28.127,
+        "end": 28.227
+      },
+      {
+        "text": "provozieren.",
+        "start": 28.267,
+        "end": 28.808
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Gut, dann werde ich die Aufgabe der Schiedsrichterin übernehmen.",
+    "start": 29.984,
+    "end": 33.265,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 29.984,
+        "end": 30.164
+      },
+      {
+        "text": "dann",
+        "start": 30.324,
+        "end": 30.524
+      },
+      {
+        "text": "werde",
+        "start": 30.544,
+        "end": 30.724
+      },
+      {
+        "text": "ich",
+        "start": 30.764,
+        "end": 30.864
+      },
+      {
+        "text": "die",
+        "start": 30.904,
+        "end": 31.004
+      },
+      {
+        "text": "Aufgabe",
+        "start": 31.044,
+        "end": 31.384
+      },
+      {
+        "text": "der",
+        "start": 31.404,
+        "end": 31.504
+      },
+      {
+        "text": "Schiedsrichterin",
+        "start": 31.544,
+        "end": 32.205
+      },
+      {
+        "text": "übernehmen.",
+        "start": 32.245,
+        "end": 33.265
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Fein, ja dann mach das doch, Kleine.",
+    "start": 33.325,
+    "end": 34.985,
+    "words": [
+      {
+        "text": "Fein,",
+        "start": 33.325,
+        "end": 33.665
+      },
+      {
+        "text": "ja",
+        "start": 33.685,
+        "end": 33.785
+      },
+      {
+        "text": "dann",
+        "start": 33.825,
+        "end": 33.945
+      },
+      {
+        "text": "mach",
+        "start": 33.965,
+        "end": 34.125
+      },
+      {
+        "text": "das",
+        "start": 34.145,
+        "end": 34.305
+      },
+      {
+        "text": "doch,",
+        "start": 34.325,
+        "end": 34.525
+      },
+      {
+        "text": "Kleine.",
+        "start": 34.565,
+        "end": 34.985
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Oh ja, die da gefällt mir wirklich.",
+    "start": 35.085,
+    "end": 37.386,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 35.085,
+        "end": 35.325
+      },
+      {
+        "text": "ja,",
+        "start": 35.365,
+        "end": 35.645
+      },
+      {
+        "text": "die",
+        "start": 35.665,
+        "end": 35.765
+      },
+      {
+        "text": "da",
+        "start": 35.785,
+        "end": 35.926
+      },
+      {
+        "text": "gefällt",
+        "start": 35.946,
+        "end": 36.266
+      },
+      {
+        "text": "mir",
+        "start": 36.306,
+        "end": 36.486
+      },
+      {
+        "text": "wirklich.",
+        "start": 36.526,
+        "end": 37.386
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Kleine Randinfo.",
+    "start": 37.426,
+    "end": 38.706,
+    "words": [
+      {
+        "text": "Kleine",
+        "start": 37.426,
+        "end": 37.746
+      },
+      {
+        "text": "Randinfo.",
+        "start": 37.786,
+        "end": 38.706
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "In der Mittelstufe waren wir regelmäßig auf Präfektur turnieren.",
+    "start": 38.766,
+    "end": 42.487,
+    "words": [
+      {
+        "text": "In",
+        "start": 38.766,
+        "end": 38.886
+      },
+      {
+        "text": "der",
+        "start": 38.926,
+        "end": 39.046
+      },
+      {
+        "text": "Mittelstufe",
+        "start": 39.086,
+        "end": 39.747
+      },
+      {
+        "text": "waren",
+        "start": 39.767,
+        "end": 39.987
+      },
+      {
+        "text": "wir",
+        "start": 40.007,
+        "end": 40.167
+      },
+      {
+        "text": "regelmäßig",
+        "start": 40.207,
+        "end": 40.767
+      },
+      {
+        "text": "auf",
+        "start": 40.787,
+        "end": 40.947
+      },
+      {
+        "text": "Präfektur",
+        "start": 40.967,
+        "end": 41.487
+      },
+      {
+        "text": "turnieren.",
+        "start": 41.527,
+        "end": 42.487
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Und wir haben nicht vor, heute zu verlieren.",
+    "start": 42.527,
+    "end": 44.388,
+    "words": [
+      {
+        "text": "Und",
+        "start": 42.527,
+        "end": 42.667
+      },
+      {
+        "text": "wir",
+        "start": 42.707,
+        "end": 42.807
+      },
+      {
+        "text": "haben",
+        "start": 42.827,
+        "end": 43.087
+      },
+      {
+        "text": "nicht",
+        "start": 43.127,
+        "end": 43.307
+      },
+      {
+        "text": "vor,",
+        "start": 43.347,
+        "end": 43.567
+      },
+      {
+        "text": "heute",
+        "start": 43.587,
+        "end": 43.848
+      },
+      {
+        "text": "zu",
+        "start": 43.888,
+        "end": 44.028
+      },
+      {
+        "text": "verlieren.",
+        "start": 44.048,
+        "end": 44.388
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Hier!",
+    "start": 56.411,
+    "end": 56.771,
+    "words": [
+      {
+        "text": "Hier!",
+        "start": 56.411,
+        "end": 56.771
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Oh.",
+    "start": 56.851,
+    "end": 56.971,
+    "words": [
+      {
+        "text": "Oh.",
+        "start": 56.851,
+        "end": 56.971
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Sehr guter Wurf!",
+    "start": 58.467,
+    "end": 59.327,
+    "words": [
+      {
+        "text": "Sehr",
+        "start": 58.467,
+        "end": 58.747
+      },
+      {
+        "text": "guter",
+        "start": 58.767,
+        "end": 59.087
+      },
+      {
+        "text": "Wurf!",
+        "start": 59.107,
+        "end": 59.327
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Gut gemacht!",
+    "start": 59.367,
+    "end": 60.428,
+    "words": [
+      {
+        "text": "Gut",
+        "start": 59.367,
+        "end": 59.688
+      },
+      {
+        "text": "gemacht!",
+        "start": 59.708,
+        "end": 60.428
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Scheiße, die sind echt schnell.",
+    "start": 60.588,
+    "end": 61.989,
+    "words": [
+      {
+        "text": "Scheiße,",
+        "start": 60.588,
+        "end": 61.028
+      },
+      {
+        "text": "die",
+        "start": 61.068,
+        "end": 61.128
+      },
+      {
+        "text": "sind",
+        "start": 61.148,
+        "end": 61.268
+      },
+      {
+        "text": "echt",
+        "start": 61.348,
+        "end": 61.488
+      },
+      {
+        "text": "schnell.",
+        "start": 61.508,
+        "end": 61.989
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Fang!",
+    "start": 62.029,
+    "end": 63.049,
+    "words": [
+      {
+        "text": "Fang!",
+        "start": 62.029,
+        "end": 63.049
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wow!",
+    "start": 63.109,
+    "end": 63.589,
+    "words": [
+      {
+        "text": "Wow!",
+        "start": 63.109,
+        "end": 63.589
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Freut euch nicht zu früh, wir wärmen uns nur auf.",
+    "start": 63.629,
+    "end": 67.771,
+    "words": [
+      {
+        "text": "Freut",
+        "start": 63.629,
+        "end": 63.929
+      },
+      {
+        "text": "euch",
+        "start": 63.989,
+        "end": 64.169
+      },
+      {
+        "text": "nicht",
+        "start": 64.249,
+        "end": 65.37
+      },
+      {
+        "text": "zu",
+        "start": 65.41,
+        "end": 65.49
+      },
+      {
+        "text": "früh,",
+        "start": 65.51,
+        "end": 65.61
+      },
+      {
+        "text": "wir",
+        "start": 65.63,
+        "end": 66.25
+      },
+      {
+        "text": "wärmen",
+        "start": 66.27,
+        "end": 66.831
+      },
+      {
+        "text": "uns",
+        "start": 66.891,
+        "end": 67.291
+      },
+      {
+        "text": "nur",
+        "start": 67.451,
+        "end": 67.651
+      },
+      {
+        "text": "auf.",
+        "start": 67.711,
+        "end": 67.771
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": " Wir haben echt verloren.",
+    "start": 103.043,
+    "end": 104.625,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 103.043,
+        "end": 103.183
+      },
+      {
+        "text": "haben",
+        "start": 103.223,
+        "end": 103.444
+      },
+      {
+        "text": "echt",
+        "start": 103.484,
+        "end": 103.764
+      },
+      {
+        "text": "verloren.",
+        "start": 103.784,
+        "end": 104.625
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Gruselig, wie gut die waren.",
+    "start": 104.645,
+    "end": 106.826,
+    "words": [
+      {
+        "text": "Gruselig,",
+        "start": 104.645,
+        "end": 105.225
+      },
+      {
+        "text": "wie",
+        "start": 105.265,
+        "end": 105.425
+      },
+      {
+        "text": "gut",
+        "start": 105.465,
+        "end": 105.665
+      },
+      {
+        "text": "die",
+        "start": 105.685,
+        "end": 105.866
+      },
+      {
+        "text": "waren.",
+        "start": 105.906,
+        "end": 106.826
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Puh.",
+    "start": 106.866,
+    "end": 107.647,
+    "words": [
+      {
+        "text": "Puh.",
+        "start": 106.866,
+        "end": 107.647
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Die beiden waren wirklich nicht schlecht.",
+    "start": 107.687,
+    "end": 109.509,
+    "words": [
+      {
+        "text": "Die",
+        "start": 107.687,
+        "end": 107.807
+      },
+      {
+        "text": "beiden",
+        "start": 107.827,
+        "end": 108.087
+      },
+      {
+        "text": "waren",
+        "start": 108.127,
+        "end": 108.348
+      },
+      {
+        "text": "wirklich",
+        "start": 108.368,
+        "end": 108.708
+      },
+      {
+        "text": "nicht",
+        "start": 108.728,
+        "end": 108.928
+      },
+      {
+        "text": "schlecht.",
+        "start": 108.968,
+        "end": 109.509
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Und auch echt hartnäckig.",
+    "start": 109.549,
+    "end": 111.33,
+    "words": [
+      {
+        "text": "Und",
+        "start": 109.549,
+        "end": 109.729
+      },
+      {
+        "text": "auch",
+        "start": 109.749,
+        "end": 109.949
+      },
+      {
+        "text": "echt",
+        "start": 109.989,
+        "end": 110.189
+      },
+      {
+        "text": "hartnäckig.",
+        "start": 110.229,
+        "end": 111.33
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Vielen Dank und ich muss sagen, euer Teamwork war echt perfekt.",
+    "start": 111.37,
+    "end": 114.373,
+    "words": [
+      {
+        "text": "Vielen",
+        "start": 111.37,
+        "end": 111.65
+      },
+      {
+        "text": "Dank",
+        "start": 111.69,
+        "end": 111.951
+      },
+      {
+        "text": "und",
+        "start": 111.971,
+        "end": 112.091
+      },
+      {
+        "text": "ich",
+        "start": 112.131,
+        "end": 112.211
+      },
+      {
+        "text": "muss",
+        "start": 112.231,
+        "end": 112.431
+      },
+      {
+        "text": "sagen,",
+        "start": 112.451,
+        "end": 112.631
+      },
+      {
+        "text": "euer",
+        "start": 112.671,
+        "end": 112.891
+      },
+      {
+        "text": "Teamwork",
+        "start": 112.931,
+        "end": 113.312
+      },
+      {
+        "text": "war",
+        "start": 113.352,
+        "end": 113.532
+      },
+      {
+        "text": "echt",
+        "start": 113.572,
+        "end": 113.772
+      },
+      {
+        "text": "perfekt.",
+        "start": 113.812,
+        "end": 114.373
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ja und ihr beide habt wirklich einen guten Touch.",
+    "start": 114.553,
+    "end": 118.336,
+    "words": [
+      {
+        "text": "Ja",
+        "start": 114.553,
+        "end": 114.693
+      },
+      {
+        "text": "und",
+        "start": 114.713,
+        "end": 114.793
+      },
+      {
+        "text": "ihr",
+        "start": 114.853,
+        "end": 114.953
+      },
+      {
+        "text": "beide",
+        "start": 114.973,
+        "end": 115.153
+      },
+      {
+        "text": "habt",
+        "start": 115.193,
+        "end": 115.353
+      },
+      {
+        "text": "wirklich",
+        "start": 115.393,
+        "end": 115.694
+      },
+      {
+        "text": "einen",
+        "start": 115.714,
+        "end": 115.874
+      },
+      {
+        "text": "guten",
+        "start": 115.914,
+        "end": 116.174
+      },
+      {
+        "text": "Touch.",
+        "start": 116.214,
+        "end": 118.336
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Einen Touch?",
+    "start": 118.376,
+    "end": 120.998,
+    "words": [
+      {
+        "text": "Einen",
+        "start": 118.376,
+        "end": 118.676
+      },
+      {
+        "text": "Touch?",
+        "start": 118.736,
+        "end": 120.998
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich finde auch, dass ihr unfassbar gut gespielt habt.",
+    "start": 121.058,
+    "end": 123.961,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 121.058,
+        "end": 121.178
+      },
+      {
+        "text": "finde",
+        "start": 121.218,
+        "end": 121.539
+      },
+      {
+        "text": "auch,",
+        "start": 121.579,
+        "end": 121.739
+      },
+      {
+        "text": "dass",
+        "start": 121.779,
+        "end": 121.919
+      },
+      {
+        "text": "ihr",
+        "start": 121.959,
+        "end": 122.119
+      },
+      {
+        "text": "unfassbar",
+        "start": 122.139,
+        "end": 122.619
+      },
+      {
+        "text": "gut",
+        "start": 122.659,
+        "end": 122.84
+      },
+      {
+        "text": "gespielt",
+        "start": 122.88,
+        "end": 123.28
+      },
+      {
+        "text": "habt.",
+        "start": 123.34,
+        "end": 123.961
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Kommt, das müssen wir einfach mit einem Foto festhalten.",
+    "start": 123.981,
+    "end": 127.063,
+    "words": [
+      {
+        "text": "Kommt,",
+        "start": 123.981,
+        "end": 124.181
+      },
+      {
+        "text": "das",
+        "start": 124.221,
+        "end": 124.361
+      },
+      {
+        "text": "müssen",
+        "start": 124.381,
+        "end": 124.561
+      },
+      {
+        "text": "wir",
+        "start": 124.601,
+        "end": 124.741
+      },
+      {
+        "text": "einfach",
+        "start": 124.761,
+        "end": 125.041
+      },
+      {
+        "text": "mit",
+        "start": 125.061,
+        "end": 125.162
+      },
+      {
+        "text": "einem",
+        "start": 125.182,
+        "end": 125.382
+      },
+      {
+        "text": "Foto",
+        "start": 125.422,
+        "end": 125.762
+      },
+      {
+        "text": "festhalten.",
+        "start": 125.802,
+        "end": 127.063
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Los, rückt mal zusammen, ihr müsst alle mit drauf sein.",
+    "start": 127.103,
+    "end": 129.885,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 127.103,
+        "end": 127.323
+      },
+      {
+        "text": "rückt",
+        "start": 127.383,
+        "end": 127.524
+      },
+      {
+        "text": "mal",
+        "start": 127.624,
+        "end": 127.784
+      },
+      {
+        "text": "zusammen,",
+        "start": 127.804,
+        "end": 128.144
+      },
+      {
+        "text": "ihr",
+        "start": 128.204,
+        "end": 128.304
+      },
+      {
+        "text": "müsst",
+        "start": 128.324,
+        "end": 128.504
+      },
+      {
+        "text": "alle",
+        "start": 128.524,
+        "end": 128.684
+      },
+      {
+        "text": "mit",
+        "start": 128.705,
+        "end": 128.825
+      },
+      {
+        "text": "drauf",
+        "start": 128.845,
+        "end": 129.165
+      },
+      {
+        "text": "sein.",
+        "start": 129.205,
+        "end": 129.885
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Ihr könnt euch aber für vieles begeistern.",
+    "start": 129.926,
+    "end": 131.547,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 129.926,
+        "end": 130.086
+      },
+      {
+        "text": "könnt",
+        "start": 130.106,
+        "end": 130.286
+      },
+      {
+        "text": "euch",
+        "start": 130.306,
+        "end": 130.466
+      },
+      {
+        "text": "aber",
+        "start": 130.506,
+        "end": 130.666
+      },
+      {
+        "text": "für",
+        "start": 130.686,
+        "end": 130.826
+      },
+      {
+        "text": "vieles",
+        "start": 130.846,
+        "end": 131.107
+      },
+      {
+        "text": "begeistern.",
+        "start": 131.127,
+        "end": 131.547
+      }
+    ]
+  }
+]

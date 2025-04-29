@@ -1,0 +1,645 @@
+[
+  {
+    "id": 0,
+    "text": " Interessanter Zauber, dieser magische Faden.",
+    "start": 0.797,
+    "end": 4.499,
+    "words": [
+      {
+        "text": "Interessanter",
+        "start": 0.797,
+        "end": 1.457
+      },
+      {
+        "text": "Zauber,",
+        "start": 1.498,
+        "end": 2.598
+      },
+      {
+        "text": "dieser",
+        "start": 2.638,
+        "end": 2.938
+      },
+      {
+        "text": "magische",
+        "start": 2.998,
+        "end": 3.539
+      },
+      {
+        "text": "Faden.",
+        "start": 3.579,
+        "end": 4.499
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Du sammelst Magie um deinen Hals, damit du von mir nicht enthauptet wirst?",
+    "start": 4.539,
+    "end": 8.781,
+    "words": [
+      {
+        "text": "Du",
+        "start": 4.539,
+        "end": 4.699
+      },
+      {
+        "text": "sammelst",
+        "start": 4.719,
+        "end": 5.119
+      },
+      {
+        "text": "Magie",
+        "start": 5.159,
+        "end": 5.46
+      },
+      {
+        "text": "um",
+        "start": 5.48,
+        "end": 5.62
+      },
+      {
+        "text": "deinen",
+        "start": 5.64,
+        "end": 5.94
+      },
+      {
+        "text": "Hals,",
+        "start": 5.96,
+        "end": 6.2
+      },
+      {
+        "text": "damit",
+        "start": 6.24,
+        "end": 6.44
+      },
+      {
+        "text": "du",
+        "start": 6.46,
+        "end": 6.58
+      },
+      {
+        "text": "von",
+        "start": 6.6,
+        "end": 6.74
+      },
+      {
+        "text": "mir",
+        "start": 6.76,
+        "end": 6.9
+      },
+      {
+        "text": "nicht",
+        "start": 6.94,
+        "end": 7.141
+      },
+      {
+        "text": "enthauptet",
+        "start": 7.181,
+        "end": 7.701
+      },
+      {
+        "text": "wirst?",
+        "start": 7.721,
+        "end": 8.781
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Das ist ja ein süßer Trick.",
+    "start": 8.801,
+    "end": 10.843,
+    "words": [
+      {
+        "text": "Das",
+        "start": 8.801,
+        "end": 8.962
+      },
+      {
+        "text": "ist",
+        "start": 9.002,
+        "end": 9.102
+      },
+      {
+        "text": "ja",
+        "start": 9.122,
+        "end": 9.222
+      },
+      {
+        "text": "ein",
+        "start": 9.262,
+        "end": 9.402
+      },
+      {
+        "text": "süßer",
+        "start": 9.442,
+        "end": 9.782
+      },
+      {
+        "text": "Trick.",
+        "start": 9.802,
+        "end": 10.843
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Andere Magierinnen erledige ich damit, ehe sie verstehen, was geschieht.",
+    "start": 10.903,
+    "end": 15.585,
+    "words": [
+      {
+        "text": "Andere",
+        "start": 10.903,
+        "end": 11.223
+      },
+      {
+        "text": "Magierinnen",
+        "start": 11.243,
+        "end": 11.883
+      },
+      {
+        "text": "erledige",
+        "start": 11.903,
+        "end": 12.303
+      },
+      {
+        "text": "ich",
+        "start": 12.363,
+        "end": 12.483
+      },
+      {
+        "text": "damit,",
+        "start": 12.523,
+        "end": 12.764
+      },
+      {
+        "text": "ehe",
+        "start": 12.824,
+        "end": 13.044
+      },
+      {
+        "text": "sie",
+        "start": 13.064,
+        "end": 13.204
+      },
+      {
+        "text": "verstehen,",
+        "start": 13.244,
+        "end": 13.624
+      },
+      {
+        "text": "was",
+        "start": 13.664,
+        "end": 13.864
+      },
+      {
+        "text": "geschieht.",
+        "start": 13.884,
+        "end": 15.585
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Selbst unter Dämonen ist meine Fadenmagie bei weitem die mächtigste.",
+    "start": 15.625,
+    "end": 20.107,
+    "words": [
+      {
+        "text": "Selbst",
+        "start": 15.625,
+        "end": 15.945
+      },
+      {
+        "text": "unter",
+        "start": 15.985,
+        "end": 16.205
+      },
+      {
+        "text": "Dämonen",
+        "start": 16.245,
+        "end": 16.746
+      },
+      {
+        "text": "ist",
+        "start": 16.786,
+        "end": 16.986
+      },
+      {
+        "text": "meine",
+        "start": 17.026,
+        "end": 17.206
+      },
+      {
+        "text": "Fadenmagie",
+        "start": 17.246,
+        "end": 17.866
+      },
+      {
+        "text": "bei",
+        "start": 17.886,
+        "end": 18.046
+      },
+      {
+        "text": "weitem",
+        "start": 18.066,
+        "end": 18.407
+      },
+      {
+        "text": "die",
+        "start": 18.427,
+        "end": 18.527
+      },
+      {
+        "text": "mächtigste.",
+        "start": 18.547,
+        "end": 20.107
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Menschliche Magie hat dagegen nicht die geringste Chance.",
+    "start": 20.147,
+    "end": 25.09,
+    "words": [
+      {
+        "text": "Menschliche",
+        "start": 20.147,
+        "end": 20.608
+      },
+      {
+        "text": "Magie",
+        "start": 20.648,
+        "end": 20.908
+      },
+      {
+        "text": "hat",
+        "start": 20.948,
+        "end": 21.068
+      },
+      {
+        "text": "dagegen",
+        "start": 21.088,
+        "end": 21.508
+      },
+      {
+        "text": "nicht",
+        "start": 21.548,
+        "end": 21.708
+      },
+      {
+        "text": "die",
+        "start": 21.728,
+        "end": 21.848
+      },
+      {
+        "text": "geringste",
+        "start": 21.888,
+        "end": 22.449
+      },
+      {
+        "text": "Chance.",
+        "start": 22.509,
+        "end": 25.09
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Dann werde ich deine Magie einfach mitsamt deinem Hals durchtrennen.",
+    "start": 25.13,
+    "end": 29.573,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 25.13,
+        "end": 25.33
+      },
+      {
+        "text": "werde",
+        "start": 25.35,
+        "end": 25.49
+      },
+      {
+        "text": "ich",
+        "start": 25.53,
+        "end": 25.65
+      },
+      {
+        "text": "deine",
+        "start": 25.67,
+        "end": 25.891
+      },
+      {
+        "text": "Magie",
+        "start": 25.931,
+        "end": 26.271
+      },
+      {
+        "text": "einfach",
+        "start": 26.311,
+        "end": 27.111
+      },
+      {
+        "text": "mitsamt",
+        "start": 27.151,
+        "end": 27.591
+      },
+      {
+        "text": "deinem",
+        "start": 27.611,
+        "end": 27.832
+      },
+      {
+        "text": "Hals",
+        "start": 27.872,
+        "end": 28.112
+      },
+      {
+        "text": "durchtrennen.",
+        "start": 28.152,
+        "end": 29.573
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Du hast recht.",
+    "start": 29.613,
+    "end": 30.213,
+    "words": [
+      {
+        "text": "Du",
+        "start": 29.613,
+        "end": 29.673
+      },
+      {
+        "text": "hast",
+        "start": 29.733,
+        "end": 29.973
+      },
+      {
+        "text": "recht.",
+        "start": 30.013,
+        "end": 30.213
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Gegen diesen Faden kann ich tatsächlich nichts unternehmen.",
+    "start": 31.237,
+    "end": 35.701,
+    "words": [
+      {
+        "text": "Gegen",
+        "start": 31.237,
+        "end": 31.457
+      },
+      {
+        "text": "diesen",
+        "start": 31.497,
+        "end": 31.678
+      },
+      {
+        "text": "Faden",
+        "start": 31.718,
+        "end": 32.098
+      },
+      {
+        "text": "kann",
+        "start": 32.118,
+        "end": 32.258
+      },
+      {
+        "text": "ich",
+        "start": 32.298,
+        "end": 32.438
+      },
+      {
+        "text": "tatsächlich",
+        "start": 32.478,
+        "end": 32.979
+      },
+      {
+        "text": "nichts",
+        "start": 33.019,
+        "end": 33.259
+      },
+      {
+        "text": "unternehmen.",
+        "start": 33.299,
+        "end": 35.701
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wegen dieser Kleinigkeit glaubst du gewonnen zu haben?",
+    "start": 35.741,
+    "end": 38.744,
+    "words": [
+      {
+        "text": "Wegen",
+        "start": 35.741,
+        "end": 36.081
+      },
+      {
+        "text": "dieser",
+        "start": 36.121,
+        "end": 36.422
+      },
+      {
+        "text": "Kleinigkeit",
+        "start": 36.462,
+        "end": 37.062
+      },
+      {
+        "text": "glaubst",
+        "start": 37.082,
+        "end": 37.322
+      },
+      {
+        "text": "du",
+        "start": 37.342,
+        "end": 37.442
+      },
+      {
+        "text": "gewonnen",
+        "start": 37.462,
+        "end": 37.863
+      },
+      {
+        "text": "zu",
+        "start": 37.903,
+        "end": 38.003
+      },
+      {
+        "text": "haben?",
+        "start": 38.023,
+        "end": 38.744
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Die Dämonen sind erbärmlich heutzutage.",
+    "start": 38.764,
+    "end": 40.625,
+    "words": [
+      {
+        "text": "Die",
+        "start": 38.764,
+        "end": 38.904
+      },
+      {
+        "text": "Dämonen",
+        "start": 38.924,
+        "end": 39.364
+      },
+      {
+        "text": "sind",
+        "start": 39.384,
+        "end": 39.564
+      },
+      {
+        "text": "erbärmlich",
+        "start": 39.604,
+        "end": 40.085
+      },
+      {
+        "text": "heutzutage.",
+        "start": 40.105,
+        "end": 40.625
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Euch mangelt es an echter Kampferfahrung.",
+    "start": 40.705,
+    "end": 42.767,
+    "words": [
+      {
+        "text": "Euch",
+        "start": 40.705,
+        "end": 40.945
+      },
+      {
+        "text": "mangelt",
+        "start": 40.965,
+        "end": 41.226
+      },
+      {
+        "text": "es",
+        "start": 41.266,
+        "end": 41.386
+      },
+      {
+        "text": "an",
+        "start": 41.406,
+        "end": 41.586
+      },
+      {
+        "text": "echter",
+        "start": 41.626,
+        "end": 41.946
+      },
+      {
+        "text": "Kampferfahrung.",
+        "start": 41.966,
+        "end": 42.767
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Sie hat... Sie hat meinen Arm durchtrennt!",
+    "start": 43.167,
+    "end": 52.655,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 43.167,
+        "end": 48.872
+      },
+      {
+        "text": "hat...",
+        "start": 49.112,
+        "end": 50.273
+      },
+      {
+        "text": "Sie",
+        "start": 50.513,
+        "end": 50.634
+      },
+      {
+        "text": "hat",
+        "start": 50.674,
+        "end": 50.914
+      },
+      {
+        "text": "meinen",
+        "start": 50.954,
+        "end": 51.134
+      },
+      {
+        "text": "Arm",
+        "start": 51.194,
+        "end": 51.374
+      },
+      {
+        "text": "durchtrennt!",
+        "start": 51.414,
+        "end": 52.655
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Verfluchte!",
+    "start": 52.695,
+    "end": 53.516,
+    "words": [
+      {
+        "text": "Verfluchte!",
+        "start": 52.695,
+        "end": 53.516
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Warte!",
+    "start": 60.424,
+    "end": 60.725,
+    "words": [
+      {
+        "text": "Warte!",
+        "start": 60.424,
+        "end": 60.725
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Lasst uns...",
+    "start": 60.785,
+    "end": 61.147,
+    "words": [
+      {
+        "text": "Lasst",
+        "start": 60.785,
+        "end": 61.006
+      },
+      {
+        "text": "uns...",
+        "start": 61.046,
+        "end": 61.147
+      }
+    ]
+  }
+]

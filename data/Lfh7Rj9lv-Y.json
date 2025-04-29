@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 0,
+    "text": " Das ist ein Spulen-Widerstandsregler, auch Rheostat genannt.",
+    "start": 0.531,
+    "end": 3.052,
+    "words": [
+      {
+        "text": "Das",
+        "start": 0.531,
+        "end": 0.631
+      },
+      {
+        "text": "ist",
+        "start": 0.671,
+        "end": 0.771
+      },
+      {
+        "text": "ein",
+        "start": 0.791,
+        "end": 0.911
+      },
+      {
+        "text": "Spulen-Widerstandsregler,",
+        "start": 0.931,
+        "end": 2.072
+      },
+      {
+        "text": "auch",
+        "start": 2.112,
+        "end": 2.232
+      },
+      {
+        "text": "Rheostat",
+        "start": 2.272,
+        "end": 2.772
+      },
+      {
+        "text": "genannt.",
+        "start": 2.792,
+        "end": 3.052
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wie soll sich das jemand merken?",
+    "start": 3.072,
+    "end": 4.893,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 3.072,
+        "end": 3.492
+      },
+      {
+        "text": "soll",
+        "start": 3.512,
+        "end": 3.713
+      },
+      {
+        "text": "sich",
+        "start": 3.733,
+        "end": 3.833
+      },
+      {
+        "text": "das",
+        "start": 3.853,
+        "end": 4.053
+      },
+      {
+        "text": "jemand",
+        "start": 4.073,
+        "end": 4.373
+      },
+      {
+        "text": "merken?",
+        "start": 4.393,
+        "end": 4.893
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Mit dem Regler stellt man ein, wie viel Strom durchfließen soll.",
+    "start": 4.913,
+    "end": 8.515,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 4.913,
+        "end": 5.033
+      },
+      {
+        "text": "dem",
+        "start": 5.053,
+        "end": 5.233
+      },
+      {
+        "text": "Regler",
+        "start": 5.273,
+        "end": 5.573
+      },
+      {
+        "text": "stellt",
+        "start": 5.613,
+        "end": 5.873
+      },
+      {
+        "text": "man",
+        "start": 5.913,
+        "end": 6.114
+      },
+      {
+        "text": "ein,",
+        "start": 6.134,
+        "end": 6.334
+      },
+      {
+        "text": "wie",
+        "start": 6.354,
+        "end": 6.454
+      },
+      {
+        "text": "viel",
+        "start": 6.494,
+        "end": 6.674
+      },
+      {
+        "text": "Strom",
+        "start": 6.714,
+        "end": 7.014
+      },
+      {
+        "text": "durchfließen",
+        "start": 7.034,
+        "end": 7.594
+      },
+      {
+        "text": "soll.",
+        "start": 7.614,
+        "end": 8.515
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Das heißt, wenn man nur einen Propeller beschleunigt, geschieht das hier.",
+    "start": 8.535,
+    "end": 14.037,
+    "words": [
+      {
+        "text": "Das",
+        "start": 8.535,
+        "end": 8.675
+      },
+      {
+        "text": "heißt,",
+        "start": 8.715,
+        "end": 9.655
+      },
+      {
+        "text": "wenn",
+        "start": 9.675,
+        "end": 9.815
+      },
+      {
+        "text": "man",
+        "start": 9.855,
+        "end": 9.975
+      },
+      {
+        "text": "nur",
+        "start": 10.015,
+        "end": 10.195
+      },
+      {
+        "text": "einen",
+        "start": 10.235,
+        "end": 10.475
+      },
+      {
+        "text": "Propeller",
+        "start": 10.515,
+        "end": 10.916
+      },
+      {
+        "text": "beschleunigt,",
+        "start": 10.956,
+        "end": 11.536
+      },
+      {
+        "text": "geschieht",
+        "start": 11.576,
+        "end": 11.936
+      },
+      {
+        "text": "das",
+        "start": 11.976,
+        "end": 12.156
+      },
+      {
+        "text": "hier.",
+        "start": 12.176,
+        "end": 14.037
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Krass, sie neigt sich.",
+    "start": 14.117,
+    "end": 16.398,
+    "words": [
+      {
+        "text": "Krass,",
+        "start": 14.117,
+        "end": 15.057
+      },
+      {
+        "text": "sie",
+        "start": 15.077,
+        "end": 15.297
+      },
+      {
+        "text": "neigt",
+        "start": 15.337,
+        "end": 15.658
+      },
+      {
+        "text": "sich.",
+        "start": 15.698,
+        "end": 16.398
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Und mit diesen vier Reglern bewegt man sie per Hand, wodurch es möglich ist, das Gleichgewicht zu halten.",
+    "start": 16.438,
+    "end": 21.66,
+    "words": [
+      {
+        "text": "Und",
+        "start": 16.438,
+        "end": 16.678
+      },
+      {
+        "text": "mit",
+        "start": 16.698,
+        "end": 16.878
+      },
+      {
+        "text": "diesen",
+        "start": 16.898,
+        "end": 17.198
+      },
+      {
+        "text": "vier",
+        "start": 17.218,
+        "end": 17.438
+      },
+      {
+        "text": "Reglern",
+        "start": 17.478,
+        "end": 17.818
+      },
+      {
+        "text": "bewegt",
+        "start": 17.838,
+        "end": 18.179
+      },
+      {
+        "text": "man",
+        "start": 18.199,
+        "end": 18.339
+      },
+      {
+        "text": "sie",
+        "start": 18.359,
+        "end": 18.519
+      },
+      {
+        "text": "per",
+        "start": 18.539,
+        "end": 18.679
+      },
+      {
+        "text": "Hand,",
+        "start": 18.719,
+        "end": 19.119
+      },
+      {
+        "text": "wodurch",
+        "start": 19.139,
+        "end": 19.519
+      },
+      {
+        "text": "es",
+        "start": 19.599,
+        "end": 19.779
+      },
+      {
+        "text": "möglich",
+        "start": 19.839,
+        "end": 20.259
+      },
+      {
+        "text": "ist,",
+        "start": 20.299,
+        "end": 20.48
+      },
+      {
+        "text": "das",
+        "start": 20.5,
+        "end": 20.7
+      },
+      {
+        "text": "Gleichgewicht",
+        "start": 20.72,
+        "end": 21.3
+      },
+      {
+        "text": "zu",
+        "start": 21.34,
+        "end": 21.44
+      },
+      {
+        "text": "halten.",
+        "start": 21.46,
+        "end": 21.66
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ja, du hast es erfasst.",
+    "start": 21.68,
+    "end": 23.081,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 21.68,
+        "end": 22.0
+      },
+      {
+        "text": "du",
+        "start": 22.02,
+        "end": 22.16
+      },
+      {
+        "text": "hast",
+        "start": 22.18,
+        "end": 22.36
+      },
+      {
+        "text": "es",
+        "start": 22.42,
+        "end": 22.54
+      },
+      {
+        "text": "erfasst.",
+        "start": 22.58,
+        "end": 23.081
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Das Ding so zu steuern ist doch viel zu schwierig.",
+    "start": 23.101,
+    "end": 25.662,
+    "words": [
+      {
+        "text": "Das",
+        "start": 23.101,
+        "end": 23.221
+      },
+      {
+        "text": "Ding",
+        "start": 23.241,
+        "end": 23.481
+      },
+      {
+        "text": "so",
+        "start": 23.601,
+        "end": 24.181
+      },
+      {
+        "text": "zu",
+        "start": 24.201,
+        "end": 24.321
+      },
+      {
+        "text": "steuern",
+        "start": 24.341,
+        "end": 24.681
+      },
+      {
+        "text": "ist",
+        "start": 24.741,
+        "end": 24.841
+      },
+      {
+        "text": "doch",
+        "start": 24.861,
+        "end": 25.041
+      },
+      {
+        "text": "viel",
+        "start": 25.061,
+        "end": 25.282
+      },
+      {
+        "text": "zu",
+        "start": 25.302,
+        "end": 25.402
+      },
+      {
+        "text": "schwierig.",
+        "start": 25.422,
+        "end": 25.662
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Dafür muss man sich mit Navigation auskennen und zudem in der Lage sein, den Wind lesen zu können.",
+    "start": 27.17,
+    "end": 32.535,
+    "words": [
+      {
+        "text": "Dafür",
+        "start": 27.17,
+        "end": 27.39
+      },
+      {
+        "text": "muss",
+        "start": 27.43,
+        "end": 27.591
+      },
+      {
+        "text": "man",
+        "start": 27.611,
+        "end": 27.711
+      },
+      {
+        "text": "sich",
+        "start": 27.731,
+        "end": 27.851
+      },
+      {
+        "text": "mit",
+        "start": 27.891,
+        "end": 27.991
+      },
+      {
+        "text": "Navigation",
+        "start": 28.031,
+        "end": 28.671
+      },
+      {
+        "text": "auskennen",
+        "start": 28.711,
+        "end": 29.312
+      },
+      {
+        "text": "und",
+        "start": 29.352,
+        "end": 29.532
+      },
+      {
+        "text": "zudem",
+        "start": 29.572,
+        "end": 29.932
+      },
+      {
+        "text": "in",
+        "start": 29.972,
+        "end": 30.053
+      },
+      {
+        "text": "der",
+        "start": 30.073,
+        "end": 30.173
+      },
+      {
+        "text": "Lage",
+        "start": 30.213,
+        "end": 30.473
+      },
+      {
+        "text": "sein,",
+        "start": 30.513,
+        "end": 30.713
+      },
+      {
+        "text": "den",
+        "start": 30.733,
+        "end": 30.913
+      },
+      {
+        "text": "Wind",
+        "start": 30.953,
+        "end": 31.153
+      },
+      {
+        "text": "lesen",
+        "start": 31.193,
+        "end": 31.494
+      },
+      {
+        "text": "zu",
+        "start": 31.514,
+        "end": 31.614
+      },
+      {
+        "text": "können.",
+        "start": 31.634,
+        "end": 32.535
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wer kommt in Frage?",
+    "start": 32.575,
+    "end": 33.335,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 32.575,
+        "end": 32.755
+      },
+      {
+        "text": "kommt",
+        "start": 32.775,
+        "end": 32.975
+      },
+      {
+        "text": "in",
+        "start": 33.015,
+        "end": 33.095
+      },
+      {
+        "text": "Frage?",
+        "start": 33.135,
+        "end": 33.335
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Na ja, klar.",
+    "start": 35.737,
+    "end": 36.698,
+    "words": [
+      {
+        "text": "Na",
+        "start": 35.737,
+        "end": 35.977
+      },
+      {
+        "text": "ja,",
+        "start": 36.378,
+        "end": 36.518
+      },
+      {
+        "text": "klar.",
+        "start": 36.558,
+        "end": 36.698
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Was?",
+    "start": 44.885,
+    "end": 45.065,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 44.885,
+        "end": 45.065
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Echt jetzt?",
+    "start": 45.325,
+    "end": 47.686,
+    "words": [
+      {
+        "text": "Echt",
+        "start": 45.325,
+        "end": 45.525
+      },
+      {
+        "text": "jetzt?",
+        "start": 45.585,
+        "end": 47.686
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ha!",
+    "start": 47.726,
+    "end": 48.587,
+    "words": [
+      {
+        "text": "Ha!",
+        "start": 47.726,
+        "end": 48.587
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ist wie in den Videospielen.",
+    "start": 48.627,
+    "end": 50.027,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 48.627,
+        "end": 48.847
+      },
+      {
+        "text": "wie",
+        "start": 48.867,
+        "end": 48.987
+      },
+      {
+        "text": "in",
+        "start": 49.027,
+        "end": 49.127
+      },
+      {
+        "text": "den",
+        "start": 49.147,
+        "end": 49.287
+      },
+      {
+        "text": "Videospielen.",
+        "start": 49.327,
+        "end": 50.027
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ihr müsst wissen, von klein auf wurde ich als Pro-Gamer ausgebildet.",
+    "start": 50.408,
+    "end": 54.009,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 50.408,
+        "end": 50.528
+      },
+      {
+        "text": "müsst",
+        "start": 50.548,
+        "end": 50.768
+      },
+      {
+        "text": "wissen,",
+        "start": 50.788,
+        "end": 51.048
+      },
+      {
+        "text": "von",
+        "start": 51.088,
+        "end": 51.228
+      },
+      {
+        "text": "klein",
+        "start": 51.308,
+        "end": 51.588
+      },
+      {
+        "text": "auf",
+        "start": 51.608,
+        "end": 51.768
+      },
+      {
+        "text": "wurde",
+        "start": 51.808,
+        "end": 52.108
+      },
+      {
+        "text": "ich",
+        "start": 52.169,
+        "end": 52.489
+      },
+      {
+        "text": "als",
+        "start": 52.509,
+        "end": 52.769
+      },
+      {
+        "text": "Pro-Gamer",
+        "start": 52.789,
+        "end": 53.369
+      },
+      {
+        "text": "ausgebildet.",
+        "start": 53.389,
+        "end": 54.009
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Immer dasselbe mit ihm.",
+    "start": 54.049,
+    "end": 55.81,
+    "words": [
+      {
+        "text": "Immer",
+        "start": 54.049,
+        "end": 54.33
+      },
+      {
+        "text": "dasselbe",
+        "start": 54.37,
+        "end": 54.85
+      },
+      {
+        "text": "mit",
+        "start": 54.89,
+        "end": 55.01
+      },
+      {
+        "text": "ihm.",
+        "start": 55.09,
+        "end": 55.81
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Bei den reichen Säcken ist nichts unmöglich.",
+    "start": 55.87,
+    "end": 58.131,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 55.87,
+        "end": 56.01
+      },
+      {
+        "text": "den",
+        "start": 56.03,
+        "end": 56.19
+      },
+      {
+        "text": "reichen",
+        "start": 56.251,
+        "end": 56.591
+      },
+      {
+        "text": "Säcken",
+        "start": 56.631,
+        "end": 56.871
+      },
+      {
+        "text": "ist",
+        "start": 56.931,
+        "end": 57.211
+      },
+      {
+        "text": "nichts",
+        "start": 57.251,
+        "end": 57.511
+      },
+      {
+        "text": "unmöglich.",
+        "start": 57.551,
+        "end": 58.131
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Jo, ich will auch mal.",
+    "start": 59.032,
+    "end": 60.493,
+    "words": [
+      {
+        "text": "Jo,",
+        "start": 59.032,
+        "end": 59.792
+      },
+      {
+        "text": "ich",
+        "start": 59.812,
+        "end": 59.912
+      },
+      {
+        "text": "will",
+        "start": 59.932,
+        "end": 60.132
+      },
+      {
+        "text": "auch",
+        "start": 60.152,
+        "end": 60.252
+      },
+      {
+        "text": "mal.",
+        "start": 60.352,
+        "end": 60.493
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das sieht nach nem Megaspaß aus.",
+    "start": 60.513,
+    "end": 61.953,
+    "words": [
+      {
+        "text": "Das",
+        "start": 60.513,
+        "end": 60.653
+      },
+      {
+        "text": "sieht",
+        "start": 60.673,
+        "end": 60.813
+      },
+      {
+        "text": "nach",
+        "start": 60.833,
+        "end": 60.933
+      },
+      {
+        "text": "nem",
+        "start": 60.993,
+        "end": 61.073
+      },
+      {
+        "text": "Megaspaß",
+        "start": 61.113,
+        "end": 61.713
+      },
+      {
+        "text": "aus.",
+        "start": 61.753,
+        "end": 61.953
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Deine Genarre ist nice, ich will ebenfalls rumballern.",
+    "start": 62.133,
+    "end": 64.655,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 62.133,
+        "end": 62.393
+      },
+      {
+        "text": "Genarre",
+        "start": 62.413,
+        "end": 62.774
+      },
+      {
+        "text": "ist",
+        "start": 62.814,
+        "end": 62.994
+      },
+      {
+        "text": "nice,",
+        "start": 63.034,
+        "end": 63.274
+      },
+      {
+        "text": "ich",
+        "start": 63.294,
+        "end": 63.394
+      },
+      {
+        "text": "will",
+        "start": 63.414,
+        "end": 63.654
+      },
+      {
+        "text": "ebenfalls",
+        "start": 63.694,
+        "end": 64.054
+      },
+      {
+        "text": "rumballern.",
+        "start": 64.154,
+        "end": 64.655
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Hey, das hier ist kein Spiel.",
+    "start": 64.695,
+    "end": 66.255,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 64.695,
+        "end": 65.095
+      },
+      {
+        "text": "das",
+        "start": 65.115,
+        "end": 65.255
+      },
+      {
+        "text": "hier",
+        "start": 65.275,
+        "end": 65.375
+      },
+      {
+        "text": "ist",
+        "start": 65.415,
+        "end": 65.535
+      },
+      {
+        "text": "kein",
+        "start": 65.575,
+        "end": 65.735
+      },
+      {
+        "text": "Spiel.",
+        "start": 65.775,
+        "end": 66.255
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Also übt ordentlich, hört ihr?",
+    "start": 66.295,
+    "end": 67.556,
+    "words": [
+      {
+        "text": "Also",
+        "start": 66.295,
+        "end": 66.495
+      },
+      {
+        "text": "übt",
+        "start": 66.555,
+        "end": 66.736
+      },
+      {
+        "text": "ordentlich,",
+        "start": 66.776,
+        "end": 67.116
+      },
+      {
+        "text": "hört",
+        "start": 67.196,
+        "end": 67.336
+      },
+      {
+        "text": "ihr?",
+        "start": 67.376,
+        "end": 67.556
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Tun wir doch.",
+    "start": 67.576,
+    "end": 68.336,
+    "words": [
+      {
+        "text": "Tun",
+        "start": 67.576,
+        "end": 67.916
+      },
+      {
+        "text": "wir",
+        "start": 67.936,
+        "end": 68.076
+      },
+      {
+        "text": "doch.",
+        "start": 68.096,
+        "end": 68.336
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Entspann dich, Brudi.",
+    "start": 68.376,
+    "end": 69.157,
+    "words": [
+      {
+        "text": "Entspann",
+        "start": 68.376,
+        "end": 68.677
+      },
+      {
+        "text": "dich,",
+        "start": 68.697,
+        "end": 68.857
+      },
+      {
+        "text": "Brudi.",
+        "start": 68.897,
+        "end": 69.157
+      }
+    ]
+  }
+]

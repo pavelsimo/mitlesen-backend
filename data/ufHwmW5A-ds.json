@@ -1,0 +1,1284 @@
+[
+  {
+    "id": 0,
+    "text": " Kay, hör mir zu.",
+    "start": 0.411,
+    "end": 1.952,
+    "words": [
+      {
+        "text": "Kay,",
+        "start": 0.411,
+        "end": 0.571
+      },
+      {
+        "text": "hör",
+        "start": 0.591,
+        "end": 0.771
+      },
+      {
+        "text": "mir",
+        "start": 0.811,
+        "end": 0.951
+      },
+      {
+        "text": "zu.",
+        "start": 0.971,
+        "end": 1.952
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Den Seelenschmerz gibt es in allen Formen.",
+    "start": 1.992,
+    "end": 5.573,
+    "words": [
+      {
+        "text": "Den",
+        "start": 1.992,
+        "end": 2.172
+      },
+      {
+        "text": "Seelenschmerz",
+        "start": 2.192,
+        "end": 2.932
+      },
+      {
+        "text": "gibt",
+        "start": 2.952,
+        "end": 3.112
+      },
+      {
+        "text": "es",
+        "start": 3.172,
+        "end": 3.312
+      },
+      {
+        "text": "in",
+        "start": 3.352,
+        "end": 3.472
+      },
+      {
+        "text": "allen",
+        "start": 3.512,
+        "end": 3.772
+      },
+      {
+        "text": "Formen.",
+        "start": 3.812,
+        "end": 5.573
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Es ist kein Wunder, dass dieses Geheimnis deine Seele immer noch quält.",
+    "start": 5.613,
+    "end": 10.414,
+    "words": [
+      {
+        "text": "Es",
+        "start": 5.613,
+        "end": 5.713
+      },
+      {
+        "text": "ist",
+        "start": 5.753,
+        "end": 5.933
+      },
+      {
+        "text": "kein",
+        "start": 5.953,
+        "end": 6.153
+      },
+      {
+        "text": "Wunder,",
+        "start": 6.193,
+        "end": 6.453
+      },
+      {
+        "text": "dass",
+        "start": 6.493,
+        "end": 6.693
+      },
+      {
+        "text": "dieses",
+        "start": 6.713,
+        "end": 6.973
+      },
+      {
+        "text": "Geheimnis",
+        "start": 6.993,
+        "end": 7.373
+      },
+      {
+        "text": "deine",
+        "start": 7.393,
+        "end": 7.673
+      },
+      {
+        "text": "Seele",
+        "start": 7.693,
+        "end": 7.973
+      },
+      {
+        "text": "immer",
+        "start": 8.013,
+        "end": 8.173
+      },
+      {
+        "text": "noch",
+        "start": 8.213,
+        "end": 8.373
+      },
+      {
+        "text": "quält.",
+        "start": 8.393,
+        "end": 10.414
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Menschen mit Dunkelheit im Herzen werden sich immer anziehen.",
+    "start": 10.434,
+    "end": 13.095,
+    "words": [
+      {
+        "text": "Menschen",
+        "start": 10.434,
+        "end": 10.734
+      },
+      {
+        "text": "mit",
+        "start": 10.754,
+        "end": 10.854
+      },
+      {
+        "text": "Dunkelheit",
+        "start": 10.894,
+        "end": 11.334
+      },
+      {
+        "text": "im",
+        "start": 11.374,
+        "end": 11.454
+      },
+      {
+        "text": "Herzen",
+        "start": 11.494,
+        "end": 11.794
+      },
+      {
+        "text": "werden",
+        "start": 11.814,
+        "end": 12.035
+      },
+      {
+        "text": "sich",
+        "start": 12.075,
+        "end": 12.235
+      },
+      {
+        "text": "immer",
+        "start": 12.255,
+        "end": 12.455
+      },
+      {
+        "text": "anziehen.",
+        "start": 12.495,
+        "end": 13.095
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Und der Stärkere will den Schwächeren verschlingen, um seine eigene Seele zu befriedigen.",
+    "start": 13.135,
+    "end": 18.156,
+    "words": [
+      {
+        "text": "Und",
+        "start": 13.135,
+        "end": 13.275
+      },
+      {
+        "text": "der",
+        "start": 13.295,
+        "end": 13.435
+      },
+      {
+        "text": "Stärkere",
+        "start": 13.455,
+        "end": 14.375
+      },
+      {
+        "text": "will",
+        "start": 14.395,
+        "end": 14.555
+      },
+      {
+        "text": "den",
+        "start": 14.595,
+        "end": 14.735
+      },
+      {
+        "text": "Schwächeren",
+        "start": 14.755,
+        "end": 15.295
+      },
+      {
+        "text": "verschlingen,",
+        "start": 15.315,
+        "end": 16.376
+      },
+      {
+        "text": "um",
+        "start": 16.416,
+        "end": 16.596
+      },
+      {
+        "text": "seine",
+        "start": 16.616,
+        "end": 16.876
+      },
+      {
+        "text": "eigene",
+        "start": 16.916,
+        "end": 17.256
+      },
+      {
+        "text": "Seele",
+        "start": 17.276,
+        "end": 17.556
+      },
+      {
+        "text": "zu",
+        "start": 17.576,
+        "end": 17.656
+      },
+      {
+        "text": "befriedigen.",
+        "start": 17.696,
+        "end": 18.156
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Was... was willst du mir damit sagen?",
+    "start": 18.596,
+    "end": 23.238,
+    "words": [
+      {
+        "text": "Was...",
+        "start": 18.596,
+        "end": 18.696
+      },
+      {
+        "text": "was",
+        "start": 18.716,
+        "end": 18.796
+      },
+      {
+        "text": "willst",
+        "start": 18.816,
+        "end": 19.937
+      },
+      {
+        "text": "du",
+        "start": 21.077,
+        "end": 21.917
+      },
+      {
+        "text": "mir",
+        "start": 21.957,
+        "end": 22.137
+      },
+      {
+        "text": "damit",
+        "start": 22.157,
+        "end": 22.458
+      },
+      {
+        "text": "sagen?",
+        "start": 22.498,
+        "end": 23.238
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "In dieser Welt existiert Finsternis, die dunkler ist als alles, was du dir vorstellen kannst.",
+    "start": 23.278,
+    "end": 27.279,
+    "words": [
+      {
+        "text": "In",
+        "start": 23.278,
+        "end": 23.418
+      },
+      {
+        "text": "dieser",
+        "start": 23.438,
+        "end": 23.658
+      },
+      {
+        "text": "Welt",
+        "start": 23.678,
+        "end": 23.898
+      },
+      {
+        "text": "existiert",
+        "start": 23.938,
+        "end": 24.378
+      },
+      {
+        "text": "Finsternis,",
+        "start": 24.418,
+        "end": 24.938
+      },
+      {
+        "text": "die",
+        "start": 24.958,
+        "end": 25.078
+      },
+      {
+        "text": "dunkler",
+        "start": 25.118,
+        "end": 25.418
+      },
+      {
+        "text": "ist",
+        "start": 25.458,
+        "end": 25.578
+      },
+      {
+        "text": "als",
+        "start": 25.618,
+        "end": 25.819
+      },
+      {
+        "text": "alles,",
+        "start": 25.839,
+        "end": 26.059
+      },
+      {
+        "text": "was",
+        "start": 26.119,
+        "end": 26.239
+      },
+      {
+        "text": "du",
+        "start": 26.279,
+        "end": 26.359
+      },
+      {
+        "text": "dir",
+        "start": 26.379,
+        "end": 26.539
+      },
+      {
+        "text": "vorstellen",
+        "start": 26.559,
+        "end": 26.999
+      },
+      {
+        "text": "kannst.",
+        "start": 27.039,
+        "end": 27.279
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Aber eines kann ich dir auf jeden Fall versprechen, Keika Ruizawa.",
+    "start": 32.455,
+    "end": 36.257,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 32.455,
+        "end": 32.695
+      },
+      {
+        "text": "eines",
+        "start": 32.755,
+        "end": 33.035
+      },
+      {
+        "text": "kann",
+        "start": 33.075,
+        "end": 33.235
+      },
+      {
+        "text": "ich",
+        "start": 33.275,
+        "end": 33.356
+      },
+      {
+        "text": "dir",
+        "start": 33.396,
+        "end": 33.516
+      },
+      {
+        "text": "auf",
+        "start": 33.556,
+        "end": 33.696
+      },
+      {
+        "text": "jeden",
+        "start": 33.716,
+        "end": 33.916
+      },
+      {
+        "text": "Fall",
+        "start": 33.956,
+        "end": 34.156
+      },
+      {
+        "text": "versprechen,",
+        "start": 34.196,
+        "end": 34.896
+      },
+      {
+        "text": "Keika",
+        "start": 34.936,
+        "end": 35.276
+      },
+      {
+        "text": "Ruizawa.",
+        "start": 35.296,
+        "end": 36.257
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Wenn du möchtest, werde ich dich von nun an vor Gefahren beschützen.",
+    "start": 36.277,
+    "end": 42.62,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 36.277,
+        "end": 36.417
+      },
+      {
+        "text": "du",
+        "start": 36.437,
+        "end": 36.597
+      },
+      {
+        "text": "möchtest,",
+        "start": 36.617,
+        "end": 37.077
+      },
+      {
+        "text": "werde",
+        "start": 37.097,
+        "end": 37.277
+      },
+      {
+        "text": "ich",
+        "start": 37.317,
+        "end": 37.417
+      },
+      {
+        "text": "dich",
+        "start": 37.437,
+        "end": 37.557
+      },
+      {
+        "text": "von",
+        "start": 37.597,
+        "end": 37.757
+      },
+      {
+        "text": "nun",
+        "start": 37.777,
+        "end": 37.978
+      },
+      {
+        "text": "an",
+        "start": 38.018,
+        "end": 38.438
+      },
+      {
+        "text": "vor",
+        "start": 38.458,
+        "end": 38.598
+      },
+      {
+        "text": "Gefahren",
+        "start": 38.638,
+        "end": 39.198
+      },
+      {
+        "text": "beschützen.",
+        "start": 39.238,
+        "end": 42.62
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Und zwar viel effektiver, als deine Zweckfreunde es bisher taten.",
+    "start": 42.66,
+    "end": 53.825,
+    "words": [
+      {
+        "text": "Und",
+        "start": 42.66,
+        "end": 42.84
+      },
+      {
+        "text": "zwar",
+        "start": 42.88,
+        "end": 43.14
+      },
+      {
+        "text": "viel",
+        "start": 43.16,
+        "end": 43.34
+      },
+      {
+        "text": "effektiver,",
+        "start": 43.38,
+        "end": 44.0
+      },
+      {
+        "text": "als",
+        "start": 44.02,
+        "end": 44.16
+      },
+      {
+        "text": "deine",
+        "start": 44.18,
+        "end": 44.4
+      },
+      {
+        "text": "Zweckfreunde",
+        "start": 44.44,
+        "end": 44.981
+      },
+      {
+        "text": "es",
+        "start": 45.001,
+        "end": 45.141
+      },
+      {
+        "text": "bisher",
+        "start": 45.161,
+        "end": 45.421
+      },
+      {
+        "text": "taten.",
+        "start": 45.461,
+        "end": 53.825
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wenn sie dich das nächste Mal angreifen wollen, bekommt jeder an der Schule das Video zu sehen und die Gruppe ist Geschichte.",
+    "start": 53.845,
+    "end": 59.047,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 53.845,
+        "end": 54.005
+      },
+      {
+        "text": "sie",
+        "start": 54.045,
+        "end": 54.145
+      },
+      {
+        "text": "dich",
+        "start": 54.165,
+        "end": 54.285
+      },
+      {
+        "text": "das",
+        "start": 54.325,
+        "end": 54.465
+      },
+      {
+        "text": "nächste",
+        "start": 54.485,
+        "end": 54.745
+      },
+      {
+        "text": "Mal",
+        "start": 54.785,
+        "end": 54.945
+      },
+      {
+        "text": "angreifen",
+        "start": 54.965,
+        "end": 55.425
+      },
+      {
+        "text": "wollen,",
+        "start": 55.445,
+        "end": 55.966
+      },
+      {
+        "text": "bekommt",
+        "start": 55.986,
+        "end": 56.306
+      },
+      {
+        "text": "jeder",
+        "start": 56.326,
+        "end": 56.486
+      },
+      {
+        "text": "an",
+        "start": 56.526,
+        "end": 56.606
+      },
+      {
+        "text": "der",
+        "start": 56.626,
+        "end": 56.726
+      },
+      {
+        "text": "Schule",
+        "start": 56.746,
+        "end": 56.986
+      },
+      {
+        "text": "das",
+        "start": 57.006,
+        "end": 57.166
+      },
+      {
+        "text": "Video",
+        "start": 57.186,
+        "end": 57.526
+      },
+      {
+        "text": "zu",
+        "start": 57.546,
+        "end": 57.646
+      },
+      {
+        "text": "sehen",
+        "start": 57.706,
+        "end": 57.866
+      },
+      {
+        "text": "und",
+        "start": 57.906,
+        "end": 58.066
+      },
+      {
+        "text": "die",
+        "start": 58.086,
+        "end": 58.166
+      },
+      {
+        "text": "Gruppe",
+        "start": 58.186,
+        "end": 58.447
+      },
+      {
+        "text": "ist",
+        "start": 58.507,
+        "end": 58.687
+      },
+      {
+        "text": "Geschichte.",
+        "start": 58.707,
+        "end": 59.047
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Aber eine Hand wäscht die andere.",
+    "start": 60.857,
+    "end": 63.358,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 60.857,
+        "end": 61.057
+      },
+      {
+        "text": "eine",
+        "start": 61.097,
+        "end": 61.257
+      },
+      {
+        "text": "Hand",
+        "start": 61.277,
+        "end": 61.437
+      },
+      {
+        "text": "wäscht",
+        "start": 61.477,
+        "end": 61.657
+      },
+      {
+        "text": "die",
+        "start": 61.677,
+        "end": 61.777
+      },
+      {
+        "text": "andere.",
+        "start": 61.797,
+        "end": 63.358
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich möchte, dass du mir bei etwas behilflich bist.",
+    "start": 63.398,
+    "end": 65.519,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 63.398,
+        "end": 63.538
+      },
+      {
+        "text": "möchte,",
+        "start": 63.558,
+        "end": 63.858
+      },
+      {
+        "text": "dass",
+        "start": 63.878,
+        "end": 64.018
+      },
+      {
+        "text": "du",
+        "start": 64.058,
+        "end": 64.158
+      },
+      {
+        "text": "mir",
+        "start": 64.178,
+        "end": 64.298
+      },
+      {
+        "text": "bei",
+        "start": 64.318,
+        "end": 64.498
+      },
+      {
+        "text": "etwas",
+        "start": 64.538,
+        "end": 64.778
+      },
+      {
+        "text": "behilflich",
+        "start": 64.798,
+        "end": 65.299
+      },
+      {
+        "text": "bist.",
+        "start": 65.339,
+        "end": 65.519
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und wobei soll ich dir helfen?",
+    "start": 66.399,
+    "end": 68.56,
+    "words": [
+      {
+        "text": "Und",
+        "start": 66.399,
+        "end": 67.079
+      },
+      {
+        "text": "wobei",
+        "start": 67.099,
+        "end": 67.419
+      },
+      {
+        "text": "soll",
+        "start": 67.439,
+        "end": 67.62
+      },
+      {
+        "text": "ich",
+        "start": 67.64,
+        "end": 67.82
+      },
+      {
+        "text": "dir",
+        "start": 67.84,
+        "end": 67.96
+      },
+      {
+        "text": "helfen?",
+        "start": 68.0,
+        "end": 68.56
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Die Aufstiegschancen für die D-Klasse stehen schlecht.",
+    "start": 68.58,
+    "end": 72.221,
+    "words": [
+      {
+        "text": "Die",
+        "start": 68.58,
+        "end": 68.74
+      },
+      {
+        "text": "Aufstiegschancen",
+        "start": 68.78,
+        "end": 69.6
+      },
+      {
+        "text": "für",
+        "start": 69.64,
+        "end": 69.72
+      },
+      {
+        "text": "die",
+        "start": 69.74,
+        "end": 69.84
+      },
+      {
+        "text": "D-Klasse",
+        "start": 69.88,
+        "end": 70.381
+      },
+      {
+        "text": "stehen",
+        "start": 70.421,
+        "end": 70.681
+      },
+      {
+        "text": "schlecht.",
+        "start": 70.721,
+        "end": 72.221
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich brauche jemanden, der es schafft, die Mädchen in den Griff zu bekommen.",
+    "start": 72.281,
+    "end": 75.442,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 72.281,
+        "end": 72.361
+      },
+      {
+        "text": "brauche",
+        "start": 72.401,
+        "end": 72.801
+      },
+      {
+        "text": "jemanden,",
+        "start": 72.821,
+        "end": 73.262
+      },
+      {
+        "text": "der",
+        "start": 73.302,
+        "end": 73.382
+      },
+      {
+        "text": "es",
+        "start": 73.422,
+        "end": 73.522
+      },
+      {
+        "text": "schafft,",
+        "start": 73.542,
+        "end": 73.802
+      },
+      {
+        "text": "die",
+        "start": 73.822,
+        "end": 73.922
+      },
+      {
+        "text": "Mädchen",
+        "start": 73.942,
+        "end": 74.222
+      },
+      {
+        "text": "in",
+        "start": 74.262,
+        "end": 74.322
+      },
+      {
+        "text": "den",
+        "start": 74.362,
+        "end": 74.442
+      },
+      {
+        "text": "Griff",
+        "start": 74.482,
+        "end": 74.682
+      },
+      {
+        "text": "zu",
+        "start": 74.702,
+        "end": 74.782
+      },
+      {
+        "text": "bekommen.",
+        "start": 74.802,
+        "end": 75.442
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ich will einen besseren Gruppenzusammenhalt.",
+    "start": 75.502,
+    "end": 78.503,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 75.502,
+        "end": 75.602
+      },
+      {
+        "text": "will",
+        "start": 75.622,
+        "end": 75.822
+      },
+      {
+        "text": "einen",
+        "start": 75.842,
+        "end": 76.043
+      },
+      {
+        "text": "besseren",
+        "start": 76.063,
+        "end": 76.423
+      },
+      {
+        "text": "Gruppenzusammenhalt.",
+        "start": 76.463,
+        "end": 78.503
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Und leider ist Susanne dieser Aufgabe nicht gewachsen.",
+    "start": 78.543,
+    "end": 81.004,
+    "words": [
+      {
+        "text": "Und",
+        "start": 78.543,
+        "end": 78.744
+      },
+      {
+        "text": "leider",
+        "start": 78.784,
+        "end": 79.044
+      },
+      {
+        "text": "ist",
+        "start": 79.084,
+        "end": 79.264
+      },
+      {
+        "text": "Susanne",
+        "start": 79.304,
+        "end": 79.764
+      },
+      {
+        "text": "dieser",
+        "start": 79.784,
+        "end": 79.984
+      },
+      {
+        "text": "Aufgabe",
+        "start": 80.024,
+        "end": 80.404
+      },
+      {
+        "text": "nicht",
+        "start": 80.424,
+        "end": 80.604
+      },
+      {
+        "text": "gewachsen.",
+        "start": 80.644,
+        "end": 81.004
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ja, aber wie soll ich... Du arbeitest für mich und ich arbeite für dich.",
+    "start": 82.365,
+    "end": 88.127,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 82.365,
+        "end": 82.705
+      },
+      {
+        "text": "aber",
+        "start": 82.785,
+        "end": 83.365
+      },
+      {
+        "text": "wie",
+        "start": 83.385,
+        "end": 83.585
+      },
+      {
+        "text": "soll",
+        "start": 83.645,
+        "end": 83.825
+      },
+      {
+        "text": "ich...",
+        "start": 83.885,
+        "end": 84.846
+      },
+      {
+        "text": "Du",
+        "start": 84.886,
+        "end": 85.146
+      },
+      {
+        "text": "arbeitest",
+        "start": 85.186,
+        "end": 85.646
+      },
+      {
+        "text": "für",
+        "start": 85.666,
+        "end": 85.806
+      },
+      {
+        "text": "mich",
+        "start": 85.826,
+        "end": 86.866
+      },
+      {
+        "text": "und",
+        "start": 86.906,
+        "end": 87.127
+      },
+      {
+        "text": "ich",
+        "start": 87.167,
+        "end": 87.347
+      },
+      {
+        "text": "arbeite",
+        "start": 87.407,
+        "end": 87.787
+      },
+      {
+        "text": "für",
+        "start": 87.827,
+        "end": 87.947
+      },
+      {
+        "text": "dich.",
+        "start": 87.967,
+        "end": 88.127
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Dieses Verhältnis reicht dir doch, oder?",
+    "start": 90.083,
+    "end": 96.909,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 90.083,
+        "end": 90.303
+      },
+      {
+        "text": "Verhältnis",
+        "start": 90.343,
+        "end": 90.784
+      },
+      {
+        "text": "reicht",
+        "start": 90.844,
+        "end": 91.044
+      },
+      {
+        "text": "dir",
+        "start": 91.084,
+        "end": 91.224
+      },
+      {
+        "text": "doch,",
+        "start": 91.244,
+        "end": 91.484
+      },
+      {
+        "text": "oder?",
+        "start": 91.545,
+        "end": 96.909
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Einverstanden.",
+    "start": 96.949,
+    "end": 98.691,
+    "words": [
+      {
+        "text": "Einverstanden.",
+        "start": 96.949,
+        "end": 98.691
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Ich werde dir helfen, aber was soll ich tun?",
+    "start": 98.731,
+    "end": 101.353,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 98.731,
+        "end": 98.871
+      },
+      {
+        "text": "werde",
+        "start": 98.911,
+        "end": 99.171
+      },
+      {
+        "text": "dir",
+        "start": 99.211,
+        "end": 99.331
+      },
+      {
+        "text": "helfen,",
+        "start": 99.371,
+        "end": 99.672
+      },
+      {
+        "text": "aber",
+        "start": 99.712,
+        "end": 99.892
+      },
+      {
+        "text": "was",
+        "start": 99.932,
+        "end": 100.032
+      },
+      {
+        "text": "soll",
+        "start": 100.072,
+        "end": 100.232
+      },
+      {
+        "text": "ich",
+        "start": 100.272,
+        "end": 100.412
+      },
+      {
+        "text": "tun?",
+        "start": 100.452,
+        "end": 101.353
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Zunächst einmal werden wir bei der Prüfung gewinnen.",
+    "start": 101.373,
+    "end": 105.957,
+    "words": [
+      {
+        "text": "Zunächst",
+        "start": 101.373,
+        "end": 101.833
+      },
+      {
+        "text": "einmal",
+        "start": 101.874,
+        "end": 102.654
+      },
+      {
+        "text": "werden",
+        "start": 102.694,
+        "end": 102.894
+      },
+      {
+        "text": "wir",
+        "start": 102.914,
+        "end": 103.075
+      },
+      {
+        "text": "bei",
+        "start": 103.095,
+        "end": 103.195
+      },
+      {
+        "text": "der",
+        "start": 103.215,
+        "end": 103.355
+      },
+      {
+        "text": "Prüfung",
+        "start": 103.395,
+        "end": 103.795
+      },
+      {
+        "text": "gewinnen.",
+        "start": 103.815,
+        "end": 105.957
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Na, du bist doch...",
+    "start": 105.997,
+    "end": 106.878,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 105.997,
+        "end": 106.257
+      },
+      {
+        "text": "du",
+        "start": 106.277,
+        "end": 106.377
+      },
+      {
+        "text": "bist",
+        "start": 106.478,
+        "end": 106.658
+      },
+      {
+        "text": "doch...",
+        "start": 106.678,
+        "end": 106.878
+      }
+    ]
+  }
+]

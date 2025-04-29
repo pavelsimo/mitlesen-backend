@@ -1,0 +1,451 @@
+[
+  {
+    "id": 0,
+    "text": " Der Engelsteufel.",
+    "start": 4.436,
+    "end": 6.177,
+    "words": [
+      {
+        "text": "Der",
+        "start": 4.436,
+        "end": 4.776
+      },
+      {
+        "text": "Engelsteufel.",
+        "start": 4.836,
+        "end": 6.177
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Er ist zwar nicht feindselig gegenüber Menschen, aber haltet euch trotzdem von ihm fern.",
+    "start": 6.257,
+    "end": 10.701,
+    "words": [
+      {
+        "text": "Er",
+        "start": 6.257,
+        "end": 6.317
+      },
+      {
+        "text": "ist",
+        "start": 6.337,
+        "end": 6.497
+      },
+      {
+        "text": "zwar",
+        "start": 6.537,
+        "end": 6.717
+      },
+      {
+        "text": "nicht",
+        "start": 6.757,
+        "end": 6.898
+      },
+      {
+        "text": "feindselig",
+        "start": 6.938,
+        "end": 7.458
+      },
+      {
+        "text": "gegenüber",
+        "start": 7.498,
+        "end": 7.918
+      },
+      {
+        "text": "Menschen,",
+        "start": 7.958,
+        "end": 8.319
+      },
+      {
+        "text": "aber",
+        "start": 8.339,
+        "end": 8.519
+      },
+      {
+        "text": "haltet",
+        "start": 8.559,
+        "end": 8.859
+      },
+      {
+        "text": "euch",
+        "start": 8.879,
+        "end": 9.079
+      },
+      {
+        "text": "trotzdem",
+        "start": 9.119,
+        "end": 9.56
+      },
+      {
+        "text": "von",
+        "start": 9.6,
+        "end": 9.72
+      },
+      {
+        "text": "ihm",
+        "start": 9.76,
+        "end": 9.94
+      },
+      {
+        "text": "fern.",
+        "start": 9.98,
+        "end": 10.701
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Seine Berührung saugt eure Lebenszeit aus.",
+    "start": 10.821,
+    "end": 13.203,
+    "words": [
+      {
+        "text": "Seine",
+        "start": 10.821,
+        "end": 11.101
+      },
+      {
+        "text": "Berührung",
+        "start": 11.121,
+        "end": 11.641
+      },
+      {
+        "text": "saugt",
+        "start": 11.681,
+        "end": 11.922
+      },
+      {
+        "text": "eure",
+        "start": 11.942,
+        "end": 12.242
+      },
+      {
+        "text": "Lebenszeit",
+        "start": 12.282,
+        "end": 12.862
+      },
+      {
+        "text": "aus.",
+        "start": 12.983,
+        "end": 13.203
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Hey, Duda.",
+    "start": 17.486,
+    "end": 26.634,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 17.486,
+        "end": 25.793
+      },
+      {
+        "text": "Duda.",
+        "start": 25.813,
+        "end": 26.634
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Hast du ein Taschentuch für mich?",
+    "start": 26.674,
+    "end": 27.915,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 26.674,
+        "end": 26.834
+      },
+      {
+        "text": "du",
+        "start": 26.854,
+        "end": 26.954
+      },
+      {
+        "text": "ein",
+        "start": 26.974,
+        "end": 27.054
+      },
+      {
+        "text": "Taschentuch",
+        "start": 27.094,
+        "end": 27.595
+      },
+      {
+        "text": "für",
+        "start": 27.635,
+        "end": 27.775
+      },
+      {
+        "text": "mich?",
+        "start": 27.795,
+        "end": 27.915
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Du bist ganz schön mutig, dich mir zu nähern.",
+    "start": 40.484,
+    "end": 42.846,
+    "words": [
+      {
+        "text": "Du",
+        "start": 40.484,
+        "end": 40.584
+      },
+      {
+        "text": "bist",
+        "start": 40.604,
+        "end": 40.684
+      },
+      {
+        "text": "ganz",
+        "start": 40.724,
+        "end": 40.865
+      },
+      {
+        "text": "schön",
+        "start": 40.885,
+        "end": 41.045
+      },
+      {
+        "text": "mutig,",
+        "start": 41.085,
+        "end": 41.345
+      },
+      {
+        "text": "dich",
+        "start": 41.365,
+        "end": 41.505
+      },
+      {
+        "text": "mir",
+        "start": 41.545,
+        "end": 41.685
+      },
+      {
+        "text": "zu",
+        "start": 41.725,
+        "end": 41.825
+      },
+      {
+        "text": "nähern.",
+        "start": 41.885,
+        "end": 42.846
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Mich zu berühren verkürzt deine Lebenszeit.",
+    "start": 42.866,
+    "end": 45.929,
+    "words": [
+      {
+        "text": "Mich",
+        "start": 42.866,
+        "end": 43.066
+      },
+      {
+        "text": "zu",
+        "start": 43.086,
+        "end": 43.166
+      },
+      {
+        "text": "berühren",
+        "start": 43.186,
+        "end": 43.527
+      },
+      {
+        "text": "verkürzt",
+        "start": 43.567,
+        "end": 43.947
+      },
+      {
+        "text": "deine",
+        "start": 43.967,
+        "end": 44.147
+      },
+      {
+        "text": "Lebenszeit.",
+        "start": 44.187,
+        "end": 45.929
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Es war ja noch das Tuch dazwischen.",
+    "start": 45.989,
+    "end": 50.172,
+    "words": [
+      {
+        "text": "Es",
+        "start": 45.989,
+        "end": 46.109
+      },
+      {
+        "text": "war",
+        "start": 46.149,
+        "end": 46.289
+      },
+      {
+        "text": "ja",
+        "start": 46.329,
+        "end": 46.429
+      },
+      {
+        "text": "noch",
+        "start": 46.449,
+        "end": 46.609
+      },
+      {
+        "text": "das",
+        "start": 46.629,
+        "end": 46.789
+      },
+      {
+        "text": "Tuch",
+        "start": 46.829,
+        "end": 47.009
+      },
+      {
+        "text": "dazwischen.",
+        "start": 47.07,
+        "end": 50.172
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Autschi, Dautschi.",
+    "start": 50.252,
+    "end": 56.117,
+    "words": [
+      {
+        "text": "Autschi,",
+        "start": 50.252,
+        "end": 50.632
+      },
+      {
+        "text": "Dautschi.",
+        "start": 50.672,
+        "end": 56.117
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Teufel.",
+    "start": 56.157,
+    "end": 57.278,
+    "words": [
+      {
+        "text": "Teufel.",
+        "start": 56.157,
+        "end": 57.278
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Bring den hier nach draußen.",
+    "start": 57.298,
+    "end": 58.939,
+    "words": [
+      {
+        "text": "Bring",
+        "start": 57.298,
+        "end": 57.458
+      },
+      {
+        "text": "den",
+        "start": 57.478,
+        "end": 57.658
+      },
+      {
+        "text": "hier",
+        "start": 57.698,
+        "end": 57.798
+      },
+      {
+        "text": "nach",
+        "start": 57.838,
+        "end": 57.958
+      },
+      {
+        "text": "draußen.",
+        "start": 57.998,
+        "end": 58.939
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ein rauer Befehlston.",
+    "start": 58.979,
+    "end": 60.34,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 58.979,
+        "end": 59.139
+      },
+      {
+        "text": "rauer",
+        "start": 59.179,
+        "end": 59.44
+      },
+      {
+        "text": "Befehlston.",
+        "start": 59.48,
+        "end": 60.34
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Naja, besser als kämpfen zu müssen.",
+    "start": 61.261,
+    "end": 63.523,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 61.261,
+        "end": 62.242
+      },
+      {
+        "text": "besser",
+        "start": 62.282,
+        "end": 62.522
+      },
+      {
+        "text": "als",
+        "start": 62.562,
+        "end": 62.722
+      },
+      {
+        "text": "kämpfen",
+        "start": 62.762,
+        "end": 63.103
+      },
+      {
+        "text": "zu",
+        "start": 63.143,
+        "end": 63.263
+      },
+      {
+        "text": "müssen.",
+        "start": 63.303,
+        "end": 63.523
+      }
+    ]
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "id": 0,
+    "text": " Frieren irre.",
+    "start": 2.343,
+    "end": 3.424,
+    "words": [
+      {
+        "text": "Frieren",
+        "start": 2.343,
+        "end": 2.963
+      },
+      {
+        "text": "irre.",
+        "start": 3.003,
+        "end": 3.424
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Unglaublich, wie gut das schmeckt.",
+    "start": 3.484,
+    "end": 5.885,
+    "words": [
+      {
+        "text": "Unglaublich,",
+        "start": 3.484,
+        "end": 4.064
+      },
+      {
+        "text": "wie",
+        "start": 4.104,
+        "end": 4.264
+      },
+      {
+        "text": "gut",
+        "start": 4.284,
+        "end": 4.464
+      },
+      {
+        "text": "das",
+        "start": 4.504,
+        "end": 4.624
+      },
+      {
+        "text": "schmeckt.",
+        "start": 4.684,
+        "end": 5.885
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Es fühlt sich fast unverschämt an, so glücklich zu sein.",
+    "start": 5.945,
+    "end": 15.27,
+    "words": [
+      {
+        "text": "Es",
+        "start": 5.945,
+        "end": 6.085
+      },
+      {
+        "text": "fühlt",
+        "start": 6.125,
+        "end": 6.285
+      },
+      {
+        "text": "sich",
+        "start": 6.305,
+        "end": 6.445
+      },
+      {
+        "text": "fast",
+        "start": 6.465,
+        "end": 6.645
+      },
+      {
+        "text": "unverschämt",
+        "start": 6.685,
+        "end": 7.125
+      },
+      {
+        "text": "an,",
+        "start": 7.185,
+        "end": 7.286
+      },
+      {
+        "text": "so",
+        "start": 7.306,
+        "end": 7.386
+      },
+      {
+        "text": "glücklich",
+        "start": 7.406,
+        "end": 7.786
+      },
+      {
+        "text": "zu",
+        "start": 7.826,
+        "end": 7.926
+      },
+      {
+        "text": "sein.",
+        "start": 7.966,
+        "end": 15.27
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich merke schon, so motiviert er auch war, der Geschmack ist nicht mehr derselbe.",
+    "start": 15.33,
+    "end": 19.252,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 15.33,
+        "end": 15.45
+      },
+      {
+        "text": "merke",
+        "start": 15.49,
+        "end": 15.77
+      },
+      {
+        "text": "schon,",
+        "start": 15.81,
+        "end": 16.65
+      },
+      {
+        "text": "so",
+        "start": 16.69,
+        "end": 16.83
+      },
+      {
+        "text": "motiviert",
+        "start": 16.87,
+        "end": 17.271
+      },
+      {
+        "text": "er",
+        "start": 17.331,
+        "end": 17.411
+      },
+      {
+        "text": "auch",
+        "start": 17.431,
+        "end": 17.571
+      },
+      {
+        "text": "war,",
+        "start": 17.611,
+        "end": 17.811
+      },
+      {
+        "text": "der",
+        "start": 17.831,
+        "end": 17.931
+      },
+      {
+        "text": "Geschmack",
+        "start": 17.951,
+        "end": 18.271
+      },
+      {
+        "text": "ist",
+        "start": 18.311,
+        "end": 18.451
+      },
+      {
+        "text": "nicht",
+        "start": 18.491,
+        "end": 18.631
+      },
+      {
+        "text": "mehr",
+        "start": 18.651,
+        "end": 18.771
+      },
+      {
+        "text": "derselbe.",
+        "start": 18.791,
+        "end": 19.252
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Aber ich muss trotzdem nicht nach was noch Köstlicherem suchen.",
+    "start": 21.993,
+    "end": 27.596,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 21.993,
+        "end": 23.454
+      },
+      {
+        "text": "ich",
+        "start": 23.514,
+        "end": 23.614
+      },
+      {
+        "text": "muss",
+        "start": 23.634,
+        "end": 23.834
+      },
+      {
+        "text": "trotzdem",
+        "start": 23.854,
+        "end": 24.234
+      },
+      {
+        "text": "nicht",
+        "start": 24.274,
+        "end": 24.434
+      },
+      {
+        "text": "nach",
+        "start": 24.454,
+        "end": 24.594
+      },
+      {
+        "text": "was",
+        "start": 24.654,
+        "end": 24.834
+      },
+      {
+        "text": "noch",
+        "start": 24.874,
+        "end": 25.095
+      },
+      {
+        "text": "Köstlicherem",
+        "start": 25.135,
+        "end": 25.755
+      },
+      {
+        "text": "suchen.",
+        "start": 25.795,
+        "end": 27.596
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Das schmeckt nämlich noch viel besser als damals.",
+    "start": 27.636,
+    "end": 29.617,
+    "words": [
+      {
+        "text": "Das",
+        "start": 27.636,
+        "end": 27.796
+      },
+      {
+        "text": "schmeckt",
+        "start": 27.816,
+        "end": 28.096
+      },
+      {
+        "text": "nämlich",
+        "start": 28.136,
+        "end": 28.396
+      },
+      {
+        "text": "noch",
+        "start": 28.416,
+        "end": 28.556
+      },
+      {
+        "text": "viel",
+        "start": 28.576,
+        "end": 28.776
+      },
+      {
+        "text": "besser",
+        "start": 28.796,
+        "end": 29.057
+      },
+      {
+        "text": "als",
+        "start": 29.077,
+        "end": 29.237
+      },
+      {
+        "text": "damals.",
+        "start": 29.277,
+        "end": 29.617
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Oh man, das schmeckt wunderbar!",
+    "start": 35.902,
+    "end": 38.023,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 35.902,
+        "end": 36.102
+      },
+      {
+        "text": "man,",
+        "start": 36.122,
+        "end": 36.302
+      },
+      {
+        "text": "das",
+        "start": 36.342,
+        "end": 36.462
+      },
+      {
+        "text": "schmeckt",
+        "start": 36.482,
+        "end": 36.783
+      },
+      {
+        "text": "wunderbar!",
+        "start": 36.803,
+        "end": 38.023
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Stark, dir klebt dein Essen.",
+    "start": 38.123,
+    "end": 39.924,
+    "words": [
+      {
+        "text": "Stark,",
+        "start": 38.123,
+        "end": 38.523
+      },
+      {
+        "text": "dir",
+        "start": 38.563,
+        "end": 38.643
+      },
+      {
+        "text": "klebt",
+        "start": 38.663,
+        "end": 38.943
+      },
+      {
+        "text": "dein",
+        "start": 38.963,
+        "end": 39.184
+      },
+      {
+        "text": "Essen.",
+        "start": 39.224,
+        "end": 39.924
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Im Gesicht.",
+    "start": 39.984,
+    "end": 41.645,
+    "words": [
+      {
+        "text": "Im",
+        "start": 39.984,
+        "end": 40.144
+      },
+      {
+        "text": "Gesicht.",
+        "start": 40.184,
+        "end": 41.645
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Laufen ist auch ja kein Gemüse auf.",
+    "start": 41.685,
+    "end": 44.066,
+    "words": [
+      {
+        "text": "Laufen",
+        "start": 41.685,
+        "end": 42.145
+      },
+      {
+        "text": "ist",
+        "start": 42.185,
+        "end": 42.325
+      },
+      {
+        "text": "auch",
+        "start": 42.365,
+        "end": 42.465
+      },
+      {
+        "text": "ja",
+        "start": 42.505,
+        "end": 42.665
+      },
+      {
+        "text": "kein",
+        "start": 42.685,
+        "end": 42.845
+      },
+      {
+        "text": "Gemüse",
+        "start": 42.885,
+        "end": 43.305
+      },
+      {
+        "text": "auf.",
+        "start": 43.345,
+        "end": 44.066
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Du übernimmst dich wirklich wie ihr Großvater.",
+    "start": 44.106,
+    "end": 46.887,
+    "words": [
+      {
+        "text": "Du",
+        "start": 44.106,
+        "end": 44.166
+      },
+      {
+        "text": "übernimmst",
+        "start": 44.226,
+        "end": 44.546
+      },
+      {
+        "text": "dich",
+        "start": 44.566,
+        "end": 44.726
+      },
+      {
+        "text": "wirklich",
+        "start": 44.746,
+        "end": 45.066
+      },
+      {
+        "text": "wie",
+        "start": 45.086,
+        "end": 45.206
+      },
+      {
+        "text": "ihr",
+        "start": 45.226,
+        "end": 45.366
+      },
+      {
+        "text": "Großvater.",
+        "start": 45.386,
+        "end": 46.887
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Hm.",
+    "start": 46.927,
+    "end": 47.587,
+    "words": [
+      {
+        "text": "Hm.",
+        "start": 46.927,
+        "end": 47.587
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du haust ja gar nicht richtig rein.",
+    "start": 47.627,
+    "end": 50.368,
+    "words": [
+      {
+        "text": "Du",
+        "start": 47.627,
+        "end": 48.107
+      },
+      {
+        "text": "haust",
+        "start": 48.127,
+        "end": 48.447
+      },
+      {
+        "text": "ja",
+        "start": 48.487,
+        "end": 48.627
+      },
+      {
+        "text": "gar",
+        "start": 48.667,
+        "end": 48.768
+      },
+      {
+        "text": "nicht",
+        "start": 48.788,
+        "end": 48.948
+      },
+      {
+        "text": "richtig",
+        "start": 48.988,
+        "end": 49.228
+      },
+      {
+        "text": "rein.",
+        "start": 49.428,
+        "end": 50.368
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Man muss doch sein Essen genießen.",
+    "start": 50.408,
+    "end": 54.03,
+    "words": [
+      {
+        "text": "Man",
+        "start": 50.408,
+        "end": 50.528
+      },
+      {
+        "text": "muss",
+        "start": 50.548,
+        "end": 50.728
+      },
+      {
+        "text": "doch",
+        "start": 50.748,
+        "end": 50.868
+      },
+      {
+        "text": "sein",
+        "start": 50.888,
+        "end": 51.068
+      },
+      {
+        "text": "Essen",
+        "start": 51.108,
+        "end": 51.329
+      },
+      {
+        "text": "genießen.",
+        "start": 51.349,
+        "end": 54.03
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Das war echt köstlich frierend, nicht wahr?",
+    "start": 54.07,
+    "end": 59.832,
+    "words": [
+      {
+        "text": "Das",
+        "start": 54.07,
+        "end": 54.23
+      },
+      {
+        "text": "war",
+        "start": 54.25,
+        "end": 54.45
+      },
+      {
+        "text": "echt",
+        "start": 54.49,
+        "end": 54.79
+      },
+      {
+        "text": "köstlich",
+        "start": 54.83,
+        "end": 55.31
+      },
+      {
+        "text": "frierend,",
+        "start": 55.33,
+        "end": 55.77
+      },
+      {
+        "text": "nicht",
+        "start": 55.83,
+        "end": 56.011
+      },
+      {
+        "text": "wahr?",
+        "start": 56.051,
+        "end": 59.832
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Zum Glück hat sich ihre Laune gebessert.",
+    "start": 59.852,
+    "end": 61.653,
+    "words": [
+      {
+        "text": "Zum",
+        "start": 59.852,
+        "end": 60.072
+      },
+      {
+        "text": "Glück",
+        "start": 60.092,
+        "end": 60.312
+      },
+      {
+        "text": "hat",
+        "start": 60.332,
+        "end": 60.492
+      },
+      {
+        "text": "sich",
+        "start": 60.512,
+        "end": 60.652
+      },
+      {
+        "text": "ihre",
+        "start": 60.692,
+        "end": 60.873
+      },
+      {
+        "text": "Laune",
+        "start": 60.913,
+        "end": 61.213
+      },
+      {
+        "text": "gebessert.",
+        "start": 61.233,
+        "end": 61.653
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Kurze Frage, wie steht es um unsere Finanzen?",
+    "start": 63.265,
+    "end": 66.096,
+    "words": [
+      {
+        "text": "Kurze",
+        "start": 63.265,
+        "end": 63.506
+      },
+      {
+        "text": "Frage,",
+        "start": 63.526,
+        "end": 63.968
+      },
+      {
+        "text": "wie",
+        "start": 64.008,
+        "end": 64.129
+      },
+      {
+        "text": "steht",
+        "start": 64.169,
+        "end": 64.35
+      },
+      {
+        "text": "es",
+        "start": 64.39,
+        "end": 64.51
+      },
+      {
+        "text": "um",
+        "start": 64.55,
+        "end": 64.671
+      },
+      {
+        "text": "unsere",
+        "start": 64.711,
+        "end": 64.932
+      },
+      {
+        "text": "Finanzen?",
+        "start": 64.972,
+        "end": 66.096
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich würde sagen, wir sind pleite, pleite, pleite.",
+    "start": 66.157,
+    "end": 68.144,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 66.157,
+        "end": 66.237
+      },
+      {
+        "text": "würde",
+        "start": 66.277,
+        "end": 66.438
+      },
+      {
+        "text": "sagen,",
+        "start": 66.478,
+        "end": 66.679
+      },
+      {
+        "text": "wir",
+        "start": 66.699,
+        "end": 66.779
+      },
+      {
+        "text": "sind",
+        "start": 66.839,
+        "end": 67.02
+      },
+      {
+        "text": "pleite,",
+        "start": 67.06,
+        "end": 67.421
+      },
+      {
+        "text": "pleite,",
+        "start": 67.462,
+        "end": 67.843
+      },
+      {
+        "text": "pleite.",
+        "start": 67.863,
+        "end": 68.144
+      }
+    ]
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "id": 0,
+    "text": " Komm, du!",
+    "start": 0.233,
+    "end": 6.534,
+    "words": [
+      {
+        "text": "Komm,",
+        "start": 0.233,
+        "end": 0.953
+      },
+      {
+        "text": "du!",
+        "start": 1.013,
+        "end": 6.534
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ja, Huang.",
+    "start": 6.574,
+    "end": 7.754,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 6.574,
+        "end": 6.874
+      },
+      {
+        "text": "Huang.",
+        "start": 6.934,
+        "end": 7.754
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Du bist stark.",
+    "start": 7.774,
+    "end": 10.535,
+    "words": [
+      {
+        "text": "Du",
+        "start": 7.774,
+        "end": 7.914
+      },
+      {
+        "text": "bist",
+        "start": 7.934,
+        "end": 8.214
+      },
+      {
+        "text": "stark.",
+        "start": 8.254,
+        "end": 10.535
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Doch ich hab schlechte Nachrichten für dich.",
+    "start": 10.575,
+    "end": 12.755,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 10.575,
+        "end": 10.755
+      },
+      {
+        "text": "ich",
+        "start": 10.795,
+        "end": 10.915
+      },
+      {
+        "text": "hab",
+        "start": 10.935,
+        "end": 11.095
+      },
+      {
+        "text": "schlechte",
+        "start": 11.135,
+        "end": 11.615
+      },
+      {
+        "text": "Nachrichten",
+        "start": 11.635,
+        "end": 12.155
+      },
+      {
+        "text": "für",
+        "start": 12.175,
+        "end": 12.275
+      },
+      {
+        "text": "dich.",
+        "start": 12.315,
+        "end": 12.755
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Pech gehabt.",
+    "start": 12.795,
+    "end": 13.375,
+    "words": [
+      {
+        "text": "Pech",
+        "start": 12.795,
+        "end": 12.995
+      },
+      {
+        "text": "gehabt.",
+        "start": 13.015,
+        "end": 13.375
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich kann immer weiter hochleveln.",
+    "start": 13.415,
+    "end": 16.936,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 13.415,
+        "end": 13.515
+      },
+      {
+        "text": "kann",
+        "start": 13.535,
+        "end": 13.915
+      },
+      {
+        "text": "immer",
+        "start": 13.995,
+        "end": 15.776
+      },
+      {
+        "text": "weiter",
+        "start": 15.796,
+        "end": 16.136
+      },
+      {
+        "text": "hochleveln.",
+        "start": 16.156,
+        "end": 16.936
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Was ist da eben passiert?",
+    "start": 16.956,
+    "end": 18.056,
+    "words": [
+      {
+        "text": "Was",
+        "start": 16.956,
+        "end": 17.016
+      },
+      {
+        "text": "ist",
+        "start": 17.036,
+        "end": 17.116
+      },
+      {
+        "text": "da",
+        "start": 17.136,
+        "end": 17.256
+      },
+      {
+        "text": "eben",
+        "start": 17.316,
+        "end": 17.596
+      },
+      {
+        "text": "passiert?",
+        "start": 17.616,
+        "end": 18.056
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Hat er... Hat er mich grad zu Boden geschmettert?",
+    "start": 18.156,
+    "end": 20.576,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 18.156,
+        "end": 18.276
+      },
+      {
+        "text": "er...",
+        "start": 18.356,
+        "end": 18.416
+      },
+      {
+        "text": "Hat",
+        "start": 18.436,
+        "end": 19.136
+      },
+      {
+        "text": "er",
+        "start": 19.376,
+        "end": 19.456
+      },
+      {
+        "text": "mich",
+        "start": 19.476,
+        "end": 19.616
+      },
+      {
+        "text": "grad",
+        "start": 19.636,
+        "end": 19.776
+      },
+      {
+        "text": "zu",
+        "start": 19.796,
+        "end": 19.876
+      },
+      {
+        "text": "Boden",
+        "start": 19.896,
+        "end": 20.056
+      },
+      {
+        "text": "geschmettert?",
+        "start": 20.076,
+        "end": 20.576
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich sag ja...",
+    "start": 20.636,
+    "end": 21.097,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 20.636,
+        "end": 20.856
+      },
+      {
+        "text": "sag",
+        "start": 20.876,
+        "end": 20.997
+      },
+      {
+        "text": "ja...",
+        "start": 21.017,
+        "end": 21.097
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Hey, warte.",
+    "start": 32.819,
+    "end": 34.48,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 32.819,
+        "end": 33.699
+      },
+      {
+        "text": "warte.",
+        "start": 33.799,
+        "end": 34.48
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Töte mich nicht.",
+    "start": 34.52,
+    "end": 35.58,
+    "words": [
+      {
+        "text": "Töte",
+        "start": 34.52,
+        "end": 34.82
+      },
+      {
+        "text": "mich",
+        "start": 34.86,
+        "end": 35.16
+      },
+      {
+        "text": "nicht.",
+        "start": 35.18,
+        "end": 35.58
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Hab Gnade.",
+    "start": 35.62,
+    "end": 36.461,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 35.62,
+        "end": 35.8
+      },
+      {
+        "text": "Gnade.",
+        "start": 35.84,
+        "end": 36.461
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich bezahle dich.",
+    "start": 36.821,
+    "end": 37.521,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 36.821,
+        "end": 36.961
+      },
+      {
+        "text": "bezahle",
+        "start": 37.001,
+        "end": 37.321
+      },
+      {
+        "text": "dich.",
+        "start": 37.381,
+        "end": 37.521
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Du kannst meinetwegen alle Mana-Kristalle und Magie-Kerne für dich behalten.",
+    "start": 37.681,
+    "end": 43.084,
+    "words": [
+      {
+        "text": "Du",
+        "start": 37.681,
+        "end": 38.121
+      },
+      {
+        "text": "kannst",
+        "start": 38.141,
+        "end": 38.421
+      },
+      {
+        "text": "meinetwegen",
+        "start": 38.441,
+        "end": 39.022
+      },
+      {
+        "text": "alle",
+        "start": 39.042,
+        "end": 39.262
+      },
+      {
+        "text": "Mana-Kristalle",
+        "start": 39.302,
+        "end": 40.202
+      },
+      {
+        "text": "und",
+        "start": 40.242,
+        "end": 40.442
+      },
+      {
+        "text": "Magie-Kerne",
+        "start": 40.462,
+        "end": 41.123
+      },
+      {
+        "text": "für",
+        "start": 41.163,
+        "end": 41.223
+      },
+      {
+        "text": "dich",
+        "start": 41.263,
+        "end": 41.543
+      },
+      {
+        "text": "behalten.",
+        "start": 41.563,
+        "end": 43.084
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Oder reicht das etwa noch nicht?",
+    "start": 43.124,
+    "end": 44.384,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 43.124,
+        "end": 43.284
+      },
+      {
+        "text": "reicht",
+        "start": 43.384,
+        "end": 43.564
+      },
+      {
+        "text": "das",
+        "start": 43.604,
+        "end": 43.804
+      },
+      {
+        "text": "etwa",
+        "start": 43.844,
+        "end": 44.044
+      },
+      {
+        "text": "noch",
+        "start": 44.084,
+        "end": 44.224
+      },
+      {
+        "text": "nicht?",
+        "start": 44.264,
+        "end": 44.384
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Na, natürlich.",
+    "start": 44.484,
+    "end": 45.324,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 44.484,
+        "end": 44.644
+      },
+      {
+        "text": "natürlich.",
+        "start": 44.684,
+        "end": 45.324
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ich kann dir auch das Doppelte bezahlen.",
+    "start": 45.365,
+    "end": 47.605,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 45.365,
+        "end": 45.505
+      },
+      {
+        "text": "kann",
+        "start": 45.545,
+        "end": 45.685
+      },
+      {
+        "text": "dir",
+        "start": 45.705,
+        "end": 45.805
+      },
+      {
+        "text": "auch",
+        "start": 45.845,
+        "end": 45.945
+      },
+      {
+        "text": "das",
+        "start": 45.985,
+        "end": 46.125
+      },
+      {
+        "text": "Doppelte",
+        "start": 46.165,
+        "end": 46.525
+      },
+      {
+        "text": "bezahlen.",
+        "start": 46.545,
+        "end": 47.605
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Dreimal.",
+    "start": 47.625,
+    "end": 49.686,
+    "words": [
+      {
+        "text": "Dreimal.",
+        "start": 47.625,
+        "end": 49.686
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Du hast dreimal versucht, mich umzubringen.",
+    "start": 49.726,
+    "end": 53.508,
+    "words": [
+      {
+        "text": "Du",
+        "start": 49.726,
+        "end": 49.886
+      },
+      {
+        "text": "hast",
+        "start": 49.906,
+        "end": 50.127
+      },
+      {
+        "text": "dreimal",
+        "start": 50.167,
+        "end": 50.687
+      },
+      {
+        "text": "versucht,",
+        "start": 50.727,
+        "end": 51.127
+      },
+      {
+        "text": "mich",
+        "start": 51.167,
+        "end": 51.347
+      },
+      {
+        "text": "umzubringen.",
+        "start": 51.387,
+        "end": 53.508
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Und jetzt willst du Gnade?",
+    "start": 53.528,
+    "end": 55.669,
+    "words": [
+      {
+        "text": "Und",
+        "start": 53.528,
+        "end": 53.768
+      },
+      {
+        "text": "jetzt",
+        "start": 53.808,
+        "end": 53.988
+      },
+      {
+        "text": "willst",
+        "start": 54.028,
+        "end": 54.248
+      },
+      {
+        "text": "du",
+        "start": 54.288,
+        "end": 54.388
+      },
+      {
+        "text": "Gnade?",
+        "start": 54.408,
+        "end": 55.669
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Bitte nicht.",
+    "start": 55.709,
+    "end": 56.83,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 55.709,
+        "end": 56.129
+      },
+      {
+        "text": "nicht.",
+        "start": 56.209,
+        "end": 56.83
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Du glaubst doch nicht etwa, du kommst damit durch, ha?",
+    "start": 56.85,
+    "end": 59.951,
+    "words": [
+      {
+        "text": "Du",
+        "start": 56.85,
+        "end": 57.01
+      },
+      {
+        "text": "glaubst",
+        "start": 57.03,
+        "end": 57.23
+      },
+      {
+        "text": "doch",
+        "start": 57.27,
+        "end": 57.43
+      },
+      {
+        "text": "nicht",
+        "start": 57.45,
+        "end": 57.59
+      },
+      {
+        "text": "etwa,",
+        "start": 57.65,
+        "end": 57.87
+      },
+      {
+        "text": "du",
+        "start": 57.89,
+        "end": 58.01
+      },
+      {
+        "text": "kommst",
+        "start": 58.03,
+        "end": 58.27
+      },
+      {
+        "text": "damit",
+        "start": 58.29,
+        "end": 58.61
+      },
+      {
+        "text": "durch,",
+        "start": 58.65,
+        "end": 59.03
+      },
+      {
+        "text": "ha?",
+        "start": 59.051,
+        "end": 59.951
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Was im Dungeon passiert, bleibt im Dungeon.",
+    "start": 59.971,
+    "end": 62.132,
+    "words": [
+      {
+        "text": "Was",
+        "start": 59.971,
+        "end": 60.111
+      },
+      {
+        "text": "im",
+        "start": 60.171,
+        "end": 60.271
+      },
+      {
+        "text": "Dungeon",
+        "start": 60.291,
+        "end": 60.751
+      },
+      {
+        "text": "passiert,",
+        "start": 60.771,
+        "end": 61.251
+      },
+      {
+        "text": "bleibt",
+        "start": 61.291,
+        "end": 61.532
+      },
+      {
+        "text": "im",
+        "start": 61.592,
+        "end": 61.752
+      },
+      {
+        "text": "Dungeon.",
+        "start": 61.792,
+        "end": 62.132
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Deine eigenen Worte.",
+    "start": 63.447,
+    "end": 65.692,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 63.447,
+        "end": 63.988
+      },
+      {
+        "text": "eigenen",
+        "start": 64.008,
+        "end": 64.289
+      },
+      {
+        "text": "Worte.",
+        "start": 64.329,
+        "end": 65.692
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Hörst du, Arschloch?",
+    "start": 65.732,
+    "end": 66.634,
+    "words": [
+      {
+        "text": "Hörst",
+        "start": 65.732,
+        "end": 66.013
+      },
+      {
+        "text": "du,",
+        "start": 66.033,
+        "end": 66.313
+      },
+      {
+        "text": "Arschloch?",
+        "start": 66.353,
+        "end": 66.634
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Er hat doch keine Ahnung, wer mein kleiner Bruder ist!",
+    "start": 66.654,
+    "end": 68.999,
+    "words": [
+      {
+        "text": "Er",
+        "start": 66.654,
+        "end": 66.734
+      },
+      {
+        "text": "hat",
+        "start": 66.754,
+        "end": 66.855
+      },
+      {
+        "text": "doch",
+        "start": 66.875,
+        "end": 66.995
+      },
+      {
+        "text": "keine",
+        "start": 67.015,
+        "end": 67.235
+      },
+      {
+        "text": "Ahnung,",
+        "start": 67.296,
+        "end": 67.556
+      },
+      {
+        "text": "wer",
+        "start": 67.576,
+        "end": 67.656
+      },
+      {
+        "text": "mein",
+        "start": 67.696,
+        "end": 67.977
+      },
+      {
+        "text": "kleiner",
+        "start": 67.997,
+        "end": 68.238
+      },
+      {
+        "text": "Bruder",
+        "start": 68.258,
+        "end": 68.819
+      },
+      {
+        "text": "ist!",
+        "start": 68.879,
+        "end": 68.999
+      }
+    ]
+  }
+]

@@ -1,0 +1,679 @@
+[
+  {
+    "id": 0,
+    "text": " Mhm.",
+    "start": 0.571,
+    "end": 2.391,
+    "words": [
+      {
+        "text": "Mhm.",
+        "start": 0.571,
+        "end": 2.391
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Die ist gut geworden.",
+    "start": 2.431,
+    "end": 5.332,
+    "words": [
+      {
+        "text": "Die",
+        "start": 2.431,
+        "end": 2.551
+      },
+      {
+        "text": "ist",
+        "start": 2.571,
+        "end": 2.731
+      },
+      {
+        "text": "gut",
+        "start": 2.751,
+        "end": 2.911
+      },
+      {
+        "text": "geworden.",
+        "start": 2.951,
+        "end": 5.332
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Und das nach nur fünf Versuchen.",
+    "start": 5.392,
+    "end": 7.152,
+    "words": [
+      {
+        "text": "Und",
+        "start": 5.392,
+        "end": 5.572
+      },
+      {
+        "text": "das",
+        "start": 5.592,
+        "end": 5.852
+      },
+      {
+        "text": "nach",
+        "start": 5.872,
+        "end": 6.032
+      },
+      {
+        "text": "nur",
+        "start": 6.052,
+        "end": 6.252
+      },
+      {
+        "text": "fünf",
+        "start": 6.292,
+        "end": 6.572
+      },
+      {
+        "text": "Versuchen.",
+        "start": 6.612,
+        "end": 7.152
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Dieses Mal hat es ja gar nicht so lange gedauert.",
+    "start": 7.192,
+    "end": 10.473,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 7.192,
+        "end": 7.492
+      },
+      {
+        "text": "Mal",
+        "start": 7.572,
+        "end": 7.773
+      },
+      {
+        "text": "hat",
+        "start": 7.793,
+        "end": 7.913
+      },
+      {
+        "text": "es",
+        "start": 7.973,
+        "end": 8.073
+      },
+      {
+        "text": "ja",
+        "start": 8.093,
+        "end": 8.233
+      },
+      {
+        "text": "gar",
+        "start": 8.273,
+        "end": 8.413
+      },
+      {
+        "text": "nicht",
+        "start": 8.433,
+        "end": 8.593
+      },
+      {
+        "text": "so",
+        "start": 8.633,
+        "end": 8.733
+      },
+      {
+        "text": "lange",
+        "start": 8.773,
+        "end": 9.073
+      },
+      {
+        "text": "gedauert.",
+        "start": 9.093,
+        "end": 10.473
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Himmel, du lässt wirklich oft Statuen von dir anfertigen.",
+    "start": 10.493,
+    "end": 14.294,
+    "words": [
+      {
+        "text": "Himmel,",
+        "start": 10.493,
+        "end": 10.973
+      },
+      {
+        "text": "du",
+        "start": 11.013,
+        "end": 11.113
+      },
+      {
+        "text": "lässt",
+        "start": 11.133,
+        "end": 11.333
+      },
+      {
+        "text": "wirklich",
+        "start": 11.373,
+        "end": 11.753
+      },
+      {
+        "text": "oft",
+        "start": 11.813,
+        "end": 11.993
+      },
+      {
+        "text": "Statuen",
+        "start": 12.033,
+        "end": 12.453
+      },
+      {
+        "text": "von",
+        "start": 12.473,
+        "end": 12.594
+      },
+      {
+        "text": "dir",
+        "start": 12.614,
+        "end": 12.734
+      },
+      {
+        "text": "anfertigen.",
+        "start": 12.774,
+        "end": 14.294
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich möchte nur einfach, dass man sich an uns erinnern kann.",
+    "start": 14.354,
+    "end": 18.255,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.354,
+        "end": 14.494
+      },
+      {
+        "text": "möchte",
+        "start": 14.514,
+        "end": 14.814
+      },
+      {
+        "text": "nur",
+        "start": 14.854,
+        "end": 15.014
+      },
+      {
+        "text": "einfach,",
+        "start": 15.034,
+        "end": 15.454
+      },
+      {
+        "text": "dass",
+        "start": 15.474,
+        "end": 15.714
+      },
+      {
+        "text": "man",
+        "start": 15.734,
+        "end": 15.874
+      },
+      {
+        "text": "sich",
+        "start": 15.894,
+        "end": 16.014
+      },
+      {
+        "text": "an",
+        "start": 16.054,
+        "end": 16.194
+      },
+      {
+        "text": "uns",
+        "start": 16.214,
+        "end": 16.354
+      },
+      {
+        "text": "erinnern",
+        "start": 16.394,
+        "end": 16.834
+      },
+      {
+        "text": "kann.",
+        "start": 16.854,
+        "end": 18.255
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Im Vergleich zu deiner Lebenszeit ist unsere nur ein Wimpernschlag.",
+    "start": 18.315,
+    "end": 23.496,
+    "words": [
+      {
+        "text": "Im",
+        "start": 18.315,
+        "end": 18.475
+      },
+      {
+        "text": "Vergleich",
+        "start": 18.515,
+        "end": 18.895
+      },
+      {
+        "text": "zu",
+        "start": 18.935,
+        "end": 19.035
+      },
+      {
+        "text": "deiner",
+        "start": 19.075,
+        "end": 19.395
+      },
+      {
+        "text": "Lebenszeit",
+        "start": 19.435,
+        "end": 20.115
+      },
+      {
+        "text": "ist",
+        "start": 20.155,
+        "end": 20.415
+      },
+      {
+        "text": "unsere",
+        "start": 20.455,
+        "end": 20.735
+      },
+      {
+        "text": "nur",
+        "start": 20.755,
+        "end": 20.855
+      },
+      {
+        "text": "ein",
+        "start": 20.915,
+        "end": 20.995
+      },
+      {
+        "text": "Wimpernschlag.",
+        "start": 21.015,
+        "end": 23.496
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Außerdem muss dieses göttliche Antlitz der Nachwelt erhalten bleiben.",
+    "start": 23.536,
+    "end": 27.557,
+    "words": [
+      {
+        "text": "Außerdem",
+        "start": 23.536,
+        "end": 24.036
+      },
+      {
+        "text": "muss",
+        "start": 24.056,
+        "end": 24.276
+      },
+      {
+        "text": "dieses",
+        "start": 24.296,
+        "end": 24.576
+      },
+      {
+        "text": "göttliche",
+        "start": 24.636,
+        "end": 25.176
+      },
+      {
+        "text": "Antlitz",
+        "start": 25.216,
+        "end": 25.656
+      },
+      {
+        "text": "der",
+        "start": 25.676,
+        "end": 25.856
+      },
+      {
+        "text": "Nachwelt",
+        "start": 25.876,
+        "end": 26.356
+      },
+      {
+        "text": "erhalten",
+        "start": 26.396,
+        "end": 26.877
+      },
+      {
+        "text": "bleiben.",
+        "start": 26.917,
+        "end": 27.557
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Gehen wir in die Herberge zurück.",
+    "start": 27.597,
+    "end": 29.017,
+    "words": [
+      {
+        "text": "Gehen",
+        "start": 27.597,
+        "end": 27.817
+      },
+      {
+        "text": "wir",
+        "start": 27.837,
+        "end": 27.957
+      },
+      {
+        "text": "in",
+        "start": 27.997,
+        "end": 28.077
+      },
+      {
+        "text": "die",
+        "start": 28.117,
+        "end": 28.217
+      },
+      {
+        "text": "Herberge",
+        "start": 28.237,
+        "end": 28.757
+      },
+      {
+        "text": "zurück.",
+        "start": 28.797,
+        "end": 29.017
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Aber der wichtigste Grund ist, dass du dich in Zukunft nicht einsam und allein in dieser Welt fühlen sollst.",
+    "start": 30.677,
+    "end": 41.229,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 30.677,
+        "end": 32.239
+      },
+      {
+        "text": "der",
+        "start": 32.259,
+        "end": 32.439
+      },
+      {
+        "text": "wichtigste",
+        "start": 32.479,
+        "end": 32.98
+      },
+      {
+        "text": "Grund",
+        "start": 33.02,
+        "end": 33.34
+      },
+      {
+        "text": "ist,",
+        "start": 33.38,
+        "end": 34.482
+      },
+      {
+        "text": "dass",
+        "start": 34.522,
+        "end": 34.762
+      },
+      {
+        "text": "du",
+        "start": 34.782,
+        "end": 34.942
+      },
+      {
+        "text": "dich",
+        "start": 34.962,
+        "end": 35.102
+      },
+      {
+        "text": "in",
+        "start": 35.162,
+        "end": 35.323
+      },
+      {
+        "text": "Zukunft",
+        "start": 35.363,
+        "end": 36.244
+      },
+      {
+        "text": "nicht",
+        "start": 36.284,
+        "end": 36.564
+      },
+      {
+        "text": "einsam",
+        "start": 36.604,
+        "end": 37.024
+      },
+      {
+        "text": "und",
+        "start": 37.085,
+        "end": 37.225
+      },
+      {
+        "text": "allein",
+        "start": 37.265,
+        "end": 37.585
+      },
+      {
+        "text": "in",
+        "start": 37.605,
+        "end": 37.725
+      },
+      {
+        "text": "dieser",
+        "start": 37.765,
+        "end": 37.946
+      },
+      {
+        "text": "Welt",
+        "start": 37.986,
+        "end": 38.166
+      },
+      {
+        "text": "fühlen",
+        "start": 38.206,
+        "end": 38.486
+      },
+      {
+        "text": "sollst.",
+        "start": 38.506,
+        "end": 41.229
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Was redest du da?",
+    "start": 41.269,
+    "end": 43.252,
+    "words": [
+      {
+        "text": "Was",
+        "start": 41.269,
+        "end": 41.429
+      },
+      {
+        "text": "redest",
+        "start": 41.47,
+        "end": 41.73
+      },
+      {
+        "text": "du",
+        "start": 41.75,
+        "end": 41.83
+      },
+      {
+        "text": "da?",
+        "start": 41.85,
+        "end": 43.252
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Wir sind keine Märchen.",
+    "start": 43.272,
+    "end": 46.275,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 43.272,
+        "end": 43.492
+      },
+      {
+        "text": "sind",
+        "start": 43.532,
+        "end": 43.812
+      },
+      {
+        "text": "keine",
+        "start": 43.832,
+        "end": 44.133
+      },
+      {
+        "text": "Märchen.",
+        "start": 44.173,
+        "end": 46.275
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wir haben tatsächlich wirklich existiert.",
+    "start": 46.315,
+    "end": 48.598,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 46.315,
+        "end": 46.455
+      },
+      {
+        "text": "haben",
+        "start": 46.495,
+        "end": 46.796
+      },
+      {
+        "text": "tatsächlich",
+        "start": 46.816,
+        "end": 47.556
+      },
+      {
+        "text": "wirklich",
+        "start": 47.596,
+        "end": 48.037
+      },
+      {
+        "text": "existiert.",
+        "start": 48.097,
+        "end": 48.598
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Und auf diese Weise feiern wir so jedes Jahr den Helden Himmel und seine Gefährten.",
+    "start": 54.647,
+    "end": 60.477,
+    "words": [
+      {
+        "text": "Und",
+        "start": 54.647,
+        "end": 54.808
+      },
+      {
+        "text": "auf",
+        "start": 54.848,
+        "end": 55.048
+      },
+      {
+        "text": "diese",
+        "start": 55.088,
+        "end": 55.328
+      },
+      {
+        "text": "Weise",
+        "start": 55.388,
+        "end": 55.949
+      },
+      {
+        "text": "feiern",
+        "start": 56.009,
+        "end": 56.35
+      },
+      {
+        "text": "wir",
+        "start": 56.37,
+        "end": 56.61
+      },
+      {
+        "text": "so",
+        "start": 56.65,
+        "end": 57.011
+      },
+      {
+        "text": "jedes",
+        "start": 57.051,
+        "end": 57.392
+      },
+      {
+        "text": "Jahr",
+        "start": 57.412,
+        "end": 58.073
+      },
+      {
+        "text": "den",
+        "start": 58.093,
+        "end": 58.333
+      },
+      {
+        "text": "Helden",
+        "start": 58.373,
+        "end": 58.814
+      },
+      {
+        "text": "Himmel",
+        "start": 58.854,
+        "end": 59.355
+      },
+      {
+        "text": "und",
+        "start": 59.395,
+        "end": 59.695
+      },
+      {
+        "text": "seine",
+        "start": 59.735,
+        "end": 60.016
+      },
+      {
+        "text": "Gefährten.",
+        "start": 60.036,
+        "end": 60.477
+      }
+    ]
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": 0,
+    "text": " Wer diesen Job halbherzig macht, geht drauf.",
+    "start": 0.472,
+    "end": 3.573,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 0.472,
+        "end": 0.592
+      },
+      {
+        "text": "diesen",
+        "start": 0.632,
+        "end": 0.852
+      },
+      {
+        "text": "Job",
+        "start": 0.892,
+        "end": 1.012
+      },
+      {
+        "text": "halbherzig",
+        "start": 1.032,
+        "end": 1.653
+      },
+      {
+        "text": "macht,",
+        "start": 1.673,
+        "end": 1.913
+      },
+      {
+        "text": "geht",
+        "start": 1.953,
+        "end": 2.053
+      },
+      {
+        "text": "drauf.",
+        "start": 2.073,
+        "end": 3.573
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "All meine Kollegen, die nur wegen der Kohle Teufelsjäger geworden sind, wurden von Teufeln massakriert.",
+    "start": 3.613,
+    "end": 10.436,
+    "words": [
+      {
+        "text": "All",
+        "start": 3.613,
+        "end": 3.774
+      },
+      {
+        "text": "meine",
+        "start": 3.814,
+        "end": 4.034
+      },
+      {
+        "text": "Kollegen,",
+        "start": 4.054,
+        "end": 4.494
+      },
+      {
+        "text": "die",
+        "start": 4.514,
+        "end": 4.614
+      },
+      {
+        "text": "nur",
+        "start": 4.654,
+        "end": 4.774
+      },
+      {
+        "text": "wegen",
+        "start": 4.794,
+        "end": 4.994
+      },
+      {
+        "text": "der",
+        "start": 5.014,
+        "end": 5.154
+      },
+      {
+        "text": "Kohle",
+        "start": 5.194,
+        "end": 5.454
+      },
+      {
+        "text": "Teufelsjäger",
+        "start": 5.474,
+        "end": 6.135
+      },
+      {
+        "text": "geworden",
+        "start": 6.175,
+        "end": 6.555
+      },
+      {
+        "text": "sind,",
+        "start": 6.595,
+        "end": 7.755
+      },
+      {
+        "text": "wurden",
+        "start": 7.775,
+        "end": 8.035
+      },
+      {
+        "text": "von",
+        "start": 8.055,
+        "end": 8.195
+      },
+      {
+        "text": "Teufeln",
+        "start": 8.236,
+        "end": 8.596
+      },
+      {
+        "text": "massakriert.",
+        "start": 8.616,
+        "end": 10.436
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hier überlebt man nur mit einer soliden Überzeugung.",
+    "start": 10.477,
+    "end": 15.739,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 10.477,
+        "end": 10.697
+      },
+      {
+        "text": "überlebt",
+        "start": 10.737,
+        "end": 11.137
+      },
+      {
+        "text": "man",
+        "start": 11.177,
+        "end": 11.357
+      },
+      {
+        "text": "nur",
+        "start": 11.397,
+        "end": 12.397
+      },
+      {
+        "text": "mit",
+        "start": 12.437,
+        "end": 12.557
+      },
+      {
+        "text": "einer",
+        "start": 12.597,
+        "end": 12.818
+      },
+      {
+        "text": "soliden",
+        "start": 12.858,
+        "end": 13.238
+      },
+      {
+        "text": "Überzeugung.",
+        "start": 13.298,
+        "end": 15.739
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und du machst das nur, weil du auf Makima scharf bist.",
+    "start": 15.799,
+    "end": 20.181,
+    "words": [
+      {
+        "text": "Und",
+        "start": 15.799,
+        "end": 16.059
+      },
+      {
+        "text": "du",
+        "start": 16.099,
+        "end": 17.059
+      },
+      {
+        "text": "machst",
+        "start": 17.099,
+        "end": 17.34
+      },
+      {
+        "text": "das",
+        "start": 17.36,
+        "end": 17.58
+      },
+      {
+        "text": "nur,",
+        "start": 17.62,
+        "end": 17.78
+      },
+      {
+        "text": "weil",
+        "start": 17.82,
+        "end": 17.94
+      },
+      {
+        "text": "du",
+        "start": 17.98,
+        "end": 18.1
+      },
+      {
+        "text": "auf",
+        "start": 18.14,
+        "end": 18.42
+      },
+      {
+        "text": "Makima",
+        "start": 18.46,
+        "end": 18.96
+      },
+      {
+        "text": "scharf",
+        "start": 18.98,
+        "end": 19.3
+      },
+      {
+        "text": "bist.",
+        "start": 19.34,
+        "end": 20.181
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Bingo.",
+    "start": 20.221,
+    "end": 22.722,
+    "words": [
+      {
+        "text": "Bingo.",
+        "start": 20.221,
+        "end": 22.722
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Dann war ich sogar noch zu gnädig mit dir.",
+    "start": 22.762,
+    "end": 24.763,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 22.762,
+        "end": 22.942
+      },
+      {
+        "text": "war",
+        "start": 22.982,
+        "end": 23.142
+      },
+      {
+        "text": "ich",
+        "start": 23.162,
+        "end": 23.282
+      },
+      {
+        "text": "sogar",
+        "start": 23.322,
+        "end": 23.582
+      },
+      {
+        "text": "noch",
+        "start": 23.602,
+        "end": 23.782
+      },
+      {
+        "text": "zu",
+        "start": 23.802,
+        "end": 23.923
+      },
+      {
+        "text": "gnädig",
+        "start": 23.943,
+        "end": 24.383
+      },
+      {
+        "text": "mit",
+        "start": 24.423,
+        "end": 24.563
+      },
+      {
+        "text": "dir.",
+        "start": 24.603,
+        "end": 24.763
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Ich richte Makima Folgendes aus.",
+    "start": 29.725,
+    "end": 32.227,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 29.725,
+        "end": 29.845
+      },
+      {
+        "text": "richte",
+        "start": 29.905,
+        "end": 30.185
+      },
+      {
+        "text": "Makima",
+        "start": 30.205,
+        "end": 30.666
+      },
+      {
+        "text": "Folgendes",
+        "start": 30.706,
+        "end": 31.146
+      },
+      {
+        "text": "aus.",
+        "start": 31.206,
+        "end": 32.227
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Du hast von einem Teufel Schiss gekriegt und hast dich verpisst.",
+    "start": 32.247,
+    "end": 34.768,
+    "words": [
+      {
+        "text": "Du",
+        "start": 32.247,
+        "end": 32.367
+      },
+      {
+        "text": "hast",
+        "start": 32.387,
+        "end": 32.567
+      },
+      {
+        "text": "von",
+        "start": 32.587,
+        "end": 32.687
+      },
+      {
+        "text": "einem",
+        "start": 32.707,
+        "end": 32.847
+      },
+      {
+        "text": "Teufel",
+        "start": 32.867,
+        "end": 33.147
+      },
+      {
+        "text": "Schiss",
+        "start": 33.167,
+        "end": 33.427
+      },
+      {
+        "text": "gekriegt",
+        "start": 33.447,
+        "end": 33.808
+      },
+      {
+        "text": "und",
+        "start": 33.828,
+        "end": 33.948
+      },
+      {
+        "text": "hast",
+        "start": 33.968,
+        "end": 34.148
+      },
+      {
+        "text": "dich",
+        "start": 34.168,
+        "end": 34.308
+      },
+      {
+        "text": "verpisst.",
+        "start": 34.328,
+        "end": 34.768
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Du bist einer von den ganz Netten, was?",
+    "start": 49.698,
+    "end": 51.959,
+    "words": [
+      {
+        "text": "Du",
+        "start": 49.698,
+        "end": 49.818
+      },
+      {
+        "text": "bist",
+        "start": 49.838,
+        "end": 50.078
+      },
+      {
+        "text": "einer",
+        "start": 50.118,
+        "end": 50.358
+      },
+      {
+        "text": "von",
+        "start": 50.398,
+        "end": 50.538
+      },
+      {
+        "text": "den",
+        "start": 50.558,
+        "end": 50.718
+      },
+      {
+        "text": "ganz",
+        "start": 50.758,
+        "end": 51.039
+      },
+      {
+        "text": "Netten,",
+        "start": 51.059,
+        "end": 51.419
+      },
+      {
+        "text": "was?",
+        "start": 51.459,
+        "end": 51.959
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Sehr löblich.",
+    "start": 51.999,
+    "end": 52.6,
+    "words": [
+      {
+        "text": "Sehr",
+        "start": 51.999,
+        "end": 52.179
+      },
+      {
+        "text": "löblich.",
+        "start": 52.219,
+        "end": 52.6
+      }
+    ]
+  }
+]

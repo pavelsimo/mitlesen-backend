@@ -1,0 +1,518 @@
+[
+  {
+    "id": 0,
+    "text": " Ich bin der Boss der Geheimorganisation Erdnus, Kommandant Chimäre.",
+    "start": 0.811,
+    "end": 5.593,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.811,
+        "end": 0.931
+      },
+      {
+        "text": "bin",
+        "start": 0.971,
+        "end": 1.111
+      },
+      {
+        "text": "der",
+        "start": 1.151,
+        "end": 1.271
+      },
+      {
+        "text": "Boss",
+        "start": 1.311,
+        "end": 1.471
+      },
+      {
+        "text": "der",
+        "start": 1.491,
+        "end": 1.612
+      },
+      {
+        "text": "Geheimorganisation",
+        "start": 1.632,
+        "end": 2.812
+      },
+      {
+        "text": "Erdnus,",
+        "start": 2.852,
+        "end": 3.812
+      },
+      {
+        "text": "Kommandant",
+        "start": 3.852,
+        "end": 4.412
+      },
+      {
+        "text": "Chimäre.",
+        "start": 4.452,
+        "end": 5.593
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Du bist also der Neuling hier bei uns.",
+    "start": 5.633,
+    "end": 9.114,
+    "words": [
+      {
+        "text": "Du",
+        "start": 5.633,
+        "end": 5.733
+      },
+      {
+        "text": "bist",
+        "start": 5.753,
+        "end": 5.913
+      },
+      {
+        "text": "also",
+        "start": 5.973,
+        "end": 6.193
+      },
+      {
+        "text": "der",
+        "start": 6.213,
+        "end": 6.353
+      },
+      {
+        "text": "Neuling",
+        "start": 6.393,
+        "end": 6.753
+      },
+      {
+        "text": "hier",
+        "start": 6.773,
+        "end": 6.933
+      },
+      {
+        "text": "bei",
+        "start": 6.953,
+        "end": 7.113
+      },
+      {
+        "text": "uns.",
+        "start": 7.173,
+        "end": 9.114
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich komme aus dem Aquarium und heiße Pengi.",
+    "start": 9.154,
+    "end": 12.975,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 9.154,
+        "end": 9.254
+      },
+      {
+        "text": "komme",
+        "start": 9.294,
+        "end": 9.434
+      },
+      {
+        "text": "aus",
+        "start": 9.474,
+        "end": 9.614
+      },
+      {
+        "text": "dem",
+        "start": 9.634,
+        "end": 9.754
+      },
+      {
+        "text": "Aquarium",
+        "start": 9.794,
+        "end": 10.334
+      },
+      {
+        "text": "und",
+        "start": 10.374,
+        "end": 10.514
+      },
+      {
+        "text": "heiße",
+        "start": 10.534,
+        "end": 10.814
+      },
+      {
+        "text": "Pengi.",
+        "start": 10.834,
+        "end": 12.975
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Auf eine gute Zusammenarbeit, Kommandant.",
+    "start": 13.015,
+    "end": 16.576,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 13.015,
+        "end": 13.155
+      },
+      {
+        "text": "eine",
+        "start": 13.195,
+        "end": 13.335
+      },
+      {
+        "text": "gute",
+        "start": 13.375,
+        "end": 13.615
+      },
+      {
+        "text": "Zusammenarbeit,",
+        "start": 13.655,
+        "end": 14.256
+      },
+      {
+        "text": "Kommandant.",
+        "start": 14.276,
+        "end": 16.576
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Frau Agent Anja, ihr Wortstich dürfte ich bitten?",
+    "start": 16.616,
+    "end": 19.077,
+    "words": [
+      {
+        "text": "Frau",
+        "start": 16.616,
+        "end": 16.776
+      },
+      {
+        "text": "Agent",
+        "start": 16.816,
+        "end": 17.196
+      },
+      {
+        "text": "Anja,",
+        "start": 17.257,
+        "end": 17.597
+      },
+      {
+        "text": "ihr",
+        "start": 17.637,
+        "end": 17.757
+      },
+      {
+        "text": "Wortstich",
+        "start": 17.797,
+        "end": 18.197
+      },
+      {
+        "text": "dürfte",
+        "start": 18.237,
+        "end": 18.437
+      },
+      {
+        "text": "ich",
+        "start": 18.457,
+        "end": 18.577
+      },
+      {
+        "text": "bitten?",
+        "start": 18.597,
+        "end": 19.077
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Jawohl.",
+    "start": 19.117,
+    "end": 19.377,
+    "words": [
+      {
+        "text": "Jawohl.",
+        "start": 19.117,
+        "end": 19.377
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Bei unserem Willkommensritual teilen wir eine Erdnuss und essen sie.",
+    "start": 27.963,
+    "end": 31.586,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 27.963,
+        "end": 28.083
+      },
+      {
+        "text": "unserem",
+        "start": 28.103,
+        "end": 28.383
+      },
+      {
+        "text": "Willkommensritual",
+        "start": 28.403,
+        "end": 29.484
+      },
+      {
+        "text": "teilen",
+        "start": 29.524,
+        "end": 29.724
+      },
+      {
+        "text": "wir",
+        "start": 29.744,
+        "end": 29.864
+      },
+      {
+        "text": "eine",
+        "start": 29.904,
+        "end": 30.065
+      },
+      {
+        "text": "Erdnuss",
+        "start": 30.105,
+        "end": 30.485
+      },
+      {
+        "text": "und",
+        "start": 30.545,
+        "end": 30.725
+      },
+      {
+        "text": "essen",
+        "start": 30.785,
+        "end": 31.005
+      },
+      {
+        "text": "sie.",
+        "start": 31.025,
+        "end": 31.586
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Damit wirst du zu einem echten Mitglied unserer Geheimorganisation.",
+    "start": 31.646,
+    "end": 42.072,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 31.646,
+        "end": 31.966
+      },
+      {
+        "text": "wirst",
+        "start": 32.006,
+        "end": 32.186
+      },
+      {
+        "text": "du",
+        "start": 32.206,
+        "end": 32.326
+      },
+      {
+        "text": "zu",
+        "start": 32.346,
+        "end": 32.466
+      },
+      {
+        "text": "einem",
+        "start": 32.526,
+        "end": 32.646
+      },
+      {
+        "text": "echten",
+        "start": 32.706,
+        "end": 33.107
+      },
+      {
+        "text": "Mitglied",
+        "start": 33.147,
+        "end": 33.547
+      },
+      {
+        "text": "unserer",
+        "start": 33.627,
+        "end": 34.067
+      },
+      {
+        "text": "Geheimorganisation.",
+        "start": 34.087,
+        "end": 42.072
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Von heute an bist du Agent Penguin.",
+    "start": 42.112,
+    "end": 44.954,
+    "words": [
+      {
+        "text": "Von",
+        "start": 42.112,
+        "end": 42.313
+      },
+      {
+        "text": "heute",
+        "start": 42.353,
+        "end": 42.653
+      },
+      {
+        "text": "an",
+        "start": 42.693,
+        "end": 42.873
+      },
+      {
+        "text": "bist",
+        "start": 42.893,
+        "end": 43.053
+      },
+      {
+        "text": "du",
+        "start": 43.093,
+        "end": 43.233
+      },
+      {
+        "text": "Agent",
+        "start": 43.273,
+        "end": 43.673
+      },
+      {
+        "text": "Penguin.",
+        "start": 43.713,
+        "end": 44.954
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Tu alles, um den Frieden zu wahren.",
+    "start": 44.994,
+    "end": 49.837,
+    "words": [
+      {
+        "text": "Tu",
+        "start": 44.994,
+        "end": 45.114
+      },
+      {
+        "text": "alles,",
+        "start": 45.154,
+        "end": 45.395
+      },
+      {
+        "text": "um",
+        "start": 45.435,
+        "end": 45.555
+      },
+      {
+        "text": "den",
+        "start": 45.575,
+        "end": 45.715
+      },
+      {
+        "text": "Frieden",
+        "start": 45.755,
+        "end": 46.115
+      },
+      {
+        "text": "zu",
+        "start": 46.155,
+        "end": 46.275
+      },
+      {
+        "text": "wahren.",
+        "start": 46.315,
+        "end": 49.837
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Frau Agent Anja, bitte führe den neuen Neuling durch unsere Gebeimhasis.",
+    "start": 49.897,
+    "end": 54.36,
+    "words": [
+      {
+        "text": "Frau",
+        "start": 49.897,
+        "end": 50.078
+      },
+      {
+        "text": "Agent",
+        "start": 50.138,
+        "end": 50.518
+      },
+      {
+        "text": "Anja,",
+        "start": 50.578,
+        "end": 51.459
+      },
+      {
+        "text": "bitte",
+        "start": 51.479,
+        "end": 51.759
+      },
+      {
+        "text": "führe",
+        "start": 51.799,
+        "end": 52.059
+      },
+      {
+        "text": "den",
+        "start": 52.079,
+        "end": 52.219
+      },
+      {
+        "text": "neuen",
+        "start": 52.259,
+        "end": 52.519
+      },
+      {
+        "text": "Neuling",
+        "start": 52.559,
+        "end": 52.939
+      },
+      {
+        "text": "durch",
+        "start": 52.96,
+        "end": 53.16
+      },
+      {
+        "text": "unsere",
+        "start": 53.18,
+        "end": 53.52
+      },
+      {
+        "text": "Gebeimhasis.",
+        "start": 53.56,
+        "end": 54.36
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Okidoki.",
+    "start": 54.44,
+    "end": 55.681,
+    "words": [
+      {
+        "text": "Okidoki.",
+        "start": 54.44,
+        "end": 55.681
+      }
+    ]
+  }
+]

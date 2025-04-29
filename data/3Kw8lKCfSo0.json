@@ -1,0 +1,786 @@
+[
+  {
+    "id": 0,
+    "text": " Ich habe in meinem ganzen Leben noch nie so lange geschlafen.",
+    "start": 6.068,
+    "end": 9.67,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 6.068,
+        "end": 6.168
+      },
+      {
+        "text": "habe",
+        "start": 6.188,
+        "end": 6.328
+      },
+      {
+        "text": "in",
+        "start": 6.368,
+        "end": 6.488
+      },
+      {
+        "text": "meinem",
+        "start": 6.508,
+        "end": 6.768
+      },
+      {
+        "text": "ganzen",
+        "start": 6.808,
+        "end": 7.128
+      },
+      {
+        "text": "Leben",
+        "start": 7.169,
+        "end": 7.429
+      },
+      {
+        "text": "noch",
+        "start": 7.469,
+        "end": 7.649
+      },
+      {
+        "text": "nie",
+        "start": 7.669,
+        "end": 7.809
+      },
+      {
+        "text": "so",
+        "start": 7.849,
+        "end": 7.949
+      },
+      {
+        "text": "lange",
+        "start": 7.969,
+        "end": 8.169
+      },
+      {
+        "text": "geschlafen.",
+        "start": 8.189,
+        "end": 9.67
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Meine Familie weckt mich ja jeden Tag auf, ob ich will oder nicht.",
+    "start": 9.71,
+    "end": 15.474,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 9.71,
+        "end": 9.93
+      },
+      {
+        "text": "Familie",
+        "start": 9.97,
+        "end": 10.35
+      },
+      {
+        "text": "weckt",
+        "start": 10.39,
+        "end": 10.551
+      },
+      {
+        "text": "mich",
+        "start": 10.571,
+        "end": 10.731
+      },
+      {
+        "text": "ja",
+        "start": 10.751,
+        "end": 10.871
+      },
+      {
+        "text": "jeden",
+        "start": 10.911,
+        "end": 11.071
+      },
+      {
+        "text": "Tag",
+        "start": 11.111,
+        "end": 11.351
+      },
+      {
+        "text": "auf,",
+        "start": 11.391,
+        "end": 11.591
+      },
+      {
+        "text": "ob",
+        "start": 11.651,
+        "end": 11.791
+      },
+      {
+        "text": "ich",
+        "start": 11.831,
+        "end": 11.931
+      },
+      {
+        "text": "will",
+        "start": 11.991,
+        "end": 12.172
+      },
+      {
+        "text": "oder",
+        "start": 12.192,
+        "end": 12.412
+      },
+      {
+        "text": "nicht.",
+        "start": 12.472,
+        "end": 15.474
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Erika, was ist?",
+    "start": 15.534,
+    "end": 16.234,
+    "words": [
+      {
+        "text": "Erika,",
+        "start": 15.534,
+        "end": 15.894
+      },
+      {
+        "text": "was",
+        "start": 15.914,
+        "end": 16.034
+      },
+      {
+        "text": "ist?",
+        "start": 16.094,
+        "end": 16.234
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich brauche sofort Hilfe, schnell!",
+    "start": 16.294,
+    "end": 18.896,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 16.294,
+        "end": 16.414
+      },
+      {
+        "text": "brauche",
+        "start": 16.454,
+        "end": 16.814
+      },
+      {
+        "text": "sofort",
+        "start": 16.834,
+        "end": 18.395
+      },
+      {
+        "text": "Hilfe,",
+        "start": 18.415,
+        "end": 18.596
+      },
+      {
+        "text": "schnell!",
+        "start": 18.616,
+        "end": 18.896
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Was ist denn los mit dir?",
+    "start": 18.936,
+    "end": 19.936,
+    "words": [
+      {
+        "text": "Was",
+        "start": 18.936,
+        "end": 19.116
+      },
+      {
+        "text": "ist",
+        "start": 19.176,
+        "end": 19.296
+      },
+      {
+        "text": "denn",
+        "start": 19.316,
+        "end": 19.416
+      },
+      {
+        "text": "los",
+        "start": 19.436,
+        "end": 19.536
+      },
+      {
+        "text": "mit",
+        "start": 19.556,
+        "end": 19.736
+      },
+      {
+        "text": "dir?",
+        "start": 19.776,
+        "end": 19.936
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Bist du hier drin?",
+    "start": 19.976,
+    "end": 21.437,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 19.976,
+        "end": 20.136
+      },
+      {
+        "text": "du",
+        "start": 20.176,
+        "end": 20.297
+      },
+      {
+        "text": "hier",
+        "start": 20.317,
+        "end": 20.457
+      },
+      {
+        "text": "drin?",
+        "start": 20.477,
+        "end": 21.437
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ah!",
+    "start": 21.537,
+    "end": 21.657,
+    "words": [
+      {
+        "text": "Ah!",
+        "start": 21.537,
+        "end": 21.657
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Einfach so rein, ich hoffe nicht!",
+    "start": 31.084,
+    "end": 32.505,
+    "words": [
+      {
+        "text": "Einfach",
+        "start": 31.084,
+        "end": 31.404
+      },
+      {
+        "text": "so",
+        "start": 31.424,
+        "end": 31.564
+      },
+      {
+        "text": "rein,",
+        "start": 31.584,
+        "end": 31.685
+      },
+      {
+        "text": "ich",
+        "start": 31.745,
+        "end": 31.805
+      },
+      {
+        "text": "hoffe",
+        "start": 31.825,
+        "end": 32.145
+      },
+      {
+        "text": "nicht!",
+        "start": 32.225,
+        "end": 32.505
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich hab dich laut schreien gehört.",
+    "start": 32.525,
+    "end": 33.866,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 32.525,
+        "end": 32.605
+      },
+      {
+        "text": "hab",
+        "start": 32.625,
+        "end": 32.785
+      },
+      {
+        "text": "dich",
+        "start": 32.805,
+        "end": 32.926
+      },
+      {
+        "text": "laut",
+        "start": 32.966,
+        "end": 33.186
+      },
+      {
+        "text": "schreien",
+        "start": 33.206,
+        "end": 33.546
+      },
+      {
+        "text": "gehört.",
+        "start": 33.586,
+        "end": 33.866
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ich dachte, hier wär ein Einbrecher oder so.",
+    "start": 34.467,
+    "end": 36.188,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 34.467,
+        "end": 34.607
+      },
+      {
+        "text": "dachte,",
+        "start": 34.627,
+        "end": 34.927
+      },
+      {
+        "text": "hier",
+        "start": 34.947,
+        "end": 35.067
+      },
+      {
+        "text": "wär",
+        "start": 35.087,
+        "end": 35.167
+      },
+      {
+        "text": "ein",
+        "start": 35.187,
+        "end": 35.368
+      },
+      {
+        "text": "Einbrecher",
+        "start": 35.388,
+        "end": 35.808
+      },
+      {
+        "text": "oder",
+        "start": 35.848,
+        "end": 36.028
+      },
+      {
+        "text": "so.",
+        "start": 36.068,
+        "end": 36.188
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Komm her!",
+    "start": 36.208,
+    "end": 39.171,
+    "words": [
+      {
+        "text": "Komm",
+        "start": 36.208,
+        "end": 37.169
+      },
+      {
+        "text": "her!",
+        "start": 37.91,
+        "end": 39.171
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Deswegen hab ich so geschrien.",
+    "start": 39.191,
+    "end": 40.752,
+    "words": [
+      {
+        "text": "Deswegen",
+        "start": 39.191,
+        "end": 39.671
+      },
+      {
+        "text": "hab",
+        "start": 39.691,
+        "end": 39.851
+      },
+      {
+        "text": "ich",
+        "start": 39.891,
+        "end": 39.991
+      },
+      {
+        "text": "so",
+        "start": 40.011,
+        "end": 40.091
+      },
+      {
+        "text": "geschrien.",
+        "start": 40.111,
+        "end": 40.752
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich bin aufgewacht und wollte duschen gehen, da war auf einmal dieses Ding da.",
+    "start": 40.812,
+    "end": 43.734,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 40.812,
+        "end": 40.892
+      },
+      {
+        "text": "bin",
+        "start": 40.912,
+        "end": 41.052
+      },
+      {
+        "text": "aufgewacht",
+        "start": 41.092,
+        "end": 41.513
+      },
+      {
+        "text": "und",
+        "start": 41.553,
+        "end": 41.653
+      },
+      {
+        "text": "wollte",
+        "start": 41.673,
+        "end": 41.953
+      },
+      {
+        "text": "duschen",
+        "start": 41.973,
+        "end": 42.233
+      },
+      {
+        "text": "gehen,",
+        "start": 42.273,
+        "end": 42.413
+      },
+      {
+        "text": "da",
+        "start": 42.453,
+        "end": 42.573
+      },
+      {
+        "text": "war",
+        "start": 42.593,
+        "end": 42.654
+      },
+      {
+        "text": "auf",
+        "start": 42.674,
+        "end": 42.774
+      },
+      {
+        "text": "einmal",
+        "start": 42.814,
+        "end": 43.094
+      },
+      {
+        "text": "dieses",
+        "start": 43.114,
+        "end": 43.354
+      },
+      {
+        "text": "Ding",
+        "start": 43.394,
+        "end": 43.614
+      },
+      {
+        "text": "da.",
+        "start": 43.634,
+        "end": 43.734
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Bitte, bitte, bitte!",
+    "start": 43.754,
+    "end": 48.278,
+    "words": [
+      {
+        "text": "Bitte,",
+        "start": 43.754,
+        "end": 47.598
+      },
+      {
+        "text": "bitte,",
+        "start": 47.618,
+        "end": 47.838
+      },
+      {
+        "text": "bitte!",
+        "start": 47.858,
+        "end": 48.278
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wenn ich was nicht kann, dann mit sich schnell bewegenden, unvorhersehbaren Organismen umgehen.",
+    "start": 48.298,
+    "end": 52.221,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 48.298,
+        "end": 48.398
+      },
+      {
+        "text": "ich",
+        "start": 48.418,
+        "end": 48.498
+      },
+      {
+        "text": "was",
+        "start": 48.518,
+        "end": 48.618
+      },
+      {
+        "text": "nicht",
+        "start": 48.678,
+        "end": 48.819
+      },
+      {
+        "text": "kann,",
+        "start": 48.859,
+        "end": 49.019
+      },
+      {
+        "text": "dann",
+        "start": 49.059,
+        "end": 49.179
+      },
+      {
+        "text": "mit",
+        "start": 49.219,
+        "end": 49.319
+      },
+      {
+        "text": "sich",
+        "start": 49.359,
+        "end": 49.439
+      },
+      {
+        "text": "schnell",
+        "start": 49.459,
+        "end": 49.679
+      },
+      {
+        "text": "bewegenden,",
+        "start": 49.719,
+        "end": 50.12
+      },
+      {
+        "text": "unvorhersehbaren",
+        "start": 50.26,
+        "end": 51.0
+      },
+      {
+        "text": "Organismen",
+        "start": 51.04,
+        "end": 51.541
+      },
+      {
+        "text": "umgehen.",
+        "start": 51.581,
+        "end": 52.221
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Tut mir sehr leid, aber dann wirst du nicht duschen gehen können.",
+    "start": 52.261,
+    "end": 57.366,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 52.261,
+        "end": 52.422
+      },
+      {
+        "text": "mir",
+        "start": 52.442,
+        "end": 52.562
+      },
+      {
+        "text": "sehr",
+        "start": 52.582,
+        "end": 52.722
+      },
+      {
+        "text": "leid,",
+        "start": 52.762,
+        "end": 52.942
+      },
+      {
+        "text": "aber",
+        "start": 52.982,
+        "end": 53.102
+      },
+      {
+        "text": "dann",
+        "start": 53.122,
+        "end": 53.242
+      },
+      {
+        "text": "wirst",
+        "start": 53.262,
+        "end": 53.422
+      },
+      {
+        "text": "du",
+        "start": 53.442,
+        "end": 53.522
+      },
+      {
+        "text": "nicht",
+        "start": 53.542,
+        "end": 53.703
+      },
+      {
+        "text": "duschen",
+        "start": 53.723,
+        "end": 53.983
+      },
+      {
+        "text": "gehen",
+        "start": 54.003,
+        "end": 54.203
+      },
+      {
+        "text": "können.",
+        "start": 54.223,
+        "end": 57.366
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Dein Ausraster hat mir klar gemacht, dass ich mich drum kümmern muss.",
+    "start": 57.386,
+    "end": 59.868,
+    "words": [
+      {
+        "text": "Dein",
+        "start": 57.386,
+        "end": 57.526
+      },
+      {
+        "text": "Ausraster",
+        "start": 57.566,
+        "end": 57.946
+      },
+      {
+        "text": "hat",
+        "start": 57.966,
+        "end": 58.166
+      },
+      {
+        "text": "mir",
+        "start": 58.186,
+        "end": 58.306
+      },
+      {
+        "text": "klar",
+        "start": 58.346,
+        "end": 58.446
+      },
+      {
+        "text": "gemacht,",
+        "start": 58.466,
+        "end": 58.747
+      },
+      {
+        "text": "dass",
+        "start": 58.767,
+        "end": 58.907
+      },
+      {
+        "text": "ich",
+        "start": 58.947,
+        "end": 59.087
+      },
+      {
+        "text": "mich",
+        "start": 59.107,
+        "end": 59.267
+      },
+      {
+        "text": "drum",
+        "start": 59.287,
+        "end": 59.427
+      },
+      {
+        "text": "kümmern",
+        "start": 59.447,
+        "end": 59.748
+      },
+      {
+        "text": "muss.",
+        "start": 59.768,
+        "end": 59.868
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Tut mir wirklich leid.",
+    "start": 61.137,
+    "end": 61.908,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 61.137,
+        "end": 61.279
+      },
+      {
+        "text": "mir",
+        "start": 61.299,
+        "end": 61.401
+      },
+      {
+        "text": "wirklich",
+        "start": 61.421,
+        "end": 61.705
+      },
+      {
+        "text": "leid.",
+        "start": 61.746,
+        "end": 61.908
+      }
+    ]
+  }
+]

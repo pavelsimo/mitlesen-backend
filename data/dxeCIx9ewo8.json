@@ -1,0 +1,686 @@
+[
+  {
+    "id": 0,
+    "text": " mit dieser Gebärde sagen.",
+    "start": 14.095,
+    "end": 16.135,
+    "words": [
+      {
+        "text": "mit",
+        "start": 14.095,
+        "end": 14.235
+      },
+      {
+        "text": "dieser",
+        "start": 14.255,
+        "end": 14.455
+      },
+      {
+        "text": "Gebärde",
+        "start": 14.495,
+        "end": 14.875
+      },
+      {
+        "text": "sagen.",
+        "start": 14.895,
+        "end": 16.135
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Und außerdem habe ich ihm die gar nicht beigebracht.",
+    "start": 16.195,
+    "end": 22.957,
+    "words": [
+      {
+        "text": "Und",
+        "start": 16.195,
+        "end": 16.335
+      },
+      {
+        "text": "außerdem",
+        "start": 16.375,
+        "end": 17.436
+      },
+      {
+        "text": "habe",
+        "start": 17.456,
+        "end": 17.596
+      },
+      {
+        "text": "ich",
+        "start": 17.656,
+        "end": 17.736
+      },
+      {
+        "text": "ihm",
+        "start": 17.796,
+        "end": 17.916
+      },
+      {
+        "text": "die",
+        "start": 17.936,
+        "end": 18.056
+      },
+      {
+        "text": "gar",
+        "start": 18.076,
+        "end": 18.176
+      },
+      {
+        "text": "nicht",
+        "start": 18.196,
+        "end": 18.356
+      },
+      {
+        "text": "beigebracht.",
+        "start": 18.376,
+        "end": 22.957
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Yuki.",
+    "start": 23.017,
+    "end": 27.997,
+    "words": [
+      {
+        "text": "Yuki.",
+        "start": 23.017,
+        "end": 27.997
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wollen wir vielleicht ein Paar werden?",
+    "start": 28.037,
+    "end": 40.559,
+    "words": [
+      {
+        "text": "Wollen",
+        "start": 28.037,
+        "end": 28.337
+      },
+      {
+        "text": "wir",
+        "start": 28.357,
+        "end": 30.978
+      },
+      {
+        "text": "vielleicht",
+        "start": 30.998,
+        "end": 31.378
+      },
+      {
+        "text": "ein",
+        "start": 31.418,
+        "end": 31.558
+      },
+      {
+        "text": "Paar",
+        "start": 31.598,
+        "end": 31.838
+      },
+      {
+        "text": "werden?",
+        "start": 31.858,
+        "end": 40.559
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wollen wir vielleicht ein Paar werden?",
+    "start": 40.579,
+    "end": 43.52,
+    "words": [
+      {
+        "text": "Wollen",
+        "start": 40.579,
+        "end": 40.88
+      },
+      {
+        "text": "wir",
+        "start": 40.92,
+        "end": 42.4
+      },
+      {
+        "text": "vielleicht",
+        "start": 42.44,
+        "end": 42.82
+      },
+      {
+        "text": "ein",
+        "start": 42.86,
+        "end": 43.0
+      },
+      {
+        "text": "Paar",
+        "start": 43.04,
+        "end": 43.28
+      },
+      {
+        "text": "werden?",
+        "start": 43.3,
+        "end": 43.52
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Du willst also wissen, warum?",
+    "start": 56.53,
+    "end": 58.491,
+    "words": [
+      {
+        "text": "Du",
+        "start": 56.53,
+        "end": 56.65
+      },
+      {
+        "text": "willst",
+        "start": 56.67,
+        "end": 56.93
+      },
+      {
+        "text": "also",
+        "start": 56.97,
+        "end": 57.21
+      },
+      {
+        "text": "wissen,",
+        "start": 57.25,
+        "end": 57.55
+      },
+      {
+        "text": "warum?",
+        "start": 57.59,
+        "end": 58.491
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Weil ich gerne mit dir zusammen sein möchte.",
+    "start": 58.531,
+    "end": 68.213,
+    "words": [
+      {
+        "text": "Weil",
+        "start": 58.531,
+        "end": 58.711
+      },
+      {
+        "text": "ich",
+        "start": 58.731,
+        "end": 58.851
+      },
+      {
+        "text": "gerne",
+        "start": 58.891,
+        "end": 59.111
+      },
+      {
+        "text": "mit",
+        "start": 59.131,
+        "end": 59.231
+      },
+      {
+        "text": "dir",
+        "start": 59.251,
+        "end": 59.471
+      },
+      {
+        "text": "zusammen",
+        "start": 59.511,
+        "end": 59.891
+      },
+      {
+        "text": "sein",
+        "start": 59.911,
+        "end": 60.151
+      },
+      {
+        "text": "möchte.",
+        "start": 60.191,
+        "end": 68.213
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich hab tatsächlich auch nicht erwartet, dass es so kommt.",
+    "start": 68.253,
+    "end": 71.394,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 68.253,
+        "end": 68.333
+      },
+      {
+        "text": "hab",
+        "start": 68.373,
+        "end": 68.513
+      },
+      {
+        "text": "tatsächlich",
+        "start": 68.533,
+        "end": 68.974
+      },
+      {
+        "text": "auch",
+        "start": 69.014,
+        "end": 69.134
+      },
+      {
+        "text": "nicht",
+        "start": 69.174,
+        "end": 69.314
+      },
+      {
+        "text": "erwartet,",
+        "start": 69.334,
+        "end": 69.634
+      },
+      {
+        "text": "dass",
+        "start": 69.654,
+        "end": 69.774
+      },
+      {
+        "text": "es",
+        "start": 69.834,
+        "end": 69.934
+      },
+      {
+        "text": "so",
+        "start": 69.954,
+        "end": 70.034
+      },
+      {
+        "text": "kommt.",
+        "start": 70.054,
+        "end": 71.394
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich werde weiterhin regelmäßig auf Reisen sein und da die verschiedensten Leute kennenlernen.",
+    "start": 71.434,
+    "end": 77.176,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 71.434,
+        "end": 71.534
+      },
+      {
+        "text": "werde",
+        "start": 71.574,
+        "end": 71.794
+      },
+      {
+        "text": "weiterhin",
+        "start": 71.834,
+        "end": 72.194
+      },
+      {
+        "text": "regelmäßig",
+        "start": 72.234,
+        "end": 72.755
+      },
+      {
+        "text": "auf",
+        "start": 72.775,
+        "end": 72.875
+      },
+      {
+        "text": "Reisen",
+        "start": 72.935,
+        "end": 73.215
+      },
+      {
+        "text": "sein",
+        "start": 73.255,
+        "end": 74.095
+      },
+      {
+        "text": "und",
+        "start": 74.135,
+        "end": 74.235
+      },
+      {
+        "text": "da",
+        "start": 74.255,
+        "end": 74.395
+      },
+      {
+        "text": "die",
+        "start": 74.435,
+        "end": 74.535
+      },
+      {
+        "text": "verschiedensten",
+        "start": 74.575,
+        "end": 75.135
+      },
+      {
+        "text": "Leute",
+        "start": 75.155,
+        "end": 75.415
+      },
+      {
+        "text": "kennenlernen.",
+        "start": 75.435,
+        "end": 77.176
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Aber ganz egal, wo ich hingehe, dich gibt es dort nicht, Yuki.",
+    "start": 77.236,
+    "end": 81.417,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 77.236,
+        "end": 78.336
+      },
+      {
+        "text": "ganz",
+        "start": 78.376,
+        "end": 78.536
+      },
+      {
+        "text": "egal,",
+        "start": 78.596,
+        "end": 78.856
+      },
+      {
+        "text": "wo",
+        "start": 78.896,
+        "end": 78.996
+      },
+      {
+        "text": "ich",
+        "start": 79.036,
+        "end": 79.136
+      },
+      {
+        "text": "hingehe,",
+        "start": 79.156,
+        "end": 80.257
+      },
+      {
+        "text": "dich",
+        "start": 80.277,
+        "end": 80.457
+      },
+      {
+        "text": "gibt",
+        "start": 80.497,
+        "end": 80.637
+      },
+      {
+        "text": "es",
+        "start": 80.677,
+        "end": 80.777
+      },
+      {
+        "text": "dort",
+        "start": 80.797,
+        "end": 80.977
+      },
+      {
+        "text": "nicht,",
+        "start": 80.997,
+        "end": 81.157
+      },
+      {
+        "text": "Yuki.",
+        "start": 81.197,
+        "end": 81.417
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Meine Sicht verschwimmt.",
+    "start": 85.122,
+    "end": 87.343,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 85.122,
+        "end": 85.302
+      },
+      {
+        "text": "Sicht",
+        "start": 85.342,
+        "end": 85.522
+      },
+      {
+        "text": "verschwimmt.",
+        "start": 85.542,
+        "end": 87.343
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich kann kaum noch ablesen, was er sagt.",
+    "start": 87.403,
+    "end": 95.364,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 87.403,
+        "end": 87.523
+      },
+      {
+        "text": "kann",
+        "start": 87.563,
+        "end": 87.803
+      },
+      {
+        "text": "kaum",
+        "start": 87.843,
+        "end": 88.083
+      },
+      {
+        "text": "noch",
+        "start": 88.103,
+        "end": 88.303
+      },
+      {
+        "text": "ablesen,",
+        "start": 88.343,
+        "end": 89.483
+      },
+      {
+        "text": "was",
+        "start": 89.563,
+        "end": 89.763
+      },
+      {
+        "text": "er",
+        "start": 89.803,
+        "end": 89.963
+      },
+      {
+        "text": "sagt.",
+        "start": 90.023,
+        "end": 95.364
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Konntest du meine Lippen lesen?",
+    "start": 95.384,
+    "end": 96.945,
+    "words": [
+      {
+        "text": "Konntest",
+        "start": 95.384,
+        "end": 95.725
+      },
+      {
+        "text": "du",
+        "start": 95.745,
+        "end": 96.045
+      },
+      {
+        "text": "meine",
+        "start": 96.065,
+        "end": 96.225
+      },
+      {
+        "text": "Lippen",
+        "start": 96.285,
+        "end": 96.525
+      },
+      {
+        "text": "lesen?",
+        "start": 96.565,
+        "end": 96.945
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Nein, leider nicht alles.",
+    "start": 99.485,
+    "end": 106.567,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 99.485,
+        "end": 99.845
+      },
+      {
+        "text": "leider",
+        "start": 99.885,
+        "end": 100.146
+      },
+      {
+        "text": "nicht",
+        "start": 100.186,
+        "end": 100.326
+      },
+      {
+        "text": "alles.",
+        "start": 100.386,
+        "end": 106.567
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Hör zu, Yuki.",
+    "start": 106.587,
+    "end": 110.028,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 106.587,
+        "end": 108.067
+      },
+      {
+        "text": "zu,",
+        "start": 108.327,
+        "end": 108.507
+      },
+      {
+        "text": "Yuki.",
+        "start": 108.547,
+        "end": 110.028
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich will dich.",
+    "start": 110.068,
+    "end": 110.608,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 110.068,
+        "end": 110.188
+      },
+      {
+        "text": "will",
+        "start": 110.228,
+        "end": 110.368
+      },
+      {
+        "text": "dich.",
+        "start": 110.388,
+        "end": 110.608
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Deine Antwort ist... ...ein Kreis?",
+    "start": 117.822,
+    "end": 119.404,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 117.822,
+        "end": 118.062
+      },
+      {
+        "text": "Antwort",
+        "start": 118.083,
+        "end": 118.363
+      },
+      {
+        "text": "ist...",
+        "start": 118.403,
+        "end": 118.983
+      },
+      {
+        "text": "...ein",
+        "start": 119.043,
+        "end": 119.204
+      },
+      {
+        "text": "Kreis?",
+        "start": 119.244,
+        "end": 119.404
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich schwöre mir...",
+    "start": 119.424,
+    "end": 120.745,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 119.424,
+        "end": 119.524
+      },
+      {
+        "text": "schwöre",
+        "start": 119.544,
+        "end": 120.645
+      },
+      {
+        "text": "mir...",
+        "start": 120.665,
+        "end": 120.745
+      }
+    ]
+  }
+]

@@ -1,0 +1,1809 @@
+[
+  {
+    "id": 0,
+    "text": " Leg bitte deine scheinheilige Maske ab, Kikyo.",
+    "start": 1.977,
+    "end": 3.718,
+    "words": [
+      {
+        "text": "Leg",
+        "start": 1.977,
+        "end": 2.057
+      },
+      {
+        "text": "bitte",
+        "start": 2.097,
+        "end": 2.277
+      },
+      {
+        "text": "deine",
+        "start": 2.297,
+        "end": 2.398
+      },
+      {
+        "text": "scheinheilige",
+        "start": 2.438,
+        "end": 2.898
+      },
+      {
+        "text": "Maske",
+        "start": 2.918,
+        "end": 3.198
+      },
+      {
+        "text": "ab,",
+        "start": 3.218,
+        "end": 3.318
+      },
+      {
+        "text": "Kikyo.",
+        "start": 3.358,
+        "end": 3.718
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hä?",
+    "start": 4.219,
+    "end": 4.899,
+    "words": [
+      {
+        "text": "Hä?",
+        "start": 4.219,
+        "end": 4.899
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wovon redest du denn da?",
+    "start": 4.919,
+    "end": 7.021,
+    "words": [
+      {
+        "text": "Wovon",
+        "start": 4.919,
+        "end": 5.3
+      },
+      {
+        "text": "redest",
+        "start": 5.34,
+        "end": 5.7
+      },
+      {
+        "text": "du",
+        "start": 5.72,
+        "end": 5.86
+      },
+      {
+        "text": "denn",
+        "start": 5.88,
+        "end": 6.06
+      },
+      {
+        "text": "da?",
+        "start": 6.1,
+        "end": 7.021
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Du hast unsere Geheimnisse beim Sportfest weitergegeben.",
+    "start": 7.061,
+    "end": 11.144,
+    "words": [
+      {
+        "text": "Du",
+        "start": 7.061,
+        "end": 7.241
+      },
+      {
+        "text": "hast",
+        "start": 7.261,
+        "end": 7.521
+      },
+      {
+        "text": "unsere",
+        "start": 7.541,
+        "end": 7.841
+      },
+      {
+        "text": "Geheimnisse",
+        "start": 7.881,
+        "end": 8.502
+      },
+      {
+        "text": "beim",
+        "start": 8.522,
+        "end": 8.702
+      },
+      {
+        "text": "Sportfest",
+        "start": 8.742,
+        "end": 9.282
+      },
+      {
+        "text": "weitergegeben.",
+        "start": 9.322,
+        "end": 11.144
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Deshalb hatte die Klasse C es auch so leicht, uns zu dominieren.",
+    "start": 11.184,
+    "end": 14.706,
+    "words": [
+      {
+        "text": "Deshalb",
+        "start": 11.184,
+        "end": 11.484
+      },
+      {
+        "text": "hatte",
+        "start": 11.504,
+        "end": 11.744
+      },
+      {
+        "text": "die",
+        "start": 11.764,
+        "end": 11.844
+      },
+      {
+        "text": "Klasse",
+        "start": 11.864,
+        "end": 12.184
+      },
+      {
+        "text": "C",
+        "start": 12.224,
+        "end": 12.385
+      },
+      {
+        "text": "es",
+        "start": 12.405,
+        "end": 12.525
+      },
+      {
+        "text": "auch",
+        "start": 12.565,
+        "end": 12.685
+      },
+      {
+        "text": "so",
+        "start": 12.725,
+        "end": 12.805
+      },
+      {
+        "text": "leicht,",
+        "start": 12.845,
+        "end": 13.045
+      },
+      {
+        "text": "uns",
+        "start": 13.065,
+        "end": 13.245
+      },
+      {
+        "text": "zu",
+        "start": 13.265,
+        "end": 13.365
+      },
+      {
+        "text": "dominieren.",
+        "start": 13.405,
+        "end": 14.706
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Kakerus Anwesenheit macht's doch für dich leichter.",
+    "start": 14.746,
+    "end": 17.368,
+    "words": [
+      {
+        "text": "Kakerus",
+        "start": 14.746,
+        "end": 15.187
+      },
+      {
+        "text": "Anwesenheit",
+        "start": 15.247,
+        "end": 15.767
+      },
+      {
+        "text": "macht's",
+        "start": 15.807,
+        "end": 16.027
+      },
+      {
+        "text": "doch",
+        "start": 16.047,
+        "end": 16.167
+      },
+      {
+        "text": "für",
+        "start": 16.207,
+        "end": 16.287
+      },
+      {
+        "text": "dich",
+        "start": 16.327,
+        "end": 16.447
+      },
+      {
+        "text": "leichter.",
+        "start": 16.508,
+        "end": 17.368
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Du brauchst dich doch nicht mehr zu verstecken.",
+    "start": 17.388,
+    "end": 20.03,
+    "words": [
+      {
+        "text": "Du",
+        "start": 17.388,
+        "end": 17.488
+      },
+      {
+        "text": "brauchst",
+        "start": 17.528,
+        "end": 17.748
+      },
+      {
+        "text": "dich",
+        "start": 17.768,
+        "end": 17.888
+      },
+      {
+        "text": "doch",
+        "start": 17.929,
+        "end": 18.049
+      },
+      {
+        "text": "nicht",
+        "start": 18.069,
+        "end": 18.189
+      },
+      {
+        "text": "mehr",
+        "start": 18.209,
+        "end": 18.349
+      },
+      {
+        "text": "zu",
+        "start": 18.389,
+        "end": 18.489
+      },
+      {
+        "text": "verstecken.",
+        "start": 18.529,
+        "end": 20.03
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Oder?",
+    "start": 20.11,
+    "end": 21.651,
+    "words": [
+      {
+        "text": "Oder?",
+        "start": 20.11,
+        "end": 21.651
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich versteh kein Wort.",
+    "start": 21.691,
+    "end": 22.692,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 21.691,
+        "end": 21.791
+      },
+      {
+        "text": "versteh",
+        "start": 21.831,
+        "end": 22.152
+      },
+      {
+        "text": "kein",
+        "start": 22.192,
+        "end": 22.372
+      },
+      {
+        "text": "Wort.",
+        "start": 22.392,
+        "end": 22.692
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wer hat denn wieder so einen Quatsch über mich erzählt?",
+    "start": 22.712,
+    "end": 25.114,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 22.712,
+        "end": 22.832
+      },
+      {
+        "text": "hat",
+        "start": 22.852,
+        "end": 22.952
+      },
+      {
+        "text": "denn",
+        "start": 22.972,
+        "end": 23.112
+      },
+      {
+        "text": "wieder",
+        "start": 23.152,
+        "end": 23.372
+      },
+      {
+        "text": "so",
+        "start": 23.412,
+        "end": 23.553
+      },
+      {
+        "text": "einen",
+        "start": 23.593,
+        "end": 23.753
+      },
+      {
+        "text": "Quatsch",
+        "start": 23.793,
+        "end": 24.133
+      },
+      {
+        "text": "über",
+        "start": 24.153,
+        "end": 24.293
+      },
+      {
+        "text": "mich",
+        "start": 24.333,
+        "end": 24.493
+      },
+      {
+        "text": "erzählt?",
+        "start": 24.533,
+        "end": 25.114
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Yusuke vielleicht?",
+    "start": 25.154,
+    "end": 26.234,
+    "words": [
+      {
+        "text": "Yusuke",
+        "start": 25.154,
+        "end": 25.554
+      },
+      {
+        "text": "vielleicht?",
+        "start": 25.574,
+        "end": 26.234
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Oder war es Kiyotaka?",
+    "start": 26.294,
+    "end": 27.996,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 26.294,
+        "end": 26.495
+      },
+      {
+        "text": "war",
+        "start": 26.535,
+        "end": 26.615
+      },
+      {
+        "text": "es",
+        "start": 26.675,
+        "end": 26.775
+      },
+      {
+        "text": "Kiyotaka?",
+        "start": 26.815,
+        "end": 27.996
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Außer Kakeru ist hier niemand.",
+    "start": 28.056,
+    "end": 29.657,
+    "words": [
+      {
+        "text": "Außer",
+        "start": 28.056,
+        "end": 28.376
+      },
+      {
+        "text": "Kakeru",
+        "start": 28.416,
+        "end": 28.956
+      },
+      {
+        "text": "ist",
+        "start": 28.996,
+        "end": 29.156
+      },
+      {
+        "text": "hier",
+        "start": 29.176,
+        "end": 29.357
+      },
+      {
+        "text": "niemand.",
+        "start": 29.397,
+        "end": 29.657
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Langsam könntest du mit deinem Schmierentheater aufhören.",
+    "start": 30.841,
+    "end": 33.964,
+    "words": [
+      {
+        "text": "Langsam",
+        "start": 30.841,
+        "end": 31.061
+      },
+      {
+        "text": "könntest",
+        "start": 31.081,
+        "end": 31.382
+      },
+      {
+        "text": "du",
+        "start": 31.402,
+        "end": 31.482
+      },
+      {
+        "text": "mit",
+        "start": 31.502,
+        "end": 31.602
+      },
+      {
+        "text": "deinem",
+        "start": 31.622,
+        "end": 31.842
+      },
+      {
+        "text": "Schmierentheater",
+        "start": 31.882,
+        "end": 32.763
+      },
+      {
+        "text": "aufhören.",
+        "start": 32.803,
+        "end": 33.964
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Mein Schmierentheater?",
+    "start": 33.984,
+    "end": 34.965,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 33.984,
+        "end": 34.204
+      },
+      {
+        "text": "Schmierentheater?",
+        "start": 34.224,
+        "end": 34.965
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Was soll das heißen?",
+    "start": 35.025,
+    "end": 36.846,
+    "words": [
+      {
+        "text": "Was",
+        "start": 35.025,
+        "end": 35.145
+      },
+      {
+        "text": "soll",
+        "start": 35.165,
+        "end": 35.285
+      },
+      {
+        "text": "das",
+        "start": 35.325,
+        "end": 35.445
+      },
+      {
+        "text": "heißen?",
+        "start": 35.485,
+        "end": 36.846
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Zu Beginn unserer Schulzeit habe ich deinen Charakter nicht erkannt.",
+    "start": 36.866,
+    "end": 40.009,
+    "words": [
+      {
+        "text": "Zu",
+        "start": 36.866,
+        "end": 36.966
+      },
+      {
+        "text": "Beginn",
+        "start": 36.986,
+        "end": 37.266
+      },
+      {
+        "text": "unserer",
+        "start": 37.286,
+        "end": 37.507
+      },
+      {
+        "text": "Schulzeit",
+        "start": 37.547,
+        "end": 37.967
+      },
+      {
+        "text": "habe",
+        "start": 37.987,
+        "end": 38.107
+      },
+      {
+        "text": "ich",
+        "start": 38.147,
+        "end": 38.227
+      },
+      {
+        "text": "deinen",
+        "start": 38.247,
+        "end": 38.407
+      },
+      {
+        "text": "Charakter",
+        "start": 38.427,
+        "end": 38.788
+      },
+      {
+        "text": "nicht",
+        "start": 38.808,
+        "end": 38.988
+      },
+      {
+        "text": "erkannt.",
+        "start": 39.028,
+        "end": 40.009
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Doch jetzt schon.",
+    "start": 40.029,
+    "end": 41.27,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 40.029,
+        "end": 40.209
+      },
+      {
+        "text": "jetzt",
+        "start": 40.229,
+        "end": 40.409
+      },
+      {
+        "text": "schon.",
+        "start": 40.449,
+        "end": 41.27
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Auf meiner Mittelschule gab es jemanden, der mich wirklich stark an dich erinnert.",
+    "start": 41.31,
+    "end": 45.473,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 41.31,
+        "end": 41.49
+      },
+      {
+        "text": "meiner",
+        "start": 41.51,
+        "end": 41.75
+      },
+      {
+        "text": "Mittelschule",
+        "start": 41.77,
+        "end": 42.971
+      },
+      {
+        "text": "gab",
+        "start": 42.991,
+        "end": 43.151
+      },
+      {
+        "text": "es",
+        "start": 43.171,
+        "end": 43.331
+      },
+      {
+        "text": "jemanden,",
+        "start": 43.371,
+        "end": 43.772
+      },
+      {
+        "text": "der",
+        "start": 43.792,
+        "end": 43.912
+      },
+      {
+        "text": "mich",
+        "start": 43.932,
+        "end": 44.172
+      },
+      {
+        "text": "wirklich",
+        "start": 44.192,
+        "end": 44.552
+      },
+      {
+        "text": "stark",
+        "start": 44.572,
+        "end": 44.792
+      },
+      {
+        "text": "an",
+        "start": 44.832,
+        "end": 44.892
+      },
+      {
+        "text": "dich",
+        "start": 44.912,
+        "end": 45.133
+      },
+      {
+        "text": "erinnert.",
+        "start": 45.173,
+        "end": 45.473
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Ja, ich bin damals schon ein ziemliches Sorgenkind gewesen, oder?",
+    "start": 52.913,
+    "end": 56.814,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 52.913,
+        "end": 53.233
+      },
+      {
+        "text": "ich",
+        "start": 53.273,
+        "end": 53.373
+      },
+      {
+        "text": "bin",
+        "start": 53.393,
+        "end": 53.553
+      },
+      {
+        "text": "damals",
+        "start": 53.573,
+        "end": 53.933
+      },
+      {
+        "text": "schon",
+        "start": 53.973,
+        "end": 54.153
+      },
+      {
+        "text": "ein",
+        "start": 54.193,
+        "end": 54.333
+      },
+      {
+        "text": "ziemliches",
+        "start": 54.373,
+        "end": 54.914
+      },
+      {
+        "text": "Sorgenkind",
+        "start": 54.954,
+        "end": 55.534
+      },
+      {
+        "text": "gewesen,",
+        "start": 55.574,
+        "end": 56.094
+      },
+      {
+        "text": "oder?",
+        "start": 56.154,
+        "end": 56.814
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Und weil du so gut kombinieren kannst, meine Hübsche, weißt du bestimmt auch, was mein Vorhaben bezüglich deiner Person ist.",
+    "start": 56.874,
+    "end": 63.196,
+    "words": [
+      {
+        "text": "Und",
+        "start": 56.874,
+        "end": 56.994
+      },
+      {
+        "text": "weil",
+        "start": 57.034,
+        "end": 57.154
+      },
+      {
+        "text": "du",
+        "start": 57.174,
+        "end": 57.274
+      },
+      {
+        "text": "so",
+        "start": 57.294,
+        "end": 57.394
+      },
+      {
+        "text": "gut",
+        "start": 57.414,
+        "end": 57.554
+      },
+      {
+        "text": "kombinieren",
+        "start": 57.574,
+        "end": 58.114
+      },
+      {
+        "text": "kannst,",
+        "start": 58.154,
+        "end": 58.475
+      },
+      {
+        "text": "meine",
+        "start": 58.515,
+        "end": 58.715
+      },
+      {
+        "text": "Hübsche,",
+        "start": 58.735,
+        "end": 59.035
+      },
+      {
+        "text": "weißt",
+        "start": 59.075,
+        "end": 59.215
+      },
+      {
+        "text": "du",
+        "start": 59.235,
+        "end": 59.375
+      },
+      {
+        "text": "bestimmt",
+        "start": 59.395,
+        "end": 59.795
+      },
+      {
+        "text": "auch,",
+        "start": 59.835,
+        "end": 60.395
+      },
+      {
+        "text": "was",
+        "start": 60.435,
+        "end": 60.655
+      },
+      {
+        "text": "mein",
+        "start": 60.675,
+        "end": 60.895
+      },
+      {
+        "text": "Vorhaben",
+        "start": 60.935,
+        "end": 61.355
+      },
+      {
+        "text": "bezüglich",
+        "start": 61.375,
+        "end": 61.855
+      },
+      {
+        "text": "deiner",
+        "start": 61.895,
+        "end": 62.176
+      },
+      {
+        "text": "Person",
+        "start": 62.196,
+        "end": 62.636
+      },
+      {
+        "text": "ist.",
+        "start": 62.696,
+        "end": 63.196
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Eine Sache verstehe ich nicht.",
+    "start": 63.236,
+    "end": 64.656,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 63.236,
+        "end": 63.396
+      },
+      {
+        "text": "Sache",
+        "start": 63.436,
+        "end": 63.656
+      },
+      {
+        "text": "verstehe",
+        "start": 63.676,
+        "end": 63.976
+      },
+      {
+        "text": "ich",
+        "start": 64.016,
+        "end": 64.116
+      },
+      {
+        "text": "nicht.",
+        "start": 64.176,
+        "end": 64.656
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Warum willst du mich unbedingt von dieser Schule fliegen lassen?",
+    "start": 64.676,
+    "end": 67.057,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 64.676,
+        "end": 64.876
+      },
+      {
+        "text": "willst",
+        "start": 64.896,
+        "end": 65.116
+      },
+      {
+        "text": "du",
+        "start": 65.136,
+        "end": 65.236
+      },
+      {
+        "text": "mich",
+        "start": 65.256,
+        "end": 65.456
+      },
+      {
+        "text": "unbedingt",
+        "start": 65.476,
+        "end": 65.877
+      },
+      {
+        "text": "von",
+        "start": 65.897,
+        "end": 66.037
+      },
+      {
+        "text": "dieser",
+        "start": 66.057,
+        "end": 66.257
+      },
+      {
+        "text": "Schule",
+        "start": 66.277,
+        "end": 66.537
+      },
+      {
+        "text": "fliegen",
+        "start": 66.597,
+        "end": 66.837
+      },
+      {
+        "text": "lassen?",
+        "start": 66.877,
+        "end": 67.057
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Meine Suspendierung würde auch für dich ein großes Risiko bedeuten.",
+    "start": 68.037,
+    "end": 71.059,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 68.037,
+        "end": 68.217
+      },
+      {
+        "text": "Suspendierung",
+        "start": 68.257,
+        "end": 68.878
+      },
+      {
+        "text": "würde",
+        "start": 68.938,
+        "end": 69.198
+      },
+      {
+        "text": "auch",
+        "start": 69.218,
+        "end": 69.378
+      },
+      {
+        "text": "für",
+        "start": 69.398,
+        "end": 69.498
+      },
+      {
+        "text": "dich",
+        "start": 69.518,
+        "end": 69.738
+      },
+      {
+        "text": "ein",
+        "start": 69.758,
+        "end": 69.918
+      },
+      {
+        "text": "großes",
+        "start": 69.938,
+        "end": 70.279
+      },
+      {
+        "text": "Risiko",
+        "start": 70.339,
+        "end": 70.699
+      },
+      {
+        "text": "bedeuten.",
+        "start": 70.719,
+        "end": 71.059
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Scheiß auf das Risiko.",
+    "start": 71.94,
+    "end": 73.401,
+    "words": [
+      {
+        "text": "Scheiß",
+        "start": 71.94,
+        "end": 72.28
+      },
+      {
+        "text": "auf",
+        "start": 72.3,
+        "end": 72.44
+      },
+      {
+        "text": "das",
+        "start": 72.46,
+        "end": 72.62
+      },
+      {
+        "text": "Risiko.",
+        "start": 72.64,
+        "end": 73.401
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Doch solltest du irgendwas über meine Person öffentlich machen, zeige ich dir, wozu ich fähig bin.",
+    "start": 73.441,
+    "end": 78.864,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 73.441,
+        "end": 73.641
+      },
+      {
+        "text": "solltest",
+        "start": 73.681,
+        "end": 74.021
+      },
+      {
+        "text": "du",
+        "start": 74.061,
+        "end": 74.681
+      },
+      {
+        "text": "irgendwas",
+        "start": 74.721,
+        "end": 75.242
+      },
+      {
+        "text": "über",
+        "start": 75.262,
+        "end": 75.462
+      },
+      {
+        "text": "meine",
+        "start": 75.502,
+        "end": 75.702
+      },
+      {
+        "text": "Person",
+        "start": 75.742,
+        "end": 76.082
+      },
+      {
+        "text": "öffentlich",
+        "start": 76.122,
+        "end": 76.543
+      },
+      {
+        "text": "machen,",
+        "start": 76.583,
+        "end": 76.883
+      },
+      {
+        "text": "zeige",
+        "start": 76.903,
+        "end": 77.083
+      },
+      {
+        "text": "ich",
+        "start": 77.103,
+        "end": 77.183
+      },
+      {
+        "text": "dir,",
+        "start": 77.203,
+        "end": 77.323
+      },
+      {
+        "text": "wozu",
+        "start": 77.383,
+        "end": 77.663
+      },
+      {
+        "text": "ich",
+        "start": 77.723,
+        "end": 77.843
+      },
+      {
+        "text": "fähig",
+        "start": 77.903,
+        "end": 78.244
+      },
+      {
+        "text": "bin.",
+        "start": 78.284,
+        "end": 78.864
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Dann wird dein lieber großer Bruder ein ganz großes Thema werden.",
+    "start": 78.904,
+    "end": 83.707,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 78.904,
+        "end": 79.084
+      },
+      {
+        "text": "wird",
+        "start": 79.104,
+        "end": 79.284
+      },
+      {
+        "text": "dein",
+        "start": 79.304,
+        "end": 79.524
+      },
+      {
+        "text": "lieber",
+        "start": 79.544,
+        "end": 79.845
+      },
+      {
+        "text": "großer",
+        "start": 79.865,
+        "end": 80.305
+      },
+      {
+        "text": "Bruder",
+        "start": 80.325,
+        "end": 81.045
+      },
+      {
+        "text": "ein",
+        "start": 81.085,
+        "end": 81.326
+      },
+      {
+        "text": "ganz",
+        "start": 81.366,
+        "end": 81.686
+      },
+      {
+        "text": "großes",
+        "start": 81.726,
+        "end": 82.186
+      },
+      {
+        "text": "Thema",
+        "start": 82.246,
+        "end": 82.646
+      },
+      {
+        "text": "werden.",
+        "start": 82.686,
+        "end": 83.707
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Das verspreche ich dir.",
+    "start": 83.747,
+    "end": 84.868,
+    "words": [
+      {
+        "text": "Das",
+        "start": 83.747,
+        "end": 83.967
+      },
+      {
+        "text": "verspreche",
+        "start": 84.007,
+        "end": 84.488
+      },
+      {
+        "text": "ich",
+        "start": 84.548,
+        "end": 84.668
+      },
+      {
+        "text": "dir.",
+        "start": 84.708,
+        "end": 84.868
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Warum ignorierst du mich denn nicht einfach, hm?",
+    "start": 87.464,
+    "end": 89.846,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 87.464,
+        "end": 87.684
+      },
+      {
+        "text": "ignorierst",
+        "start": 87.704,
+        "end": 88.165
+      },
+      {
+        "text": "du",
+        "start": 88.205,
+        "end": 88.305
+      },
+      {
+        "text": "mich",
+        "start": 88.325,
+        "end": 88.465
+      },
+      {
+        "text": "denn",
+        "start": 88.485,
+        "end": 88.625
+      },
+      {
+        "text": "nicht",
+        "start": 88.645,
+        "end": 88.885
+      },
+      {
+        "text": "einfach,",
+        "start": 88.925,
+        "end": 89.266
+      },
+      {
+        "text": "hm?",
+        "start": 89.306,
+        "end": 89.846
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Kikyo, du weißt, dass ich mich grundsätzlich nicht in Dinge einmische, die mich nichts angehen.",
+    "start": 89.886,
+    "end": 94.05,
+    "words": [
+      {
+        "text": "Kikyo,",
+        "start": 89.886,
+        "end": 90.146
+      },
+      {
+        "text": "du",
+        "start": 90.166,
+        "end": 90.307
+      },
+      {
+        "text": "weißt,",
+        "start": 90.327,
+        "end": 90.507
+      },
+      {
+        "text": "dass",
+        "start": 90.527,
+        "end": 90.667
+      },
+      {
+        "text": "ich",
+        "start": 90.707,
+        "end": 90.807
+      },
+      {
+        "text": "mich",
+        "start": 90.847,
+        "end": 90.987
+      },
+      {
+        "text": "grundsätzlich",
+        "start": 91.027,
+        "end": 91.528
+      },
+      {
+        "text": "nicht",
+        "start": 91.548,
+        "end": 91.668
+      },
+      {
+        "text": "in",
+        "start": 91.728,
+        "end": 91.808
+      },
+      {
+        "text": "Dinge",
+        "start": 91.828,
+        "end": 92.048
+      },
+      {
+        "text": "einmische,",
+        "start": 92.088,
+        "end": 92.669
+      },
+      {
+        "text": "die",
+        "start": 92.689,
+        "end": 92.809
+      },
+      {
+        "text": "mich",
+        "start": 92.829,
+        "end": 93.009
+      },
+      {
+        "text": "nichts",
+        "start": 93.049,
+        "end": 93.289
+      },
+      {
+        "text": "angehen.",
+        "start": 93.329,
+        "end": 94.05
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Meiner neuen Persönlichkeit gefällt es nicht, dass ihre Vergangenheit bekannt wird.",
+    "start": 94.07,
+    "end": 97.613,
+    "words": [
+      {
+        "text": "Meiner",
+        "start": 94.07,
+        "end": 94.37
+      },
+      {
+        "text": "neuen",
+        "start": 94.41,
+        "end": 94.63
+      },
+      {
+        "text": "Persönlichkeit",
+        "start": 94.65,
+        "end": 95.311
+      },
+      {
+        "text": "gefällt",
+        "start": 95.331,
+        "end": 95.651
+      },
+      {
+        "text": "es",
+        "start": 95.691,
+        "end": 95.811
+      },
+      {
+        "text": "nicht,",
+        "start": 95.831,
+        "end": 95.991
+      },
+      {
+        "text": "dass",
+        "start": 96.011,
+        "end": 96.152
+      },
+      {
+        "text": "ihre",
+        "start": 96.172,
+        "end": 96.432
+      },
+      {
+        "text": "Vergangenheit",
+        "start": 96.472,
+        "end": 97.032
+      },
+      {
+        "text": "bekannt",
+        "start": 97.092,
+        "end": 97.433
+      },
+      {
+        "text": "wird.",
+        "start": 97.453,
+        "end": 97.613
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Deswegen müssen alle, die davon wissen, beseitigt werden.",
+    "start": 97.653,
+    "end": 100.555,
+    "words": [
+      {
+        "text": "Deswegen",
+        "start": 97.653,
+        "end": 98.093
+      },
+      {
+        "text": "müssen",
+        "start": 98.113,
+        "end": 98.473
+      },
+      {
+        "text": "alle,",
+        "start": 98.534,
+        "end": 98.774
+      },
+      {
+        "text": "die",
+        "start": 98.794,
+        "end": 98.914
+      },
+      {
+        "text": "davon",
+        "start": 98.934,
+        "end": 99.274
+      },
+      {
+        "text": "wissen,",
+        "start": 99.294,
+        "end": 99.634
+      },
+      {
+        "text": "beseitigt",
+        "start": 99.654,
+        "end": 100.255
+      },
+      {
+        "text": "werden.",
+        "start": 100.315,
+        "end": 100.555
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Oh, wie interessant.",
+    "start": 100.916,
+    "end": 102.197,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 100.916,
+        "end": 101.136
+      },
+      {
+        "text": "wie",
+        "start": 101.156,
+        "end": 101.296
+      },
+      {
+        "text": "interessant.",
+        "start": 101.316,
+        "end": 102.197
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Dann hast du mich wohl auch im Visier, oder?",
+    "start": 102.217,
+    "end": 105.399,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 102.217,
+        "end": 102.397
+      },
+      {
+        "text": "hast",
+        "start": 102.417,
+        "end": 102.677
+      },
+      {
+        "text": "du",
+        "start": 102.697,
+        "end": 103.077
+      },
+      {
+        "text": "mich",
+        "start": 103.117,
+        "end": 103.257
+      },
+      {
+        "text": "wohl",
+        "start": 103.318,
+        "end": 103.518
+      },
+      {
+        "text": "auch",
+        "start": 103.558,
+        "end": 103.678
+      },
+      {
+        "text": "im",
+        "start": 103.758,
+        "end": 103.918
+      },
+      {
+        "text": "Visier,",
+        "start": 103.938,
+        "end": 104.479
+      },
+      {
+        "text": "oder?",
+        "start": 104.539,
+        "end": 105.399
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ausschließen würde ich es an deiner Stelle nicht.",
+    "start": 105.479,
+    "end": 109.162,
+    "words": [
+      {
+        "text": "Ausschließen",
+        "start": 105.479,
+        "end": 106.0
+      },
+      {
+        "text": "würde",
+        "start": 106.04,
+        "end": 106.2
+      },
+      {
+        "text": "ich",
+        "start": 106.22,
+        "end": 106.3
+      },
+      {
+        "text": "es",
+        "start": 106.34,
+        "end": 106.44
+      },
+      {
+        "text": "an",
+        "start": 106.48,
+        "end": 106.56
+      },
+      {
+        "text": "deiner",
+        "start": 106.58,
+        "end": 106.841
+      },
+      {
+        "text": "Stelle",
+        "start": 106.861,
+        "end": 107.181
+      },
+      {
+        "text": "nicht.",
+        "start": 107.221,
+        "end": 109.162
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Du gefällst mir wirklich immer mehr.",
+    "start": 109.182,
+    "end": 110.664,
+    "words": [
+      {
+        "text": "Du",
+        "start": 109.182,
+        "end": 109.323
+      },
+      {
+        "text": "gefällst",
+        "start": 109.363,
+        "end": 109.763
+      },
+      {
+        "text": "mir",
+        "start": 109.783,
+        "end": 109.923
+      },
+      {
+        "text": "wirklich",
+        "start": 109.963,
+        "end": 110.243
+      },
+      {
+        "text": "immer",
+        "start": 110.283,
+        "end": 110.524
+      },
+      {
+        "text": "mehr.",
+        "start": 110.544,
+        "end": 110.664
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": " Susanne, mach dir keine Hoffnung.",
+    "start": 112.013,
+    "end": 113.956,
+    "words": [
+      {
+        "text": "Susanne,",
+        "start": 112.013,
+        "end": 112.754
+      },
+      {
+        "text": "mach",
+        "start": 112.774,
+        "end": 112.895
+      },
+      {
+        "text": "dir",
+        "start": 112.935,
+        "end": 113.075
+      },
+      {
+        "text": "keine",
+        "start": 113.095,
+        "end": 113.275
+      },
+      {
+        "text": "Hoffnung.",
+        "start": 113.315,
+        "end": 113.956
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Ich werde auf jeden Fall dafür sorgen, dass du von der Schule fliegst.",
+    "start": 113.997,
+    "end": 117.102,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 113.997,
+        "end": 114.097
+      },
+      {
+        "text": "werde",
+        "start": 114.117,
+        "end": 114.337
+      },
+      {
+        "text": "auf",
+        "start": 114.377,
+        "end": 114.538
+      },
+      {
+        "text": "jeden",
+        "start": 114.558,
+        "end": 114.758
+      },
+      {
+        "text": "Fall",
+        "start": 114.798,
+        "end": 114.978
+      },
+      {
+        "text": "dafür",
+        "start": 115.018,
+        "end": 115.219
+      },
+      {
+        "text": "sorgen,",
+        "start": 115.259,
+        "end": 115.439
+      },
+      {
+        "text": "dass",
+        "start": 115.479,
+        "end": 115.619
+      },
+      {
+        "text": "du",
+        "start": 115.66,
+        "end": 115.78
+      },
+      {
+        "text": "von",
+        "start": 115.8,
+        "end": 115.92
+      },
+      {
+        "text": "der",
+        "start": 115.94,
+        "end": 116.06
+      },
+      {
+        "text": "Schule",
+        "start": 116.08,
+        "end": 116.401
+      },
+      {
+        "text": "fliegst.",
+        "start": 116.441,
+        "end": 117.102
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Selbst wenn ich dafür einen Pakt mit dem Teufel eingehen muss.",
+    "start": 117.122,
+    "end": 119.627,
+    "words": [
+      {
+        "text": "Selbst",
+        "start": 117.122,
+        "end": 117.343
+      },
+      {
+        "text": "wenn",
+        "start": 117.363,
+        "end": 117.503
+      },
+      {
+        "text": "ich",
+        "start": 117.543,
+        "end": 117.643
+      },
+      {
+        "text": "dafür",
+        "start": 117.683,
+        "end": 117.904
+      },
+      {
+        "text": "einen",
+        "start": 117.924,
+        "end": 118.064
+      },
+      {
+        "text": "Pakt",
+        "start": 118.104,
+        "end": 118.344
+      },
+      {
+        "text": "mit",
+        "start": 118.364,
+        "end": 118.485
+      },
+      {
+        "text": "dem",
+        "start": 118.505,
+        "end": 118.685
+      },
+      {
+        "text": "Teufel",
+        "start": 118.725,
+        "end": 119.046
+      },
+      {
+        "text": "eingehen",
+        "start": 119.086,
+        "end": 119.446
+      },
+      {
+        "text": "muss.",
+        "start": 119.486,
+        "end": 119.627
+      }
+    ]
+  }
+]

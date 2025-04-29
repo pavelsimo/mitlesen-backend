@@ -1,0 +1,1775 @@
+[
+  {
+    "id": 0,
+    "text": " Es tut mir leid, dass ich dich so plötzlich hierher gebeten habe.",
+    "start": 1.775,
+    "end": 5.056,
+    "words": [
+      {
+        "text": "Es",
+        "start": 1.775,
+        "end": 1.835
+      },
+      {
+        "text": "tut",
+        "start": 1.855,
+        "end": 1.995
+      },
+      {
+        "text": "mir",
+        "start": 2.015,
+        "end": 2.115
+      },
+      {
+        "text": "leid,",
+        "start": 2.155,
+        "end": 2.235
+      },
+      {
+        "text": "dass",
+        "start": 2.255,
+        "end": 2.335
+      },
+      {
+        "text": "ich",
+        "start": 2.395,
+        "end": 2.495
+      },
+      {
+        "text": "dich",
+        "start": 2.515,
+        "end": 2.595
+      },
+      {
+        "text": "so",
+        "start": 2.635,
+        "end": 2.735
+      },
+      {
+        "text": "plötzlich",
+        "start": 2.755,
+        "end": 3.135
+      },
+      {
+        "text": "hierher",
+        "start": 3.155,
+        "end": 3.435
+      },
+      {
+        "text": "gebeten",
+        "start": 3.475,
+        "end": 3.875
+      },
+      {
+        "text": "habe.",
+        "start": 3.935,
+        "end": 5.056
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Kein Problem.",
+    "start": 5.096,
+    "end": 5.736,
+    "words": [
+      {
+        "text": "Kein",
+        "start": 5.096,
+        "end": 5.336
+      },
+      {
+        "text": "Problem.",
+        "start": 5.376,
+        "end": 5.736
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Also, ähm... Nenn mich einfach Mimi.",
+    "start": 7.136,
+    "end": 10.177,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 7.136,
+        "end": 7.456
+      },
+      {
+        "text": "ähm...",
+        "start": 8.496,
+        "end": 8.716
+      },
+      {
+        "text": "Nenn",
+        "start": 8.736,
+        "end": 8.856
+      },
+      {
+        "text": "mich",
+        "start": 8.916,
+        "end": 9.076
+      },
+      {
+        "text": "einfach",
+        "start": 9.116,
+        "end": 9.436
+      },
+      {
+        "text": "Mimi.",
+        "start": 9.456,
+        "end": 10.177
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Das machen alle anderen auch.",
+    "start": 10.217,
+    "end": 12.237,
+    "words": [
+      {
+        "text": "Das",
+        "start": 10.217,
+        "end": 10.357
+      },
+      {
+        "text": "machen",
+        "start": 10.377,
+        "end": 10.597
+      },
+      {
+        "text": "alle",
+        "start": 10.617,
+        "end": 10.757
+      },
+      {
+        "text": "anderen",
+        "start": 10.797,
+        "end": 11.097
+      },
+      {
+        "text": "auch.",
+        "start": 11.137,
+        "end": 12.237
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Das allein verlangt mir schon viel ab.",
+    "start": 12.277,
+    "end": 15.298,
+    "words": [
+      {
+        "text": "Das",
+        "start": 12.277,
+        "end": 12.517
+      },
+      {
+        "text": "allein",
+        "start": 12.577,
+        "end": 12.977
+      },
+      {
+        "text": "verlangt",
+        "start": 12.997,
+        "end": 13.357
+      },
+      {
+        "text": "mir",
+        "start": 13.377,
+        "end": 13.517
+      },
+      {
+        "text": "schon",
+        "start": 13.557,
+        "end": 13.777
+      },
+      {
+        "text": "viel",
+        "start": 13.817,
+        "end": 14.017
+      },
+      {
+        "text": "ab.",
+        "start": 14.057,
+        "end": 15.298
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Gut, wenn du willst.",
+    "start": 15.318,
+    "end": 16.818,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 15.318,
+        "end": 15.538
+      },
+      {
+        "text": "wenn",
+        "start": 15.558,
+        "end": 15.678
+      },
+      {
+        "text": "du",
+        "start": 15.718,
+        "end": 15.838
+      },
+      {
+        "text": "willst.",
+        "start": 15.858,
+        "end": 16.818
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Okay.",
+    "start": 16.918,
+    "end": 17.578,
+    "words": [
+      {
+        "text": "Okay.",
+        "start": 16.918,
+        "end": 17.578
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Worum geht's denn?",
+    "start": 17.618,
+    "end": 18.358,
+    "words": [
+      {
+        "text": "Worum",
+        "start": 17.618,
+        "end": 17.898
+      },
+      {
+        "text": "geht's",
+        "start": 17.918,
+        "end": 18.178
+      },
+      {
+        "text": "denn?",
+        "start": 18.198,
+        "end": 18.358
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Also, ähm... Ich wollte mich mit dir ein bisschen über Josuke unterhalten.",
+    "start": 19.158,
+    "end": 23.539,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 19.158,
+        "end": 19.478
+      },
+      {
+        "text": "ähm...",
+        "start": 19.538,
+        "end": 20.279
+      },
+      {
+        "text": "Ich",
+        "start": 20.319,
+        "end": 20.419
+      },
+      {
+        "text": "wollte",
+        "start": 20.459,
+        "end": 20.719
+      },
+      {
+        "text": "mich",
+        "start": 20.759,
+        "end": 20.899
+      },
+      {
+        "text": "mit",
+        "start": 20.919,
+        "end": 21.019
+      },
+      {
+        "text": "dir",
+        "start": 21.039,
+        "end": 21.119
+      },
+      {
+        "text": "ein",
+        "start": 21.179,
+        "end": 21.299
+      },
+      {
+        "text": "bisschen",
+        "start": 21.339,
+        "end": 21.659
+      },
+      {
+        "text": "über",
+        "start": 21.699,
+        "end": 21.859
+      },
+      {
+        "text": "Josuke",
+        "start": 21.899,
+        "end": 22.279
+      },
+      {
+        "text": "unterhalten.",
+        "start": 22.319,
+        "end": 23.539
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Warum gerade mit mir?",
+    "start": 23.579,
+    "end": 25.34,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 23.579,
+        "end": 23.939
+      },
+      {
+        "text": "gerade",
+        "start": 23.959,
+        "end": 24.259
+      },
+      {
+        "text": "mit",
+        "start": 24.299,
+        "end": 24.499
+      },
+      {
+        "text": "mir?",
+        "start": 24.539,
+        "end": 25.34
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Er und ich sind eigentlich nicht wirklich befreundet.",
+    "start": 25.4,
+    "end": 27.42,
+    "words": [
+      {
+        "text": "Er",
+        "start": 25.4,
+        "end": 25.52
+      },
+      {
+        "text": "und",
+        "start": 25.56,
+        "end": 25.72
+      },
+      {
+        "text": "ich",
+        "start": 25.76,
+        "end": 25.9
+      },
+      {
+        "text": "sind",
+        "start": 25.92,
+        "end": 26.12
+      },
+      {
+        "text": "eigentlich",
+        "start": 26.14,
+        "end": 26.5
+      },
+      {
+        "text": "nicht",
+        "start": 26.52,
+        "end": 26.7
+      },
+      {
+        "text": "wirklich",
+        "start": 26.72,
+        "end": 27.0
+      },
+      {
+        "text": "befreundet.",
+        "start": 27.02,
+        "end": 27.42
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Das stimmt nicht.",
+    "start": 28.259,
+    "end": 28.999,
+    "words": [
+      {
+        "text": "Das",
+        "start": 28.259,
+        "end": 28.359
+      },
+      {
+        "text": "stimmt",
+        "start": 28.379,
+        "end": 28.599
+      },
+      {
+        "text": "nicht.",
+        "start": 28.639,
+        "end": 28.999
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Soweit ich das beurteilen kann, hat Yusuke nämlich volles Vertrauen in dich.",
+    "start": 29.019,
+    "end": 33.822,
+    "words": [
+      {
+        "text": "Soweit",
+        "start": 29.019,
+        "end": 29.28
+      },
+      {
+        "text": "ich",
+        "start": 29.3,
+        "end": 29.38
+      },
+      {
+        "text": "das",
+        "start": 29.42,
+        "end": 29.56
+      },
+      {
+        "text": "beurteilen",
+        "start": 29.58,
+        "end": 30.04
+      },
+      {
+        "text": "kann,",
+        "start": 30.06,
+        "end": 30.22
+      },
+      {
+        "text": "hat",
+        "start": 30.24,
+        "end": 30.36
+      },
+      {
+        "text": "Yusuke",
+        "start": 30.4,
+        "end": 30.72
+      },
+      {
+        "text": "nämlich",
+        "start": 30.74,
+        "end": 31.06
+      },
+      {
+        "text": "volles",
+        "start": 31.08,
+        "end": 31.401
+      },
+      {
+        "text": "Vertrauen",
+        "start": 31.441,
+        "end": 31.821
+      },
+      {
+        "text": "in",
+        "start": 31.881,
+        "end": 32.001
+      },
+      {
+        "text": "dich.",
+        "start": 32.041,
+        "end": 33.822
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und deshalb möchte ich gern von dir wissen, ob es schon wieder vergeben ist.",
+    "start": 33.882,
+    "end": 38.964,
+    "words": [
+      {
+        "text": "Und",
+        "start": 33.882,
+        "end": 34.082
+      },
+      {
+        "text": "deshalb",
+        "start": 34.122,
+        "end": 34.882
+      },
+      {
+        "text": "möchte",
+        "start": 34.902,
+        "end": 35.082
+      },
+      {
+        "text": "ich",
+        "start": 35.102,
+        "end": 35.202
+      },
+      {
+        "text": "gern",
+        "start": 35.222,
+        "end": 35.462
+      },
+      {
+        "text": "von",
+        "start": 35.482,
+        "end": 35.582
+      },
+      {
+        "text": "dir",
+        "start": 35.602,
+        "end": 35.762
+      },
+      {
+        "text": "wissen,",
+        "start": 35.802,
+        "end": 36.623
+      },
+      {
+        "text": "ob",
+        "start": 36.663,
+        "end": 36.863
+      },
+      {
+        "text": "es",
+        "start": 36.903,
+        "end": 36.983
+      },
+      {
+        "text": "schon",
+        "start": 37.003,
+        "end": 37.183
+      },
+      {
+        "text": "wieder",
+        "start": 37.203,
+        "end": 37.443
+      },
+      {
+        "text": "vergeben",
+        "start": 37.483,
+        "end": 37.923
+      },
+      {
+        "text": "ist.",
+        "start": 37.963,
+        "end": 38.964
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ich denke nicht, dass das der Fall ist.",
+    "start": 39.024,
+    "end": 41.205,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 39.024,
+        "end": 39.144
+      },
+      {
+        "text": "denke",
+        "start": 39.184,
+        "end": 39.464
+      },
+      {
+        "text": "nicht,",
+        "start": 39.484,
+        "end": 39.644
+      },
+      {
+        "text": "dass",
+        "start": 39.664,
+        "end": 39.824
+      },
+      {
+        "text": "das",
+        "start": 39.844,
+        "end": 40.004
+      },
+      {
+        "text": "der",
+        "start": 40.044,
+        "end": 40.144
+      },
+      {
+        "text": "Fall",
+        "start": 40.184,
+        "end": 40.344
+      },
+      {
+        "text": "ist.",
+        "start": 40.405,
+        "end": 41.205
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Meinst du wirklich?",
+    "start": 41.225,
+    "end": 42.325,
+    "words": [
+      {
+        "text": "Meinst",
+        "start": 41.225,
+        "end": 41.465
+      },
+      {
+        "text": "du",
+        "start": 41.485,
+        "end": 41.605
+      },
+      {
+        "text": "wirklich?",
+        "start": 41.625,
+        "end": 42.325
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Absolut sicher kann ich das zwar nicht sagen, aber meines Wissens nach hat sich Kay gerade erst von ihm getrennt.",
+    "start": 42.365,
+    "end": 47.628,
+    "words": [
+      {
+        "text": "Absolut",
+        "start": 42.365,
+        "end": 42.806
+      },
+      {
+        "text": "sicher",
+        "start": 42.846,
+        "end": 43.126
+      },
+      {
+        "text": "kann",
+        "start": 43.146,
+        "end": 43.286
+      },
+      {
+        "text": "ich",
+        "start": 43.326,
+        "end": 43.406
+      },
+      {
+        "text": "das",
+        "start": 43.446,
+        "end": 43.566
+      },
+      {
+        "text": "zwar",
+        "start": 43.606,
+        "end": 43.766
+      },
+      {
+        "text": "nicht",
+        "start": 43.786,
+        "end": 43.966
+      },
+      {
+        "text": "sagen,",
+        "start": 43.986,
+        "end": 44.646
+      },
+      {
+        "text": "aber",
+        "start": 44.686,
+        "end": 44.866
+      },
+      {
+        "text": "meines",
+        "start": 44.886,
+        "end": 45.107
+      },
+      {
+        "text": "Wissens",
+        "start": 45.167,
+        "end": 45.467
+      },
+      {
+        "text": "nach",
+        "start": 45.507,
+        "end": 45.647
+      },
+      {
+        "text": "hat",
+        "start": 45.667,
+        "end": 45.807
+      },
+      {
+        "text": "sich",
+        "start": 45.827,
+        "end": 45.967
+      },
+      {
+        "text": "Kay",
+        "start": 46.007,
+        "end": 46.187
+      },
+      {
+        "text": "gerade",
+        "start": 46.227,
+        "end": 46.467
+      },
+      {
+        "text": "erst",
+        "start": 46.507,
+        "end": 46.647
+      },
+      {
+        "text": "von",
+        "start": 46.667,
+        "end": 46.767
+      },
+      {
+        "text": "ihm",
+        "start": 46.807,
+        "end": 46.927
+      },
+      {
+        "text": "getrennt.",
+        "start": 46.967,
+        "end": 47.628
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Stimmt, es ist noch nicht so lange her.",
+    "start": 47.668,
+    "end": 50.769,
+    "words": [
+      {
+        "text": "Stimmt,",
+        "start": 47.668,
+        "end": 48.008
+      },
+      {
+        "text": "es",
+        "start": 48.048,
+        "end": 48.148
+      },
+      {
+        "text": "ist",
+        "start": 48.208,
+        "end": 48.328
+      },
+      {
+        "text": "noch",
+        "start": 48.348,
+        "end": 48.508
+      },
+      {
+        "text": "nicht",
+        "start": 48.528,
+        "end": 48.688
+      },
+      {
+        "text": "so",
+        "start": 48.708,
+        "end": 48.808
+      },
+      {
+        "text": "lange",
+        "start": 48.828,
+        "end": 49.048
+      },
+      {
+        "text": "her.",
+        "start": 49.088,
+        "end": 50.769
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Vielleicht habe ich ja auch überhaupt keine Chance bei ihm.",
+    "start": 50.809,
+    "end": 55.771,
+    "words": [
+      {
+        "text": "Vielleicht",
+        "start": 50.809,
+        "end": 51.129
+      },
+      {
+        "text": "habe",
+        "start": 51.169,
+        "end": 51.309
+      },
+      {
+        "text": "ich",
+        "start": 51.349,
+        "end": 51.449
+      },
+      {
+        "text": "ja",
+        "start": 51.469,
+        "end": 51.509
+      },
+      {
+        "text": "auch",
+        "start": 51.549,
+        "end": 52.33
+      },
+      {
+        "text": "überhaupt",
+        "start": 52.39,
+        "end": 52.77
+      },
+      {
+        "text": "keine",
+        "start": 52.79,
+        "end": 53.01
+      },
+      {
+        "text": "Chance",
+        "start": 53.05,
+        "end": 53.33
+      },
+      {
+        "text": "bei",
+        "start": 53.35,
+        "end": 53.49
+      },
+      {
+        "text": "ihm.",
+        "start": 53.55,
+        "end": 55.771
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ich glaube schon, dass du die hast.",
+    "start": 55.811,
+    "end": 56.992,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 55.811,
+        "end": 55.911
+      },
+      {
+        "text": "glaube",
+        "start": 55.931,
+        "end": 56.131
+      },
+      {
+        "text": "schon,",
+        "start": 56.171,
+        "end": 56.352
+      },
+      {
+        "text": "dass",
+        "start": 56.392,
+        "end": 56.552
+      },
+      {
+        "text": "du",
+        "start": 56.572,
+        "end": 56.672
+      },
+      {
+        "text": "die",
+        "start": 56.692,
+        "end": 56.792
+      },
+      {
+        "text": "hast.",
+        "start": 56.812,
+        "end": 56.992
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Allerdings... Allerdings was?",
+    "start": 58.772,
+    "end": 60.893,
+    "words": [
+      {
+        "text": "Allerdings...",
+        "start": 58.772,
+        "end": 59.573
+      },
+      {
+        "text": "Allerdings",
+        "start": 59.653,
+        "end": 60.053
+      },
+      {
+        "text": "was?",
+        "start": 60.093,
+        "end": 60.893
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Yosuke ist doch ein guter Mensch, oder?",
+    "start": 60.953,
+    "end": 64.075,
+    "words": [
+      {
+        "text": "Yosuke",
+        "start": 60.953,
+        "end": 61.334
+      },
+      {
+        "text": "ist",
+        "start": 61.354,
+        "end": 61.454
+      },
+      {
+        "text": "doch",
+        "start": 61.494,
+        "end": 61.634
+      },
+      {
+        "text": "ein",
+        "start": 61.654,
+        "end": 61.774
+      },
+      {
+        "text": "guter",
+        "start": 61.794,
+        "end": 62.014
+      },
+      {
+        "text": "Mensch,",
+        "start": 62.054,
+        "end": 62.294
+      },
+      {
+        "text": "oder?",
+        "start": 62.314,
+        "end": 64.075
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Deshalb denke ich, dass er erstmal darüber nachdenken wird und nicht direkt in die nächste Beziehung springt.",
+    "start": 64.115,
+    "end": 71.099,
+    "words": [
+      {
+        "text": "Deshalb",
+        "start": 64.115,
+        "end": 64.415
+      },
+      {
+        "text": "denke",
+        "start": 64.455,
+        "end": 64.695
+      },
+      {
+        "text": "ich,",
+        "start": 64.755,
+        "end": 65.036
+      },
+      {
+        "text": "dass",
+        "start": 65.056,
+        "end": 65.196
+      },
+      {
+        "text": "er",
+        "start": 65.236,
+        "end": 65.376
+      },
+      {
+        "text": "erstmal",
+        "start": 65.396,
+        "end": 65.716
+      },
+      {
+        "text": "darüber",
+        "start": 65.756,
+        "end": 66.016
+      },
+      {
+        "text": "nachdenken",
+        "start": 66.036,
+        "end": 66.456
+      },
+      {
+        "text": "wird",
+        "start": 66.496,
+        "end": 66.997
+      },
+      {
+        "text": "und",
+        "start": 67.037,
+        "end": 67.217
+      },
+      {
+        "text": "nicht",
+        "start": 67.257,
+        "end": 67.437
+      },
+      {
+        "text": "direkt",
+        "start": 67.457,
+        "end": 67.757
+      },
+      {
+        "text": "in",
+        "start": 67.777,
+        "end": 67.877
+      },
+      {
+        "text": "die",
+        "start": 67.897,
+        "end": 67.977
+      },
+      {
+        "text": "nächste",
+        "start": 68.017,
+        "end": 68.317
+      },
+      {
+        "text": "Beziehung",
+        "start": 68.357,
+        "end": 68.718
+      },
+      {
+        "text": "springt.",
+        "start": 68.778,
+        "end": 71.099
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ganz offensichtlich hat er Cain nicht glücklich machen können.",
+    "start": 71.139,
+    "end": 73.92,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 71.139,
+        "end": 71.339
+      },
+      {
+        "text": "offensichtlich",
+        "start": 71.379,
+        "end": 71.899
+      },
+      {
+        "text": "hat",
+        "start": 71.919,
+        "end": 72.079
+      },
+      {
+        "text": "er",
+        "start": 72.119,
+        "end": 72.159
+      },
+      {
+        "text": "Cain",
+        "start": 72.199,
+        "end": 72.42
+      },
+      {
+        "text": "nicht",
+        "start": 72.44,
+        "end": 72.62
+      },
+      {
+        "text": "glücklich",
+        "start": 72.64,
+        "end": 73.0
+      },
+      {
+        "text": "machen",
+        "start": 73.02,
+        "end": 73.24
+      },
+      {
+        "text": "können.",
+        "start": 73.26,
+        "end": 73.92
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Es wäre also nicht abwegig, dass er die Schuld bei sich sucht.",
+    "start": 73.96,
+    "end": 76.482,
+    "words": [
+      {
+        "text": "Es",
+        "start": 73.96,
+        "end": 74.04
+      },
+      {
+        "text": "wäre",
+        "start": 74.08,
+        "end": 74.341
+      },
+      {
+        "text": "also",
+        "start": 74.381,
+        "end": 74.581
+      },
+      {
+        "text": "nicht",
+        "start": 74.601,
+        "end": 74.801
+      },
+      {
+        "text": "abwegig,",
+        "start": 74.821,
+        "end": 75.281
+      },
+      {
+        "text": "dass",
+        "start": 75.301,
+        "end": 75.421
+      },
+      {
+        "text": "er",
+        "start": 75.461,
+        "end": 75.541
+      },
+      {
+        "text": "die",
+        "start": 75.581,
+        "end": 75.661
+      },
+      {
+        "text": "Schuld",
+        "start": 75.681,
+        "end": 75.861
+      },
+      {
+        "text": "bei",
+        "start": 75.881,
+        "end": 76.021
+      },
+      {
+        "text": "sich",
+        "start": 76.041,
+        "end": 76.222
+      },
+      {
+        "text": "sucht.",
+        "start": 76.262,
+        "end": 76.482
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Er ist noch einfühlsamer, als ich gedacht habe.",
+    "start": 77.382,
+    "end": 80.124,
+    "words": [
+      {
+        "text": "Er",
+        "start": 77.382,
+        "end": 77.502
+      },
+      {
+        "text": "ist",
+        "start": 77.542,
+        "end": 77.722
+      },
+      {
+        "text": "noch",
+        "start": 77.742,
+        "end": 77.942
+      },
+      {
+        "text": "einfühlsamer,",
+        "start": 77.983,
+        "end": 78.523
+      },
+      {
+        "text": "als",
+        "start": 78.543,
+        "end": 78.663
+      },
+      {
+        "text": "ich",
+        "start": 78.703,
+        "end": 78.863
+      },
+      {
+        "text": "gedacht",
+        "start": 78.903,
+        "end": 79.203
+      },
+      {
+        "text": "habe.",
+        "start": 79.243,
+        "end": 80.124
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Wenn du ihm jetzt überstürzt ein Geständnis machst, geht es vielleicht nicht so aus, wie du es dir vorstellst.",
+    "start": 80.144,
+    "end": 85.587,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 80.144,
+        "end": 80.284
+      },
+      {
+        "text": "du",
+        "start": 80.324,
+        "end": 80.424
+      },
+      {
+        "text": "ihm",
+        "start": 80.444,
+        "end": 80.584
+      },
+      {
+        "text": "jetzt",
+        "start": 80.604,
+        "end": 80.844
+      },
+      {
+        "text": "überstürzt",
+        "start": 80.864,
+        "end": 81.344
+      },
+      {
+        "text": "ein",
+        "start": 81.364,
+        "end": 81.504
+      },
+      {
+        "text": "Geständnis",
+        "start": 81.524,
+        "end": 82.005
+      },
+      {
+        "text": "machst,",
+        "start": 82.045,
+        "end": 82.325
+      },
+      {
+        "text": "geht",
+        "start": 82.345,
+        "end": 82.485
+      },
+      {
+        "text": "es",
+        "start": 82.525,
+        "end": 82.625
+      },
+      {
+        "text": "vielleicht",
+        "start": 82.645,
+        "end": 82.965
+      },
+      {
+        "text": "nicht",
+        "start": 83.005,
+        "end": 83.165
+      },
+      {
+        "text": "so",
+        "start": 83.185,
+        "end": 83.285
+      },
+      {
+        "text": "aus,",
+        "start": 83.305,
+        "end": 83.445
+      },
+      {
+        "text": "wie",
+        "start": 83.485,
+        "end": 83.586
+      },
+      {
+        "text": "du",
+        "start": 83.606,
+        "end": 83.686
+      },
+      {
+        "text": "es",
+        "start": 83.726,
+        "end": 83.826
+      },
+      {
+        "text": "dir",
+        "start": 83.846,
+        "end": 83.986
+      },
+      {
+        "text": "vorstellst.",
+        "start": 84.026,
+        "end": 85.587
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Verstehe.",
+    "start": 85.607,
+    "end": 86.027,
+    "words": [
+      {
+        "text": "Verstehe.",
+        "start": 85.607,
+        "end": 86.027
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Also ruhig bleiben und langsam angehen.",
+    "start": 87.834,
+    "end": 89.936,
+    "words": [
+      {
+        "text": "Also",
+        "start": 87.834,
+        "end": 88.074
+      },
+      {
+        "text": "ruhig",
+        "start": 88.094,
+        "end": 88.235
+      },
+      {
+        "text": "bleiben",
+        "start": 88.255,
+        "end": 88.615
+      },
+      {
+        "text": "und",
+        "start": 88.675,
+        "end": 88.815
+      },
+      {
+        "text": "langsam",
+        "start": 88.835,
+        "end": 89.215
+      },
+      {
+        "text": "angehen.",
+        "start": 89.255,
+        "end": 89.936
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ganz genau.",
+    "start": 89.956,
+    "end": 90.917,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 89.956,
+        "end": 90.176
+      },
+      {
+        "text": "genau.",
+        "start": 90.216,
+        "end": 90.917
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Wie heißt so schön, wer zuletzt lacht, lacht am besten.",
+    "start": 90.937,
+    "end": 95.601,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 90.937,
+        "end": 91.077
+      },
+      {
+        "text": "heißt",
+        "start": 91.097,
+        "end": 91.337
+      },
+      {
+        "text": "so",
+        "start": 91.377,
+        "end": 91.477
+      },
+      {
+        "text": "schön,",
+        "start": 91.497,
+        "end": 91.758
+      },
+      {
+        "text": "wer",
+        "start": 91.778,
+        "end": 91.938
+      },
+      {
+        "text": "zuletzt",
+        "start": 91.978,
+        "end": 92.278
+      },
+      {
+        "text": "lacht,",
+        "start": 92.318,
+        "end": 92.478
+      },
+      {
+        "text": "lacht",
+        "start": 92.518,
+        "end": 92.678
+      },
+      {
+        "text": "am",
+        "start": 92.718,
+        "end": 92.838
+      },
+      {
+        "text": "besten.",
+        "start": 92.858,
+        "end": 95.601
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Ich dachte nur grad, dass ich dich die ganze Zeit über total falsch eingeschätzt habe.",
+    "start": 95.681,
+    "end": 100.024,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 95.681,
+        "end": 95.841
+      },
+      {
+        "text": "dachte",
+        "start": 95.881,
+        "end": 96.201
+      },
+      {
+        "text": "nur",
+        "start": 96.221,
+        "end": 96.341
+      },
+      {
+        "text": "grad,",
+        "start": 96.381,
+        "end": 96.842
+      },
+      {
+        "text": "dass",
+        "start": 96.862,
+        "end": 97.002
+      },
+      {
+        "text": "ich",
+        "start": 97.062,
+        "end": 97.142
+      },
+      {
+        "text": "dich",
+        "start": 97.162,
+        "end": 97.322
+      },
+      {
+        "text": "die",
+        "start": 97.342,
+        "end": 97.442
+      },
+      {
+        "text": "ganze",
+        "start": 97.462,
+        "end": 97.762
+      },
+      {
+        "text": "Zeit",
+        "start": 97.782,
+        "end": 98.043
+      },
+      {
+        "text": "über",
+        "start": 98.083,
+        "end": 98.223
+      },
+      {
+        "text": "total",
+        "start": 98.243,
+        "end": 98.583
+      },
+      {
+        "text": "falsch",
+        "start": 98.603,
+        "end": 98.843
+      },
+      {
+        "text": "eingeschätzt",
+        "start": 98.883,
+        "end": 99.384
+      },
+      {
+        "text": "habe.",
+        "start": 99.424,
+        "end": 100.024
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Inwiefern denn?",
+    "start": 100.064,
+    "end": 101.305,
+    "words": [
+      {
+        "text": "Inwiefern",
+        "start": 100.064,
+        "end": 100.625
+      },
+      {
+        "text": "denn?",
+        "start": 100.665,
+        "end": 101.305
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Weil du sonst immer nur so wenig redest, hab ich irgendwie ein bisschen Angst vor dir gehabt.",
+    "start": 101.345,
+    "end": 106.43,
+    "words": [
+      {
+        "text": "Weil",
+        "start": 101.345,
+        "end": 101.486
+      },
+      {
+        "text": "du",
+        "start": 101.526,
+        "end": 101.606
+      },
+      {
+        "text": "sonst",
+        "start": 101.646,
+        "end": 101.866
+      },
+      {
+        "text": "immer",
+        "start": 101.906,
+        "end": 102.106
+      },
+      {
+        "text": "nur",
+        "start": 102.126,
+        "end": 102.246
+      },
+      {
+        "text": "so",
+        "start": 102.266,
+        "end": 102.386
+      },
+      {
+        "text": "wenig",
+        "start": 102.406,
+        "end": 102.687
+      },
+      {
+        "text": "redest,",
+        "start": 102.727,
+        "end": 103.127
+      },
+      {
+        "text": "hab",
+        "start": 103.147,
+        "end": 103.287
+      },
+      {
+        "text": "ich",
+        "start": 103.327,
+        "end": 103.407
+      },
+      {
+        "text": "irgendwie",
+        "start": 103.447,
+        "end": 103.968
+      },
+      {
+        "text": "ein",
+        "start": 104.008,
+        "end": 104.168
+      },
+      {
+        "text": "bisschen",
+        "start": 104.188,
+        "end": 104.448
+      },
+      {
+        "text": "Angst",
+        "start": 104.488,
+        "end": 104.668
+      },
+      {
+        "text": "vor",
+        "start": 104.688,
+        "end": 104.808
+      },
+      {
+        "text": "dir",
+        "start": 104.828,
+        "end": 104.968
+      },
+      {
+        "text": "gehabt.",
+        "start": 104.988,
+        "end": 106.43
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Aber jetzt kann ich total verstehen, warum Yusuke dir so sehr vertraut.",
+    "start": 106.47,
+    "end": 110.893,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 106.47,
+        "end": 106.71
+      },
+      {
+        "text": "jetzt",
+        "start": 106.73,
+        "end": 106.93
+      },
+      {
+        "text": "kann",
+        "start": 106.95,
+        "end": 107.11
+      },
+      {
+        "text": "ich",
+        "start": 107.15,
+        "end": 107.27
+      },
+      {
+        "text": "total",
+        "start": 107.29,
+        "end": 107.611
+      },
+      {
+        "text": "verstehen,",
+        "start": 107.631,
+        "end": 108.051
+      },
+      {
+        "text": "warum",
+        "start": 108.091,
+        "end": 108.271
+      },
+      {
+        "text": "Yusuke",
+        "start": 108.311,
+        "end": 108.631
+      },
+      {
+        "text": "dir",
+        "start": 108.651,
+        "end": 108.792
+      },
+      {
+        "text": "so",
+        "start": 108.812,
+        "end": 108.912
+      },
+      {
+        "text": "sehr",
+        "start": 108.952,
+        "end": 109.112
+      },
+      {
+        "text": "vertraut.",
+        "start": 109.132,
+        "end": 110.893
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Mit dir kann man nämlich total entspannt reden.",
+    "start": 110.913,
+    "end": 112.855,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 110.913,
+        "end": 111.033
+      },
+      {
+        "text": "dir",
+        "start": 111.053,
+        "end": 111.214
+      },
+      {
+        "text": "kann",
+        "start": 111.234,
+        "end": 111.394
+      },
+      {
+        "text": "man",
+        "start": 111.414,
+        "end": 111.534
+      },
+      {
+        "text": "nämlich",
+        "start": 111.554,
+        "end": 111.854
+      },
+      {
+        "text": "total",
+        "start": 111.874,
+        "end": 112.174
+      },
+      {
+        "text": "entspannt",
+        "start": 112.214,
+        "end": 112.555
+      },
+      {
+        "text": "reden.",
+        "start": 112.575,
+        "end": 112.855
+      }
+    ]
+  }
+]

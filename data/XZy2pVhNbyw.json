@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 0,
+    "text": " Scheiße!",
+    "start": 1.204,
+    "end": 2.264,
+    "words": [
+      {
+        "text": "Scheiße!",
+        "start": 1.204,
+        "end": 2.264
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich kann überhaupt nicht mehr klar denken!",
+    "start": 2.324,
+    "end": 3.945,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.324,
+        "end": 2.464
+      },
+      {
+        "text": "kann",
+        "start": 2.504,
+        "end": 2.744
+      },
+      {
+        "text": "überhaupt",
+        "start": 2.764,
+        "end": 3.045
+      },
+      {
+        "text": "nicht",
+        "start": 3.065,
+        "end": 3.205
+      },
+      {
+        "text": "mehr",
+        "start": 3.225,
+        "end": 3.385
+      },
+      {
+        "text": "klar",
+        "start": 3.425,
+        "end": 3.605
+      },
+      {
+        "text": "denken!",
+        "start": 3.625,
+        "end": 3.945
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hey, Yuji!",
+    "start": 5.105,
+    "end": 6.205,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 5.105,
+        "end": 5.305
+      },
+      {
+        "text": "Yuji!",
+        "start": 5.405,
+        "end": 6.205
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Du sollst mit den beiden da abhauen!",
+    "start": 6.225,
+    "end": 7.846,
+    "words": [
+      {
+        "text": "Du",
+        "start": 6.225,
+        "end": 6.385
+      },
+      {
+        "text": "sollst",
+        "start": 6.405,
+        "end": 6.605
+      },
+      {
+        "text": "mit",
+        "start": 6.645,
+        "end": 6.766
+      },
+      {
+        "text": "den",
+        "start": 6.786,
+        "end": 6.886
+      },
+      {
+        "text": "beiden",
+        "start": 6.906,
+        "end": 7.166
+      },
+      {
+        "text": "da",
+        "start": 7.186,
+        "end": 7.386
+      },
+      {
+        "text": "abhauen!",
+        "start": 7.426,
+        "end": 7.846
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Renn weg, solange du nur kannst!",
+    "start": 7.906,
+    "end": 10.506,
+    "words": [
+      {
+        "text": "Renn",
+        "start": 7.906,
+        "end": 8.046
+      },
+      {
+        "text": "weg,",
+        "start": 8.066,
+        "end": 8.266
+      },
+      {
+        "text": "solange",
+        "start": 8.286,
+        "end": 8.586
+      },
+      {
+        "text": "du",
+        "start": 8.606,
+        "end": 8.726
+      },
+      {
+        "text": "nur",
+        "start": 8.746,
+        "end": 8.886
+      },
+      {
+        "text": "kannst!",
+        "start": 8.926,
+        "end": 10.506
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wieso sollte ich abhauen, wenn du auch in Gefahr spielst?",
+    "start": 10.546,
+    "end": 14.147,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 10.546,
+        "end": 10.807
+      },
+      {
+        "text": "sollte",
+        "start": 10.847,
+        "end": 11.127
+      },
+      {
+        "text": "ich",
+        "start": 11.147,
+        "end": 11.287
+      },
+      {
+        "text": "abhauen,",
+        "start": 11.327,
+        "end": 11.647
+      },
+      {
+        "text": "wenn",
+        "start": 11.667,
+        "end": 11.787
+      },
+      {
+        "text": "du",
+        "start": 11.807,
+        "end": 11.887
+      },
+      {
+        "text": "auch",
+        "start": 11.947,
+        "end": 12.067
+      },
+      {
+        "text": "in",
+        "start": 12.127,
+        "end": 12.227
+      },
+      {
+        "text": "Gefahr",
+        "start": 12.247,
+        "end": 12.647
+      },
+      {
+        "text": "spielst?",
+        "start": 12.667,
+        "end": 14.147
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Allein Flüche können Flüche austreiben!",
+    "start": 14.207,
+    "end": 18.909,
+    "words": [
+      {
+        "text": "Allein",
+        "start": 14.207,
+        "end": 17.068
+      },
+      {
+        "text": "Flüche",
+        "start": 17.108,
+        "end": 17.508
+      },
+      {
+        "text": "können",
+        "start": 17.528,
+        "end": 17.768
+      },
+      {
+        "text": "Flüche",
+        "start": 17.808,
+        "end": 18.188
+      },
+      {
+        "text": "austreiben!",
+        "start": 18.228,
+        "end": 18.909
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Du hast gegen ihn keine Chance!",
+    "start": 18.929,
+    "end": 20.529,
+    "words": [
+      {
+        "text": "Du",
+        "start": 18.929,
+        "end": 19.069
+      },
+      {
+        "text": "hast",
+        "start": 19.089,
+        "end": 19.309
+      },
+      {
+        "text": "gegen",
+        "start": 19.349,
+        "end": 19.569
+      },
+      {
+        "text": "ihn",
+        "start": 19.589,
+        "end": 19.729
+      },
+      {
+        "text": "keine",
+        "start": 19.749,
+        "end": 20.029
+      },
+      {
+        "text": "Chance!",
+        "start": 20.089,
+        "end": 20.529
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Hör auf, sowas zu sagen!",
+    "start": 20.589,
+    "end": 22.35,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 20.589,
+        "end": 20.809
+      },
+      {
+        "text": "auf,",
+        "start": 20.849,
+        "end": 21.009
+      },
+      {
+        "text": "sowas",
+        "start": 21.049,
+        "end": 21.449
+      },
+      {
+        "text": "zu",
+        "start": 21.489,
+        "end": 21.629
+      },
+      {
+        "text": "sagen!",
+        "start": 21.669,
+        "end": 22.35
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Immerhin versuch ich dir zu helfen!",
+    "start": 22.39,
+    "end": 23.89,
+    "words": [
+      {
+        "text": "Immerhin",
+        "start": 22.39,
+        "end": 22.77
+      },
+      {
+        "text": "versuch",
+        "start": 22.79,
+        "end": 23.03
+      },
+      {
+        "text": "ich",
+        "start": 23.09,
+        "end": 23.19
+      },
+      {
+        "text": "dir",
+        "start": 23.21,
+        "end": 23.41
+      },
+      {
+        "text": "zu",
+        "start": 23.43,
+        "end": 23.55
+      },
+      {
+        "text": "helfen!",
+        "start": 23.59,
+        "end": 23.89
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Wenn ich jetzt nach Hause ginge, hätte ich bloß Albträume.",
+    "start": 26.508,
+    "end": 29.954,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 26.508,
+        "end": 26.809
+      },
+      {
+        "text": "ich",
+        "start": 26.869,
+        "end": 26.969
+      },
+      {
+        "text": "jetzt",
+        "start": 26.989,
+        "end": 27.149
+      },
+      {
+        "text": "nach",
+        "start": 27.169,
+        "end": 27.269
+      },
+      {
+        "text": "Hause",
+        "start": 27.289,
+        "end": 27.51
+      },
+      {
+        "text": "ginge,",
+        "start": 27.53,
+        "end": 27.951
+      },
+      {
+        "text": "hätte",
+        "start": 27.991,
+        "end": 28.211
+      },
+      {
+        "text": "ich",
+        "start": 28.251,
+        "end": 28.351
+      },
+      {
+        "text": "bloß",
+        "start": 28.391,
+        "end": 28.652
+      },
+      {
+        "text": "Albträume.",
+        "start": 28.692,
+        "end": 29.954
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Außerdem... ...geht's nicht nur um dich.",
+    "start": 29.994,
+    "end": 35.885,
+    "words": [
+      {
+        "text": "Außerdem...",
+        "start": 29.994,
+        "end": 34.502
+      },
+      {
+        "text": "...geht's",
+        "start": 34.542,
+        "end": 34.783
+      },
+      {
+        "text": "nicht",
+        "start": 34.823,
+        "end": 34.983
+      },
+      {
+        "text": "nur",
+        "start": 35.003,
+        "end": 35.103
+      },
+      {
+        "text": "um",
+        "start": 35.163,
+        "end": 35.284
+      },
+      {
+        "text": "dich.",
+        "start": 35.324,
+        "end": 35.885
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Hilf anderen.",
+    "start": 35.925,
+    "end": 37.728,
+    "words": [
+      {
+        "text": "Hilf",
+        "start": 35.925,
+        "end": 36.365
+      },
+      {
+        "text": "anderen.",
+        "start": 36.426,
+        "end": 37.728
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich hab schon meine Gründe, warum ich dir helfe.",
+    "start": 37.768,
+    "end": 39.671,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 37.768,
+        "end": 37.888
+      },
+      {
+        "text": "hab",
+        "start": 37.928,
+        "end": 38.108
+      },
+      {
+        "text": "schon",
+        "start": 38.129,
+        "end": 38.289
+      },
+      {
+        "text": "meine",
+        "start": 38.309,
+        "end": 38.509
+      },
+      {
+        "text": "Gründe,",
+        "start": 38.569,
+        "end": 38.83
+      },
+      {
+        "text": "warum",
+        "start": 38.89,
+        "end": 39.13
+      },
+      {
+        "text": "ich",
+        "start": 39.15,
+        "end": 39.271
+      },
+      {
+        "text": "dir",
+        "start": 39.311,
+        "end": 39.431
+      },
+      {
+        "text": "helfe.",
+        "start": 39.451,
+        "end": 39.671
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Das Ding wird dich uns mitfressen!",
+    "start": 52.448,
+    "end": 56.85,
+    "words": [
+      {
+        "text": "Das",
+        "start": 52.448,
+        "end": 52.728
+      },
+      {
+        "text": "Ding",
+        "start": 52.768,
+        "end": 52.868
+      },
+      {
+        "text": "wird",
+        "start": 52.908,
+        "end": 53.008
+      },
+      {
+        "text": "dich",
+        "start": 53.028,
+        "end": 53.128
+      },
+      {
+        "text": "uns",
+        "start": 53.189,
+        "end": 53.269
+      },
+      {
+        "text": "mitfressen!",
+        "start": 53.309,
+        "end": 56.85
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wozu sollte man den essen?",
+    "start": 56.89,
+    "end": 59.871,
+    "words": [
+      {
+        "text": "Wozu",
+        "start": 56.89,
+        "end": 58.611
+      },
+      {
+        "text": "sollte",
+        "start": 58.631,
+        "end": 58.871
+      },
+      {
+        "text": "man",
+        "start": 58.891,
+        "end": 59.011
+      },
+      {
+        "text": "den",
+        "start": 59.031,
+        "end": 59.251
+      },
+      {
+        "text": "essen?",
+        "start": 59.291,
+        "end": 59.871
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Schmeckt der?",
+    "start": 59.891,
+    "end": 60.471,
+    "words": [
+      {
+        "text": "Schmeckt",
+        "start": 59.891,
+        "end": 60.211
+      },
+      {
+        "text": "der?",
+        "start": 60.251,
+        "end": 60.471
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Als ob.",
+    "start": 60.531,
+    "end": 61.732,
+    "words": [
+      {
+        "text": "Als",
+        "start": 60.531,
+        "end": 60.772
+      },
+      {
+        "text": "ob.",
+        "start": 60.832,
+        "end": 61.732
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Damit kann man stärkere Fluchkraft erhalten.",
+    "start": 61.772,
+    "end": 67.314,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 61.772,
+        "end": 62.012
+      },
+      {
+        "text": "kann",
+        "start": 62.032,
+        "end": 62.152
+      },
+      {
+        "text": "man",
+        "start": 62.172,
+        "end": 62.352
+      },
+      {
+        "text": "stärkere",
+        "start": 62.372,
+        "end": 62.832
+      },
+      {
+        "text": "Fluchkraft",
+        "start": 62.872,
+        "end": 63.333
+      },
+      {
+        "text": "erhalten.",
+        "start": 63.373,
+        "end": 67.314
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Sieh genau hin!",
+    "start": 67.334,
+    "end": 68.295,
+    "words": [
+      {
+        "text": "Sieh",
+        "start": 67.334,
+        "end": 67.534
+      },
+      {
+        "text": "genau",
+        "start": 67.554,
+        "end": 67.834
+      },
+      {
+        "text": "hin!",
+        "start": 67.874,
+        "end": 68.295
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Es gibt einen Weg, um alle zu retten!",
+    "start": 68.335,
+    "end": 70.235,
+    "words": [
+      {
+        "text": "Es",
+        "start": 68.335,
+        "end": 68.455
+      },
+      {
+        "text": "gibt",
+        "start": 68.475,
+        "end": 68.755
+      },
+      {
+        "text": "einen",
+        "start": 68.795,
+        "end": 68.955
+      },
+      {
+        "text": "Weg,",
+        "start": 68.995,
+        "end": 69.175
+      },
+      {
+        "text": "um",
+        "start": 69.215,
+        "end": 69.335
+      },
+      {
+        "text": "alle",
+        "start": 69.375,
+        "end": 69.575
+      },
+      {
+        "text": "zu",
+        "start": 69.615,
+        "end": 69.695
+      },
+      {
+        "text": "retten!",
+        "start": 69.755,
+        "end": 70.235
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Das Einzige, was ich dafür brauche, ist Fluchkraft!",
+    "start": 70.255,
+    "end": 73.537,
+    "words": [
+      {
+        "text": "Das",
+        "start": 70.255,
+        "end": 70.455
+      },
+      {
+        "text": "Einzige,",
+        "start": 70.495,
+        "end": 70.796
+      },
+      {
+        "text": "was",
+        "start": 70.836,
+        "end": 70.996
+      },
+      {
+        "text": "ich",
+        "start": 71.036,
+        "end": 71.136
+      },
+      {
+        "text": "dafür",
+        "start": 71.176,
+        "end": 71.436
+      },
+      {
+        "text": "brauche,",
+        "start": 71.476,
+        "end": 71.796
+      },
+      {
+        "text": "ist",
+        "start": 71.836,
+        "end": 72.076
+      },
+      {
+        "text": "Fluchkraft!",
+        "start": 72.136,
+        "end": 73.537
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ist nicht dein Ernst?",
+    "start": 73.577,
+    "end": 74.477,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 73.577,
+        "end": 73.817
+      },
+      {
+        "text": "nicht",
+        "start": 73.837,
+        "end": 73.977
+      },
+      {
+        "text": "dein",
+        "start": 74.017,
+        "end": 74.277
+      },
+      {
+        "text": "Ernst?",
+        "start": 74.317,
+        "end": 74.477
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Tu es nicht!",
+    "start": 74.857,
+    "end": 76.058,
+    "words": [
+      {
+        "text": "Tu",
+        "start": 74.857,
+        "end": 75.197
+      },
+      {
+        "text": "es",
+        "start": 75.317,
+        "end": 75.617
+      },
+      {
+        "text": "nicht!",
+        "start": 75.737,
+        "end": 76.058
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Zwiege sich Zykonas Finger.",
+    "start": 77.68,
+    "end": 79.341,
+    "words": [
+      {
+        "text": "Zwiege",
+        "start": 77.68,
+        "end": 77.92
+      },
+      {
+        "text": "sich",
+        "start": 77.96,
+        "end": 78.08
+      },
+      {
+        "text": "Zykonas",
+        "start": 78.12,
+        "end": 78.501
+      },
+      {
+        "text": "Finger.",
+        "start": 78.561,
+        "end": 79.341
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Das ist ein Sonderfluch-Gegenstand.",
+    "start": 79.361,
+    "end": 81.222,
+    "words": [
+      {
+        "text": "Das",
+        "start": 79.361,
+        "end": 79.481
+      },
+      {
+        "text": "ist",
+        "start": 79.521,
+        "end": 79.641
+      },
+      {
+        "text": "ein",
+        "start": 79.681,
+        "end": 79.781
+      },
+      {
+        "text": "Sonderfluch-Gegenstand.",
+        "start": 79.822,
+        "end": 81.222
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ein mächtiges Gift.",
+    "start": 81.262,
+    "end": 82.503,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 81.262,
+        "end": 81.382
+      },
+      {
+        "text": "mächtiges",
+        "start": 81.422,
+        "end": 81.883
+      },
+      {
+        "text": "Gift.",
+        "start": 81.923,
+        "end": 82.503
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Er wird 100 pro sterben.",
+    "start": 82.563,
+    "end": 83.784,
+    "words": [
+      {
+        "text": "Er",
+        "start": 82.563,
+        "end": 82.663
+      },
+      {
+        "text": "wird",
+        "start": 82.683,
+        "end": 82.803
+      },
+      {
+        "text": "pro",
+        "start": 83.124,
+        "end": 83.284
+      },
+      {
+        "text": "sterben.",
+        "start": 83.304,
+        "end": 83.784
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Es sei denn... Nein, das ist unmöglich.",
+    "start": 83.844,
+    "end": 87.206,
+    "words": [
+      {
+        "text": "Es",
+        "start": 83.844,
+        "end": 84.024
+      },
+      {
+        "text": "sei",
+        "start": 84.044,
+        "end": 84.244
+      },
+      {
+        "text": "denn...",
+        "start": 84.264,
+        "end": 85.485
+      },
+      {
+        "text": "Nein,",
+        "start": 85.505,
+        "end": 85.705
+      },
+      {
+        "text": "das",
+        "start": 85.725,
+        "end": 85.825
+      },
+      {
+        "text": "ist",
+        "start": 85.865,
+        "end": 86.045
+      },
+      {
+        "text": "unmöglich.",
+        "start": 86.065,
+        "end": 87.206
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Das kann er nicht überleben.",
+    "start": 87.226,
+    "end": 88.187,
+    "words": [
+      {
+        "text": "Das",
+        "start": 87.226,
+        "end": 87.386
+      },
+      {
+        "text": "kann",
+        "start": 87.426,
+        "end": 87.546
+      },
+      {
+        "text": "er",
+        "start": 87.586,
+        "end": 87.646
+      },
+      {
+        "text": "nicht",
+        "start": 87.666,
+        "end": 87.847
+      },
+      {
+        "text": "überleben.",
+        "start": 87.867,
+        "end": 88.187
+      }
+    ]
+  }
+]

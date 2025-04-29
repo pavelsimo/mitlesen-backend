@@ -1,0 +1,854 @@
+[
+  {
+    "id": 0,
+    "text": " Reiß dich zusammen und konzentrier dich.",
+    "start": 0.451,
+    "end": 2.312,
+    "words": [
+      {
+        "text": "Reiß",
+        "start": 0.451,
+        "end": 0.611
+      },
+      {
+        "text": "dich",
+        "start": 0.631,
+        "end": 0.811
+      },
+      {
+        "text": "zusammen",
+        "start": 0.831,
+        "end": 1.131
+      },
+      {
+        "text": "und",
+        "start": 1.151,
+        "end": 1.291
+      },
+      {
+        "text": "konzentrier",
+        "start": 1.331,
+        "end": 1.852
+      },
+      {
+        "text": "dich.",
+        "start": 1.872,
+        "end": 2.312
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wenn wir nichts tun, sind Raptalia und das Vögelchen in Gefahr.",
+    "start": 2.332,
+    "end": 6.173,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 2.332,
+        "end": 2.512
+      },
+      {
+        "text": "wir",
+        "start": 2.532,
+        "end": 2.652
+      },
+      {
+        "text": "nichts",
+        "start": 2.672,
+        "end": 2.952
+      },
+      {
+        "text": "tun,",
+        "start": 2.972,
+        "end": 3.112
+      },
+      {
+        "text": "sind",
+        "start": 3.152,
+        "end": 3.252
+      },
+      {
+        "text": "Raptalia",
+        "start": 3.312,
+        "end": 3.732
+      },
+      {
+        "text": "und",
+        "start": 3.772,
+        "end": 3.852
+      },
+      {
+        "text": "das",
+        "start": 3.872,
+        "end": 4.013
+      },
+      {
+        "text": "Vögelchen",
+        "start": 4.033,
+        "end": 4.453
+      },
+      {
+        "text": "in",
+        "start": 4.493,
+        "end": 4.593
+      },
+      {
+        "text": "Gefahr.",
+        "start": 4.613,
+        "end": 6.173
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wir sind zwei Mächte.",
+    "start": 6.193,
+    "end": 7.534,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 6.193,
+        "end": 6.313
+      },
+      {
+        "text": "sind",
+        "start": 6.333,
+        "end": 6.513
+      },
+      {
+        "text": "zwei",
+        "start": 6.553,
+        "end": 6.754
+      },
+      {
+        "text": "Mächte.",
+        "start": 6.794,
+        "end": 7.534
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Zwei Kräfte, die einander zur Seite stehen werden.",
+    "start": 7.554,
+    "end": 10.195,
+    "words": [
+      {
+        "text": "Zwei",
+        "start": 7.554,
+        "end": 7.834
+      },
+      {
+        "text": "Kräfte,",
+        "start": 7.854,
+        "end": 8.194
+      },
+      {
+        "text": "die",
+        "start": 8.214,
+        "end": 8.274
+      },
+      {
+        "text": "einander",
+        "start": 8.374,
+        "end": 8.714
+      },
+      {
+        "text": "zur",
+        "start": 8.734,
+        "end": 8.874
+      },
+      {
+        "text": "Seite",
+        "start": 8.894,
+        "end": 9.134
+      },
+      {
+        "text": "stehen",
+        "start": 9.194,
+        "end": 9.475
+      },
+      {
+        "text": "werden.",
+        "start": 9.515,
+        "end": 10.195
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Gemeinsam möchten wir die Niederlage abwenden und eine siegreiche Zukunft für uns wägen.",
+    "start": 10.255,
+    "end": 14.577,
+    "words": [
+      {
+        "text": "Gemeinsam",
+        "start": 10.255,
+        "end": 10.675
+      },
+      {
+        "text": "möchten",
+        "start": 10.695,
+        "end": 10.995
+      },
+      {
+        "text": "wir",
+        "start": 11.015,
+        "end": 11.095
+      },
+      {
+        "text": "die",
+        "start": 11.115,
+        "end": 11.275
+      },
+      {
+        "text": "Niederlage",
+        "start": 11.315,
+        "end": 11.775
+      },
+      {
+        "text": "abwenden",
+        "start": 11.815,
+        "end": 12.136
+      },
+      {
+        "text": "und",
+        "start": 12.156,
+        "end": 12.396
+      },
+      {
+        "text": "eine",
+        "start": 12.416,
+        "end": 12.576
+      },
+      {
+        "text": "siegreiche",
+        "start": 12.596,
+        "end": 13.076
+      },
+      {
+        "text": "Zukunft",
+        "start": 13.136,
+        "end": 13.536
+      },
+      {
+        "text": "für",
+        "start": 13.576,
+        "end": 13.656
+      },
+      {
+        "text": "uns",
+        "start": 13.696,
+        "end": 13.836
+      },
+      {
+        "text": "wägen.",
+        "start": 13.876,
+        "end": 14.577
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Oh Drachenader, erhöre unser Pfleger.",
+    "start": 14.657,
+    "end": 17.858,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 14.657,
+        "end": 14.977
+      },
+      {
+        "text": "Drachenader,",
+        "start": 15.017,
+        "end": 16.237
+      },
+      {
+        "text": "erhöre",
+        "start": 16.277,
+        "end": 16.857
+      },
+      {
+        "text": "unser",
+        "start": 16.897,
+        "end": 17.198
+      },
+      {
+        "text": "Pfleger.",
+        "start": 17.258,
+        "end": 17.858
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Wir, als Quelle deiner Macht, befehlen dir, entfessle die Gesetze der Natur.",
+    "start": 17.898,
+    "end": 23.18,
+    "words": [
+      {
+        "text": "Wir,",
+        "start": 17.898,
+        "end": 18.378
+      },
+      {
+        "text": "als",
+        "start": 18.418,
+        "end": 18.578
+      },
+      {
+        "text": "Quelle",
+        "start": 18.778,
+        "end": 19.038
+      },
+      {
+        "text": "deiner",
+        "start": 19.058,
+        "end": 19.358
+      },
+      {
+        "text": "Macht,",
+        "start": 19.398,
+        "end": 19.899
+      },
+      {
+        "text": "befehlen",
+        "start": 19.919,
+        "end": 20.479
+      },
+      {
+        "text": "dir,",
+        "start": 20.499,
+        "end": 20.919
+      },
+      {
+        "text": "entfessle",
+        "start": 20.999,
+        "end": 21.579
+      },
+      {
+        "text": "die",
+        "start": 21.619,
+        "end": 21.719
+      },
+      {
+        "text": "Gesetze",
+        "start": 21.739,
+        "end": 22.219
+      },
+      {
+        "text": "der",
+        "start": 22.239,
+        "end": 22.38
+      },
+      {
+        "text": "Natur.",
+        "start": 22.42,
+        "end": 23.18
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Gib mir die Kraft, die Hindernisse zu überwinden, die vor mir liegen.",
+    "start": 23.22,
+    "end": 25.921,
+    "words": [
+      {
+        "text": "Gib",
+        "start": 23.22,
+        "end": 23.4
+      },
+      {
+        "text": "mir",
+        "start": 23.44,
+        "end": 23.58
+      },
+      {
+        "text": "die",
+        "start": 23.6,
+        "end": 23.7
+      },
+      {
+        "text": "Kraft,",
+        "start": 23.74,
+        "end": 23.94
+      },
+      {
+        "text": "die",
+        "start": 23.96,
+        "end": 24.06
+      },
+      {
+        "text": "Hindernisse",
+        "start": 24.08,
+        "end": 24.58
+      },
+      {
+        "text": "zu",
+        "start": 24.62,
+        "end": 24.7
+      },
+      {
+        "text": "überwinden,",
+        "start": 24.72,
+        "end": 25.181
+      },
+      {
+        "text": "die",
+        "start": 25.201,
+        "end": 25.341
+      },
+      {
+        "text": "vor",
+        "start": 25.361,
+        "end": 25.521
+      },
+      {
+        "text": "mir",
+        "start": 25.561,
+        "end": 25.721
+      },
+      {
+        "text": "liegen.",
+        "start": 25.741,
+        "end": 25.921
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Interessant.",
+    "start": 29.241,
+    "end": 29.762,
+    "words": [
+      {
+        "text": "Interessant.",
+        "start": 29.241,
+        "end": 29.762
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das ist also der Zauber, den wir beschworen haben.",
+    "start": 29.802,
+    "end": 31.884,
+    "words": [
+      {
+        "text": "Das",
+        "start": 29.802,
+        "end": 29.902
+      },
+      {
+        "text": "ist",
+        "start": 29.922,
+        "end": 30.042
+      },
+      {
+        "text": "also",
+        "start": 30.062,
+        "end": 30.243
+      },
+      {
+        "text": "der",
+        "start": 30.263,
+        "end": 30.343
+      },
+      {
+        "text": "Zauber,",
+        "start": 30.383,
+        "end": 30.623
+      },
+      {
+        "text": "den",
+        "start": 30.643,
+        "end": 30.763
+      },
+      {
+        "text": "wir",
+        "start": 30.803,
+        "end": 30.903
+      },
+      {
+        "text": "beschworen",
+        "start": 30.943,
+        "end": 31.364
+      },
+      {
+        "text": "haben.",
+        "start": 31.384,
+        "end": 31.884
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Herabkunft des Donnergottes!",
+    "start": 31.924,
+    "end": 36.55,
+    "words": [
+      {
+        "text": "Herabkunft",
+        "start": 31.924,
+        "end": 32.745
+      },
+      {
+        "text": "des",
+        "start": 32.765,
+        "end": 32.926
+      },
+      {
+        "text": "Donnergottes!",
+        "start": 32.966,
+        "end": 36.55
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Dann wollen wir mal.",
+    "start": 36.59,
+    "end": 37.711,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 36.59,
+        "end": 36.79
+      },
+      {
+        "text": "wollen",
+        "start": 36.83,
+        "end": 37.03
+      },
+      {
+        "text": "wir",
+        "start": 37.07,
+        "end": 37.17
+      },
+      {
+        "text": "mal.",
+        "start": 37.231,
+        "end": 37.711
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Jetzt brauchen wir nur noch ein Ziel.",
+    "start": 37.731,
+    "end": 39.453,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 37.731,
+        "end": 37.931
+      },
+      {
+        "text": "brauchen",
+        "start": 37.971,
+        "end": 38.232
+      },
+      {
+        "text": "wir",
+        "start": 38.272,
+        "end": 38.412
+      },
+      {
+        "text": "nur",
+        "start": 38.432,
+        "end": 38.552
+      },
+      {
+        "text": "noch",
+        "start": 38.592,
+        "end": 38.732
+      },
+      {
+        "text": "ein",
+        "start": 38.772,
+        "end": 38.912
+      },
+      {
+        "text": "Ziel.",
+        "start": 38.952,
+        "end": 39.453
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Denkst du das gleiche, was ich denke?",
+    "start": 39.493,
+    "end": 41.275,
+    "words": [
+      {
+        "text": "Denkst",
+        "start": 39.493,
+        "end": 39.693
+      },
+      {
+        "text": "du",
+        "start": 39.713,
+        "end": 39.813
+      },
+      {
+        "text": "das",
+        "start": 39.834,
+        "end": 39.974
+      },
+      {
+        "text": "gleiche,",
+        "start": 39.994,
+        "end": 40.314
+      },
+      {
+        "text": "was",
+        "start": 40.354,
+        "end": 40.494
+      },
+      {
+        "text": "ich",
+        "start": 40.534,
+        "end": 40.674
+      },
+      {
+        "text": "denke?",
+        "start": 40.715,
+        "end": 41.275
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Klaro.",
+    "start": 41.315,
+    "end": 41.716,
+    "words": [
+      {
+        "text": "Klaro.",
+        "start": 41.315,
+        "end": 41.716
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Los, Ravtalia!",
+    "start": 54.834,
+    "end": 56.015,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 54.834,
+        "end": 55.094
+      },
+      {
+        "text": "Ravtalia!",
+        "start": 55.114,
+        "end": 56.015
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wir zählen auf dich!",
+    "start": 56.055,
+    "end": 57.035,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 56.055,
+        "end": 56.255
+      },
+      {
+        "text": "zählen",
+        "start": 56.275,
+        "end": 56.575
+      },
+      {
+        "text": "auf",
+        "start": 56.635,
+        "end": 56.895
+      },
+      {
+        "text": "dich!",
+        "start": 56.915,
+        "end": 57.035
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Setz unsere Beschwörung gut ein, okay?",
+    "start": 57.095,
+    "end": 60.496,
+    "words": [
+      {
+        "text": "Setz",
+        "start": 57.095,
+        "end": 57.275
+      },
+      {
+        "text": "unsere",
+        "start": 57.375,
+        "end": 57.655
+      },
+      {
+        "text": "Beschwörung",
+        "start": 57.675,
+        "end": 58.276
+      },
+      {
+        "text": "gut",
+        "start": 58.296,
+        "end": 58.556
+      },
+      {
+        "text": "ein,",
+        "start": 58.636,
+        "end": 58.796
+      },
+      {
+        "text": "okay?",
+        "start": 58.856,
+        "end": 60.496
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Jawohl!",
+    "start": 60.536,
+    "end": 61.337,
+    "words": [
+      {
+        "text": "Jawohl!",
+        "start": 60.536,
+        "end": 61.337
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ich werde nicht verlieren!",
+    "start": 61.397,
+    "end": 63.638,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 61.397,
+        "end": 61.557
+      },
+      {
+        "text": "werde",
+        "start": 61.597,
+        "end": 61.897
+      },
+      {
+        "text": "nicht",
+        "start": 61.917,
+        "end": 62.137
+      },
+      {
+        "text": "verlieren!",
+        "start": 62.177,
+        "end": 63.638
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Vergiss es!",
+    "start": 63.678,
+    "end": 70.501,
+    "words": [
+      {
+        "text": "Vergiss",
+        "start": 63.678,
+        "end": 66.279
+      },
+      {
+        "text": "es!",
+        "start": 67.639,
+        "end": 70.501
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Haarscherz lebe voll!",
+    "start": 70.541,
+    "end": 72.081,
+    "words": [
+      {
+        "text": "Haarscherz",
+        "start": 70.541,
+        "end": 71.521
+      },
+      {
+        "text": "lebe",
+        "start": 71.561,
+        "end": 71.921
+      },
+      {
+        "text": "voll!",
+        "start": 71.941,
+        "end": 72.081
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Das war's für dich!",
+    "start": 90.65,
+    "end": 92.112,
+    "words": [
+      {
+        "text": "Das",
+        "start": 90.65,
+        "end": 90.77
+      },
+      {
+        "text": "war's",
+        "start": 90.991,
+        "end": 91.111
+      },
+      {
+        "text": "für",
+        "start": 91.151,
+        "end": 91.311
+      },
+      {
+        "text": "dich!",
+        "start": 91.451,
+        "end": 92.112
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Gemeinsamer Angriff, Sonnerkaiserschwert!",
+    "start": 92.132,
+    "end": 94.015,
+    "words": [
+      {
+        "text": "Gemeinsamer",
+        "start": 92.132,
+        "end": 92.633
+      },
+      {
+        "text": "Angriff,",
+        "start": 92.713,
+        "end": 93.354
+      },
+      {
+        "text": "Sonnerkaiserschwert!",
+        "start": 93.374,
+        "end": 94.015
+      }
+    ]
+  }
+]

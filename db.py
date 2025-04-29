@@ -4,6 +4,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# TODO(Pavel): MOVE THIS TO mitlesen.db
+
 class MitLesenDatabase:
     def __init__(self):
         self.client = supabase.create_client(

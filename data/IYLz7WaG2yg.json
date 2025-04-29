@@ -1,0 +1,1488 @@
+[
+  {
+    "id": 0,
+    "text": " Es tut mir leid, Chizuru.",
+    "start": 0.315,
+    "end": 2.757,
+    "words": [
+      {
+        "text": "Es",
+        "start": 0.315,
+        "end": 0.375
+      },
+      {
+        "text": "tut",
+        "start": 0.395,
+        "end": 0.535
+      },
+      {
+        "text": "mir",
+        "start": 0.575,
+        "end": 0.675
+      },
+      {
+        "text": "leid,",
+        "start": 0.716,
+        "end": 0.876
+      },
+      {
+        "text": "Chizuru.",
+        "start": 0.936,
+        "end": 2.757
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich kann verstehen, wenn du mich jetzt nie wieder sehen willst.",
+    "start": 2.797,
+    "end": 7.041,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.797,
+        "end": 2.877
+      },
+      {
+        "text": "kann",
+        "start": 2.917,
+        "end": 3.098
+      },
+      {
+        "text": "verstehen,",
+        "start": 3.118,
+        "end": 3.398
+      },
+      {
+        "text": "wenn",
+        "start": 3.418,
+        "end": 3.538
+      },
+      {
+        "text": "du",
+        "start": 3.558,
+        "end": 3.658
+      },
+      {
+        "text": "mich",
+        "start": 3.678,
+        "end": 3.798
+      },
+      {
+        "text": "jetzt",
+        "start": 3.818,
+        "end": 3.978
+      },
+      {
+        "text": "nie",
+        "start": 3.998,
+        "end": 4.139
+      },
+      {
+        "text": "wieder",
+        "start": 4.159,
+        "end": 4.359
+      },
+      {
+        "text": "sehen",
+        "start": 4.399,
+        "end": 4.619
+      },
+      {
+        "text": "willst.",
+        "start": 4.639,
+        "end": 7.041
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Echt mal, für wen halte ich mich?",
+    "start": 7.121,
+    "end": 9.503,
+    "words": [
+      {
+        "text": "Echt",
+        "start": 7.121,
+        "end": 7.261
+      },
+      {
+        "text": "mal,",
+        "start": 7.361,
+        "end": 7.542
+      },
+      {
+        "text": "für",
+        "start": 7.562,
+        "end": 7.682
+      },
+      {
+        "text": "wen",
+        "start": 7.702,
+        "end": 7.902
+      },
+      {
+        "text": "halte",
+        "start": 7.942,
+        "end": 8.122
+      },
+      {
+        "text": "ich",
+        "start": 8.142,
+        "end": 8.282
+      },
+      {
+        "text": "mich?",
+        "start": 8.302,
+        "end": 9.503
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ist ja nicht zu fassen, wie dumm ich bin.",
+    "start": 9.523,
+    "end": 12.366,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 9.523,
+        "end": 9.623
+      },
+      {
+        "text": "ja",
+        "start": 9.663,
+        "end": 9.763
+      },
+      {
+        "text": "nicht",
+        "start": 9.783,
+        "end": 9.924
+      },
+      {
+        "text": "zu",
+        "start": 9.964,
+        "end": 10.044
+      },
+      {
+        "text": "fassen,",
+        "start": 10.084,
+        "end": 10.324
+      },
+      {
+        "text": "wie",
+        "start": 10.344,
+        "end": 10.444
+      },
+      {
+        "text": "dumm",
+        "start": 10.484,
+        "end": 10.624
+      },
+      {
+        "text": "ich",
+        "start": 10.664,
+        "end": 10.784
+      },
+      {
+        "text": "bin.",
+        "start": 10.824,
+        "end": 12.366
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Das schrecklichste Weihnachten überhaupt.",
+    "start": 12.406,
+    "end": 15.709,
+    "words": [
+      {
+        "text": "Das",
+        "start": 12.406,
+        "end": 12.566
+      },
+      {
+        "text": "schrecklichste",
+        "start": 12.586,
+        "end": 13.126
+      },
+      {
+        "text": "Weihnachten",
+        "start": 13.166,
+        "end": 13.647
+      },
+      {
+        "text": "überhaupt.",
+        "start": 13.687,
+        "end": 15.709
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Aber eine Schauspielerin?",
+    "start": 15.749,
+    "end": 17.891,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 15.749,
+        "end": 16.369
+      },
+      {
+        "text": "eine",
+        "start": 16.409,
+        "end": 16.569
+      },
+      {
+        "text": "Schauspielerin?",
+        "start": 16.609,
+        "end": 17.891
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Chizuru ist der Wahnsinn.",
+    "start": 17.931,
+    "end": 20.513,
+    "words": [
+      {
+        "text": "Chizuru",
+        "start": 17.931,
+        "end": 18.311
+      },
+      {
+        "text": "ist",
+        "start": 18.331,
+        "end": 18.431
+      },
+      {
+        "text": "der",
+        "start": 18.451,
+        "end": 18.571
+      },
+      {
+        "text": "Wahnsinn.",
+        "start": 18.611,
+        "end": 20.513
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Sie lebt wirklich in einer anderen Welt.",
+    "start": 20.533,
+    "end": 23.896,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 20.533,
+        "end": 20.693
+      },
+      {
+        "text": "lebt",
+        "start": 20.733,
+        "end": 20.933
+      },
+      {
+        "text": "wirklich",
+        "start": 20.973,
+        "end": 21.294
+      },
+      {
+        "text": "in",
+        "start": 21.354,
+        "end": 21.434
+      },
+      {
+        "text": "einer",
+        "start": 21.474,
+        "end": 21.654
+      },
+      {
+        "text": "anderen",
+        "start": 21.694,
+        "end": 22.074
+      },
+      {
+        "text": "Welt.",
+        "start": 22.134,
+        "end": 23.896
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Und ich bin... wirklich in Chizuru.",
+    "start": 23.956,
+    "end": 27.219,
+    "words": [
+      {
+        "text": "Und",
+        "start": 23.956,
+        "end": 24.196
+      },
+      {
+        "text": "ich",
+        "start": 24.236,
+        "end": 24.376
+      },
+      {
+        "text": "bin...",
+        "start": 24.416,
+        "end": 26.198
+      },
+      {
+        "text": "wirklich",
+        "start": 26.238,
+        "end": 26.658
+      },
+      {
+        "text": "in",
+        "start": 26.698,
+        "end": 26.798
+      },
+      {
+        "text": "Chizuru.",
+        "start": 26.859,
+        "end": 27.219
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Hier.",
+    "start": 32.877,
+    "end": 42.961,
+    "words": [
+      {
+        "text": "Hier.",
+        "start": 32.877,
+        "end": 42.961
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wir sind heute unterwegs, weil Umi nur heute Zeit hatte.",
+    "start": 43.001,
+    "end": 46.222,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 43.001,
+        "end": 43.101
+      },
+      {
+        "text": "sind",
+        "start": 43.141,
+        "end": 43.301
+      },
+      {
+        "text": "heute",
+        "start": 43.321,
+        "end": 43.521
+      },
+      {
+        "text": "unterwegs,",
+        "start": 43.561,
+        "end": 43.961
+      },
+      {
+        "text": "weil",
+        "start": 43.981,
+        "end": 44.141
+      },
+      {
+        "text": "Umi",
+        "start": 44.181,
+        "end": 44.381
+      },
+      {
+        "text": "nur",
+        "start": 44.421,
+        "end": 44.542
+      },
+      {
+        "text": "heute",
+        "start": 44.562,
+        "end": 44.802
+      },
+      {
+        "text": "Zeit",
+        "start": 44.842,
+        "end": 45.022
+      },
+      {
+        "text": "hatte.",
+        "start": 45.062,
+        "end": 46.222
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Und ich wollte die Hilfe eines Jungen bei der Auswahl eines Geschenks für einen anderen.",
+    "start": 46.262,
+    "end": 50.224,
+    "words": [
+      {
+        "text": "Und",
+        "start": 46.262,
+        "end": 46.442
+      },
+      {
+        "text": "ich",
+        "start": 46.482,
+        "end": 46.562
+      },
+      {
+        "text": "wollte",
+        "start": 46.582,
+        "end": 46.842
+      },
+      {
+        "text": "die",
+        "start": 46.882,
+        "end": 46.942
+      },
+      {
+        "text": "Hilfe",
+        "start": 46.982,
+        "end": 47.203
+      },
+      {
+        "text": "eines",
+        "start": 47.243,
+        "end": 47.483
+      },
+      {
+        "text": "Jungen",
+        "start": 47.503,
+        "end": 47.823
+      },
+      {
+        "text": "bei",
+        "start": 47.863,
+        "end": 47.983
+      },
+      {
+        "text": "der",
+        "start": 48.003,
+        "end": 48.103
+      },
+      {
+        "text": "Auswahl",
+        "start": 48.143,
+        "end": 48.463
+      },
+      {
+        "text": "eines",
+        "start": 48.483,
+        "end": 48.703
+      },
+      {
+        "text": "Geschenks",
+        "start": 48.743,
+        "end": 49.243
+      },
+      {
+        "text": "für",
+        "start": 49.303,
+        "end": 49.483
+      },
+      {
+        "text": "einen",
+        "start": 49.523,
+        "end": 49.884
+      },
+      {
+        "text": "anderen.",
+        "start": 49.944,
+        "end": 50.224
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Ist das eine Smartphone-Hülle?",
+    "start": 54.253,
+    "end": 55.494,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 54.253,
+        "end": 54.353
+      },
+      {
+        "text": "das",
+        "start": 54.373,
+        "end": 54.533
+      },
+      {
+        "text": "eine",
+        "start": 54.573,
+        "end": 54.713
+      },
+      {
+        "text": "Smartphone-Hülle?",
+        "start": 54.733,
+        "end": 55.494
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Na, ich meine, dein Smartphone ist doch damals auf der Fähre kaputt gegangen.",
+    "start": 56.134,
+    "end": 59.675,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 56.134,
+        "end": 56.634
+      },
+      {
+        "text": "ich",
+        "start": 56.674,
+        "end": 56.834
+      },
+      {
+        "text": "meine,",
+        "start": 56.854,
+        "end": 57.114
+      },
+      {
+        "text": "dein",
+        "start": 57.154,
+        "end": 57.294
+      },
+      {
+        "text": "Smartphone",
+        "start": 57.314,
+        "end": 57.694
+      },
+      {
+        "text": "ist",
+        "start": 57.734,
+        "end": 57.834
+      },
+      {
+        "text": "doch",
+        "start": 57.854,
+        "end": 57.974
+      },
+      {
+        "text": "damals",
+        "start": 57.994,
+        "end": 58.275
+      },
+      {
+        "text": "auf",
+        "start": 58.315,
+        "end": 58.415
+      },
+      {
+        "text": "der",
+        "start": 58.435,
+        "end": 58.535
+      },
+      {
+        "text": "Fähre",
+        "start": 58.575,
+        "end": 58.835
+      },
+      {
+        "text": "kaputt",
+        "start": 58.875,
+        "end": 59.155
+      },
+      {
+        "text": "gegangen.",
+        "start": 59.195,
+        "end": 59.675
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Und trotzdem benutzt du es ohne Hülle.",
+    "start": 59.715,
+    "end": 62.116,
+    "words": [
+      {
+        "text": "Und",
+        "start": 59.715,
+        "end": 59.855
+      },
+      {
+        "text": "trotzdem",
+        "start": 59.875,
+        "end": 60.195
+      },
+      {
+        "text": "benutzt",
+        "start": 60.215,
+        "end": 60.495
+      },
+      {
+        "text": "du",
+        "start": 60.515,
+        "end": 60.575
+      },
+      {
+        "text": "es",
+        "start": 60.615,
+        "end": 60.775
+      },
+      {
+        "text": "ohne",
+        "start": 60.816,
+        "end": 61.056
+      },
+      {
+        "text": "Hülle.",
+        "start": 61.096,
+        "end": 62.116
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Das kann man ja kaum mit ansehen.",
+    "start": 62.136,
+    "end": 63.516,
+    "words": [
+      {
+        "text": "Das",
+        "start": 62.136,
+        "end": 62.296
+      },
+      {
+        "text": "kann",
+        "start": 62.316,
+        "end": 62.456
+      },
+      {
+        "text": "man",
+        "start": 62.476,
+        "end": 62.576
+      },
+      {
+        "text": "ja",
+        "start": 62.596,
+        "end": 62.696
+      },
+      {
+        "text": "kaum",
+        "start": 62.716,
+        "end": 62.916
+      },
+      {
+        "text": "mit",
+        "start": 62.936,
+        "end": 63.056
+      },
+      {
+        "text": "ansehen.",
+        "start": 63.096,
+        "end": 63.516
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wie lieb von dir!",
+    "start": 64.277,
+    "end": 65.577,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 64.277,
+        "end": 64.437
+      },
+      {
+        "text": "lieb",
+        "start": 64.477,
+        "end": 64.717
+      },
+      {
+        "text": "von",
+        "start": 64.757,
+        "end": 64.897
+      },
+      {
+        "text": "dir!",
+        "start": 64.937,
+        "end": 65.577
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Aber du musst versprechen, dass das unter uns bleibt.",
+    "start": 65.617,
+    "end": 69.879,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 65.617,
+        "end": 66.338
+      },
+      {
+        "text": "du",
+        "start": 66.358,
+        "end": 66.478
+      },
+      {
+        "text": "musst",
+        "start": 66.518,
+        "end": 66.698
+      },
+      {
+        "text": "versprechen,",
+        "start": 66.738,
+        "end": 67.118
+      },
+      {
+        "text": "dass",
+        "start": 67.138,
+        "end": 67.298
+      },
+      {
+        "text": "das",
+        "start": 67.338,
+        "end": 67.498
+      },
+      {
+        "text": "unter",
+        "start": 67.538,
+        "end": 67.738
+      },
+      {
+        "text": "uns",
+        "start": 67.778,
+        "end": 67.958
+      },
+      {
+        "text": "bleibt.",
+        "start": 67.978,
+        "end": 69.879
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Außerdem habe ich Gewissensbisse wegen der Situation mit Ruka.",
+    "start": 69.919,
+    "end": 73.36,
+    "words": [
+      {
+        "text": "Außerdem",
+        "start": 69.919,
+        "end": 70.559
+      },
+      {
+        "text": "habe",
+        "start": 70.599,
+        "end": 70.759
+      },
+      {
+        "text": "ich",
+        "start": 70.799,
+        "end": 70.919
+      },
+      {
+        "text": "Gewissensbisse",
+        "start": 70.939,
+        "end": 71.539
+      },
+      {
+        "text": "wegen",
+        "start": 71.559,
+        "end": 71.759
+      },
+      {
+        "text": "der",
+        "start": 71.779,
+        "end": 71.9
+      },
+      {
+        "text": "Situation",
+        "start": 71.92,
+        "end": 72.36
+      },
+      {
+        "text": "mit",
+        "start": 72.38,
+        "end": 72.46
+      },
+      {
+        "text": "Ruka.",
+        "start": 72.52,
+        "end": 73.36
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ich hab dich ganz schön hängen lassen.",
+    "start": 73.4,
+    "end": 75.661,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 73.4,
+        "end": 73.52
+      },
+      {
+        "text": "hab",
+        "start": 73.54,
+        "end": 73.7
+      },
+      {
+        "text": "dich",
+        "start": 73.72,
+        "end": 73.88
+      },
+      {
+        "text": "ganz",
+        "start": 73.92,
+        "end": 74.06
+      },
+      {
+        "text": "schön",
+        "start": 74.08,
+        "end": 74.26
+      },
+      {
+        "text": "hängen",
+        "start": 74.28,
+        "end": 74.52
+      },
+      {
+        "text": "lassen.",
+        "start": 74.54,
+        "end": 75.661
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Sieh's nicht als Geschenk oder so.",
+    "start": 75.701,
+    "end": 79.842,
+    "words": [
+      {
+        "text": "Sieh's",
+        "start": 75.701,
+        "end": 76.661
+      },
+      {
+        "text": "nicht",
+        "start": 76.701,
+        "end": 76.861
+      },
+      {
+        "text": "als",
+        "start": 76.901,
+        "end": 77.081
+      },
+      {
+        "text": "Geschenk",
+        "start": 77.121,
+        "end": 77.862
+      },
+      {
+        "text": "oder",
+        "start": 77.922,
+        "end": 78.142
+      },
+      {
+        "text": "so.",
+        "start": 78.162,
+        "end": 79.842
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Das ist nur eine Entschuldigung.",
+    "start": 79.882,
+    "end": 81.203,
+    "words": [
+      {
+        "text": "Das",
+        "start": 79.882,
+        "end": 80.002
+      },
+      {
+        "text": "ist",
+        "start": 80.062,
+        "end": 80.223
+      },
+      {
+        "text": "nur",
+        "start": 80.243,
+        "end": 80.363
+      },
+      {
+        "text": "eine",
+        "start": 80.403,
+        "end": 80.523
+      },
+      {
+        "text": "Entschuldigung.",
+        "start": 80.543,
+        "end": 81.203
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Hä, was?",
+    "start": 89.897,
+    "end": 90.618,
+    "words": [
+      {
+        "text": "Hä,",
+        "start": 89.897,
+        "end": 90.097
+      },
+      {
+        "text": "was?",
+        "start": 90.137,
+        "end": 90.618
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ich war.",
+    "start": 90.678,
+    "end": 92.038,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 90.678,
+        "end": 90.838
+      },
+      {
+        "text": "war.",
+        "start": 90.898,
+        "end": 92.038
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Warte kurz, warum heulst du denn jetzt bitte?",
+    "start": 92.058,
+    "end": 94.459,
+    "words": [
+      {
+        "text": "Warte",
+        "start": 92.058,
+        "end": 92.358
+      },
+      {
+        "text": "kurz,",
+        "start": 92.398,
+        "end": 92.639
+      },
+      {
+        "text": "warum",
+        "start": 92.659,
+        "end": 92.959
+      },
+      {
+        "text": "heulst",
+        "start": 92.999,
+        "end": 93.199
+      },
+      {
+        "text": "du",
+        "start": 93.219,
+        "end": 93.299
+      },
+      {
+        "text": "denn",
+        "start": 93.319,
+        "end": 93.499
+      },
+      {
+        "text": "jetzt",
+        "start": 93.519,
+        "end": 93.779
+      },
+      {
+        "text": "bitte?",
+        "start": 93.819,
+        "end": 94.459
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ich sagte doch, das ist kein Geschenk.",
+    "start": 94.499,
+    "end": 96.56,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 94.499,
+        "end": 94.66
+      },
+      {
+        "text": "sagte",
+        "start": 94.68,
+        "end": 94.94
+      },
+      {
+        "text": "doch,",
+        "start": 94.98,
+        "end": 95.12
+      },
+      {
+        "text": "das",
+        "start": 95.14,
+        "end": 95.26
+      },
+      {
+        "text": "ist",
+        "start": 95.3,
+        "end": 95.38
+      },
+      {
+        "text": "kein",
+        "start": 95.4,
+        "end": 95.76
+      },
+      {
+        "text": "Geschenk.",
+        "start": 95.78,
+        "end": 96.56
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Sorry, aber das ist mein allererstes Weihnachtsgeschenk von einem Mädchen.",
+    "start": 96.58,
+    "end": 101.903,
+    "words": [
+      {
+        "text": "Sorry,",
+        "start": 96.58,
+        "end": 97.641
+      },
+      {
+        "text": "aber",
+        "start": 97.721,
+        "end": 98.621
+      },
+      {
+        "text": "das",
+        "start": 98.682,
+        "end": 98.902
+      },
+      {
+        "text": "ist",
+        "start": 98.942,
+        "end": 99.082
+      },
+      {
+        "text": "mein",
+        "start": 99.102,
+        "end": 99.282
+      },
+      {
+        "text": "allererstes",
+        "start": 99.322,
+        "end": 99.882
+      },
+      {
+        "text": "Weihnachtsgeschenk",
+        "start": 99.922,
+        "end": 100.702
+      },
+      {
+        "text": "von",
+        "start": 100.722,
+        "end": 100.883
+      },
+      {
+        "text": "einem",
+        "start": 100.923,
+        "end": 101.143
+      },
+      {
+        "text": "Mädchen.",
+        "start": 101.263,
+        "end": 101.903
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ich kann einfach nicht anders.",
+    "start": 101.983,
+    "end": 106.385,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 101.983,
+        "end": 102.123
+      },
+      {
+        "text": "kann",
+        "start": 102.143,
+        "end": 102.403
+      },
+      {
+        "text": "einfach",
+        "start": 102.443,
+        "end": 102.683
+      },
+      {
+        "text": "nicht",
+        "start": 102.703,
+        "end": 102.944
+      },
+      {
+        "text": "anders.",
+        "start": 103.004,
+        "end": 106.385
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ich war schon immer ein hoffnungsloser Schwachmat.",
+    "start": 106.425,
+    "end": 108.786,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 106.425,
+        "end": 106.605
+      },
+      {
+        "text": "war",
+        "start": 106.645,
+        "end": 106.805
+      },
+      {
+        "text": "schon",
+        "start": 106.825,
+        "end": 107.066
+      },
+      {
+        "text": "immer",
+        "start": 107.086,
+        "end": 107.286
+      },
+      {
+        "text": "ein",
+        "start": 107.326,
+        "end": 107.506
+      },
+      {
+        "text": "hoffnungsloser",
+        "start": 107.526,
+        "end": 108.226
+      },
+      {
+        "text": "Schwachmat.",
+        "start": 108.266,
+        "end": 108.786
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Was ist das denn für eine Heulsuse?",
+    "start": 110.267,
+    "end": 111.908,
+    "words": [
+      {
+        "text": "Was",
+        "start": 110.267,
+        "end": 110.607
+      },
+      {
+        "text": "ist",
+        "start": 110.667,
+        "end": 111.007
+      },
+      {
+        "text": "das",
+        "start": 111.027,
+        "end": 111.168
+      },
+      {
+        "text": "denn",
+        "start": 111.188,
+        "end": 111.288
+      },
+      {
+        "text": "für",
+        "start": 111.308,
+        "end": 111.388
+      },
+      {
+        "text": "eine",
+        "start": 111.408,
+        "end": 111.528
+      },
+      {
+        "text": "Heulsuse?",
+        "start": 111.548,
+        "end": 111.908
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Kannst du ihn abblitzen lassen?",
+    "start": 111.928,
+    "end": 113.008,
+    "words": [
+      {
+        "text": "Kannst",
+        "start": 111.928,
+        "end": 112.048
+      },
+      {
+        "text": "du",
+        "start": 112.068,
+        "end": 112.148
+      },
+      {
+        "text": "ihn",
+        "start": 112.188,
+        "end": 112.288
+      },
+      {
+        "text": "abblitzen",
+        "start": 112.328,
+        "end": 112.748
+      },
+      {
+        "text": "lassen?",
+        "start": 112.788,
+        "end": 113.008
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": " Ganz ruhig, alles gut.",
+    "start": 118.021,
+    "end": 120.502,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 118.021,
+        "end": 118.941
+      },
+      {
+        "text": "ruhig,",
+        "start": 119.001,
+        "end": 119.282
+      },
+      {
+        "text": "alles",
+        "start": 119.342,
+        "end": 119.642
+      },
+      {
+        "text": "gut.",
+        "start": 119.682,
+        "end": 120.502
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Aber zusammen mit Chizuru fängt mein Leben allmählich wieder an Farbe zu bekommen.",
+    "start": 120.542,
+    "end": 124.484,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 120.542,
+        "end": 120.802
+      },
+      {
+        "text": "zusammen",
+        "start": 120.822,
+        "end": 121.123
+      },
+      {
+        "text": "mit",
+        "start": 121.163,
+        "end": 121.263
+      },
+      {
+        "text": "Chizuru",
+        "start": 121.323,
+        "end": 121.983
+      },
+      {
+        "text": "fängt",
+        "start": 122.023,
+        "end": 122.223
+      },
+      {
+        "text": "mein",
+        "start": 122.243,
+        "end": 122.343
+      },
+      {
+        "text": "Leben",
+        "start": 122.383,
+        "end": 122.603
+      },
+      {
+        "text": "allmählich",
+        "start": 122.643,
+        "end": 123.084
+      },
+      {
+        "text": "wieder",
+        "start": 123.104,
+        "end": 123.284
+      },
+      {
+        "text": "an",
+        "start": 123.324,
+        "end": 123.444
+      },
+      {
+        "text": "Farbe",
+        "start": 123.464,
+        "end": 123.784
+      },
+      {
+        "text": "zu",
+        "start": 123.824,
+        "end": 123.884
+      },
+      {
+        "text": "bekommen.",
+        "start": 123.924,
+        "end": 124.484
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Oh, es schneit.",
+    "start": 127.005,
+    "end": 132.288,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 127.005,
+        "end": 127.966
+      },
+      {
+        "text": "es",
+        "start": 128.046,
+        "end": 128.166
+      },
+      {
+        "text": "schneit.",
+        "start": 128.206,
+        "end": 132.288
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Hey, Chizuru.",
+    "start": 132.328,
+    "end": 133.349,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 132.328,
+        "end": 132.548
+      },
+      {
+        "text": "Chizuru.",
+        "start": 132.608,
+        "end": 133.349
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Du fährst auf keinen Fall mit der U-Bahn heim.",
+    "start": 133.389,
+    "end": 135.17,
+    "words": [
+      {
+        "text": "Du",
+        "start": 133.389,
+        "end": 133.489
+      },
+      {
+        "text": "fährst",
+        "start": 133.529,
+        "end": 133.769
+      },
+      {
+        "text": "auf",
+        "start": 133.809,
+        "end": 133.969
+      },
+      {
+        "text": "keinen",
+        "start": 133.989,
+        "end": 134.149
+      },
+      {
+        "text": "Fall",
+        "start": 134.189,
+        "end": 134.349
+      },
+      {
+        "text": "mit",
+        "start": 134.369,
+        "end": 134.469
+      },
+      {
+        "text": "der",
+        "start": 134.509,
+        "end": 134.609
+      },
+      {
+        "text": "U-Bahn",
+        "start": 134.669,
+        "end": 134.909
+      },
+      {
+        "text": "heim.",
+        "start": 134.949,
+        "end": 135.17
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Hä?",
+    "start": 135.23,
+    "end": 135.31,
+    "words": [
+      {
+        "text": "Hä?",
+        "start": 135.23,
+        "end": 135.31
+      }
+    ]
+  }
+]

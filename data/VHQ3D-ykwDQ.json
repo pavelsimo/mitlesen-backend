@@ -1,0 +1,1276 @@
+[
+  {
+    "id": 0,
+    "text": " Willst du damit sagen, dass du mich nicht haben willst?",
+    "start": 0.511,
+    "end": 3.892,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 0.511,
+        "end": 0.791
+      },
+      {
+        "text": "du",
+        "start": 0.831,
+        "end": 0.951
+      },
+      {
+        "text": "damit",
+        "start": 0.971,
+        "end": 1.291
+      },
+      {
+        "text": "sagen,",
+        "start": 1.331,
+        "end": 1.631
+      },
+      {
+        "text": "dass",
+        "start": 1.651,
+        "end": 1.851
+      },
+      {
+        "text": "du",
+        "start": 1.871,
+        "end": 2.052
+      },
+      {
+        "text": "mich",
+        "start": 2.072,
+        "end": 2.652
+      },
+      {
+        "text": "nicht",
+        "start": 2.692,
+        "end": 2.932
+      },
+      {
+        "text": "haben",
+        "start": 2.992,
+        "end": 3.292
+      },
+      {
+        "text": "willst?",
+        "start": 3.332,
+        "end": 3.892
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ist das wirklich dein Ernst?",
+    "start": 3.952,
+    "end": 6.133,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 3.952,
+        "end": 4.112
+      },
+      {
+        "text": "das",
+        "start": 4.152,
+        "end": 4.392
+      },
+      {
+        "text": "wirklich",
+        "start": 4.412,
+        "end": 4.792
+      },
+      {
+        "text": "dein",
+        "start": 4.812,
+        "end": 5.052
+      },
+      {
+        "text": "Ernst?",
+        "start": 5.112,
+        "end": 6.133
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was meiner würdig ist, das entscheide ich ganz allein.",
+    "start": 6.173,
+    "end": 10.494,
+    "words": [
+      {
+        "text": "Was",
+        "start": 6.173,
+        "end": 6.493
+      },
+      {
+        "text": "meiner",
+        "start": 6.533,
+        "end": 6.893
+      },
+      {
+        "text": "würdig",
+        "start": 6.933,
+        "end": 7.353
+      },
+      {
+        "text": "ist,",
+        "start": 7.393,
+        "end": 8.453
+      },
+      {
+        "text": "das",
+        "start": 8.493,
+        "end": 8.733
+      },
+      {
+        "text": "entscheide",
+        "start": 8.793,
+        "end": 9.133
+      },
+      {
+        "text": "ich",
+        "start": 9.153,
+        "end": 9.293
+      },
+      {
+        "text": "ganz",
+        "start": 9.313,
+        "end": 9.493
+      },
+      {
+        "text": "allein.",
+        "start": 9.533,
+        "end": 10.494
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und sie sind meiner nicht würdig.",
+    "start": 10.554,
+    "end": 18.876,
+    "words": [
+      {
+        "text": "Und",
+        "start": 10.554,
+        "end": 10.894
+      },
+      {
+        "text": "sie",
+        "start": 10.934,
+        "end": 12.554
+      },
+      {
+        "text": "sind",
+        "start": 12.594,
+        "end": 12.914
+      },
+      {
+        "text": "meiner",
+        "start": 12.954,
+        "end": 13.294
+      },
+      {
+        "text": "nicht",
+        "start": 13.334,
+        "end": 13.595
+      },
+      {
+        "text": "würdig.",
+        "start": 13.615,
+        "end": 18.876
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wenn ich all meine magische Kraft zusammennehme und auf sie loslasse, kann ich zumindest noch Meisterin Lothars retten.",
+    "start": 18.916,
+    "end": 25.098,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 18.916,
+        "end": 19.056
+      },
+      {
+        "text": "ich",
+        "start": 19.096,
+        "end": 19.276
+      },
+      {
+        "text": "all",
+        "start": 19.316,
+        "end": 19.516
+      },
+      {
+        "text": "meine",
+        "start": 19.536,
+        "end": 19.736
+      },
+      {
+        "text": "magische",
+        "start": 19.776,
+        "end": 20.176
+      },
+      {
+        "text": "Kraft",
+        "start": 20.216,
+        "end": 20.516
+      },
+      {
+        "text": "zusammennehme",
+        "start": 20.556,
+        "end": 21.117
+      },
+      {
+        "text": "und",
+        "start": 21.197,
+        "end": 21.317
+      },
+      {
+        "text": "auf",
+        "start": 21.337,
+        "end": 21.477
+      },
+      {
+        "text": "sie",
+        "start": 21.497,
+        "end": 21.617
+      },
+      {
+        "text": "loslasse,",
+        "start": 21.657,
+        "end": 22.857
+      },
+      {
+        "text": "kann",
+        "start": 22.877,
+        "end": 23.057
+      },
+      {
+        "text": "ich",
+        "start": 23.097,
+        "end": 23.277
+      },
+      {
+        "text": "zumindest",
+        "start": 23.297,
+        "end": 23.737
+      },
+      {
+        "text": "noch",
+        "start": 23.777,
+        "end": 23.897
+      },
+      {
+        "text": "Meisterin",
+        "start": 23.997,
+        "end": 24.437
+      },
+      {
+        "text": "Lothars",
+        "start": 24.477,
+        "end": 24.797
+      },
+      {
+        "text": "retten.",
+        "start": 24.857,
+        "end": 25.098
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich versuch's.",
+    "start": 25.718,
+    "end": 26.398,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 25.718,
+        "end": 25.978
+      },
+      {
+        "text": "versuch's.",
+        "start": 25.998,
+        "end": 26.398
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Pack doch la... Wa... Was?",
+    "start": 28.094,
+    "end": 28.695,
+    "words": [
+      {
+        "text": "Pack",
+        "start": 28.094,
+        "end": 28.254
+      },
+      {
+        "text": "doch",
+        "start": 28.294,
+        "end": 28.454
+      },
+      {
+        "text": "la...",
+        "start": 28.474,
+        "end": 28.515
+      },
+      {
+        "text": "Wa...",
+        "start": 28.535,
+        "end": 28.615
+      },
+      {
+        "text": "Was?",
+        "start": 28.635,
+        "end": 28.695
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Dieses Gefühl hatte ich schon sehr lange nicht mehr.",
+    "start": 62.302,
+    "end": 64.883,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 62.302,
+        "end": 62.542
+      },
+      {
+        "text": "Gefühl",
+        "start": 62.602,
+        "end": 62.882
+      },
+      {
+        "text": "hatte",
+        "start": 62.902,
+        "end": 63.082
+      },
+      {
+        "text": "ich",
+        "start": 63.142,
+        "end": 63.282
+      },
+      {
+        "text": "schon",
+        "start": 63.302,
+        "end": 63.563
+      },
+      {
+        "text": "sehr",
+        "start": 63.583,
+        "end": 63.763
+      },
+      {
+        "text": "lange",
+        "start": 63.823,
+        "end": 64.143
+      },
+      {
+        "text": "nicht",
+        "start": 64.183,
+        "end": 64.403
+      },
+      {
+        "text": "mehr.",
+        "start": 64.443,
+        "end": 64.883
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Die Magie strömt in einem lebendigen Schwall durch meinen ganzen Körper!",
+    "start": 64.903,
+    "end": 69.404,
+    "words": [
+      {
+        "text": "Die",
+        "start": 64.903,
+        "end": 65.023
+      },
+      {
+        "text": "Magie",
+        "start": 65.143,
+        "end": 65.563
+      },
+      {
+        "text": "strömt",
+        "start": 65.603,
+        "end": 65.983
+      },
+      {
+        "text": "in",
+        "start": 66.023,
+        "end": 66.163
+      },
+      {
+        "text": "einem",
+        "start": 66.203,
+        "end": 66.403
+      },
+      {
+        "text": "lebendigen",
+        "start": 66.443,
+        "end": 67.024
+      },
+      {
+        "text": "Schwall",
+        "start": 67.044,
+        "end": 67.384
+      },
+      {
+        "text": "durch",
+        "start": 67.404,
+        "end": 67.624
+      },
+      {
+        "text": "meinen",
+        "start": 67.664,
+        "end": 67.924
+      },
+      {
+        "text": "ganzen",
+        "start": 67.944,
+        "end": 68.344
+      },
+      {
+        "text": "Körper!",
+        "start": 68.384,
+        "end": 69.404
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Aber... Meisterin Lothars... Wolltest du jede Kontrolle aufgeben?",
+    "start": 69.484,
+    "end": 74.486,
+    "words": [
+      {
+        "text": "Aber...",
+        "start": 69.484,
+        "end": 70.365
+      },
+      {
+        "text": "Meisterin",
+        "start": 70.405,
+        "end": 71.145
+      },
+      {
+        "text": "Lothars...",
+        "start": 71.205,
+        "end": 72.465
+      },
+      {
+        "text": "Wolltest",
+        "start": 72.485,
+        "end": 72.805
+      },
+      {
+        "text": "du",
+        "start": 72.825,
+        "end": 72.985
+      },
+      {
+        "text": "jede",
+        "start": 73.005,
+        "end": 73.226
+      },
+      {
+        "text": "Kontrolle",
+        "start": 73.266,
+        "end": 73.746
+      },
+      {
+        "text": "aufgeben?",
+        "start": 73.806,
+        "end": 74.486
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich hab dir gepredigt, dass Selbstmordaktionen im höchsten Maße verantwortungslos sind.",
+    "start": 74.546,
+    "end": 78.967,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 74.546,
+        "end": 74.626
+      },
+      {
+        "text": "hab",
+        "start": 74.646,
+        "end": 74.786
+      },
+      {
+        "text": "dir",
+        "start": 74.806,
+        "end": 74.906
+      },
+      {
+        "text": "gepredigt,",
+        "start": 74.926,
+        "end": 75.406
+      },
+      {
+        "text": "dass",
+        "start": 75.426,
+        "end": 75.626
+      },
+      {
+        "text": "Selbstmordaktionen",
+        "start": 75.666,
+        "end": 76.767
+      },
+      {
+        "text": "im",
+        "start": 76.807,
+        "end": 76.947
+      },
+      {
+        "text": "höchsten",
+        "start": 76.987,
+        "end": 77.307
+      },
+      {
+        "text": "Maße",
+        "start": 77.347,
+        "end": 77.667
+      },
+      {
+        "text": "verantwortungslos",
+        "start": 77.687,
+        "end": 78.567
+      },
+      {
+        "text": "sind.",
+        "start": 78.587,
+        "end": 78.967
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Du hast dem Jungen also seine Magie geraubt.",
+    "start": 79.007,
+    "end": 82.829,
+    "words": [
+      {
+        "text": "Du",
+        "start": 79.007,
+        "end": 79.147
+      },
+      {
+        "text": "hast",
+        "start": 79.167,
+        "end": 79.427
+      },
+      {
+        "text": "dem",
+        "start": 79.447,
+        "end": 79.608
+      },
+      {
+        "text": "Jungen",
+        "start": 79.628,
+        "end": 79.948
+      },
+      {
+        "text": "also",
+        "start": 79.988,
+        "end": 80.308
+      },
+      {
+        "text": "seine",
+        "start": 80.328,
+        "end": 80.568
+      },
+      {
+        "text": "Magie",
+        "start": 80.608,
+        "end": 80.948
+      },
+      {
+        "text": "geraubt.",
+        "start": 80.968,
+        "end": 82.829
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Aber bevor du deine Hexenkunst einsetzen kannst, werde ich meine Magie einsetzen.",
+    "start": 82.889,
+    "end": 87.41,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 82.889,
+        "end": 83.129
+      },
+      {
+        "text": "bevor",
+        "start": 83.169,
+        "end": 83.529
+      },
+      {
+        "text": "du",
+        "start": 83.569,
+        "end": 83.709
+      },
+      {
+        "text": "deine",
+        "start": 83.749,
+        "end": 84.029
+      },
+      {
+        "text": "Hexenkunst",
+        "start": 84.049,
+        "end": 84.689
+      },
+      {
+        "text": "einsetzen",
+        "start": 84.729,
+        "end": 85.189
+      },
+      {
+        "text": "kannst,",
+        "start": 85.229,
+        "end": 85.489
+      },
+      {
+        "text": "werde",
+        "start": 85.529,
+        "end": 85.849
+      },
+      {
+        "text": "ich",
+        "start": 85.909,
+        "end": 86.13
+      },
+      {
+        "text": "meine",
+        "start": 86.15,
+        "end": 86.37
+      },
+      {
+        "text": "Magie",
+        "start": 86.43,
+        "end": 86.87
+      },
+      {
+        "text": "einsetzen.",
+        "start": 86.91,
+        "end": 87.41
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ach ja?",
+    "start": 88.45,
+    "end": 89.05,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 88.45,
+        "end": 88.73
+      },
+      {
+        "text": "ja?",
+        "start": 88.77,
+        "end": 89.05
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Das denkst du dir wohl so, hm?",
+    "start": 89.09,
+    "end": 90.311,
+    "words": [
+      {
+        "text": "Das",
+        "start": 89.09,
+        "end": 89.251
+      },
+      {
+        "text": "denkst",
+        "start": 89.271,
+        "end": 89.471
+      },
+      {
+        "text": "du",
+        "start": 89.511,
+        "end": 89.611
+      },
+      {
+        "text": "dir",
+        "start": 89.631,
+        "end": 89.771
+      },
+      {
+        "text": "wohl",
+        "start": 89.791,
+        "end": 89.931
+      },
+      {
+        "text": "so,",
+        "start": 89.971,
+        "end": 90.151
+      },
+      {
+        "text": "hm?",
+        "start": 90.191,
+        "end": 90.311
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Back, du Glatt!",
+    "start": 92.418,
+    "end": 93.078,
+    "words": [
+      {
+        "text": "Back,",
+        "start": 92.418,
+        "end": 92.578
+      },
+      {
+        "text": "du",
+        "start": 92.618,
+        "end": 92.778
+      },
+      {
+        "text": "Glatt!",
+        "start": 92.798,
+        "end": 93.078
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Infernale Flammen, bricht hervor und brennt!",
+    "start": 93.118,
+    "end": 98.301,
+    "words": [
+      {
+        "text": "Infernale",
+        "start": 93.118,
+        "end": 94.959
+      },
+      {
+        "text": "Flammen,",
+        "start": 94.999,
+        "end": 95.7
+      },
+      {
+        "text": "bricht",
+        "start": 95.98,
+        "end": 96.18
+      },
+      {
+        "text": "hervor",
+        "start": 96.22,
+        "end": 96.42
+      },
+      {
+        "text": "und",
+        "start": 96.48,
+        "end": 96.68
+      },
+      {
+        "text": "brennt!",
+        "start": 96.72,
+        "end": 98.301
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Meisterin Lothars, du beherrschst Magie?",
+    "start": 98.381,
+    "end": 100.702,
+    "words": [
+      {
+        "text": "Meisterin",
+        "start": 98.381,
+        "end": 98.881
+      },
+      {
+        "text": "Lothars,",
+        "start": 98.921,
+        "end": 99.301
+      },
+      {
+        "text": "du",
+        "start": 99.321,
+        "end": 99.561
+      },
+      {
+        "text": "beherrschst",
+        "start": 99.581,
+        "end": 99.982
+      },
+      {
+        "text": "Magie?",
+        "start": 100.002,
+        "end": 100.702
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ja, was denn?",
+    "start": 100.742,
+    "end": 101.422,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 100.742,
+        "end": 101.002
+      },
+      {
+        "text": "was",
+        "start": 101.022,
+        "end": 101.222
+      },
+      {
+        "text": "denn?",
+        "start": 101.262,
+        "end": 101.422
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Solchen kleinen Kram lerne ich doch allein vom Zusehen.",
+    "start": 101.462,
+    "end": 105.104,
+    "words": [
+      {
+        "text": "Solchen",
+        "start": 101.462,
+        "end": 101.842
+      },
+      {
+        "text": "kleinen",
+        "start": 101.862,
+        "end": 102.103
+      },
+      {
+        "text": "Kram",
+        "start": 102.123,
+        "end": 102.323
+      },
+      {
+        "text": "lerne",
+        "start": 102.343,
+        "end": 102.483
+      },
+      {
+        "text": "ich",
+        "start": 102.523,
+        "end": 102.623
+      },
+      {
+        "text": "doch",
+        "start": 102.663,
+        "end": 102.763
+      },
+      {
+        "text": "allein",
+        "start": 102.823,
+        "end": 103.083
+      },
+      {
+        "text": "vom",
+        "start": 103.103,
+        "end": 103.383
+      },
+      {
+        "text": "Zusehen.",
+        "start": 103.403,
+        "end": 105.104
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Weil ich nämlich ein kleines Genie bin.",
+    "start": 105.144,
+    "end": 107.805,
+    "words": [
+      {
+        "text": "Weil",
+        "start": 105.144,
+        "end": 105.364
+      },
+      {
+        "text": "ich",
+        "start": 105.384,
+        "end": 105.464
+      },
+      {
+        "text": "nämlich",
+        "start": 105.484,
+        "end": 105.804
+      },
+      {
+        "text": "ein",
+        "start": 105.844,
+        "end": 106.024
+      },
+      {
+        "text": "kleines",
+        "start": 106.064,
+        "end": 106.324
+      },
+      {
+        "text": "Genie",
+        "start": 106.365,
+        "end": 106.725
+      },
+      {
+        "text": "bin.",
+        "start": 106.745,
+        "end": 107.805
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Kapitel über die Jagd, letzter Absatz, Flaggis!",
+    "start": 107.825,
+    "end": 111.687,
+    "words": [
+      {
+        "text": "Kapitel",
+        "start": 107.825,
+        "end": 108.305
+      },
+      {
+        "text": "über",
+        "start": 108.365,
+        "end": 108.566
+      },
+      {
+        "text": "die",
+        "start": 108.606,
+        "end": 108.726
+      },
+      {
+        "text": "Jagd,",
+        "start": 108.746,
+        "end": 109.386
+      },
+      {
+        "text": "letzter",
+        "start": 109.406,
+        "end": 110.907
+      },
+      {
+        "text": "Absatz,",
+        "start": 110.967,
+        "end": 111.327
+      },
+      {
+        "text": "Flaggis!",
+        "start": 111.347,
+        "end": 111.687
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Erkenne mich an!",
+    "start": 111.747,
+    "end": 112.287,
+    "words": [
+      {
+        "text": "Erkenne",
+        "start": 111.747,
+        "end": 111.987
+      },
+      {
+        "text": "mich",
+        "start": 112.007,
+        "end": 112.127
+      },
+      {
+        "text": "an!",
+        "start": 112.167,
+        "end": 112.287
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Mein Name ist Luke!",
+    "start": 112.327,
+    "end": 113.128,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 112.327,
+        "end": 112.547
+      },
+      {
+        "text": "Name",
+        "start": 112.587,
+        "end": 112.707
+      },
+      {
+        "text": "ist",
+        "start": 112.767,
+        "end": 112.867
+      },
+      {
+        "text": "Luke!",
+        "start": 112.908,
+        "end": 113.128
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Faszinierend.",
+    "start": 119.928,
+    "end": 124.891,
+    "words": [
+      {
+        "text": "Faszinierend.",
+        "start": 119.928,
+        "end": 124.891
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ich lehne dich ab.",
+    "start": 124.951,
+    "end": 126.932,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 124.951,
+        "end": 125.111
+      },
+      {
+        "text": "lehne",
+        "start": 125.151,
+        "end": 125.411
+      },
+      {
+        "text": "dich",
+        "start": 125.431,
+        "end": 125.611
+      },
+      {
+        "text": "ab.",
+        "start": 125.691,
+        "end": 126.932
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Erkenne mich an.",
+    "start": 127.012,
+    "end": 128.413,
+    "words": [
+      {
+        "text": "Erkenne",
+        "start": 127.012,
+        "end": 127.513
+      },
+      {
+        "text": "mich",
+        "start": 127.533,
+        "end": 127.813
+      },
+      {
+        "text": "an.",
+        "start": 127.873,
+        "end": 128.413
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ich bin Zero.",
+    "start": 128.493,
+    "end": 135.878,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 128.493,
+        "end": 128.733
+      },
+      {
+        "text": "bin",
+        "start": 128.773,
+        "end": 129.114
+      },
+      {
+        "text": "Zero.",
+        "start": 129.154,
+        "end": 135.878
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Unterschätz mich nicht, Morgendämmerung.",
+    "start": 135.958,
+    "end": 138.539,
+    "words": [
+      {
+        "text": "Unterschätz",
+        "start": 135.958,
+        "end": 136.778
+      },
+      {
+        "text": "mich",
+        "start": 136.818,
+        "end": 137.058
+      },
+      {
+        "text": "nicht,",
+        "start": 137.078,
+        "end": 137.419
+      },
+      {
+        "text": "Morgendämmerung.",
+        "start": 137.459,
+        "end": 138.539
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Denn das gehört mir.",
+    "start": 138.559,
+    "end": 139.84,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 138.559,
+        "end": 138.779
+      },
+      {
+        "text": "das",
+        "start": 138.799,
+        "end": 139.02
+      },
+      {
+        "text": "gehört",
+        "start": 139.04,
+        "end": 139.48
+      },
+      {
+        "text": "mir.",
+        "start": 139.52,
+        "end": 139.84
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Das ist meine Magie.",
+    "start": 139.88,
+    "end": 141.621,
+    "words": [
+      {
+        "text": "Das",
+        "start": 139.88,
+        "end": 140.06
+      },
+      {
+        "text": "ist",
+        "start": 140.1,
+        "end": 140.48
+      },
+      {
+        "text": "meine",
+        "start": 140.52,
+        "end": 140.801
+      },
+      {
+        "text": "Magie.",
+        "start": 140.841,
+        "end": 141.621
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Das ist mein Wissen.",
+    "start": 141.661,
+    "end": 143.022,
+    "words": [
+      {
+        "text": "Das",
+        "start": 141.661,
+        "end": 141.861
+      },
+      {
+        "text": "ist",
+        "start": 141.901,
+        "end": 142.262
+      },
+      {
+        "text": "mein",
+        "start": 142.302,
+        "end": 142.602
+      },
+      {
+        "text": "Wissen.",
+        "start": 142.642,
+        "end": 143.022
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Und das ist meine Macht.",
+    "start": 143.062,
+    "end": 144.443,
+    "words": [
+      {
+        "text": "Und",
+        "start": 143.062,
+        "end": 143.262
+      },
+      {
+        "text": "das",
+        "start": 143.282,
+        "end": 143.462
+      },
+      {
+        "text": "ist",
+        "start": 143.502,
+        "end": 143.863
+      },
+      {
+        "text": "meine",
+        "start": 143.903,
+        "end": 144.243
+      },
+      {
+        "text": "Macht.",
+        "start": 144.283,
+        "end": 144.443
+      }
+    ]
+  }
+]

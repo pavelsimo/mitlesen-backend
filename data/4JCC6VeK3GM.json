@@ -1,0 +1,644 @@
+[
+  {
+    "id": 0,
+    "text": " Hey, Meister.",
+    "start": 4.29,
+    "end": 6.31,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 4.29,
+        "end": 4.43
+      },
+      {
+        "text": "Meister.",
+        "start": 4.45,
+        "end": 6.31
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sieh mal, da hinten ist eine Insel.",
+    "start": 6.35,
+    "end": 8.131,
+    "words": [
+      {
+        "text": "Sieh",
+        "start": 6.35,
+        "end": 6.51
+      },
+      {
+        "text": "mal,",
+        "start": 6.57,
+        "end": 6.67
+      },
+      {
+        "text": "da",
+        "start": 6.69,
+        "end": 6.811
+      },
+      {
+        "text": "hinten",
+        "start": 6.831,
+        "end": 7.031
+      },
+      {
+        "text": "ist",
+        "start": 7.071,
+        "end": 7.191
+      },
+      {
+        "text": "eine",
+        "start": 7.231,
+        "end": 7.451
+      },
+      {
+        "text": "Insel.",
+        "start": 7.491,
+        "end": 8.131
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Na und?",
+    "start": 8.171,
+    "end": 8.551,
+    "words": [
+      {
+        "text": "Na",
+        "start": 8.171,
+        "end": 8.291
+      },
+      {
+        "text": "und?",
+        "start": 8.311,
+        "end": 8.551
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Inseln gibt's hier wie Sand am Meer.",
+    "start": 8.591,
+    "end": 9.771,
+    "words": [
+      {
+        "text": "Inseln",
+        "start": 8.591,
+        "end": 8.851
+      },
+      {
+        "text": "gibt's",
+        "start": 8.871,
+        "end": 9.011
+      },
+      {
+        "text": "hier",
+        "start": 9.031,
+        "end": 9.151
+      },
+      {
+        "text": "wie",
+        "start": 9.171,
+        "end": 9.271
+      },
+      {
+        "text": "Sand",
+        "start": 9.311,
+        "end": 9.431
+      },
+      {
+        "text": "am",
+        "start": 9.451,
+        "end": 9.591
+      },
+      {
+        "text": "Meer.",
+        "start": 9.611,
+        "end": 9.771
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Nein, so eine nicht.",
+    "start": 10.171,
+    "end": 11.571,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 10.171,
+        "end": 10.651
+      },
+      {
+        "text": "so",
+        "start": 10.691,
+        "end": 10.831
+      },
+      {
+        "text": "eine",
+        "start": 10.871,
+        "end": 11.151
+      },
+      {
+        "text": "nicht.",
+        "start": 11.171,
+        "end": 11.571
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Die Insel, die ich meine, liegt nämlich auf dem Meeresgrund und leuchtet rot.",
+    "start": 11.591,
+    "end": 15.172,
+    "words": [
+      {
+        "text": "Die",
+        "start": 11.591,
+        "end": 11.711
+      },
+      {
+        "text": "Insel,",
+        "start": 11.751,
+        "end": 12.051
+      },
+      {
+        "text": "die",
+        "start": 12.071,
+        "end": 12.192
+      },
+      {
+        "text": "ich",
+        "start": 12.252,
+        "end": 12.352
+      },
+      {
+        "text": "meine,",
+        "start": 12.392,
+        "end": 12.652
+      },
+      {
+        "text": "liegt",
+        "start": 12.692,
+        "end": 12.832
+      },
+      {
+        "text": "nämlich",
+        "start": 12.872,
+        "end": 13.132
+      },
+      {
+        "text": "auf",
+        "start": 13.172,
+        "end": 13.292
+      },
+      {
+        "text": "dem",
+        "start": 13.312,
+        "end": 13.432
+      },
+      {
+        "text": "Meeresgrund",
+        "start": 13.472,
+        "end": 14.032
+      },
+      {
+        "text": "und",
+        "start": 14.052,
+        "end": 14.212
+      },
+      {
+        "text": "leuchtet",
+        "start": 14.252,
+        "end": 14.612
+      },
+      {
+        "text": "rot.",
+        "start": 14.692,
+        "end": 15.172
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Wie bitte?",
+    "start": 15.212,
+    "end": 15.672,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 15.212,
+        "end": 15.372
+      },
+      {
+        "text": "bitte?",
+        "start": 15.412,
+        "end": 15.672
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Eine Insel unter Wasser?",
+    "start": 15.692,
+    "end": 17.092,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 15.692,
+        "end": 15.872
+      },
+      {
+        "text": "Insel",
+        "start": 15.912,
+        "end": 16.372
+      },
+      {
+        "text": "unter",
+        "start": 16.412,
+        "end": 16.632
+      },
+      {
+        "text": "Wasser?",
+        "start": 16.672,
+        "end": 17.092
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Nicht nur das.",
+    "start": 17.132,
+    "end": 18.053,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 17.132,
+        "end": 17.412
+      },
+      {
+        "text": "nur",
+        "start": 17.432,
+        "end": 17.573
+      },
+      {
+        "text": "das.",
+        "start": 17.593,
+        "end": 18.053
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Da steht außerdem ein riesengroßes Gebäude drauf.",
+    "start": 18.073,
+    "end": 20.713,
+    "words": [
+      {
+        "text": "Da",
+        "start": 18.073,
+        "end": 18.173
+      },
+      {
+        "text": "steht",
+        "start": 18.213,
+        "end": 18.453
+      },
+      {
+        "text": "außerdem",
+        "start": 18.513,
+        "end": 18.893
+      },
+      {
+        "text": "ein",
+        "start": 18.913,
+        "end": 19.053
+      },
+      {
+        "text": "riesengroßes",
+        "start": 19.073,
+        "end": 19.793
+      },
+      {
+        "text": "Gebäude",
+        "start": 19.833,
+        "end": 20.333
+      },
+      {
+        "text": "drauf.",
+        "start": 20.373,
+        "end": 20.713
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Tja, das Leveln an Land ist ziemlich schwierig geworden.",
+    "start": 20.813,
+    "end": 23.334,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 20.813,
+        "end": 20.953
+      },
+      {
+        "text": "das",
+        "start": 20.973,
+        "end": 21.133
+      },
+      {
+        "text": "Leveln",
+        "start": 21.153,
+        "end": 21.453
+      },
+      {
+        "text": "an",
+        "start": 21.473,
+        "end": 21.613
+      },
+      {
+        "text": "Land",
+        "start": 21.633,
+        "end": 21.793
+      },
+      {
+        "text": "ist",
+        "start": 21.813,
+        "end": 22.013
+      },
+      {
+        "text": "ziemlich",
+        "start": 22.053,
+        "end": 22.373
+      },
+      {
+        "text": "schwierig",
+        "start": 22.393,
+        "end": 22.793
+      },
+      {
+        "text": "geworden.",
+        "start": 22.833,
+        "end": 23.334
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Vielleicht wäre das ja eine nette Abwechslung.",
+    "start": 23.354,
+    "end": 25.394,
+    "words": [
+      {
+        "text": "Vielleicht",
+        "start": 23.354,
+        "end": 23.674
+      },
+      {
+        "text": "wäre",
+        "start": 23.694,
+        "end": 23.874
+      },
+      {
+        "text": "das",
+        "start": 23.914,
+        "end": 24.034
+      },
+      {
+        "text": "ja",
+        "start": 24.054,
+        "end": 24.194
+      },
+      {
+        "text": "eine",
+        "start": 24.214,
+        "end": 24.394
+      },
+      {
+        "text": "nette",
+        "start": 24.454,
+        "end": 24.734
+      },
+      {
+        "text": "Abwechslung.",
+        "start": 24.774,
+        "end": 25.394
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ähm, Meister Naofumi?",
+    "start": 27.614,
+    "end": 30.735,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 27.614,
+        "end": 29.795
+      },
+      {
+        "text": "Meister",
+        "start": 29.835,
+        "end": 30.255
+      },
+      {
+        "text": "Naofumi?",
+        "start": 30.295,
+        "end": 30.735
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Sag mal, wie steht mir das?",
+    "start": 34.955,
+    "end": 36.618,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 34.955,
+        "end": 35.456
+      },
+      {
+        "text": "mal,",
+        "start": 35.476,
+        "end": 35.797
+      },
+      {
+        "text": "wie",
+        "start": 35.817,
+        "end": 35.957
+      },
+      {
+        "text": "steht",
+        "start": 35.977,
+        "end": 36.237
+      },
+      {
+        "text": "mir",
+        "start": 36.257,
+        "end": 36.398
+      },
+      {
+        "text": "das?",
+        "start": 36.438,
+        "end": 36.618
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Naja, das Material sieht wasserfest aus.",
+    "start": 36.718,
+    "end": 38.982,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 36.718,
+        "end": 37.419
+      },
+      {
+        "text": "das",
+        "start": 37.439,
+        "end": 37.6
+      },
+      {
+        "text": "Material",
+        "start": 37.64,
+        "end": 38.06
+      },
+      {
+        "text": "sieht",
+        "start": 38.08,
+        "end": 38.241
+      },
+      {
+        "text": "wasserfest",
+        "start": 38.281,
+        "end": 38.802
+      },
+      {
+        "text": "aus.",
+        "start": 38.822,
+        "end": 38.982
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Es macht sicher nichts, wenn es etwas nass wird.",
+    "start": 39.022,
+    "end": 41.686,
+    "words": [
+      {
+        "text": "Es",
+        "start": 39.022,
+        "end": 39.182
+      },
+      {
+        "text": "macht",
+        "start": 39.222,
+        "end": 39.383
+      },
+      {
+        "text": "sicher",
+        "start": 39.423,
+        "end": 39.623
+      },
+      {
+        "text": "nichts,",
+        "start": 39.643,
+        "end": 39.843
+      },
+      {
+        "text": "wenn",
+        "start": 39.863,
+        "end": 39.964
+      },
+      {
+        "text": "es",
+        "start": 40.004,
+        "end": 40.124
+      },
+      {
+        "text": "etwas",
+        "start": 40.164,
+        "end": 40.424
+      },
+      {
+        "text": "nass",
+        "start": 40.464,
+        "end": 40.645
+      },
+      {
+        "text": "wird.",
+        "start": 40.685,
+        "end": 41.686
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Es passt perfekt!",
+    "start": 41.727,
+    "end": 44.551,
+    "words": [
+      {
+        "text": "Es",
+        "start": 41.727,
+        "end": 41.907
+      },
+      {
+        "text": "passt",
+        "start": 41.947,
+        "end": 42.267
+      },
+      {
+        "text": "perfekt!",
+        "start": 42.287,
+        "end": 44.551
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Auf geht's, Raftalia!",
+    "start": 44.591,
+    "end": 45.353,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 44.591,
+        "end": 44.732
+      },
+      {
+        "text": "geht's,",
+        "start": 44.772,
+        "end": 44.952
+      },
+      {
+        "text": "Raftalia!",
+        "start": 45.012,
+        "end": 45.353
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Jawohl!",
+    "start": 45.393,
+    "end": 46.374,
+    "words": [
+      {
+        "text": "Jawohl!",
+        "start": 45.393,
+        "end": 46.374
+      }
+    ]
+  }
+]

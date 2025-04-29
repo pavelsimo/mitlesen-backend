@@ -1,0 +1,310 @@
+[
+  {
+    "id": 0,
+    "text": " Vater!",
+    "start": 0.611,
+    "end": 1.112,
+    "words": [
+      {
+        "text": "Vater!",
+        "start": 0.611,
+        "end": 1.112
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Mutter!",
+    "start": 1.152,
+    "end": 1.792,
+    "words": [
+      {
+        "text": "Mutter!",
+        "start": 1.152,
+        "end": 1.792
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Guck, da drüben ist ein Junge in Not!",
+    "start": 1.832,
+    "end": 3.673,
+    "words": [
+      {
+        "text": "Guck,",
+        "start": 1.832,
+        "end": 2.072
+      },
+      {
+        "text": "da",
+        "start": 2.092,
+        "end": 2.192
+      },
+      {
+        "text": "drüben",
+        "start": 2.212,
+        "end": 2.473
+      },
+      {
+        "text": "ist",
+        "start": 2.493,
+        "end": 2.573
+      },
+      {
+        "text": "ein",
+        "start": 2.633,
+        "end": 2.733
+      },
+      {
+        "text": "Junge",
+        "start": 2.773,
+        "end": 3.033
+      },
+      {
+        "text": "in",
+        "start": 3.113,
+        "end": 3.193
+      },
+      {
+        "text": "Not!",
+        "start": 3.253,
+        "end": 3.673
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wir müssen ihm helfen!",
+    "start": 3.713,
+    "end": 4.894,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 3.713,
+        "end": 3.834
+      },
+      {
+        "text": "müssen",
+        "start": 3.854,
+        "end": 3.994
+      },
+      {
+        "text": "ihm",
+        "start": 4.054,
+        "end": 4.214
+      },
+      {
+        "text": "helfen!",
+        "start": 4.254,
+        "end": 4.894
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Hilfe!",
+    "start": 4.934,
+    "end": 8.997,
+    "words": [
+      {
+        "text": "Hilfe!",
+        "start": 4.934,
+        "end": 8.997
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Alles in Ordnung?",
+    "start": 9.057,
+    "end": 10.778,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 9.057,
+        "end": 9.978
+      },
+      {
+        "text": "in",
+        "start": 10.018,
+        "end": 10.378
+      },
+      {
+        "text": "Ordnung?",
+        "start": 10.458,
+        "end": 10.778
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Alles für Zeugnis!",
+    "start": 11.139,
+    "end": 12.399,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 11.139,
+        "end": 11.379
+      },
+      {
+        "text": "für",
+        "start": 11.399,
+        "end": 11.599
+      },
+      {
+        "text": "Zeugnis!",
+        "start": 11.619,
+        "end": 12.399
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Alles für Zeugnis!",
+    "start": 12.439,
+    "end": 14.141,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 12.439,
+        "end": 12.78
+      },
+      {
+        "text": "für",
+        "start": 12.82,
+        "end": 13.3
+      },
+      {
+        "text": "Zeugnis!",
+        "start": 13.34,
+        "end": 14.141
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Niemand hilft ihm.",
+    "start": 14.181,
+    "end": 15.261,
+    "words": [
+      {
+        "text": "Niemand",
+        "start": 14.181,
+        "end": 14.521
+      },
+      {
+        "text": "hilft",
+        "start": 14.541,
+        "end": 14.801
+      },
+      {
+        "text": "ihm.",
+        "start": 14.861,
+        "end": 15.261
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ihr könnt schließlich nicht verdreckt beim Elterngespräch aufkreuzen.",
+    "start": 15.301,
+    "end": 19.124,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 15.301,
+        "end": 15.441
+      },
+      {
+        "text": "könnt",
+        "start": 15.461,
+        "end": 15.602
+      },
+      {
+        "text": "schließlich",
+        "start": 15.622,
+        "end": 16.082
+      },
+      {
+        "text": "nicht",
+        "start": 16.102,
+        "end": 16.222
+      },
+      {
+        "text": "verdreckt",
+        "start": 16.342,
+        "end": 16.742
+      },
+      {
+        "text": "beim",
+        "start": 16.882,
+        "end": 17.063
+      },
+      {
+        "text": "Elterngespräch",
+        "start": 17.103,
+        "end": 17.803
+      },
+      {
+        "text": "aufkreuzen.",
+        "start": 17.843,
+        "end": 19.124
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Nun, wie kommt ihr elegant aus dieser Situation heraus?",
+    "start": 19.184,
+    "end": 21.666,
+    "words": [
+      {
+        "text": "Nun,",
+        "start": 19.184,
+        "end": 19.604
+      },
+      {
+        "text": "wie",
+        "start": 19.644,
+        "end": 19.804
+      },
+      {
+        "text": "kommt",
+        "start": 19.824,
+        "end": 20.005
+      },
+      {
+        "text": "ihr",
+        "start": 20.045,
+        "end": 20.165
+      },
+      {
+        "text": "elegant",
+        "start": 20.205,
+        "end": 20.585
+      },
+      {
+        "text": "aus",
+        "start": 20.605,
+        "end": 20.745
+      },
+      {
+        "text": "dieser",
+        "start": 20.785,
+        "end": 21.005
+      },
+      {
+        "text": "Situation",
+        "start": 21.025,
+        "end": 21.466
+      },
+      {
+        "text": "heraus?",
+        "start": 21.506,
+        "end": 21.666
+      }
+    ]
+  }
+]

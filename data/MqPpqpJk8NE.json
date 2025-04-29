@@ -1,0 +1,757 @@
+[
+  {
+    "id": 0,
+    "text": " Um meine Miezi von diesem Teufel zurückzubekommen, würde ich alles tun.",
+    "start": 0.631,
+    "end": 4.393,
+    "words": [
+      {
+        "text": "Um",
+        "start": 0.631,
+        "end": 0.731
+      },
+      {
+        "text": "meine",
+        "start": 0.771,
+        "end": 0.951
+      },
+      {
+        "text": "Miezi",
+        "start": 0.971,
+        "end": 1.331
+      },
+      {
+        "text": "von",
+        "start": 1.352,
+        "end": 1.492
+      },
+      {
+        "text": "diesem",
+        "start": 1.532,
+        "end": 1.772
+      },
+      {
+        "text": "Teufel",
+        "start": 1.792,
+        "end": 2.132
+      },
+      {
+        "text": "zurückzubekommen,",
+        "start": 2.172,
+        "end": 2.892
+      },
+      {
+        "text": "würde",
+        "start": 2.912,
+        "end": 3.112
+      },
+      {
+        "text": "ich",
+        "start": 3.152,
+        "end": 3.292
+      },
+      {
+        "text": "alles",
+        "start": 3.332,
+        "end": 3.572
+      },
+      {
+        "text": "tun.",
+        "start": 3.612,
+        "end": 4.393
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sogar mit Menschen kooperieren.",
+    "start": 4.433,
+    "end": 6.313,
+    "words": [
+      {
+        "text": "Sogar",
+        "start": 4.433,
+        "end": 4.733
+      },
+      {
+        "text": "mit",
+        "start": 4.773,
+        "end": 4.953
+      },
+      {
+        "text": "Menschen",
+        "start": 4.973,
+        "end": 5.293
+      },
+      {
+        "text": "kooperieren.",
+        "start": 5.333,
+        "end": 6.313
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Aber das verstehst du sowieso nicht.",
+    "start": 6.373,
+    "end": 8.494,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 6.373,
+        "end": 6.573
+      },
+      {
+        "text": "das",
+        "start": 6.593,
+        "end": 6.734
+      },
+      {
+        "text": "verstehst",
+        "start": 6.774,
+        "end": 7.114
+      },
+      {
+        "text": "du",
+        "start": 7.134,
+        "end": 7.254
+      },
+      {
+        "text": "sowieso",
+        "start": 7.274,
+        "end": 7.714
+      },
+      {
+        "text": "nicht.",
+        "start": 7.754,
+        "end": 8.494
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Es ist für dich ja nur eine Katze.",
+    "start": 8.574,
+    "end": 10.675,
+    "words": [
+      {
+        "text": "Es",
+        "start": 8.574,
+        "end": 8.654
+      },
+      {
+        "text": "ist",
+        "start": 8.714,
+        "end": 8.854
+      },
+      {
+        "text": "für",
+        "start": 8.874,
+        "end": 9.034
+      },
+      {
+        "text": "dich",
+        "start": 9.054,
+        "end": 9.214
+      },
+      {
+        "text": "ja",
+        "start": 9.234,
+        "end": 9.335
+      },
+      {
+        "text": "nur",
+        "start": 9.355,
+        "end": 9.455
+      },
+      {
+        "text": "eine",
+        "start": 9.495,
+        "end": 9.675
+      },
+      {
+        "text": "Katze.",
+        "start": 9.695,
+        "end": 10.675
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Für eine Katze?",
+    "start": 10.715,
+    "end": 13.436,
+    "words": [
+      {
+        "text": "Für",
+        "start": 10.715,
+        "end": 10.855
+      },
+      {
+        "text": "eine",
+        "start": 10.915,
+        "end": 11.035
+      },
+      {
+        "text": "Katze?",
+        "start": 11.075,
+        "end": 13.436
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wie bescheuert.",
+    "start": 13.456,
+    "end": 14.376,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 13.456,
+        "end": 13.536
+      },
+      {
+        "text": "bescheuert.",
+        "start": 13.556,
+        "end": 14.376
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich stehe ja eher auf Bubas.",
+    "start": 14.416,
+    "end": 15.937,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.416,
+        "end": 14.516
+      },
+      {
+        "text": "stehe",
+        "start": 14.557,
+        "end": 14.737
+      },
+      {
+        "text": "ja",
+        "start": 14.757,
+        "end": 14.897
+      },
+      {
+        "text": "eher",
+        "start": 14.957,
+        "end": 15.177
+      },
+      {
+        "text": "auf",
+        "start": 15.217,
+        "end": 15.397
+      },
+      {
+        "text": "Bubas.",
+        "start": 15.437,
+        "end": 15.937
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Um die mal befummeln zu dürfen, würde ich alles geben.",
+    "start": 15.977,
+    "end": 18.058,
+    "words": [
+      {
+        "text": "Um",
+        "start": 15.977,
+        "end": 16.097
+      },
+      {
+        "text": "die",
+        "start": 16.117,
+        "end": 16.217
+      },
+      {
+        "text": "mal",
+        "start": 16.277,
+        "end": 16.397
+      },
+      {
+        "text": "befummeln",
+        "start": 16.437,
+        "end": 16.837
+      },
+      {
+        "text": "zu",
+        "start": 16.857,
+        "end": 16.957
+      },
+      {
+        "text": "dürfen,",
+        "start": 16.997,
+        "end": 17.258
+      },
+      {
+        "text": "würde",
+        "start": 17.278,
+        "end": 17.398
+      },
+      {
+        "text": "ich",
+        "start": 17.438,
+        "end": 17.558
+      },
+      {
+        "text": "alles",
+        "start": 17.578,
+        "end": 17.818
+      },
+      {
+        "text": "geben.",
+        "start": 17.858,
+        "end": 18.058
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "War ja klar, dass ein Mensch das nicht begreift.",
+    "start": 19.758,
+    "end": 26.761,
+    "words": [
+      {
+        "text": "War",
+        "start": 19.758,
+        "end": 19.939
+      },
+      {
+        "text": "ja",
+        "start": 19.979,
+        "end": 20.199
+      },
+      {
+        "text": "klar,",
+        "start": 20.239,
+        "end": 20.519
+      },
+      {
+        "text": "dass",
+        "start": 20.539,
+        "end": 20.699
+      },
+      {
+        "text": "ein",
+        "start": 20.759,
+        "end": 20.919
+      },
+      {
+        "text": "Mensch",
+        "start": 20.939,
+        "end": 21.159
+      },
+      {
+        "text": "das",
+        "start": 21.199,
+        "end": 21.339
+      },
+      {
+        "text": "nicht",
+        "start": 21.379,
+        "end": 21.539
+      },
+      {
+        "text": "begreift.",
+        "start": 21.579,
+        "end": 26.761
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Nachvollziehen könnte ich es vielleicht bei einem Doggo.",
+    "start": 26.801,
+    "end": 28.722,
+    "words": [
+      {
+        "text": "Nachvollziehen",
+        "start": 26.801,
+        "end": 27.401
+      },
+      {
+        "text": "könnte",
+        "start": 27.441,
+        "end": 27.641
+      },
+      {
+        "text": "ich",
+        "start": 27.681,
+        "end": 27.742
+      },
+      {
+        "text": "es",
+        "start": 27.762,
+        "end": 27.802
+      },
+      {
+        "text": "vielleicht",
+        "start": 27.822,
+        "end": 28.122
+      },
+      {
+        "text": "bei",
+        "start": 28.162,
+        "end": 28.242
+      },
+      {
+        "text": "einem",
+        "start": 28.262,
+        "end": 28.482
+      },
+      {
+        "text": "Doggo.",
+        "start": 28.522,
+        "end": 28.722
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Bring mir Mitzi zurück und du darfst meine Brüste anfassen.",
+    "start": 32.187,
+    "end": 34.668,
+    "words": [
+      {
+        "text": "Bring",
+        "start": 32.187,
+        "end": 32.327
+      },
+      {
+        "text": "mir",
+        "start": 32.347,
+        "end": 32.427
+      },
+      {
+        "text": "Mitzi",
+        "start": 32.447,
+        "end": 32.727
+      },
+      {
+        "text": "zurück",
+        "start": 32.747,
+        "end": 33.007
+      },
+      {
+        "text": "und",
+        "start": 33.027,
+        "end": 33.127
+      },
+      {
+        "text": "du",
+        "start": 33.147,
+        "end": 33.247
+      },
+      {
+        "text": "darfst",
+        "start": 33.287,
+        "end": 33.567
+      },
+      {
+        "text": "meine",
+        "start": 33.587,
+        "end": 33.767
+      },
+      {
+        "text": "Brüste",
+        "start": 33.807,
+        "end": 34.167
+      },
+      {
+        "text": "anfassen.",
+        "start": 34.207,
+        "end": 34.668
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Na, was sagst du dazu?",
+    "start": 34.708,
+    "end": 35.768,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 34.708,
+        "end": 34.868
+      },
+      {
+        "text": "was",
+        "start": 34.908,
+        "end": 35.008
+      },
+      {
+        "text": "sagst",
+        "start": 35.028,
+        "end": 35.268
+      },
+      {
+        "text": "du",
+        "start": 35.288,
+        "end": 35.368
+      },
+      {
+        "text": "dazu?",
+        "start": 35.408,
+        "end": 35.768
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Klingt doch fair, oder?",
+    "start": 35.808,
+    "end": 44.31,
+    "words": [
+      {
+        "text": "Klingt",
+        "start": 35.808,
+        "end": 36.028
+      },
+      {
+        "text": "doch",
+        "start": 36.048,
+        "end": 36.268
+      },
+      {
+        "text": "fair,",
+        "start": 36.288,
+        "end": 36.528
+      },
+      {
+        "text": "oder?",
+        "start": 36.608,
+        "end": 44.31
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Das ist ein Teufel!",
+    "start": 44.33,
+    "end": 46.53,
+    "words": [
+      {
+        "text": "Das",
+        "start": 44.33,
+        "end": 45.05
+      },
+      {
+        "text": "ist",
+        "start": 45.13,
+        "end": 45.29
+      },
+      {
+        "text": "ein",
+        "start": 45.37,
+        "end": 45.53
+      },
+      {
+        "text": "Teufel!",
+        "start": 45.57,
+        "end": 46.53
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Es wagt, eine Katze zu entführen!",
+    "start": 46.59,
+    "end": 49.031,
+    "words": [
+      {
+        "text": "Es",
+        "start": 46.59,
+        "end": 46.75
+      },
+      {
+        "text": "wagt,",
+        "start": 46.79,
+        "end": 46.97
+      },
+      {
+        "text": "eine",
+        "start": 47.01,
+        "end": 47.17
+      },
+      {
+        "text": "Katze",
+        "start": 47.21,
+        "end": 47.55
+      },
+      {
+        "text": "zu",
+        "start": 47.59,
+        "end": 47.67
+      },
+      {
+        "text": "entführen!",
+        "start": 47.71,
+        "end": 49.031
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Das geht ja mal gar nicht klar!",
+    "start": 49.071,
+    "end": 50.751,
+    "words": [
+      {
+        "text": "Das",
+        "start": 49.071,
+        "end": 49.211
+      },
+      {
+        "text": "geht",
+        "start": 49.231,
+        "end": 49.371
+      },
+      {
+        "text": "ja",
+        "start": 49.491,
+        "end": 49.571
+      },
+      {
+        "text": "mal",
+        "start": 49.651,
+        "end": 49.811
+      },
+      {
+        "text": "gar",
+        "start": 49.831,
+        "end": 50.051
+      },
+      {
+        "text": "nicht",
+        "start": 50.071,
+        "end": 50.211
+      },
+      {
+        "text": "klar!",
+        "start": 50.231,
+        "end": 50.751
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Unverzeihlich!",
+    "start": 50.811,
+    "end": 51.631,
+    "words": [
+      {
+        "text": "Unverzeihlich!",
+        "start": 50.811,
+        "end": 51.631
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Als Teufelsjäger dulde ich das nicht!",
+    "start": 51.811,
+    "end": 56.192,
+    "words": [
+      {
+        "text": "Als",
+        "start": 51.811,
+        "end": 54.372
+      },
+      {
+        "text": "Teufelsjäger",
+        "start": 54.392,
+        "end": 55.112
+      },
+      {
+        "text": "dulde",
+        "start": 55.152,
+        "end": 55.292
+      },
+      {
+        "text": "ich",
+        "start": 55.332,
+        "end": 55.472
+      },
+      {
+        "text": "das",
+        "start": 55.492,
+        "end": 55.672
+      },
+      {
+        "text": "nicht!",
+        "start": 55.712,
+        "end": 56.192
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ja!",
+    "start": 56.232,
+    "end": 57.292,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 56.232,
+        "end": 57.292
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Diesem Teufel lasse ich persönlich die Lichter aus!",
+    "start": 57.332,
+    "end": 61.013,
+    "words": [
+      {
+        "text": "Diesem",
+        "start": 57.332,
+        "end": 57.712
+      },
+      {
+        "text": "Teufel",
+        "start": 57.752,
+        "end": 59.253
+      },
+      {
+        "text": "lasse",
+        "start": 59.293,
+        "end": 59.513
+      },
+      {
+        "text": "ich",
+        "start": 59.573,
+        "end": 59.753
+      },
+      {
+        "text": "persönlich",
+        "start": 59.773,
+        "end": 60.313
+      },
+      {
+        "text": "die",
+        "start": 60.333,
+        "end": 60.453
+      },
+      {
+        "text": "Lichter",
+        "start": 60.493,
+        "end": 60.833
+      },
+      {
+        "text": "aus!",
+        "start": 60.873,
+        "end": 61.013
+      }
+    ]
+  }
+]

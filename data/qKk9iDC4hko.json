@@ -1,0 +1,293 @@
+[
+  {
+    "id": 0,
+    "text": " Ich kann die Garnelen in diesem Supermarkt sehr empfehlen.",
+    "start": 0.461,
+    "end": 3.843,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.461,
+        "end": 0.521
+      },
+      {
+        "text": "kann",
+        "start": 0.541,
+        "end": 0.701
+      },
+      {
+        "text": "die",
+        "start": 0.721,
+        "end": 0.801
+      },
+      {
+        "text": "Garnelen",
+        "start": 0.821,
+        "end": 1.181
+      },
+      {
+        "text": "in",
+        "start": 1.221,
+        "end": 1.322
+      },
+      {
+        "text": "diesem",
+        "start": 1.342,
+        "end": 1.562
+      },
+      {
+        "text": "Supermarkt",
+        "start": 1.622,
+        "end": 2.042
+      },
+      {
+        "text": "sehr",
+        "start": 2.062,
+        "end": 2.182
+      },
+      {
+        "text": "empfehlen.",
+        "start": 2.222,
+        "end": 3.843
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das kannst du natürlich nicht wissen, aber ich bin allergisch gegen Krustentiere.",
+    "start": 3.883,
+    "end": 10.707,
+    "words": [
+      {
+        "text": "Das",
+        "start": 3.883,
+        "end": 4.043
+      },
+      {
+        "text": "kannst",
+        "start": 4.083,
+        "end": 4.303
+      },
+      {
+        "text": "du",
+        "start": 4.323,
+        "end": 4.443
+      },
+      {
+        "text": "natürlich",
+        "start": 4.483,
+        "end": 4.863
+      },
+      {
+        "text": "nicht",
+        "start": 4.903,
+        "end": 5.084
+      },
+      {
+        "text": "wissen,",
+        "start": 5.124,
+        "end": 5.624
+      },
+      {
+        "text": "aber",
+        "start": 5.704,
+        "end": 5.884
+      },
+      {
+        "text": "ich",
+        "start": 5.904,
+        "end": 6.004
+      },
+      {
+        "text": "bin",
+        "start": 6.024,
+        "end": 6.144
+      },
+      {
+        "text": "allergisch",
+        "start": 6.184,
+        "end": 6.664
+      },
+      {
+        "text": "gegen",
+        "start": 6.684,
+        "end": 6.925
+      },
+      {
+        "text": "Krustentiere.",
+        "start": 6.965,
+        "end": 10.707
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Die Tante scheint sich nicht gut mit Papa zu verstehen.",
+    "start": 10.727,
+    "end": 18.331,
+    "words": [
+      {
+        "text": "Die",
+        "start": 10.727,
+        "end": 15.269
+      },
+      {
+        "text": "Tante",
+        "start": 15.289,
+        "end": 15.589
+      },
+      {
+        "text": "scheint",
+        "start": 15.609,
+        "end": 15.849
+      },
+      {
+        "text": "sich",
+        "start": 15.869,
+        "end": 16.009
+      },
+      {
+        "text": "nicht",
+        "start": 16.029,
+        "end": 16.209
+      },
+      {
+        "text": "gut",
+        "start": 16.249,
+        "end": 16.45
+      },
+      {
+        "text": "mit",
+        "start": 16.47,
+        "end": 16.61
+      },
+      {
+        "text": "Papa",
+        "start": 16.63,
+        "end": 16.95
+      },
+      {
+        "text": "zu",
+        "start": 16.97,
+        "end": 17.11
+      },
+      {
+        "text": "verstehen.",
+        "start": 17.13,
+        "end": 18.331
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Sie sieht auch voll gruselig aus.",
+    "start": 18.351,
+    "end": 21.232,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 18.351,
+        "end": 18.611
+      },
+      {
+        "text": "sieht",
+        "start": 18.631,
+        "end": 18.771
+      },
+      {
+        "text": "auch",
+        "start": 18.851,
+        "end": 19.011
+      },
+      {
+        "text": "voll",
+        "start": 19.031,
+        "end": 19.211
+      },
+      {
+        "text": "gruselig",
+        "start": 19.231,
+        "end": 19.951
+      },
+      {
+        "text": "aus.",
+        "start": 20.152,
+        "end": 21.232
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Gehört sie zu den Bösen?",
+    "start": 21.272,
+    "end": 22.453,
+    "words": [
+      {
+        "text": "Gehört",
+        "start": 21.272,
+        "end": 21.612
+      },
+      {
+        "text": "sie",
+        "start": 21.652,
+        "end": 21.752
+      },
+      {
+        "text": "zu",
+        "start": 21.792,
+        "end": 21.912
+      },
+      {
+        "text": "den",
+        "start": 21.932,
+        "end": 22.113
+      },
+      {
+        "text": "Bösen?",
+        "start": 22.153,
+        "end": 22.453
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Twilight, ich liebe dich.",
+    "start": 24.654,
+    "end": 27.035,
+    "words": [
+      {
+        "text": "Twilight,",
+        "start": 24.654,
+        "end": 26.255
+      },
+      {
+        "text": "ich",
+        "start": 26.315,
+        "end": 26.515
+      },
+      {
+        "text": "liebe",
+        "start": 26.575,
+        "end": 26.835
+      },
+      {
+        "text": "dich.",
+        "start": 26.875,
+        "end": 27.035
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Endlich!",
+    "start": 41.074,
+    "end": 41.459,
+    "words": [
+      {
+        "text": "Endlich!",
+        "start": 41.074,
+        "end": 41.459
+      }
+    ]
+  }
+]

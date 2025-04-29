@@ -1,0 +1,1245 @@
+[
+  {
+    "id": 0,
+    "text": " Ich mache auf.",
+    "start": 2.15,
+    "end": 5.013,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.15,
+        "end": 2.571
+      },
+      {
+        "text": "mache",
+        "start": 2.611,
+        "end": 2.771
+      },
+      {
+        "text": "auf.",
+        "start": 2.811,
+        "end": 5.013
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Oh, hey.",
+    "start": 5.113,
+    "end": 5.674,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 5.113,
+        "end": 5.314
+      },
+      {
+        "text": "hey.",
+        "start": 5.354,
+        "end": 5.674
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Jiro, hast du Zeit?",
+    "start": 5.734,
+    "end": 6.815,
+    "words": [
+      {
+        "text": "Jiro,",
+        "start": 5.734,
+        "end": 6.094
+      },
+      {
+        "text": "hast",
+        "start": 6.114,
+        "end": 6.275
+      },
+      {
+        "text": "du",
+        "start": 6.295,
+        "end": 6.455
+      },
+      {
+        "text": "Zeit?",
+        "start": 6.495,
+        "end": 6.815
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wollen wir eine Runde zocken?",
+    "start": 6.835,
+    "end": 7.836,
+    "words": [
+      {
+        "text": "Wollen",
+        "start": 6.835,
+        "end": 6.995
+      },
+      {
+        "text": "wir",
+        "start": 7.015,
+        "end": 7.075
+      },
+      {
+        "text": "eine",
+        "start": 7.095,
+        "end": 7.236
+      },
+      {
+        "text": "Runde",
+        "start": 7.256,
+        "end": 7.496
+      },
+      {
+        "text": "zocken?",
+        "start": 7.516,
+        "end": 7.836
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Klar, bin dabei.",
+    "start": 7.876,
+    "end": 8.837,
+    "words": [
+      {
+        "text": "Klar,",
+        "start": 7.876,
+        "end": 8.177
+      },
+      {
+        "text": "bin",
+        "start": 8.217,
+        "end": 8.337
+      },
+      {
+        "text": "dabei.",
+        "start": 8.377,
+        "end": 8.837
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich komme.",
+    "start": 8.877,
+    "end": 9.858,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 8.877,
+        "end": 8.957
+      },
+      {
+        "text": "komme.",
+        "start": 8.977,
+        "end": 9.858
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Also, du hast es ja gehört.",
+    "start": 9.898,
+    "end": 11.18,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 9.898,
+        "end": 10.119
+      },
+      {
+        "text": "du",
+        "start": 10.139,
+        "end": 10.239
+      },
+      {
+        "text": "hast",
+        "start": 10.279,
+        "end": 10.419
+      },
+      {
+        "text": "es",
+        "start": 10.479,
+        "end": 10.559
+      },
+      {
+        "text": "ja",
+        "start": 10.579,
+        "end": 10.739
+      },
+      {
+        "text": "gehört.",
+        "start": 10.759,
+        "end": 11.18
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich gehe dann mal.",
+    "start": 11.2,
+    "end": 12.181,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 11.2,
+        "end": 11.3
+      },
+      {
+        "text": "gehe",
+        "start": 11.32,
+        "end": 11.48
+      },
+      {
+        "text": "dann",
+        "start": 11.5,
+        "end": 11.66
+      },
+      {
+        "text": "mal.",
+        "start": 11.68,
+        "end": 12.181
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Moment!",
+    "start": 12.241,
+    "end": 14.403,
+    "words": [
+      {
+        "text": "Moment!",
+        "start": 12.241,
+        "end": 14.403
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Du willst abhauen, obwohl wir Minuspunkte haben?",
+    "start": 14.443,
+    "end": 16.705,
+    "words": [
+      {
+        "text": "Du",
+        "start": 14.443,
+        "end": 14.603
+      },
+      {
+        "text": "willst",
+        "start": 14.623,
+        "end": 14.883
+      },
+      {
+        "text": "abhauen,",
+        "start": 14.924,
+        "end": 15.304
+      },
+      {
+        "text": "obwohl",
+        "start": 15.344,
+        "end": 15.644
+      },
+      {
+        "text": "wir",
+        "start": 15.664,
+        "end": 15.824
+      },
+      {
+        "text": "Minuspunkte",
+        "start": 15.844,
+        "end": 16.505
+      },
+      {
+        "text": "haben?",
+        "start": 16.545,
+        "end": 16.705
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Und was soll ich deiner Meinung nach dagegen tun?",
+    "start": 16.745,
+    "end": 18.547,
+    "words": [
+      {
+        "text": "Und",
+        "start": 16.745,
+        "end": 16.805
+      },
+      {
+        "text": "was",
+        "start": 16.845,
+        "end": 16.986
+      },
+      {
+        "text": "soll",
+        "start": 17.006,
+        "end": 17.126
+      },
+      {
+        "text": "ich",
+        "start": 17.166,
+        "end": 17.246
+      },
+      {
+        "text": "deiner",
+        "start": 17.286,
+        "end": 17.566
+      },
+      {
+        "text": "Meinung",
+        "start": 17.586,
+        "end": 17.827
+      },
+      {
+        "text": "nach",
+        "start": 17.847,
+        "end": 18.007
+      },
+      {
+        "text": "dagegen",
+        "start": 18.027,
+        "end": 18.367
+      },
+      {
+        "text": "tun?",
+        "start": 18.407,
+        "end": 18.547
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Na, das ist doch klar, oder nicht?",
+    "start": 18.707,
+    "end": 20.329,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 18.707,
+        "end": 18.868
+      },
+      {
+        "text": "das",
+        "start": 18.888,
+        "end": 19.008
+      },
+      {
+        "text": "ist",
+        "start": 19.048,
+        "end": 19.148
+      },
+      {
+        "text": "doch",
+        "start": 19.188,
+        "end": 19.348
+      },
+      {
+        "text": "klar,",
+        "start": 19.368,
+        "end": 19.568
+      },
+      {
+        "text": "oder",
+        "start": 19.628,
+        "end": 19.849
+      },
+      {
+        "text": "nicht?",
+        "start": 19.889,
+        "end": 20.329
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich möchte ein Küsschen, bevor du gehst.",
+    "start": 20.369,
+    "end": 21.911,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 20.369,
+        "end": 20.469
+      },
+      {
+        "text": "möchte",
+        "start": 20.509,
+        "end": 20.73
+      },
+      {
+        "text": "ein",
+        "start": 20.77,
+        "end": 20.89
+      },
+      {
+        "text": "Küsschen,",
+        "start": 20.93,
+        "end": 21.25
+      },
+      {
+        "text": "bevor",
+        "start": 21.29,
+        "end": 21.53
+      },
+      {
+        "text": "du",
+        "start": 21.55,
+        "end": 21.67
+      },
+      {
+        "text": "gehst.",
+        "start": 21.691,
+        "end": 21.911
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Wie bitte ein Küsschen?",
+    "start": 23.302,
+    "end": 24.383,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 23.302,
+        "end": 23.662
+      },
+      {
+        "text": "bitte",
+        "start": 23.682,
+        "end": 23.862
+      },
+      {
+        "text": "ein",
+        "start": 23.902,
+        "end": 24.002
+      },
+      {
+        "text": "Küsschen?",
+        "start": 24.042,
+        "end": 24.383
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Meinst du die mit der Haselnuss in der Nase?",
+    "start": 24.403,
+    "end": 26.344,
+    "words": [
+      {
+        "text": "Meinst",
+        "start": 24.403,
+        "end": 24.563
+      },
+      {
+        "text": "du",
+        "start": 24.603,
+        "end": 24.683
+      },
+      {
+        "text": "die",
+        "start": 24.703,
+        "end": 24.823
+      },
+      {
+        "text": "mit",
+        "start": 24.843,
+        "end": 24.943
+      },
+      {
+        "text": "der",
+        "start": 24.963,
+        "end": 25.063
+      },
+      {
+        "text": "Haselnuss",
+        "start": 25.083,
+        "end": 25.503
+      },
+      {
+        "text": "in",
+        "start": 25.543,
+        "end": 25.603
+      },
+      {
+        "text": "der",
+        "start": 25.623,
+        "end": 25.783
+      },
+      {
+        "text": "Nase?",
+        "start": 25.803,
+        "end": 26.344
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Was?",
+    "start": 26.444,
+    "end": 26.624,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 26.444,
+        "end": 26.624
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Bist du so dumm wie ein Fisch?",
+    "start": 26.644,
+    "end": 27.885,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 26.644,
+        "end": 26.824
+      },
+      {
+        "text": "du",
+        "start": 26.864,
+        "end": 26.984
+      },
+      {
+        "text": "so",
+        "start": 27.004,
+        "end": 27.144
+      },
+      {
+        "text": "dumm",
+        "start": 27.164,
+        "end": 27.264
+      },
+      {
+        "text": "wie",
+        "start": 27.284,
+        "end": 27.404
+      },
+      {
+        "text": "ein",
+        "start": 27.444,
+        "end": 27.625
+      },
+      {
+        "text": "Fisch?",
+        "start": 27.685,
+        "end": 27.885
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich rede von einem Abschiedskuss.",
+    "start": 27.925,
+    "end": 29.506,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.925,
+        "end": 28.125
+      },
+      {
+        "text": "rede",
+        "start": 28.145,
+        "end": 28.345
+      },
+      {
+        "text": "von",
+        "start": 28.385,
+        "end": 28.505
+      },
+      {
+        "text": "einem",
+        "start": 28.545,
+        "end": 28.785
+      },
+      {
+        "text": "Abschiedskuss.",
+        "start": 28.845,
+        "end": 29.506
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ein Kuss?",
+    "start": 29.586,
+    "end": 32.788,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 29.586,
+        "end": 29.826
+      },
+      {
+        "text": "Kuss?",
+        "start": 29.866,
+        "end": 32.788
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Tiro, bist du bald fertig?",
+    "start": 32.808,
+    "end": 34.028,
+    "words": [
+      {
+        "text": "Tiro,",
+        "start": 32.808,
+        "end": 33.068
+      },
+      {
+        "text": "bist",
+        "start": 33.088,
+        "end": 33.248
+      },
+      {
+        "text": "du",
+        "start": 33.268,
+        "end": 33.348
+      },
+      {
+        "text": "bald",
+        "start": 33.368,
+        "end": 33.548
+      },
+      {
+        "text": "fertig?",
+        "start": 33.588,
+        "end": 34.028
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Scheint so, als verlange ich zu viel von einer Jungfrau.",
+    "start": 34.068,
+    "end": 36.63,
+    "words": [
+      {
+        "text": "Scheint",
+        "start": 34.068,
+        "end": 34.329
+      },
+      {
+        "text": "so,",
+        "start": 34.349,
+        "end": 34.469
+      },
+      {
+        "text": "als",
+        "start": 34.489,
+        "end": 34.689
+      },
+      {
+        "text": "verlange",
+        "start": 34.709,
+        "end": 35.069
+      },
+      {
+        "text": "ich",
+        "start": 35.109,
+        "end": 35.249
+      },
+      {
+        "text": "zu",
+        "start": 35.269,
+        "end": 35.449
+      },
+      {
+        "text": "viel",
+        "start": 35.489,
+        "end": 35.629
+      },
+      {
+        "text": "von",
+        "start": 35.649,
+        "end": 35.829
+      },
+      {
+        "text": "einer",
+        "start": 35.87,
+        "end": 36.05
+      },
+      {
+        "text": "Jungfrau.",
+        "start": 36.07,
+        "end": 36.63
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Tiro, wo bleibst du denn so lange?",
+    "start": 36.69,
+    "end": 39.071,
+    "words": [
+      {
+        "text": "Tiro,",
+        "start": 36.69,
+        "end": 37.13
+      },
+      {
+        "text": "wo",
+        "start": 37.15,
+        "end": 37.31
+      },
+      {
+        "text": "bleibst",
+        "start": 37.33,
+        "end": 37.651
+      },
+      {
+        "text": "du",
+        "start": 37.671,
+        "end": 37.711
+      },
+      {
+        "text": "denn",
+        "start": 37.731,
+        "end": 37.851
+      },
+      {
+        "text": "so",
+        "start": 37.871,
+        "end": 37.971
+      },
+      {
+        "text": "lange?",
+        "start": 37.991,
+        "end": 39.071
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Was erwarte ich auch von einer Jungfrau?",
+    "start": 39.111,
+    "end": 40.953,
+    "words": [
+      {
+        "text": "Was",
+        "start": 39.111,
+        "end": 39.292
+      },
+      {
+        "text": "erwarte",
+        "start": 39.352,
+        "end": 39.792
+      },
+      {
+        "text": "ich",
+        "start": 39.832,
+        "end": 39.972
+      },
+      {
+        "text": "auch",
+        "start": 40.012,
+        "end": 40.172
+      },
+      {
+        "text": "von",
+        "start": 40.212,
+        "end": 40.352
+      },
+      {
+        "text": "einer",
+        "start": 40.392,
+        "end": 40.592
+      },
+      {
+        "text": "Jungfrau?",
+        "start": 40.632,
+        "end": 40.953
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Tiro, komm jetzt endlich mal da raus!",
+    "start": 40.993,
+    "end": 42.594,
+    "words": [
+      {
+        "text": "Tiro,",
+        "start": 40.993,
+        "end": 41.373
+      },
+      {
+        "text": "komm",
+        "start": 41.393,
+        "end": 41.553
+      },
+      {
+        "text": "jetzt",
+        "start": 41.573,
+        "end": 41.693
+      },
+      {
+        "text": "endlich",
+        "start": 41.773,
+        "end": 42.013
+      },
+      {
+        "text": "mal",
+        "start": 42.093,
+        "end": 42.213
+      },
+      {
+        "text": "da",
+        "start": 42.233,
+        "end": 42.313
+      },
+      {
+        "text": "raus!",
+        "start": 42.333,
+        "end": 42.594
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wie du schon gesagt hast, du bist eben völlig ahnungslos.",
+    "start": 42.614,
+    "end": 45.475,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 42.614,
+        "end": 42.734
+      },
+      {
+        "text": "du",
+        "start": 42.754,
+        "end": 42.854
+      },
+      {
+        "text": "schon",
+        "start": 42.874,
+        "end": 43.134
+      },
+      {
+        "text": "gesagt",
+        "start": 43.154,
+        "end": 43.494
+      },
+      {
+        "text": "hast,",
+        "start": 43.514,
+        "end": 43.694
+      },
+      {
+        "text": "du",
+        "start": 43.734,
+        "end": 43.834
+      },
+      {
+        "text": "bist",
+        "start": 43.854,
+        "end": 44.034
+      },
+      {
+        "text": "eben",
+        "start": 44.074,
+        "end": 44.194
+      },
+      {
+        "text": "völlig",
+        "start": 44.315,
+        "end": 44.635
+      },
+      {
+        "text": "ahnungslos.",
+        "start": 44.715,
+        "end": 45.475
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Geh nur mit deinem Jungfernfreund spielen.",
+    "start": 45.515,
+    "end": 47.396,
+    "words": [
+      {
+        "text": "Geh",
+        "start": 45.515,
+        "end": 45.655
+      },
+      {
+        "text": "nur",
+        "start": 45.695,
+        "end": 45.795
+      },
+      {
+        "text": "mit",
+        "start": 45.815,
+        "end": 45.936
+      },
+      {
+        "text": "deinem",
+        "start": 45.956,
+        "end": 46.096
+      },
+      {
+        "text": "Jungfernfreund",
+        "start": 46.136,
+        "end": 46.756
+      },
+      {
+        "text": "spielen.",
+        "start": 46.856,
+        "end": 47.396
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Verdammt.",
+    "start": 47.416,
+    "end": 47.837,
+    "words": [
+      {
+        "text": "Verdammt.",
+        "start": 47.416,
+        "end": 47.837
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Tiro, bist du tot?",
+    "start": 47.857,
+    "end": 48.797,
+    "words": [
+      {
+        "text": "Tiro,",
+        "start": 47.857,
+        "end": 48.097
+      },
+      {
+        "text": "bist",
+        "start": 48.117,
+        "end": 48.297
+      },
+      {
+        "text": "du",
+        "start": 48.317,
+        "end": 48.497
+      },
+      {
+        "text": "tot?",
+        "start": 48.537,
+        "end": 48.797
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Bist du tot umgefallen?",
+    "start": 48.817,
+    "end": 49.878,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 48.817,
+        "end": 48.977
+      },
+      {
+        "text": "du",
+        "start": 48.997,
+        "end": 49.137
+      },
+      {
+        "text": "tot",
+        "start": 49.157,
+        "end": 49.298
+      },
+      {
+        "text": "umgefallen?",
+        "start": 49.358,
+        "end": 49.878
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Wehe, du bist später sauer!",
+    "start": 49.918,
+    "end": 51.019,
+    "words": [
+      {
+        "text": "Wehe,",
+        "start": 49.918,
+        "end": 50.138
+      },
+      {
+        "text": "du",
+        "start": 50.158,
+        "end": 50.238
+      },
+      {
+        "text": "bist",
+        "start": 50.278,
+        "end": 50.438
+      },
+      {
+        "text": "später",
+        "start": 50.458,
+        "end": 50.778
+      },
+      {
+        "text": "sauer!",
+        "start": 50.818,
+        "end": 51.019
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Wo warst du denn so lange?",
+    "start": 66.037,
+    "end": 67.038,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 66.037,
+        "end": 66.137
+      },
+      {
+        "text": "warst",
+        "start": 66.197,
+        "end": 66.357
+      },
+      {
+        "text": "du",
+        "start": 66.377,
+        "end": 66.458
+      },
+      {
+        "text": "denn",
+        "start": 66.478,
+        "end": 66.618
+      },
+      {
+        "text": "so",
+        "start": 66.658,
+        "end": 66.758
+      },
+      {
+        "text": "lange?",
+        "start": 66.798,
+        "end": 67.038
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Auf dem Schlachtfeld wäre ich jetzt schon tot.",
+    "start": 67.078,
+    "end": 69.2,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 67.078,
+        "end": 67.178
+      },
+      {
+        "text": "dem",
+        "start": 67.198,
+        "end": 67.338
+      },
+      {
+        "text": "Schlachtfeld",
+        "start": 67.378,
+        "end": 67.779
+      },
+      {
+        "text": "wäre",
+        "start": 67.799,
+        "end": 67.979
+      },
+      {
+        "text": "ich",
+        "start": 67.999,
+        "end": 68.099
+      },
+      {
+        "text": "jetzt",
+        "start": 68.119,
+        "end": 68.239
+      },
+      {
+        "text": "schon",
+        "start": 68.259,
+        "end": 68.459
+      },
+      {
+        "text": "tot.",
+        "start": 68.479,
+        "end": 69.2
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Sorry.",
+    "start": 69.26,
+    "end": 70.561,
+    "words": [
+      {
+        "text": "Sorry.",
+        "start": 69.26,
+        "end": 70.561
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "So ein verdammter Mist!",
+    "start": 70.581,
+    "end": 72.243,
+    "words": [
+      {
+        "text": "So",
+        "start": 70.581,
+        "end": 70.761
+      },
+      {
+        "text": "ein",
+        "start": 70.781,
+        "end": 70.901
+      },
+      {
+        "text": "verdammter",
+        "start": 70.921,
+        "end": 71.422
+      },
+      {
+        "text": "Mist!",
+        "start": 71.462,
+        "end": 72.243
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich hab mich von ihr provozieren lassen!",
+    "start": 72.283,
+    "end": 80.95,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 72.283,
+        "end": 72.383
+      },
+      {
+        "text": "hab",
+        "start": 72.423,
+        "end": 72.563
+      },
+      {
+        "text": "mich",
+        "start": 72.583,
+        "end": 72.723
+      },
+      {
+        "text": "von",
+        "start": 72.743,
+        "end": 72.863
+      },
+      {
+        "text": "ihr",
+        "start": 72.903,
+        "end": 73.023
+      },
+      {
+        "text": "provozieren",
+        "start": 73.043,
+        "end": 73.584
+      },
+      {
+        "text": "lassen!",
+        "start": 73.624,
+        "end": 80.95
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Wer hat denn was von einem Kuss auf den Mund gesagt?",
+    "start": 80.99,
+    "end": 83.853,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 80.99,
+        "end": 81.391
+      },
+      {
+        "text": "hat",
+        "start": 81.451,
+        "end": 81.691
+      },
+      {
+        "text": "denn",
+        "start": 81.711,
+        "end": 81.871
+      },
+      {
+        "text": "was",
+        "start": 81.891,
+        "end": 82.071
+      },
+      {
+        "text": "von",
+        "start": 82.091,
+        "end": 82.251
+      },
+      {
+        "text": "einem",
+        "start": 82.291,
+        "end": 82.532
+      },
+      {
+        "text": "Kuss",
+        "start": 82.572,
+        "end": 82.792
+      },
+      {
+        "text": "auf",
+        "start": 82.832,
+        "end": 82.952
+      },
+      {
+        "text": "den",
+        "start": 82.972,
+        "end": 83.132
+      },
+      {
+        "text": "Mund",
+        "start": 83.172,
+        "end": 83.492
+      },
+      {
+        "text": "gesagt?",
+        "start": 83.532,
+        "end": 83.853
+      }
+    ]
+  }
+]

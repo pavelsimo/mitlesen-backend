@@ -2,72 +2,80 @@
 import os
 import sys
 import subprocess
-import logging
 import csv
-from typing import List, Dict, Any, Optional, Union, Tuple
+from typing import List, Dict
 
+# TODO(Pavel): move this
 from db import MitLesenDatabase  # Import the database class
+from mitlesen.logger import logger
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(),
-        logging.FileHandler('pipeline.log')
-    ]
-)
-logger = logging.getLogger(__name__)
+
 
 # Define data directory and CSV file
 DATA_DIR = "data"
 VIDEOS_CSV = "videos.csv"
-CUDA_LIBRARY_PATH =  "/home/ubuntu/.virtualenvs/mitlesen-backend/lib/python3.12/site-packages/nvidia/cudnn/lib/"
+CUDA_LIBRARY_PATH = "/home/ubuntu/.virtualenvs/mitlesen-backend/lib/python3.12/site-packages/nvidia/cudnn/lib/"
 
 def ensure_data_dir():
     """Ensure data directory exists."""
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
-        logger.info(f"Created data directory: {DATA_DIR}")
+        logger.info(f"📁 Created data directory: {DATA_DIR}")
+    else:
+        logger.info(f"📁 Using existing data directory: {DATA_DIR}")
 
 def read_videos_from_csv() -> List[Dict[str, str]]:
     """Read videos from the CSV file."""
+    if not os.path.exists(VIDEOS_CSV):
+        logger.error(f"❌ CSV file not found: {VIDEOS_CSV}")
+        return []
+        
     videos = []
     with open(VIDEOS_CSV, 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             videos.append(row)
     
-    logger.info(f"Read {len(videos)} videos from {VIDEOS_CSV}")
+    logger.info(f"📋 Read {len(videos)} videos from {VIDEOS_CSV}")
     return videos
 
 def video_exists_in_database(youtube_id: str) -> bool:
     """Check if a video already exists in the Supabase database."""
+    logger.info(f"🔍 Checking if video exists in database: {youtube_id}")
     db = MitLesenDatabase()
     exists = db.video_exists(youtube_id)
     db.close()
+    
+    if exists:
+        logger.info(f"✅ Video already exists in database: {youtube_id}")
+    else:
+        logger.info(f"🆕 Video not found in database: {youtube_id}")
+    
     return exists
 
 def run_command(cmd: List[str], step_name: str) -> bool:
     """Run a command and return whether it succeeded."""
     cmd_str = " ".join(cmd)
-    logger.info(f"Running {step_name}: {cmd_str}")
+    logger.info(f"⚙️ Running {step_name}: {cmd_str}")
     
     try:
         result = subprocess.run(cmd, check=True, text=True, capture_output=True)
-        logger.info(f"{step_name} completed successfully")
+        logger.info(f"✅ {step_name} completed successfully")
+        if result.stdout:
+            logger.debug(f"📄 {step_name} output: {result.stdout}")
         return True
     except subprocess.CalledProcessError as e:
-        logger.error(f"{step_name} failed with exit code {e.returncode}")
-        logger.error(f"Command output: {e.stdout}")
-        logger.error(f"Command error: {e.stderr}")
+        logger.error(f"❌ {step_name} failed with exit code {e.returncode}")
+        logger.error(f"❌ Command output: {e.stdout}")
+        logger.error(f"❌ Command error: {e.stderr}")
         return False
     except Exception as e:
-        logger.error(f"{step_name} failed with exception: {str(e)}")
+        logger.error(f"❌ {step_name} failed with exception: {str(e)}")
         return False
 
 def download_audio(youtube_id: str) -> bool:
     """Step 1: Download audio from YouTube."""
+    logger.info(f"🎵 Starting Step 1: Download audio for {youtube_id}")
     audio_file = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
     
     if os.path.exists(audio_file):
@@ -75,18 +83,27 @@ def download_audio(youtube_id: str) -> bool:
         return True
     
     cmd = [sys.executable, "1_download_youtube_audio.py", youtube_id, DATA_DIR]
-    return run_command(cmd, "Audio download")
+    result = run_command(cmd, "Audio download")
+    
+    if result:
+        logger.info(f"✅ Step 1 completed: Audio downloaded for {youtube_id}")
+    else:
+        logger.error(f"❌ Step 1 failed: Audio download failed for {youtube_id}")
+    
+    return result
 
 def generate_transcript(youtube_id: str) -> bool:
     """Step 2: Generate transcript from audio."""
+    logger.info(f"🔊 Starting Step 2: Generate transcript for {youtube_id}")
     audio_file = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
     if not os.path.exists(audio_file):
-        logger.error(f"Audio file not found: {audio_file}")
+        logger.error(f"❌ Audio file not found: {audio_file}")
         return False
     
     # Set the required environment variable for CUDA libraries
     env = os.environ.copy()
     env["LD_LIBRARY_PATH"] = CUDA_LIBRARY_PATH
+    
     # Check if transcript file already exists
     transcript_file = os.path.join(DATA_DIR, f"{youtube_id}.json")
     if os.path.exists(transcript_file):
@@ -103,24 +120,27 @@ def generate_transcript(youtube_id: str) -> bool:
     
     # Pass the environment to the subprocess
     try:
-        logger.info(f"Running Transcript generation: {' '.join(cmd)}")
+        logger.info(f"⚙️ Running Transcript generation: {' '.join(cmd)}")
         result = subprocess.run(cmd, check=True, text=True, capture_output=True, env=env)
-        logger.info("Transcript generation completed successfully")
+        logger.info("✅ Step 2 completed: Transcript generation successful")
+        if result.stdout:
+            logger.debug(f"📄 Transcript generation output: {result.stdout}")
         return True
     except subprocess.CalledProcessError as e:
-        logger.error(f"Transcript generation failed with exit code {e.returncode}")
-        logger.error(f"Command output: {e.stdout}")
-        logger.error(f"Command error: {e.stderr}")
+        logger.error(f"❌ Step 2 failed: Transcript generation failed with exit code {e.returncode}")
+        logger.error(f"❌ Command output: {e.stdout}")
+        logger.error(f"❌ Command error: {e.stderr}")
         return False
     except Exception as e:
-        logger.error(f"Transcript generation failed with exception: {str(e)}")
+        logger.error(f"❌ Step 2 failed: Transcript generation failed with exception: {str(e)}")
         return False
-    
+
 def process_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
     """Step 3: Process transcript and upload to database."""
+    logger.info(f"📝 Starting Step 3: Process transcript and upload for {youtube_id}")
     transcript_file = os.path.join(DATA_DIR, f"{youtube_id}.json")
     if not os.path.exists(transcript_file):
-        logger.error(f"Transcript file not found: {transcript_file}")
+        logger.error(f"❌ Transcript file not found: {transcript_file}")
         return False
     
     cmd = [
@@ -130,7 +150,14 @@ def process_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
         "--title", title, 
         "--is_premium", is_premium
     ]
-    return run_command(cmd, "Transcript processing and upload")
+    result = run_command(cmd, "Transcript processing and upload")
+    
+    if result:
+        logger.info(f"✅ Step 3 completed: Transcript processed and uploaded for {youtube_id}")
+    else:
+        logger.error(f"❌ Step 3 failed: Transcript processing failed for {youtube_id}")
+    
+    return result
 
 def process_video(video: Dict[str, str]) -> bool:
     """Process a single video through the entire pipeline."""
@@ -140,40 +167,50 @@ def process_video(video: Dict[str, str]) -> bool:
     
     # Check if video already exists in database
     if video_exists_in_database(youtube_id):
-        logger.info(f"Skipping video as it already exists in database: {youtube_id}")
+        logger.info(f"⏭️ Skipping video as it already exists in database: {youtube_id}")
         return True
     
-    logger.info(f"Starting pipeline for video: {title} ({youtube_id})")
+    logger.info(f"🎬 Starting pipeline for video: {title} ({youtube_id})")
     
     # Step 1: Download audio
     if not download_audio(youtube_id):
-        logger.error(f"Pipeline failed at step 1 for video: {youtube_id}")
+        logger.error(f"❌ Pipeline failed at step 1 for video: {youtube_id}")
         return False
     
     # Step 2: Generate transcript
     if not generate_transcript(youtube_id):
-        logger.error(f"Pipeline failed at step 2 for video: {youtube_id}")
+        logger.error(f"❌ Pipeline failed at step 2 for video: {youtube_id}")
         return False
     
     # Step 3: Process transcript and upload
     if not process_transcript(youtube_id, title, is_premium):
-        logger.error(f"Pipeline failed at step 3 for video: {youtube_id}")
+        logger.error(f"❌ Pipeline failed at step 3 for video: {youtube_id}")
         return False
     
-    logger.info(f"Pipeline completed successfully for video: {youtube_id}")
+    logger.info(f"🏁 Pipeline completed successfully for video: {youtube_id}")
     return True
 
 def main():
     """Main function to process all videos."""
+    logger.info("🚀 ===== Starting Video Processing Pipeline =====")
     ensure_data_dir()
     videos = read_videos_from_csv()
+    
+    if not videos:
+        logger.error(f"❌ No videos found in CSV file: {VIDEOS_CSV}")
+        return
     
     successful = 0
     failed = 0
     skipped = 0
-    for video in videos:
+    
+    logger.info(f"📋 Found {len(videos)} videos to process")
+    
+    for i, video in enumerate(videos, 1):
+        logger.info(f"🎬 Processing video {i}/{len(videos)}: {video['youtube_id']} - {video['title']}")
+        
         if video_exists_in_database(video["youtube_id"]):
-            logger.info(f"Skipping video already in database: {video['youtube_id']} - {video['title']}")
+            logger.info(f"⏭️ Skipping video already in database: {video['youtube_id']} - {video['title']}")
             skipped += 1
             continue
             
@@ -182,7 +219,12 @@ def main():
         else:
             failed += 1
     
-    logger.info(f"Pipeline completed. Successful: {successful}, Failed: {failed}, Skipped: {skipped}")
+    logger.info("📊 ===== Pipeline Summary =====")
+    logger.info(f"📈 Total videos: {len(videos)}")
+    logger.info(f"✅ Successful: {successful}")
+    logger.info(f"❌ Failed: {failed}")
+    logger.info(f"⏭️ Skipped: {skipped}")
+    logger.info("🏁 ===== Pipeline Completed =====")
 
 if __name__ == "__main__":
     main() 

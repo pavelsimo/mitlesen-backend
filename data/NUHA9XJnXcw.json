@@ -1,0 +1,1197 @@
+[
+  {
+    "id": 0,
+    "text": " Gut, sehr gut.",
+    "start": 2.039,
+    "end": 3.6,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 2.039,
+        "end": 2.9
+      },
+      {
+        "text": "sehr",
+        "start": 2.94,
+        "end": 3.12
+      },
+      {
+        "text": "gut.",
+        "start": 3.16,
+        "end": 3.6
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wir haben sie alle abgewimmelt.",
+    "start": 3.64,
+    "end": 5.982,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 3.64,
+        "end": 3.78
+      },
+      {
+        "text": "haben",
+        "start": 3.8,
+        "end": 4.02
+      },
+      {
+        "text": "sie",
+        "start": 4.04,
+        "end": 4.18
+      },
+      {
+        "text": "alle",
+        "start": 4.2,
+        "end": 4.421
+      },
+      {
+        "text": "abgewimmelt.",
+        "start": 4.461,
+        "end": 5.982
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Woher wusste er das?",
+    "start": 12.206,
+    "end": 17.649,
+    "words": [
+      {
+        "text": "Woher",
+        "start": 12.206,
+        "end": 12.726
+      },
+      {
+        "text": "wusste",
+        "start": 12.766,
+        "end": 13.206
+      },
+      {
+        "text": "er",
+        "start": 13.246,
+        "end": 13.387
+      },
+      {
+        "text": "das?",
+        "start": 13.427,
+        "end": 17.649
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Bei dem Strength-Beat hätte ich nicht erwartet, dass der Kerl so ein meisterhafter Stratege ist.",
+    "start": 17.689,
+    "end": 21.692,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 17.689,
+        "end": 17.829
+      },
+      {
+        "text": "dem",
+        "start": 17.87,
+        "end": 18.05
+      },
+      {
+        "text": "Strength-Beat",
+        "start": 18.07,
+        "end": 18.61
+      },
+      {
+        "text": "hätte",
+        "start": 18.63,
+        "end": 18.79
+      },
+      {
+        "text": "ich",
+        "start": 18.81,
+        "end": 18.95
+      },
+      {
+        "text": "nicht",
+        "start": 18.97,
+        "end": 19.13
+      },
+      {
+        "text": "erwartet,",
+        "start": 19.17,
+        "end": 19.511
+      },
+      {
+        "text": "dass",
+        "start": 19.531,
+        "end": 19.691
+      },
+      {
+        "text": "der",
+        "start": 19.711,
+        "end": 19.811
+      },
+      {
+        "text": "Kerl",
+        "start": 19.851,
+        "end": 20.031
+      },
+      {
+        "text": "so",
+        "start": 20.051,
+        "end": 20.191
+      },
+      {
+        "text": "ein",
+        "start": 20.231,
+        "end": 20.371
+      },
+      {
+        "text": "meisterhafter",
+        "start": 20.391,
+        "end": 20.952
+      },
+      {
+        "text": "Stratege",
+        "start": 20.972,
+        "end": 21.532
+      },
+      {
+        "text": "ist.",
+        "start": 21.612,
+        "end": 21.692
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Hä?",
+    "start": 26.035,
+    "end": 27.076,
+    "words": [
+      {
+        "text": "Hä?",
+        "start": 26.035,
+        "end": 27.076
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Eine Freundschaftsanfrage?",
+    "start": 27.116,
+    "end": 28.677,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 27.116,
+        "end": 27.376
+      },
+      {
+        "text": "Freundschaftsanfrage?",
+        "start": 27.436,
+        "end": 28.677
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Es würde mich sehr freuen, wenn wir Freunde sein könnten.",
+    "start": 31.725,
+    "end": 39.051,
+    "words": [
+      {
+        "text": "Es",
+        "start": 31.725,
+        "end": 31.865
+      },
+      {
+        "text": "würde",
+        "start": 31.905,
+        "end": 32.265
+      },
+      {
+        "text": "mich",
+        "start": 32.366,
+        "end": 32.606
+      },
+      {
+        "text": "sehr",
+        "start": 32.666,
+        "end": 33.346
+      },
+      {
+        "text": "freuen,",
+        "start": 35.908,
+        "end": 37.409
+      },
+      {
+        "text": "wenn",
+        "start": 37.45,
+        "end": 37.55
+      },
+      {
+        "text": "wir",
+        "start": 37.87,
+        "end": 38.01
+      },
+      {
+        "text": "Freunde",
+        "start": 38.17,
+        "end": 38.63
+      },
+      {
+        "text": "sein",
+        "start": 38.65,
+        "end": 38.791
+      },
+      {
+        "text": "könnten.",
+        "start": 38.811,
+        "end": 39.051
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Was für eine sanfte Stimme.",
+    "start": 39.091,
+    "end": 40.852,
+    "words": [
+      {
+        "text": "Was",
+        "start": 39.091,
+        "end": 39.251
+      },
+      {
+        "text": "für",
+        "start": 39.291,
+        "end": 39.451
+      },
+      {
+        "text": "eine",
+        "start": 39.511,
+        "end": 39.711
+      },
+      {
+        "text": "sanfte",
+        "start": 39.751,
+        "end": 40.232
+      },
+      {
+        "text": "Stimme.",
+        "start": 40.292,
+        "end": 40.852
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Warte, ist das etwa eine Frau?",
+    "start": 40.872,
+    "end": 43.454,
+    "words": [
+      {
+        "text": "Warte,",
+        "start": 40.872,
+        "end": 41.693
+      },
+      {
+        "text": "ist",
+        "start": 41.733,
+        "end": 41.853
+      },
+      {
+        "text": "das",
+        "start": 41.873,
+        "end": 42.033
+      },
+      {
+        "text": "etwa",
+        "start": 42.073,
+        "end": 42.273
+      },
+      {
+        "text": "eine",
+        "start": 42.293,
+        "end": 42.514
+      },
+      {
+        "text": "Frau?",
+        "start": 42.554,
+        "end": 43.454
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "In Videospielen kann man andere Spieler in seine Freundesliste aufnehmen.",
+    "start": 43.514,
+    "end": 47.437,
+    "words": [
+      {
+        "text": "In",
+        "start": 43.514,
+        "end": 43.674
+      },
+      {
+        "text": "Videospielen",
+        "start": 43.694,
+        "end": 44.375
+      },
+      {
+        "text": "kann",
+        "start": 44.395,
+        "end": 44.535
+      },
+      {
+        "text": "man",
+        "start": 44.555,
+        "end": 44.735
+      },
+      {
+        "text": "andere",
+        "start": 44.775,
+        "end": 45.076
+      },
+      {
+        "text": "Spieler",
+        "start": 45.116,
+        "end": 45.456
+      },
+      {
+        "text": "in",
+        "start": 45.496,
+        "end": 45.596
+      },
+      {
+        "text": "seine",
+        "start": 45.636,
+        "end": 45.836
+      },
+      {
+        "text": "Freundesliste",
+        "start": 45.876,
+        "end": 46.617
+      },
+      {
+        "text": "aufnehmen.",
+        "start": 46.657,
+        "end": 47.437
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Manchmal nur aus dem Grund, dass man gerne mit ihnen spielt.",
+    "start": 47.457,
+    "end": 50.16,
+    "words": [
+      {
+        "text": "Manchmal",
+        "start": 47.457,
+        "end": 47.878
+      },
+      {
+        "text": "nur",
+        "start": 47.898,
+        "end": 48.018
+      },
+      {
+        "text": "aus",
+        "start": 48.058,
+        "end": 48.158
+      },
+      {
+        "text": "dem",
+        "start": 48.178,
+        "end": 48.298
+      },
+      {
+        "text": "Grund,",
+        "start": 48.318,
+        "end": 48.518
+      },
+      {
+        "text": "dass",
+        "start": 48.538,
+        "end": 48.698
+      },
+      {
+        "text": "man",
+        "start": 48.738,
+        "end": 48.879
+      },
+      {
+        "text": "gerne",
+        "start": 48.899,
+        "end": 49.099
+      },
+      {
+        "text": "mit",
+        "start": 49.139,
+        "end": 49.259
+      },
+      {
+        "text": "ihnen",
+        "start": 49.299,
+        "end": 49.479
+      },
+      {
+        "text": "spielt.",
+        "start": 49.519,
+        "end": 50.16
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Manchmal aber auch, weil man schon mit ihnen befreundet ist.",
+    "start": 50.18,
+    "end": 52.682,
+    "words": [
+      {
+        "text": "Manchmal",
+        "start": 50.18,
+        "end": 50.6
+      },
+      {
+        "text": "aber",
+        "start": 50.64,
+        "end": 50.8
+      },
+      {
+        "text": "auch,",
+        "start": 50.84,
+        "end": 51.0
+      },
+      {
+        "text": "weil",
+        "start": 51.02,
+        "end": 51.16
+      },
+      {
+        "text": "man",
+        "start": 51.18,
+        "end": 51.3
+      },
+      {
+        "text": "schon",
+        "start": 51.32,
+        "end": 51.501
+      },
+      {
+        "text": "mit",
+        "start": 51.521,
+        "end": 51.621
+      },
+      {
+        "text": "ihnen",
+        "start": 51.641,
+        "end": 51.821
+      },
+      {
+        "text": "befreundet",
+        "start": 51.841,
+        "end": 52.281
+      },
+      {
+        "text": "ist.",
+        "start": 52.341,
+        "end": 52.682
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Oder es zumindest gerne wäre.",
+    "start": 52.742,
+    "end": 54.723,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 52.742,
+        "end": 52.882
+      },
+      {
+        "text": "es",
+        "start": 52.902,
+        "end": 53.042
+      },
+      {
+        "text": "zumindest",
+        "start": 53.062,
+        "end": 53.422
+      },
+      {
+        "text": "gerne",
+        "start": 53.442,
+        "end": 53.682
+      },
+      {
+        "text": "wäre.",
+        "start": 53.722,
+        "end": 54.723
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Warum will sie mich auf einmal äden?",
+    "start": 54.803,
+    "end": 57.185,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 54.803,
+        "end": 55.023
+      },
+      {
+        "text": "will",
+        "start": 55.043,
+        "end": 55.183
+      },
+      {
+        "text": "sie",
+        "start": 55.224,
+        "end": 55.304
+      },
+      {
+        "text": "mich",
+        "start": 55.344,
+        "end": 55.464
+      },
+      {
+        "text": "auf",
+        "start": 55.504,
+        "end": 55.604
+      },
+      {
+        "text": "einmal",
+        "start": 55.664,
+        "end": 55.984
+      },
+      {
+        "text": "äden?",
+        "start": 56.044,
+        "end": 57.185
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Will sie mich ablenken und zuzuschlagen?",
+    "start": 57.205,
+    "end": 59.006,
+    "words": [
+      {
+        "text": "Will",
+        "start": 57.205,
+        "end": 57.385
+      },
+      {
+        "text": "sie",
+        "start": 57.405,
+        "end": 57.505
+      },
+      {
+        "text": "mich",
+        "start": 57.525,
+        "end": 57.685
+      },
+      {
+        "text": "ablenken",
+        "start": 57.725,
+        "end": 58.146
+      },
+      {
+        "text": "und",
+        "start": 58.186,
+        "end": 58.366
+      },
+      {
+        "text": "zuzuschlagen?",
+        "start": 58.386,
+        "end": 59.006
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Wenn das der Fall wäre, hätte sie mich schon längst gevierteilt.",
+    "start": 60.924,
+    "end": 63.967,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 60.924,
+        "end": 61.084
+      },
+      {
+        "text": "das",
+        "start": 61.104,
+        "end": 61.244
+      },
+      {
+        "text": "der",
+        "start": 61.264,
+        "end": 61.344
+      },
+      {
+        "text": "Fall",
+        "start": 61.385,
+        "end": 61.525
+      },
+      {
+        "text": "wäre,",
+        "start": 61.545,
+        "end": 61.765
+      },
+      {
+        "text": "hätte",
+        "start": 61.785,
+        "end": 61.965
+      },
+      {
+        "text": "sie",
+        "start": 62.005,
+        "end": 62.085
+      },
+      {
+        "text": "mich",
+        "start": 62.105,
+        "end": 62.205
+      },
+      {
+        "text": "schon",
+        "start": 62.245,
+        "end": 62.405
+      },
+      {
+        "text": "längst",
+        "start": 62.425,
+        "end": 62.686
+      },
+      {
+        "text": "gevierteilt.",
+        "start": 62.706,
+        "end": 63.967
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Sie tut nur so, als ob sie befreundet sein will.",
+    "start": 64.007,
+    "end": 66.649,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 64.007,
+        "end": 64.227
+      },
+      {
+        "text": "tut",
+        "start": 64.267,
+        "end": 64.487
+      },
+      {
+        "text": "nur",
+        "start": 64.507,
+        "end": 64.707
+      },
+      {
+        "text": "so,",
+        "start": 64.747,
+        "end": 64.888
+      },
+      {
+        "text": "als",
+        "start": 64.928,
+        "end": 65.088
+      },
+      {
+        "text": "ob",
+        "start": 65.128,
+        "end": 65.228
+      },
+      {
+        "text": "sie",
+        "start": 65.268,
+        "end": 65.388
+      },
+      {
+        "text": "befreundet",
+        "start": 65.428,
+        "end": 65.948
+      },
+      {
+        "text": "sein",
+        "start": 65.988,
+        "end": 66.189
+      },
+      {
+        "text": "will.",
+        "start": 66.229,
+        "end": 66.649
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "In Wahrheit will sie sich einschleimen, damit ich die Infos über mein einzigartiges Szenario preisgebe.",
+    "start": 66.689,
+    "end": 70.973,
+    "words": [
+      {
+        "text": "In",
+        "start": 66.689,
+        "end": 66.869
+      },
+      {
+        "text": "Wahrheit",
+        "start": 66.889,
+        "end": 67.23
+      },
+      {
+        "text": "will",
+        "start": 67.27,
+        "end": 67.41
+      },
+      {
+        "text": "sie",
+        "start": 67.45,
+        "end": 67.55
+      },
+      {
+        "text": "sich",
+        "start": 67.59,
+        "end": 67.75
+      },
+      {
+        "text": "einschleimen,",
+        "start": 67.77,
+        "end": 68.17
+      },
+      {
+        "text": "damit",
+        "start": 68.21,
+        "end": 68.411
+      },
+      {
+        "text": "ich",
+        "start": 68.451,
+        "end": 68.571
+      },
+      {
+        "text": "die",
+        "start": 68.591,
+        "end": 68.651
+      },
+      {
+        "text": "Infos",
+        "start": 68.691,
+        "end": 68.971
+      },
+      {
+        "text": "über",
+        "start": 68.991,
+        "end": 69.151
+      },
+      {
+        "text": "mein",
+        "start": 69.191,
+        "end": 69.311
+      },
+      {
+        "text": "einzigartiges",
+        "start": 69.351,
+        "end": 69.952
+      },
+      {
+        "text": "Szenario",
+        "start": 69.992,
+        "end": 70.432
+      },
+      {
+        "text": "preisgebe.",
+        "start": 70.472,
+        "end": 70.973
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Saiga Zero, du hast nicht nur meine Finte durchschaut, sondern sogar mein wahres Ziel geschlussfolgert.",
+    "start": 75.096,
+    "end": 80.681,
+    "words": [
+      {
+        "text": "Saiga",
+        "start": 75.096,
+        "end": 75.597
+      },
+      {
+        "text": "Zero,",
+        "start": 75.657,
+        "end": 76.397
+      },
+      {
+        "text": "du",
+        "start": 76.417,
+        "end": 76.537
+      },
+      {
+        "text": "hast",
+        "start": 76.557,
+        "end": 76.818
+      },
+      {
+        "text": "nicht",
+        "start": 76.838,
+        "end": 76.998
+      },
+      {
+        "text": "nur",
+        "start": 77.018,
+        "end": 77.178
+      },
+      {
+        "text": "meine",
+        "start": 77.198,
+        "end": 77.418
+      },
+      {
+        "text": "Finte",
+        "start": 77.458,
+        "end": 77.718
+      },
+      {
+        "text": "durchschaut,",
+        "start": 77.738,
+        "end": 78.159
+      },
+      {
+        "text": "sondern",
+        "start": 78.179,
+        "end": 78.479
+      },
+      {
+        "text": "sogar",
+        "start": 78.519,
+        "end": 78.779
+      },
+      {
+        "text": "mein",
+        "start": 78.799,
+        "end": 78.98
+      },
+      {
+        "text": "wahres",
+        "start": 79.02,
+        "end": 79.32
+      },
+      {
+        "text": "Ziel",
+        "start": 79.36,
+        "end": 79.56
+      },
+      {
+        "text": "geschlussfolgert.",
+        "start": 79.58,
+        "end": 80.681
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Es gibt nur eine Handvoll Menschen, die so scharfsinnig sind.",
+    "start": 80.761,
+    "end": 83.864,
+    "words": [
+      {
+        "text": "Es",
+        "start": 80.761,
+        "end": 80.861
+      },
+      {
+        "text": "gibt",
+        "start": 80.901,
+        "end": 81.141
+      },
+      {
+        "text": "nur",
+        "start": 81.161,
+        "end": 81.342
+      },
+      {
+        "text": "eine",
+        "start": 81.382,
+        "end": 81.582
+      },
+      {
+        "text": "Handvoll",
+        "start": 81.622,
+        "end": 82.022
+      },
+      {
+        "text": "Menschen,",
+        "start": 82.042,
+        "end": 82.382
+      },
+      {
+        "text": "die",
+        "start": 82.402,
+        "end": 82.603
+      },
+      {
+        "text": "so",
+        "start": 82.643,
+        "end": 82.803
+      },
+      {
+        "text": "scharfsinnig",
+        "start": 82.823,
+        "end": 83.403
+      },
+      {
+        "text": "sind.",
+        "start": 83.423,
+        "end": 83.864
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Was hast du nur vor?",
+    "start": 83.924,
+    "end": 85.105,
+    "words": [
+      {
+        "text": "Was",
+        "start": 83.924,
+        "end": 84.164
+      },
+      {
+        "text": "hast",
+        "start": 84.184,
+        "end": 84.444
+      },
+      {
+        "text": "du",
+        "start": 84.484,
+        "end": 84.664
+      },
+      {
+        "text": "nur",
+        "start": 84.704,
+        "end": 84.945
+      },
+      {
+        "text": "vor?",
+        "start": 84.985,
+        "end": 85.105
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Was es auch sein mag, ich bin ein Gamer, der sich bisher jedem Gegner gestellt hat.",
+    "start": 87.215,
+    "end": 90.838,
+    "words": [
+      {
+        "text": "Was",
+        "start": 87.215,
+        "end": 87.315
+      },
+      {
+        "text": "es",
+        "start": 87.375,
+        "end": 87.475
+      },
+      {
+        "text": "auch",
+        "start": 87.495,
+        "end": 87.635
+      },
+      {
+        "text": "sein",
+        "start": 87.675,
+        "end": 87.856
+      },
+      {
+        "text": "mag,",
+        "start": 87.876,
+        "end": 88.076
+      },
+      {
+        "text": "ich",
+        "start": 88.116,
+        "end": 88.216
+      },
+      {
+        "text": "bin",
+        "start": 88.236,
+        "end": 88.376
+      },
+      {
+        "text": "ein",
+        "start": 88.396,
+        "end": 88.516
+      },
+      {
+        "text": "Gamer,",
+        "start": 88.556,
+        "end": 88.796
+      },
+      {
+        "text": "der",
+        "start": 88.816,
+        "end": 88.956
+      },
+      {
+        "text": "sich",
+        "start": 88.976,
+        "end": 89.116
+      },
+      {
+        "text": "bisher",
+        "start": 89.156,
+        "end": 89.417
+      },
+      {
+        "text": "jedem",
+        "start": 89.457,
+        "end": 89.677
+      },
+      {
+        "text": "Gegner",
+        "start": 89.717,
+        "end": 90.037
+      },
+      {
+        "text": "gestellt",
+        "start": 90.077,
+        "end": 90.377
+      },
+      {
+        "text": "hat.",
+        "start": 90.417,
+        "end": 90.838
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ich nehme deine Herausforderung an.",
+    "start": 90.898,
+    "end": 96.802,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 90.898,
+        "end": 91.118
+      },
+      {
+        "text": "nehme",
+        "start": 91.138,
+        "end": 91.398
+      },
+      {
+        "text": "deine",
+        "start": 91.418,
+        "end": 91.698
+      },
+      {
+        "text": "Herausforderung",
+        "start": 91.718,
+        "end": 92.499
+      },
+      {
+        "text": "an.",
+        "start": 92.539,
+        "end": 96.802
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ich folge deinem Zug, werde dich aber dennoch übertrumpfen.",
+    "start": 96.842,
+    "end": 100.304,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 96.842,
+        "end": 97.022
+      },
+      {
+        "text": "folge",
+        "start": 97.062,
+        "end": 97.362
+      },
+      {
+        "text": "deinem",
+        "start": 97.402,
+        "end": 97.662
+      },
+      {
+        "text": "Zug,",
+        "start": 97.762,
+        "end": 98.423
+      },
+      {
+        "text": "werde",
+        "start": 98.463,
+        "end": 98.803
+      },
+      {
+        "text": "dich",
+        "start": 98.823,
+        "end": 98.943
+      },
+      {
+        "text": "aber",
+        "start": 99.003,
+        "end": 99.304
+      },
+      {
+        "text": "dennoch",
+        "start": 99.324,
+        "end": 99.684
+      },
+      {
+        "text": "übertrumpfen.",
+        "start": 99.724,
+        "end": 100.304
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ich hab's geschafft!",
+    "start": 103.587,
+    "end": 110.712,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 103.587,
+        "end": 109.05
+      },
+      {
+        "text": "hab's",
+        "start": 109.07,
+        "end": 109.371
+      },
+      {
+        "text": "geschafft!",
+        "start": 109.411,
+        "end": 110.712
+      }
+    ]
+  }
+]

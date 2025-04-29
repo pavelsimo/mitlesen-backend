@@ -1,0 +1,439 @@
+[
+  {
+    "id": 0,
+    "text": " verfügen ein paar wenige womöglich doch über ein Mindestmaß an Eleganz.",
+    "start": 0.591,
+    "end": 6.114,
+    "words": [
+      {
+        "text": "verfügen",
+        "start": 0.591,
+        "end": 0.851
+      },
+      {
+        "text": "ein",
+        "start": 0.891,
+        "end": 1.011
+      },
+      {
+        "text": "paar",
+        "start": 1.051,
+        "end": 1.192
+      },
+      {
+        "text": "wenige",
+        "start": 1.212,
+        "end": 1.492
+      },
+      {
+        "text": "womöglich",
+        "start": 1.532,
+        "end": 2.052
+      },
+      {
+        "text": "doch",
+        "start": 2.092,
+        "end": 2.292
+      },
+      {
+        "text": "über",
+        "start": 2.332,
+        "end": 2.472
+      },
+      {
+        "text": "ein",
+        "start": 2.512,
+        "end": 2.632
+      },
+      {
+        "text": "Mindestmaß",
+        "start": 2.652,
+        "end": 3.212
+      },
+      {
+        "text": "an",
+        "start": 3.252,
+        "end": 3.392
+      },
+      {
+        "text": "Eleganz.",
+        "start": 3.412,
+        "end": 6.114
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sie erweisen dem Denkmal unseres Gründers ihren Respekt?",
+    "start": 6.134,
+    "end": 9.535,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 6.134,
+        "end": 6.294
+      },
+      {
+        "text": "erweisen",
+        "start": 6.334,
+        "end": 6.674
+      },
+      {
+        "text": "dem",
+        "start": 6.694,
+        "end": 6.834
+      },
+      {
+        "text": "Denkmal",
+        "start": 6.874,
+        "end": 7.274
+      },
+      {
+        "text": "unseres",
+        "start": 7.314,
+        "end": 7.634
+      },
+      {
+        "text": "Gründers",
+        "start": 7.654,
+        "end": 8.075
+      },
+      {
+        "text": "ihren",
+        "start": 8.115,
+        "end": 8.315
+      },
+      {
+        "text": "Respekt?",
+        "start": 8.355,
+        "end": 9.535
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich bin Twilight mit den 100 Gesichtern.",
+    "start": 9.575,
+    "end": 11.996,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 9.575,
+        "end": 9.655
+      },
+      {
+        "text": "bin",
+        "start": 9.695,
+        "end": 9.835
+      },
+      {
+        "text": "Twilight",
+        "start": 9.855,
+        "end": 10.235
+      },
+      {
+        "text": "mit",
+        "start": 10.396,
+        "end": 10.496
+      },
+      {
+        "text": "den",
+        "start": 10.696,
+        "end": 10.856
+      },
+      {
+        "text": "Gesichtern.",
+        "start": 10.896,
+        "end": 11.996
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Den Vorstellungen meiner Zielpersonen zu entsprechen, ist mein tägliches Brot.",
+    "start": 12.016,
+    "end": 14.817,
+    "words": [
+      {
+        "text": "Den",
+        "start": 12.016,
+        "end": 12.176
+      },
+      {
+        "text": "Vorstellungen",
+        "start": 12.196,
+        "end": 12.697
+      },
+      {
+        "text": "meiner",
+        "start": 12.737,
+        "end": 12.917
+      },
+      {
+        "text": "Zielpersonen",
+        "start": 12.957,
+        "end": 13.477
+      },
+      {
+        "text": "zu",
+        "start": 13.497,
+        "end": 13.597
+      },
+      {
+        "text": "entsprechen,",
+        "start": 13.637,
+        "end": 13.977
+      },
+      {
+        "text": "ist",
+        "start": 14.037,
+        "end": 14.137
+      },
+      {
+        "text": "mein",
+        "start": 14.177,
+        "end": 14.297
+      },
+      {
+        "text": "tägliches",
+        "start": 14.317,
+        "end": 14.617
+      },
+      {
+        "text": "Brot.",
+        "start": 14.637,
+        "end": 14.817
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Na, wie findet ihr das?",
+    "start": 15.098,
+    "end": 17.098,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 15.098,
+        "end": 15.558
+      },
+      {
+        "text": "wie",
+        "start": 15.578,
+        "end": 15.718
+      },
+      {
+        "text": "findet",
+        "start": 15.738,
+        "end": 15.958
+      },
+      {
+        "text": "ihr",
+        "start": 15.998,
+        "end": 16.058
+      },
+      {
+        "text": "das?",
+        "start": 16.078,
+        "end": 17.098
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich hab keine Ahnung, wen diese Statue darstellen soll, aber wenn ich einfach das tue, was Leute macht, dann sollte alles gut gehen.",
+    "start": 17.158,
+    "end": 22.661,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 17.158,
+        "end": 17.239
+      },
+      {
+        "text": "hab",
+        "start": 17.279,
+        "end": 17.439
+      },
+      {
+        "text": "keine",
+        "start": 17.499,
+        "end": 17.799
+      },
+      {
+        "text": "Ahnung,",
+        "start": 17.819,
+        "end": 18.059
+      },
+      {
+        "text": "wen",
+        "start": 18.099,
+        "end": 18.239
+      },
+      {
+        "text": "diese",
+        "start": 18.279,
+        "end": 18.499
+      },
+      {
+        "text": "Statue",
+        "start": 18.519,
+        "end": 18.859
+      },
+      {
+        "text": "darstellen",
+        "start": 18.879,
+        "end": 19.339
+      },
+      {
+        "text": "soll,",
+        "start": 19.359,
+        "end": 19.52
+      },
+      {
+        "text": "aber",
+        "start": 19.56,
+        "end": 19.76
+      },
+      {
+        "text": "wenn",
+        "start": 19.78,
+        "end": 19.9
+      },
+      {
+        "text": "ich",
+        "start": 19.94,
+        "end": 20.04
+      },
+      {
+        "text": "einfach",
+        "start": 20.08,
+        "end": 20.36
+      },
+      {
+        "text": "das",
+        "start": 20.4,
+        "end": 20.56
+      },
+      {
+        "text": "tue,",
+        "start": 20.6,
+        "end": 20.82
+      },
+      {
+        "text": "was",
+        "start": 20.86,
+        "end": 21.0
+      },
+      {
+        "text": "Leute",
+        "start": 21.04,
+        "end": 21.24
+      },
+      {
+        "text": "macht,",
+        "start": 21.26,
+        "end": 21.46
+      },
+      {
+        "text": "dann",
+        "start": 21.48,
+        "end": 21.6
+      },
+      {
+        "text": "sollte",
+        "start": 21.64,
+        "end": 21.921
+      },
+      {
+        "text": "alles",
+        "start": 21.961,
+        "end": 22.201
+      },
+      {
+        "text": "gut",
+        "start": 22.221,
+        "end": 22.421
+      },
+      {
+        "text": "gehen.",
+        "start": 22.461,
+        "end": 22.661
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Glatzen, Opa!",
+    "start": 22.681,
+    "end": 24.041,
+    "words": [
+      {
+        "text": "Glatzen,",
+        "start": 22.681,
+        "end": 23.801
+      },
+      {
+        "text": "Opa!",
+        "start": 23.861,
+        "end": 24.041
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Wie, wie überaus elegant.",
+    "start": 26.241,
+    "end": 28.99,
+    "words": [
+      {
+        "text": "Wie,",
+        "start": 26.241,
+        "end": 27.004
+      },
+      {
+        "text": "wie",
+        "start": 27.044,
+        "end": 27.385
+      },
+      {
+        "text": "überaus",
+        "start": 27.445,
+        "end": 27.786
+      },
+      {
+        "text": "elegant.",
+        "start": 27.947,
+        "end": 28.99
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Höchst elegant, oh ja",
+    "start": 29.03,
+    "end": 30.255,
+    "words": [
+      {
+        "text": "Höchst",
+        "start": 29.03,
+        "end": 29.372
+      },
+      {
+        "text": "elegant,",
+        "start": 29.412,
+        "end": 29.853
+      },
+      {
+        "text": "oh",
+        "start": 29.934,
+        "end": 30.134
+      },
+      {
+        "text": "ja",
+        "start": 30.174,
+        "end": 30.255
+      }
+    ]
+  }
+]

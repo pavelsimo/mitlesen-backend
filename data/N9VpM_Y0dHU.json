@@ -1,0 +1,1884 @@
+[
+  {
+    "id": 0,
+    "text": " Hey, ist was?",
+    "start": 0.031,
+    "end": 1.752,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 0.031,
+        "end": 0.171
+      },
+      {
+        "text": "ist",
+        "start": 0.331,
+        "end": 0.911
+      },
+      {
+        "text": "was?",
+        "start": 1.131,
+        "end": 1.752
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Pencil Girl, Lady Tua mag ein Star sein, aber sie hat trotzdem ein Privatleben.",
+    "start": 1.772,
+    "end": 6.033,
+    "words": [
+      {
+        "text": "Pencil",
+        "start": 1.772,
+        "end": 2.112
+      },
+      {
+        "text": "Girl,",
+        "start": 2.152,
+        "end": 2.812
+      },
+      {
+        "text": "Lady",
+        "start": 2.852,
+        "end": 3.152
+      },
+      {
+        "text": "Tua",
+        "start": 3.172,
+        "end": 3.432
+      },
+      {
+        "text": "mag",
+        "start": 3.452,
+        "end": 3.672
+      },
+      {
+        "text": "ein",
+        "start": 3.692,
+        "end": 3.832
+      },
+      {
+        "text": "Star",
+        "start": 3.852,
+        "end": 4.152
+      },
+      {
+        "text": "sein,",
+        "start": 4.193,
+        "end": 4.313
+      },
+      {
+        "text": "aber",
+        "start": 4.373,
+        "end": 4.593
+      },
+      {
+        "text": "sie",
+        "start": 4.613,
+        "end": 4.673
+      },
+      {
+        "text": "hat",
+        "start": 4.713,
+        "end": 4.853
+      },
+      {
+        "text": "trotzdem",
+        "start": 4.873,
+        "end": 5.193
+      },
+      {
+        "text": "ein",
+        "start": 5.233,
+        "end": 5.373
+      },
+      {
+        "text": "Privatleben.",
+        "start": 5.393,
+        "end": 6.033
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Gerade ihre Fans sollten keine unerlaubten Screenshots, äh, ich meine, Fotos von ihr machen.",
+    "start": 6.053,
+    "end": 9.654,
+    "words": [
+      {
+        "text": "Gerade",
+        "start": 6.053,
+        "end": 6.353
+      },
+      {
+        "text": "ihre",
+        "start": 6.373,
+        "end": 6.533
+      },
+      {
+        "text": "Fans",
+        "start": 6.573,
+        "end": 6.813
+      },
+      {
+        "text": "sollten",
+        "start": 6.833,
+        "end": 7.134
+      },
+      {
+        "text": "keine",
+        "start": 7.154,
+        "end": 7.334
+      },
+      {
+        "text": "unerlaubten",
+        "start": 7.374,
+        "end": 7.714
+      },
+      {
+        "text": "Screenshots,",
+        "start": 7.794,
+        "end": 8.254
+      },
+      {
+        "text": "äh,",
+        "start": 8.314,
+        "end": 8.474
+      },
+      {
+        "text": "ich",
+        "start": 8.514,
+        "end": 8.634
+      },
+      {
+        "text": "meine,",
+        "start": 8.654,
+        "end": 8.834
+      },
+      {
+        "text": "Fotos",
+        "start": 8.874,
+        "end": 9.134
+      },
+      {
+        "text": "von",
+        "start": 9.174,
+        "end": 9.294
+      },
+      {
+        "text": "ihr",
+        "start": 9.334,
+        "end": 9.434
+      },
+      {
+        "text": "machen.",
+        "start": 9.474,
+        "end": 9.654
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ja, da hast du natürlich recht.",
+    "start": 10.195,
+    "end": 12.015,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 10.195,
+        "end": 10.595
+      },
+      {
+        "text": "da",
+        "start": 10.615,
+        "end": 10.755
+      },
+      {
+        "text": "hast",
+        "start": 10.775,
+        "end": 10.895
+      },
+      {
+        "text": "du",
+        "start": 10.935,
+        "end": 11.055
+      },
+      {
+        "text": "natürlich",
+        "start": 11.075,
+        "end": 11.575
+      },
+      {
+        "text": "recht.",
+        "start": 11.615,
+        "end": 12.015
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Übrigens habe ich heute auch einen Model-Job.",
+    "start": 12.055,
+    "end": 14.416,
+    "words": [
+      {
+        "text": "Übrigens",
+        "start": 12.055,
+        "end": 12.516
+      },
+      {
+        "text": "habe",
+        "start": 12.536,
+        "end": 12.656
+      },
+      {
+        "text": "ich",
+        "start": 12.696,
+        "end": 12.796
+      },
+      {
+        "text": "heute",
+        "start": 12.816,
+        "end": 13.036
+      },
+      {
+        "text": "auch",
+        "start": 13.076,
+        "end": 13.216
+      },
+      {
+        "text": "einen",
+        "start": 13.256,
+        "end": 13.416
+      },
+      {
+        "text": "Model-Job.",
+        "start": 13.456,
+        "end": 14.416
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Echt jetzt?",
+    "start": 14.536,
+    "end": 15.237,
+    "words": [
+      {
+        "text": "Echt",
+        "start": 14.536,
+        "end": 14.756
+      },
+      {
+        "text": "jetzt?",
+        "start": 14.796,
+        "end": 15.237
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "So eine Amateur-Model-Sache?",
+    "start": 15.277,
+    "end": 16.917,
+    "words": [
+      {
+        "text": "So",
+        "start": 15.277,
+        "end": 15.357
+      },
+      {
+        "text": "eine",
+        "start": 15.377,
+        "end": 15.517
+      },
+      {
+        "text": "Amateur-Model-Sache?",
+        "start": 15.537,
+        "end": 16.917
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Schon sehr bald muss ich mich auch vor heimlichen Aufnahmen in Acht nehmen.",
+    "start": 16.957,
+    "end": 19.958,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 16.957,
+        "end": 17.177
+      },
+      {
+        "text": "sehr",
+        "start": 17.197,
+        "end": 17.397
+      },
+      {
+        "text": "bald",
+        "start": 17.417,
+        "end": 17.597
+      },
+      {
+        "text": "muss",
+        "start": 17.637,
+        "end": 17.757
+      },
+      {
+        "text": "ich",
+        "start": 17.817,
+        "end": 17.917
+      },
+      {
+        "text": "mich",
+        "start": 17.938,
+        "end": 18.098
+      },
+      {
+        "text": "auch",
+        "start": 18.138,
+        "end": 18.298
+      },
+      {
+        "text": "vor",
+        "start": 18.318,
+        "end": 18.438
+      },
+      {
+        "text": "heimlichen",
+        "start": 18.458,
+        "end": 18.878
+      },
+      {
+        "text": "Aufnahmen",
+        "start": 18.918,
+        "end": 19.278
+      },
+      {
+        "text": "in",
+        "start": 19.318,
+        "end": 19.438
+      },
+      {
+        "text": "Acht",
+        "start": 19.478,
+        "end": 19.718
+      },
+      {
+        "text": "nehmen.",
+        "start": 19.738,
+        "end": 19.958
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ah, ich werde Papa bitten, Werbung für mich zu machen.",
+    "start": 19.978,
+    "end": 22.239,
+    "words": [
+      {
+        "text": "Ah,",
+        "start": 19.978,
+        "end": 20.198
+      },
+      {
+        "text": "ich",
+        "start": 20.238,
+        "end": 20.358
+      },
+      {
+        "text": "werde",
+        "start": 20.398,
+        "end": 20.638
+      },
+      {
+        "text": "Papa",
+        "start": 20.658,
+        "end": 20.879
+      },
+      {
+        "text": "bitten,",
+        "start": 20.919,
+        "end": 21.139
+      },
+      {
+        "text": "Werbung",
+        "start": 21.179,
+        "end": 21.499
+      },
+      {
+        "text": "für",
+        "start": 21.519,
+        "end": 21.619
+      },
+      {
+        "text": "mich",
+        "start": 21.639,
+        "end": 21.819
+      },
+      {
+        "text": "zu",
+        "start": 21.839,
+        "end": 21.939
+      },
+      {
+        "text": "machen.",
+        "start": 21.979,
+        "end": 22.239
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ach, apropos, wo steckt der?",
+    "start": 23.139,
+    "end": 24.66,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 23.139,
+        "end": 23.279
+      },
+      {
+        "text": "apropos,",
+        "start": 23.359,
+        "end": 24.16
+      },
+      {
+        "text": "wo",
+        "start": 24.2,
+        "end": 24.28
+      },
+      {
+        "text": "steckt",
+        "start": 24.3,
+        "end": 24.52
+      },
+      {
+        "text": "der?",
+        "start": 24.54,
+        "end": 24.66
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Euer Vater ging gestern fischen und... Bin wieder da!",
+    "start": 25.2,
+    "end": 28.044,
+    "words": [
+      {
+        "text": "Euer",
+        "start": 25.2,
+        "end": 25.4
+      },
+      {
+        "text": "Vater",
+        "start": 25.42,
+        "end": 25.681
+      },
+      {
+        "text": "ging",
+        "start": 25.701,
+        "end": 25.861
+      },
+      {
+        "text": "gestern",
+        "start": 25.901,
+        "end": 26.201
+      },
+      {
+        "text": "fischen",
+        "start": 26.261,
+        "end": 26.602
+      },
+      {
+        "text": "und...",
+        "start": 26.642,
+        "end": 26.762
+      },
+      {
+        "text": "Bin",
+        "start": 26.802,
+        "end": 26.902
+      },
+      {
+        "text": "wieder",
+        "start": 26.942,
+        "end": 27.103
+      },
+      {
+        "text": "da!",
+        "start": 27.123,
+        "end": 28.044
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "...ist anscheinend gerade zurückgekommen.",
+    "start": 28.084,
+    "end": 30.106,
+    "words": [
+      {
+        "text": "...ist",
+        "start": 28.084,
+        "end": 28.224
+      },
+      {
+        "text": "anscheinend",
+        "start": 28.264,
+        "end": 28.765
+      },
+      {
+        "text": "gerade",
+        "start": 28.805,
+        "end": 29.105
+      },
+      {
+        "text": "zurückgekommen.",
+        "start": 29.165,
+        "end": 30.106
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Schaut mal, ein gestreifter Schnabelbarsch!",
+    "start": 30.126,
+    "end": 32.089,
+    "words": [
+      {
+        "text": "Schaut",
+        "start": 30.126,
+        "end": 30.387
+      },
+      {
+        "text": "mal,",
+        "start": 30.507,
+        "end": 30.687
+      },
+      {
+        "text": "ein",
+        "start": 30.707,
+        "end": 30.827
+      },
+      {
+        "text": "gestreifter",
+        "start": 30.847,
+        "end": 31.368
+      },
+      {
+        "text": "Schnabelbarsch!",
+        "start": 31.388,
+        "end": 32.089
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Was für'n Riesentrum!",
+    "start": 35.533,
+    "end": 37.295,
+    "words": [
+      {
+        "text": "Was",
+        "start": 35.533,
+        "end": 36.114
+      },
+      {
+        "text": "für'n",
+        "start": 36.134,
+        "end": 36.414
+      },
+      {
+        "text": "Riesentrum!",
+        "start": 36.454,
+        "end": 37.295
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Du liebes Bisschen!",
+    "start": 37.315,
+    "end": 38.657,
+    "words": [
+      {
+        "text": "Du",
+        "start": 37.315,
+        "end": 37.515
+      },
+      {
+        "text": "liebes",
+        "start": 37.555,
+        "end": 37.916
+      },
+      {
+        "text": "Bisschen!",
+        "start": 37.956,
+        "end": 38.657
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich hab' bis kurz vor dem Essen ausgeharrt und ihn dann gerade noch rechtzeitig geschnappt.",
+    "start": 38.697,
+    "end": 42.601,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 38.697,
+        "end": 38.777
+      },
+      {
+        "text": "hab'",
+        "start": 38.817,
+        "end": 38.957
+      },
+      {
+        "text": "bis",
+        "start": 38.977,
+        "end": 39.137
+      },
+      {
+        "text": "kurz",
+        "start": 39.157,
+        "end": 39.337
+      },
+      {
+        "text": "vor",
+        "start": 39.357,
+        "end": 39.478
+      },
+      {
+        "text": "dem",
+        "start": 39.498,
+        "end": 39.618
+      },
+      {
+        "text": "Essen",
+        "start": 39.658,
+        "end": 39.978
+      },
+      {
+        "text": "ausgeharrt",
+        "start": 40.018,
+        "end": 40.499
+      },
+      {
+        "text": "und",
+        "start": 40.539,
+        "end": 40.659
+      },
+      {
+        "text": "ihn",
+        "start": 40.719,
+        "end": 40.799
+      },
+      {
+        "text": "dann",
+        "start": 40.819,
+        "end": 40.999
+      },
+      {
+        "text": "gerade",
+        "start": 41.02,
+        "end": 41.36
+      },
+      {
+        "text": "noch",
+        "start": 41.38,
+        "end": 41.62
+      },
+      {
+        "text": "rechtzeitig",
+        "start": 41.64,
+        "end": 42.201
+      },
+      {
+        "text": "geschnappt.",
+        "start": 42.221,
+        "end": 42.601
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Das heißt, es gibt erstmal wieder nur jeden Tag Fisch.",
+    "start": 43.349,
+    "end": 46.493,
+    "words": [
+      {
+        "text": "Das",
+        "start": 43.349,
+        "end": 43.509
+      },
+      {
+        "text": "heißt,",
+        "start": 43.549,
+        "end": 43.95
+      },
+      {
+        "text": "es",
+        "start": 43.97,
+        "end": 44.03
+      },
+      {
+        "text": "gibt",
+        "start": 44.05,
+        "end": 44.17
+      },
+      {
+        "text": "erstmal",
+        "start": 44.21,
+        "end": 44.49
+      },
+      {
+        "text": "wieder",
+        "start": 44.53,
+        "end": 44.731
+      },
+      {
+        "text": "nur",
+        "start": 44.771,
+        "end": 44.931
+      },
+      {
+        "text": "jeden",
+        "start": 44.971,
+        "end": 45.251
+      },
+      {
+        "text": "Tag",
+        "start": 45.271,
+        "end": 45.572
+      },
+      {
+        "text": "Fisch.",
+        "start": 45.592,
+        "end": 46.493
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "In unserem Haushalt gibt es eine Abmachung, eine Art Regel.",
+    "start": 46.533,
+    "end": 49.977,
+    "words": [
+      {
+        "text": "In",
+        "start": 46.533,
+        "end": 46.633
+      },
+      {
+        "text": "unserem",
+        "start": 46.673,
+        "end": 47.033
+      },
+      {
+        "text": "Haushalt",
+        "start": 47.073,
+        "end": 47.434
+      },
+      {
+        "text": "gibt",
+        "start": 47.454,
+        "end": 47.574
+      },
+      {
+        "text": "es",
+        "start": 47.614,
+        "end": 47.734
+      },
+      {
+        "text": "eine",
+        "start": 47.754,
+        "end": 47.914
+      },
+      {
+        "text": "Abmachung,",
+        "start": 47.934,
+        "end": 48.675
+      },
+      {
+        "text": "eine",
+        "start": 48.715,
+        "end": 48.855
+      },
+      {
+        "text": "Art",
+        "start": 48.895,
+        "end": 49.056
+      },
+      {
+        "text": "Regel.",
+        "start": 49.096,
+        "end": 49.977
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Jeden Sonntagmorgen und Abend essen wir alle zusammen als Familie und unterhalten uns miteinander.",
+    "start": 50.017,
+    "end": 54.922,
+    "words": [
+      {
+        "text": "Jeden",
+        "start": 50.017,
+        "end": 50.277
+      },
+      {
+        "text": "Sonntagmorgen",
+        "start": 50.317,
+        "end": 51.078
+      },
+      {
+        "text": "und",
+        "start": 51.098,
+        "end": 51.298
+      },
+      {
+        "text": "Abend",
+        "start": 51.338,
+        "end": 51.679
+      },
+      {
+        "text": "essen",
+        "start": 51.719,
+        "end": 51.959
+      },
+      {
+        "text": "wir",
+        "start": 51.979,
+        "end": 52.139
+      },
+      {
+        "text": "alle",
+        "start": 52.159,
+        "end": 52.4
+      },
+      {
+        "text": "zusammen",
+        "start": 52.44,
+        "end": 52.78
+      },
+      {
+        "text": "als",
+        "start": 52.82,
+        "end": 52.98
+      },
+      {
+        "text": "Familie",
+        "start": 53.0,
+        "end": 53.441
+      },
+      {
+        "text": "und",
+        "start": 53.481,
+        "end": 53.581
+      },
+      {
+        "text": "unterhalten",
+        "start": 53.621,
+        "end": 54.102
+      },
+      {
+        "text": "uns",
+        "start": 54.122,
+        "end": 54.262
+      },
+      {
+        "text": "miteinander.",
+        "start": 54.282,
+        "end": 54.922
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Und zwar ohne Ausnahme.",
+    "start": 54.963,
+    "end": 57.125,
+    "words": [
+      {
+        "text": "Und",
+        "start": 54.963,
+        "end": 55.083
+      },
+      {
+        "text": "zwar",
+        "start": 55.103,
+        "end": 55.383
+      },
+      {
+        "text": "ohne",
+        "start": 55.423,
+        "end": 55.703
+      },
+      {
+        "text": "Ausnahme.",
+        "start": 55.743,
+        "end": 57.125
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ansonsten würde sich jeder von uns so in sein Hobby vertiefen, dass wir uns irgendwann überhaupt nicht mehr sehen würden.",
+    "start": 57.185,
+    "end": 62.211,
+    "words": [
+      {
+        "text": "Ansonsten",
+        "start": 57.185,
+        "end": 57.626
+      },
+      {
+        "text": "würde",
+        "start": 57.666,
+        "end": 57.886
+      },
+      {
+        "text": "sich",
+        "start": 57.906,
+        "end": 58.026
+      },
+      {
+        "text": "jeder",
+        "start": 58.046,
+        "end": 58.266
+      },
+      {
+        "text": "von",
+        "start": 58.286,
+        "end": 58.427
+      },
+      {
+        "text": "uns",
+        "start": 58.447,
+        "end": 58.627
+      },
+      {
+        "text": "so",
+        "start": 58.647,
+        "end": 58.767
+      },
+      {
+        "text": "in",
+        "start": 58.787,
+        "end": 58.887
+      },
+      {
+        "text": "sein",
+        "start": 58.907,
+        "end": 59.087
+      },
+      {
+        "text": "Hobby",
+        "start": 59.107,
+        "end": 59.308
+      },
+      {
+        "text": "vertiefen,",
+        "start": 59.348,
+        "end": 59.728
+      },
+      {
+        "text": "dass",
+        "start": 59.768,
+        "end": 59.868
+      },
+      {
+        "text": "wir",
+        "start": 59.908,
+        "end": 60.008
+      },
+      {
+        "text": "uns",
+        "start": 60.028,
+        "end": 60.129
+      },
+      {
+        "text": "irgendwann",
+        "start": 60.169,
+        "end": 60.549
+      },
+      {
+        "text": "überhaupt",
+        "start": 60.569,
+        "end": 60.849
+      },
+      {
+        "text": "nicht",
+        "start": 60.869,
+        "end": 61.01
+      },
+      {
+        "text": "mehr",
+        "start": 61.03,
+        "end": 61.15
+      },
+      {
+        "text": "sehen",
+        "start": 61.19,
+        "end": 61.37
+      },
+      {
+        "text": "würden.",
+        "start": 61.41,
+        "end": 62.211
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Das war zumindest der Gedanke dahinter.",
+    "start": 62.251,
+    "end": 63.693,
+    "words": [
+      {
+        "text": "Das",
+        "start": 62.251,
+        "end": 62.371
+      },
+      {
+        "text": "war",
+        "start": 62.411,
+        "end": 62.551
+      },
+      {
+        "text": "zumindest",
+        "start": 62.571,
+        "end": 62.892
+      },
+      {
+        "text": "der",
+        "start": 62.912,
+        "end": 63.012
+      },
+      {
+        "text": "Gedanke",
+        "start": 63.032,
+        "end": 63.372
+      },
+      {
+        "text": "dahinter.",
+        "start": 63.392,
+        "end": 63.693
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Ich habe mich mit einem Sperrfischangler angefreundet.",
+    "start": 65.06,
+    "end": 67.263,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 65.06,
+        "end": 65.16
+      },
+      {
+        "text": "habe",
+        "start": 65.18,
+        "end": 65.281
+      },
+      {
+        "text": "mich",
+        "start": 65.321,
+        "end": 65.441
+      },
+      {
+        "text": "mit",
+        "start": 65.481,
+        "end": 65.601
+      },
+      {
+        "text": "einem",
+        "start": 65.621,
+        "end": 65.841
+      },
+      {
+        "text": "Sperrfischangler",
+        "start": 65.881,
+        "end": 66.582
+      },
+      {
+        "text": "angefreundet.",
+        "start": 66.642,
+        "end": 67.263
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Nächstes Mal werde ich mit dem etwas weiter rausfahren.",
+    "start": 67.303,
+    "end": 69.626,
+    "words": [
+      {
+        "text": "Nächstes",
+        "start": 67.303,
+        "end": 67.623
+      },
+      {
+        "text": "Mal",
+        "start": 67.703,
+        "end": 67.844
+      },
+      {
+        "text": "werde",
+        "start": 67.864,
+        "end": 68.004
+      },
+      {
+        "text": "ich",
+        "start": 68.044,
+        "end": 68.124
+      },
+      {
+        "text": "mit",
+        "start": 68.164,
+        "end": 68.244
+      },
+      {
+        "text": "dem",
+        "start": 68.284,
+        "end": 68.524
+      },
+      {
+        "text": "etwas",
+        "start": 68.544,
+        "end": 68.825
+      },
+      {
+        "text": "weiter",
+        "start": 68.865,
+        "end": 69.065
+      },
+      {
+        "text": "rausfahren.",
+        "start": 69.145,
+        "end": 69.626
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Papa, leg das eklige Ding nicht auf den Tisch.",
+    "start": 69.686,
+    "end": 72.389,
+    "words": [
+      {
+        "text": "Papa,",
+        "start": 69.686,
+        "end": 70.607
+      },
+      {
+        "text": "leg",
+        "start": 70.627,
+        "end": 70.747
+      },
+      {
+        "text": "das",
+        "start": 70.767,
+        "end": 70.947
+      },
+      {
+        "text": "eklige",
+        "start": 71.007,
+        "end": 71.388
+      },
+      {
+        "text": "Ding",
+        "start": 71.408,
+        "end": 71.588
+      },
+      {
+        "text": "nicht",
+        "start": 71.628,
+        "end": 71.808
+      },
+      {
+        "text": "auf",
+        "start": 71.848,
+        "end": 71.988
+      },
+      {
+        "text": "den",
+        "start": 72.028,
+        "end": 72.148
+      },
+      {
+        "text": "Tisch.",
+        "start": 72.189,
+        "end": 72.389
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Willst du es etwa hier ausnehmen?",
+    "start": 72.409,
+    "end": 73.71,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 72.409,
+        "end": 72.609
+      },
+      {
+        "text": "du",
+        "start": 72.629,
+        "end": 72.749
+      },
+      {
+        "text": "es",
+        "start": 72.809,
+        "end": 72.849
+      },
+      {
+        "text": "etwa",
+        "start": 72.889,
+        "end": 73.13
+      },
+      {
+        "text": "hier",
+        "start": 73.15,
+        "end": 73.29
+      },
+      {
+        "text": "ausnehmen?",
+        "start": 73.31,
+        "end": 73.71
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Aber was denkst du denn?",
+    "start": 73.75,
+    "end": 74.812,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 73.75,
+        "end": 74.011
+      },
+      {
+        "text": "was",
+        "start": 74.071,
+        "end": 74.211
+      },
+      {
+        "text": "denkst",
+        "start": 74.251,
+        "end": 74.431
+      },
+      {
+        "text": "du",
+        "start": 74.511,
+        "end": 74.611
+      },
+      {
+        "text": "denn?",
+        "start": 74.631,
+        "end": 74.812
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Je frischer, desto besser.",
+    "start": 74.832,
+    "end": 75.993,
+    "words": [
+      {
+        "text": "Je",
+        "start": 74.832,
+        "end": 75.012
+      },
+      {
+        "text": "frischer,",
+        "start": 75.052,
+        "end": 75.412
+      },
+      {
+        "text": "desto",
+        "start": 75.432,
+        "end": 75.753
+      },
+      {
+        "text": "besser.",
+        "start": 75.773,
+        "end": 75.993
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Dann mach das doch in der Küche.",
+    "start": 76.033,
+    "end": 78.035,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 76.033,
+        "end": 76.253
+      },
+      {
+        "text": "mach",
+        "start": 76.273,
+        "end": 76.453
+      },
+      {
+        "text": "das",
+        "start": 76.493,
+        "end": 76.654
+      },
+      {
+        "text": "doch",
+        "start": 76.674,
+        "end": 76.834
+      },
+      {
+        "text": "in",
+        "start": 76.874,
+        "end": 76.954
+      },
+      {
+        "text": "der",
+        "start": 76.974,
+        "end": 77.094
+      },
+      {
+        "text": "Küche.",
+        "start": 77.134,
+        "end": 78.035
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ach, herrje.",
+    "start": 78.115,
+    "end": 79.657,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 78.115,
+        "end": 78.316
+      },
+      {
+        "text": "herrje.",
+        "start": 78.356,
+        "end": 79.657
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ich weiß, dass unsere Lebensart den meisten Menschen als seltsam erscheinen würde.",
+    "start": 79.697,
+    "end": 83.502,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 79.697,
+        "end": 79.797
+      },
+      {
+        "text": "weiß,",
+        "start": 79.837,
+        "end": 80.018
+      },
+      {
+        "text": "dass",
+        "start": 80.058,
+        "end": 80.238
+      },
+      {
+        "text": "unsere",
+        "start": 80.278,
+        "end": 80.518
+      },
+      {
+        "text": "Lebensart",
+        "start": 80.558,
+        "end": 81.039
+      },
+      {
+        "text": "den",
+        "start": 81.059,
+        "end": 81.179
+      },
+      {
+        "text": "meisten",
+        "start": 81.199,
+        "end": 81.519
+      },
+      {
+        "text": "Menschen",
+        "start": 81.539,
+        "end": 81.84
+      },
+      {
+        "text": "als",
+        "start": 81.88,
+        "end": 82.04
+      },
+      {
+        "text": "seltsam",
+        "start": 82.08,
+        "end": 82.4
+      },
+      {
+        "text": "erscheinen",
+        "start": 82.46,
+        "end": 82.821
+      },
+      {
+        "text": "würde.",
+        "start": 82.841,
+        "end": 83.502
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Und das ist sie auch.",
+    "start": 83.542,
+    "end": 84.403,
+    "words": [
+      {
+        "text": "Und",
+        "start": 83.542,
+        "end": 83.702
+      },
+      {
+        "text": "das",
+        "start": 83.742,
+        "end": 83.862
+      },
+      {
+        "text": "ist",
+        "start": 83.902,
+        "end": 84.082
+      },
+      {
+        "text": "sie",
+        "start": 84.102,
+        "end": 84.242
+      },
+      {
+        "text": "auch.",
+        "start": 84.282,
+        "end": 84.403
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": " Jeder lebt in seiner eigenen kleinen Welt.",
+    "start": 85.614,
+    "end": 87.777,
+    "words": [
+      {
+        "text": "Jeder",
+        "start": 85.614,
+        "end": 85.775
+      },
+      {
+        "text": "lebt",
+        "start": 85.815,
+        "end": 85.995
+      },
+      {
+        "text": "in",
+        "start": 86.035,
+        "end": 86.115
+      },
+      {
+        "text": "seiner",
+        "start": 86.155,
+        "end": 86.375
+      },
+      {
+        "text": "eigenen",
+        "start": 86.415,
+        "end": 86.816
+      },
+      {
+        "text": "kleinen",
+        "start": 86.856,
+        "end": 87.156
+      },
+      {
+        "text": "Welt.",
+        "start": 87.196,
+        "end": 87.777
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Aber wir halten zusammen.",
+    "start": 87.817,
+    "end": 88.838,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 87.817,
+        "end": 87.997
+      },
+      {
+        "text": "wir",
+        "start": 88.037,
+        "end": 88.158
+      },
+      {
+        "text": "halten",
+        "start": 88.178,
+        "end": 88.478
+      },
+      {
+        "text": "zusammen.",
+        "start": 88.518,
+        "end": 88.838
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Und das ist das Wichtigste.",
+    "start": 89.199,
+    "end": 90.901,
+    "words": [
+      {
+        "text": "Und",
+        "start": 89.199,
+        "end": 89.359
+      },
+      {
+        "text": "das",
+        "start": 89.379,
+        "end": 89.519
+      },
+      {
+        "text": "ist",
+        "start": 89.559,
+        "end": 89.639
+      },
+      {
+        "text": "das",
+        "start": 89.679,
+        "end": 89.82
+      },
+      {
+        "text": "Wichtigste.",
+        "start": 89.86,
+        "end": 90.901
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Ich wusste es!",
+    "start": 90.961,
+    "end": 91.742,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 90.961,
+        "end": 91.201
+      },
+      {
+        "text": "wusste",
+        "start": 91.241,
+        "end": 91.482
+      },
+      {
+        "text": "es!",
+        "start": 91.542,
+        "end": 91.742
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Jetzt hab ich Fischfett auf den Klamotten!",
+    "start": 91.782,
+    "end": 93.704,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 91.782,
+        "end": 91.962
+      },
+      {
+        "text": "hab",
+        "start": 91.982,
+        "end": 92.122
+      },
+      {
+        "text": "ich",
+        "start": 92.163,
+        "end": 92.363
+      },
+      {
+        "text": "Fischfett",
+        "start": 92.403,
+        "end": 92.863
+      },
+      {
+        "text": "auf",
+        "start": 92.903,
+        "end": 93.024
+      },
+      {
+        "text": "den",
+        "start": 93.044,
+        "end": 93.164
+      },
+      {
+        "text": "Klamotten!",
+        "start": 93.184,
+        "end": 93.704
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Dabei hab ich gleich ein Fotoshooting!",
+    "start": 93.724,
+    "end": 95.507,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 93.724,
+        "end": 94.005
+      },
+      {
+        "text": "hab",
+        "start": 94.025,
+        "end": 94.145
+      },
+      {
+        "text": "ich",
+        "start": 94.185,
+        "end": 94.305
+      },
+      {
+        "text": "gleich",
+        "start": 94.325,
+        "end": 94.485
+      },
+      {
+        "text": "ein",
+        "start": 94.546,
+        "end": 94.666
+      },
+      {
+        "text": "Fotoshooting!",
+        "start": 94.686,
+        "end": 95.507
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Mama, sag doch was!",
+    "start": 95.627,
+    "end": 97.289,
+    "words": [
+      {
+        "text": "Mama,",
+        "start": 95.627,
+        "end": 96.408
+      },
+      {
+        "text": "sag",
+        "start": 96.448,
+        "end": 96.808
+      },
+      {
+        "text": "doch",
+        "start": 96.828,
+        "end": 96.989
+      },
+      {
+        "text": "was!",
+        "start": 97.029,
+        "end": 97.289
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Tut mir leid, Ruby.",
+    "start": 97.549,
+    "end": 98.571,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 97.549,
+        "end": 97.75
+      },
+      {
+        "text": "mir",
+        "start": 97.77,
+        "end": 97.89
+      },
+      {
+        "text": "leid,",
+        "start": 97.93,
+        "end": 98.13
+      },
+      {
+        "text": "Ruby.",
+        "start": 98.17,
+        "end": 98.571
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Ich muss mich um die Schmetterlinge kümmern.",
+    "start": 98.611,
+    "end": 99.952,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 98.611,
+        "end": 98.711
+      },
+      {
+        "text": "muss",
+        "start": 98.731,
+        "end": 98.891
+      },
+      {
+        "text": "mich",
+        "start": 98.911,
+        "end": 99.031
+      },
+      {
+        "text": "um",
+        "start": 99.071,
+        "end": 99.151
+      },
+      {
+        "text": "die",
+        "start": 99.171,
+        "end": 99.231
+      },
+      {
+        "text": "Schmetterlinge",
+        "start": 99.251,
+        "end": 99.732
+      },
+      {
+        "text": "kümmern.",
+        "start": 99.752,
+        "end": 99.952
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Schatz, ich überlasse dir die Küche und das Kitzen.",
+    "start": 100.353,
+    "end": 102.636,
+    "words": [
+      {
+        "text": "Schatz,",
+        "start": 100.353,
+        "end": 100.713
+      },
+      {
+        "text": "ich",
+        "start": 100.773,
+        "end": 100.893
+      },
+      {
+        "text": "überlasse",
+        "start": 100.954,
+        "end": 101.214
+      },
+      {
+        "text": "dir",
+        "start": 101.234,
+        "end": 101.354
+      },
+      {
+        "text": "die",
+        "start": 101.474,
+        "end": 101.614
+      },
+      {
+        "text": "Küche",
+        "start": 101.634,
+        "end": 101.835
+      },
+      {
+        "text": "und",
+        "start": 101.855,
+        "end": 101.935
+      },
+      {
+        "text": "das",
+        "start": 101.955,
+        "end": 102.055
+      },
+      {
+        "text": "Kitzen.",
+        "start": 102.215,
+        "end": 102.636
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Na klar!",
+    "start": 102.676,
+    "end": 103.377,
+    "words": [
+      {
+        "text": "Na",
+        "start": 102.676,
+        "end": 102.876
+      },
+      {
+        "text": "klar!",
+        "start": 102.896,
+        "end": 103.377
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Oh, Mando!",
+    "start": 103.437,
+    "end": 104.158,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 103.437,
+        "end": 103.937
+      },
+      {
+        "text": "Mando!",
+        "start": 103.957,
+        "end": 104.158
+      }
+    ]
+  }
+]

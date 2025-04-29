@@ -1,0 +1,483 @@
+[
+  {
+    "id": 0,
+    "text": " Ich hasse Grünzeug!",
+    "start": 2.573,
+    "end": 3.534,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.573,
+        "end": 2.653
+      },
+      {
+        "text": "hasse",
+        "start": 2.693,
+        "end": 2.974
+      },
+      {
+        "text": "Grünzeug!",
+        "start": 3.014,
+        "end": 3.534
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Scheiße!",
+    "start": 3.614,
+    "end": 4.315,
+    "words": [
+      {
+        "text": "Scheiße!",
+        "start": 3.614,
+        "end": 4.315
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Eine Möhre!",
+    "start": 4.375,
+    "end": 6.497,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 4.375,
+        "end": 4.575
+      },
+      {
+        "text": "Möhre!",
+        "start": 4.595,
+        "end": 6.497
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wirf nicht mit dem Gemüse!",
+    "start": 6.537,
+    "end": 8.238,
+    "words": [
+      {
+        "text": "Wirf",
+        "start": 6.537,
+        "end": 6.837
+      },
+      {
+        "text": "nicht",
+        "start": 6.857,
+        "end": 7.097
+      },
+      {
+        "text": "mit",
+        "start": 7.137,
+        "end": 7.257
+      },
+      {
+        "text": "dem",
+        "start": 7.297,
+        "end": 7.458
+      },
+      {
+        "text": "Gemüse!",
+        "start": 7.478,
+        "end": 8.238
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Alter!",
+    "start": 8.338,
+    "end": 9.319,
+    "words": [
+      {
+        "text": "Alter!",
+        "start": 8.338,
+        "end": 9.319
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Schon mal an die armen Bauern gedacht, die mühevoll das Gemüse anpflanzen?",
+    "start": 9.339,
+    "end": 13.002,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 9.339,
+        "end": 9.519
+      },
+      {
+        "text": "mal",
+        "start": 9.539,
+        "end": 9.679
+      },
+      {
+        "text": "an",
+        "start": 9.699,
+        "end": 9.8
+      },
+      {
+        "text": "die",
+        "start": 9.82,
+        "end": 9.92
+      },
+      {
+        "text": "armen",
+        "start": 9.96,
+        "end": 10.14
+      },
+      {
+        "text": "Bauern",
+        "start": 10.18,
+        "end": 10.44
+      },
+      {
+        "text": "gedacht,",
+        "start": 10.46,
+        "end": 10.76
+      },
+      {
+        "text": "die",
+        "start": 10.78,
+        "end": 10.881
+      },
+      {
+        "text": "mühevoll",
+        "start": 10.921,
+        "end": 11.281
+      },
+      {
+        "text": "das",
+        "start": 11.301,
+        "end": 11.421
+      },
+      {
+        "text": "Gemüse",
+        "start": 11.441,
+        "end": 11.801
+      },
+      {
+        "text": "anpflanzen?",
+        "start": 11.841,
+        "end": 13.002
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Teufel!",
+    "start": 13.042,
+    "end": 13.343,
+    "words": [
+      {
+        "text": "Teufel!",
+        "start": 13.042,
+        "end": 13.343
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Das scheiß Haus?",
+    "start": 15.269,
+    "end": 16.67,
+    "words": [
+      {
+        "text": "Das",
+        "start": 15.269,
+        "end": 15.389
+      },
+      {
+        "text": "scheiß",
+        "start": 15.509,
+        "end": 16.09
+      },
+      {
+        "text": "Haus?",
+        "start": 16.13,
+        "end": 16.67
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Meine Kacke spül ich nur weg, wenn ich Bock habe.",
+    "start": 16.71,
+    "end": 19.193,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 16.71,
+        "end": 16.931
+      },
+      {
+        "text": "Kacke",
+        "start": 16.951,
+        "end": 17.251
+      },
+      {
+        "text": "spül",
+        "start": 17.271,
+        "end": 17.491
+      },
+      {
+        "text": "ich",
+        "start": 17.511,
+        "end": 17.671
+      },
+      {
+        "text": "nur",
+        "start": 17.711,
+        "end": 17.851
+      },
+      {
+        "text": "weg,",
+        "start": 17.871,
+        "end": 18.012
+      },
+      {
+        "text": "wenn",
+        "start": 18.052,
+        "end": 18.212
+      },
+      {
+        "text": "ich",
+        "start": 18.252,
+        "end": 18.372
+      },
+      {
+        "text": "Bock",
+        "start": 18.412,
+        "end": 18.632
+      },
+      {
+        "text": "habe.",
+        "start": 18.652,
+        "end": 19.193
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Spül runter!",
+    "start": 19.233,
+    "end": 20.254,
+    "words": [
+      {
+        "text": "Spül",
+        "start": 19.233,
+        "end": 19.573
+      },
+      {
+        "text": "runter!",
+        "start": 19.653,
+        "end": 20.254
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Das müffelt!",
+    "start": 20.314,
+    "end": 21.975,
+    "words": [
+      {
+        "text": "Das",
+        "start": 20.314,
+        "end": 20.654
+      },
+      {
+        "text": "müffelt!",
+        "start": 20.694,
+        "end": 21.975
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich wasch mich lediglich, wenn ich Bock habe.",
+    "start": 21.995,
+    "end": 24.137,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 21.995,
+        "end": 22.096
+      },
+      {
+        "text": "wasch",
+        "start": 22.116,
+        "end": 22.336
+      },
+      {
+        "text": "mich",
+        "start": 22.356,
+        "end": 22.536
+      },
+      {
+        "text": "lediglich,",
+        "start": 22.576,
+        "end": 23.036
+      },
+      {
+        "text": "wenn",
+        "start": 23.076,
+        "end": 23.237
+      },
+      {
+        "text": "ich",
+        "start": 23.297,
+        "end": 23.417
+      },
+      {
+        "text": "Bock",
+        "start": 23.457,
+        "end": 23.657
+      },
+      {
+        "text": "habe.",
+        "start": 23.677,
+        "end": 24.137
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wasch dich!",
+    "start": 24.198,
+    "end": 24.938,
+    "words": [
+      {
+        "text": "Wasch",
+        "start": 24.198,
+        "end": 24.678
+      },
+      {
+        "text": "dich!",
+        "start": 24.698,
+        "end": 24.938
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Du müffelst!",
+    "start": 24.998,
+    "end": 26.64,
+    "words": [
+      {
+        "text": "Du",
+        "start": 24.998,
+        "end": 25.259
+      },
+      {
+        "text": "müffelst!",
+        "start": 25.299,
+        "end": 26.64
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Regt euch mal ab, Jungs.",
+    "start": 27.06,
+    "end": 28.702,
+    "words": [
+      {
+        "text": "Regt",
+        "start": 27.06,
+        "end": 27.24
+      },
+      {
+        "text": "euch",
+        "start": 27.28,
+        "end": 27.441
+      },
+      {
+        "text": "mal",
+        "start": 27.541,
+        "end": 27.741
+      },
+      {
+        "text": "ab,",
+        "start": 27.781,
+        "end": 27.901
+      },
+      {
+        "text": "Jungs.",
+        "start": 27.921,
+        "end": 28.702
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wie klankariert die Menschen doch sind.",
+    "start": 28.762,
+    "end": 31.344,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 28.762,
+        "end": 29.022
+      },
+      {
+        "text": "klankariert",
+        "start": 29.062,
+        "end": 29.743
+      },
+      {
+        "text": "die",
+        "start": 29.763,
+        "end": 29.923
+      },
+      {
+        "text": "Menschen",
+        "start": 29.943,
+        "end": 30.283
+      },
+      {
+        "text": "doch",
+        "start": 30.323,
+        "end": 30.584
+      },
+      {
+        "text": "sind.",
+        "start": 30.624,
+        "end": 31.344
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Nicht wahr, kleine Mitzi?",
+    "start": 31.384,
+    "end": 32.646,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 31.384,
+        "end": 31.605
+      },
+      {
+        "text": "wahr,",
+        "start": 31.665,
+        "end": 31.885
+      },
+      {
+        "text": "kleine",
+        "start": 31.905,
+        "end": 32.305
+      },
+      {
+        "text": "Mitzi?",
+        "start": 32.345,
+        "end": 32.646
+      }
+    ]
+  }
+]

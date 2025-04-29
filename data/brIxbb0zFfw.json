@@ -1,0 +1,768 @@
+[
+  {
+    "id": 0,
+    "text": " Frey!",
+    "start": 17.362,
+    "end": 18.242,
+    "words": [
+      {
+        "text": "Frey!",
+        "start": 17.362,
+        "end": 18.242
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was treibst du da?",
+    "start": 18.282,
+    "end": 19.023,
+    "words": [
+      {
+        "text": "Was",
+        "start": 18.282,
+        "end": 18.482
+      },
+      {
+        "text": "treibst",
+        "start": 18.503,
+        "end": 18.763
+      },
+      {
+        "text": "du",
+        "start": 18.783,
+        "end": 18.903
+      },
+      {
+        "text": "da?",
+        "start": 18.943,
+        "end": 19.023
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hilf dir doch, Frey!",
+    "start": 19.063,
+    "end": 21.844,
+    "words": [
+      {
+        "text": "Hilf",
+        "start": 19.063,
+        "end": 19.923
+      },
+      {
+        "text": "dir",
+        "start": 19.943,
+        "end": 20.123
+      },
+      {
+        "text": "doch,",
+        "start": 20.143,
+        "end": 20.323
+      },
+      {
+        "text": "Frey!",
+        "start": 20.403,
+        "end": 21.844
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Das tut mir jetzt wirklich leid, lieber Kleiman.",
+    "start": 21.884,
+    "end": 24.765,
+    "words": [
+      {
+        "text": "Das",
+        "start": 21.884,
+        "end": 22.064
+      },
+      {
+        "text": "tut",
+        "start": 22.104,
+        "end": 22.284
+      },
+      {
+        "text": "mir",
+        "start": 22.324,
+        "end": 22.424
+      },
+      {
+        "text": "jetzt",
+        "start": 22.444,
+        "end": 22.724
+      },
+      {
+        "text": "wirklich",
+        "start": 22.744,
+        "end": 23.065
+      },
+      {
+        "text": "leid,",
+        "start": 23.165,
+        "end": 23.425
+      },
+      {
+        "text": "lieber",
+        "start": 23.445,
+        "end": 23.705
+      },
+      {
+        "text": "Kleiman.",
+        "start": 23.785,
+        "end": 24.765
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Niemand kann durch diese Barriere, solange Gai es nicht gestattet.",
+    "start": 24.825,
+    "end": 28.407,
+    "words": [
+      {
+        "text": "Niemand",
+        "start": 24.825,
+        "end": 25.165
+      },
+      {
+        "text": "kann",
+        "start": 25.205,
+        "end": 25.366
+      },
+      {
+        "text": "durch",
+        "start": 25.386,
+        "end": 25.546
+      },
+      {
+        "text": "diese",
+        "start": 25.566,
+        "end": 25.746
+      },
+      {
+        "text": "Barriere,",
+        "start": 25.786,
+        "end": 26.186
+      },
+      {
+        "text": "solange",
+        "start": 26.226,
+        "end": 26.626
+      },
+      {
+        "text": "Gai",
+        "start": 26.646,
+        "end": 26.866
+      },
+      {
+        "text": "es",
+        "start": 26.906,
+        "end": 27.086
+      },
+      {
+        "text": "nicht",
+        "start": 27.106,
+        "end": 27.306
+      },
+      {
+        "text": "gestattet.",
+        "start": 27.346,
+        "end": 28.407
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Das ist wirklich eine Schande.",
+    "start": 28.427,
+    "end": 31.348,
+    "words": [
+      {
+        "text": "Das",
+        "start": 28.427,
+        "end": 28.547
+      },
+      {
+        "text": "ist",
+        "start": 28.587,
+        "end": 28.767
+      },
+      {
+        "text": "wirklich",
+        "start": 28.787,
+        "end": 29.107
+      },
+      {
+        "text": "eine",
+        "start": 29.147,
+        "end": 29.307
+      },
+      {
+        "text": "Schande.",
+        "start": 29.347,
+        "end": 31.348
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Milim!",
+    "start": 31.388,
+    "end": 32.589,
+    "words": [
+      {
+        "text": "Milim!",
+        "start": 31.388,
+        "end": 32.589
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Gehorche meinem Befehl und nutze Stampede!",
+    "start": 32.629,
+    "end": 35.49,
+    "words": [
+      {
+        "text": "Gehorche",
+        "start": 32.629,
+        "end": 33.229
+      },
+      {
+        "text": "meinem",
+        "start": 33.249,
+        "end": 33.489
+      },
+      {
+        "text": "Befehl",
+        "start": 33.529,
+        "end": 33.929
+      },
+      {
+        "text": "und",
+        "start": 33.949,
+        "end": 34.19
+      },
+      {
+        "text": "nutze",
+        "start": 34.23,
+        "end": 34.71
+      },
+      {
+        "text": "Stampede!",
+        "start": 34.73,
+        "end": 35.49
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Töte sie alle!",
+    "start": 35.57,
+    "end": 36.751,
+    "words": [
+      {
+        "text": "Töte",
+        "start": 35.57,
+        "end": 36.07
+      },
+      {
+        "text": "sie",
+        "start": 36.09,
+        "end": 36.31
+      },
+      {
+        "text": "alle!",
+        "start": 36.37,
+        "end": 36.751
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Töte einfach alle, die hier sind!",
+    "start": 36.791,
+    "end": 39.952,
+    "words": [
+      {
+        "text": "Töte",
+        "start": 36.791,
+        "end": 37.171
+      },
+      {
+        "text": "einfach",
+        "start": 37.251,
+        "end": 37.791
+      },
+      {
+        "text": "alle,",
+        "start": 37.831,
+        "end": 38.091
+      },
+      {
+        "text": "die",
+        "start": 38.111,
+        "end": 38.251
+      },
+      {
+        "text": "hier",
+        "start": 38.291,
+        "end": 38.511
+      },
+      {
+        "text": "sind!",
+        "start": 38.551,
+        "end": 39.952
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Was plägt er denn für'n Scheiß?",
+    "start": 39.992,
+    "end": 41.673,
+    "words": [
+      {
+        "text": "Was",
+        "start": 39.992,
+        "end": 40.352
+      },
+      {
+        "text": "plägt",
+        "start": 40.372,
+        "end": 40.592
+      },
+      {
+        "text": "er",
+        "start": 40.612,
+        "end": 40.712
+      },
+      {
+        "text": "denn",
+        "start": 40.732,
+        "end": 40.913
+      },
+      {
+        "text": "für'n",
+        "start": 40.953,
+        "end": 41.193
+      },
+      {
+        "text": "Scheiß?",
+        "start": 41.273,
+        "end": 41.673
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Und warum sollte ich das deiner Meinung nach bitteschön machen?",
+    "start": 45.651,
+    "end": 54.126,
+    "words": [
+      {
+        "text": "Und",
+        "start": 45.651,
+        "end": 45.792
+      },
+      {
+        "text": "warum",
+        "start": 45.832,
+        "end": 46.052
+      },
+      {
+        "text": "sollte",
+        "start": 46.072,
+        "end": 46.313
+      },
+      {
+        "text": "ich",
+        "start": 46.353,
+        "end": 46.453
+      },
+      {
+        "text": "das",
+        "start": 46.493,
+        "end": 46.633
+      },
+      {
+        "text": "deiner",
+        "start": 46.653,
+        "end": 46.974
+      },
+      {
+        "text": "Meinung",
+        "start": 46.994,
+        "end": 47.274
+      },
+      {
+        "text": "nach",
+        "start": 47.294,
+        "end": 47.455
+      },
+      {
+        "text": "bitteschön",
+        "start": 47.495,
+        "end": 47.956
+      },
+      {
+        "text": "machen?",
+        "start": 47.996,
+        "end": 54.126
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Rimurus Freunde sind auch meine Freunde.",
+    "start": 54.187,
+    "end": 56.33,
+    "words": [
+      {
+        "text": "Rimurus",
+        "start": 54.187,
+        "end": 54.788
+      },
+      {
+        "text": "Freunde",
+        "start": 54.828,
+        "end": 55.168
+      },
+      {
+        "text": "sind",
+        "start": 55.208,
+        "end": 55.389
+      },
+      {
+        "text": "auch",
+        "start": 55.429,
+        "end": 55.649
+      },
+      {
+        "text": "meine",
+        "start": 55.689,
+        "end": 55.95
+      },
+      {
+        "text": "Freunde.",
+        "start": 56.01,
+        "end": 56.33
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Milim!",
+    "start": 59.3,
+    "end": 62.081,
+    "words": [
+      {
+        "text": "Milim!",
+        "start": 59.3,
+        "end": 62.081
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Also kontrolliert er dich gar nicht mehr?",
+    "start": 62.121,
+    "end": 68.484,
+    "words": [
+      {
+        "text": "Also",
+        "start": 62.121,
+        "end": 62.401
+      },
+      {
+        "text": "kontrolliert",
+        "start": 62.441,
+        "end": 62.882
+      },
+      {
+        "text": "er",
+        "start": 62.942,
+        "end": 63.042
+      },
+      {
+        "text": "dich",
+        "start": 63.062,
+        "end": 63.202
+      },
+      {
+        "text": "gar",
+        "start": 63.222,
+        "end": 63.362
+      },
+      {
+        "text": "nicht",
+        "start": 63.382,
+        "end": 63.542
+      },
+      {
+        "text": "mehr?",
+        "start": 63.582,
+        "end": 68.484
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Da hab ich dich ganz schön reingelegt, hab ich recht, Rimuru?",
+    "start": 68.504,
+    "end": 71.745,
+    "words": [
+      {
+        "text": "Da",
+        "start": 68.504,
+        "end": 68.644
+      },
+      {
+        "text": "hab",
+        "start": 68.684,
+        "end": 68.804
+      },
+      {
+        "text": "ich",
+        "start": 68.844,
+        "end": 68.944
+      },
+      {
+        "text": "dich",
+        "start": 68.984,
+        "end": 69.144
+      },
+      {
+        "text": "ganz",
+        "start": 69.184,
+        "end": 69.344
+      },
+      {
+        "text": "schön",
+        "start": 69.364,
+        "end": 69.624
+      },
+      {
+        "text": "reingelegt,",
+        "start": 69.664,
+        "end": 70.265
+      },
+      {
+        "text": "hab",
+        "start": 70.285,
+        "end": 70.445
+      },
+      {
+        "text": "ich",
+        "start": 70.485,
+        "end": 70.565
+      },
+      {
+        "text": "recht,",
+        "start": 70.725,
+        "end": 70.905
+      },
+      {
+        "text": "Rimuru?",
+        "start": 70.965,
+        "end": 71.745
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Das heißt, du wurdest die ganze Zeit nicht kontrolliert?",
+    "start": 71.765,
+    "end": 73.966,
+    "words": [
+      {
+        "text": "Das",
+        "start": 71.765,
+        "end": 72.005
+      },
+      {
+        "text": "heißt,",
+        "start": 72.025,
+        "end": 72.245
+      },
+      {
+        "text": "du",
+        "start": 72.265,
+        "end": 72.365
+      },
+      {
+        "text": "wurdest",
+        "start": 72.385,
+        "end": 72.605
+      },
+      {
+        "text": "die",
+        "start": 72.626,
+        "end": 72.746
+      },
+      {
+        "text": "ganze",
+        "start": 72.786,
+        "end": 73.086
+      },
+      {
+        "text": "Zeit",
+        "start": 73.126,
+        "end": 73.306
+      },
+      {
+        "text": "nicht",
+        "start": 73.326,
+        "end": 73.526
+      },
+      {
+        "text": "kontrolliert?",
+        "start": 73.566,
+        "end": 73.966
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Mir war das von vornherein klar.",
+    "start": 82.175,
+    "end": 84.722,
+    "words": [
+      {
+        "text": "Mir",
+        "start": 82.175,
+        "end": 82.356
+      },
+      {
+        "text": "war",
+        "start": 82.396,
+        "end": 82.616
+      },
+      {
+        "text": "das",
+        "start": 82.636,
+        "end": 82.757
+      },
+      {
+        "text": "von",
+        "start": 82.797,
+        "end": 82.957
+      },
+      {
+        "text": "vornherein",
+        "start": 82.997,
+        "end": 83.619
+      },
+      {
+        "text": "klar.",
+        "start": 83.659,
+        "end": 84.722
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Was?",
+    "start": 84.782,
+    "end": 85.283,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 84.782,
+        "end": 85.283
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Wieso?",
+    "start": 85.303,
+    "end": 85.985,
+    "words": [
+      {
+        "text": "Wieso?",
+        "start": 85.303,
+        "end": 85.985
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Wie bitte?",
+    "start": 86.025,
+    "end": 86.887,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 86.025,
+        "end": 86.225
+      },
+      {
+        "text": "bitte?",
+        "start": 86.245,
+        "end": 86.887
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Und sie hat nicht mal gezuckt, als sie verdroschen wurde.",
+    "start": 86.947,
+    "end": 89.112,
+    "words": [
+      {
+        "text": "Und",
+        "start": 86.947,
+        "end": 87.087
+      },
+      {
+        "text": "sie",
+        "start": 87.108,
+        "end": 87.188
+      },
+      {
+        "text": "hat",
+        "start": 87.228,
+        "end": 87.368
+      },
+      {
+        "text": "nicht",
+        "start": 87.388,
+        "end": 87.508
+      },
+      {
+        "text": "mal",
+        "start": 87.589,
+        "end": 87.729
+      },
+      {
+        "text": "gezuckt,",
+        "start": 87.769,
+        "end": 88.09
+      },
+      {
+        "text": "als",
+        "start": 88.13,
+        "end": 88.27
+      },
+      {
+        "text": "sie",
+        "start": 88.29,
+        "end": 88.411
+      },
+      {
+        "text": "verdroschen",
+        "start": 88.451,
+        "end": 88.912
+      },
+      {
+        "text": "wurde.",
+        "start": 88.932,
+        "end": 89.112
+      }
+    ]
+  }
+]

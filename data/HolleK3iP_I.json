@@ -1,0 +1,1229 @@
+[
+  {
+    "id": 0,
+    "text": " Bevor ich euch die Wirkung des Mittels erkläre, möchte ich euch noch etwas zeigen.",
+    "start": 1.952,
+    "end": 7.136,
+    "words": [
+      {
+        "text": "Bevor",
+        "start": 1.952,
+        "end": 2.192
+      },
+      {
+        "text": "ich",
+        "start": 2.232,
+        "end": 2.353
+      },
+      {
+        "text": "euch",
+        "start": 2.393,
+        "end": 2.613
+      },
+      {
+        "text": "die",
+        "start": 2.633,
+        "end": 2.733
+      },
+      {
+        "text": "Wirkung",
+        "start": 2.753,
+        "end": 3.053
+      },
+      {
+        "text": "des",
+        "start": 3.093,
+        "end": 3.233
+      },
+      {
+        "text": "Mittels",
+        "start": 3.273,
+        "end": 3.633
+      },
+      {
+        "text": "erkläre,",
+        "start": 3.673,
+        "end": 4.274
+      },
+      {
+        "text": "möchte",
+        "start": 4.314,
+        "end": 4.514
+      },
+      {
+        "text": "ich",
+        "start": 4.534,
+        "end": 4.654
+      },
+      {
+        "text": "euch",
+        "start": 4.674,
+        "end": 4.834
+      },
+      {
+        "text": "noch",
+        "start": 4.874,
+        "end": 5.014
+      },
+      {
+        "text": "etwas",
+        "start": 5.054,
+        "end": 5.395
+      },
+      {
+        "text": "zeigen.",
+        "start": 5.435,
+        "end": 7.136
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wärt ihr so freundlich, mir dabei zu helfen?",
+    "start": 7.156,
+    "end": 9.097,
+    "words": [
+      {
+        "text": "Wärt",
+        "start": 7.156,
+        "end": 7.376
+      },
+      {
+        "text": "ihr",
+        "start": 7.416,
+        "end": 7.536
+      },
+      {
+        "text": "so",
+        "start": 7.556,
+        "end": 7.656
+      },
+      {
+        "text": "freundlich,",
+        "start": 7.696,
+        "end": 8.156
+      },
+      {
+        "text": "mir",
+        "start": 8.196,
+        "end": 8.316
+      },
+      {
+        "text": "dabei",
+        "start": 8.337,
+        "end": 8.637
+      },
+      {
+        "text": "zu",
+        "start": 8.657,
+        "end": 8.757
+      },
+      {
+        "text": "helfen?",
+        "start": 8.817,
+        "end": 9.097
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ja, selbstverständlich.",
+    "start": 11.058,
+    "end": 12.339,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 11.058,
+        "end": 11.238
+      },
+      {
+        "text": "selbstverständlich.",
+        "start": 11.258,
+        "end": 12.339
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Aber was hast du denn vor?",
+    "start": 12.379,
+    "end": 15.621,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 12.379,
+        "end": 12.579
+      },
+      {
+        "text": "was",
+        "start": 12.619,
+        "end": 12.719
+      },
+      {
+        "text": "hast",
+        "start": 12.759,
+        "end": 12.9
+      },
+      {
+        "text": "du",
+        "start": 12.92,
+        "end": 13.02
+      },
+      {
+        "text": "denn",
+        "start": 13.04,
+        "end": 13.22
+      },
+      {
+        "text": "vor?",
+        "start": 13.24,
+        "end": 15.621
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Dies ist eine Speichelprobe von euch, die man mir übergeben hat.",
+    "start": 15.661,
+    "end": 23.967,
+    "words": [
+      {
+        "text": "Dies",
+        "start": 15.661,
+        "end": 15.902
+      },
+      {
+        "text": "ist",
+        "start": 15.942,
+        "end": 16.102
+      },
+      {
+        "text": "eine",
+        "start": 16.142,
+        "end": 16.302
+      },
+      {
+        "text": "Speichelprobe",
+        "start": 16.342,
+        "end": 17.042
+      },
+      {
+        "text": "von",
+        "start": 17.082,
+        "end": 17.242
+      },
+      {
+        "text": "euch,",
+        "start": 17.282,
+        "end": 17.443
+      },
+      {
+        "text": "die",
+        "start": 17.463,
+        "end": 17.583
+      },
+      {
+        "text": "man",
+        "start": 17.603,
+        "end": 17.723
+      },
+      {
+        "text": "mir",
+        "start": 17.743,
+        "end": 17.883
+      },
+      {
+        "text": "übergeben",
+        "start": 17.923,
+        "end": 18.303
+      },
+      {
+        "text": "hat.",
+        "start": 18.343,
+        "end": 23.967
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Haltet sie vor euer Auge und seht gegen das Licht hindurch.",
+    "start": 24.007,
+    "end": 26.949,
+    "words": [
+      {
+        "text": "Haltet",
+        "start": 24.007,
+        "end": 24.347
+      },
+      {
+        "text": "sie",
+        "start": 24.367,
+        "end": 24.507
+      },
+      {
+        "text": "vor",
+        "start": 24.547,
+        "end": 24.727
+      },
+      {
+        "text": "euer",
+        "start": 24.767,
+        "end": 25.008
+      },
+      {
+        "text": "Auge",
+        "start": 25.068,
+        "end": 25.388
+      },
+      {
+        "text": "und",
+        "start": 25.428,
+        "end": 25.588
+      },
+      {
+        "text": "seht",
+        "start": 25.628,
+        "end": 25.828
+      },
+      {
+        "text": "gegen",
+        "start": 25.848,
+        "end": 26.068
+      },
+      {
+        "text": "das",
+        "start": 26.088,
+        "end": 26.268
+      },
+      {
+        "text": "Licht",
+        "start": 26.308,
+        "end": 26.549
+      },
+      {
+        "text": "hindurch.",
+        "start": 26.589,
+        "end": 26.949
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " So etwa?",
+    "start": 32.564,
+    "end": 45.549,
+    "words": [
+      {
+        "text": "So",
+        "start": 32.564,
+        "end": 32.744
+      },
+      {
+        "text": "etwa?",
+        "start": 32.804,
+        "end": 45.549
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Was ist das?",
+    "start": 46.81,
+    "end": 49.091,
+    "words": [
+      {
+        "text": "Was",
+        "start": 46.81,
+        "end": 47.47
+      },
+      {
+        "text": "ist",
+        "start": 47.53,
+        "end": 47.79
+      },
+      {
+        "text": "das?",
+        "start": 47.83,
+        "end": 49.091
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Das sieht aus, als wären da kleine Lebewesen drin.",
+    "start": 49.131,
+    "end": 52.712,
+    "words": [
+      {
+        "text": "Das",
+        "start": 49.131,
+        "end": 49.291
+      },
+      {
+        "text": "sieht",
+        "start": 49.311,
+        "end": 49.491
+      },
+      {
+        "text": "aus,",
+        "start": 49.551,
+        "end": 50.071
+      },
+      {
+        "text": "als",
+        "start": 50.111,
+        "end": 50.311
+      },
+      {
+        "text": "wären",
+        "start": 50.351,
+        "end": 50.571
+      },
+      {
+        "text": "da",
+        "start": 50.592,
+        "end": 51.112
+      },
+      {
+        "text": "kleine",
+        "start": 51.152,
+        "end": 51.532
+      },
+      {
+        "text": "Lebewesen",
+        "start": 51.572,
+        "end": 52.252
+      },
+      {
+        "text": "drin.",
+        "start": 52.292,
+        "end": 52.712
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Claude Julliac.",
+    "start": 52.812,
+    "end": 53.533,
+    "words": [
+      {
+        "text": "Claude",
+        "start": 52.812,
+        "end": 53.213
+      },
+      {
+        "text": "Julliac.",
+        "start": 53.253,
+        "end": 53.533
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Nun denn.",
+    "start": 68.948,
+    "end": 71.75,
+    "words": [
+      {
+        "text": "Nun",
+        "start": 68.948,
+        "end": 69.108
+      },
+      {
+        "text": "denn.",
+        "start": 69.308,
+        "end": 71.75
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Was ist denn das?",
+    "start": 71.77,
+    "end": 73.031,
+    "words": [
+      {
+        "text": "Was",
+        "start": 71.77,
+        "end": 71.95
+      },
+      {
+        "text": "ist",
+        "start": 71.99,
+        "end": 72.09
+      },
+      {
+        "text": "denn",
+        "start": 72.11,
+        "end": 72.23
+      },
+      {
+        "text": "das?",
+        "start": 72.25,
+        "end": 73.031
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Würmer?",
+    "start": 73.091,
+    "end": 74.031,
+    "words": [
+      {
+        "text": "Würmer?",
+        "start": 73.091,
+        "end": 74.031
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Sag, Hofarzt Isolyak, was ist denn da zu sehen?",
+    "start": 74.051,
+    "end": 76.573,
+    "words": [
+      {
+        "text": "Sag,",
+        "start": 74.051,
+        "end": 74.291
+      },
+      {
+        "text": "Hofarzt",
+        "start": 74.311,
+        "end": 74.832
+      },
+      {
+        "text": "Isolyak,",
+        "start": 74.852,
+        "end": 75.652
+      },
+      {
+        "text": "was",
+        "start": 75.672,
+        "end": 75.792
+      },
+      {
+        "text": "ist",
+        "start": 75.832,
+        "end": 75.913
+      },
+      {
+        "text": "denn",
+        "start": 75.933,
+        "end": 76.073
+      },
+      {
+        "text": "da",
+        "start": 76.093,
+        "end": 76.253
+      },
+      {
+        "text": "zu",
+        "start": 76.293,
+        "end": 76.373
+      },
+      {
+        "text": "sehen?",
+        "start": 76.413,
+        "end": 76.573
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ist das Zauberei?",
+    "start": 76.613,
+    "end": 78.054,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 76.613,
+        "end": 77.333
+      },
+      {
+        "text": "das",
+        "start": 77.454,
+        "end": 77.634
+      },
+      {
+        "text": "Zauberei?",
+        "start": 77.654,
+        "end": 78.054
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Falmer, um was für winzige Wesen handelt es sich?",
+    "start": 84.338,
+    "end": 87.879,
+    "words": [
+      {
+        "text": "Falmer,",
+        "start": 84.338,
+        "end": 85.518
+      },
+      {
+        "text": "um",
+        "start": 85.558,
+        "end": 85.698
+      },
+      {
+        "text": "was",
+        "start": 85.718,
+        "end": 85.819
+      },
+      {
+        "text": "für",
+        "start": 85.939,
+        "end": 86.059
+      },
+      {
+        "text": "winzige",
+        "start": 86.079,
+        "end": 86.419
+      },
+      {
+        "text": "Wesen",
+        "start": 86.439,
+        "end": 86.679
+      },
+      {
+        "text": "handelt",
+        "start": 86.739,
+        "end": 86.999
+      },
+      {
+        "text": "es",
+        "start": 87.059,
+        "end": 87.179
+      },
+      {
+        "text": "sich?",
+        "start": 87.219,
+        "end": 87.879
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Man nennt diese Wesen Bakterien, allerkleinste Lebewesen, welche die Schwindsucht auslösen.",
+    "start": 87.899,
+    "end": 92.981,
+    "words": [
+      {
+        "text": "Man",
+        "start": 87.899,
+        "end": 87.999
+      },
+      {
+        "text": "nennt",
+        "start": 88.019,
+        "end": 88.219
+      },
+      {
+        "text": "diese",
+        "start": 88.239,
+        "end": 88.439
+      },
+      {
+        "text": "Wesen",
+        "start": 88.459,
+        "end": 88.679
+      },
+      {
+        "text": "Bakterien,",
+        "start": 88.719,
+        "end": 89.46
+      },
+      {
+        "text": "allerkleinste",
+        "start": 89.48,
+        "end": 90.14
+      },
+      {
+        "text": "Lebewesen,",
+        "start": 90.18,
+        "end": 90.74
+      },
+      {
+        "text": "welche",
+        "start": 90.76,
+        "end": 91.08
+      },
+      {
+        "text": "die",
+        "start": 91.1,
+        "end": 91.2
+      },
+      {
+        "text": "Schwindsucht",
+        "start": 91.24,
+        "end": 91.761
+      },
+      {
+        "text": "auslösen.",
+        "start": 91.801,
+        "end": 92.981
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Diese Bakterien schaden eurem Körper, indem sie ihn zunehmend schwächen.",
+    "start": 93.021,
+    "end": 96.362,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 93.021,
+        "end": 93.241
+      },
+      {
+        "text": "Bakterien",
+        "start": 93.261,
+        "end": 93.881
+      },
+      {
+        "text": "schaden",
+        "start": 93.921,
+        "end": 94.261
+      },
+      {
+        "text": "eurem",
+        "start": 94.281,
+        "end": 94.501
+      },
+      {
+        "text": "Körper,",
+        "start": 94.541,
+        "end": 94.862
+      },
+      {
+        "text": "indem",
+        "start": 94.902,
+        "end": 95.142
+      },
+      {
+        "text": "sie",
+        "start": 95.182,
+        "end": 95.242
+      },
+      {
+        "text": "ihn",
+        "start": 95.282,
+        "end": 95.462
+      },
+      {
+        "text": "zunehmend",
+        "start": 95.482,
+        "end": 95.882
+      },
+      {
+        "text": "schwächen.",
+        "start": 95.902,
+        "end": 96.362
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Versteht ihr, Majestät?",
+    "start": 96.402,
+    "end": 97.743,
+    "words": [
+      {
+        "text": "Versteht",
+        "start": 96.402,
+        "end": 96.722
+      },
+      {
+        "text": "ihr,",
+        "start": 96.762,
+        "end": 96.882
+      },
+      {
+        "text": "Majestät?",
+        "start": 96.922,
+        "end": 97.743
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das sind Bakterien, sagst du?",
+    "start": 97.763,
+    "end": 100.944,
+    "words": [
+      {
+        "text": "Das",
+        "start": 97.763,
+        "end": 98.003
+      },
+      {
+        "text": "sind",
+        "start": 98.043,
+        "end": 98.223
+      },
+      {
+        "text": "Bakterien,",
+        "start": 98.243,
+        "end": 99.183
+      },
+      {
+        "text": "sagst",
+        "start": 99.203,
+        "end": 99.543
+      },
+      {
+        "text": "du?",
+        "start": 99.683,
+        "end": 100.944
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ihr müsst wissen, auf der Welt gibt es viele solcher Erreger, die Krankheiten auslösen können.",
+    "start": 100.984,
+    "end": 108.386,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 100.984,
+        "end": 101.104
+      },
+      {
+        "text": "müsst",
+        "start": 101.124,
+        "end": 101.344
+      },
+      {
+        "text": "wissen,",
+        "start": 101.364,
+        "end": 102.044
+      },
+      {
+        "text": "auf",
+        "start": 102.084,
+        "end": 102.184
+      },
+      {
+        "text": "der",
+        "start": 102.224,
+        "end": 102.324
+      },
+      {
+        "text": "Welt",
+        "start": 102.364,
+        "end": 102.584
+      },
+      {
+        "text": "gibt",
+        "start": 102.604,
+        "end": 102.744
+      },
+      {
+        "text": "es",
+        "start": 102.804,
+        "end": 102.944
+      },
+      {
+        "text": "viele",
+        "start": 102.984,
+        "end": 103.224
+      },
+      {
+        "text": "solcher",
+        "start": 103.264,
+        "end": 103.565
+      },
+      {
+        "text": "Erreger,",
+        "start": 103.605,
+        "end": 104.025
+      },
+      {
+        "text": "die",
+        "start": 104.065,
+        "end": 104.185
+      },
+      {
+        "text": "Krankheiten",
+        "start": 104.225,
+        "end": 104.725
+      },
+      {
+        "text": "auslösen",
+        "start": 104.765,
+        "end": 105.265
+      },
+      {
+        "text": "können.",
+        "start": 105.285,
+        "end": 108.386
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Die von mir hergestellte Medizin ist dazu gedacht, diese Krankheitserreger anzugreifen.",
+    "start": 108.426,
+    "end": 112.988,
+    "words": [
+      {
+        "text": "Die",
+        "start": 108.426,
+        "end": 108.546
+      },
+      {
+        "text": "von",
+        "start": 108.586,
+        "end": 108.766
+      },
+      {
+        "text": "mir",
+        "start": 108.786,
+        "end": 108.986
+      },
+      {
+        "text": "hergestellte",
+        "start": 109.026,
+        "end": 109.687
+      },
+      {
+        "text": "Medizin",
+        "start": 109.707,
+        "end": 110.187
+      },
+      {
+        "text": "ist",
+        "start": 110.247,
+        "end": 110.387
+      },
+      {
+        "text": "dazu",
+        "start": 110.407,
+        "end": 110.627
+      },
+      {
+        "text": "gedacht,",
+        "start": 110.667,
+        "end": 111.127
+      },
+      {
+        "text": "diese",
+        "start": 111.167,
+        "end": 111.407
+      },
+      {
+        "text": "Krankheitserreger",
+        "start": 111.447,
+        "end": 112.348
+      },
+      {
+        "text": "anzugreifen.",
+        "start": 112.368,
+        "end": 112.988
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Wenn ihr sie ein halbes Jahr lang nehmt, dürftet ihr vollständig genesen.",
+    "start": 114.458,
+    "end": 118.521,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 114.458,
+        "end": 114.598
+      },
+      {
+        "text": "ihr",
+        "start": 114.658,
+        "end": 114.738
+      },
+      {
+        "text": "sie",
+        "start": 114.778,
+        "end": 114.878
+      },
+      {
+        "text": "ein",
+        "start": 114.918,
+        "end": 115.039
+      },
+      {
+        "text": "halbes",
+        "start": 115.079,
+        "end": 115.379
+      },
+      {
+        "text": "Jahr",
+        "start": 115.419,
+        "end": 115.559
+      },
+      {
+        "text": "lang",
+        "start": 115.599,
+        "end": 115.759
+      },
+      {
+        "text": "nehmt,",
+        "start": 115.799,
+        "end": 116.339
+      },
+      {
+        "text": "dürftet",
+        "start": 116.379,
+        "end": 116.7
+      },
+      {
+        "text": "ihr",
+        "start": 116.76,
+        "end": 116.88
+      },
+      {
+        "text": "vollständig",
+        "start": 116.9,
+        "end": 117.56
+      },
+      {
+        "text": "genesen.",
+        "start": 117.6,
+        "end": 118.521
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Das ist eine sehr lange Zeit.",
+    "start": 118.561,
+    "end": 120.082,
+    "words": [
+      {
+        "text": "Das",
+        "start": 118.561,
+        "end": 118.681
+      },
+      {
+        "text": "ist",
+        "start": 118.821,
+        "end": 118.961
+      },
+      {
+        "text": "eine",
+        "start": 119.021,
+        "end": 119.321
+      },
+      {
+        "text": "sehr",
+        "start": 119.361,
+        "end": 119.561
+      },
+      {
+        "text": "lange",
+        "start": 119.581,
+        "end": 119.842
+      },
+      {
+        "text": "Zeit.",
+        "start": 119.882,
+        "end": 120.082
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Die Schwindsucht ist auch eine sehr hartnäckige Krankheit.",
+    "start": 120.282,
+    "end": 123.144,
+    "words": [
+      {
+        "text": "Die",
+        "start": 120.282,
+        "end": 120.462
+      },
+      {
+        "text": "Schwindsucht",
+        "start": 120.482,
+        "end": 120.942
+      },
+      {
+        "text": "ist",
+        "start": 121.002,
+        "end": 121.143
+      },
+      {
+        "text": "auch",
+        "start": 121.183,
+        "end": 121.363
+      },
+      {
+        "text": "eine",
+        "start": 121.383,
+        "end": 121.563
+      },
+      {
+        "text": "sehr",
+        "start": 121.603,
+        "end": 121.763
+      },
+      {
+        "text": "hartnäckige",
+        "start": 121.803,
+        "end": 122.463
+      },
+      {
+        "text": "Krankheit.",
+        "start": 122.503,
+        "end": 123.144
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Vollmer, mein Junge.",
+    "start": 123.184,
+    "end": 128.067,
+    "words": [
+      {
+        "text": "Vollmer,",
+        "start": 123.184,
+        "end": 126.806
+      },
+      {
+        "text": "mein",
+        "start": 126.986,
+        "end": 127.166
+      },
+      {
+        "text": "Junge.",
+        "start": 127.186,
+        "end": 128.067
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Deine Erklärung widerlegt das derzeitige medizinische Wissen in seinen Grundzügen.",
+    "start": 128.087,
+    "end": 132.99,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 128.087,
+        "end": 128.267
+      },
+      {
+        "text": "Erklärung",
+        "start": 128.327,
+        "end": 129.148
+      },
+      {
+        "text": "widerlegt",
+        "start": 129.188,
+        "end": 129.688
+      },
+      {
+        "text": "das",
+        "start": 129.728,
+        "end": 129.908
+      },
+      {
+        "text": "derzeitige",
+        "start": 129.928,
+        "end": 130.549
+      },
+      {
+        "text": "medizinische",
+        "start": 130.569,
+        "end": 131.209
+      },
+      {
+        "text": "Wissen",
+        "start": 131.229,
+        "end": 131.789
+      },
+      {
+        "text": "in",
+        "start": 131.85,
+        "end": 132.03
+      },
+      {
+        "text": "seinen",
+        "start": 132.05,
+        "end": 132.33
+      },
+      {
+        "text": "Grundzügen.",
+        "start": 132.37,
+        "end": 132.99
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Aber gut, ich werde deine Medizin akzeptieren.",
+    "start": 134.411,
+    "end": 137.373,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 134.411,
+        "end": 134.671
+      },
+      {
+        "text": "gut,",
+        "start": 134.691,
+        "end": 135.352
+      },
+      {
+        "text": "ich",
+        "start": 135.392,
+        "end": 135.512
+      },
+      {
+        "text": "werde",
+        "start": 135.552,
+        "end": 135.912
+      },
+      {
+        "text": "deine",
+        "start": 135.932,
+        "end": 136.232
+      },
+      {
+        "text": "Medizin",
+        "start": 136.252,
+        "end": 136.773
+      },
+      {
+        "text": "akzeptieren.",
+        "start": 136.813,
+        "end": 137.373
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Hab Dank.",
+    "start": 139.374,
+    "end": 139.815,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 139.374,
+        "end": 139.635
+      },
+      {
+        "text": "Dank.",
+        "start": 139.655,
+        "end": 139.815
+      }
+    ]
+  }
+]

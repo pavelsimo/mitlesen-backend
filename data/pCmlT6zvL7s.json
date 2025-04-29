@@ -1,0 +1,1651 @@
+[
+  {
+    "id": 0,
+    "text": " Fräulein Claire, ich kann euch leider keine Liebe wie im Märchen bieten.",
+    "start": 0.538,
+    "end": 6.621,
+    "words": [
+      {
+        "text": "Fräulein",
+        "start": 0.538,
+        "end": 0.838
+      },
+      {
+        "text": "Claire,",
+        "start": 0.858,
+        "end": 2.939
+      },
+      {
+        "text": "ich",
+        "start": 2.979,
+        "end": 3.079
+      },
+      {
+        "text": "kann",
+        "start": 3.119,
+        "end": 3.299
+      },
+      {
+        "text": "euch",
+        "start": 3.359,
+        "end": 4.039
+      },
+      {
+        "text": "leider",
+        "start": 4.08,
+        "end": 4.38
+      },
+      {
+        "text": "keine",
+        "start": 4.4,
+        "end": 4.68
+      },
+      {
+        "text": "Liebe",
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "text": "wie",
+        "start": 5.0,
+        "end": 5.1
+      },
+      {
+        "text": "im",
+        "start": 5.14,
+        "end": 5.26
+      },
+      {
+        "text": "Märchen",
+        "start": 5.3,
+        "end": 5.68
+      },
+      {
+        "text": "bieten.",
+        "start": 5.7,
+        "end": 6.621
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Und Wichtiges muss ich immer ans Lächerliche ziehen.",
+    "start": 6.681,
+    "end": 9.902,
+    "words": [
+      {
+        "text": "Und",
+        "start": 6.681,
+        "end": 6.861
+      },
+      {
+        "text": "Wichtiges",
+        "start": 6.901,
+        "end": 7.681
+      },
+      {
+        "text": "muss",
+        "start": 7.701,
+        "end": 7.861
+      },
+      {
+        "text": "ich",
+        "start": 7.901,
+        "end": 8.041
+      },
+      {
+        "text": "immer",
+        "start": 8.061,
+        "end": 8.241
+      },
+      {
+        "text": "ans",
+        "start": 8.281,
+        "end": 8.381
+      },
+      {
+        "text": "Lächerliche",
+        "start": 8.461,
+        "end": 9.042
+      },
+      {
+        "text": "ziehen.",
+        "start": 9.082,
+        "end": 9.902
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Aber ich schwöre, selbst wenn die Waage der Liebe und die Götter es nicht anerkennen würden, würde ich euch trotzdem für immer lieben.",
+    "start": 9.962,
+    "end": 18.545,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 9.962,
+        "end": 11.362
+      },
+      {
+        "text": "ich",
+        "start": 11.402,
+        "end": 11.543
+      },
+      {
+        "text": "schwöre,",
+        "start": 11.583,
+        "end": 12.423
+      },
+      {
+        "text": "selbst",
+        "start": 12.463,
+        "end": 12.703
+      },
+      {
+        "text": "wenn",
+        "start": 12.723,
+        "end": 12.903
+      },
+      {
+        "text": "die",
+        "start": 12.923,
+        "end": 13.043
+      },
+      {
+        "text": "Waage",
+        "start": 13.063,
+        "end": 13.323
+      },
+      {
+        "text": "der",
+        "start": 13.363,
+        "end": 13.503
+      },
+      {
+        "text": "Liebe",
+        "start": 13.563,
+        "end": 13.803
+      },
+      {
+        "text": "und",
+        "start": 13.843,
+        "end": 13.963
+      },
+      {
+        "text": "die",
+        "start": 13.983,
+        "end": 14.124
+      },
+      {
+        "text": "Götter",
+        "start": 14.144,
+        "end": 14.444
+      },
+      {
+        "text": "es",
+        "start": 14.484,
+        "end": 14.644
+      },
+      {
+        "text": "nicht",
+        "start": 14.664,
+        "end": 14.864
+      },
+      {
+        "text": "anerkennen",
+        "start": 14.904,
+        "end": 15.384
+      },
+      {
+        "text": "würden,",
+        "start": 15.424,
+        "end": 16.044
+      },
+      {
+        "text": "würde",
+        "start": 16.084,
+        "end": 16.264
+      },
+      {
+        "text": "ich",
+        "start": 16.284,
+        "end": 16.384
+      },
+      {
+        "text": "euch",
+        "start": 16.444,
+        "end": 16.645
+      },
+      {
+        "text": "trotzdem",
+        "start": 16.685,
+        "end": 17.145
+      },
+      {
+        "text": "für",
+        "start": 17.185,
+        "end": 17.345
+      },
+      {
+        "text": "immer",
+        "start": 17.385,
+        "end": 17.645
+      },
+      {
+        "text": "lieben.",
+        "start": 17.685,
+        "end": 18.545
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wer auch kommt und wie oft ich auch verlieren mag, ich verspreche, dass ich euch bis in alle Ewigkeit liebe.",
+    "start": 18.585,
+    "end": 24.928,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 18.585,
+        "end": 18.725
+      },
+      {
+        "text": "auch",
+        "start": 18.765,
+        "end": 18.965
+      },
+      {
+        "text": "kommt",
+        "start": 19.006,
+        "end": 19.726
+      },
+      {
+        "text": "und",
+        "start": 19.766,
+        "end": 19.926
+      },
+      {
+        "text": "wie",
+        "start": 19.946,
+        "end": 20.046
+      },
+      {
+        "text": "oft",
+        "start": 20.086,
+        "end": 20.286
+      },
+      {
+        "text": "ich",
+        "start": 20.306,
+        "end": 20.406
+      },
+      {
+        "text": "auch",
+        "start": 20.426,
+        "end": 20.566
+      },
+      {
+        "text": "verlieren",
+        "start": 20.586,
+        "end": 20.986
+      },
+      {
+        "text": "mag,",
+        "start": 21.046,
+        "end": 21.827
+      },
+      {
+        "text": "ich",
+        "start": 21.867,
+        "end": 22.007
+      },
+      {
+        "text": "verspreche,",
+        "start": 22.027,
+        "end": 22.907
+      },
+      {
+        "text": "dass",
+        "start": 22.947,
+        "end": 23.107
+      },
+      {
+        "text": "ich",
+        "start": 23.147,
+        "end": 23.287
+      },
+      {
+        "text": "euch",
+        "start": 23.307,
+        "end": 23.507
+      },
+      {
+        "text": "bis",
+        "start": 23.547,
+        "end": 23.667
+      },
+      {
+        "text": "in",
+        "start": 23.747,
+        "end": 23.907
+      },
+      {
+        "text": "alle",
+        "start": 23.947,
+        "end": 24.128
+      },
+      {
+        "text": "Ewigkeit",
+        "start": 24.208,
+        "end": 24.728
+      },
+      {
+        "text": "liebe.",
+        "start": 24.768,
+        "end": 24.928
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": " Würdet ihr mir die Ehre erweisen, mich zu eurer Maid und sogar zu eurer Partnerin zu nehmen?",
+    "start": 26.002,
+    "end": 32.187,
+    "words": [
+      {
+        "text": "Würdet",
+        "start": 26.002,
+        "end": 26.582
+      },
+      {
+        "text": "ihr",
+        "start": 26.643,
+        "end": 26.743
+      },
+      {
+        "text": "mir",
+        "start": 26.763,
+        "end": 27.703
+      },
+      {
+        "text": "die",
+        "start": 27.723,
+        "end": 27.904
+      },
+      {
+        "text": "Ehre",
+        "start": 27.944,
+        "end": 28.184
+      },
+      {
+        "text": "erweisen,",
+        "start": 28.224,
+        "end": 29.205
+      },
+      {
+        "text": "mich",
+        "start": 29.225,
+        "end": 29.485
+      },
+      {
+        "text": "zu",
+        "start": 29.505,
+        "end": 29.605
+      },
+      {
+        "text": "eurer",
+        "start": 29.685,
+        "end": 29.945
+      },
+      {
+        "text": "Maid",
+        "start": 29.985,
+        "end": 30.366
+      },
+      {
+        "text": "und",
+        "start": 30.386,
+        "end": 30.546
+      },
+      {
+        "text": "sogar",
+        "start": 30.566,
+        "end": 30.846
+      },
+      {
+        "text": "zu",
+        "start": 30.886,
+        "end": 30.966
+      },
+      {
+        "text": "eurer",
+        "start": 31.006,
+        "end": 31.247
+      },
+      {
+        "text": "Partnerin",
+        "start": 31.287,
+        "end": 31.747
+      },
+      {
+        "text": "zu",
+        "start": 31.807,
+        "end": 31.887
+      },
+      {
+        "text": "nehmen?",
+        "start": 31.947,
+        "end": 32.187
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Du bist immer wieder aufs Neue.",
+    "start": 35.27,
+    "end": 40.194,
+    "words": [
+      {
+        "text": "Du",
+        "start": 35.27,
+        "end": 35.43
+      },
+      {
+        "text": "bist",
+        "start": 35.47,
+        "end": 35.71
+      },
+      {
+        "text": "immer",
+        "start": 35.75,
+        "end": 36.011
+      },
+      {
+        "text": "wieder",
+        "start": 36.031,
+        "end": 36.231
+      },
+      {
+        "text": "aufs",
+        "start": 36.271,
+        "end": 36.511
+      },
+      {
+        "text": "Neue.",
+        "start": 36.551,
+        "end": 40.194
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Da habe ich auf ganzer Linie verloren, Ray.",
+    "start": 40.234,
+    "end": 43.357,
+    "words": [
+      {
+        "text": "Da",
+        "start": 40.234,
+        "end": 40.354
+      },
+      {
+        "text": "habe",
+        "start": 40.374,
+        "end": 40.514
+      },
+      {
+        "text": "ich",
+        "start": 40.575,
+        "end": 40.735
+      },
+      {
+        "text": "auf",
+        "start": 40.775,
+        "end": 40.935
+      },
+      {
+        "text": "ganzer",
+        "start": 40.975,
+        "end": 41.315
+      },
+      {
+        "text": "Linie",
+        "start": 41.335,
+        "end": 41.736
+      },
+      {
+        "text": "verloren,",
+        "start": 41.776,
+        "end": 42.556
+      },
+      {
+        "text": "Ray.",
+        "start": 42.636,
+        "end": 43.357
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich kenne niemanden besseren als dich.",
+    "start": 43.397,
+    "end": 45.439,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 43.397,
+        "end": 43.497
+      },
+      {
+        "text": "kenne",
+        "start": 43.537,
+        "end": 43.877
+      },
+      {
+        "text": "niemanden",
+        "start": 43.897,
+        "end": 44.238
+      },
+      {
+        "text": "besseren",
+        "start": 44.278,
+        "end": 44.758
+      },
+      {
+        "text": "als",
+        "start": 44.798,
+        "end": 44.998
+      },
+      {
+        "text": "dich.",
+        "start": 45.058,
+        "end": 45.439
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Ich fürchte, ich kann dir nicht ganz folgen.",
+    "start": 47.908,
+    "end": 52.01,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 47.908,
+        "end": 48.008
+      },
+      {
+        "text": "fürchte,",
+        "start": 48.028,
+        "end": 50.409
+      },
+      {
+        "text": "ich",
+        "start": 50.429,
+        "end": 50.529
+      },
+      {
+        "text": "kann",
+        "start": 50.549,
+        "end": 50.709
+      },
+      {
+        "text": "dir",
+        "start": 50.729,
+        "end": 50.829
+      },
+      {
+        "text": "nicht",
+        "start": 50.849,
+        "end": 50.989
+      },
+      {
+        "text": "ganz",
+        "start": 51.029,
+        "end": 51.21
+      },
+      {
+        "text": "folgen.",
+        "start": 51.27,
+        "end": 52.01
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Tut mir leid, aber ich hatte es nur auf meine Ray abgesehen.",
+    "start": 52.05,
+    "end": 56.452,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 52.05,
+        "end": 52.27
+      },
+      {
+        "text": "mir",
+        "start": 52.29,
+        "end": 52.45
+      },
+      {
+        "text": "leid,",
+        "start": 52.73,
+        "end": 53.531
+      },
+      {
+        "text": "aber",
+        "start": 53.591,
+        "end": 53.731
+      },
+      {
+        "text": "ich",
+        "start": 53.771,
+        "end": 53.891
+      },
+      {
+        "text": "hatte",
+        "start": 53.911,
+        "end": 54.091
+      },
+      {
+        "text": "es",
+        "start": 54.151,
+        "end": 54.271
+      },
+      {
+        "text": "nur",
+        "start": 54.351,
+        "end": 55.211
+      },
+      {
+        "text": "auf",
+        "start": 55.231,
+        "end": 55.372
+      },
+      {
+        "text": "meine",
+        "start": 55.412,
+        "end": 55.632
+      },
+      {
+        "text": "Ray",
+        "start": 55.652,
+        "end": 55.852
+      },
+      {
+        "text": "abgesehen.",
+        "start": 55.892,
+        "end": 56.452
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Dann habt ihr die ganze Zeit mit Claire rumgeturtelt um mich?",
+    "start": 57.352,
+    "end": 61.014,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 57.352,
+        "end": 57.553
+      },
+      {
+        "text": "habt",
+        "start": 57.593,
+        "end": 57.773
+      },
+      {
+        "text": "ihr",
+        "start": 57.813,
+        "end": 57.933
+      },
+      {
+        "text": "die",
+        "start": 57.953,
+        "end": 58.093
+      },
+      {
+        "text": "ganze",
+        "start": 58.133,
+        "end": 58.473
+      },
+      {
+        "text": "Zeit",
+        "start": 58.533,
+        "end": 58.793
+      },
+      {
+        "text": "mit",
+        "start": 58.813,
+        "end": 58.993
+      },
+      {
+        "text": "Claire",
+        "start": 59.033,
+        "end": 59.293
+      },
+      {
+        "text": "rumgeturtelt",
+        "start": 59.313,
+        "end": 60.114
+      },
+      {
+        "text": "um",
+        "start": 60.154,
+        "end": 60.374
+      },
+      {
+        "text": "mich?",
+        "start": 60.414,
+        "end": 61.014
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Genau.",
+    "start": 61.054,
+    "end": 61.675,
+    "words": [
+      {
+        "text": "Genau.",
+        "start": 61.054,
+        "end": 61.675
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Deine Reaktionen waren so witzig, ich konnte nicht anders.",
+    "start": 61.715,
+    "end": 67.998,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 61.715,
+        "end": 61.955
+      },
+      {
+        "text": "Reaktionen",
+        "start": 61.995,
+        "end": 62.575
+      },
+      {
+        "text": "waren",
+        "start": 62.615,
+        "end": 62.875
+      },
+      {
+        "text": "so",
+        "start": 62.895,
+        "end": 63.075
+      },
+      {
+        "text": "witzig,",
+        "start": 63.095,
+        "end": 63.415
+      },
+      {
+        "text": "ich",
+        "start": 63.455,
+        "end": 63.575
+      },
+      {
+        "text": "konnte",
+        "start": 63.615,
+        "end": 63.896
+      },
+      {
+        "text": "nicht",
+        "start": 63.936,
+        "end": 64.116
+      },
+      {
+        "text": "anders.",
+        "start": 64.156,
+        "end": 67.998
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Geht's noch?",
+    "start": 68.258,
+    "end": 69.578,
+    "words": [
+      {
+        "text": "Geht's",
+        "start": 68.258,
+        "end": 68.518
+      },
+      {
+        "text": "noch?",
+        "start": 68.558,
+        "end": 69.578
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Lass mich sofort los!",
+    "start": 69.618,
+    "end": 70.699,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 69.618,
+        "end": 69.778
+      },
+      {
+        "text": "mich",
+        "start": 69.818,
+        "end": 69.958
+      },
+      {
+        "text": "sofort",
+        "start": 69.978,
+        "end": 70.299
+      },
+      {
+        "text": "los!",
+        "start": 70.359,
+        "end": 70.699
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Du bist ja noch niedlicher, wenn dir etwas nicht gefällt.",
+    "start": 70.719,
+    "end": 73.98,
+    "words": [
+      {
+        "text": "Du",
+        "start": 70.719,
+        "end": 71.559
+      },
+      {
+        "text": "bist",
+        "start": 71.579,
+        "end": 71.759
+      },
+      {
+        "text": "ja",
+        "start": 71.799,
+        "end": 71.999
+      },
+      {
+        "text": "noch",
+        "start": 72.019,
+        "end": 72.179
+      },
+      {
+        "text": "niedlicher,",
+        "start": 72.26,
+        "end": 72.78
+      },
+      {
+        "text": "wenn",
+        "start": 72.8,
+        "end": 72.94
+      },
+      {
+        "text": "dir",
+        "start": 72.96,
+        "end": 73.08
+      },
+      {
+        "text": "etwas",
+        "start": 73.1,
+        "end": 73.4
+      },
+      {
+        "text": "nicht",
+        "start": 73.42,
+        "end": 73.64
+      },
+      {
+        "text": "gefällt.",
+        "start": 73.66,
+        "end": 73.98
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " All das an dir hat mich verzaubert.",
+    "start": 76.11,
+    "end": 78.591,
+    "words": [
+      {
+        "text": "All",
+        "start": 76.11,
+        "end": 76.25
+      },
+      {
+        "text": "das",
+        "start": 76.29,
+        "end": 76.45
+      },
+      {
+        "text": "an",
+        "start": 76.49,
+        "end": 76.63
+      },
+      {
+        "text": "dir",
+        "start": 76.67,
+        "end": 76.77
+      },
+      {
+        "text": "hat",
+        "start": 76.79,
+        "end": 77.031
+      },
+      {
+        "text": "mich",
+        "start": 77.051,
+        "end": 77.191
+      },
+      {
+        "text": "verzaubert.",
+        "start": 77.231,
+        "end": 78.591
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Afferen!",
+    "start": 78.651,
+    "end": 81.652,
+    "words": [
+      {
+        "text": "Afferen!",
+        "start": 78.651,
+        "end": 81.652
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Meine Rey gehört einzig und allein mir.",
+    "start": 81.712,
+    "end": 83.513,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 81.712,
+        "end": 82.033
+      },
+      {
+        "text": "Rey",
+        "start": 82.073,
+        "end": 82.173
+      },
+      {
+        "text": "gehört",
+        "start": 82.193,
+        "end": 82.493
+      },
+      {
+        "text": "einzig",
+        "start": 82.533,
+        "end": 82.853
+      },
+      {
+        "text": "und",
+        "start": 82.873,
+        "end": 82.953
+      },
+      {
+        "text": "allein",
+        "start": 82.993,
+        "end": 83.293
+      },
+      {
+        "text": "mir.",
+        "start": 83.313,
+        "end": 83.513
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du nimmst sie mir nicht weg, ist das klar?",
+    "start": 83.553,
+    "end": 85.094,
+    "words": [
+      {
+        "text": "Du",
+        "start": 83.553,
+        "end": 83.653
+      },
+      {
+        "text": "nimmst",
+        "start": 83.673,
+        "end": 83.893
+      },
+      {
+        "text": "sie",
+        "start": 83.913,
+        "end": 84.033
+      },
+      {
+        "text": "mir",
+        "start": 84.053,
+        "end": 84.134
+      },
+      {
+        "text": "nicht",
+        "start": 84.154,
+        "end": 84.374
+      },
+      {
+        "text": "weg,",
+        "start": 84.394,
+        "end": 84.554
+      },
+      {
+        "text": "ist",
+        "start": 84.614,
+        "end": 84.714
+      },
+      {
+        "text": "das",
+        "start": 84.734,
+        "end": 84.914
+      },
+      {
+        "text": "klar?",
+        "start": 84.974,
+        "end": 85.094
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Also, Fräulein Claire?",
+    "start": 92.693,
+    "end": 94.375,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 92.693,
+        "end": 92.914
+      },
+      {
+        "text": "Fräulein",
+        "start": 92.934,
+        "end": 93.314
+      },
+      {
+        "text": "Claire?",
+        "start": 93.334,
+        "end": 94.375
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Das verstehst du falsch, so habe ich das gar nicht gemeint.",
+    "start": 94.395,
+    "end": 97.277,
+    "words": [
+      {
+        "text": "Das",
+        "start": 94.395,
+        "end": 94.595
+      },
+      {
+        "text": "verstehst",
+        "start": 94.615,
+        "end": 94.955
+      },
+      {
+        "text": "du",
+        "start": 94.995,
+        "end": 95.115
+      },
+      {
+        "text": "falsch,",
+        "start": 95.155,
+        "end": 95.475
+      },
+      {
+        "text": "so",
+        "start": 95.515,
+        "end": 95.616
+      },
+      {
+        "text": "habe",
+        "start": 95.636,
+        "end": 95.776
+      },
+      {
+        "text": "ich",
+        "start": 95.816,
+        "end": 95.916
+      },
+      {
+        "text": "das",
+        "start": 95.956,
+        "end": 96.096
+      },
+      {
+        "text": "gar",
+        "start": 96.136,
+        "end": 96.296
+      },
+      {
+        "text": "nicht",
+        "start": 96.316,
+        "end": 96.456
+      },
+      {
+        "text": "gemeint.",
+        "start": 96.476,
+        "end": 97.277
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Fräulein Claire!",
+    "start": 97.297,
+    "end": 98.698,
+    "words": [
+      {
+        "text": "Fräulein",
+        "start": 97.297,
+        "end": 97.697
+      },
+      {
+        "text": "Claire!",
+        "start": 97.797,
+        "end": 98.698
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Hey, lasst mich jetzt sofort los, wir sind in der Öffentlichkeit.",
+    "start": 98.738,
+    "end": 102.761,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 98.738,
+        "end": 99.258
+      },
+      {
+        "text": "lasst",
+        "start": 99.298,
+        "end": 99.658
+      },
+      {
+        "text": "mich",
+        "start": 99.678,
+        "end": 99.818
+      },
+      {
+        "text": "jetzt",
+        "start": 99.979,
+        "end": 100.139
+      },
+      {
+        "text": "sofort",
+        "start": 100.159,
+        "end": 100.619
+      },
+      {
+        "text": "los,",
+        "start": 100.659,
+        "end": 100.939
+      },
+      {
+        "text": "wir",
+        "start": 100.959,
+        "end": 101.099
+      },
+      {
+        "text": "sind",
+        "start": 101.119,
+        "end": 101.26
+      },
+      {
+        "text": "in",
+        "start": 101.3,
+        "end": 101.4
+      },
+      {
+        "text": "der",
+        "start": 101.44,
+        "end": 101.58
+      },
+      {
+        "text": "Öffentlichkeit.",
+        "start": 101.64,
+        "end": 102.761
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ich will euch nicht loslassen, weil ich euch so sehr liebe.",
+    "start": 102.841,
+    "end": 105.202,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 102.841,
+        "end": 102.941
+      },
+      {
+        "text": "will",
+        "start": 102.961,
+        "end": 103.081
+      },
+      {
+        "text": "euch",
+        "start": 103.141,
+        "end": 103.281
+      },
+      {
+        "text": "nicht",
+        "start": 103.321,
+        "end": 103.461
+      },
+      {
+        "text": "loslassen,",
+        "start": 103.501,
+        "end": 104.001
+      },
+      {
+        "text": "weil",
+        "start": 104.021,
+        "end": 104.162
+      },
+      {
+        "text": "ich",
+        "start": 104.202,
+        "end": 104.282
+      },
+      {
+        "text": "euch",
+        "start": 104.322,
+        "end": 104.482
+      },
+      {
+        "text": "so",
+        "start": 104.522,
+        "end": 104.662
+      },
+      {
+        "text": "sehr",
+        "start": 104.682,
+        "end": 104.842
+      },
+      {
+        "text": "liebe.",
+        "start": 104.862,
+        "end": 105.202
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Und du weißt genau, dass ich dich nicht leisen kann, also lasst mich jetzt sofort los!",
+    "start": 105.262,
+    "end": 108.545,
+    "words": [
+      {
+        "text": "Und",
+        "start": 105.262,
+        "end": 105.362
+      },
+      {
+        "text": "du",
+        "start": 105.402,
+        "end": 105.483
+      },
+      {
+        "text": "weißt",
+        "start": 105.503,
+        "end": 105.703
+      },
+      {
+        "text": "genau,",
+        "start": 105.723,
+        "end": 106.003
+      },
+      {
+        "text": "dass",
+        "start": 106.023,
+        "end": 106.143
+      },
+      {
+        "text": "ich",
+        "start": 106.183,
+        "end": 106.283
+      },
+      {
+        "text": "dich",
+        "start": 106.303,
+        "end": 106.443
+      },
+      {
+        "text": "nicht",
+        "start": 106.463,
+        "end": 106.623
+      },
+      {
+        "text": "leisen",
+        "start": 106.683,
+        "end": 106.964
+      },
+      {
+        "text": "kann,",
+        "start": 106.984,
+        "end": 107.064
+      },
+      {
+        "text": "also",
+        "start": 107.104,
+        "end": 107.264
+      },
+      {
+        "text": "lasst",
+        "start": 107.284,
+        "end": 107.424
+      },
+      {
+        "text": "mich",
+        "start": 107.444,
+        "end": 107.564
+      },
+      {
+        "text": "jetzt",
+        "start": 107.584,
+        "end": 107.804
+      },
+      {
+        "text": "sofort",
+        "start": 107.824,
+        "end": 108.284
+      },
+      {
+        "text": "los!",
+        "start": 108.325,
+        "end": 108.545
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Aber ihr habt eben gesagt, dass ich euch gehöre.",
+    "start": 108.625,
+    "end": 114.689,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 108.625,
+        "end": 110.186
+      },
+      {
+        "text": "ihr",
+        "start": 110.246,
+        "end": 110.366
+      },
+      {
+        "text": "habt",
+        "start": 110.386,
+        "end": 110.546
+      },
+      {
+        "text": "eben",
+        "start": 110.586,
+        "end": 110.826
+      },
+      {
+        "text": "gesagt,",
+        "start": 110.866,
+        "end": 111.167
+      },
+      {
+        "text": "dass",
+        "start": 111.187,
+        "end": 111.347
+      },
+      {
+        "text": "ich",
+        "start": 111.407,
+        "end": 111.527
+      },
+      {
+        "text": "euch",
+        "start": 111.567,
+        "end": 111.747
+      },
+      {
+        "text": "gehöre.",
+        "start": 111.787,
+        "end": 114.689
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Was zum Geier spielt sich hier vor unseren Augen ab?",
+    "start": 114.729,
+    "end": 116.991,
+    "words": [
+      {
+        "text": "Was",
+        "start": 114.729,
+        "end": 114.969
+      },
+      {
+        "text": "zum",
+        "start": 114.989,
+        "end": 115.149
+      },
+      {
+        "text": "Geier",
+        "start": 115.169,
+        "end": 115.43
+      },
+      {
+        "text": "spielt",
+        "start": 115.45,
+        "end": 115.71
+      },
+      {
+        "text": "sich",
+        "start": 115.73,
+        "end": 115.87
+      },
+      {
+        "text": "hier",
+        "start": 115.89,
+        "end": 116.05
+      },
+      {
+        "text": "vor",
+        "start": 116.09,
+        "end": 116.21
+      },
+      {
+        "text": "unseren",
+        "start": 116.25,
+        "end": 116.59
+      },
+      {
+        "text": "Augen",
+        "start": 116.63,
+        "end": 116.811
+      },
+      {
+        "text": "ab?",
+        "start": 116.891,
+        "end": 116.991
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Prinzessin Manaria, seid mir bitte nicht böse.",
+    "start": 120.702,
+    "end": 123.224,
+    "words": [
+      {
+        "text": "Prinzessin",
+        "start": 120.702,
+        "end": 121.102
+      },
+      {
+        "text": "Manaria,",
+        "start": 121.122,
+        "end": 121.883
+      },
+      {
+        "text": "seid",
+        "start": 121.923,
+        "end": 122.123
+      },
+      {
+        "text": "mir",
+        "start": 122.143,
+        "end": 122.263
+      },
+      {
+        "text": "bitte",
+        "start": 122.283,
+        "end": 122.483
+      },
+      {
+        "text": "nicht",
+        "start": 122.503,
+        "end": 122.643
+      },
+      {
+        "text": "böse.",
+        "start": 122.683,
+        "end": 123.224
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Anscheinend wurdet ihr geschlagen.",
+    "start": 123.284,
+    "end": 124.745,
+    "words": [
+      {
+        "text": "Anscheinend",
+        "start": 123.284,
+        "end": 123.764
+      },
+      {
+        "text": "wurdet",
+        "start": 123.784,
+        "end": 124.044
+      },
+      {
+        "text": "ihr",
+        "start": 124.104,
+        "end": 124.224
+      },
+      {
+        "text": "geschlagen.",
+        "start": 124.244,
+        "end": 124.745
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ja, sieht ganz so aus.",
+    "start": 126.846,
+    "end": 128.567,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 126.846,
+        "end": 127.266
+      },
+      {
+        "text": "sieht",
+        "start": 127.286,
+        "end": 127.506
+      },
+      {
+        "text": "ganz",
+        "start": 127.526,
+        "end": 127.786
+      },
+      {
+        "text": "so",
+        "start": 127.806,
+        "end": 127.986
+      },
+      {
+        "text": "aus.",
+        "start": 128.027,
+        "end": 128.567
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Du sollst mich loslassen!",
+    "start": 128.607,
+    "end": 131.148,
+    "words": [
+      {
+        "text": "Du",
+        "start": 128.607,
+        "end": 128.867
+      },
+      {
+        "text": "sollst",
+        "start": 129.748,
+        "end": 130.348
+      },
+      {
+        "text": "mich",
+        "start": 130.368,
+        "end": 130.468
+      },
+      {
+        "text": "loslassen!",
+        "start": 130.508,
+        "end": 131.148
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Will aber nicht!",
+    "start": 131.168,
+    "end": 133.31,
+    "words": [
+      {
+        "text": "Will",
+        "start": 131.168,
+        "end": 132.049
+      },
+      {
+        "text": "aber",
+        "start": 132.109,
+        "end": 132.829
+      },
+      {
+        "text": "nicht!",
+        "start": 132.949,
+        "end": 133.31
+      }
+    ]
+  }
+]

@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 import whisperx
+from mitlesen.logger import logger
 
 # IMPORTANT: cudnn libs
 # export LD_LIBRARY_PATH=/home/ubuntu/.virtualenvs/mitlesen-backend/lib/python3.12/site-packages/nvidia/cudnn/lib/
@@ -17,7 +18,6 @@ def transcribe(
     batch_size = 6
     model = whisperx.load_model(model_name, device, compute_type=compute_type, language=language)
     result = model.transcribe(audio, batch_size=batch_size)
-
 
     align_model, metadata = whisperx.load_align_model(
         language_code=language,
@@ -95,7 +95,7 @@ if __name__ == "__main__":
         device=args.device,
         language=args.language,
     )
-    print(transcription)
+    logger.info(transcription)
 
     # Determine output path
     if args.output_json:
@@ -108,4 +108,4 @@ if __name__ == "__main__":
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(transcription)
 
-    print(f"Transcription saved to {out_path}")
+    logger.info(f"Transcription saved to {out_path}")

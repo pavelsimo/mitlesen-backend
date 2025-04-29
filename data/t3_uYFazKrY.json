@@ -1,0 +1,327 @@
+[
+  {
+    "id": 0,
+    "text": " Das sind meine kostbaren Erinnerungen.",
+    "start": 1.077,
+    "end": 6.121,
+    "words": [
+      {
+        "text": "Das",
+        "start": 1.077,
+        "end": 1.738
+      },
+      {
+        "text": "sind",
+        "start": 1.778,
+        "end": 2.038
+      },
+      {
+        "text": "meine",
+        "start": 2.058,
+        "end": 2.398
+      },
+      {
+        "text": "kostbaren",
+        "start": 2.438,
+        "end": 2.998
+      },
+      {
+        "text": "Erinnerungen.",
+        "start": 3.039,
+        "end": 6.121
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Fern.",
+    "start": 6.181,
+    "end": 10.824,
+    "words": [
+      {
+        "text": "Fern.",
+        "start": 6.181,
+        "end": 10.824
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sie schafft es nicht.",
+    "start": 10.865,
+    "end": 19.831,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 10.865,
+        "end": 10.985
+      },
+      {
+        "text": "schafft",
+        "start": 11.025,
+        "end": 11.265
+      },
+      {
+        "text": "es",
+        "start": 11.325,
+        "end": 11.445
+      },
+      {
+        "text": "nicht.",
+        "start": 11.485,
+        "end": 19.831
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Da steht das Trogbild von Himmel.",
+    "start": 19.871,
+    "end": 22.974,
+    "words": [
+      {
+        "text": "Da",
+        "start": 19.871,
+        "end": 20.052
+      },
+      {
+        "text": "steht",
+        "start": 20.092,
+        "end": 20.332
+      },
+      {
+        "text": "das",
+        "start": 20.352,
+        "end": 20.492
+      },
+      {
+        "text": "Trogbild",
+        "start": 20.532,
+        "end": 20.972
+      },
+      {
+        "text": "von",
+        "start": 21.012,
+        "end": 21.233
+      },
+      {
+        "text": "Himmel.",
+        "start": 21.253,
+        "end": 22.974
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Dabei war ich mir sicher, dass wieder meine Meisterin vor mir erscheinen würde.",
+    "start": 22.994,
+    "end": 27.738,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 22.994,
+        "end": 23.334
+      },
+      {
+        "text": "war",
+        "start": 23.354,
+        "end": 23.474
+      },
+      {
+        "text": "ich",
+        "start": 23.494,
+        "end": 23.594
+      },
+      {
+        "text": "mir",
+        "start": 23.614,
+        "end": 23.774
+      },
+      {
+        "text": "sicher,",
+        "start": 23.814,
+        "end": 24.035
+      },
+      {
+        "text": "dass",
+        "start": 24.075,
+        "end": 24.235
+      },
+      {
+        "text": "wieder",
+        "start": 24.255,
+        "end": 24.475
+      },
+      {
+        "text": "meine",
+        "start": 24.515,
+        "end": 24.735
+      },
+      {
+        "text": "Meisterin",
+        "start": 24.775,
+        "end": 25.256
+      },
+      {
+        "text": "vor",
+        "start": 25.276,
+        "end": 25.396
+      },
+      {
+        "text": "mir",
+        "start": 25.416,
+        "end": 25.576
+      },
+      {
+        "text": "erscheinen",
+        "start": 25.596,
+        "end": 25.936
+      },
+      {
+        "text": "würde.",
+        "start": 25.976,
+        "end": 27.738
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich glaube, das bedeutet, dass ich mich ganz schön verändert habe.",
+    "start": 27.798,
+    "end": 30.84,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.798,
+        "end": 27.978
+      },
+      {
+        "text": "glaube,",
+        "start": 28.018,
+        "end": 28.378
+      },
+      {
+        "text": "das",
+        "start": 28.398,
+        "end": 28.598
+      },
+      {
+        "text": "bedeutet,",
+        "start": 28.638,
+        "end": 29.119
+      },
+      {
+        "text": "dass",
+        "start": 29.139,
+        "end": 29.299
+      },
+      {
+        "text": "ich",
+        "start": 29.359,
+        "end": 29.479
+      },
+      {
+        "text": "mich",
+        "start": 29.519,
+        "end": 29.739
+      },
+      {
+        "text": "ganz",
+        "start": 29.759,
+        "end": 29.939
+      },
+      {
+        "text": "schön",
+        "start": 29.959,
+        "end": 30.239
+      },
+      {
+        "text": "verändert",
+        "start": 30.279,
+        "end": 30.68
+      },
+      {
+        "text": "habe.",
+        "start": 30.72,
+        "end": 30.84
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Frieren.",
+    "start": 34.608,
+    "end": 34.748,
+    "words": [
+      {
+        "text": "Frieren.",
+        "start": 34.608,
+        "end": 34.748
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Schieß.",
+    "start": 34.768,
+    "end": 34.888,
+    "words": [
+      {
+        "text": "Schieß.",
+        "start": 34.768,
+        "end": 34.888
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Du hast recht.",
+    "start": 34.908,
+    "end": 35.169,
+    "words": [
+      {
+        "text": "Du",
+        "start": 34.908,
+        "end": 34.948
+      },
+      {
+        "text": "hast",
+        "start": 34.969,
+        "end": 35.049
+      },
+      {
+        "text": "recht.",
+        "start": 35.069,
+        "end": 35.169
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das würde Himmel sagen.",
+    "start": 35.189,
+    "end": 35.629,
+    "words": [
+      {
+        "text": "Das",
+        "start": 35.189,
+        "end": 35.249
+      },
+      {
+        "text": "würde",
+        "start": 35.269,
+        "end": 35.369
+      },
+      {
+        "text": "Himmel",
+        "start": 35.389,
+        "end": 35.509
+      },
+      {
+        "text": "sagen.",
+        "start": 35.529,
+        "end": 35.629
+      }
+    ]
+  }
+]

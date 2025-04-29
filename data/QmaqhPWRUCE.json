@@ -1,0 +1,577 @@
+[
+  {
+    "id": 0,
+    "text": " Die Posses gehören mir!",
+    "start": 3.727,
+    "end": 5.088,
+    "words": [
+      {
+        "text": "Die",
+        "start": 3.727,
+        "end": 3.967
+      },
+      {
+        "text": "Posses",
+        "start": 3.987,
+        "end": 4.307
+      },
+      {
+        "text": "gehören",
+        "start": 4.327,
+        "end": 4.628
+      },
+      {
+        "text": "mir!",
+        "start": 4.648,
+        "end": 5.088
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Rück sie raus!",
+    "start": 5.148,
+    "end": 6.469,
+    "words": [
+      {
+        "text": "Rück",
+        "start": 5.148,
+        "end": 5.408
+      },
+      {
+        "text": "sie",
+        "start": 5.428,
+        "end": 5.648
+      },
+      {
+        "text": "raus!",
+        "start": 5.668,
+        "end": 6.469
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Trinkst du etwa mein Blut oder was?",
+    "start": 6.509,
+    "end": 8.751,
+    "words": [
+      {
+        "text": "Trinkst",
+        "start": 6.509,
+        "end": 6.929
+      },
+      {
+        "text": "du",
+        "start": 6.949,
+        "end": 7.11
+      },
+      {
+        "text": "etwa",
+        "start": 7.15,
+        "end": 7.49
+      },
+      {
+        "text": "mein",
+        "start": 7.53,
+        "end": 7.73
+      },
+      {
+        "text": "Blut",
+        "start": 7.77,
+        "end": 8.03
+      },
+      {
+        "text": "oder",
+        "start": 8.05,
+        "end": 8.27
+      },
+      {
+        "text": "was?",
+        "start": 8.33,
+        "end": 8.751
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Widerwärtig!",
+    "start": 8.791,
+    "end": 10.412,
+    "words": [
+      {
+        "text": "Widerwärtig!",
+        "start": 8.791,
+        "end": 10.412
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Verzieh dich!",
+    "start": 10.432,
+    "end": 11.653,
+    "words": [
+      {
+        "text": "Verzieh",
+        "start": 10.432,
+        "end": 11.153
+      },
+      {
+        "text": "dich!",
+        "start": 11.193,
+        "end": 11.653
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich will dein stinkendes Blut nicht!",
+    "start": 11.693,
+    "end": 16.457,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 11.693,
+        "end": 11.853
+      },
+      {
+        "text": "will",
+        "start": 11.893,
+        "end": 12.153
+      },
+      {
+        "text": "dein",
+        "start": 12.173,
+        "end": 12.314
+      },
+      {
+        "text": "stinkendes",
+        "start": 12.334,
+        "end": 13.054
+      },
+      {
+        "text": "Blut",
+        "start": 13.194,
+        "end": 13.494
+      },
+      {
+        "text": "nicht!",
+        "start": 13.534,
+        "end": 16.457
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Einmal war Pochita spurlos verschwunden.",
+    "start": 16.497,
+    "end": 19.359,
+    "words": [
+      {
+        "text": "Einmal",
+        "start": 16.497,
+        "end": 16.757
+      },
+      {
+        "text": "war",
+        "start": 16.797,
+        "end": 16.957
+      },
+      {
+        "text": "Pochita",
+        "start": 16.977,
+        "end": 17.437
+      },
+      {
+        "text": "spurlos",
+        "start": 17.457,
+        "end": 17.918
+      },
+      {
+        "text": "verschwunden.",
+        "start": 17.958,
+        "end": 19.359
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Als ich morgens aufwachte, konnte ich ihn nirgends finden.",
+    "start": 19.419,
+    "end": 22.841,
+    "words": [
+      {
+        "text": "Als",
+        "start": 19.419,
+        "end": 19.539
+      },
+      {
+        "text": "ich",
+        "start": 19.579,
+        "end": 19.679
+      },
+      {
+        "text": "morgens",
+        "start": 19.719,
+        "end": 20.039
+      },
+      {
+        "text": "aufwachte,",
+        "start": 20.059,
+        "end": 20.5
+      },
+      {
+        "text": "konnte",
+        "start": 20.52,
+        "end": 20.68
+      },
+      {
+        "text": "ich",
+        "start": 20.7,
+        "end": 20.76
+      },
+      {
+        "text": "ihn",
+        "start": 20.78,
+        "end": 20.84
+      },
+      {
+        "text": "nirgends",
+        "start": 20.86,
+        "end": 21.2
+      },
+      {
+        "text": "finden.",
+        "start": 21.24,
+        "end": 22.841
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich suchte die ganze Stadt ab.",
+    "start": 22.882,
+    "end": 24.843,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 22.882,
+        "end": 22.982
+      },
+      {
+        "text": "suchte",
+        "start": 23.002,
+        "end": 23.302
+      },
+      {
+        "text": "die",
+        "start": 23.322,
+        "end": 23.422
+      },
+      {
+        "text": "ganze",
+        "start": 23.442,
+        "end": 23.702
+      },
+      {
+        "text": "Stadt",
+        "start": 23.742,
+        "end": 23.982
+      },
+      {
+        "text": "ab.",
+        "start": 24.022,
+        "end": 24.843
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ohne Erfolg.",
+    "start": 24.883,
+    "end": 26.724,
+    "words": [
+      {
+        "text": "Ohne",
+        "start": 24.883,
+        "end": 25.143
+      },
+      {
+        "text": "Erfolg.",
+        "start": 25.203,
+        "end": 26.724
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich befürchtete, ein Teufel hätte ihn gefressen.",
+    "start": 26.764,
+    "end": 28.666,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 26.764,
+        "end": 26.885
+      },
+      {
+        "text": "befürchtete,",
+        "start": 26.925,
+        "end": 27.445
+      },
+      {
+        "text": "ein",
+        "start": 27.465,
+        "end": 27.625
+      },
+      {
+        "text": "Teufel",
+        "start": 27.645,
+        "end": 27.925
+      },
+      {
+        "text": "hätte",
+        "start": 27.945,
+        "end": 28.146
+      },
+      {
+        "text": "ihn",
+        "start": 28.186,
+        "end": 28.286
+      },
+      {
+        "text": "gefressen.",
+        "start": 28.306,
+        "end": 28.666
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Aber als ich nach Hause kam, saß er dort weinend und wartete auf mich.",
+    "start": 31.46,
+    "end": 36.305,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 31.46,
+        "end": 31.6
+      },
+      {
+        "text": "als",
+        "start": 31.62,
+        "end": 31.76
+      },
+      {
+        "text": "ich",
+        "start": 31.8,
+        "end": 31.901
+      },
+      {
+        "text": "nach",
+        "start": 31.941,
+        "end": 32.041
+      },
+      {
+        "text": "Hause",
+        "start": 32.081,
+        "end": 32.281
+      },
+      {
+        "text": "kam,",
+        "start": 32.321,
+        "end": 33.222
+      },
+      {
+        "text": "saß",
+        "start": 33.262,
+        "end": 33.482
+      },
+      {
+        "text": "er",
+        "start": 33.522,
+        "end": 33.622
+      },
+      {
+        "text": "dort",
+        "start": 33.642,
+        "end": 33.883
+      },
+      {
+        "text": "weinend",
+        "start": 33.903,
+        "end": 34.283
+      },
+      {
+        "text": "und",
+        "start": 34.303,
+        "end": 34.443
+      },
+      {
+        "text": "wartete",
+        "start": 34.483,
+        "end": 34.823
+      },
+      {
+        "text": "auf",
+        "start": 34.864,
+        "end": 35.024
+      },
+      {
+        "text": "mich.",
+        "start": 35.044,
+        "end": 36.305
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich weiß noch, wie wir erleichtert zusammen eingeschlafen sind.",
+    "start": 36.345,
+    "end": 42.171,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 36.345,
+        "end": 36.445
+      },
+      {
+        "text": "weiß",
+        "start": 36.465,
+        "end": 36.685
+      },
+      {
+        "text": "noch,",
+        "start": 36.725,
+        "end": 36.846
+      },
+      {
+        "text": "wie",
+        "start": 36.866,
+        "end": 36.966
+      },
+      {
+        "text": "wir",
+        "start": 37.006,
+        "end": 37.146
+      },
+      {
+        "text": "erleichtert",
+        "start": 37.186,
+        "end": 37.666
+      },
+      {
+        "text": "zusammen",
+        "start": 37.706,
+        "end": 38.047
+      },
+      {
+        "text": "eingeschlafen",
+        "start": 38.087,
+        "end": 38.667
+      },
+      {
+        "text": "sind.",
+        "start": 38.707,
+        "end": 42.171
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Wie muss sie sich nachts gefühlt haben, als der Teufel ihre geliebte Katze geraubt hat?",
+    "start": 42.191,
+    "end": 47.176,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 42.191,
+        "end": 42.331
+      },
+      {
+        "text": "muss",
+        "start": 42.371,
+        "end": 42.571
+      },
+      {
+        "text": "sie",
+        "start": 42.611,
+        "end": 42.791
+      },
+      {
+        "text": "sich",
+        "start": 42.811,
+        "end": 43.052
+      },
+      {
+        "text": "nachts",
+        "start": 43.072,
+        "end": 43.412
+      },
+      {
+        "text": "gefühlt",
+        "start": 43.432,
+        "end": 43.752
+      },
+      {
+        "text": "haben,",
+        "start": 43.792,
+        "end": 44.974
+      },
+      {
+        "text": "als",
+        "start": 45.034,
+        "end": 45.214
+      },
+      {
+        "text": "der",
+        "start": 45.234,
+        "end": 45.354
+      },
+      {
+        "text": "Teufel",
+        "start": 45.374,
+        "end": 45.674
+      },
+      {
+        "text": "ihre",
+        "start": 45.714,
+        "end": 45.894
+      },
+      {
+        "text": "geliebte",
+        "start": 45.915,
+        "end": 46.335
+      },
+      {
+        "text": "Katze",
+        "start": 46.375,
+        "end": 46.695
+      },
+      {
+        "text": "geraubt",
+        "start": 46.735,
+        "end": 47.056
+      },
+      {
+        "text": "hat?",
+        "start": 47.076,
+        "end": 47.176
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Mithilfe!",
+    "start": 61.49,
+    "end": 61.711,
+    "words": [
+      {
+        "text": "Mithilfe!",
+        "start": 61.49,
+        "end": 61.711
+      }
+    ]
+  }
+]

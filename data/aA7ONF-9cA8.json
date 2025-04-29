@@ -1,0 +1,1219 @@
+[
+  {
+    "id": 0,
+    "text": " Wer ist das?",
+    "start": 7.648,
+    "end": 9.67,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 7.648,
+        "end": 7.809
+      },
+      {
+        "text": "ist",
+        "start": 7.849,
+        "end": 8.029
+      },
+      {
+        "text": "das?",
+        "start": 8.069,
+        "end": 9.67
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Emma?",
+    "start": 9.73,
+    "end": 11.551,
+    "words": [
+      {
+        "text": "Emma?",
+        "start": 9.73,
+        "end": 11.551
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Geh ruhig schon mal runter.",
+    "start": 11.571,
+    "end": 12.512,
+    "words": [
+      {
+        "text": "Geh",
+        "start": 11.571,
+        "end": 11.691
+      },
+      {
+        "text": "ruhig",
+        "start": 11.712,
+        "end": 11.872
+      },
+      {
+        "text": "schon",
+        "start": 11.892,
+        "end": 12.012
+      },
+      {
+        "text": "mal",
+        "start": 12.072,
+        "end": 12.152
+      },
+      {
+        "text": "runter.",
+        "start": 12.212,
+        "end": 12.512
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich komm gleich nach, okay?",
+    "start": 12.552,
+    "end": 17.876,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 12.552,
+        "end": 12.652
+      },
+      {
+        "text": "komm",
+        "start": 12.672,
+        "end": 12.832
+      },
+      {
+        "text": "gleich",
+        "start": 12.872,
+        "end": 13.093
+      },
+      {
+        "text": "nach,",
+        "start": 13.113,
+        "end": 13.253
+      },
+      {
+        "text": "okay?",
+        "start": 13.333,
+        "end": 17.876
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Bis dann.",
+    "start": 17.916,
+    "end": 18.497,
+    "words": [
+      {
+        "text": "Bis",
+        "start": 17.916,
+        "end": 18.116
+      },
+      {
+        "text": "dann.",
+        "start": 18.156,
+        "end": 18.497
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Was gibt's?",
+    "start": 18.537,
+    "end": 19.217,
+    "words": [
+      {
+        "text": "Was",
+        "start": 18.537,
+        "end": 18.677
+      },
+      {
+        "text": "gibt's?",
+        "start": 18.697,
+        "end": 19.217
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Willst du den Schlüssel zurückgeben?",
+    "start": 19.237,
+    "end": 21.619,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 19.237,
+        "end": 19.417
+      },
+      {
+        "text": "du",
+        "start": 19.437,
+        "end": 19.517
+      },
+      {
+        "text": "den",
+        "start": 19.557,
+        "end": 19.638
+      },
+      {
+        "text": "Schlüssel",
+        "start": 19.658,
+        "end": 19.998
+      },
+      {
+        "text": "zurückgeben?",
+        "start": 20.038,
+        "end": 21.619
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ja, genau.",
+    "start": 21.739,
+    "end": 22.92,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 21.739,
+        "end": 21.919
+      },
+      {
+        "text": "genau.",
+        "start": 21.959,
+        "end": 22.92
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Kann mir mal jemand erklären, was hier vor sich geht?",
+    "start": 22.96,
+    "end": 25.882,
+    "words": [
+      {
+        "text": "Kann",
+        "start": 22.96,
+        "end": 23.16
+      },
+      {
+        "text": "mir",
+        "start": 23.18,
+        "end": 23.26
+      },
+      {
+        "text": "mal",
+        "start": 23.32,
+        "end": 23.48
+      },
+      {
+        "text": "jemand",
+        "start": 23.52,
+        "end": 23.801
+      },
+      {
+        "text": "erklären,",
+        "start": 23.861,
+        "end": 24.221
+      },
+      {
+        "text": "was",
+        "start": 24.261,
+        "end": 24.361
+      },
+      {
+        "text": "hier",
+        "start": 24.401,
+        "end": 24.641
+      },
+      {
+        "text": "vor",
+        "start": 24.681,
+        "end": 24.821
+      },
+      {
+        "text": "sich",
+        "start": 24.861,
+        "end": 25.082
+      },
+      {
+        "text": "geht?",
+        "start": 25.122,
+        "end": 25.882
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Eine Frau aus Izus Wohnung kommen zu sehen?",
+    "start": 25.922,
+    "end": 30.926,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 25.922,
+        "end": 26.142
+      },
+      {
+        "text": "Frau",
+        "start": 26.182,
+        "end": 26.383
+      },
+      {
+        "text": "aus",
+        "start": 26.423,
+        "end": 26.603
+      },
+      {
+        "text": "Izus",
+        "start": 26.663,
+        "end": 27.103
+      },
+      {
+        "text": "Wohnung",
+        "start": 27.143,
+        "end": 27.483
+      },
+      {
+        "text": "kommen",
+        "start": 27.523,
+        "end": 27.844
+      },
+      {
+        "text": "zu",
+        "start": 27.884,
+        "end": 28.004
+      },
+      {
+        "text": "sehen?",
+        "start": 28.044,
+        "end": 30.926
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Danke, dass ich neulich bei dir übernachten durfte.",
+    "start": 30.946,
+    "end": 33.168,
+    "words": [
+      {
+        "text": "Danke,",
+        "start": 30.946,
+        "end": 31.226
+      },
+      {
+        "text": "dass",
+        "start": 31.266,
+        "end": 31.406
+      },
+      {
+        "text": "ich",
+        "start": 31.446,
+        "end": 31.567
+      },
+      {
+        "text": "neulich",
+        "start": 31.607,
+        "end": 31.907
+      },
+      {
+        "text": "bei",
+        "start": 31.927,
+        "end": 32.027
+      },
+      {
+        "text": "dir",
+        "start": 32.067,
+        "end": 32.207
+      },
+      {
+        "text": "übernachten",
+        "start": 32.247,
+        "end": 32.847
+      },
+      {
+        "text": "durfte.",
+        "start": 32.868,
+        "end": 33.168
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Komisch.",
+    "start": 36.355,
+    "end": 37.216,
+    "words": [
+      {
+        "text": "Komisch.",
+        "start": 36.355,
+        "end": 37.216
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Auf die Entfernung muss sie mich doch gehört haben.",
+    "start": 37.257,
+    "end": 41.642,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 37.257,
+        "end": 37.417
+      },
+      {
+        "text": "die",
+        "start": 37.437,
+        "end": 37.557
+      },
+      {
+        "text": "Entfernung",
+        "start": 37.577,
+        "end": 38.037
+      },
+      {
+        "text": "muss",
+        "start": 38.077,
+        "end": 38.218
+      },
+      {
+        "text": "sie",
+        "start": 38.258,
+        "end": 38.338
+      },
+      {
+        "text": "mich",
+        "start": 38.378,
+        "end": 38.518
+      },
+      {
+        "text": "doch",
+        "start": 38.558,
+        "end": 38.738
+      },
+      {
+        "text": "gehört",
+        "start": 38.778,
+        "end": 39.119
+      },
+      {
+        "text": "haben.",
+        "start": 39.179,
+        "end": 41.642
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Was eatst du jetzt gerade wohl, denkt?",
+    "start": 41.682,
+    "end": 44.605,
+    "words": [
+      {
+        "text": "Was",
+        "start": 41.682,
+        "end": 41.882
+      },
+      {
+        "text": "eatst",
+        "start": 41.942,
+        "end": 42.122
+      },
+      {
+        "text": "du",
+        "start": 42.142,
+        "end": 42.262
+      },
+      {
+        "text": "jetzt",
+        "start": 42.302,
+        "end": 42.523
+      },
+      {
+        "text": "gerade",
+        "start": 42.543,
+        "end": 42.743
+      },
+      {
+        "text": "wohl,",
+        "start": 42.863,
+        "end": 43.043
+      },
+      {
+        "text": "denkt?",
+        "start": 43.083,
+        "end": 44.605
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Du bist doch direkt wieder abgehauen.",
+    "start": 44.625,
+    "end": 46.267,
+    "words": [
+      {
+        "text": "Du",
+        "start": 44.625,
+        "end": 44.725
+      },
+      {
+        "text": "bist",
+        "start": 44.745,
+        "end": 44.946
+      },
+      {
+        "text": "doch",
+        "start": 44.966,
+        "end": 45.146
+      },
+      {
+        "text": "direkt",
+        "start": 45.166,
+        "end": 45.446
+      },
+      {
+        "text": "wieder",
+        "start": 45.486,
+        "end": 45.707
+      },
+      {
+        "text": "abgehauen.",
+        "start": 45.747,
+        "end": 46.267
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Sein Blick ist eiskalt!",
+    "start": 47.769,
+    "end": 49.992,
+    "words": [
+      {
+        "text": "Sein",
+        "start": 47.769,
+        "end": 48.069
+      },
+      {
+        "text": "Blick",
+        "start": 48.089,
+        "end": 48.33
+      },
+      {
+        "text": "ist",
+        "start": 48.37,
+        "end": 48.55
+      },
+      {
+        "text": "eiskalt!",
+        "start": 48.59,
+        "end": 49.992
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ja, ähm... Bist du sauer, weil ich doch nicht bei dir übernachtet habe?",
+    "start": 50.032,
+    "end": 53.816,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 50.032,
+        "end": 50.192
+      },
+      {
+        "text": "ähm...",
+        "start": 50.252,
+        "end": 51.033
+      },
+      {
+        "text": "Bist",
+        "start": 51.073,
+        "end": 51.213
+      },
+      {
+        "text": "du",
+        "start": 51.233,
+        "end": 51.373
+      },
+      {
+        "text": "sauer,",
+        "start": 51.393,
+        "end": 51.694
+      },
+      {
+        "text": "weil",
+        "start": 51.714,
+        "end": 51.834
+      },
+      {
+        "text": "ich",
+        "start": 51.874,
+        "end": 51.974
+      },
+      {
+        "text": "doch",
+        "start": 52.014,
+        "end": 52.134
+      },
+      {
+        "text": "nicht",
+        "start": 52.174,
+        "end": 52.314
+      },
+      {
+        "text": "bei",
+        "start": 52.354,
+        "end": 52.475
+      },
+      {
+        "text": "dir",
+        "start": 52.495,
+        "end": 52.595
+      },
+      {
+        "text": "übernachtet",
+        "start": 52.635,
+        "end": 53.095
+      },
+      {
+        "text": "habe?",
+        "start": 53.115,
+        "end": 53.816
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Nein, sauer bin ich deswegen nicht.",
+    "start": 53.856,
+    "end": 55.218,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 53.856,
+        "end": 54.157
+      },
+      {
+        "text": "sauer",
+        "start": 54.177,
+        "end": 54.417
+      },
+      {
+        "text": "bin",
+        "start": 54.437,
+        "end": 54.537
+      },
+      {
+        "text": "ich",
+        "start": 54.557,
+        "end": 54.677
+      },
+      {
+        "text": "deswegen",
+        "start": 54.717,
+        "end": 55.018
+      },
+      {
+        "text": "nicht.",
+        "start": 55.058,
+        "end": 55.218
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Muss ich ihn dir denn wieder geben?",
+    "start": 59.743,
+    "end": 61.026,
+    "words": [
+      {
+        "text": "Muss",
+        "start": 59.743,
+        "end": 59.864
+      },
+      {
+        "text": "ich",
+        "start": 59.924,
+        "end": 59.984
+      },
+      {
+        "text": "ihn",
+        "start": 60.044,
+        "end": 60.124
+      },
+      {
+        "text": "dir",
+        "start": 60.144,
+        "end": 60.224
+      },
+      {
+        "text": "denn",
+        "start": 60.244,
+        "end": 60.365
+      },
+      {
+        "text": "wieder",
+        "start": 60.385,
+        "end": 60.545
+      },
+      {
+        "text": "geben?",
+        "start": 60.565,
+        "end": 61.026
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Oder darf ich?",
+    "start": 61.066,
+    "end": 61.688,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 61.066,
+        "end": 61.287
+      },
+      {
+        "text": "darf",
+        "start": 61.327,
+        "end": 61.547
+      },
+      {
+        "text": "ich?",
+        "start": 61.587,
+        "end": 61.688
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Nein, schon gut.",
+    "start": 62.509,
+    "end": 63.652,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 62.509,
+        "end": 63.05
+      },
+      {
+        "text": "schon",
+        "start": 63.251,
+        "end": 63.471
+      },
+      {
+        "text": "gut.",
+        "start": 63.491,
+        "end": 63.652
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Vergiss es.",
+    "start": 63.672,
+    "end": 64.073,
+    "words": [
+      {
+        "text": "Vergiss",
+        "start": 63.672,
+        "end": 63.952
+      },
+      {
+        "text": "es.",
+        "start": 63.992,
+        "end": 64.073
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Wenn ich ihn dir nicht gebe, hältst du mich für eine Nervensäge.",
+    "start": 64.093,
+    "end": 66.438,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 64.093,
+        "end": 64.233
+      },
+      {
+        "text": "ich",
+        "start": 64.253,
+        "end": 64.353
+      },
+      {
+        "text": "ihn",
+        "start": 64.373,
+        "end": 64.433
+      },
+      {
+        "text": "dir",
+        "start": 64.453,
+        "end": 64.594
+      },
+      {
+        "text": "nicht",
+        "start": 64.614,
+        "end": 64.714
+      },
+      {
+        "text": "gebe,",
+        "start": 64.734,
+        "end": 64.954
+      },
+      {
+        "text": "hältst",
+        "start": 64.995,
+        "end": 65.135
+      },
+      {
+        "text": "du",
+        "start": 65.155,
+        "end": 65.255
+      },
+      {
+        "text": "mich",
+        "start": 65.275,
+        "end": 65.395
+      },
+      {
+        "text": "für",
+        "start": 65.436,
+        "end": 65.496
+      },
+      {
+        "text": "eine",
+        "start": 65.516,
+        "end": 65.756
+      },
+      {
+        "text": "Nervensäge.",
+        "start": 65.796,
+        "end": 66.438
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Das ist ja gut.",
+    "start": 66.458,
+    "end": 67.019,
+    "words": [
+      {
+        "text": "Das",
+        "start": 66.458,
+        "end": 66.518
+      },
+      {
+        "text": "ist",
+        "start": 66.558,
+        "end": 66.698
+      },
+      {
+        "text": "ja",
+        "start": 66.718,
+        "end": 66.839
+      },
+      {
+        "text": "gut.",
+        "start": 66.879,
+        "end": 67.019
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ich gebe ihn dir zurück.",
+    "start": 67.059,
+    "end": 68.021,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 67.059,
+        "end": 67.139
+      },
+      {
+        "text": "gebe",
+        "start": 67.159,
+        "end": 67.34
+      },
+      {
+        "text": "ihn",
+        "start": 67.38,
+        "end": 67.48
+      },
+      {
+        "text": "dir",
+        "start": 67.5,
+        "end": 67.68
+      },
+      {
+        "text": "zurück.",
+        "start": 67.7,
+        "end": 68.021
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Es tut mir leid.",
+    "start": 68.061,
+    "end": 68.823,
+    "words": [
+      {
+        "text": "Es",
+        "start": 68.061,
+        "end": 68.201
+      },
+      {
+        "text": "tut",
+        "start": 68.221,
+        "end": 68.422
+      },
+      {
+        "text": "mir",
+        "start": 68.442,
+        "end": 68.582
+      },
+      {
+        "text": "leid.",
+        "start": 68.642,
+        "end": 68.823
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": " Sie hat ihm einen Schlüssel gegeben?",
+    "start": 80.852,
+    "end": 83.493,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 80.852,
+        "end": 80.972
+      },
+      {
+        "text": "hat",
+        "start": 80.992,
+        "end": 81.132
+      },
+      {
+        "text": "ihm",
+        "start": 81.172,
+        "end": 81.592
+      },
+      {
+        "text": "einen",
+        "start": 81.632,
+        "end": 81.793
+      },
+      {
+        "text": "Schlüssel",
+        "start": 81.833,
+        "end": 82.293
+      },
+      {
+        "text": "gegeben?",
+        "start": 82.333,
+        "end": 83.493
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "War der für Itsumi's Wohnung?",
+    "start": 83.513,
+    "end": 86.615,
+    "words": [
+      {
+        "text": "War",
+        "start": 83.513,
+        "end": 83.673
+      },
+      {
+        "text": "der",
+        "start": 83.693,
+        "end": 83.813
+      },
+      {
+        "text": "für",
+        "start": 83.853,
+        "end": 83.933
+      },
+      {
+        "text": "Itsumi's",
+        "start": 83.973,
+        "end": 84.494
+      },
+      {
+        "text": "Wohnung?",
+        "start": 84.554,
+        "end": 86.615
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ist er mittlerweile doch mit Emma zusammengekommen?",
+    "start": 86.655,
+    "end": 89.996,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 86.655,
+        "end": 86.835
+      },
+      {
+        "text": "er",
+        "start": 86.895,
+        "end": 86.995
+      },
+      {
+        "text": "mittlerweile",
+        "start": 87.015,
+        "end": 88.255
+      },
+      {
+        "text": "doch",
+        "start": 88.295,
+        "end": 88.555
+      },
+      {
+        "text": "mit",
+        "start": 88.595,
+        "end": 88.815
+      },
+      {
+        "text": "Emma",
+        "start": 88.856,
+        "end": 89.196
+      },
+      {
+        "text": "zusammengekommen?",
+        "start": 89.236,
+        "end": 89.996
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Oh, gehst du nach Hause?",
+    "start": 90.616,
+    "end": 92.777,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 90.616,
+        "end": 91.357
+      },
+      {
+        "text": "gehst",
+        "start": 91.397,
+        "end": 91.537
+      },
+      {
+        "text": "du",
+        "start": 91.557,
+        "end": 91.657
+      },
+      {
+        "text": "nach",
+        "start": 91.677,
+        "end": 91.777
+      },
+      {
+        "text": "Hause?",
+        "start": 91.797,
+        "end": 92.777
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Wenn das so ist, dann würde ich dich begleiten.",
+    "start": 92.797,
+    "end": 96.399,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 92.797,
+        "end": 92.957
+      },
+      {
+        "text": "das",
+        "start": 92.977,
+        "end": 93.117
+      },
+      {
+        "text": "so",
+        "start": 93.137,
+        "end": 93.277
+      },
+      {
+        "text": "ist,",
+        "start": 93.317,
+        "end": 93.738
+      },
+      {
+        "text": "dann",
+        "start": 93.778,
+        "end": 93.998
+      },
+      {
+        "text": "würde",
+        "start": 94.018,
+        "end": 94.238
+      },
+      {
+        "text": "ich",
+        "start": 94.278,
+        "end": 94.378
+      },
+      {
+        "text": "dich",
+        "start": 94.418,
+        "end": 94.598
+      },
+      {
+        "text": "begleiten.",
+        "start": 94.638,
+        "end": 96.399
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Er will mich heimbringen, obwohl Emma ihn besucht?",
+    "start": 96.439,
+    "end": 99.82,
+    "words": [
+      {
+        "text": "Er",
+        "start": 96.439,
+        "end": 96.599
+      },
+      {
+        "text": "will",
+        "start": 96.619,
+        "end": 96.779
+      },
+      {
+        "text": "mich",
+        "start": 96.799,
+        "end": 97.039
+      },
+      {
+        "text": "heimbringen,",
+        "start": 97.059,
+        "end": 97.519
+      },
+      {
+        "text": "obwohl",
+        "start": 97.539,
+        "end": 97.999
+      },
+      {
+        "text": "Emma",
+        "start": 98.039,
+        "end": 98.3
+      },
+      {
+        "text": "ihn",
+        "start": 98.32,
+        "end": 98.5
+      },
+      {
+        "text": "besucht?",
+        "start": 98.54,
+        "end": 99.82
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ich sollte wohl besser nochmal nachfragen.",
+    "start": 99.86,
+    "end": 101.521,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 99.86,
+        "end": 99.96
+      },
+      {
+        "text": "sollte",
+        "start": 100.0,
+        "end": 100.2
+      },
+      {
+        "text": "wohl",
+        "start": 100.24,
+        "end": 100.4
+      },
+      {
+        "text": "besser",
+        "start": 100.42,
+        "end": 100.661
+      },
+      {
+        "text": "nochmal",
+        "start": 100.681,
+        "end": 101.021
+      },
+      {
+        "text": "nachfragen.",
+        "start": 101.061,
+        "end": 101.521
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": " Sie hat sich bei ihm eingehakt.",
+    "start": 128.98,
+    "end": 130.819,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 128.98,
+        "end": 129.121
+      },
+      {
+        "text": "hat",
+        "start": 129.162,
+        "end": 129.323
+      },
+      {
+        "text": "sich",
+        "start": 129.343,
+        "end": 129.808
+      },
+      {
+        "text": "bei",
+        "start": 129.849,
+        "end": 129.95
+      },
+      {
+        "text": "ihm",
+        "start": 129.99,
+        "end": 130.193
+      },
+      {
+        "text": "eingehakt.",
+        "start": 130.233,
+        "end": 130.819
+      }
+    ]
+  }
+]

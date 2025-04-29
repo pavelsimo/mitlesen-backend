@@ -1,0 +1,699 @@
+[
+  {
+    "id": 0,
+    "text": " Bitte schließt kurz eure Augen.",
+    "start": 0.351,
+    "end": 1.852,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 0.351,
+        "end": 0.531
+      },
+      {
+        "text": "schließt",
+        "start": 0.571,
+        "end": 0.851
+      },
+      {
+        "text": "kurz",
+        "start": 0.891,
+        "end": 1.091
+      },
+      {
+        "text": "eure",
+        "start": 1.131,
+        "end": 1.391
+      },
+      {
+        "text": "Augen.",
+        "start": 1.432,
+        "end": 1.852
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "In Ordnung.",
+    "start": 1.912,
+    "end": 6.533,
+    "words": [
+      {
+        "text": "In",
+        "start": 1.912,
+        "end": 2.732
+      },
+      {
+        "text": "Ordnung.",
+        "start": 2.952,
+        "end": 6.533
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wieso hat ein Olnuch nur so wunderschöne Haut?",
+    "start": 6.573,
+    "end": 10.235,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 6.573,
+        "end": 6.974
+      },
+      {
+        "text": "hat",
+        "start": 6.994,
+        "end": 7.194
+      },
+      {
+        "text": "ein",
+        "start": 7.214,
+        "end": 7.354
+      },
+      {
+        "text": "Olnuch",
+        "start": 7.394,
+        "end": 7.734
+      },
+      {
+        "text": "nur",
+        "start": 7.754,
+        "end": 7.954
+      },
+      {
+        "text": "so",
+        "start": 7.994,
+        "end": 8.194
+      },
+      {
+        "text": "wunderschöne",
+        "start": 8.234,
+        "end": 8.994
+      },
+      {
+        "text": "Haut?",
+        "start": 9.034,
+        "end": 10.235
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Keine Bartstoppeln und so reine Poren.",
+    "start": 10.275,
+    "end": 13.316,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 10.275,
+        "end": 10.595
+      },
+      {
+        "text": "Bartstoppeln",
+        "start": 10.635,
+        "end": 11.475
+      },
+      {
+        "text": "und",
+        "start": 11.515,
+        "end": 11.715
+      },
+      {
+        "text": "so",
+        "start": 11.735,
+        "end": 11.855
+      },
+      {
+        "text": "reine",
+        "start": 11.935,
+        "end": 12.275
+      },
+      {
+        "text": "Poren.",
+        "start": 12.315,
+        "end": 13.316
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wenn ich ihn wie eine Frau schminken würde... Moment.",
+    "start": 13.356,
+    "end": 16.197,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 13.356,
+        "end": 13.516
+      },
+      {
+        "text": "ich",
+        "start": 13.556,
+        "end": 13.676
+      },
+      {
+        "text": "ihn",
+        "start": 13.716,
+        "end": 13.856
+      },
+      {
+        "text": "wie",
+        "start": 13.876,
+        "end": 13.996
+      },
+      {
+        "text": "eine",
+        "start": 14.036,
+        "end": 14.216
+      },
+      {
+        "text": "Frau",
+        "start": 14.276,
+        "end": 14.436
+      },
+      {
+        "text": "schminken",
+        "start": 14.456,
+        "end": 15.016
+      },
+      {
+        "text": "würde...",
+        "start": 15.057,
+        "end": 15.797
+      },
+      {
+        "text": "Moment.",
+        "start": 15.837,
+        "end": 16.197
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Ah, da ist es ja.",
+    "start": 19.274,
+    "end": 22.715,
+    "words": [
+      {
+        "text": "Ah,",
+        "start": 19.274,
+        "end": 21.515
+      },
+      {
+        "text": "da",
+        "start": 21.535,
+        "end": 21.675
+      },
+      {
+        "text": "ist",
+        "start": 21.715,
+        "end": 21.875
+      },
+      {
+        "text": "es",
+        "start": 21.935,
+        "end": 22.095
+      },
+      {
+        "text": "ja.",
+        "start": 22.135,
+        "end": 22.715
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Das Geschenk von Mai Mai.",
+    "start": 22.735,
+    "end": 24.836,
+    "words": [
+      {
+        "text": "Das",
+        "start": 22.735,
+        "end": 22.975
+      },
+      {
+        "text": "Geschenk",
+        "start": 23.015,
+        "end": 23.495
+      },
+      {
+        "text": "von",
+        "start": 23.515,
+        "end": 23.756
+      },
+      {
+        "text": "Mai",
+        "start": 23.796,
+        "end": 24.016
+      },
+      {
+        "text": "Mai.",
+        "start": 24.056,
+        "end": 24.836
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Sind wir jetzt fertig?",
+    "start": 24.856,
+    "end": 26.517,
+    "words": [
+      {
+        "text": "Sind",
+        "start": 24.856,
+        "end": 25.056
+      },
+      {
+        "text": "wir",
+        "start": 25.076,
+        "end": 25.656
+      },
+      {
+        "text": "jetzt",
+        "start": 25.696,
+        "end": 25.897
+      },
+      {
+        "text": "fertig?",
+        "start": 25.957,
+        "end": 26.517
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Bitte entspannt euren Kiefer und lasst die Lippen leicht geöffnet.",
+    "start": 26.537,
+    "end": 40.603,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 26.537,
+        "end": 26.817
+      },
+      {
+        "text": "entspannt",
+        "start": 26.857,
+        "end": 27.237
+      },
+      {
+        "text": "euren",
+        "start": 27.277,
+        "end": 27.577
+      },
+      {
+        "text": "Kiefer",
+        "start": 27.637,
+        "end": 28.438
+      },
+      {
+        "text": "und",
+        "start": 28.478,
+        "end": 28.658
+      },
+      {
+        "text": "lasst",
+        "start": 28.678,
+        "end": 28.838
+      },
+      {
+        "text": "die",
+        "start": 28.878,
+        "end": 28.958
+      },
+      {
+        "text": "Lippen",
+        "start": 28.998,
+        "end": 29.198
+      },
+      {
+        "text": "leicht",
+        "start": 29.238,
+        "end": 29.418
+      },
+      {
+        "text": "geöffnet.",
+        "start": 29.458,
+        "end": 40.603
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Sehe ich etwa komisch aus?",
+    "start": 40.623,
+    "end": 41.824,
+    "words": [
+      {
+        "text": "Sehe",
+        "start": 40.623,
+        "end": 40.743
+      },
+      {
+        "text": "ich",
+        "start": 40.803,
+        "end": 40.903
+      },
+      {
+        "text": "etwa",
+        "start": 40.983,
+        "end": 41.304
+      },
+      {
+        "text": "komisch",
+        "start": 41.344,
+        "end": 41.684
+      },
+      {
+        "text": "aus?",
+        "start": 41.744,
+        "end": 41.824
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Zum Glück ist niemand anderes hier.",
+    "start": 42.674,
+    "end": 45.175,
+    "words": [
+      {
+        "text": "Zum",
+        "start": 42.674,
+        "end": 43.174
+      },
+      {
+        "text": "Glück",
+        "start": 43.194,
+        "end": 43.414
+      },
+      {
+        "text": "ist",
+        "start": 43.434,
+        "end": 43.554
+      },
+      {
+        "text": "niemand",
+        "start": 43.594,
+        "end": 43.954
+      },
+      {
+        "text": "anderes",
+        "start": 43.994,
+        "end": 44.415
+      },
+      {
+        "text": "hier.",
+        "start": 44.475,
+        "end": 45.175
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Wenn er so rausgeht, würde eine Katastrophe geschehen.",
+    "start": 45.215,
+    "end": 48.656,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 45.215,
+        "end": 45.375
+      },
+      {
+        "text": "er",
+        "start": 45.435,
+        "end": 45.575
+      },
+      {
+        "text": "so",
+        "start": 45.615,
+        "end": 45.695
+      },
+      {
+        "text": "rausgeht,",
+        "start": 45.795,
+        "end": 46.255
+      },
+      {
+        "text": "würde",
+        "start": 46.295,
+        "end": 46.555
+      },
+      {
+        "text": "eine",
+        "start": 46.595,
+        "end": 46.775
+      },
+      {
+        "text": "Katastrophe",
+        "start": 46.815,
+        "end": 47.535
+      },
+      {
+        "text": "geschehen.",
+        "start": 47.555,
+        "end": 48.656
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Warum starrt ihr mich so an?",
+    "start": 48.696,
+    "end": 51.897,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 48.696,
+        "end": 49.416
+      },
+      {
+        "text": "starrt",
+        "start": 49.456,
+        "end": 49.736
+      },
+      {
+        "text": "ihr",
+        "start": 49.776,
+        "end": 49.876
+      },
+      {
+        "text": "mich",
+        "start": 49.916,
+        "end": 50.096
+      },
+      {
+        "text": "so",
+        "start": 50.116,
+        "end": 50.316
+      },
+      {
+        "text": "an?",
+        "start": 50.356,
+        "end": 51.897
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Schon vorbei, es ist überhaupt nichts passiert.",
+    "start": 51.917,
+    "end": 53.597,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 51.917,
+        "end": 52.157
+      },
+      {
+        "text": "vorbei,",
+        "start": 52.177,
+        "end": 52.517
+      },
+      {
+        "text": "es",
+        "start": 52.557,
+        "end": 52.637
+      },
+      {
+        "text": "ist",
+        "start": 52.677,
+        "end": 52.837
+      },
+      {
+        "text": "überhaupt",
+        "start": 52.857,
+        "end": 53.057
+      },
+      {
+        "text": "nichts",
+        "start": 53.097,
+        "end": 53.277
+      },
+      {
+        "text": "passiert.",
+        "start": 53.297,
+        "end": 53.597
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Was war denn los?",
+    "start": 53.617,
+    "end": 54.477,
+    "words": [
+      {
+        "text": "Was",
+        "start": 53.617,
+        "end": 53.777
+      },
+      {
+        "text": "war",
+        "start": 53.837,
+        "end": 53.977
+      },
+      {
+        "text": "denn",
+        "start": 54.017,
+        "end": 54.177
+      },
+      {
+        "text": "los?",
+        "start": 54.217,
+        "end": 54.477
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Warum warst du so grob?",
+    "start": 54.537,
+    "end": 55.518,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 54.537,
+        "end": 54.778
+      },
+      {
+        "text": "warst",
+        "start": 54.818,
+        "end": 54.938
+      },
+      {
+        "text": "du",
+        "start": 54.958,
+        "end": 55.078
+      },
+      {
+        "text": "so",
+        "start": 55.098,
+        "end": 55.218
+      },
+      {
+        "text": "grob?",
+        "start": 55.238,
+        "end": 55.518
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Tut mir leid, es war nichts.",
+    "start": 55.538,
+    "end": 56.718,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 55.538,
+        "end": 55.778
+      },
+      {
+        "text": "mir",
+        "start": 55.798,
+        "end": 55.918
+      },
+      {
+        "text": "leid,",
+        "start": 55.958,
+        "end": 56.118
+      },
+      {
+        "text": "es",
+        "start": 56.158,
+        "end": 56.258
+      },
+      {
+        "text": "war",
+        "start": 56.278,
+        "end": 56.418
+      },
+      {
+        "text": "nichts.",
+        "start": 56.458,
+        "end": 56.718
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ja, absolut nichts.",
+    "start": 56.758,
+    "end": 57.958,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 56.758,
+        "end": 57.058
+      },
+      {
+        "text": "absolut",
+        "start": 57.078,
+        "end": 57.438
+      },
+      {
+        "text": "nichts.",
+        "start": 57.478,
+        "end": 57.958
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Es ist überhaupt nichts passiert.",
+    "start": 58.078,
+    "end": 59.599,
+    "words": [
+      {
+        "text": "Es",
+        "start": 58.078,
+        "end": 58.179
+      },
+      {
+        "text": "ist",
+        "start": 58.219,
+        "end": 58.439
+      },
+      {
+        "text": "überhaupt",
+        "start": 58.479,
+        "end": 58.879
+      },
+      {
+        "text": "nichts",
+        "start": 58.919,
+        "end": 59.199
+      },
+      {
+        "text": "passiert.",
+        "start": 59.239,
+        "end": 59.599
+      }
+    ]
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "id": 0,
+    "text": " Stingy, du mochtest ihn doch auch, oder?",
+    "start": 2.589,
+    "end": 6.313,
+    "words": [
+      {
+        "text": "Stingy,",
+        "start": 2.589,
+        "end": 3.17
+      },
+      {
+        "text": "du",
+        "start": 3.21,
+        "end": 3.37
+      },
+      {
+        "text": "mochtest",
+        "start": 3.41,
+        "end": 3.77
+      },
+      {
+        "text": "ihn",
+        "start": 3.79,
+        "end": 3.911
+      },
+      {
+        "text": "doch",
+        "start": 3.951,
+        "end": 4.111
+      },
+      {
+        "text": "auch,",
+        "start": 4.151,
+        "end": 4.351
+      },
+      {
+        "text": "oder?",
+        "start": 4.391,
+        "end": 6.313
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was willst du von mir, du Wichser?",
+    "start": 6.373,
+    "end": 8.375,
+    "words": [
+      {
+        "text": "Was",
+        "start": 6.373,
+        "end": 6.553
+      },
+      {
+        "text": "willst",
+        "start": 6.593,
+        "end": 6.793
+      },
+      {
+        "text": "du",
+        "start": 6.833,
+        "end": 6.974
+      },
+      {
+        "text": "von",
+        "start": 6.994,
+        "end": 7.154
+      },
+      {
+        "text": "mir,",
+        "start": 7.194,
+        "end": 7.534
+      },
+      {
+        "text": "du",
+        "start": 7.574,
+        "end": 7.714
+      },
+      {
+        "text": "Wichser?",
+        "start": 7.734,
+        "end": 8.375
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Kennst du ihn?",
+    "start": 8.395,
+    "end": 9.836,
+    "words": [
+      {
+        "text": "Kennst",
+        "start": 8.395,
+        "end": 8.695
+      },
+      {
+        "text": "du",
+        "start": 8.735,
+        "end": 8.855
+      },
+      {
+        "text": "ihn?",
+        "start": 8.916,
+        "end": 9.836
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Der Pistolen-Teufel sagt, dass er dein Herz haben möchte.",
+    "start": 9.877,
+    "end": 13.42,
+    "words": [
+      {
+        "text": "Der",
+        "start": 9.877,
+        "end": 10.017
+      },
+      {
+        "text": "Pistolen-Teufel",
+        "start": 10.057,
+        "end": 11.618
+      },
+      {
+        "text": "sagt,",
+        "start": 11.658,
+        "end": 11.878
+      },
+      {
+        "text": "dass",
+        "start": 11.899,
+        "end": 12.099
+      },
+      {
+        "text": "er",
+        "start": 12.139,
+        "end": 12.199
+      },
+      {
+        "text": "dein",
+        "start": 12.239,
+        "end": 12.499
+      },
+      {
+        "text": "Herz",
+        "start": 12.519,
+        "end": 12.779
+      },
+      {
+        "text": "haben",
+        "start": 12.819,
+        "end": 13.1
+      },
+      {
+        "text": "möchte.",
+        "start": 13.14,
+        "end": 13.42
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Pinselkopf!",
+    "start": 14.361,
+    "end": 15.802,
+    "words": [
+      {
+        "text": "Pinselkopf!",
+        "start": 14.361,
+        "end": 15.802
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Komm!",
+    "start": 15.822,
+    "end": 16.003,
+    "words": [
+      {
+        "text": "Komm!",
+        "start": 15.822,
+        "end": 16.003
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Aki Hayakawa, wie kannst du mir bloß so etwas Monströses zu beißen geben?",
+    "start": 44.405,
+    "end": 51.478,
+    "words": [
+      {
+        "text": "Aki",
+        "start": 44.405,
+        "end": 44.846
+      },
+      {
+        "text": "Hayakawa,",
+        "start": 44.886,
+        "end": 46.449
+      },
+      {
+        "text": "wie",
+        "start": 46.509,
+        "end": 46.71
+      },
+      {
+        "text": "kannst",
+        "start": 46.75,
+        "end": 46.99
+      },
+      {
+        "text": "du",
+        "start": 47.01,
+        "end": 47.13
+      },
+      {
+        "text": "mir",
+        "start": 47.17,
+        "end": 47.331
+      },
+      {
+        "text": "bloß",
+        "start": 47.351,
+        "end": 47.611
+      },
+      {
+        "text": "so",
+        "start": 47.651,
+        "end": 47.852
+      },
+      {
+        "text": "etwas",
+        "start": 47.892,
+        "end": 48.192
+      },
+      {
+        "text": "Monströses",
+        "start": 48.272,
+        "end": 49.114
+      },
+      {
+        "text": "zu",
+        "start": 49.154,
+        "end": 49.334
+      },
+      {
+        "text": "beißen",
+        "start": 49.374,
+        "end": 49.775
+      },
+      {
+        "text": "geben?",
+        "start": 49.795,
+        "end": 51.478
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Das ist weder Mensch noch Teufel.",
+    "start": 51.518,
+    "end": 54.283,
+    "words": [
+      {
+        "text": "Das",
+        "start": 51.518,
+        "end": 51.779
+      },
+      {
+        "text": "ist",
+        "start": 51.819,
+        "end": 52.059
+      },
+      {
+        "text": "weder",
+        "start": 52.099,
+        "end": 52.44
+      },
+      {
+        "text": "Mensch",
+        "start": 52.48,
+        "end": 53.562
+      },
+      {
+        "text": "noch",
+        "start": 53.622,
+        "end": 53.902
+      },
+      {
+        "text": "Teufel.",
+        "start": 53.962,
+        "end": 54.283
+      }
+    ]
+  }
+]

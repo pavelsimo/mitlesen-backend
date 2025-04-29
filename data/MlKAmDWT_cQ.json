@@ -1,0 +1,984 @@
+[
+  {
+    "id": 0,
+    "text": " Ich wüsste gern, wie du darüber so denkst.",
+    "start": 0.732,
+    "end": 3.794,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.732,
+        "end": 0.852
+      },
+      {
+        "text": "wüsste",
+        "start": 0.872,
+        "end": 1.192
+      },
+      {
+        "text": "gern,",
+        "start": 1.232,
+        "end": 1.753
+      },
+      {
+        "text": "wie",
+        "start": 1.793,
+        "end": 1.873
+      },
+      {
+        "text": "du",
+        "start": 1.913,
+        "end": 2.073
+      },
+      {
+        "text": "darüber",
+        "start": 2.113,
+        "end": 2.533
+      },
+      {
+        "text": "so",
+        "start": 2.553,
+        "end": 2.693
+      },
+      {
+        "text": "denkst.",
+        "start": 2.733,
+        "end": 3.794
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Worüber?",
+    "start": 3.814,
+    "end": 4.975,
+    "words": [
+      {
+        "text": "Worüber?",
+        "start": 3.814,
+        "end": 4.975
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Natürlich über Mikasa.",
+    "start": 5.015,
+    "end": 6.997,
+    "words": [
+      {
+        "text": "Natürlich",
+        "start": 5.015,
+        "end": 5.476
+      },
+      {
+        "text": "über",
+        "start": 5.496,
+        "end": 5.676
+      },
+      {
+        "text": "Mikasa.",
+        "start": 5.716,
+        "end": 6.997
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Glaubst du allen Ernstes, dass sie dich vergessen und mit irgendjemand anderem glücklich werden kann?",
+    "start": 7.037,
+    "end": 11.561,
+    "words": [
+      {
+        "text": "Glaubst",
+        "start": 7.037,
+        "end": 7.297
+      },
+      {
+        "text": "du",
+        "start": 7.317,
+        "end": 7.418
+      },
+      {
+        "text": "allen",
+        "start": 7.458,
+        "end": 7.698
+      },
+      {
+        "text": "Ernstes,",
+        "start": 7.738,
+        "end": 8.158
+      },
+      {
+        "text": "dass",
+        "start": 8.178,
+        "end": 8.298
+      },
+      {
+        "text": "sie",
+        "start": 8.338,
+        "end": 8.418
+      },
+      {
+        "text": "dich",
+        "start": 8.439,
+        "end": 8.599
+      },
+      {
+        "text": "vergessen",
+        "start": 8.619,
+        "end": 8.959
+      },
+      {
+        "text": "und",
+        "start": 8.979,
+        "end": 9.099
+      },
+      {
+        "text": "mit",
+        "start": 9.119,
+        "end": 9.279
+      },
+      {
+        "text": "irgendjemand",
+        "start": 9.319,
+        "end": 9.82
+      },
+      {
+        "text": "anderem",
+        "start": 9.84,
+        "end": 10.12
+      },
+      {
+        "text": "glücklich",
+        "start": 10.16,
+        "end": 10.5
+      },
+      {
+        "text": "werden",
+        "start": 10.52,
+        "end": 10.741
+      },
+      {
+        "text": "kann?",
+        "start": 10.781,
+        "end": 11.561
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "So wie du es dir von ihr gewünscht hast?",
+    "start": 11.601,
+    "end": 13.243,
+    "words": [
+      {
+        "text": "So",
+        "start": 11.601,
+        "end": 11.701
+      },
+      {
+        "text": "wie",
+        "start": 11.741,
+        "end": 11.842
+      },
+      {
+        "text": "du",
+        "start": 11.862,
+        "end": 11.962
+      },
+      {
+        "text": "es",
+        "start": 12.002,
+        "end": 12.102
+      },
+      {
+        "text": "dir",
+        "start": 12.122,
+        "end": 12.282
+      },
+      {
+        "text": "von",
+        "start": 12.302,
+        "end": 12.442
+      },
+      {
+        "text": "ihr",
+        "start": 12.482,
+        "end": 12.602
+      },
+      {
+        "text": "gewünscht",
+        "start": 12.622,
+        "end": 13.003
+      },
+      {
+        "text": "hast?",
+        "start": 13.043,
+        "end": 13.243
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Tja, wer weiß.",
+    "start": 13.823,
+    "end": 14.644,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 13.823,
+        "end": 14.104
+      },
+      {
+        "text": "wer",
+        "start": 14.144,
+        "end": 14.264
+      },
+      {
+        "text": "weiß.",
+        "start": 14.304,
+        "end": 14.644
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich hab keine Ahnung.",
+    "start": 14.764,
+    "end": 15.625,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.764,
+        "end": 14.844
+      },
+      {
+        "text": "hab",
+        "start": 14.864,
+        "end": 15.044
+      },
+      {
+        "text": "keine",
+        "start": 15.084,
+        "end": 15.305
+      },
+      {
+        "text": "Ahnung.",
+        "start": 15.385,
+        "end": 15.625
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Was für eine beschissene Antwort.",
+    "start": 23.729,
+    "end": 25.27,
+    "words": [
+      {
+        "text": "Was",
+        "start": 23.729,
+        "end": 23.829
+      },
+      {
+        "text": "für",
+        "start": 23.849,
+        "end": 23.949
+      },
+      {
+        "text": "eine",
+        "start": 23.969,
+        "end": 24.109
+      },
+      {
+        "text": "beschissene",
+        "start": 24.149,
+        "end": 24.65
+      },
+      {
+        "text": "Antwort.",
+        "start": 24.69,
+        "end": 25.27
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Glaubt ja nicht, dass ich dir vergeben habe.",
+    "start": 25.29,
+    "end": 27.03,
+    "words": [
+      {
+        "text": "Glaubt",
+        "start": 25.29,
+        "end": 25.49
+      },
+      {
+        "text": "ja",
+        "start": 25.51,
+        "end": 25.61
+      },
+      {
+        "text": "nicht,",
+        "start": 25.63,
+        "end": 25.73
+      },
+      {
+        "text": "dass",
+        "start": 25.77,
+        "end": 25.89
+      },
+      {
+        "text": "ich",
+        "start": 25.93,
+        "end": 26.01
+      },
+      {
+        "text": "dir",
+        "start": 26.05,
+        "end": 26.13
+      },
+      {
+        "text": "vergeben",
+        "start": 26.17,
+        "end": 26.45
+      },
+      {
+        "text": "habe.",
+        "start": 26.49,
+        "end": 27.03
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Was hast du dir dabei gedacht, Mikasas Liebe so brutal zurückzuweisen?",
+    "start": 27.05,
+    "end": 30.732,
+    "words": [
+      {
+        "text": "Was",
+        "start": 27.05,
+        "end": 27.211
+      },
+      {
+        "text": "hast",
+        "start": 27.251,
+        "end": 27.411
+      },
+      {
+        "text": "du",
+        "start": 27.431,
+        "end": 27.551
+      },
+      {
+        "text": "dir",
+        "start": 27.571,
+        "end": 27.651
+      },
+      {
+        "text": "dabei",
+        "start": 27.691,
+        "end": 27.931
+      },
+      {
+        "text": "gedacht,",
+        "start": 27.971,
+        "end": 28.251
+      },
+      {
+        "text": "Mikasas",
+        "start": 28.271,
+        "end": 28.731
+      },
+      {
+        "text": "Liebe",
+        "start": 28.771,
+        "end": 29.011
+      },
+      {
+        "text": "so",
+        "start": 29.031,
+        "end": 29.131
+      },
+      {
+        "text": "brutal",
+        "start": 29.151,
+        "end": 29.531
+      },
+      {
+        "text": "zurückzuweisen?",
+        "start": 29.571,
+        "end": 30.732
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Sie hatte stets ihr Leben für dich riskiert und immer nur Augen für dich.",
+    "start": 30.752,
+    "end": 34.093,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 30.752,
+        "end": 30.852
+      },
+      {
+        "text": "hatte",
+        "start": 30.892,
+        "end": 31.092
+      },
+      {
+        "text": "stets",
+        "start": 31.132,
+        "end": 31.332
+      },
+      {
+        "text": "ihr",
+        "start": 31.372,
+        "end": 31.472
+      },
+      {
+        "text": "Leben",
+        "start": 31.512,
+        "end": 31.712
+      },
+      {
+        "text": "für",
+        "start": 31.752,
+        "end": 31.832
+      },
+      {
+        "text": "dich",
+        "start": 31.872,
+        "end": 32.012
+      },
+      {
+        "text": "riskiert",
+        "start": 32.052,
+        "end": 32.353
+      },
+      {
+        "text": "und",
+        "start": 32.373,
+        "end": 32.533
+      },
+      {
+        "text": "immer",
+        "start": 32.573,
+        "end": 32.753
+      },
+      {
+        "text": "nur",
+        "start": 32.793,
+        "end": 32.933
+      },
+      {
+        "text": "Augen",
+        "start": 32.953,
+        "end": 33.173
+      },
+      {
+        "text": "für",
+        "start": 33.213,
+        "end": 33.333
+      },
+      {
+        "text": "dich.",
+        "start": 33.373,
+        "end": 34.093
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Glaubst du, dass du ihr einfach vergiss mich sagen kannst und alles geklärt ist?",
+    "start": 34.313,
+    "end": 39.756,
+    "words": [
+      {
+        "text": "Glaubst",
+        "start": 34.313,
+        "end": 34.553
+      },
+      {
+        "text": "du,",
+        "start": 34.574,
+        "end": 34.654
+      },
+      {
+        "text": "dass",
+        "start": 34.694,
+        "end": 34.834
+      },
+      {
+        "text": "du",
+        "start": 34.854,
+        "end": 34.954
+      },
+      {
+        "text": "ihr",
+        "start": 34.994,
+        "end": 35.094
+      },
+      {
+        "text": "einfach",
+        "start": 35.114,
+        "end": 35.374
+      },
+      {
+        "text": "vergiss",
+        "start": 35.414,
+        "end": 35.694
+      },
+      {
+        "text": "mich",
+        "start": 35.714,
+        "end": 35.854
+      },
+      {
+        "text": "sagen",
+        "start": 35.874,
+        "end": 36.114
+      },
+      {
+        "text": "kannst",
+        "start": 36.134,
+        "end": 36.354
+      },
+      {
+        "text": "und",
+        "start": 36.374,
+        "end": 36.494
+      },
+      {
+        "text": "alles",
+        "start": 36.534,
+        "end": 36.774
+      },
+      {
+        "text": "geklärt",
+        "start": 36.794,
+        "end": 37.175
+      },
+      {
+        "text": "ist?",
+        "start": 37.235,
+        "end": 39.756
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Sie hätte es jedenfalls verdient, einen fiesen Herzensbrecher wie dich vergessen zu können und glücklich zu werden.",
+    "start": 39.796,
+    "end": 44.598,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 39.796,
+        "end": 39.916
+      },
+      {
+        "text": "hätte",
+        "start": 39.936,
+        "end": 40.156
+      },
+      {
+        "text": "es",
+        "start": 40.196,
+        "end": 40.316
+      },
+      {
+        "text": "jedenfalls",
+        "start": 40.336,
+        "end": 40.716
+      },
+      {
+        "text": "verdient,",
+        "start": 40.756,
+        "end": 41.456
+      },
+      {
+        "text": "einen",
+        "start": 41.496,
+        "end": 41.656
+      },
+      {
+        "text": "fiesen",
+        "start": 41.696,
+        "end": 42.016
+      },
+      {
+        "text": "Herzensbrecher",
+        "start": 42.037,
+        "end": 42.657
+      },
+      {
+        "text": "wie",
+        "start": 42.677,
+        "end": 42.737
+      },
+      {
+        "text": "dich",
+        "start": 42.757,
+        "end": 42.957
+      },
+      {
+        "text": "vergessen",
+        "start": 42.997,
+        "end": 43.357
+      },
+      {
+        "text": "zu",
+        "start": 43.397,
+        "end": 43.477
+      },
+      {
+        "text": "können",
+        "start": 43.497,
+        "end": 43.677
+      },
+      {
+        "text": "und",
+        "start": 43.717,
+        "end": 43.837
+      },
+      {
+        "text": "glücklich",
+        "start": 43.877,
+        "end": 44.237
+      },
+      {
+        "text": "zu",
+        "start": 44.277,
+        "end": 44.357
+      },
+      {
+        "text": "werden.",
+        "start": 44.397,
+        "end": 44.598
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Wer weiß, vielleicht findet sie ja schon bald einen netten Kerl, dem sie ihr Herz schenken kann.",
+    "start": 45.838,
+    "end": 49.239,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 45.838,
+        "end": 45.998
+      },
+      {
+        "text": "weiß,",
+        "start": 46.018,
+        "end": 46.238
+      },
+      {
+        "text": "vielleicht",
+        "start": 46.258,
+        "end": 46.578
+      },
+      {
+        "text": "findet",
+        "start": 46.598,
+        "end": 46.818
+      },
+      {
+        "text": "sie",
+        "start": 46.858,
+        "end": 46.938
+      },
+      {
+        "text": "ja",
+        "start": 46.958,
+        "end": 47.059
+      },
+      {
+        "text": "schon",
+        "start": 47.079,
+        "end": 47.259
+      },
+      {
+        "text": "bald",
+        "start": 47.279,
+        "end": 47.459
+      },
+      {
+        "text": "einen",
+        "start": 47.499,
+        "end": 47.599
+      },
+      {
+        "text": "netten",
+        "start": 47.619,
+        "end": 47.839
+      },
+      {
+        "text": "Kerl,",
+        "start": 47.859,
+        "end": 48.079
+      },
+      {
+        "text": "dem",
+        "start": 48.099,
+        "end": 48.239
+      },
+      {
+        "text": "sie",
+        "start": 48.259,
+        "end": 48.319
+      },
+      {
+        "text": "ihr",
+        "start": 48.379,
+        "end": 48.479
+      },
+      {
+        "text": "Herz",
+        "start": 48.499,
+        "end": 48.719
+      },
+      {
+        "text": "schenken",
+        "start": 48.739,
+        "end": 49.059
+      },
+      {
+        "text": "kann.",
+        "start": 49.099,
+        "end": 49.239
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Nein.",
+    "start": 49.259,
+    "end": 50.24,
+    "words": [
+      {
+        "text": "Nein.",
+        "start": 49.259,
+        "end": 50.24
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Das will ich aber nicht.",
+    "start": 54.068,
+    "end": 55.27,
+    "words": [
+      {
+        "text": "Das",
+        "start": 54.068,
+        "end": 54.168
+      },
+      {
+        "text": "will",
+        "start": 54.188,
+        "end": 54.328
+      },
+      {
+        "text": "ich",
+        "start": 54.368,
+        "end": 54.489
+      },
+      {
+        "text": "aber",
+        "start": 54.529,
+        "end": 54.729
+      },
+      {
+        "text": "nicht.",
+        "start": 54.769,
+        "end": 55.27
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Sie darf mit keinem anderen zusammen sein.",
+    "start": 55.31,
+    "end": 57.335,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 55.31,
+        "end": 55.471
+      },
+      {
+        "text": "darf",
+        "start": 55.491,
+        "end": 55.691
+      },
+      {
+        "text": "mit",
+        "start": 55.711,
+        "end": 55.832
+      },
+      {
+        "text": "keinem",
+        "start": 55.852,
+        "end": 56.092
+      },
+      {
+        "text": "anderen",
+        "start": 56.132,
+        "end": 56.473
+      },
+      {
+        "text": "zusammen",
+        "start": 56.513,
+        "end": 56.974
+      },
+      {
+        "text": "sein.",
+        "start": 56.994,
+        "end": 57.335
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich will, dass sie ihr Leben lang nur mich liebt.",
+    "start": 57.355,
+    "end": 60.261,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 57.355,
+        "end": 57.655
+      },
+      {
+        "text": "will,",
+        "start": 57.696,
+        "end": 57.976
+      },
+      {
+        "text": "dass",
+        "start": 58.016,
+        "end": 58.157
+      },
+      {
+        "text": "sie",
+        "start": 58.177,
+        "end": 58.277
+      },
+      {
+        "text": "ihr",
+        "start": 58.297,
+        "end": 58.417
+      },
+      {
+        "text": "Leben",
+        "start": 58.437,
+        "end": 58.638
+      },
+      {
+        "text": "lang",
+        "start": 58.658,
+        "end": 58.838
+      },
+      {
+        "text": "nur",
+        "start": 58.858,
+        "end": 58.998
+      },
+      {
+        "text": "mich",
+        "start": 59.038,
+        "end": 59.219
+      },
+      {
+        "text": "liebt.",
+        "start": 59.259,
+        "end": 60.261
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Sie soll mich auch nach meinem Tod noch viele Jahre in ihrem Herzen behalten.",
+    "start": 60.281,
+    "end": 64.631,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 60.281,
+        "end": 60.482
+      },
+      {
+        "text": "soll",
+        "start": 60.502,
+        "end": 60.682
+      },
+      {
+        "text": "mich",
+        "start": 60.702,
+        "end": 60.802
+      },
+      {
+        "text": "auch",
+        "start": 60.842,
+        "end": 61.003
+      },
+      {
+        "text": "nach",
+        "start": 61.043,
+        "end": 61.263
+      },
+      {
+        "text": "meinem",
+        "start": 61.283,
+        "end": 61.524
+      },
+      {
+        "text": "Tod",
+        "start": 61.564,
+        "end": 62.746
+      },
+      {
+        "text": "noch",
+        "start": 62.787,
+        "end": 63.007
+      },
+      {
+        "text": "viele",
+        "start": 63.027,
+        "end": 63.207
+      },
+      {
+        "text": "Jahre",
+        "start": 63.308,
+        "end": 63.548
+      },
+      {
+        "text": "in",
+        "start": 63.588,
+        "end": 63.689
+      },
+      {
+        "text": "ihrem",
+        "start": 63.729,
+        "end": 63.909
+      },
+      {
+        "text": "Herzen",
+        "start": 63.949,
+        "end": 64.25
+      },
+      {
+        "text": "behalten.",
+        "start": 64.27,
+        "end": 64.631
+      }
+    ]
+  }
+]

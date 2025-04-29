@@ -1,0 +1,270 @@
+[
+  {
+    "id": 0,
+    "text": " Die Menschen, die ich mit eigenen Händen erreichen kann, werde ich retten.",
+    "start": 0.731,
+    "end": 5.253,
+    "words": [
+      {
+        "text": "Die",
+        "start": 0.731,
+        "end": 0.851
+      },
+      {
+        "text": "Menschen,",
+        "start": 0.891,
+        "end": 1.192
+      },
+      {
+        "text": "die",
+        "start": 1.232,
+        "end": 1.312
+      },
+      {
+        "text": "ich",
+        "start": 1.352,
+        "end": 1.492
+      },
+      {
+        "text": "mit",
+        "start": 1.532,
+        "end": 1.772
+      },
+      {
+        "text": "eigenen",
+        "start": 1.792,
+        "end": 2.252
+      },
+      {
+        "text": "Händen",
+        "start": 2.292,
+        "end": 2.672
+      },
+      {
+        "text": "erreichen",
+        "start": 2.732,
+        "end": 3.192
+      },
+      {
+        "text": "kann,",
+        "start": 3.232,
+        "end": 3.493
+      },
+      {
+        "text": "werde",
+        "start": 3.513,
+        "end": 3.753
+      },
+      {
+        "text": "ich",
+        "start": 3.793,
+        "end": 3.933
+      },
+      {
+        "text": "retten.",
+        "start": 4.013,
+        "end": 5.253
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Und zwar alle!",
+    "start": 5.293,
+    "end": 10.776,
+    "words": [
+      {
+        "text": "Und",
+        "start": 5.293,
+        "end": 5.473
+      },
+      {
+        "text": "zwar",
+        "start": 5.534,
+        "end": 5.814
+      },
+      {
+        "text": "alle!",
+        "start": 5.854,
+        "end": 10.776
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Begeben Sie sich bitte aus eigener Kraft zur Sammelstelle, wenn Sie laufen können.",
+    "start": 10.816,
+    "end": 14.518,
+    "words": [
+      {
+        "text": "Begeben",
+        "start": 10.816,
+        "end": 11.236
+      },
+      {
+        "text": "Sie",
+        "start": 11.256,
+        "end": 11.376
+      },
+      {
+        "text": "sich",
+        "start": 11.416,
+        "end": 11.576
+      },
+      {
+        "text": "bitte",
+        "start": 11.616,
+        "end": 11.876
+      },
+      {
+        "text": "aus",
+        "start": 11.916,
+        "end": 12.137
+      },
+      {
+        "text": "eigener",
+        "start": 12.177,
+        "end": 12.517
+      },
+      {
+        "text": "Kraft",
+        "start": 12.557,
+        "end": 12.797
+      },
+      {
+        "text": "zur",
+        "start": 12.837,
+        "end": 12.937
+      },
+      {
+        "text": "Sammelstelle,",
+        "start": 12.977,
+        "end": 13.617
+      },
+      {
+        "text": "wenn",
+        "start": 13.637,
+        "end": 13.797
+      },
+      {
+        "text": "Sie",
+        "start": 13.817,
+        "end": 13.937
+      },
+      {
+        "text": "laufen",
+        "start": 13.997,
+        "end": 14.257
+      },
+      {
+        "text": "können.",
+        "start": 14.297,
+        "end": 14.518
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Junges Fräulein, hierher!",
+    "start": 14.738,
+    "end": 18.579,
+    "words": [
+      {
+        "text": "Junges",
+        "start": 14.738,
+        "end": 15.078
+      },
+      {
+        "text": "Fräulein,",
+        "start": 15.098,
+        "end": 15.418
+      },
+      {
+        "text": "hierher!",
+        "start": 15.438,
+        "end": 18.579
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Es gibt hier noch Leben, die gerettet werden können.",
+    "start": 18.639,
+    "end": 24.482,
+    "words": [
+      {
+        "text": "Es",
+        "start": 18.639,
+        "end": 18.78
+      },
+      {
+        "text": "gibt",
+        "start": 18.82,
+        "end": 19.02
+      },
+      {
+        "text": "hier",
+        "start": 19.04,
+        "end": 19.2
+      },
+      {
+        "text": "noch",
+        "start": 19.24,
+        "end": 19.46
+      },
+      {
+        "text": "Leben,",
+        "start": 19.52,
+        "end": 20.961
+      },
+      {
+        "text": "die",
+        "start": 20.981,
+        "end": 21.121
+      },
+      {
+        "text": "gerettet",
+        "start": 21.161,
+        "end": 21.601
+      },
+      {
+        "text": "werden",
+        "start": 21.621,
+        "end": 21.941
+      },
+      {
+        "text": "können.",
+        "start": 21.981,
+        "end": 24.482
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Darum gebe ich alles!",
+    "start": 24.522,
+    "end": 26.023,
+    "words": [
+      {
+        "text": "Darum",
+        "start": 24.522,
+        "end": 25.082
+      },
+      {
+        "text": "gebe",
+        "start": 25.122,
+        "end": 25.363
+      },
+      {
+        "text": "ich",
+        "start": 25.403,
+        "end": 25.683
+      },
+      {
+        "text": "alles!",
+        "start": 25.723,
+        "end": 26.023
+      }
+    ]
+  }
+]

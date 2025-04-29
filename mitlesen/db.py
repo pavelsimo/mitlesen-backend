@@ -5,6 +5,7 @@ load_dotenv()
 
 from typing import Optional, List
 from supabase import create_client, Client
+from mitlesen.logger import logger
 
 class Video:
     """
@@ -78,7 +79,7 @@ class MitLesenDatabase:
             record['vocabulary'] = vocabulary
             
         response = self.table.insert(record).execute()
-        print("✅ Transcript inserted successfully.")
+        logger.info("✅ Transcript inserted successfully.")
 
     def delete(self, record_id: int) -> None:
         """
@@ -87,7 +88,7 @@ class MitLesenDatabase:
         response = self.table.delete().eq('id', record_id).execute()
         if response.error:
             raise RuntimeError(f"Failed to delete record {record_id}: {response.error.message}")
-        print(f"🗑️ Record {record_id} deleted.")
+        logger.info(f"🗑️ Record {record_id} deleted.")
 
     def fetch_all(self) -> List[Video]:
         """

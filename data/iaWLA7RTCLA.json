@@ -1,0 +1,292 @@
+[
+  {
+    "id": 0,
+    "text": " Hallo, Anya!",
+    "start": 1.762,
+    "end": 3.443,
+    "words": [
+      {
+        "text": "Hallo,",
+        "start": 1.762,
+        "end": 2.202
+      },
+      {
+        "text": "Anya!",
+        "start": 2.302,
+        "end": 3.443
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wo steckst du?",
+    "start": 3.503,
+    "end": 5.624,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 3.503,
+        "end": 3.643
+      },
+      {
+        "text": "steckst",
+        "start": 3.663,
+        "end": 4.224
+      },
+      {
+        "text": "du?",
+        "start": 4.284,
+        "end": 5.624
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Entschuldigen Sie bitte!",
+    "start": 5.664,
+    "end": 6.845,
+    "words": [
+      {
+        "text": "Entschuldigen",
+        "start": 5.664,
+        "end": 6.225
+      },
+      {
+        "text": "Sie",
+        "start": 6.265,
+        "end": 6.345
+      },
+      {
+        "text": "bitte!",
+        "start": 6.385,
+        "end": 6.845
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Haben Sie ein Mädchen gesehen, das so aussieht?",
+    "start": 6.885,
+    "end": 8.886,
+    "words": [
+      {
+        "text": "Haben",
+        "start": 6.885,
+        "end": 7.065
+      },
+      {
+        "text": "Sie",
+        "start": 7.085,
+        "end": 7.185
+      },
+      {
+        "text": "ein",
+        "start": 7.225,
+        "end": 7.305
+      },
+      {
+        "text": "Mädchen",
+        "start": 7.325,
+        "end": 7.605
+      },
+      {
+        "text": "gesehen,",
+        "start": 7.625,
+        "end": 7.886
+      },
+      {
+        "text": "das",
+        "start": 7.906,
+        "end": 8.066
+      },
+      {
+        "text": "so",
+        "start": 8.106,
+        "end": 8.246
+      },
+      {
+        "text": "aussieht?",
+        "start": 8.306,
+        "end": 8.886
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Etwa so groß?",
+    "start": 9.006,
+    "end": 9.867,
+    "words": [
+      {
+        "text": "Etwa",
+        "start": 9.006,
+        "end": 9.286
+      },
+      {
+        "text": "so",
+        "start": 9.306,
+        "end": 9.486
+      },
+      {
+        "text": "groß?",
+        "start": 9.506,
+        "end": 9.867
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Leider nicht.",
+    "start": 9.907,
+    "end": 10.787,
+    "words": [
+      {
+        "text": "Leider",
+        "start": 9.907,
+        "end": 10.287
+      },
+      {
+        "text": "nicht.",
+        "start": 10.327,
+        "end": 10.787
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich habe auch nichts gesehen.",
+    "start": 10.827,
+    "end": 25.855,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 10.827,
+        "end": 10.987
+      },
+      {
+        "text": "habe",
+        "start": 11.027,
+        "end": 11.287
+      },
+      {
+        "text": "auch",
+        "start": 11.327,
+        "end": 11.488
+      },
+      {
+        "text": "nichts",
+        "start": 11.528,
+        "end": 11.868
+      },
+      {
+        "text": "gesehen.",
+        "start": 11.928,
+        "end": 25.855
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Sie ist weg.",
+    "start": 25.895,
+    "end": 27.116,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 25.895,
+        "end": 26.056
+      },
+      {
+        "text": "ist",
+        "start": 26.096,
+        "end": 26.236
+      },
+      {
+        "text": "weg.",
+        "start": 26.316,
+        "end": 27.116
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sie ist nicht in dieser Halle.",
+    "start": 27.156,
+    "end": 28.337,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 27.156,
+        "end": 27.336
+      },
+      {
+        "text": "ist",
+        "start": 27.376,
+        "end": 27.536
+      },
+      {
+        "text": "nicht",
+        "start": 27.556,
+        "end": 27.757
+      },
+      {
+        "text": "in",
+        "start": 27.797,
+        "end": 27.897
+      },
+      {
+        "text": "dieser",
+        "start": 27.937,
+        "end": 28.157
+      },
+      {
+        "text": "Halle.",
+        "start": 28.177,
+        "end": 28.337
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Wurde sie etwa von einem Hund gefressen?",
+    "start": 30.282,
+    "end": 32.385,
+    "words": [
+      {
+        "text": "Wurde",
+        "start": 30.282,
+        "end": 30.482
+      },
+      {
+        "text": "sie",
+        "start": 30.502,
+        "end": 30.602
+      },
+      {
+        "text": "etwa",
+        "start": 30.642,
+        "end": 31.243
+      },
+      {
+        "text": "von",
+        "start": 31.263,
+        "end": 31.444
+      },
+      {
+        "text": "einem",
+        "start": 31.464,
+        "end": 31.624
+      },
+      {
+        "text": "Hund",
+        "start": 31.664,
+        "end": 31.864
+      },
+      {
+        "text": "gefressen?",
+        "start": 31.885,
+        "end": 32.385
+      }
+    ]
+  }
+]

@@ -1,0 +1,889 @@
+[
+  {
+    "id": 0,
+    "text": " Oh bitte!",
+    "start": 0.928,
+    "end": 1.368,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 0.928,
+        "end": 1.108
+      },
+      {
+        "text": "bitte!",
+        "start": 1.148,
+        "end": 1.368
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Werde meine Ehefrau!",
+    "start": 1.408,
+    "end": 5.869,
+    "words": [
+      {
+        "text": "Werde",
+        "start": 1.408,
+        "end": 2.108
+      },
+      {
+        "text": "meine",
+        "start": 2.168,
+        "end": 2.488
+      },
+      {
+        "text": "Ehefrau!",
+        "start": 2.548,
+        "end": 5.869
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hm?",
+    "start": 6.009,
+    "end": 6.549,
+    "words": [
+      {
+        "text": "Hm?",
+        "start": 6.009,
+        "end": 6.549
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Was zum Geier?",
+    "start": 6.589,
+    "end": 7.829,
+    "words": [
+      {
+        "text": "Was",
+        "start": 6.589,
+        "end": 6.889
+      },
+      {
+        "text": "zum",
+        "start": 6.929,
+        "end": 7.189
+      },
+      {
+        "text": "Geier?",
+        "start": 7.229,
+        "end": 7.829
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wie hübsch.",
+    "start": 7.869,
+    "end": 9.21,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 7.869,
+        "end": 8.03
+      },
+      {
+        "text": "hübsch.",
+        "start": 8.07,
+        "end": 9.21
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Gucken wir erst mal, wie das alles ausgeht.",
+    "start": 9.25,
+    "end": 11.83,
+    "words": [
+      {
+        "text": "Gucken",
+        "start": 9.25,
+        "end": 9.47
+      },
+      {
+        "text": "wir",
+        "start": 9.51,
+        "end": 9.71
+      },
+      {
+        "text": "erst",
+        "start": 9.75,
+        "end": 9.91
+      },
+      {
+        "text": "mal,",
+        "start": 10.07,
+        "end": 10.55
+      },
+      {
+        "text": "wie",
+        "start": 10.59,
+        "end": 10.75
+      },
+      {
+        "text": "das",
+        "start": 10.79,
+        "end": 10.99
+      },
+      {
+        "text": "alles",
+        "start": 11.03,
+        "end": 11.35
+      },
+      {
+        "text": "ausgeht.",
+        "start": 11.39,
+        "end": 11.83
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Oh ja, genau!",
+    "start": 12.27,
+    "end": 12.991,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 12.27,
+        "end": 12.41
+      },
+      {
+        "text": "ja,",
+        "start": 12.43,
+        "end": 12.591
+      },
+      {
+        "text": "genau!",
+        "start": 12.611,
+        "end": 12.991
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Denn so können wir bestimmt etwas über ihre Denkweise erfahren.",
+    "start": 13.011,
+    "end": 15.791,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 13.011,
+        "end": 13.231
+      },
+      {
+        "text": "so",
+        "start": 13.271,
+        "end": 13.391
+      },
+      {
+        "text": "können",
+        "start": 13.411,
+        "end": 13.591
+      },
+      {
+        "text": "wir",
+        "start": 13.611,
+        "end": 13.731
+      },
+      {
+        "text": "bestimmt",
+        "start": 13.771,
+        "end": 14.151
+      },
+      {
+        "text": "etwas",
+        "start": 14.191,
+        "end": 14.451
+      },
+      {
+        "text": "über",
+        "start": 14.491,
+        "end": 14.651
+      },
+      {
+        "text": "ihre",
+        "start": 14.671,
+        "end": 14.871
+      },
+      {
+        "text": "Denkweise",
+        "start": 14.911,
+        "end": 15.431
+      },
+      {
+        "text": "erfahren.",
+        "start": 15.471,
+        "end": 15.791
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Also warten wir noch ein bisschen.",
+    "start": 16.051,
+    "end": 17.472,
+    "words": [
+      {
+        "text": "Also",
+        "start": 16.051,
+        "end": 16.271
+      },
+      {
+        "text": "warten",
+        "start": 16.331,
+        "end": 16.531
+      },
+      {
+        "text": "wir",
+        "start": 16.551,
+        "end": 16.671
+      },
+      {
+        "text": "noch",
+        "start": 16.711,
+        "end": 16.811
+      },
+      {
+        "text": "ein",
+        "start": 16.851,
+        "end": 16.951
+      },
+      {
+        "text": "bisschen.",
+        "start": 16.971,
+        "end": 17.472
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Was geht denn mit dir?",
+    "start": 17.512,
+    "end": 18.372,
+    "words": [
+      {
+        "text": "Was",
+        "start": 17.512,
+        "end": 17.672
+      },
+      {
+        "text": "geht",
+        "start": 17.712,
+        "end": 17.852
+      },
+      {
+        "text": "denn",
+        "start": 17.872,
+        "end": 18.012
+      },
+      {
+        "text": "mit",
+        "start": 18.032,
+        "end": 18.152
+      },
+      {
+        "text": "dir?",
+        "start": 18.192,
+        "end": 18.372
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Warum bist du so aus dem Häuschen?",
+    "start": 18.412,
+    "end": 19.632,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 18.412,
+        "end": 18.572
+      },
+      {
+        "text": "bist",
+        "start": 18.592,
+        "end": 18.712
+      },
+      {
+        "text": "du",
+        "start": 18.732,
+        "end": 18.812
+      },
+      {
+        "text": "so",
+        "start": 18.832,
+        "end": 18.932
+      },
+      {
+        "text": "aus",
+        "start": 18.952,
+        "end": 19.052
+      },
+      {
+        "text": "dem",
+        "start": 19.072,
+        "end": 19.212
+      },
+      {
+        "text": "Häuschen?",
+        "start": 19.252,
+        "end": 19.632
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Hallo?",
+    "start": 19.652,
+    "end": 20.112,
+    "words": [
+      {
+        "text": "Hallo?",
+        "start": 19.652,
+        "end": 20.112
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Das können wir uns doch unmöglich entgehen lassen!",
+    "start": 20.132,
+    "end": 22.213,
+    "words": [
+      {
+        "text": "Das",
+        "start": 20.132,
+        "end": 20.272
+      },
+      {
+        "text": "können",
+        "start": 20.292,
+        "end": 20.472
+      },
+      {
+        "text": "wir",
+        "start": 20.492,
+        "end": 20.572
+      },
+      {
+        "text": "uns",
+        "start": 20.592,
+        "end": 20.692
+      },
+      {
+        "text": "doch",
+        "start": 20.732,
+        "end": 20.912
+      },
+      {
+        "text": "unmöglich",
+        "start": 20.952,
+        "end": 21.452
+      },
+      {
+        "text": "entgehen",
+        "start": 21.492,
+        "end": 21.933
+      },
+      {
+        "text": "lassen!",
+        "start": 21.973,
+        "end": 22.213
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Oh je, was nun?",
+    "start": 24.233,
+    "end": 27.756,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 24.233,
+        "end": 24.393
+      },
+      {
+        "text": "je,",
+        "start": 26.054,
+        "end": 26.755
+      },
+      {
+        "text": "was",
+        "start": 26.775,
+        "end": 27.015
+      },
+      {
+        "text": "nun?",
+        "start": 27.055,
+        "end": 27.756
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Mein Herz klopft plötzlich ganz wild.",
+    "start": 27.796,
+    "end": 30.037,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 27.796,
+        "end": 28.016
+      },
+      {
+        "text": "Herz",
+        "start": 28.056,
+        "end": 28.296
+      },
+      {
+        "text": "klopft",
+        "start": 28.316,
+        "end": 28.596
+      },
+      {
+        "text": "plötzlich",
+        "start": 28.616,
+        "end": 28.977
+      },
+      {
+        "text": "ganz",
+        "start": 28.997,
+        "end": 29.197
+      },
+      {
+        "text": "wild.",
+        "start": 29.277,
+        "end": 30.037
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Gleich rutscht mir noch was Peinliches raus.",
+    "start": 30.057,
+    "end": 32.779,
+    "words": [
+      {
+        "text": "Gleich",
+        "start": 30.057,
+        "end": 30.298
+      },
+      {
+        "text": "rutscht",
+        "start": 30.318,
+        "end": 30.518
+      },
+      {
+        "text": "mir",
+        "start": 30.538,
+        "end": 30.638
+      },
+      {
+        "text": "noch",
+        "start": 30.658,
+        "end": 30.758
+      },
+      {
+        "text": "was",
+        "start": 30.778,
+        "end": 30.898
+      },
+      {
+        "text": "Peinliches",
+        "start": 30.958,
+        "end": 31.418
+      },
+      {
+        "text": "raus.",
+        "start": 31.558,
+        "end": 32.779
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wie wunderschön, ich freue mich so sehr.",
+    "start": 32.839,
+    "end": 35.381,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 32.839,
+        "end": 33.02
+      },
+      {
+        "text": "wunderschön,",
+        "start": 33.06,
+        "end": 33.72
+      },
+      {
+        "text": "ich",
+        "start": 33.76,
+        "end": 33.86
+      },
+      {
+        "text": "freue",
+        "start": 33.9,
+        "end": 34.14
+      },
+      {
+        "text": "mich",
+        "start": 34.18,
+        "end": 34.341
+      },
+      {
+        "text": "so",
+        "start": 34.381,
+        "end": 34.601
+      },
+      {
+        "text": "sehr.",
+        "start": 34.641,
+        "end": 35.381
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Wollt ihr denn wirklich so eine wie mich haben?",
+    "start": 35.421,
+    "end": 37.923,
+    "words": [
+      {
+        "text": "Wollt",
+        "start": 35.421,
+        "end": 35.621
+      },
+      {
+        "text": "ihr",
+        "start": 35.641,
+        "end": 35.742
+      },
+      {
+        "text": "denn",
+        "start": 35.762,
+        "end": 35.942
+      },
+      {
+        "text": "wirklich",
+        "start": 35.982,
+        "end": 36.282
+      },
+      {
+        "text": "so",
+        "start": 36.302,
+        "end": 36.402
+      },
+      {
+        "text": "eine",
+        "start": 36.442,
+        "end": 36.562
+      },
+      {
+        "text": "wie",
+        "start": 36.582,
+        "end": 36.822
+      },
+      {
+        "text": "mich",
+        "start": 36.862,
+        "end": 37.043
+      },
+      {
+        "text": "haben?",
+        "start": 37.063,
+        "end": 37.923
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Eine wie dich?",
+    "start": 37.983,
+    "end": 39.124,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 37.983,
+        "end": 38.243
+      },
+      {
+        "text": "wie",
+        "start": 38.263,
+        "end": 38.364
+      },
+      {
+        "text": "dich?",
+        "start": 38.384,
+        "end": 39.124
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Geht's noch, Amaryllis?",
+    "start": 39.164,
+    "end": 40.385,
+    "words": [
+      {
+        "text": "Geht's",
+        "start": 39.164,
+        "end": 39.404
+      },
+      {
+        "text": "noch,",
+        "start": 39.444,
+        "end": 39.584
+      },
+      {
+        "text": "Amaryllis?",
+        "start": 39.624,
+        "end": 40.385
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Du bist mit Abstand die größte Schönheit der Insel.",
+    "start": 40.405,
+    "end": 43.407,
+    "words": [
+      {
+        "text": "Du",
+        "start": 40.405,
+        "end": 40.545
+      },
+      {
+        "text": "bist",
+        "start": 40.565,
+        "end": 40.805
+      },
+      {
+        "text": "mit",
+        "start": 40.825,
+        "end": 40.985
+      },
+      {
+        "text": "Abstand",
+        "start": 41.025,
+        "end": 41.466
+      },
+      {
+        "text": "die",
+        "start": 41.486,
+        "end": 41.586
+      },
+      {
+        "text": "größte",
+        "start": 41.606,
+        "end": 42.026
+      },
+      {
+        "text": "Schönheit",
+        "start": 42.066,
+        "end": 42.507
+      },
+      {
+        "text": "der",
+        "start": 42.547,
+        "end": 42.667
+      },
+      {
+        "text": "Insel.",
+        "start": 42.707,
+        "end": 43.407
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Ach du meine Güte, kann es sein, dass du total unschuldig bist, mein lieber Soyuz?",
+    "start": 44.548,
+    "end": 48.631,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 44.548,
+        "end": 44.648
+      },
+      {
+        "text": "du",
+        "start": 44.668,
+        "end": 44.868
+      },
+      {
+        "text": "meine",
+        "start": 44.908,
+        "end": 45.149
+      },
+      {
+        "text": "Güte,",
+        "start": 45.169,
+        "end": 45.389
+      },
+      {
+        "text": "kann",
+        "start": 45.429,
+        "end": 45.549
+      },
+      {
+        "text": "es",
+        "start": 45.589,
+        "end": 45.689
+      },
+      {
+        "text": "sein,",
+        "start": 45.709,
+        "end": 45.889
+      },
+      {
+        "text": "dass",
+        "start": 45.909,
+        "end": 46.049
+      },
+      {
+        "text": "du",
+        "start": 46.069,
+        "end": 46.149
+      },
+      {
+        "text": "total",
+        "start": 46.189,
+        "end": 46.59
+      },
+      {
+        "text": "unschuldig",
+        "start": 46.65,
+        "end": 47.23
+      },
+      {
+        "text": "bist,",
+        "start": 47.25,
+        "end": 47.47
+      },
+      {
+        "text": "mein",
+        "start": 47.51,
+        "end": 47.73
+      },
+      {
+        "text": "lieber",
+        "start": 47.77,
+        "end": 48.071
+      },
+      {
+        "text": "Soyuz?",
+        "start": 48.111,
+        "end": 48.631
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Aber morgen muss ich... ...eine der Frauen des Häuptlings im Inneren Palast werden.",
+    "start": 54.063,
+    "end": 60.307,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 54.063,
+        "end": 54.423
+      },
+      {
+        "text": "morgen",
+        "start": 54.443,
+        "end": 55.704
+      },
+      {
+        "text": "muss",
+        "start": 55.724,
+        "end": 56.205
+      },
+      {
+        "text": "ich...",
+        "start": 56.265,
+        "end": 56.405
+      },
+      {
+        "text": "...eine",
+        "start": 57.205,
+        "end": 57.445
+      },
+      {
+        "text": "der",
+        "start": 57.465,
+        "end": 57.705
+      },
+      {
+        "text": "Frauen",
+        "start": 57.745,
+        "end": 57.946
+      },
+      {
+        "text": "des",
+        "start": 57.966,
+        "end": 58.106
+      },
+      {
+        "text": "Häuptlings",
+        "start": 58.186,
+        "end": 59.026
+      },
+      {
+        "text": "im",
+        "start": 59.066,
+        "end": 59.166
+      },
+      {
+        "text": "Inneren",
+        "start": 59.226,
+        "end": 59.627
+      },
+      {
+        "text": "Palast",
+        "start": 59.647,
+        "end": 59.987
+      },
+      {
+        "text": "werden.",
+        "start": 60.007,
+        "end": 60.307
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ich bin wirklich untröstlich.",
+    "start": 60.347,
+    "end": 61.828,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 60.347,
+        "end": 60.427
+      },
+      {
+        "text": "bin",
+        "start": 60.467,
+        "end": 60.667
+      },
+      {
+        "text": "wirklich",
+        "start": 60.687,
+        "end": 61.007
+      },
+      {
+        "text": "untröstlich.",
+        "start": 61.047,
+        "end": 61.828
+      }
+    ]
+  }
+]

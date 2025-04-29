@@ -1,0 +1,757 @@
+[
+  {
+    "id": 0,
+    "text": " Verdammt!",
+    "start": 2.261,
+    "end": 2.961,
+    "words": [
+      {
+        "text": "Verdammt!",
+        "start": 2.261,
+        "end": 2.961
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sie treibt schon wieder ihre Spielchen mit mir!",
+    "start": 2.981,
+    "end": 5.703,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 2.981,
+        "end": 3.082
+      },
+      {
+        "text": "treibt",
+        "start": 3.122,
+        "end": 3.342
+      },
+      {
+        "text": "schon",
+        "start": 3.362,
+        "end": 3.562
+      },
+      {
+        "text": "wieder",
+        "start": 3.582,
+        "end": 3.742
+      },
+      {
+        "text": "ihre",
+        "start": 3.802,
+        "end": 3.942
+      },
+      {
+        "text": "Spielchen",
+        "start": 3.962,
+        "end": 4.442
+      },
+      {
+        "text": "mit",
+        "start": 4.462,
+        "end": 4.602
+      },
+      {
+        "text": "mir!",
+        "start": 4.662,
+        "end": 5.703
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich lass mich sicher nicht vorführen!",
+    "start": 5.743,
+    "end": 7.884,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 5.743,
+        "end": 5.923
+      },
+      {
+        "text": "lass",
+        "start": 5.983,
+        "end": 6.163
+      },
+      {
+        "text": "mich",
+        "start": 6.203,
+        "end": 6.383
+      },
+      {
+        "text": "sicher",
+        "start": 6.423,
+        "end": 6.683
+      },
+      {
+        "text": "nicht",
+        "start": 6.723,
+        "end": 6.923
+      },
+      {
+        "text": "vorführen!",
+        "start": 6.963,
+        "end": 7.884
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Nicht von ihr!",
+    "start": 7.924,
+    "end": 8.784,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 7.924,
+        "end": 8.204
+      },
+      {
+        "text": "von",
+        "start": 8.224,
+        "end": 8.404
+      },
+      {
+        "text": "ihr!",
+        "start": 8.484,
+        "end": 8.784
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Warum nur?",
+    "start": 8.984,
+    "end": 9.364,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 8.984,
+        "end": 9.164
+      },
+      {
+        "text": "nur?",
+        "start": 9.264,
+        "end": 9.364
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "So ein... Mäh!",
+    "start": 9.404,
+    "end": 10.945,
+    "words": [
+      {
+        "text": "So",
+        "start": 9.404,
+        "end": 9.544
+      },
+      {
+        "text": "ein...",
+        "start": 9.644,
+        "end": 10.245
+      },
+      {
+        "text": "Mäh!",
+        "start": 10.285,
+        "end": 10.945
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Wow.",
+    "start": 31.412,
+    "end": 32.233,
+    "words": [
+      {
+        "text": "Wow.",
+        "start": 31.412,
+        "end": 32.233
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wirklich beeindruckend.",
+    "start": 32.273,
+    "end": 33.353,
+    "words": [
+      {
+        "text": "Wirklich",
+        "start": 32.273,
+        "end": 32.633
+      },
+      {
+        "text": "beeindruckend.",
+        "start": 32.673,
+        "end": 33.353
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Das regelmäßige Pochen deines Herzens.",
+    "start": 33.914,
+    "end": 36.335,
+    "words": [
+      {
+        "text": "Das",
+        "start": 33.914,
+        "end": 34.094
+      },
+      {
+        "text": "regelmäßige",
+        "start": 34.114,
+        "end": 34.734
+      },
+      {
+        "text": "Pochen",
+        "start": 34.774,
+        "end": 35.054
+      },
+      {
+        "text": "deines",
+        "start": 35.094,
+        "end": 35.335
+      },
+      {
+        "text": "Herzens.",
+        "start": 35.395,
+        "end": 36.335
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Man hört es ganz laut.",
+    "start": 36.355,
+    "end": 38.296,
+    "words": [
+      {
+        "text": "Man",
+        "start": 36.355,
+        "end": 36.555
+      },
+      {
+        "text": "hört",
+        "start": 36.575,
+        "end": 36.715
+      },
+      {
+        "text": "es",
+        "start": 36.776,
+        "end": 36.896
+      },
+      {
+        "text": "ganz",
+        "start": 36.936,
+        "end": 37.116
+      },
+      {
+        "text": "laut.",
+        "start": 37.176,
+        "end": 38.296
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Selbstverständlich.",
+    "start": 38.316,
+    "end": 39.777,
+    "words": [
+      {
+        "text": "Selbstverständlich.",
+        "start": 38.316,
+        "end": 39.777
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "So ein Pech aber auch.",
+    "start": 39.837,
+    "end": 40.978,
+    "words": [
+      {
+        "text": "So",
+        "start": 39.837,
+        "end": 40.038
+      },
+      {
+        "text": "ein",
+        "start": 40.078,
+        "end": 40.218
+      },
+      {
+        "text": "Pech",
+        "start": 40.258,
+        "end": 40.518
+      },
+      {
+        "text": "aber",
+        "start": 40.558,
+        "end": 40.758
+      },
+      {
+        "text": "auch.",
+        "start": 40.798,
+        "end": 40.978
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Damit hast du wohl verloren.",
+    "start": 41.018,
+    "end": 42.179,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 41.018,
+        "end": 41.258
+      },
+      {
+        "text": "hast",
+        "start": 41.278,
+        "end": 41.438
+      },
+      {
+        "text": "du",
+        "start": 41.458,
+        "end": 41.558
+      },
+      {
+        "text": "wohl",
+        "start": 41.599,
+        "end": 41.759
+      },
+      {
+        "text": "verloren.",
+        "start": 41.799,
+        "end": 42.179
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Moment mal.",
+    "start": 49.203,
+    "end": 50.824,
+    "words": [
+      {
+        "text": "Moment",
+        "start": 49.203,
+        "end": 49.583
+      },
+      {
+        "text": "mal.",
+        "start": 49.603,
+        "end": 50.824
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Hey, jetzt steh schon auf.",
+    "start": 50.864,
+    "end": 54.166,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 50.864,
+        "end": 51.044
+      },
+      {
+        "text": "jetzt",
+        "start": 51.084,
+        "end": 51.245
+      },
+      {
+        "text": "steh",
+        "start": 51.285,
+        "end": 51.485
+      },
+      {
+        "text": "schon",
+        "start": 51.525,
+        "end": 51.785
+      },
+      {
+        "text": "auf.",
+        "start": 51.845,
+        "end": 54.166
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Warum machst du denn jetzt so ein ernstes Gesicht?",
+    "start": 54.186,
+    "end": 56.808,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 54.186,
+        "end": 54.467
+      },
+      {
+        "text": "machst",
+        "start": 54.507,
+        "end": 54.687
+      },
+      {
+        "text": "du",
+        "start": 54.707,
+        "end": 54.787
+      },
+      {
+        "text": "denn",
+        "start": 54.807,
+        "end": 54.987
+      },
+      {
+        "text": "jetzt",
+        "start": 55.007,
+        "end": 55.187
+      },
+      {
+        "text": "so",
+        "start": 55.207,
+        "end": 55.287
+      },
+      {
+        "text": "ein",
+        "start": 55.327,
+        "end": 55.467
+      },
+      {
+        "text": "ernstes",
+        "start": 55.527,
+        "end": 55.907
+      },
+      {
+        "text": "Gesicht?",
+        "start": 55.947,
+        "end": 56.808
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Du darfst das nicht machen.",
+    "start": 56.848,
+    "end": 58.189,
+    "words": [
+      {
+        "text": "Du",
+        "start": 56.848,
+        "end": 57.088
+      },
+      {
+        "text": "darfst",
+        "start": 57.128,
+        "end": 57.408
+      },
+      {
+        "text": "das",
+        "start": 57.448,
+        "end": 57.648
+      },
+      {
+        "text": "nicht",
+        "start": 57.689,
+        "end": 57.889
+      },
+      {
+        "text": "machen.",
+        "start": 57.929,
+        "end": 58.189
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Warte, hast du mir zugehört?",
+    "start": 59.633,
+    "end": 60.373,
+    "words": [
+      {
+        "text": "Warte,",
+        "start": 59.633,
+        "end": 59.913
+      },
+      {
+        "text": "hast",
+        "start": 59.933,
+        "end": 60.033
+      },
+      {
+        "text": "du",
+        "start": 60.053,
+        "end": 60.093
+      },
+      {
+        "text": "mir",
+        "start": 60.113,
+        "end": 60.173
+      },
+      {
+        "text": "zugehört?",
+        "start": 60.193,
+        "end": 60.373
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ich sagte, du darfst nicht...",
+    "start": 60.413,
+    "end": 61.154,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 60.413,
+        "end": 60.473
+      },
+      {
+        "text": "sagte,",
+        "start": 60.493,
+        "end": 60.633
+      },
+      {
+        "text": "du",
+        "start": 60.653,
+        "end": 60.753
+      },
+      {
+        "text": "darfst",
+        "start": 60.794,
+        "end": 61.034
+      },
+      {
+        "text": "nicht...",
+        "start": 61.054,
+        "end": 61.154
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Gero, deine Nase!",
+    "start": 89.958,
+    "end": 97.745,
+    "words": [
+      {
+        "text": "Gero,",
+        "start": 89.958,
+        "end": 90.438
+      },
+      {
+        "text": "deine",
+        "start": 90.458,
+        "end": 97.105
+      },
+      {
+        "text": "Nase!",
+        "start": 97.205,
+        "end": 97.745
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich sterbe, wie niedlich!",
+    "start": 98.246,
+    "end": 99.907,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 98.246,
+        "end": 98.506
+      },
+      {
+        "text": "sterbe,",
+        "start": 98.706,
+        "end": 99.126
+      },
+      {
+        "text": "wie",
+        "start": 99.167,
+        "end": 99.367
+      },
+      {
+        "text": "niedlich!",
+        "start": 99.387,
+        "end": 99.907
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Sei still!",
+    "start": 100.167,
+    "end": 101.629,
+    "words": [
+      {
+        "text": "Sei",
+        "start": 100.167,
+        "end": 100.788
+      },
+      {
+        "text": "still!",
+        "start": 101.008,
+        "end": 101.629
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Wessen Schuld ist es, dass ich so aussehe?",
+    "start": 101.649,
+    "end": 103.491,
+    "words": [
+      {
+        "text": "Wessen",
+        "start": 101.649,
+        "end": 101.849
+      },
+      {
+        "text": "Schuld",
+        "start": 101.889,
+        "end": 102.129
+      },
+      {
+        "text": "ist",
+        "start": 102.169,
+        "end": 102.269
+      },
+      {
+        "text": "es,",
+        "start": 102.309,
+        "end": 102.57
+      },
+      {
+        "text": "dass",
+        "start": 102.59,
+        "end": 102.69
+      },
+      {
+        "text": "ich",
+        "start": 102.75,
+        "end": 102.83
+      },
+      {
+        "text": "so",
+        "start": 102.85,
+        "end": 102.95
+      },
+      {
+        "text": "aussehe?",
+        "start": 102.99,
+        "end": 103.491
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Sie hat es schon wieder getan.",
+    "start": 103.511,
+    "end": 105.753,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 103.511,
+        "end": 103.651
+      },
+      {
+        "text": "hat",
+        "start": 103.691,
+        "end": 103.831
+      },
+      {
+        "text": "es",
+        "start": 103.871,
+        "end": 103.971
+      },
+      {
+        "text": "schon",
+        "start": 103.991,
+        "end": 104.251
+      },
+      {
+        "text": "wieder",
+        "start": 104.271,
+        "end": 104.531
+      },
+      {
+        "text": "getan.",
+        "start": 104.572,
+        "end": 105.753
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Aber zum Glück hatte ich Nasenbluten, das war die Rettung.",
+    "start": 105.773,
+    "end": 107.975,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 105.773,
+        "end": 105.973
+      },
+      {
+        "text": "zum",
+        "start": 105.993,
+        "end": 106.113
+      },
+      {
+        "text": "Glück",
+        "start": 106.153,
+        "end": 106.313
+      },
+      {
+        "text": "hatte",
+        "start": 106.333,
+        "end": 106.473
+      },
+      {
+        "text": "ich",
+        "start": 106.493,
+        "end": 106.613
+      },
+      {
+        "text": "Nasenbluten,",
+        "start": 106.653,
+        "end": 107.274
+      },
+      {
+        "text": "das",
+        "start": 107.294,
+        "end": 107.414
+      },
+      {
+        "text": "war",
+        "start": 107.454,
+        "end": 107.574
+      },
+      {
+        "text": "die",
+        "start": 107.594,
+        "end": 107.694
+      },
+      {
+        "text": "Rettung.",
+        "start": 107.734,
+        "end": 107.975
+      }
+    ]
+  }
+]

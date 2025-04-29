@@ -1,0 +1,1253 @@
+[
+  {
+    "id": 0,
+    "text": " Aber die Rektorin hat mich gerufen.",
+    "start": 0.471,
+    "end": 2.973,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 0.471,
+        "end": 1.072
+      },
+      {
+        "text": "die",
+        "start": 1.112,
+        "end": 1.212
+      },
+      {
+        "text": "Rektorin",
+        "start": 1.252,
+        "end": 1.732
+      },
+      {
+        "text": "hat",
+        "start": 1.752,
+        "end": 1.912
+      },
+      {
+        "text": "mich",
+        "start": 1.932,
+        "end": 2.052
+      },
+      {
+        "text": "gerufen.",
+        "start": 2.092,
+        "end": 2.973
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ach ja?",
+    "start": 3.053,
+    "end": 4.474,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 3.053,
+        "end": 4.313
+      },
+      {
+        "text": "ja?",
+        "start": 4.333,
+        "end": 4.474
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Das trifft sich ja wunderbar!",
+    "start": 4.494,
+    "end": 6.175,
+    "words": [
+      {
+        "text": "Das",
+        "start": 4.494,
+        "end": 4.654
+      },
+      {
+        "text": "trifft",
+        "start": 4.674,
+        "end": 4.934
+      },
+      {
+        "text": "sich",
+        "start": 4.954,
+        "end": 5.094
+      },
+      {
+        "text": "ja",
+        "start": 5.154,
+        "end": 5.334
+      },
+      {
+        "text": "wunderbar!",
+        "start": 5.374,
+        "end": 6.175
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Eine tolle Gelegenheit!",
+    "start": 6.235,
+    "end": 7.875,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 6.235,
+        "end": 6.435
+      },
+      {
+        "text": "tolle",
+        "start": 6.495,
+        "end": 6.815
+      },
+      {
+        "text": "Gelegenheit!",
+        "start": 6.855,
+        "end": 7.875
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Du bist mir von Herzen willkommen, Junge!",
+    "start": 7.916,
+    "end": 10.357,
+    "words": [
+      {
+        "text": "Du",
+        "start": 7.916,
+        "end": 8.076
+      },
+      {
+        "text": "bist",
+        "start": 8.096,
+        "end": 8.256
+      },
+      {
+        "text": "mir",
+        "start": 8.296,
+        "end": 8.436
+      },
+      {
+        "text": "von",
+        "start": 8.476,
+        "end": 8.656
+      },
+      {
+        "text": "Herzen",
+        "start": 8.696,
+        "end": 9.036
+      },
+      {
+        "text": "willkommen,",
+        "start": 9.076,
+        "end": 9.657
+      },
+      {
+        "text": "Junge!",
+        "start": 9.677,
+        "end": 10.357
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Also dann, worauf wartest du?",
+    "start": 10.417,
+    "end": 11.798,
+    "words": [
+      {
+        "text": "Also",
+        "start": 10.417,
+        "end": 10.717
+      },
+      {
+        "text": "dann,",
+        "start": 10.737,
+        "end": 10.957
+      },
+      {
+        "text": "worauf",
+        "start": 10.997,
+        "end": 11.277
+      },
+      {
+        "text": "wartest",
+        "start": 11.297,
+        "end": 11.638
+      },
+      {
+        "text": "du?",
+        "start": 11.678,
+        "end": 11.798
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Mach die Tür auf!",
+    "start": 11.838,
+    "end": 12.638,
+    "words": [
+      {
+        "text": "Mach",
+        "start": 11.838,
+        "end": 11.958
+      },
+      {
+        "text": "die",
+        "start": 11.978,
+        "end": 12.118
+      },
+      {
+        "text": "Tür",
+        "start": 12.158,
+        "end": 12.418
+      },
+      {
+        "text": "auf!",
+        "start": 12.498,
+        "end": 12.638
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Los, los!",
+    "start": 12.658,
+    "end": 12.958,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 12.658,
+        "end": 12.778
+      },
+      {
+        "text": "los!",
+        "start": 12.798,
+        "end": 12.958
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ähm, äh, aber... Sie wurden nicht zur Rektorin gerufen, oder?",
+    "start": 13.018,
+    "end": 19.122,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 13.018,
+        "end": 13.419
+      },
+      {
+        "text": "äh,",
+        "start": 13.499,
+        "end": 14.519
+      },
+      {
+        "text": "aber...",
+        "start": 14.579,
+        "end": 15.46
+      },
+      {
+        "text": "Sie",
+        "start": 15.5,
+        "end": 15.66
+      },
+      {
+        "text": "wurden",
+        "start": 15.7,
+        "end": 15.92
+      },
+      {
+        "text": "nicht",
+        "start": 15.96,
+        "end": 16.1
+      },
+      {
+        "text": "zur",
+        "start": 16.14,
+        "end": 16.24
+      },
+      {
+        "text": "Rektorin",
+        "start": 16.28,
+        "end": 16.701
+      },
+      {
+        "text": "gerufen,",
+        "start": 16.741,
+        "end": 17.101
+      },
+      {
+        "text": "oder?",
+        "start": 17.161,
+        "end": 19.122
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wenn ich sie jetzt trotzdem ins Büro lasse, wird die Rektorin mit mir schimpfen.",
+    "start": 19.142,
+    "end": 24.785,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 19.142,
+        "end": 19.322
+      },
+      {
+        "text": "ich",
+        "start": 19.362,
+        "end": 19.482
+      },
+      {
+        "text": "sie",
+        "start": 19.522,
+        "end": 19.642
+      },
+      {
+        "text": "jetzt",
+        "start": 19.702,
+        "end": 20.102
+      },
+      {
+        "text": "trotzdem",
+        "start": 20.142,
+        "end": 20.503
+      },
+      {
+        "text": "ins",
+        "start": 20.563,
+        "end": 20.723
+      },
+      {
+        "text": "Büro",
+        "start": 20.743,
+        "end": 21.003
+      },
+      {
+        "text": "lasse,",
+        "start": 21.023,
+        "end": 21.363
+      },
+      {
+        "text": "wird",
+        "start": 21.403,
+        "end": 21.563
+      },
+      {
+        "text": "die",
+        "start": 21.603,
+        "end": 21.683
+      },
+      {
+        "text": "Rektorin",
+        "start": 21.703,
+        "end": 22.164
+      },
+      {
+        "text": "mit",
+        "start": 22.204,
+        "end": 22.324
+      },
+      {
+        "text": "mir",
+        "start": 22.344,
+        "end": 22.464
+      },
+      {
+        "text": "schimpfen.",
+        "start": 22.484,
+        "end": 24.785
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Gutes Argument.",
+    "start": 24.825,
+    "end": 26.006,
+    "words": [
+      {
+        "text": "Gutes",
+        "start": 24.825,
+        "end": 25.165
+      },
+      {
+        "text": "Argument.",
+        "start": 25.225,
+        "end": 26.006
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich liebe gute Argumente.",
+    "start": 26.066,
+    "end": 27.527,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 26.066,
+        "end": 26.266
+      },
+      {
+        "text": "liebe",
+        "start": 26.306,
+        "end": 26.606
+      },
+      {
+        "text": "gute",
+        "start": 26.646,
+        "end": 26.946
+      },
+      {
+        "text": "Argumente.",
+        "start": 26.986,
+        "end": 27.527
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Ich verzeihe dir.",
+    "start": 28.907,
+    "end": 29.989,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 28.907,
+        "end": 29.268
+      },
+      {
+        "text": "verzeihe",
+        "start": 29.308,
+        "end": 29.788
+      },
+      {
+        "text": "dir.",
+        "start": 29.828,
+        "end": 29.989
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Also dann, machen wir's halt so!",
+    "start": 31.25,
+    "end": 38.06,
+    "words": [
+      {
+        "text": "Also",
+        "start": 31.25,
+        "end": 32.632
+      },
+      {
+        "text": "dann,",
+        "start": 32.672,
+        "end": 33.474
+      },
+      {
+        "text": "machen",
+        "start": 33.554,
+        "end": 33.854
+      },
+      {
+        "text": "wir's",
+        "start": 33.874,
+        "end": 34.074
+      },
+      {
+        "text": "halt",
+        "start": 34.094,
+        "end": 34.395
+      },
+      {
+        "text": "so!",
+        "start": 34.415,
+        "end": 38.06
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Sag dem Jungen hallo, Ludens!",
+    "start": 38.12,
+    "end": 39.662,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 38.12,
+        "end": 38.421
+      },
+      {
+        "text": "dem",
+        "start": 38.461,
+        "end": 38.681
+      },
+      {
+        "text": "Jungen",
+        "start": 38.701,
+        "end": 39.021
+      },
+      {
+        "text": "hallo,",
+        "start": 39.062,
+        "end": 39.362
+      },
+      {
+        "text": "Ludens!",
+        "start": 39.382,
+        "end": 39.662
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Los, Winsel, flehe um dein Leben!",
+    "start": 46.393,
+    "end": 48.616,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 46.393,
+        "end": 46.814
+      },
+      {
+        "text": "Winsel,",
+        "start": 46.834,
+        "end": 47.395
+      },
+      {
+        "text": "flehe",
+        "start": 47.435,
+        "end": 47.715
+      },
+      {
+        "text": "um",
+        "start": 47.755,
+        "end": 47.875
+      },
+      {
+        "text": "dein",
+        "start": 47.915,
+        "end": 48.136
+      },
+      {
+        "text": "Leben!",
+        "start": 48.216,
+        "end": 48.616
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wenn das Leben ihres süßen kleinen Schülers in Gefahr ist, wird selbst Albus... Du wagst es?",
+    "start": 48.817,
+    "end": 56.326,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 48.817,
+        "end": 48.997
+      },
+      {
+        "text": "das",
+        "start": 49.037,
+        "end": 49.197
+      },
+      {
+        "text": "Leben",
+        "start": 49.237,
+        "end": 49.497
+      },
+      {
+        "text": "ihres",
+        "start": 49.558,
+        "end": 49.758
+      },
+      {
+        "text": "süßen",
+        "start": 49.778,
+        "end": 50.098
+      },
+      {
+        "text": "kleinen",
+        "start": 50.138,
+        "end": 50.379
+      },
+      {
+        "text": "Schülers",
+        "start": 50.459,
+        "end": 51.44
+      },
+      {
+        "text": "in",
+        "start": 51.5,
+        "end": 51.66
+      },
+      {
+        "text": "Gefahr",
+        "start": 51.7,
+        "end": 52.041
+      },
+      {
+        "text": "ist,",
+        "start": 52.081,
+        "end": 52.241
+      },
+      {
+        "text": "wird",
+        "start": 52.321,
+        "end": 52.481
+      },
+      {
+        "text": "selbst",
+        "start": 52.501,
+        "end": 52.902
+      },
+      {
+        "text": "Albus...",
+        "start": 52.982,
+        "end": 53.823
+      },
+      {
+        "text": "Du",
+        "start": 53.883,
+        "end": 54.424
+      },
+      {
+        "text": "wagst",
+        "start": 54.484,
+        "end": 54.945
+      },
+      {
+        "text": "es?",
+        "start": 55.045,
+        "end": 56.326
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Lo Christas!",
+    "start": 56.407,
+    "end": 58.249,
+    "words": [
+      {
+        "text": "Lo",
+        "start": 56.407,
+        "end": 56.767
+      },
+      {
+        "text": "Christas!",
+        "start": 56.787,
+        "end": 58.249
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Was fällt dir ein, einem unserer Schüler sowas anzunzuwein?",
+    "start": 58.309,
+    "end": 63.856,
+    "words": [
+      {
+        "text": "Was",
+        "start": 58.309,
+        "end": 58.65
+      },
+      {
+        "text": "fällt",
+        "start": 58.69,
+        "end": 59.01
+      },
+      {
+        "text": "dir",
+        "start": 59.05,
+        "end": 59.371
+      },
+      {
+        "text": "ein,",
+        "start": 59.431,
+        "end": 59.991
+      },
+      {
+        "text": "einem",
+        "start": 60.071,
+        "end": 60.512
+      },
+      {
+        "text": "unserer",
+        "start": 60.572,
+        "end": 61.053
+      },
+      {
+        "text": "Schüler",
+        "start": 61.093,
+        "end": 61.634
+      },
+      {
+        "text": "sowas",
+        "start": 61.674,
+        "end": 62.274
+      },
+      {
+        "text": "anzunzuwein?",
+        "start": 62.334,
+        "end": 63.856
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Na, sieh mal einer an.",
+    "start": 65.636,
+    "end": 68.738,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 65.636,
+        "end": 67.677
+      },
+      {
+        "text": "sieh",
+        "start": 67.697,
+        "end": 68.077
+      },
+      {
+        "text": "mal",
+        "start": 68.117,
+        "end": 68.198
+      },
+      {
+        "text": "einer",
+        "start": 68.218,
+        "end": 68.438
+      },
+      {
+        "text": "an.",
+        "start": 68.498,
+        "end": 68.738
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Der drittklassige Knecht.",
+    "start": 68.778,
+    "end": 70.459,
+    "words": [
+      {
+        "text": "Der",
+        "start": 68.778,
+        "end": 68.978
+      },
+      {
+        "text": "drittklassige",
+        "start": 68.998,
+        "end": 69.778
+      },
+      {
+        "text": "Knecht.",
+        "start": 69.878,
+        "end": 70.459
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Lange nicht gesehen.",
+    "start": 70.639,
+    "end": 72.18,
+    "words": [
+      {
+        "text": "Lange",
+        "start": 70.639,
+        "end": 70.899
+      },
+      {
+        "text": "nicht",
+        "start": 70.919,
+        "end": 71.139
+      },
+      {
+        "text": "gesehen.",
+        "start": 71.179,
+        "end": 72.18
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Halt den Rand!",
+    "start": 72.2,
+    "end": 73.08,
+    "words": [
+      {
+        "text": "Halt",
+        "start": 72.2,
+        "end": 72.52
+      },
+      {
+        "text": "den",
+        "start": 72.54,
+        "end": 72.72
+      },
+      {
+        "text": "Rand!",
+        "start": 72.76,
+        "end": 73.08
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Du lernst es wohl nie.",
+    "start": 73.12,
+    "end": 74.181,
+    "words": [
+      {
+        "text": "Du",
+        "start": 73.12,
+        "end": 73.26
+      },
+      {
+        "text": "lernst",
+        "start": 73.28,
+        "end": 73.58
+      },
+      {
+        "text": "es",
+        "start": 73.66,
+        "end": 73.74
+      },
+      {
+        "text": "wohl",
+        "start": 73.78,
+        "end": 73.92
+      },
+      {
+        "text": "nie.",
+        "start": 73.94,
+        "end": 74.181
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Tauchst schon wieder auf und schlifftest Chaos.",
+    "start": 74.221,
+    "end": 76.742,
+    "words": [
+      {
+        "text": "Tauchst",
+        "start": 74.221,
+        "end": 74.521
+      },
+      {
+        "text": "schon",
+        "start": 74.541,
+        "end": 74.761
+      },
+      {
+        "text": "wieder",
+        "start": 74.801,
+        "end": 75.001
+      },
+      {
+        "text": "auf",
+        "start": 75.021,
+        "end": 75.141
+      },
+      {
+        "text": "und",
+        "start": 75.201,
+        "end": 75.301
+      },
+      {
+        "text": "schlifftest",
+        "start": 75.321,
+        "end": 75.741
+      },
+      {
+        "text": "Chaos.",
+        "start": 75.761,
+        "end": 76.742
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ich habe etwas mit Albus zu besprechen.",
+    "start": 76.802,
+    "end": 80.124,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 76.802,
+        "end": 76.982
+      },
+      {
+        "text": "habe",
+        "start": 77.002,
+        "end": 77.282
+      },
+      {
+        "text": "etwas",
+        "start": 77.302,
+        "end": 77.582
+      },
+      {
+        "text": "mit",
+        "start": 77.622,
+        "end": 77.822
+      },
+      {
+        "text": "Albus",
+        "start": 77.922,
+        "end": 78.343
+      },
+      {
+        "text": "zu",
+        "start": 78.363,
+        "end": 78.463
+      },
+      {
+        "text": "besprechen.",
+        "start": 78.503,
+        "end": 80.124
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Verschwinde an dem Ort, wo du hingehörst!",
+    "start": 80.164,
+    "end": 83.705,
+    "words": [
+      {
+        "text": "Verschwinde",
+        "start": 80.164,
+        "end": 81.184
+      },
+      {
+        "text": "an",
+        "start": 81.244,
+        "end": 81.384
+      },
+      {
+        "text": "dem",
+        "start": 81.404,
+        "end": 81.644
+      },
+      {
+        "text": "Ort,",
+        "start": 81.704,
+        "end": 81.864
+      },
+      {
+        "text": "wo",
+        "start": 81.904,
+        "end": 82.045
+      },
+      {
+        "text": "du",
+        "start": 82.065,
+        "end": 82.465
+      },
+      {
+        "text": "hingehörst!",
+        "start": 82.505,
+        "end": 83.705
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Da geht's nicht!",
+    "start": 83.745,
+    "end": 84.366,
+    "words": [
+      {
+        "text": "Da",
+        "start": 83.745,
+        "end": 83.865
+      },
+      {
+        "text": "geht's",
+        "start": 83.885,
+        "end": 84.026
+      },
+      {
+        "text": "nicht!",
+        "start": 84.126,
+        "end": 84.366
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Rühl nicht an!",
+    "start": 95.505,
+    "end": 96.105,
+    "words": [
+      {
+        "text": "Rühl",
+        "start": 95.505,
+        "end": 95.805
+      },
+      {
+        "text": "nicht",
+        "start": 95.845,
+        "end": 95.965
+      },
+      {
+        "text": "an!",
+        "start": 96.005,
+        "end": 96.105
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Nicht!",
+    "start": 96.165,
+    "end": 96.726,
+    "words": [
+      {
+        "text": "Nicht!",
+        "start": 96.165,
+        "end": 96.726
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Bist du lebensmüde?",
+    "start": 96.746,
+    "end": 98.266,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 96.746,
+        "end": 96.946
+      },
+      {
+        "text": "du",
+        "start": 96.986,
+        "end": 97.166
+      },
+      {
+        "text": "lebensmüde?",
+        "start": 97.206,
+        "end": 98.266
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Oh nein, mein Stab!",
+    "start": 98.326,
+    "end": 106.19,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 98.326,
+        "end": 101.888
+      },
+      {
+        "text": "nein,",
+        "start": 101.968,
+        "end": 103.128
+      },
+      {
+        "text": "mein",
+        "start": 103.168,
+        "end": 103.628
+      },
+      {
+        "text": "Stab!",
+        "start": 103.829,
+        "end": 106.19
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Huldem, du Mistkerl!",
+    "start": 106.23,
+    "end": 108.23,
+    "words": [
+      {
+        "text": "Huldem,",
+        "start": 106.23,
+        "end": 106.67
+      },
+      {
+        "text": "du",
+        "start": 106.71,
+        "end": 106.91
+      },
+      {
+        "text": "Mistkerl!",
+        "start": 106.93,
+        "end": 108.23
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Meinem lieben kleinen Ludens, meinem Erbschatz, einfach so einen Tritt zu verpassen!",
+    "start": 108.25,
+    "end": 113.213,
+    "words": [
+      {
+        "text": "Meinem",
+        "start": 108.25,
+        "end": 108.571
+      },
+      {
+        "text": "lieben",
+        "start": 108.611,
+        "end": 108.971
+      },
+      {
+        "text": "kleinen",
+        "start": 109.011,
+        "end": 109.311
+      },
+      {
+        "text": "Ludens,",
+        "start": 109.331,
+        "end": 109.811
+      },
+      {
+        "text": "meinem",
+        "start": 109.851,
+        "end": 110.191
+      },
+      {
+        "text": "Erbschatz,",
+        "start": 110.251,
+        "end": 110.812
+      },
+      {
+        "text": "einfach",
+        "start": 110.852,
+        "end": 111.192
+      },
+      {
+        "text": "so",
+        "start": 111.232,
+        "end": 111.292
+      },
+      {
+        "text": "einen",
+        "start": 111.312,
+        "end": 111.632
+      },
+      {
+        "text": "Tritt",
+        "start": 111.672,
+        "end": 111.972
+      },
+      {
+        "text": "zu",
+        "start": 112.012,
+        "end": 112.172
+      },
+      {
+        "text": "verpassen!",
+        "start": 112.212,
+        "end": 113.213
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Dafür sollst du tausend Tode sterben!",
+    "start": 113.233,
+    "end": 116.534,
+    "words": [
+      {
+        "text": "Dafür",
+        "start": 113.233,
+        "end": 113.613
+      },
+      {
+        "text": "sollst",
+        "start": 113.653,
+        "end": 113.833
+      },
+      {
+        "text": "du",
+        "start": 113.853,
+        "end": 114.033
+      },
+      {
+        "text": "tausend",
+        "start": 114.093,
+        "end": 114.473
+      },
+      {
+        "text": "Tode",
+        "start": 114.533,
+        "end": 114.793
+      },
+      {
+        "text": "sterben!",
+        "start": 114.933,
+        "end": 116.534
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Dein Gequatsche nervt.",
+    "start": 116.554,
+    "end": 117.614,
+    "words": [
+      {
+        "text": "Dein",
+        "start": 116.554,
+        "end": 116.774
+      },
+      {
+        "text": "Gequatsche",
+        "start": 116.794,
+        "end": 117.334
+      },
+      {
+        "text": "nervt.",
+        "start": 117.374,
+        "end": 117.614
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Gemeiner Kerl!",
+    "start": 117.775,
+    "end": 118.315,
+    "words": [
+      {
+        "text": "Gemeiner",
+        "start": 117.775,
+        "end": 118.155
+      },
+      {
+        "text": "Kerl!",
+        "start": 118.195,
+        "end": 118.315
+      }
+    ]
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "id": 0,
+    "text": " Was ich will?",
+    "start": 0.031,
+    "end": 2.013,
+    "words": [
+      {
+        "text": "Was",
+        "start": 0.031,
+        "end": 0.171
+      },
+      {
+        "text": "ich",
+        "start": 0.551,
+        "end": 0.832
+      },
+      {
+        "text": "will?",
+        "start": 0.872,
+        "end": 2.013
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich weiß, was ich will!",
+    "start": 2.073,
+    "end": 6.257,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.073,
+        "end": 2.193
+      },
+      {
+        "text": "weiß,",
+        "start": 2.233,
+        "end": 2.473
+      },
+      {
+        "text": "was",
+        "start": 2.513,
+        "end": 2.673
+      },
+      {
+        "text": "ich",
+        "start": 2.714,
+        "end": 2.834
+      },
+      {
+        "text": "will!",
+        "start": 2.874,
+        "end": 6.257
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich möchte es tun.",
+    "start": 6.317,
+    "end": 8.799,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 6.317,
+        "end": 6.457
+      },
+      {
+        "text": "möchte",
+        "start": 6.497,
+        "end": 7.418
+      },
+      {
+        "text": "es",
+        "start": 7.478,
+        "end": 7.678
+      },
+      {
+        "text": "tun.",
+        "start": 7.738,
+        "end": 8.799
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich möchte ihn gern küssen.",
+    "start": 8.859,
+    "end": 14.304,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 8.859,
+        "end": 9.039
+      },
+      {
+        "text": "möchte",
+        "start": 9.079,
+        "end": 10.16
+      },
+      {
+        "text": "ihn",
+        "start": 10.221,
+        "end": 10.321
+      },
+      {
+        "text": "gern",
+        "start": 10.401,
+        "end": 10.581
+      },
+      {
+        "text": "küssen.",
+        "start": 10.641,
+        "end": 14.304
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Als ich erzählte, die gottgegebene Pflicht, bis zur Vermählung meine Keuschheit zu bewahren, dies alles war in Wahrheit nur eine Lüge.",
+    "start": 14.364,
+    "end": 21.091,
+    "words": [
+      {
+        "text": "Als",
+        "start": 14.364,
+        "end": 14.505
+      },
+      {
+        "text": "ich",
+        "start": 14.565,
+        "end": 14.665
+      },
+      {
+        "text": "erzählte,",
+        "start": 14.725,
+        "end": 15.325
+      },
+      {
+        "text": "die",
+        "start": 15.365,
+        "end": 15.485
+      },
+      {
+        "text": "gottgegebene",
+        "start": 15.505,
+        "end": 16.146
+      },
+      {
+        "text": "Pflicht,",
+        "start": 16.166,
+        "end": 16.566
+      },
+      {
+        "text": "bis",
+        "start": 16.586,
+        "end": 16.727
+      },
+      {
+        "text": "zur",
+        "start": 16.767,
+        "end": 16.887
+      },
+      {
+        "text": "Vermählung",
+        "start": 16.927,
+        "end": 17.367
+      },
+      {
+        "text": "meine",
+        "start": 17.387,
+        "end": 17.587
+      },
+      {
+        "text": "Keuschheit",
+        "start": 17.627,
+        "end": 18.008
+      },
+      {
+        "text": "zu",
+        "start": 18.048,
+        "end": 18.128
+      },
+      {
+        "text": "bewahren,",
+        "start": 18.148,
+        "end": 18.688
+      },
+      {
+        "text": "dies",
+        "start": 18.728,
+        "end": 18.929
+      },
+      {
+        "text": "alles",
+        "start": 18.969,
+        "end": 19.249
+      },
+      {
+        "text": "war",
+        "start": 19.309,
+        "end": 19.689
+      },
+      {
+        "text": "in",
+        "start": 19.729,
+        "end": 19.87
+      },
+      {
+        "text": "Wahrheit",
+        "start": 19.91,
+        "end": 20.23
+      },
+      {
+        "text": "nur",
+        "start": 20.25,
+        "end": 20.39
+      },
+      {
+        "text": "eine",
+        "start": 20.43,
+        "end": 20.61
+      },
+      {
+        "text": "Lüge.",
+        "start": 20.65,
+        "end": 21.091
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Bitte vergebt mir.",
+    "start": 21.111,
+    "end": 22.352,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 21.111,
+        "end": 21.371
+      },
+      {
+        "text": "vergebt",
+        "start": 21.391,
+        "end": 21.771
+      },
+      {
+        "text": "mir.",
+        "start": 21.791,
+        "end": 22.352
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Schon gut.",
+    "start": 22.392,
+    "end": 23.333,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 22.392,
+        "end": 23.133
+      },
+      {
+        "text": "gut.",
+        "start": 23.153,
+        "end": 23.333
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ehrlich gesagt, hab ich mir das fast schon gedacht.",
+    "start": 23.613,
+    "end": 25.455,
+    "words": [
+      {
+        "text": "Ehrlich",
+        "start": 23.613,
+        "end": 23.933
+      },
+      {
+        "text": "gesagt,",
+        "start": 23.973,
+        "end": 24.234
+      },
+      {
+        "text": "hab",
+        "start": 24.274,
+        "end": 24.394
+      },
+      {
+        "text": "ich",
+        "start": 24.414,
+        "end": 24.494
+      },
+      {
+        "text": "mir",
+        "start": 24.534,
+        "end": 24.634
+      },
+      {
+        "text": "das",
+        "start": 24.654,
+        "end": 24.774
+      },
+      {
+        "text": "fast",
+        "start": 24.814,
+        "end": 24.974
+      },
+      {
+        "text": "schon",
+        "start": 25.014,
+        "end": 25.195
+      },
+      {
+        "text": "gedacht.",
+        "start": 25.215,
+        "end": 25.455
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " In ihrem Herzen wünscht sie sich nichts mehr als einen Kuss mit ihm zu teilen.",
+    "start": 26.313,
+    "end": 30.556,
+    "words": [
+      {
+        "text": "In",
+        "start": 26.313,
+        "end": 26.413
+      },
+      {
+        "text": "ihrem",
+        "start": 26.453,
+        "end": 26.673
+      },
+      {
+        "text": "Herzen",
+        "start": 26.713,
+        "end": 27.454
+      },
+      {
+        "text": "wünscht",
+        "start": 27.494,
+        "end": 27.814
+      },
+      {
+        "text": "sie",
+        "start": 27.834,
+        "end": 27.954
+      },
+      {
+        "text": "sich",
+        "start": 27.994,
+        "end": 28.174
+      },
+      {
+        "text": "nichts",
+        "start": 28.194,
+        "end": 28.474
+      },
+      {
+        "text": "mehr",
+        "start": 28.514,
+        "end": 28.654
+      },
+      {
+        "text": "als",
+        "start": 28.694,
+        "end": 28.815
+      },
+      {
+        "text": "einen",
+        "start": 28.875,
+        "end": 29.035
+      },
+      {
+        "text": "Kuss",
+        "start": 29.075,
+        "end": 29.275
+      },
+      {
+        "text": "mit",
+        "start": 29.315,
+        "end": 29.415
+      },
+      {
+        "text": "ihm",
+        "start": 29.455,
+        "end": 29.615
+      },
+      {
+        "text": "zu",
+        "start": 29.635,
+        "end": 29.755
+      },
+      {
+        "text": "teilen.",
+        "start": 29.795,
+        "end": 30.556
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das ist schön zu hören.",
+    "start": 30.596,
+    "end": 32.517,
+    "words": [
+      {
+        "text": "Das",
+        "start": 30.596,
+        "end": 30.776
+      },
+      {
+        "text": "ist",
+        "start": 30.836,
+        "end": 30.956
+      },
+      {
+        "text": "schön",
+        "start": 30.996,
+        "end": 31.296
+      },
+      {
+        "text": "zu",
+        "start": 31.336,
+        "end": 31.436
+      },
+      {
+        "text": "hören.",
+        "start": 31.496,
+        "end": 32.517
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Und ich würde mich sehr freuen.",
+    "start": 32.777,
+    "end": 34.378,
+    "words": [
+      {
+        "text": "Und",
+        "start": 32.777,
+        "end": 33.217
+      },
+      {
+        "text": "ich",
+        "start": 33.257,
+        "end": 33.377
+      },
+      {
+        "text": "würde",
+        "start": 33.417,
+        "end": 33.617
+      },
+      {
+        "text": "mich",
+        "start": 33.657,
+        "end": 33.817
+      },
+      {
+        "text": "sehr",
+        "start": 33.857,
+        "end": 34.078
+      },
+      {
+        "text": "freuen.",
+        "start": 34.118,
+        "end": 34.378
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Hey, entschuldige bitte.",
+    "start": 54.287,
+    "end": 55.388,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 54.287,
+        "end": 54.407
+      },
+      {
+        "text": "entschuldige",
+        "start": 54.427,
+        "end": 54.868
+      },
+      {
+        "text": "bitte.",
+        "start": 54.908,
+        "end": 55.388
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du warst so süß.",
+    "start": 55.408,
+    "end": 56.309,
+    "words": [
+      {
+        "text": "Du",
+        "start": 55.408,
+        "end": 55.608
+      },
+      {
+        "text": "warst",
+        "start": 55.648,
+        "end": 55.868
+      },
+      {
+        "text": "so",
+        "start": 55.908,
+        "end": 56.069
+      },
+      {
+        "text": "süß.",
+        "start": 56.129,
+        "end": 56.309
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Shizuka...",
+    "start": 56.329,
+    "end": 56.529,
+    "words": [
+      {
+        "text": "Shizuka...",
+        "start": 56.329,
+        "end": 56.529
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Hey Shizuka, alles in Ordnung mit dir?",
+    "start": 82.297,
+    "end": 84.942,
+    "words": [
+      {
+        "text": "Hey",
+        "start": 82.297,
+        "end": 82.898
+      },
+      {
+        "text": "Shizuka,",
+        "start": 82.918,
+        "end": 83.94
+      },
+      {
+        "text": "alles",
+        "start": 83.98,
+        "end": 84.2
+      },
+      {
+        "text": "in",
+        "start": 84.24,
+        "end": 84.361
+      },
+      {
+        "text": "Ordnung",
+        "start": 84.401,
+        "end": 84.641
+      },
+      {
+        "text": "mit",
+        "start": 84.661,
+        "end": 84.781
+      },
+      {
+        "text": "dir?",
+        "start": 84.801,
+        "end": 84.942
+      }
+    ]
+  }
+]

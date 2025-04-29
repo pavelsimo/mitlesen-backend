@@ -1,0 +1,2169 @@
+[
+  {
+    "id": 0,
+    "text": " Kehrt in euer Gemach zurück.",
+    "start": 0.231,
+    "end": 2.152,
+    "words": [
+      {
+        "text": "Kehrt",
+        "start": 0.231,
+        "end": 0.431
+      },
+      {
+        "text": "in",
+        "start": 0.451,
+        "end": 0.531
+      },
+      {
+        "text": "euer",
+        "start": 0.571,
+        "end": 0.771
+      },
+      {
+        "text": "Gemach",
+        "start": 0.812,
+        "end": 1.132
+      },
+      {
+        "text": "zurück.",
+        "start": 1.172,
+        "end": 2.152
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Habt ihr etwa Sake getrunken?",
+    "start": 2.192,
+    "end": 4.454,
+    "words": [
+      {
+        "text": "Habt",
+        "start": 2.192,
+        "end": 2.393
+      },
+      {
+        "text": "ihr",
+        "start": 2.453,
+        "end": 2.573
+      },
+      {
+        "text": "etwa",
+        "start": 2.613,
+        "end": 2.893
+      },
+      {
+        "text": "Sake",
+        "start": 2.933,
+        "end": 3.253
+      },
+      {
+        "text": "getrunken?",
+        "start": 3.293,
+        "end": 4.454
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich musste.",
+    "start": 4.494,
+    "end": 5.134,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.494,
+        "end": 4.614
+      },
+      {
+        "text": "musste.",
+        "start": 4.634,
+        "end": 5.134
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Immerhin war ich eingeladen.",
+    "start": 5.194,
+    "end": 6.215,
+    "words": [
+      {
+        "text": "Immerhin",
+        "start": 5.194,
+        "end": 5.495
+      },
+      {
+        "text": "war",
+        "start": 5.515,
+        "end": 5.615
+      },
+      {
+        "text": "ich",
+        "start": 5.635,
+        "end": 5.755
+      },
+      {
+        "text": "eingeladen.",
+        "start": 5.775,
+        "end": 6.215
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Das sagen sie alle.",
+    "start": 6.935,
+    "end": 9.217,
+    "words": [
+      {
+        "text": "Das",
+        "start": 6.935,
+        "end": 7.236
+      },
+      {
+        "text": "sagen",
+        "start": 7.276,
+        "end": 7.576
+      },
+      {
+        "text": "sie",
+        "start": 7.596,
+        "end": 7.796
+      },
+      {
+        "text": "alle.",
+        "start": 7.856,
+        "end": 9.217
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Die Hausherrin hatte mich dazu eingeladen.",
+    "start": 9.237,
+    "end": 11.498,
+    "words": [
+      {
+        "text": "Die",
+        "start": 9.237,
+        "end": 9.377
+      },
+      {
+        "text": "Hausherrin",
+        "start": 9.397,
+        "end": 9.897
+      },
+      {
+        "text": "hatte",
+        "start": 9.917,
+        "end": 10.118
+      },
+      {
+        "text": "mich",
+        "start": 10.138,
+        "end": 10.278
+      },
+      {
+        "text": "dazu",
+        "start": 10.318,
+        "end": 10.558
+      },
+      {
+        "text": "eingeladen.",
+        "start": 10.578,
+        "end": 11.498
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Sie gab mir so viel zu trinken und dann war sie plötzlich verschwunden.",
+    "start": 11.538,
+    "end": 14.661,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 11.538,
+        "end": 11.659
+      },
+      {
+        "text": "gab",
+        "start": 11.699,
+        "end": 11.859
+      },
+      {
+        "text": "mir",
+        "start": 11.899,
+        "end": 12.039
+      },
+      {
+        "text": "so",
+        "start": 12.059,
+        "end": 12.199
+      },
+      {
+        "text": "viel",
+        "start": 12.219,
+        "end": 12.399
+      },
+      {
+        "text": "zu",
+        "start": 12.439,
+        "end": 12.539
+      },
+      {
+        "text": "trinken",
+        "start": 12.579,
+        "end": 13.14
+      },
+      {
+        "text": "und",
+        "start": 13.18,
+        "end": 13.36
+      },
+      {
+        "text": "dann",
+        "start": 13.4,
+        "end": 13.56
+      },
+      {
+        "text": "war",
+        "start": 13.6,
+        "end": 13.7
+      },
+      {
+        "text": "sie",
+        "start": 13.72,
+        "end": 13.8
+      },
+      {
+        "text": "plötzlich",
+        "start": 13.84,
+        "end": 14.22
+      },
+      {
+        "text": "verschwunden.",
+        "start": 14.24,
+        "end": 14.661
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Und als sie endlich zurück war, sagte sie, ihr wäre nun leichter ums Herz und warf mich hinaus.",
+    "start": 16.282,
+    "end": 21.265,
+    "words": [
+      {
+        "text": "Und",
+        "start": 16.282,
+        "end": 16.402
+      },
+      {
+        "text": "als",
+        "start": 16.462,
+        "end": 16.622
+      },
+      {
+        "text": "sie",
+        "start": 16.642,
+        "end": 16.742
+      },
+      {
+        "text": "endlich",
+        "start": 16.782,
+        "end": 17.082
+      },
+      {
+        "text": "zurück",
+        "start": 17.122,
+        "end": 17.382
+      },
+      {
+        "text": "war,",
+        "start": 17.422,
+        "end": 18.643
+      },
+      {
+        "text": "sagte",
+        "start": 18.683,
+        "end": 18.983
+      },
+      {
+        "text": "sie,",
+        "start": 19.003,
+        "end": 19.123
+      },
+      {
+        "text": "ihr",
+        "start": 19.143,
+        "end": 19.244
+      },
+      {
+        "text": "wäre",
+        "start": 19.264,
+        "end": 19.524
+      },
+      {
+        "text": "nun",
+        "start": 19.544,
+        "end": 19.684
+      },
+      {
+        "text": "leichter",
+        "start": 19.724,
+        "end": 19.984
+      },
+      {
+        "text": "ums",
+        "start": 20.024,
+        "end": 20.204
+      },
+      {
+        "text": "Herz",
+        "start": 20.224,
+        "end": 20.424
+      },
+      {
+        "text": "und",
+        "start": 20.444,
+        "end": 20.524
+      },
+      {
+        "text": "warf",
+        "start": 20.564,
+        "end": 20.764
+      },
+      {
+        "text": "mich",
+        "start": 20.805,
+        "end": 20.925
+      },
+      {
+        "text": "hinaus.",
+        "start": 20.965,
+        "end": 21.265
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Wer hätte gedacht, dass es tatsächlich Menschen im Inneren Palast gibt, die so mit ihm umgehen?",
+    "start": 22.646,
+    "end": 27.069,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 22.646,
+        "end": 22.846
+      },
+      {
+        "text": "hätte",
+        "start": 22.866,
+        "end": 23.146
+      },
+      {
+        "text": "gedacht,",
+        "start": 23.186,
+        "end": 23.506
+      },
+      {
+        "text": "dass",
+        "start": 23.526,
+        "end": 23.666
+      },
+      {
+        "text": "es",
+        "start": 23.706,
+        "end": 23.927
+      },
+      {
+        "text": "tatsächlich",
+        "start": 23.967,
+        "end": 24.527
+      },
+      {
+        "text": "Menschen",
+        "start": 24.567,
+        "end": 24.847
+      },
+      {
+        "text": "im",
+        "start": 24.887,
+        "end": 24.967
+      },
+      {
+        "text": "Inneren",
+        "start": 25.007,
+        "end": 25.367
+      },
+      {
+        "text": "Palast",
+        "start": 25.408,
+        "end": 25.748
+      },
+      {
+        "text": "gibt,",
+        "start": 25.768,
+        "end": 25.988
+      },
+      {
+        "text": "die",
+        "start": 26.008,
+        "end": 26.128
+      },
+      {
+        "text": "so",
+        "start": 26.168,
+        "end": 26.288
+      },
+      {
+        "text": "mit",
+        "start": 26.308,
+        "end": 26.408
+      },
+      {
+        "text": "ihm",
+        "start": 26.448,
+        "end": 26.668
+      },
+      {
+        "text": "umgehen?",
+        "start": 26.708,
+        "end": 27.069
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Dabei habe ich gerade ganz andere Probleme.",
+    "start": 28.218,
+    "end": 31.022,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 28.218,
+        "end": 28.419
+      },
+      {
+        "text": "habe",
+        "start": 28.439,
+        "end": 28.579
+      },
+      {
+        "text": "ich",
+        "start": 28.619,
+        "end": 28.739
+      },
+      {
+        "text": "gerade",
+        "start": 28.759,
+        "end": 29.12
+      },
+      {
+        "text": "ganz",
+        "start": 29.16,
+        "end": 29.42
+      },
+      {
+        "text": "andere",
+        "start": 29.48,
+        "end": 29.881
+      },
+      {
+        "text": "Probleme.",
+        "start": 29.921,
+        "end": 31.022
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Auf Betrunkenen herumzusitzen gehört nicht zu meinen Lieblingsbeschäftigungen.",
+    "start": 31.062,
+    "end": 34.927,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 31.062,
+        "end": 31.242
+      },
+      {
+        "text": "Betrunkenen",
+        "start": 31.262,
+        "end": 31.843
+      },
+      {
+        "text": "herumzusitzen",
+        "start": 31.863,
+        "end": 32.564
+      },
+      {
+        "text": "gehört",
+        "start": 32.584,
+        "end": 32.824
+      },
+      {
+        "text": "nicht",
+        "start": 32.864,
+        "end": 33.005
+      },
+      {
+        "text": "zu",
+        "start": 33.025,
+        "end": 33.105
+      },
+      {
+        "text": "meinen",
+        "start": 33.125,
+        "end": 33.245
+      },
+      {
+        "text": "Lieblingsbeschäftigungen.",
+        "start": 33.285,
+        "end": 34.927
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Moment mal.",
+    "start": 34.987,
+    "end": 36.529,
+    "words": [
+      {
+        "text": "Moment",
+        "start": 34.987,
+        "end": 35.628
+      },
+      {
+        "text": "mal.",
+        "start": 35.788,
+        "end": 36.529
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wenn man es genau betrachtet, hat er mich ja eigentlich aufgefangen, oder?",
+    "start": 36.549,
+    "end": 40.714,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 36.549,
+        "end": 36.689
+      },
+      {
+        "text": "man",
+        "start": 36.729,
+        "end": 36.829
+      },
+      {
+        "text": "es",
+        "start": 36.889,
+        "end": 37.03
+      },
+      {
+        "text": "genau",
+        "start": 37.05,
+        "end": 37.35
+      },
+      {
+        "text": "betrachtet,",
+        "start": 37.39,
+        "end": 38.031
+      },
+      {
+        "text": "hat",
+        "start": 38.051,
+        "end": 38.171
+      },
+      {
+        "text": "er",
+        "start": 38.211,
+        "end": 38.291
+      },
+      {
+        "text": "mich",
+        "start": 38.331,
+        "end": 38.451
+      },
+      {
+        "text": "ja",
+        "start": 38.471,
+        "end": 38.552
+      },
+      {
+        "text": "eigentlich",
+        "start": 38.572,
+        "end": 38.972
+      },
+      {
+        "text": "aufgefangen,",
+        "start": 38.992,
+        "end": 39.733
+      },
+      {
+        "text": "oder?",
+        "start": 39.773,
+        "end": 40.714
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und dann zu gehen, ohne sich zu bedanken, ist dann doch recht unhöflich.",
+    "start": 40.754,
+    "end": 45.54,
+    "words": [
+      {
+        "text": "Und",
+        "start": 40.754,
+        "end": 40.995
+      },
+      {
+        "text": "dann",
+        "start": 41.015,
+        "end": 41.275
+      },
+      {
+        "text": "zu",
+        "start": 41.315,
+        "end": 41.435
+      },
+      {
+        "text": "gehen,",
+        "start": 41.475,
+        "end": 41.816
+      },
+      {
+        "text": "ohne",
+        "start": 41.836,
+        "end": 42.076
+      },
+      {
+        "text": "sich",
+        "start": 42.096,
+        "end": 42.276
+      },
+      {
+        "text": "zu",
+        "start": 42.296,
+        "end": 42.396
+      },
+      {
+        "text": "bedanken,",
+        "start": 42.436,
+        "end": 43.057
+      },
+      {
+        "text": "ist",
+        "start": 43.097,
+        "end": 43.298
+      },
+      {
+        "text": "dann",
+        "start": 43.318,
+        "end": 43.498
+      },
+      {
+        "text": "doch",
+        "start": 43.518,
+        "end": 43.658
+      },
+      {
+        "text": "recht",
+        "start": 43.698,
+        "end": 43.918
+      },
+      {
+        "text": "unhöflich.",
+        "start": 43.958,
+        "end": 45.54
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Eure Exzellenz.",
+    "start": 45.6,
+    "end": 46.441,
+    "words": [
+      {
+        "text": "Eure",
+        "start": 45.6,
+        "end": 45.881
+      },
+      {
+        "text": "Exzellenz.",
+        "start": 45.921,
+        "end": 46.441
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Nur noch ein bisschen.",
+    "start": 57.39,
+    "end": 59.512,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 57.39,
+        "end": 57.51
+      },
+      {
+        "text": "noch",
+        "start": 57.53,
+        "end": 57.69
+      },
+      {
+        "text": "ein",
+        "start": 57.75,
+        "end": 57.871
+      },
+      {
+        "text": "bisschen.",
+        "start": 57.911,
+        "end": 59.512
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wärme mich bitte nur noch ein bisschen.",
+    "start": 59.552,
+    "end": 62.034,
+    "words": [
+      {
+        "text": "Wärme",
+        "start": 59.552,
+        "end": 59.852
+      },
+      {
+        "text": "mich",
+        "start": 59.892,
+        "end": 60.052
+      },
+      {
+        "text": "bitte",
+        "start": 60.072,
+        "end": 60.373
+      },
+      {
+        "text": "nur",
+        "start": 60.393,
+        "end": 60.553
+      },
+      {
+        "text": "noch",
+        "start": 60.573,
+        "end": 61.393
+      },
+      {
+        "text": "ein",
+        "start": 61.453,
+        "end": 61.654
+      },
+      {
+        "text": "bisschen.",
+        "start": 61.694,
+        "end": 62.034
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Offensichtlich scheinen beide Alkohol recht gut zu vertragen.",
+    "start": 79.818,
+    "end": 83.101,
+    "words": [
+      {
+        "text": "Offensichtlich",
+        "start": 79.818,
+        "end": 80.399
+      },
+      {
+        "text": "scheinen",
+        "start": 80.439,
+        "end": 80.739
+      },
+      {
+        "text": "beide",
+        "start": 80.759,
+        "end": 81.039
+      },
+      {
+        "text": "Alkohol",
+        "start": 81.079,
+        "end": 81.519
+      },
+      {
+        "text": "recht",
+        "start": 81.559,
+        "end": 81.74
+      },
+      {
+        "text": "gut",
+        "start": 81.76,
+        "end": 81.94
+      },
+      {
+        "text": "zu",
+        "start": 81.96,
+        "end": 82.1
+      },
+      {
+        "text": "vertragen.",
+        "start": 82.14,
+        "end": 83.101
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Bei ihrem Auszug gab die verehrte Aduo ihr Diadem, das Zeichen der Anmutigen, zurück.",
+    "start": 83.121,
+    "end": 88.664,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 83.121,
+        "end": 83.301
+      },
+      {
+        "text": "ihrem",
+        "start": 83.341,
+        "end": 83.621
+      },
+      {
+        "text": "Auszug",
+        "start": 83.661,
+        "end": 84.141
+      },
+      {
+        "text": "gab",
+        "start": 84.161,
+        "end": 84.361
+      },
+      {
+        "text": "die",
+        "start": 84.401,
+        "end": 84.501
+      },
+      {
+        "text": "verehrte",
+        "start": 84.542,
+        "end": 84.942
+      },
+      {
+        "text": "Aduo",
+        "start": 84.982,
+        "end": 85.442
+      },
+      {
+        "text": "ihr",
+        "start": 85.482,
+        "end": 85.602
+      },
+      {
+        "text": "Diadem,",
+        "start": 85.642,
+        "end": 86.143
+      },
+      {
+        "text": "das",
+        "start": 86.183,
+        "end": 86.403
+      },
+      {
+        "text": "Zeichen",
+        "start": 86.443,
+        "end": 86.743
+      },
+      {
+        "text": "der",
+        "start": 86.763,
+        "end": 86.883
+      },
+      {
+        "text": "Anmutigen,",
+        "start": 86.923,
+        "end": 87.524
+      },
+      {
+        "text": "zurück.",
+        "start": 87.584,
+        "end": 88.664
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Schon bald wird es an die neue Kunkubine übergeben, die dann in den inneren Palast einziehen wird.",
+    "start": 88.684,
+    "end": 93.608,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 88.684,
+        "end": 88.945
+      },
+      {
+        "text": "bald",
+        "start": 88.985,
+        "end": 89.225
+      },
+      {
+        "text": "wird",
+        "start": 89.245,
+        "end": 89.385
+      },
+      {
+        "text": "es",
+        "start": 89.425,
+        "end": 89.565
+      },
+      {
+        "text": "an",
+        "start": 89.605,
+        "end": 89.685
+      },
+      {
+        "text": "die",
+        "start": 89.705,
+        "end": 89.825
+      },
+      {
+        "text": "neue",
+        "start": 89.845,
+        "end": 90.125
+      },
+      {
+        "text": "Kunkubine",
+        "start": 90.185,
+        "end": 90.786
+      },
+      {
+        "text": "übergeben,",
+        "start": 90.846,
+        "end": 91.446
+      },
+      {
+        "text": "die",
+        "start": 91.466,
+        "end": 91.566
+      },
+      {
+        "text": "dann",
+        "start": 91.606,
+        "end": 91.767
+      },
+      {
+        "text": "in",
+        "start": 91.787,
+        "end": 91.867
+      },
+      {
+        "text": "den",
+        "start": 91.907,
+        "end": 92.027
+      },
+      {
+        "text": "inneren",
+        "start": 92.067,
+        "end": 92.427
+      },
+      {
+        "text": "Palast",
+        "start": 92.467,
+        "end": 92.807
+      },
+      {
+        "text": "einziehen",
+        "start": 92.867,
+        "end": 93.328
+      },
+      {
+        "text": "wird.",
+        "start": 93.368,
+        "end": 93.608
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ah, jetzt weiß ich, an wen sie mich erinnert hat.",
+    "start": 100.633,
+    "end": 105.396,
+    "words": [
+      {
+        "text": "Ah,",
+        "start": 100.633,
+        "end": 101.593
+      },
+      {
+        "text": "jetzt",
+        "start": 101.613,
+        "end": 101.813
+      },
+      {
+        "text": "weiß",
+        "start": 101.874,
+        "end": 102.054
+      },
+      {
+        "text": "ich,",
+        "start": 102.094,
+        "end": 102.234
+      },
+      {
+        "text": "an",
+        "start": 102.274,
+        "end": 102.354
+      },
+      {
+        "text": "wen",
+        "start": 102.394,
+        "end": 102.554
+      },
+      {
+        "text": "sie",
+        "start": 102.574,
+        "end": 102.674
+      },
+      {
+        "text": "mich",
+        "start": 102.714,
+        "end": 102.854
+      },
+      {
+        "text": "erinnert",
+        "start": 102.914,
+        "end": 103.294
+      },
+      {
+        "text": "hat.",
+        "start": 103.335,
+        "end": 105.396
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "An Exzellenz Jinchi.",
+    "start": 105.436,
+    "end": 106.777,
+    "words": [
+      {
+        "text": "An",
+        "start": 105.436,
+        "end": 105.636
+      },
+      {
+        "text": "Exzellenz",
+        "start": 105.676,
+        "end": 106.377
+      },
+      {
+        "text": "Jinchi.",
+        "start": 106.437,
+        "end": 106.777
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Sie müssten nur ihre Kleidung tauschen und niemand würde... Moment mal.",
+    "start": 109.024,
+    "end": 115.307,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 109.024,
+        "end": 109.184
+      },
+      {
+        "text": "müssten",
+        "start": 109.204,
+        "end": 109.544
+      },
+      {
+        "text": "nur",
+        "start": 109.564,
+        "end": 109.744
+      },
+      {
+        "text": "ihre",
+        "start": 109.784,
+        "end": 109.984
+      },
+      {
+        "text": "Kleidung",
+        "start": 110.024,
+        "end": 110.445
+      },
+      {
+        "text": "tauschen",
+        "start": 110.505,
+        "end": 110.845
+      },
+      {
+        "text": "und",
+        "start": 110.885,
+        "end": 111.165
+      },
+      {
+        "text": "niemand",
+        "start": 111.185,
+        "end": 111.585
+      },
+      {
+        "text": "würde...",
+        "start": 111.625,
+        "end": 111.905
+      },
+      {
+        "text": "Moment",
+        "start": 113.246,
+        "end": 113.746
+      },
+      {
+        "text": "mal.",
+        "start": 113.966,
+        "end": 115.307
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Seit der Trennung meines Sohnes bin ich keine Konkurbine mehr.",
+    "start": 115.347,
+    "end": 118.828,
+    "words": [
+      {
+        "text": "Seit",
+        "start": 115.347,
+        "end": 115.587
+      },
+      {
+        "text": "der",
+        "start": 115.627,
+        "end": 115.847
+      },
+      {
+        "text": "Trennung",
+        "start": 115.907,
+        "end": 116.387
+      },
+      {
+        "text": "meines",
+        "start": 116.407,
+        "end": 116.687
+      },
+      {
+        "text": "Sohnes",
+        "start": 116.727,
+        "end": 117.167
+      },
+      {
+        "text": "bin",
+        "start": 117.207,
+        "end": 117.327
+      },
+      {
+        "text": "ich",
+        "start": 117.367,
+        "end": 117.547
+      },
+      {
+        "text": "keine",
+        "start": 117.587,
+        "end": 117.787
+      },
+      {
+        "text": "Konkurbine",
+        "start": 117.828,
+        "end": 118.368
+      },
+      {
+        "text": "mehr.",
+        "start": 118.408,
+        "end": 118.828
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wieso hat sie Trennung gesagt und nicht Tod?",
+    "start": 118.868,
+    "end": 122.889,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 118.868,
+        "end": 119.428
+      },
+      {
+        "text": "hat",
+        "start": 119.448,
+        "end": 119.608
+      },
+      {
+        "text": "sie",
+        "start": 119.648,
+        "end": 119.848
+      },
+      {
+        "text": "Trennung",
+        "start": 119.888,
+        "end": 120.429
+      },
+      {
+        "text": "gesagt",
+        "start": 120.469,
+        "end": 121.189
+      },
+      {
+        "text": "und",
+        "start": 121.229,
+        "end": 121.449
+      },
+      {
+        "text": "nicht",
+        "start": 121.489,
+        "end": 121.769
+      },
+      {
+        "text": "Tod?",
+        "start": 121.829,
+        "end": 122.889
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Das klingt ja beinahe so, als würde er noch leben.",
+    "start": 122.929,
+    "end": 126.451,
+    "words": [
+      {
+        "text": "Das",
+        "start": 122.929,
+        "end": 123.17
+      },
+      {
+        "text": "klingt",
+        "start": 123.23,
+        "end": 123.57
+      },
+      {
+        "text": "ja",
+        "start": 123.59,
+        "end": 123.83
+      },
+      {
+        "text": "beinahe",
+        "start": 123.87,
+        "end": 124.35
+      },
+      {
+        "text": "so,",
+        "start": 124.41,
+        "end": 124.65
+      },
+      {
+        "text": "als",
+        "start": 124.69,
+        "end": 124.95
+      },
+      {
+        "text": "würde",
+        "start": 124.99,
+        "end": 125.25
+      },
+      {
+        "text": "er",
+        "start": 125.29,
+        "end": 125.39
+      },
+      {
+        "text": "noch",
+        "start": 125.43,
+        "end": 125.671
+      },
+      {
+        "text": "leben.",
+        "start": 125.731,
+        "end": 126.451
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Der Sohn der Kaiserin und der der verehrten Adu wurden zur selben Zeit geboren.",
+    "start": 126.491,
+    "end": 131.233,
+    "words": [
+      {
+        "text": "Der",
+        "start": 126.491,
+        "end": 126.691
+      },
+      {
+        "text": "Sohn",
+        "start": 126.751,
+        "end": 126.991
+      },
+      {
+        "text": "der",
+        "start": 127.031,
+        "end": 127.191
+      },
+      {
+        "text": "Kaiserin",
+        "start": 127.231,
+        "end": 127.751
+      },
+      {
+        "text": "und",
+        "start": 127.771,
+        "end": 127.911
+      },
+      {
+        "text": "der",
+        "start": 127.951,
+        "end": 128.092
+      },
+      {
+        "text": "der",
+        "start": 128.112,
+        "end": 128.232
+      },
+      {
+        "text": "verehrten",
+        "start": 128.272,
+        "end": 128.672
+      },
+      {
+        "text": "Adu",
+        "start": 128.712,
+        "end": 129.172
+      },
+      {
+        "text": "wurden",
+        "start": 129.212,
+        "end": 129.472
+      },
+      {
+        "text": "zur",
+        "start": 129.492,
+        "end": 129.632
+      },
+      {
+        "text": "selben",
+        "start": 129.672,
+        "end": 129.972
+      },
+      {
+        "text": "Zeit",
+        "start": 130.012,
+        "end": 130.272
+      },
+      {
+        "text": "geboren.",
+        "start": 130.312,
+        "end": 131.233
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Was wäre, wenn man die beiden Babys vertauscht hätte?",
+    "start": 131.273,
+    "end": 133.914,
+    "words": [
+      {
+        "text": "Was",
+        "start": 131.273,
+        "end": 131.573
+      },
+      {
+        "text": "wäre,",
+        "start": 131.613,
+        "end": 131.873
+      },
+      {
+        "text": "wenn",
+        "start": 131.893,
+        "end": 132.053
+      },
+      {
+        "text": "man",
+        "start": 132.073,
+        "end": 132.253
+      },
+      {
+        "text": "die",
+        "start": 132.273,
+        "end": 132.393
+      },
+      {
+        "text": "beiden",
+        "start": 132.413,
+        "end": 132.693
+      },
+      {
+        "text": "Babys",
+        "start": 132.713,
+        "end": 133.073
+      },
+      {
+        "text": "vertauscht",
+        "start": 133.093,
+        "end": 133.694
+      },
+      {
+        "text": "hätte?",
+        "start": 133.734,
+        "end": 133.914
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Wahrscheinlich wurde es der verehrten Adu bei der Geburt schmerzlich bewusst.",
+    "start": 135.431,
+    "end": 139.072,
+    "words": [
+      {
+        "text": "Wahrscheinlich",
+        "start": 135.431,
+        "end": 135.891
+      },
+      {
+        "text": "wurde",
+        "start": 135.911,
+        "end": 136.111
+      },
+      {
+        "text": "es",
+        "start": 136.151,
+        "end": 136.311
+      },
+      {
+        "text": "der",
+        "start": 136.331,
+        "end": 136.471
+      },
+      {
+        "text": "verehrten",
+        "start": 136.491,
+        "end": 136.891
+      },
+      {
+        "text": "Adu",
+        "start": 136.951,
+        "end": 137.411
+      },
+      {
+        "text": "bei",
+        "start": 137.431,
+        "end": 137.531
+      },
+      {
+        "text": "der",
+        "start": 137.571,
+        "end": 137.692
+      },
+      {
+        "text": "Geburt",
+        "start": 137.712,
+        "end": 138.032
+      },
+      {
+        "text": "schmerzlich",
+        "start": 138.072,
+        "end": 138.652
+      },
+      {
+        "text": "bewusst.",
+        "start": 138.692,
+        "end": 139.072
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Was soll denn das?",
+    "start": 139.512,
+    "end": 140.472,
+    "words": [
+      {
+        "text": "Was",
+        "start": 139.512,
+        "end": 139.792
+      },
+      {
+        "text": "soll",
+        "start": 139.832,
+        "end": 139.952
+      },
+      {
+        "text": "denn",
+        "start": 139.972,
+        "end": 140.192
+      },
+      {
+        "text": "das?",
+        "start": 140.232,
+        "end": 140.472
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Das Kind ist doch noch nicht da!",
+    "start": 140.492,
+    "end": 142.012,
+    "words": [
+      {
+        "text": "Das",
+        "start": 140.492,
+        "end": 140.672
+      },
+      {
+        "text": "Kind",
+        "start": 140.712,
+        "end": 140.912
+      },
+      {
+        "text": "ist",
+        "start": 140.952,
+        "end": 141.052
+      },
+      {
+        "text": "doch",
+        "start": 141.092,
+        "end": 141.232
+      },
+      {
+        "text": "noch",
+        "start": 141.272,
+        "end": 141.432
+      },
+      {
+        "text": "nicht",
+        "start": 141.472,
+        "end": 141.632
+      },
+      {
+        "text": "da!",
+        "start": 141.672,
+        "end": 142.012
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Die Kaiserin hat aber Vorrang!",
+    "start": 142.032,
+    "end": 143.553,
+    "words": [
+      {
+        "text": "Die",
+        "start": 142.032,
+        "end": 142.212
+      },
+      {
+        "text": "Kaiserin",
+        "start": 142.232,
+        "end": 142.692
+      },
+      {
+        "text": "hat",
+        "start": 142.732,
+        "end": 142.872
+      },
+      {
+        "text": "aber",
+        "start": 142.912,
+        "end": 143.153
+      },
+      {
+        "text": "Vorrang!",
+        "start": 143.173,
+        "end": 143.553
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ihr kennt doch nicht... Sie war nur die Tochter einer Amme, eine Kindheitsfreundin, die mit dem Kronprinzen aufgewachsen war.",
+    "start": 143.693,
+    "end": 150.594,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 143.693,
+        "end": 144.113
+      },
+      {
+        "text": "kennt",
+        "start": 144.193,
+        "end": 144.433
+      },
+      {
+        "text": "doch",
+        "start": 144.473,
+        "end": 144.693
+      },
+      {
+        "text": "nicht...",
+        "start": 144.713,
+        "end": 145.593
+      },
+      {
+        "text": "Sie",
+        "start": 145.633,
+        "end": 145.793
+      },
+      {
+        "text": "war",
+        "start": 145.813,
+        "end": 146.013
+      },
+      {
+        "text": "nur",
+        "start": 146.033,
+        "end": 146.153
+      },
+      {
+        "text": "die",
+        "start": 146.193,
+        "end": 146.293
+      },
+      {
+        "text": "Tochter",
+        "start": 146.353,
+        "end": 146.713
+      },
+      {
+        "text": "einer",
+        "start": 146.733,
+        "end": 146.953
+      },
+      {
+        "text": "Amme,",
+        "start": 146.993,
+        "end": 147.433
+      },
+      {
+        "text": "eine",
+        "start": 147.473,
+        "end": 147.673
+      },
+      {
+        "text": "Kindheitsfreundin,",
+        "start": 147.693,
+        "end": 148.454
+      },
+      {
+        "text": "die",
+        "start": 148.474,
+        "end": 148.574
+      },
+      {
+        "text": "mit",
+        "start": 148.594,
+        "end": 148.694
+      },
+      {
+        "text": "dem",
+        "start": 148.734,
+        "end": 148.874
+      },
+      {
+        "text": "Kronprinzen",
+        "start": 148.894,
+        "end": 149.514
+      },
+      {
+        "text": "aufgewachsen",
+        "start": 149.534,
+        "end": 150.114
+      },
+      {
+        "text": "war.",
+        "start": 150.154,
+        "end": 150.594
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Um den Sohn der Kaiserin würde man sich mit Sicherheit besser kümmern als um ihren eigenen.",
+    "start": 150.634,
+    "end": 156.715,
+    "words": [
+      {
+        "text": "Um",
+        "start": 150.634,
+        "end": 150.814
+      },
+      {
+        "text": "den",
+        "start": 150.834,
+        "end": 151.014
+      },
+      {
+        "text": "Sohn",
+        "start": 151.034,
+        "end": 151.274
+      },
+      {
+        "text": "der",
+        "start": 151.294,
+        "end": 151.454
+      },
+      {
+        "text": "Kaiserin",
+        "start": 151.494,
+        "end": 152.094
+      },
+      {
+        "text": "würde",
+        "start": 152.114,
+        "end": 152.354
+      },
+      {
+        "text": "man",
+        "start": 152.394,
+        "end": 152.514
+      },
+      {
+        "text": "sich",
+        "start": 152.534,
+        "end": 152.694
+      },
+      {
+        "text": "mit",
+        "start": 152.714,
+        "end": 152.874
+      },
+      {
+        "text": "Sicherheit",
+        "start": 152.914,
+        "end": 153.374
+      },
+      {
+        "text": "besser",
+        "start": 153.394,
+        "end": 153.675
+      },
+      {
+        "text": "kümmern",
+        "start": 153.695,
+        "end": 154.075
+      },
+      {
+        "text": "als",
+        "start": 154.115,
+        "end": 154.275
+      },
+      {
+        "text": "um",
+        "start": 154.335,
+        "end": 154.435
+      },
+      {
+        "text": "ihren",
+        "start": 154.475,
+        "end": 154.735
+      },
+      {
+        "text": "eigenen.",
+        "start": 154.775,
+        "end": 156.715
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Wahrscheinlich konnte sie in ihrem Zustand nicht einschätzen, was richtig oder falsch war.",
+    "start": 156.755,
+    "end": 160.776,
+    "words": [
+      {
+        "text": "Wahrscheinlich",
+        "start": 156.755,
+        "end": 157.355
+      },
+      {
+        "text": "konnte",
+        "start": 157.375,
+        "end": 157.655
+      },
+      {
+        "text": "sie",
+        "start": 157.675,
+        "end": 157.775
+      },
+      {
+        "text": "in",
+        "start": 157.815,
+        "end": 157.915
+      },
+      {
+        "text": "ihrem",
+        "start": 157.955,
+        "end": 158.195
+      },
+      {
+        "text": "Zustand",
+        "start": 158.215,
+        "end": 158.635
+      },
+      {
+        "text": "nicht",
+        "start": 158.655,
+        "end": 158.876
+      },
+      {
+        "text": "einschätzen,",
+        "start": 158.896,
+        "end": 159.436
+      },
+      {
+        "text": "was",
+        "start": 159.476,
+        "end": 159.656
+      },
+      {
+        "text": "richtig",
+        "start": 159.696,
+        "end": 160.056
+      },
+      {
+        "text": "oder",
+        "start": 160.096,
+        "end": 160.356
+      },
+      {
+        "text": "falsch",
+        "start": 160.376,
+        "end": 160.656
+      },
+      {
+        "text": "war.",
+        "start": 160.696,
+        "end": 160.776
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": " Ich bin mir sicher, die verehrte Aduo hatte nur einen einzigen Wunsch.",
+    "start": 161.99,
+    "end": 165.954,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 161.99,
+        "end": 162.07
+      },
+      {
+        "text": "bin",
+        "start": 162.11,
+        "end": 162.251
+      },
+      {
+        "text": "mir",
+        "start": 162.271,
+        "end": 162.411
+      },
+      {
+        "text": "sicher,",
+        "start": 162.451,
+        "end": 162.711
+      },
+      {
+        "text": "die",
+        "start": 162.731,
+        "end": 162.811
+      },
+      {
+        "text": "verehrte",
+        "start": 162.851,
+        "end": 163.231
+      },
+      {
+        "text": "Aduo",
+        "start": 163.271,
+        "end": 163.672
+      },
+      {
+        "text": "hatte",
+        "start": 163.692,
+        "end": 163.952
+      },
+      {
+        "text": "nur",
+        "start": 163.972,
+        "end": 164.092
+      },
+      {
+        "text": "einen",
+        "start": 164.132,
+        "end": 164.312
+      },
+      {
+        "text": "einzigen",
+        "start": 164.353,
+        "end": 164.773
+      },
+      {
+        "text": "Wunsch.",
+        "start": 164.813,
+        "end": 165.954
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Ihr Sohn sollte in Sicherheit aufwachsen können.",
+    "start": 166.014,
+    "end": 169.537,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 166.014,
+        "end": 166.214
+      },
+      {
+        "text": "Sohn",
+        "start": 166.234,
+        "end": 166.515
+      },
+      {
+        "text": "sollte",
+        "start": 166.535,
+        "end": 166.835
+      },
+      {
+        "text": "in",
+        "start": 166.875,
+        "end": 167.015
+      },
+      {
+        "text": "Sicherheit",
+        "start": 167.055,
+        "end": 167.576
+      },
+      {
+        "text": "aufwachsen",
+        "start": 167.596,
+        "end": 168.156
+      },
+      {
+        "text": "können.",
+        "start": 168.196,
+        "end": 169.537
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Nehmen wir einmal an, der Tausch der Kinder wurde später entdeckt.",
+    "start": 169.578,
+    "end": 173.822,
+    "words": [
+      {
+        "text": "Nehmen",
+        "start": 169.578,
+        "end": 169.818
+      },
+      {
+        "text": "wir",
+        "start": 169.858,
+        "end": 170.018
+      },
+      {
+        "text": "einmal",
+        "start": 170.038,
+        "end": 170.458
+      },
+      {
+        "text": "an,",
+        "start": 170.498,
+        "end": 170.759
+      },
+      {
+        "text": "der",
+        "start": 170.779,
+        "end": 170.899
+      },
+      {
+        "text": "Tausch",
+        "start": 170.979,
+        "end": 171.279
+      },
+      {
+        "text": "der",
+        "start": 171.299,
+        "end": 171.459
+      },
+      {
+        "text": "Kinder",
+        "start": 171.499,
+        "end": 171.8
+      },
+      {
+        "text": "wurde",
+        "start": 171.84,
+        "end": 172.06
+      },
+      {
+        "text": "später",
+        "start": 172.1,
+        "end": 172.52
+      },
+      {
+        "text": "entdeckt.",
+        "start": 172.56,
+        "end": 173.822
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Aber erst nachdem eines der Kinder verstorben war, dann ist es nicht verwunderlich, dass man meinen Vater bestraft hatte, weil er es nicht bemerkte.",
+    "start": 173.842,
+    "end": 181.449,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 173.842,
+        "end": 174.162
+      },
+      {
+        "text": "erst",
+        "start": 174.202,
+        "end": 174.442
+      },
+      {
+        "text": "nachdem",
+        "start": 174.462,
+        "end": 174.803
+      },
+      {
+        "text": "eines",
+        "start": 174.823,
+        "end": 175.103
+      },
+      {
+        "text": "der",
+        "start": 175.123,
+        "end": 175.263
+      },
+      {
+        "text": "Kinder",
+        "start": 175.283,
+        "end": 175.603
+      },
+      {
+        "text": "verstorben",
+        "start": 175.623,
+        "end": 176.164
+      },
+      {
+        "text": "war,",
+        "start": 176.184,
+        "end": 176.744
+      },
+      {
+        "text": "dann",
+        "start": 176.764,
+        "end": 177.005
+      },
+      {
+        "text": "ist",
+        "start": 177.025,
+        "end": 177.165
+      },
+      {
+        "text": "es",
+        "start": 177.225,
+        "end": 177.365
+      },
+      {
+        "text": "nicht",
+        "start": 177.385,
+        "end": 177.605
+      },
+      {
+        "text": "verwunderlich,",
+        "start": 177.625,
+        "end": 178.286
+      },
+      {
+        "text": "dass",
+        "start": 178.326,
+        "end": 178.526
+      },
+      {
+        "text": "man",
+        "start": 178.566,
+        "end": 178.706
+      },
+      {
+        "text": "meinen",
+        "start": 178.746,
+        "end": 178.906
+      },
+      {
+        "text": "Vater",
+        "start": 178.946,
+        "end": 179.247
+      },
+      {
+        "text": "bestraft",
+        "start": 179.267,
+        "end": 179.747
+      },
+      {
+        "text": "hatte,",
+        "start": 179.767,
+        "end": 180.388
+      },
+      {
+        "text": "weil",
+        "start": 180.408,
+        "end": 180.548
+      },
+      {
+        "text": "er",
+        "start": 180.588,
+        "end": 180.668
+      },
+      {
+        "text": "es",
+        "start": 180.708,
+        "end": 180.828
+      },
+      {
+        "text": "nicht",
+        "start": 180.848,
+        "end": 181.048
+      },
+      {
+        "text": "bemerkte.",
+        "start": 181.089,
+        "end": 181.449
+      }
+    ]
+  }
+]

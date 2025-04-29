@@ -1,0 +1,591 @@
+[
+  {
+    "id": 0,
+    "text": " Weißt du, ich finde ja, dass sich alles Sexuelle umso schöner anfühlt, je besser man sein Gegenüber kennt.",
+    "start": 0.031,
+    "end": 12.634,
+    "words": [
+      {
+        "text": "Weißt",
+        "start": 0.031,
+        "end": 0.571
+      },
+      {
+        "text": "du,",
+        "start": 0.851,
+        "end": 1.691
+      },
+      {
+        "text": "ich",
+        "start": 1.751,
+        "end": 1.971
+      },
+      {
+        "text": "finde",
+        "start": 2.031,
+        "end": 2.392
+      },
+      {
+        "text": "ja,",
+        "start": 2.432,
+        "end": 2.852
+      },
+      {
+        "text": "dass",
+        "start": 2.872,
+        "end": 3.112
+      },
+      {
+        "text": "sich",
+        "start": 3.132,
+        "end": 3.432
+      },
+      {
+        "text": "alles",
+        "start": 3.452,
+        "end": 3.772
+      },
+      {
+        "text": "Sexuelle",
+        "start": 3.812,
+        "end": 5.532
+      },
+      {
+        "text": "umso",
+        "start": 5.572,
+        "end": 5.912
+      },
+      {
+        "text": "schöner",
+        "start": 5.972,
+        "end": 6.412
+      },
+      {
+        "text": "anfühlt,",
+        "start": 6.452,
+        "end": 7.053
+      },
+      {
+        "text": "je",
+        "start": 7.093,
+        "end": 7.253
+      },
+      {
+        "text": "besser",
+        "start": 7.293,
+        "end": 7.533
+      },
+      {
+        "text": "man",
+        "start": 7.593,
+        "end": 7.733
+      },
+      {
+        "text": "sein",
+        "start": 7.753,
+        "end": 7.953
+      },
+      {
+        "text": "Gegenüber",
+        "start": 7.973,
+        "end": 8.513
+      },
+      {
+        "text": "kennt.",
+        "start": 8.553,
+        "end": 12.634
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Es ist nicht einfach zu verstehen, was die andere Person denkt und fühlt.",
+    "start": 12.694,
+    "end": 18.535,
+    "words": [
+      {
+        "text": "Es",
+        "start": 12.694,
+        "end": 12.834
+      },
+      {
+        "text": "ist",
+        "start": 12.894,
+        "end": 13.074
+      },
+      {
+        "text": "nicht",
+        "start": 13.094,
+        "end": 13.314
+      },
+      {
+        "text": "einfach",
+        "start": 13.334,
+        "end": 13.674
+      },
+      {
+        "text": "zu",
+        "start": 13.694,
+        "end": 13.854
+      },
+      {
+        "text": "verstehen,",
+        "start": 13.874,
+        "end": 14.734
+      },
+      {
+        "text": "was",
+        "start": 14.754,
+        "end": 14.914
+      },
+      {
+        "text": "die",
+        "start": 14.934,
+        "end": 15.034
+      },
+      {
+        "text": "andere",
+        "start": 15.074,
+        "end": 15.334
+      },
+      {
+        "text": "Person",
+        "start": 15.354,
+        "end": 15.734
+      },
+      {
+        "text": "denkt",
+        "start": 15.774,
+        "end": 16.215
+      },
+      {
+        "text": "und",
+        "start": 16.255,
+        "end": 16.455
+      },
+      {
+        "text": "fühlt.",
+        "start": 16.495,
+        "end": 18.535
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Schau dir am besten zuerst ganz genau ihre Hände an.",
+    "start": 18.575,
+    "end": 24.416,
+    "words": [
+      {
+        "text": "Schau",
+        "start": 18.575,
+        "end": 18.875
+      },
+      {
+        "text": "dir",
+        "start": 18.895,
+        "end": 19.075
+      },
+      {
+        "text": "am",
+        "start": 19.115,
+        "end": 19.295
+      },
+      {
+        "text": "besten",
+        "start": 19.335,
+        "end": 20.135
+      },
+      {
+        "text": "zuerst",
+        "start": 20.155,
+        "end": 20.555
+      },
+      {
+        "text": "ganz",
+        "start": 20.595,
+        "end": 20.816
+      },
+      {
+        "text": "genau",
+        "start": 20.836,
+        "end": 21.096
+      },
+      {
+        "text": "ihre",
+        "start": 21.136,
+        "end": 21.316
+      },
+      {
+        "text": "Hände",
+        "start": 21.336,
+        "end": 21.696
+      },
+      {
+        "text": "an.",
+        "start": 21.756,
+        "end": 24.416
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Welche Länge haben ihre Finger?",
+    "start": 24.436,
+    "end": 26.737,
+    "words": [
+      {
+        "text": "Welche",
+        "start": 24.436,
+        "end": 24.876
+      },
+      {
+        "text": "Länge",
+        "start": 24.936,
+        "end": 25.757
+      },
+      {
+        "text": "haben",
+        "start": 25.797,
+        "end": 26.137
+      },
+      {
+        "text": "ihre",
+        "start": 26.197,
+        "end": 26.437
+      },
+      {
+        "text": "Finger?",
+        "start": 26.497,
+        "end": 26.737
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": " Ihre Handflächen.",
+    "start": 30.772,
+    "end": 32.373,
+    "words": [
+      {
+        "text": "Ihre",
+        "start": 30.772,
+        "end": 30.992
+      },
+      {
+        "text": "Handflächen.",
+        "start": 31.012,
+        "end": 32.373
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Sind sie kalt?",
+    "start": 32.413,
+    "end": 34.254,
+    "words": [
+      {
+        "text": "Sind",
+        "start": 32.413,
+        "end": 32.653
+      },
+      {
+        "text": "sie",
+        "start": 32.693,
+        "end": 32.853
+      },
+      {
+        "text": "kalt?",
+        "start": 32.893,
+        "end": 34.254
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Oder fühlen sie sich warm an?",
+    "start": 34.294,
+    "end": 37.395,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 34.294,
+        "end": 34.534
+      },
+      {
+        "text": "fühlen",
+        "start": 34.574,
+        "end": 34.754
+      },
+      {
+        "text": "sie",
+        "start": 34.794,
+        "end": 34.894
+      },
+      {
+        "text": "sich",
+        "start": 34.914,
+        "end": 35.094
+      },
+      {
+        "text": "warm",
+        "start": 35.134,
+        "end": 35.434
+      },
+      {
+        "text": "an?",
+        "start": 35.474,
+        "end": 37.395
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wie sind ihre Ohren geformt?",
+    "start": 37.415,
+    "end": 43.837,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 37.415,
+        "end": 37.535
+      },
+      {
+        "text": "sind",
+        "start": 37.555,
+        "end": 37.775
+      },
+      {
+        "text": "ihre",
+        "start": 37.835,
+        "end": 38.015
+      },
+      {
+        "text": "Ohren",
+        "start": 38.075,
+        "end": 38.375
+      },
+      {
+        "text": "geformt?",
+        "start": 38.415,
+        "end": 43.837
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Hat schon mal jemand an deinem Finger geknabbert?",
+    "start": 43.857,
+    "end": 46.578,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 43.857,
+        "end": 44.037
+      },
+      {
+        "text": "schon",
+        "start": 44.057,
+        "end": 44.197
+      },
+      {
+        "text": "mal",
+        "start": 44.297,
+        "end": 44.438
+      },
+      {
+        "text": "jemand",
+        "start": 44.458,
+        "end": 44.718
+      },
+      {
+        "text": "an",
+        "start": 44.738,
+        "end": 44.838
+      },
+      {
+        "text": "deinem",
+        "start": 44.858,
+        "end": 45.118
+      },
+      {
+        "text": "Finger",
+        "start": 45.158,
+        "end": 45.418
+      },
+      {
+        "text": "geknabbert?",
+        "start": 45.438,
+        "end": 46.578
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Geknabbert?",
+    "start": 46.618,
+    "end": 47.539,
+    "words": [
+      {
+        "text": "Geknabbert?",
+        "start": 46.618,
+        "end": 47.539
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Prick es dir ein.",
+    "start": 47.559,
+    "end": 49.74,
+    "words": [
+      {
+        "text": "Prick",
+        "start": 47.559,
+        "end": 47.819
+      },
+      {
+        "text": "es",
+        "start": 47.859,
+        "end": 47.979
+      },
+      {
+        "text": "dir",
+        "start": 48.019,
+        "end": 48.159
+      },
+      {
+        "text": "ein.",
+        "start": 48.259,
+        "end": 49.74
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "So gut, dass du, selbst wenn du mal erblindest, allein an meinem Biss erkennst, dass ich es bin.",
+    "start": 49.78,
+    "end": 57.583,
+    "words": [
+      {
+        "text": "So",
+        "start": 49.78,
+        "end": 50.0
+      },
+      {
+        "text": "gut,",
+        "start": 50.04,
+        "end": 50.4
+      },
+      {
+        "text": "dass",
+        "start": 50.44,
+        "end": 50.62
+      },
+      {
+        "text": "du,",
+        "start": 50.66,
+        "end": 50.8
+      },
+      {
+        "text": "selbst",
+        "start": 50.84,
+        "end": 51.04
+      },
+      {
+        "text": "wenn",
+        "start": 51.06,
+        "end": 51.2
+      },
+      {
+        "text": "du",
+        "start": 51.22,
+        "end": 51.3
+      },
+      {
+        "text": "mal",
+        "start": 51.42,
+        "end": 51.54
+      },
+      {
+        "text": "erblindest,",
+        "start": 51.58,
+        "end": 53.821
+      },
+      {
+        "text": "allein",
+        "start": 53.861,
+        "end": 54.301
+      },
+      {
+        "text": "an",
+        "start": 54.341,
+        "end": 54.501
+      },
+      {
+        "text": "meinem",
+        "start": 54.541,
+        "end": 54.882
+      },
+      {
+        "text": "Biss",
+        "start": 54.902,
+        "end": 56.102
+      },
+      {
+        "text": "erkennst,",
+        "start": 56.142,
+        "end": 56.682
+      },
+      {
+        "text": "dass",
+        "start": 56.702,
+        "end": 56.982
+      },
+      {
+        "text": "ich",
+        "start": 57.022,
+        "end": 57.142
+      },
+      {
+        "text": "es",
+        "start": 57.202,
+        "end": 57.443
+      },
+      {
+        "text": "bin.",
+        "start": 57.483,
+        "end": 57.583
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Reg sie gut ein.",
+    "start": 60.53,
+    "end": 61.38,
+    "words": [
+      {
+        "text": "Reg",
+        "start": 60.53,
+        "end": 60.733
+      },
+      {
+        "text": "sie",
+        "start": 60.753,
+        "end": 60.874
+      },
+      {
+        "text": "gut",
+        "start": 60.894,
+        "end": 61.177
+      },
+      {
+        "text": "ein.",
+        "start": 61.258,
+        "end": 61.38
+      }
+    ]
+  }
+]

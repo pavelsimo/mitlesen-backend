@@ -1,0 +1,253 @@
+[
+  {
+    "id": 0,
+    "text": " Da drüben!",
+    "start": 0.267,
+    "end": 0.688,
+    "words": [
+      {
+        "text": "Da",
+        "start": 0.267,
+        "end": 0.367
+      },
+      {
+        "text": "drüben!",
+        "start": 0.387,
+        "end": 0.688
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Falsches Datum!",
+    "start": 0.708,
+    "end": 1.149,
+    "words": [
+      {
+        "text": "Falsches",
+        "start": 0.708,
+        "end": 0.868
+      },
+      {
+        "text": "Datum!",
+        "start": 0.888,
+        "end": 1.149
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": " Noch nicht.",
+    "start": 29.82,
+    "end": 31.581,
+    "words": [
+      {
+        "text": "Noch",
+        "start": 29.82,
+        "end": 30.521
+      },
+      {
+        "text": "nicht.",
+        "start": 30.561,
+        "end": 31.581
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Noch lange nicht.",
+    "start": 31.622,
+    "end": 32.382,
+    "words": [
+      {
+        "text": "Noch",
+        "start": 31.622,
+        "end": 31.782
+      },
+      {
+        "text": "lange",
+        "start": 31.942,
+        "end": 32.182
+      },
+      {
+        "text": "nicht.",
+        "start": 32.222,
+        "end": 32.382
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Noch nicht!",
+    "start": 32.522,
+    "end": 33.323,
+    "words": [
+      {
+        "text": "Noch",
+        "start": 32.522,
+        "end": 32.942
+      },
+      {
+        "text": "nicht!",
+        "start": 33.002,
+        "end": 33.323
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Das war also mit Lobpreisung gemeint.",
+    "start": 58.83,
+    "end": 60.512,
+    "words": [
+      {
+        "text": "Das",
+        "start": 58.83,
+        "end": 58.95
+      },
+      {
+        "text": "war",
+        "start": 58.97,
+        "end": 59.11
+      },
+      {
+        "text": "also",
+        "start": 59.15,
+        "end": 59.371
+      },
+      {
+        "text": "mit",
+        "start": 59.391,
+        "end": 59.511
+      },
+      {
+        "text": "Lobpreisung",
+        "start": 59.571,
+        "end": 60.111
+      },
+      {
+        "text": "gemeint.",
+        "start": 60.131,
+        "end": 60.512
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Jin-Woo!",
+    "start": 60.552,
+    "end": 62.113,
+    "words": [
+      {
+        "text": "Jin-Woo!",
+        "start": 60.552,
+        "end": 62.113
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Bist du unverletzt?",
+    "start": 64.935,
+    "end": 70.8,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 64.935,
+        "end": 65.476
+      },
+      {
+        "text": "du",
+        "start": 65.496,
+        "end": 65.676
+      },
+      {
+        "text": "unverletzt?",
+        "start": 65.756,
+        "end": 70.8
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Glaub schon, mehr oder weniger.",
+    "start": 70.82,
+    "end": 78.407,
+    "words": [
+      {
+        "text": "Glaub",
+        "start": 70.82,
+        "end": 71.141
+      },
+      {
+        "text": "schon,",
+        "start": 71.161,
+        "end": 71.421
+      },
+      {
+        "text": "mehr",
+        "start": 71.461,
+        "end": 71.581
+      },
+      {
+        "text": "oder",
+        "start": 71.601,
+        "end": 71.801
+      },
+      {
+        "text": "weniger.",
+        "start": 71.841,
+        "end": 78.407
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Jin-Woo!",
+    "start": 78.447,
+    "end": 79.768,
+    "words": [
+      {
+        "text": "Jin-Woo!",
+        "start": 78.447,
+        "end": 79.768
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Was denn?",
+    "start": 79.848,
+    "end": 80.388,
+    "words": [
+      {
+        "text": "Was",
+        "start": 79.848,
+        "end": 80.108
+      },
+      {
+        "text": "denn?",
+        "start": 80.148,
+        "end": 80.388
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Dein Bein!",
+    "start": 85.172,
+    "end": 85.452,
+    "words": [
+      {
+        "text": "Dein",
+        "start": 85.172,
+        "end": 85.292
+      },
+      {
+        "text": "Bein!",
+        "start": 85.332,
+        "end": 85.452
+      }
+    ]
+  }
+]

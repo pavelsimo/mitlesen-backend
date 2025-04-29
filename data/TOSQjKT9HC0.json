@@ -1,0 +1,1109 @@
+[
+  {
+    "id": 0,
+    "text": " Sag mal, Jinwoo, was sind eigentlich Leuchtsteine?",
+    "start": 1.027,
+    "end": 3.609,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 1.027,
+        "end": 1.227
+      },
+      {
+        "text": "mal,",
+        "start": 1.267,
+        "end": 1.387
+      },
+      {
+        "text": "Jinwoo,",
+        "start": 1.427,
+        "end": 2.248
+      },
+      {
+        "text": "was",
+        "start": 2.268,
+        "end": 2.408
+      },
+      {
+        "text": "sind",
+        "start": 2.428,
+        "end": 2.608
+      },
+      {
+        "text": "eigentlich",
+        "start": 2.648,
+        "end": 3.009
+      },
+      {
+        "text": "Leuchtsteine?",
+        "start": 3.049,
+        "end": 3.609
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Na ja, das ist eine Art Stein, die man in höhlenartigen Dungeons vorfindet und die ein schwaches Licht ausstrahlt.",
+    "start": 4.33,
+    "end": 10.975,
+    "words": [
+      {
+        "text": "Na",
+        "start": 4.33,
+        "end": 4.43
+      },
+      {
+        "text": "ja,",
+        "start": 4.45,
+        "end": 5.49
+      },
+      {
+        "text": "das",
+        "start": 5.51,
+        "end": 5.631
+      },
+      {
+        "text": "ist",
+        "start": 5.671,
+        "end": 5.811
+      },
+      {
+        "text": "eine",
+        "start": 5.871,
+        "end": 5.991
+      },
+      {
+        "text": "Art",
+        "start": 6.031,
+        "end": 6.171
+      },
+      {
+        "text": "Stein,",
+        "start": 6.211,
+        "end": 6.491
+      },
+      {
+        "text": "die",
+        "start": 6.531,
+        "end": 6.651
+      },
+      {
+        "text": "man",
+        "start": 6.671,
+        "end": 6.791
+      },
+      {
+        "text": "in",
+        "start": 6.831,
+        "end": 6.932
+      },
+      {
+        "text": "höhlenartigen",
+        "start": 6.972,
+        "end": 7.552
+      },
+      {
+        "text": "Dungeons",
+        "start": 7.572,
+        "end": 7.992
+      },
+      {
+        "text": "vorfindet",
+        "start": 8.032,
+        "end": 8.533
+      },
+      {
+        "text": "und",
+        "start": 8.573,
+        "end": 8.673
+      },
+      {
+        "text": "die",
+        "start": 8.693,
+        "end": 8.793
+      },
+      {
+        "text": "ein",
+        "start": 8.813,
+        "end": 8.913
+      },
+      {
+        "text": "schwaches",
+        "start": 8.953,
+        "end": 9.233
+      },
+      {
+        "text": "Licht",
+        "start": 9.313,
+        "end": 9.473
+      },
+      {
+        "text": "ausstrahlt.",
+        "start": 9.513,
+        "end": 10.975
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Leuchtsteine sind häufig über den Boden und die Wände verteilt und sorgen für angenehme Beleuchtung.",
+    "start": 11.015,
+    "end": 16.078,
+    "words": [
+      {
+        "text": "Leuchtsteine",
+        "start": 11.015,
+        "end": 11.515
+      },
+      {
+        "text": "sind",
+        "start": 11.555,
+        "end": 11.695
+      },
+      {
+        "text": "häufig",
+        "start": 11.715,
+        "end": 11.995
+      },
+      {
+        "text": "über",
+        "start": 12.015,
+        "end": 12.135
+      },
+      {
+        "text": "den",
+        "start": 12.155,
+        "end": 12.276
+      },
+      {
+        "text": "Boden",
+        "start": 12.296,
+        "end": 12.496
+      },
+      {
+        "text": "und",
+        "start": 12.536,
+        "end": 12.636
+      },
+      {
+        "text": "die",
+        "start": 12.656,
+        "end": 12.736
+      },
+      {
+        "text": "Wände",
+        "start": 12.776,
+        "end": 12.996
+      },
+      {
+        "text": "verteilt",
+        "start": 13.016,
+        "end": 13.597
+      },
+      {
+        "text": "und",
+        "start": 13.637,
+        "end": 13.777
+      },
+      {
+        "text": "sorgen",
+        "start": 13.797,
+        "end": 14.037
+      },
+      {
+        "text": "für",
+        "start": 14.077,
+        "end": 14.217
+      },
+      {
+        "text": "angenehme",
+        "start": 14.237,
+        "end": 14.657
+      },
+      {
+        "text": "Beleuchtung.",
+        "start": 14.697,
+        "end": 16.078
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Also gibt es Magiekerne, die man nach dem Besiegen in Monstern findet?",
+    "start": 16.118,
+    "end": 20.221,
+    "words": [
+      {
+        "text": "Also",
+        "start": 16.118,
+        "end": 16.339
+      },
+      {
+        "text": "gibt",
+        "start": 16.359,
+        "end": 16.519
+      },
+      {
+        "text": "es",
+        "start": 16.559,
+        "end": 17.159
+      },
+      {
+        "text": "Magiekerne,",
+        "start": 17.199,
+        "end": 17.84
+      },
+      {
+        "text": "die",
+        "start": 17.88,
+        "end": 17.98
+      },
+      {
+        "text": "man",
+        "start": 18.0,
+        "end": 18.1
+      },
+      {
+        "text": "nach",
+        "start": 18.14,
+        "end": 18.26
+      },
+      {
+        "text": "dem",
+        "start": 18.28,
+        "end": 18.4
+      },
+      {
+        "text": "Besiegen",
+        "start": 18.44,
+        "end": 18.84
+      },
+      {
+        "text": "in",
+        "start": 18.88,
+        "end": 19.041
+      },
+      {
+        "text": "Monstern",
+        "start": 19.061,
+        "end": 19.501
+      },
+      {
+        "text": "findet?",
+        "start": 19.541,
+        "end": 20.221
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Mana-Kristalle, die man in Dungeons abbauen kann?",
+    "start": 20.261,
+    "end": 23.204,
+    "words": [
+      {
+        "text": "Mana-Kristalle,",
+        "start": 20.261,
+        "end": 21.022
+      },
+      {
+        "text": "die",
+        "start": 21.062,
+        "end": 21.162
+      },
+      {
+        "text": "man",
+        "start": 21.182,
+        "end": 21.302
+      },
+      {
+        "text": "in",
+        "start": 21.342,
+        "end": 21.442
+      },
+      {
+        "text": "Dungeons",
+        "start": 21.482,
+        "end": 21.983
+      },
+      {
+        "text": "abbauen",
+        "start": 22.023,
+        "end": 22.443
+      },
+      {
+        "text": "kann?",
+        "start": 22.483,
+        "end": 23.204
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Und diese Leuchtsteine, die das Innere von Höhlen erhellen?",
+    "start": 23.244,
+    "end": 26.806,
+    "words": [
+      {
+        "text": "Und",
+        "start": 23.244,
+        "end": 23.524
+      },
+      {
+        "text": "diese",
+        "start": 23.544,
+        "end": 23.844
+      },
+      {
+        "text": "Leuchtsteine,",
+        "start": 23.904,
+        "end": 24.505
+      },
+      {
+        "text": "die",
+        "start": 24.545,
+        "end": 24.645
+      },
+      {
+        "text": "das",
+        "start": 24.665,
+        "end": 24.845
+      },
+      {
+        "text": "Innere",
+        "start": 24.885,
+        "end": 25.225
+      },
+      {
+        "text": "von",
+        "start": 25.245,
+        "end": 25.445
+      },
+      {
+        "text": "Höhlen",
+        "start": 25.465,
+        "end": 25.786
+      },
+      {
+        "text": "erhellen?",
+        "start": 25.846,
+        "end": 26.806
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich hoffe, ich kann das auseinanderhalten.",
+    "start": 26.846,
+    "end": 28.828,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 26.846,
+        "end": 27.026
+      },
+      {
+        "text": "hoffe,",
+        "start": 27.047,
+        "end": 27.247
+      },
+      {
+        "text": "ich",
+        "start": 27.287,
+        "end": 27.387
+      },
+      {
+        "text": "kann",
+        "start": 27.407,
+        "end": 27.567
+      },
+      {
+        "text": "das",
+        "start": 27.587,
+        "end": 27.727
+      },
+      {
+        "text": "auseinanderhalten.",
+        "start": 27.747,
+        "end": 28.828
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Das lernst du schon mit der Zeit.",
+    "start": 28.848,
+    "end": 30.049,
+    "words": [
+      {
+        "text": "Das",
+        "start": 28.848,
+        "end": 29.028
+      },
+      {
+        "text": "lernst",
+        "start": 29.068,
+        "end": 29.288
+      },
+      {
+        "text": "du",
+        "start": 29.308,
+        "end": 29.428
+      },
+      {
+        "text": "schon",
+        "start": 29.448,
+        "end": 29.608
+      },
+      {
+        "text": "mit",
+        "start": 29.648,
+        "end": 29.749
+      },
+      {
+        "text": "der",
+        "start": 29.769,
+        "end": 29.889
+      },
+      {
+        "text": "Zeit.",
+        "start": 29.929,
+        "end": 30.049
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Hier scheint allerdings rote Hose zu sein.",
+    "start": 33.511,
+    "end": 36.552,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 33.511,
+        "end": 33.871
+      },
+      {
+        "text": "scheint",
+        "start": 33.891,
+        "end": 34.111
+      },
+      {
+        "text": "allerdings",
+        "start": 34.151,
+        "end": 34.951
+      },
+      {
+        "text": "rote",
+        "start": 35.011,
+        "end": 35.331
+      },
+      {
+        "text": "Hose",
+        "start": 35.371,
+        "end": 35.692
+      },
+      {
+        "text": "zu",
+        "start": 35.732,
+        "end": 35.892
+      },
+      {
+        "text": "sein.",
+        "start": 35.932,
+        "end": 36.552
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Hey, Jinbu.",
+    "start": 36.612,
+    "end": 37.552,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 36.612,
+        "end": 36.792
+      },
+      {
+        "text": "Jinbu.",
+        "start": 36.832,
+        "end": 37.552
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Gibt es eigentlich auch Dungeons, in denen keine Monster drin sind?",
+    "start": 37.592,
+    "end": 43.573,
+    "words": [
+      {
+        "text": "Gibt",
+        "start": 37.592,
+        "end": 37.732
+      },
+      {
+        "text": "es",
+        "start": 37.772,
+        "end": 37.892
+      },
+      {
+        "text": "eigentlich",
+        "start": 37.912,
+        "end": 38.232
+      },
+      {
+        "text": "auch",
+        "start": 38.272,
+        "end": 38.412
+      },
+      {
+        "text": "Dungeons,",
+        "start": 38.432,
+        "end": 38.772
+      },
+      {
+        "text": "in",
+        "start": 38.812,
+        "end": 38.912
+      },
+      {
+        "text": "denen",
+        "start": 38.932,
+        "end": 39.152
+      },
+      {
+        "text": "keine",
+        "start": 39.192,
+        "end": 39.412
+      },
+      {
+        "text": "Monster",
+        "start": 39.452,
+        "end": 39.752
+      },
+      {
+        "text": "drin",
+        "start": 39.772,
+        "end": 39.953
+      },
+      {
+        "text": "sind?",
+        "start": 39.993,
+        "end": 43.573
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Diese Geräusche... Hier sind Monster.",
+    "start": 43.613,
+    "end": 46.474,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 43.613,
+        "end": 43.933
+      },
+      {
+        "text": "Geräusche...",
+        "start": 43.953,
+        "end": 45.114
+      },
+      {
+        "text": "Hier",
+        "start": 45.154,
+        "end": 45.294
+      },
+      {
+        "text": "sind",
+        "start": 45.334,
+        "end": 45.494
+      },
+      {
+        "text": "Monster.",
+        "start": 45.534,
+        "end": 46.474
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Sie haben sich nur noch nicht gezeigt.",
+    "start": 46.494,
+    "end": 47.734,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 46.494,
+        "end": 46.594
+      },
+      {
+        "text": "haben",
+        "start": 46.614,
+        "end": 46.794
+      },
+      {
+        "text": "sich",
+        "start": 46.834,
+        "end": 46.974
+      },
+      {
+        "text": "nur",
+        "start": 46.994,
+        "end": 47.094
+      },
+      {
+        "text": "noch",
+        "start": 47.114,
+        "end": 47.234
+      },
+      {
+        "text": "nicht",
+        "start": 47.254,
+        "end": 47.434
+      },
+      {
+        "text": "gezeigt.",
+        "start": 47.474,
+        "end": 47.734
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Bereit machen!",
+    "start": 47.774,
+    "end": 49.475,
+    "words": [
+      {
+        "text": "Bereit",
+        "start": 47.774,
+        "end": 48.795
+      },
+      {
+        "text": "machen!",
+        "start": 48.835,
+        "end": 49.475
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ja, Chef!",
+    "start": 49.535,
+    "end": 50.715,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 49.535,
+        "end": 49.635
+      },
+      {
+        "text": "Chef!",
+        "start": 49.775,
+        "end": 50.715
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Kreaturen, die in völliger Dunkelheit leben und von Lichtquellen angezogen werden?",
+    "start": 50.755,
+    "end": 54.816,
+    "words": [
+      {
+        "text": "Kreaturen,",
+        "start": 50.755,
+        "end": 51.235
+      },
+      {
+        "text": "die",
+        "start": 51.255,
+        "end": 51.355
+      },
+      {
+        "text": "in",
+        "start": 51.375,
+        "end": 51.515
+      },
+      {
+        "text": "völliger",
+        "start": 51.535,
+        "end": 51.915
+      },
+      {
+        "text": "Dunkelheit",
+        "start": 51.955,
+        "end": 52.435
+      },
+      {
+        "text": "leben",
+        "start": 52.475,
+        "end": 53.136
+      },
+      {
+        "text": "und",
+        "start": 53.176,
+        "end": 53.336
+      },
+      {
+        "text": "von",
+        "start": 53.356,
+        "end": 53.516
+      },
+      {
+        "text": "Lichtquellen",
+        "start": 53.556,
+        "end": 54.076
+      },
+      {
+        "text": "angezogen",
+        "start": 54.096,
+        "end": 54.596
+      },
+      {
+        "text": "werden?",
+        "start": 54.636,
+        "end": 54.816
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Das sind Monster vom Insektentyp!",
+    "start": 56.14,
+    "end": 58.202,
+    "words": [
+      {
+        "text": "Das",
+        "start": 56.14,
+        "end": 56.52
+      },
+      {
+        "text": "sind",
+        "start": 56.54,
+        "end": 56.641
+      },
+      {
+        "text": "Monster",
+        "start": 56.661,
+        "end": 56.921
+      },
+      {
+        "text": "vom",
+        "start": 56.941,
+        "end": 57.041
+      },
+      {
+        "text": "Insektentyp!",
+        "start": 57.081,
+        "end": 58.202
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Insekten!",
+    "start": 58.262,
+    "end": 58.923,
+    "words": [
+      {
+        "text": "Insekten!",
+        "start": 58.262,
+        "end": 58.923
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Scheiße!",
+    "start": 58.943,
+    "end": 59.644,
+    "words": [
+      {
+        "text": "Scheiße!",
+        "start": 58.943,
+        "end": 59.644
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Krabbelviecher!",
+    "start": 59.684,
+    "end": 60.805,
+    "words": [
+      {
+        "text": "Krabbelviecher!",
+        "start": 59.684,
+        "end": 60.805
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Kannst du was erkennen, Dong Zhun?",
+    "start": 60.825,
+    "end": 62.467,
+    "words": [
+      {
+        "text": "Kannst",
+        "start": 60.825,
+        "end": 61.066
+      },
+      {
+        "text": "du",
+        "start": 61.106,
+        "end": 61.206
+      },
+      {
+        "text": "was",
+        "start": 61.246,
+        "end": 61.346
+      },
+      {
+        "text": "erkennen,",
+        "start": 61.386,
+        "end": 61.726
+      },
+      {
+        "text": "Dong",
+        "start": 61.746,
+        "end": 61.927
+      },
+      {
+        "text": "Zhun?",
+        "start": 61.967,
+        "end": 62.467
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Nein, ich seh absolut nichts!",
+    "start": 62.507,
+    "end": 64.049,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 62.507,
+        "end": 62.768
+      },
+      {
+        "text": "ich",
+        "start": 62.808,
+        "end": 62.928
+      },
+      {
+        "text": "seh",
+        "start": 62.948,
+        "end": 63.108
+      },
+      {
+        "text": "absolut",
+        "start": 63.148,
+        "end": 63.548
+      },
+      {
+        "text": "nichts!",
+        "start": 63.589,
+        "end": 64.049
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ist das etwa ein Ameisennest?",
+    "start": 64.089,
+    "end": 65.791,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 64.089,
+        "end": 64.209
+      },
+      {
+        "text": "das",
+        "start": 64.249,
+        "end": 64.389
+      },
+      {
+        "text": "etwa",
+        "start": 64.429,
+        "end": 64.65
+      },
+      {
+        "text": "ein",
+        "start": 64.69,
+        "end": 64.87
+      },
+      {
+        "text": "Ameisennest?",
+        "start": 64.91,
+        "end": 65.791
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Was?",
+    "start": 65.831,
+    "end": 66.232,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 65.831,
+        "end": 66.232
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ameisen gehen echt übel!",
+    "start": 66.292,
+    "end": 67.413,
+    "words": [
+      {
+        "text": "Ameisen",
+        "start": 66.292,
+        "end": 66.752
+      },
+      {
+        "text": "gehen",
+        "start": 66.772,
+        "end": 66.972
+      },
+      {
+        "text": "echt",
+        "start": 67.012,
+        "end": 67.213
+      },
+      {
+        "text": "übel!",
+        "start": 67.273,
+        "end": 67.413
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Die Geräusche kommen immer näher!",
+    "start": 67.493,
+    "end": 69.075,
+    "words": [
+      {
+        "text": "Die",
+        "start": 67.493,
+        "end": 67.713
+      },
+      {
+        "text": "Geräusche",
+        "start": 67.733,
+        "end": 68.034
+      },
+      {
+        "text": "kommen",
+        "start": 68.054,
+        "end": 68.194
+      },
+      {
+        "text": "immer",
+        "start": 68.234,
+        "end": 68.514
+      },
+      {
+        "text": "näher!",
+        "start": 68.554,
+        "end": 69.075
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Aber von wo kommen sie?",
+    "start": 69.135,
+    "end": 70.677,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 69.135,
+        "end": 69.315
+      },
+      {
+        "text": "von",
+        "start": 69.335,
+        "end": 69.435
+      },
+      {
+        "text": "wo",
+        "start": 69.535,
+        "end": 69.756
+      },
+      {
+        "text": "kommen",
+        "start": 69.776,
+        "end": 70.016
+      },
+      {
+        "text": "sie?",
+        "start": 70.056,
+        "end": 70.677
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Es sind zu viele Tunnel!",
+    "start": 70.737,
+    "end": 71.718,
+    "words": [
+      {
+        "text": "Es",
+        "start": 70.737,
+        "end": 70.857
+      },
+      {
+        "text": "sind",
+        "start": 70.897,
+        "end": 71.037
+      },
+      {
+        "text": "zu",
+        "start": 71.057,
+        "end": 71.197
+      },
+      {
+        "text": "viele",
+        "start": 71.217,
+        "end": 71.458
+      },
+      {
+        "text": "Tunnel!",
+        "start": 71.498,
+        "end": 71.718
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Von oben!",
+    "start": 72.198,
+    "end": 73.179,
+    "words": [
+      {
+        "text": "Von",
+        "start": 72.198,
+        "end": 73.059
+      },
+      {
+        "text": "oben!",
+        "start": 73.079,
+        "end": 73.179
+      }
+    ]
+  }
+]

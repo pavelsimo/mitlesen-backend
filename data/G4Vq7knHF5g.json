@@ -1,0 +1,1327 @@
+[
+  {
+    "id": 0,
+    "text": " Ich habe viele verschiedene hier.",
+    "start": 0.611,
+    "end": 3.052,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.611,
+        "end": 0.691
+      },
+      {
+        "text": "habe",
+        "start": 0.711,
+        "end": 0.891
+      },
+      {
+        "text": "viele",
+        "start": 0.931,
+        "end": 1.151
+      },
+      {
+        "text": "verschiedene",
+        "start": 1.191,
+        "end": 1.691
+      },
+      {
+        "text": "hier.",
+        "start": 1.711,
+        "end": 3.052
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was ist mit der?",
+    "start": 3.092,
+    "end": 4.092,
+    "words": [
+      {
+        "text": "Was",
+        "start": 3.092,
+        "end": 3.212
+      },
+      {
+        "text": "ist",
+        "start": 3.272,
+        "end": 3.392
+      },
+      {
+        "text": "mit",
+        "start": 3.432,
+        "end": 3.552
+      },
+      {
+        "text": "der?",
+        "start": 3.572,
+        "end": 4.092
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Die Länge müsste passen.",
+    "start": 4.112,
+    "end": 5.732,
+    "words": [
+      {
+        "text": "Die",
+        "start": 4.112,
+        "end": 4.212
+      },
+      {
+        "text": "Länge",
+        "start": 4.232,
+        "end": 4.412
+      },
+      {
+        "text": "müsste",
+        "start": 4.452,
+        "end": 4.692
+      },
+      {
+        "text": "passen.",
+        "start": 4.732,
+        "end": 5.732
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Alles in Ordnung?",
+    "start": 5.812,
+    "end": 7.173,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 5.812,
+        "end": 6.733
+      },
+      {
+        "text": "in",
+        "start": 6.773,
+        "end": 6.893
+      },
+      {
+        "text": "Ordnung?",
+        "start": 6.933,
+        "end": 7.173
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Gehören die deiner Freundin?",
+    "start": 7.873,
+    "end": 9.693,
+    "words": [
+      {
+        "text": "Gehören",
+        "start": 7.873,
+        "end": 8.633
+      },
+      {
+        "text": "die",
+        "start": 8.653,
+        "end": 8.813
+      },
+      {
+        "text": "deiner",
+        "start": 8.853,
+        "end": 9.173
+      },
+      {
+        "text": "Freundin?",
+        "start": 9.213,
+        "end": 9.693
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Was?",
+    "start": 9.753,
+    "end": 10.093,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 9.753,
+        "end": 10.093
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Nein, so ist es nicht.",
+    "start": 10.113,
+    "end": 11.134,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 10.113,
+        "end": 10.413
+      },
+      {
+        "text": "so",
+        "start": 10.433,
+        "end": 10.553
+      },
+      {
+        "text": "ist",
+        "start": 10.594,
+        "end": 10.714
+      },
+      {
+        "text": "es",
+        "start": 10.754,
+        "end": 10.894
+      },
+      {
+        "text": "nicht.",
+        "start": 10.914,
+        "end": 11.134
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Einige der Puppen haben auch Wimpern.",
+    "start": 11.174,
+    "end": 12.674,
+    "words": [
+      {
+        "text": "Einige",
+        "start": 11.174,
+        "end": 11.454
+      },
+      {
+        "text": "der",
+        "start": 11.474,
+        "end": 11.594
+      },
+      {
+        "text": "Puppen",
+        "start": 11.614,
+        "end": 11.834
+      },
+      {
+        "text": "haben",
+        "start": 11.854,
+        "end": 12.094
+      },
+      {
+        "text": "auch",
+        "start": 12.134,
+        "end": 12.254
+      },
+      {
+        "text": "Wimpern.",
+        "start": 12.294,
+        "end": 12.674
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Deswegen habe ich ein paar zum Testen gekauft.",
+    "start": 12.694,
+    "end": 14.594,
+    "words": [
+      {
+        "text": "Deswegen",
+        "start": 12.694,
+        "end": 12.954
+      },
+      {
+        "text": "habe",
+        "start": 12.994,
+        "end": 13.114
+      },
+      {
+        "text": "ich",
+        "start": 13.134,
+        "end": 13.234
+      },
+      {
+        "text": "ein",
+        "start": 13.274,
+        "end": 13.374
+      },
+      {
+        "text": "paar",
+        "start": 13.394,
+        "end": 13.514
+      },
+      {
+        "text": "zum",
+        "start": 13.534,
+        "end": 13.694
+      },
+      {
+        "text": "Testen",
+        "start": 13.714,
+        "end": 14.034
+      },
+      {
+        "text": "gekauft.",
+        "start": 14.074,
+        "end": 14.594
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das war für die Arbeit.",
+    "start": 14.614,
+    "end": 16.095,
+    "words": [
+      {
+        "text": "Das",
+        "start": 14.614,
+        "end": 14.734
+      },
+      {
+        "text": "war",
+        "start": 14.774,
+        "end": 14.915
+      },
+      {
+        "text": "für",
+        "start": 14.955,
+        "end": 15.055
+      },
+      {
+        "text": "die",
+        "start": 15.095,
+        "end": 15.195
+      },
+      {
+        "text": "Arbeit.",
+        "start": 15.255,
+        "end": 16.095
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Für diese Puppe hier zum Beispiel.",
+    "start": 16.135,
+    "end": 17.615,
+    "words": [
+      {
+        "text": "Für",
+        "start": 16.135,
+        "end": 16.295
+      },
+      {
+        "text": "diese",
+        "start": 16.315,
+        "end": 16.535
+      },
+      {
+        "text": "Puppe",
+        "start": 16.555,
+        "end": 16.795
+      },
+      {
+        "text": "hier",
+        "start": 16.815,
+        "end": 16.975
+      },
+      {
+        "text": "zum",
+        "start": 17.015,
+        "end": 17.135
+      },
+      {
+        "text": "Beispiel.",
+        "start": 17.155,
+        "end": 17.615
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Krass.",
+    "start": 17.695,
+    "end": 18.215,
+    "words": [
+      {
+        "text": "Krass.",
+        "start": 17.695,
+        "end": 18.215
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Das steht dir total gut.",
+    "start": 18.255,
+    "end": 19.756,
+    "words": [
+      {
+        "text": "Das",
+        "start": 18.255,
+        "end": 18.335
+      },
+      {
+        "text": "steht",
+        "start": 18.355,
+        "end": 18.635
+      },
+      {
+        "text": "dir",
+        "start": 18.655,
+        "end": 18.795
+      },
+      {
+        "text": "total",
+        "start": 18.815,
+        "end": 19.216
+      },
+      {
+        "text": "gut.",
+        "start": 19.276,
+        "end": 19.756
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "So sehen Puppen heutzutage aus.",
+    "start": 19.796,
+    "end": 21.316,
+    "words": [
+      {
+        "text": "So",
+        "start": 19.796,
+        "end": 19.916
+      },
+      {
+        "text": "sehen",
+        "start": 19.936,
+        "end": 20.176
+      },
+      {
+        "text": "Puppen",
+        "start": 20.196,
+        "end": 20.436
+      },
+      {
+        "text": "heutzutage",
+        "start": 20.456,
+        "end": 21.056
+      },
+      {
+        "text": "aus.",
+        "start": 21.116,
+        "end": 21.316
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wahnsinnig hübsch.",
+    "start": 21.356,
+    "end": 22.116,
+    "words": [
+      {
+        "text": "Wahnsinnig",
+        "start": 21.356,
+        "end": 21.876
+      },
+      {
+        "text": "hübsch.",
+        "start": 21.916,
+        "end": 22.116
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "So eine hätte ich auch gern.",
+    "start": 22.136,
+    "end": 23.236,
+    "words": [
+      {
+        "text": "So",
+        "start": 22.136,
+        "end": 22.236
+      },
+      {
+        "text": "eine",
+        "start": 22.276,
+        "end": 22.416
+      },
+      {
+        "text": "hätte",
+        "start": 22.436,
+        "end": 22.596
+      },
+      {
+        "text": "ich",
+        "start": 22.636,
+        "end": 22.756
+      },
+      {
+        "text": "auch",
+        "start": 22.796,
+        "end": 22.996
+      },
+      {
+        "text": "gern.",
+        "start": 23.016,
+        "end": 23.236
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ihr Rosenkimono ist mega cute.",
+    "start": 23.277,
+    "end": 25.077,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 23.277,
+        "end": 23.397
+      },
+      {
+        "text": "Rosenkimono",
+        "start": 23.437,
+        "end": 24.137
+      },
+      {
+        "text": "ist",
+        "start": 24.177,
+        "end": 24.357
+      },
+      {
+        "text": "mega",
+        "start": 24.417,
+        "end": 24.697
+      },
+      {
+        "text": "cute.",
+        "start": 24.737,
+        "end": 25.077
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Heutzutage haben Puppen meistens rosa oder orangefarbenen Lippenstift, passend zum Rouge.",
+    "start": 25.812,
+    "end": 29.855,
+    "words": [
+      {
+        "text": "Heutzutage",
+        "start": 25.812,
+        "end": 26.252
+      },
+      {
+        "text": "haben",
+        "start": 26.272,
+        "end": 26.493
+      },
+      {
+        "text": "Puppen",
+        "start": 26.533,
+        "end": 26.753
+      },
+      {
+        "text": "meistens",
+        "start": 26.793,
+        "end": 27.133
+      },
+      {
+        "text": "rosa",
+        "start": 27.173,
+        "end": 27.453
+      },
+      {
+        "text": "oder",
+        "start": 27.473,
+        "end": 27.653
+      },
+      {
+        "text": "orangefarbenen",
+        "start": 27.713,
+        "end": 28.454
+      },
+      {
+        "text": "Lippenstift,",
+        "start": 28.494,
+        "end": 28.974
+      },
+      {
+        "text": "passend",
+        "start": 28.994,
+        "end": 29.274
+      },
+      {
+        "text": "zum",
+        "start": 29.314,
+        "end": 29.434
+      },
+      {
+        "text": "Rouge.",
+        "start": 29.475,
+        "end": 29.855
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Die Haare sind oft dunkelbraun, aber in letzter Zeit gibt es auch immer mehr blonde Puppen.",
+    "start": 29.895,
+    "end": 33.977,
+    "words": [
+      {
+        "text": "Die",
+        "start": 29.895,
+        "end": 29.995
+      },
+      {
+        "text": "Haare",
+        "start": 30.035,
+        "end": 30.295
+      },
+      {
+        "text": "sind",
+        "start": 30.335,
+        "end": 30.515
+      },
+      {
+        "text": "oft",
+        "start": 30.535,
+        "end": 30.675
+      },
+      {
+        "text": "dunkelbraun,",
+        "start": 30.695,
+        "end": 31.276
+      },
+      {
+        "text": "aber",
+        "start": 31.316,
+        "end": 31.456
+      },
+      {
+        "text": "in",
+        "start": 31.496,
+        "end": 31.616
+      },
+      {
+        "text": "letzter",
+        "start": 31.636,
+        "end": 31.916
+      },
+      {
+        "text": "Zeit",
+        "start": 31.956,
+        "end": 32.136
+      },
+      {
+        "text": "gibt",
+        "start": 32.156,
+        "end": 32.256
+      },
+      {
+        "text": "es",
+        "start": 32.316,
+        "end": 32.396
+      },
+      {
+        "text": "auch",
+        "start": 32.436,
+        "end": 32.576
+      },
+      {
+        "text": "immer",
+        "start": 32.617,
+        "end": 32.777
+      },
+      {
+        "text": "mehr",
+        "start": 32.817,
+        "end": 32.937
+      },
+      {
+        "text": "blonde",
+        "start": 32.957,
+        "end": 33.277
+      },
+      {
+        "text": "Puppen.",
+        "start": 33.317,
+        "end": 33.977
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Es ist toll, wie sich die Puppen entwickelt haben.",
+    "start": 34.017,
+    "end": 35.819,
+    "words": [
+      {
+        "text": "Es",
+        "start": 34.017,
+        "end": 34.117
+      },
+      {
+        "text": "ist",
+        "start": 34.157,
+        "end": 34.278
+      },
+      {
+        "text": "toll,",
+        "start": 34.298,
+        "end": 34.478
+      },
+      {
+        "text": "wie",
+        "start": 34.498,
+        "end": 34.598
+      },
+      {
+        "text": "sich",
+        "start": 34.638,
+        "end": 34.778
+      },
+      {
+        "text": "die",
+        "start": 34.798,
+        "end": 34.878
+      },
+      {
+        "text": "Puppen",
+        "start": 34.898,
+        "end": 35.178
+      },
+      {
+        "text": "entwickelt",
+        "start": 35.198,
+        "end": 35.538
+      },
+      {
+        "text": "haben.",
+        "start": 35.618,
+        "end": 35.819
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Wow, die ist so hübsch!",
+    "start": 35.859,
+    "end": 37.44,
+    "words": [
+      {
+        "text": "Wow,",
+        "start": 35.859,
+        "end": 36.199
+      },
+      {
+        "text": "die",
+        "start": 36.239,
+        "end": 36.339
+      },
+      {
+        "text": "ist",
+        "start": 36.359,
+        "end": 36.599
+      },
+      {
+        "text": "so",
+        "start": 36.639,
+        "end": 36.859
+      },
+      {
+        "text": "hübsch!",
+        "start": 36.959,
+        "end": 37.44
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Voll die Gyaru.",
+    "start": 37.48,
+    "end": 39.621,
+    "words": [
+      {
+        "text": "Voll",
+        "start": 37.48,
+        "end": 37.7
+      },
+      {
+        "text": "die",
+        "start": 37.74,
+        "end": 37.96
+      },
+      {
+        "text": "Gyaru.",
+        "start": 38.0,
+        "end": 39.621
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Und weißt du, was mein Großvater kann?",
+    "start": 39.661,
+    "end": 41.962,
+    "words": [
+      {
+        "text": "Und",
+        "start": 39.661,
+        "end": 39.841
+      },
+      {
+        "text": "weißt",
+        "start": 39.881,
+        "end": 40.061
+      },
+      {
+        "text": "du,",
+        "start": 40.081,
+        "end": 40.181
+      },
+      {
+        "text": "was",
+        "start": 40.221,
+        "end": 40.361
+      },
+      {
+        "text": "mein",
+        "start": 40.381,
+        "end": 40.542
+      },
+      {
+        "text": "Großvater",
+        "start": 40.582,
+        "end": 41.062
+      },
+      {
+        "text": "kann?",
+        "start": 41.082,
+        "end": 41.962
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Er erkennt allein an den Augenbrauen der Puppen.",
+    "start": 42.022,
+    "end": 44.944,
+    "words": [
+      {
+        "text": "Er",
+        "start": 42.022,
+        "end": 42.183
+      },
+      {
+        "text": "erkennt",
+        "start": 42.223,
+        "end": 43.083
+      },
+      {
+        "text": "allein",
+        "start": 43.123,
+        "end": 43.403
+      },
+      {
+        "text": "an",
+        "start": 43.443,
+        "end": 43.523
+      },
+      {
+        "text": "den",
+        "start": 43.543,
+        "end": 43.684
+      },
+      {
+        "text": "Augenbrauen",
+        "start": 43.704,
+        "end": 44.224
+      },
+      {
+        "text": "der",
+        "start": 44.244,
+        "end": 44.364
+      },
+      {
+        "text": "Puppen.",
+        "start": 44.404,
+        "end": 44.944
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wer sie gemacht hat, das lerne ich alles noch.",
+    "start": 44.964,
+    "end": 46.946,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 44.964,
+        "end": 45.084
+      },
+      {
+        "text": "sie",
+        "start": 45.124,
+        "end": 45.265
+      },
+      {
+        "text": "gemacht",
+        "start": 45.285,
+        "end": 45.525
+      },
+      {
+        "text": "hat,",
+        "start": 45.565,
+        "end": 45.685
+      },
+      {
+        "text": "das",
+        "start": 45.725,
+        "end": 45.825
+      },
+      {
+        "text": "lerne",
+        "start": 45.865,
+        "end": 46.025
+      },
+      {
+        "text": "ich",
+        "start": 46.065,
+        "end": 46.165
+      },
+      {
+        "text": "alles",
+        "start": 46.185,
+        "end": 46.405
+      },
+      {
+        "text": "noch.",
+        "start": 46.445,
+        "end": 46.946
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Wie krass!",
+    "start": 46.986,
+    "end": 48.326,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 46.986,
+        "end": 47.186
+      },
+      {
+        "text": "krass!",
+        "start": 47.266,
+        "end": 48.326
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Aber bei dieser hier erkenne sogar ich auf den ersten Blick, wer sie gemacht hat.",
+    "start": 48.386,
+    "end": 52.449,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 48.386,
+        "end": 48.627
+      },
+      {
+        "text": "bei",
+        "start": 48.647,
+        "end": 48.827
+      },
+      {
+        "text": "dieser",
+        "start": 48.847,
+        "end": 49.167
+      },
+      {
+        "text": "hier",
+        "start": 49.207,
+        "end": 50.028
+      },
+      {
+        "text": "erkenne",
+        "start": 50.068,
+        "end": 50.448
+      },
+      {
+        "text": "sogar",
+        "start": 50.468,
+        "end": 50.708
+      },
+      {
+        "text": "ich",
+        "start": 50.728,
+        "end": 50.868
+      },
+      {
+        "text": "auf",
+        "start": 50.888,
+        "end": 50.988
+      },
+      {
+        "text": "den",
+        "start": 51.028,
+        "end": 51.168
+      },
+      {
+        "text": "ersten",
+        "start": 51.188,
+        "end": 51.428
+      },
+      {
+        "text": "Blick,",
+        "start": 51.448,
+        "end": 51.649
+      },
+      {
+        "text": "wer",
+        "start": 51.669,
+        "end": 51.809
+      },
+      {
+        "text": "sie",
+        "start": 51.829,
+        "end": 51.969
+      },
+      {
+        "text": "gemacht",
+        "start": 51.989,
+        "end": 52.289
+      },
+      {
+        "text": "hat.",
+        "start": 52.309,
+        "end": 52.449
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Hm.",
+    "start": 52.469,
+    "end": 52.549,
+    "words": [
+      {
+        "text": "Hm.",
+        "start": 52.469,
+        "end": 52.549
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Ich hoffe, dass ich das auch bald kann.",
+    "start": 55.303,
+    "end": 58.924,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 55.303,
+        "end": 55.423
+      },
+      {
+        "text": "hoffe,",
+        "start": 55.463,
+        "end": 57.264
+      },
+      {
+        "text": "dass",
+        "start": 57.304,
+        "end": 57.444
+      },
+      {
+        "text": "ich",
+        "start": 57.504,
+        "end": 57.604
+      },
+      {
+        "text": "das",
+        "start": 57.644,
+        "end": 57.784
+      },
+      {
+        "text": "auch",
+        "start": 57.804,
+        "end": 57.924
+      },
+      {
+        "text": "bald",
+        "start": 57.964,
+        "end": 58.144
+      },
+      {
+        "text": "kann.",
+        "start": 58.164,
+        "end": 58.924
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Solche Puppen herzustellen, das wäre mein allergrößter Wunsch, weißt du?",
+    "start": 58.944,
+    "end": 65.166,
+    "words": [
+      {
+        "text": "Solche",
+        "start": 58.944,
+        "end": 59.224
+      },
+      {
+        "text": "Puppen",
+        "start": 59.264,
+        "end": 59.525
+      },
+      {
+        "text": "herzustellen,",
+        "start": 59.545,
+        "end": 60.585
+      },
+      {
+        "text": "das",
+        "start": 60.625,
+        "end": 60.785
+      },
+      {
+        "text": "wäre",
+        "start": 60.805,
+        "end": 61.045
+      },
+      {
+        "text": "mein",
+        "start": 61.065,
+        "end": 61.225
+      },
+      {
+        "text": "allergrößter",
+        "start": 61.245,
+        "end": 61.745
+      },
+      {
+        "text": "Wunsch,",
+        "start": 61.785,
+        "end": 62.025
+      },
+      {
+        "text": "weißt",
+        "start": 62.045,
+        "end": 62.366
+      },
+      {
+        "text": "du?",
+        "start": 64.486,
+        "end": 65.166
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Es tut mir so leid, ich bin vom Thema abgeschweift.",
+    "start": 65.226,
+    "end": 68.508,
+    "words": [
+      {
+        "text": "Es",
+        "start": 65.226,
+        "end": 65.487
+      },
+      {
+        "text": "tut",
+        "start": 65.507,
+        "end": 65.687
+      },
+      {
+        "text": "mir",
+        "start": 65.707,
+        "end": 65.827
+      },
+      {
+        "text": "so",
+        "start": 65.847,
+        "end": 65.967
+      },
+      {
+        "text": "leid,",
+        "start": 66.027,
+        "end": 66.207
+      },
+      {
+        "text": "ich",
+        "start": 66.227,
+        "end": 66.307
+      },
+      {
+        "text": "bin",
+        "start": 66.347,
+        "end": 66.467
+      },
+      {
+        "text": "vom",
+        "start": 66.507,
+        "end": 66.627
+      },
+      {
+        "text": "Thema",
+        "start": 66.647,
+        "end": 66.907
+      },
+      {
+        "text": "abgeschweift.",
+        "start": 66.947,
+        "end": 68.508
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Du schaffst das.",
+    "start": 68.548,
+    "end": 74.33,
+    "words": [
+      {
+        "text": "Du",
+        "start": 68.548,
+        "end": 68.688
+      },
+      {
+        "text": "schaffst",
+        "start": 68.708,
+        "end": 69.028
+      },
+      {
+        "text": "das.",
+        "start": 69.068,
+        "end": 74.33
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Du schaffst das, weil du, du bist.",
+    "start": 74.37,
+    "end": 77.611,
+    "words": [
+      {
+        "text": "Du",
+        "start": 74.37,
+        "end": 74.57
+      },
+      {
+        "text": "schaffst",
+        "start": 74.61,
+        "end": 74.99
+      },
+      {
+        "text": "das,",
+        "start": 75.03,
+        "end": 75.73
+      },
+      {
+        "text": "weil",
+        "start": 75.77,
+        "end": 76.05
+      },
+      {
+        "text": "du,",
+        "start": 76.07,
+        "end": 76.35
+      },
+      {
+        "text": "du",
+        "start": 76.37,
+        "end": 76.61
+      },
+      {
+        "text": "bist.",
+        "start": 76.65,
+        "end": 77.611
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Daran habe ich keine Zweifel.",
+    "start": 77.631,
+    "end": 80.312,
+    "words": [
+      {
+        "text": "Daran",
+        "start": 77.631,
+        "end": 77.951
+      },
+      {
+        "text": "habe",
+        "start": 77.971,
+        "end": 78.091
+      },
+      {
+        "text": "ich",
+        "start": 78.131,
+        "end": 78.291
+      },
+      {
+        "text": "keine",
+        "start": 78.331,
+        "end": 78.571
+      },
+      {
+        "text": "Zweifel.",
+        "start": 78.611,
+        "end": 80.312
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Das ist lieb, vielen Dank.",
+    "start": 80.332,
+    "end": 81.292,
+    "words": [
+      {
+        "text": "Das",
+        "start": 80.332,
+        "end": 80.392
+      },
+      {
+        "text": "ist",
+        "start": 80.412,
+        "end": 80.472
+      },
+      {
+        "text": "lieb,",
+        "start": 80.492,
+        "end": 80.652
+      },
+      {
+        "text": "vielen",
+        "start": 80.692,
+        "end": 80.872
+      },
+      {
+        "text": "Dank.",
+        "start": 81.212,
+        "end": 81.292
+      }
+    ]
+  }
+]

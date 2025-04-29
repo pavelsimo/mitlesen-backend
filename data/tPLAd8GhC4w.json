@@ -1,0 +1,883 @@
+[
+  {
+    "id": 0,
+    "text": " Nein!",
+    "start": 2.495,
+    "end": 2.635,
+    "words": [
+      {
+        "text": "Nein!",
+        "start": 2.495,
+        "end": 2.635
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Will nicht!",
+    "start": 2.655,
+    "end": 4.557,
+    "words": [
+      {
+        "text": "Will",
+        "start": 2.655,
+        "end": 3.015
+      },
+      {
+        "text": "nicht!",
+        "start": 3.176,
+        "end": 4.557
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Anja hasst Lernen!",
+    "start": 4.637,
+    "end": 5.918,
+    "words": [
+      {
+        "text": "Anja",
+        "start": 4.637,
+        "end": 5.017
+      },
+      {
+        "text": "hasst",
+        "start": 5.057,
+        "end": 5.317
+      },
+      {
+        "text": "Lernen!",
+        "start": 5.397,
+        "end": 5.918
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Jetzt stell dich nicht so an.",
+    "start": 5.958,
+    "end": 7.018,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 5.958,
+        "end": 6.078
+      },
+      {
+        "text": "stell",
+        "start": 6.118,
+        "end": 6.318
+      },
+      {
+        "text": "dich",
+        "start": 6.338,
+        "end": 6.458
+      },
+      {
+        "text": "nicht",
+        "start": 6.498,
+        "end": 6.618
+      },
+      {
+        "text": "so",
+        "start": 6.638,
+        "end": 6.778
+      },
+      {
+        "text": "an.",
+        "start": 6.818,
+        "end": 7.018
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Für die Prüfung muss ich nun mal deinen Wissensstand in Erfahrung bringen.",
+    "start": 7.039,
+    "end": 9.721,
+    "words": [
+      {
+        "text": "Für",
+        "start": 7.039,
+        "end": 7.139
+      },
+      {
+        "text": "die",
+        "start": 7.179,
+        "end": 7.259
+      },
+      {
+        "text": "Prüfung",
+        "start": 7.299,
+        "end": 7.619
+      },
+      {
+        "text": "muss",
+        "start": 7.659,
+        "end": 7.779
+      },
+      {
+        "text": "ich",
+        "start": 7.839,
+        "end": 7.919
+      },
+      {
+        "text": "nun",
+        "start": 7.959,
+        "end": 8.039
+      },
+      {
+        "text": "mal",
+        "start": 8.139,
+        "end": 8.219
+      },
+      {
+        "text": "deinen",
+        "start": 8.239,
+        "end": 8.4
+      },
+      {
+        "text": "Wissensstand",
+        "start": 8.42,
+        "end": 8.9
+      },
+      {
+        "text": "in",
+        "start": 8.94,
+        "end": 9.06
+      },
+      {
+        "text": "Erfahrung",
+        "start": 9.08,
+        "end": 9.46
+      },
+      {
+        "text": "bringen.",
+        "start": 9.5,
+        "end": 9.721
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Aber Anja besteht den doofen Test auch ohne zu lernen.",
+    "start": 9.761,
+    "end": 12.783,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 9.761,
+        "end": 9.961
+      },
+      {
+        "text": "Anja",
+        "start": 10.001,
+        "end": 10.281
+      },
+      {
+        "text": "besteht",
+        "start": 10.301,
+        "end": 10.601
+      },
+      {
+        "text": "den",
+        "start": 10.641,
+        "end": 10.781
+      },
+      {
+        "text": "doofen",
+        "start": 10.801,
+        "end": 11.142
+      },
+      {
+        "text": "Test",
+        "start": 11.182,
+        "end": 11.362
+      },
+      {
+        "text": "auch",
+        "start": 11.402,
+        "end": 11.522
+      },
+      {
+        "text": "ohne",
+        "start": 11.562,
+        "end": 11.982
+      },
+      {
+        "text": "zu",
+        "start": 12.022,
+        "end": 12.162
+      },
+      {
+        "text": "lernen.",
+        "start": 12.223,
+        "end": 12.783
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Muss nur bei anderen die Gedanken lesen.",
+    "start": 12.823,
+    "end": 15.365,
+    "words": [
+      {
+        "text": "Muss",
+        "start": 12.823,
+        "end": 13.023
+      },
+      {
+        "text": "nur",
+        "start": 13.043,
+        "end": 13.123
+      },
+      {
+        "text": "bei",
+        "start": 13.243,
+        "end": 13.403
+      },
+      {
+        "text": "anderen",
+        "start": 13.443,
+        "end": 14.084
+      },
+      {
+        "text": "die",
+        "start": 14.124,
+        "end": 14.204
+      },
+      {
+        "text": "Gedanken",
+        "start": 14.224,
+        "end": 14.664
+      },
+      {
+        "text": "lesen.",
+        "start": 14.704,
+        "end": 15.365
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Na hör mal, du willst doch nicht etwas schummeln.",
+    "start": 15.405,
+    "end": 17.266,
+    "words": [
+      {
+        "text": "Na",
+        "start": 15.405,
+        "end": 15.525
+      },
+      {
+        "text": "hör",
+        "start": 15.545,
+        "end": 15.705
+      },
+      {
+        "text": "mal,",
+        "start": 15.725,
+        "end": 15.805
+      },
+      {
+        "text": "du",
+        "start": 15.845,
+        "end": 15.905
+      },
+      {
+        "text": "willst",
+        "start": 15.945,
+        "end": 16.126
+      },
+      {
+        "text": "doch",
+        "start": 16.166,
+        "end": 16.266
+      },
+      {
+        "text": "nicht",
+        "start": 16.286,
+        "end": 16.446
+      },
+      {
+        "text": "etwas",
+        "start": 16.486,
+        "end": 16.686
+      },
+      {
+        "text": "schummeln.",
+        "start": 16.726,
+        "end": 17.266
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Lass das.",
+    "start": 17.326,
+    "end": 17.907,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 17.326,
+        "end": 17.547
+      },
+      {
+        "text": "das.",
+        "start": 17.567,
+        "end": 17.907
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wenn du die Aufnahme vergeigst, dann wird meine Mission scheitern.",
+    "start": 17.927,
+    "end": 21.049,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 17.927,
+        "end": 18.067
+      },
+      {
+        "text": "du",
+        "start": 18.107,
+        "end": 18.207
+      },
+      {
+        "text": "die",
+        "start": 18.247,
+        "end": 18.347
+      },
+      {
+        "text": "Aufnahme",
+        "start": 18.387,
+        "end": 18.868
+      },
+      {
+        "text": "vergeigst,",
+        "start": 18.908,
+        "end": 19.388
+      },
+      {
+        "text": "dann",
+        "start": 19.428,
+        "end": 19.848
+      },
+      {
+        "text": "wird",
+        "start": 19.868,
+        "end": 20.049
+      },
+      {
+        "text": "meine",
+        "start": 20.089,
+        "end": 20.229
+      },
+      {
+        "text": "Mission",
+        "start": 20.269,
+        "end": 20.649
+      },
+      {
+        "text": "scheitern.",
+        "start": 20.689,
+        "end": 21.049
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ach egal.",
+    "start": 22.05,
+    "end": 27.354,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 22.05,
+        "end": 24.612
+      },
+      {
+        "text": "egal.",
+        "start": 24.852,
+        "end": 27.354
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich muss dann jetzt los.",
+    "start": 27.394,
+    "end": 28.195,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.394,
+        "end": 27.474
+      },
+      {
+        "text": "muss",
+        "start": 27.514,
+        "end": 27.654
+      },
+      {
+        "text": "dann",
+        "start": 27.674,
+        "end": 27.835
+      },
+      {
+        "text": "jetzt",
+        "start": 27.855,
+        "end": 28.035
+      },
+      {
+        "text": "los.",
+        "start": 28.075,
+        "end": 28.195
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Diesmal wirst du schön hierbleiben.",
+    "start": 29.989,
+    "end": 31.95,
+    "words": [
+      {
+        "text": "Diesmal",
+        "start": 29.989,
+        "end": 30.269
+      },
+      {
+        "text": "wirst",
+        "start": 30.289,
+        "end": 30.409
+      },
+      {
+        "text": "du",
+        "start": 30.429,
+        "end": 30.609
+      },
+      {
+        "text": "schön",
+        "start": 30.629,
+        "end": 30.87
+      },
+      {
+        "text": "hierbleiben.",
+        "start": 30.89,
+        "end": 31.95
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Verstanden?",
+    "start": 31.99,
+    "end": 33.191,
+    "words": [
+      {
+        "text": "Verstanden?",
+        "start": 31.99,
+        "end": 33.191
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Stell nichts an!",
+    "start": 33.211,
+    "end": 33.791,
+    "words": [
+      {
+        "text": "Stell",
+        "start": 33.211,
+        "end": 33.411
+      },
+      {
+        "text": "nichts",
+        "start": 33.431,
+        "end": 33.591
+      },
+      {
+        "text": "an!",
+        "start": 33.671,
+        "end": 33.791
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Hey!",
+    "start": 40.195,
+    "end": 41.076,
+    "words": [
+      {
+        "text": "Hey!",
+        "start": 40.195,
+        "end": 41.076
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ich hab doch gesagt, du bleibst hier!",
+    "start": 41.136,
+    "end": 42.677,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 41.136,
+        "end": 41.236
+      },
+      {
+        "text": "hab",
+        "start": 41.276,
+        "end": 41.476
+      },
+      {
+        "text": "doch",
+        "start": 41.496,
+        "end": 41.656
+      },
+      {
+        "text": "gesagt,",
+        "start": 41.676,
+        "end": 42.036
+      },
+      {
+        "text": "du",
+        "start": 42.096,
+        "end": 42.136
+      },
+      {
+        "text": "bleibst",
+        "start": 42.156,
+        "end": 42.496
+      },
+      {
+        "text": "hier!",
+        "start": 42.516,
+        "end": 42.677
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Ich bin nicht blind.",
+    "start": 44.177,
+    "end": 45.058,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 44.177,
+        "end": 44.277
+      },
+      {
+        "text": "bin",
+        "start": 44.297,
+        "end": 44.417
+      },
+      {
+        "text": "nicht",
+        "start": 44.437,
+        "end": 44.557
+      },
+      {
+        "text": "blind.",
+        "start": 44.598,
+        "end": 45.058
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Dachtest du echt, du könntest dich verstecken?",
+    "start": 45.098,
+    "end": 46.999,
+    "words": [
+      {
+        "text": "Dachtest",
+        "start": 45.098,
+        "end": 45.378
+      },
+      {
+        "text": "du",
+        "start": 45.398,
+        "end": 45.478
+      },
+      {
+        "text": "echt,",
+        "start": 45.498,
+        "end": 45.598
+      },
+      {
+        "text": "du",
+        "start": 45.618,
+        "end": 45.718
+      },
+      {
+        "text": "könntest",
+        "start": 45.738,
+        "end": 46.039
+      },
+      {
+        "text": "dich",
+        "start": 46.059,
+        "end": 46.219
+      },
+      {
+        "text": "verstecken?",
+        "start": 46.239,
+        "end": 46.999
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Hab ich dich!",
+    "start": 47.039,
+    "end": 47.68,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 47.039,
+        "end": 47.22
+      },
+      {
+        "text": "ich",
+        "start": 47.28,
+        "end": 47.38
+      },
+      {
+        "text": "dich!",
+        "start": 47.44,
+        "end": 47.68
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Da oben!",
+    "start": 48.18,
+    "end": 49.241,
+    "words": [
+      {
+        "text": "Da",
+        "start": 48.18,
+        "end": 48.32
+      },
+      {
+        "text": "oben!",
+        "start": 48.441,
+        "end": 49.241
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Papa ist echt gut im Finden.",
+    "start": 49.261,
+    "end": 53.625,
+    "words": [
+      {
+        "text": "Papa",
+        "start": 49.261,
+        "end": 49.822
+      },
+      {
+        "text": "ist",
+        "start": 49.882,
+        "end": 50.042
+      },
+      {
+        "text": "echt",
+        "start": 50.102,
+        "end": 50.242
+      },
+      {
+        "text": "gut",
+        "start": 50.262,
+        "end": 50.362
+      },
+      {
+        "text": "im",
+        "start": 50.622,
+        "end": 50.782
+      },
+      {
+        "text": "Finden.",
+        "start": 50.822,
+        "end": 53.625
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Hat Spaß.",
+    "start": 53.645,
+    "end": 54.305,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 53.645,
+        "end": 53.805
+      },
+      {
+        "text": "Spaß.",
+        "start": 53.825,
+        "end": 54.305
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Jetzt kommt sie nicht mehr raus.",
+    "start": 54.325,
+    "end": 56.327,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 54.325,
+        "end": 54.505
+      },
+      {
+        "text": "kommt",
+        "start": 54.525,
+        "end": 54.746
+      },
+      {
+        "text": "sie",
+        "start": 54.766,
+        "end": 54.866
+      },
+      {
+        "text": "nicht",
+        "start": 54.886,
+        "end": 55.046
+      },
+      {
+        "text": "mehr",
+        "start": 55.066,
+        "end": 55.186
+      },
+      {
+        "text": "raus.",
+        "start": 55.226,
+        "end": 56.327
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Was?",
+    "start": 56.387,
+    "end": 56.887,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 56.387,
+        "end": 56.887
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Deshalb bist du spät dran?",
+    "start": 56.927,
+    "end": 58.128,
+    "words": [
+      {
+        "text": "Deshalb",
+        "start": 56.927,
+        "end": 57.167
+      },
+      {
+        "text": "bist",
+        "start": 57.188,
+        "end": 57.308
+      },
+      {
+        "text": "du",
+        "start": 57.328,
+        "end": 57.428
+      },
+      {
+        "text": "spät",
+        "start": 57.448,
+        "end": 57.648
+      },
+      {
+        "text": "dran?",
+        "start": 57.668,
+        "end": 58.128
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Am Ende musste ich sie einsperren und die Tür komplett verbarrikadieren.",
+    "start": 58.188,
+    "end": 61.251,
+    "words": [
+      {
+        "text": "Am",
+        "start": 58.188,
+        "end": 58.308
+      },
+      {
+        "text": "Ende",
+        "start": 58.348,
+        "end": 58.529
+      },
+      {
+        "text": "musste",
+        "start": 58.569,
+        "end": 58.749
+      },
+      {
+        "text": "ich",
+        "start": 58.789,
+        "end": 58.889
+      },
+      {
+        "text": "sie",
+        "start": 58.929,
+        "end": 59.089
+      },
+      {
+        "text": "einsperren",
+        "start": 59.129,
+        "end": 59.549
+      },
+      {
+        "text": "und",
+        "start": 59.589,
+        "end": 59.689
+      },
+      {
+        "text": "die",
+        "start": 59.71,
+        "end": 59.83
+      },
+      {
+        "text": "Tür",
+        "start": 59.85,
+        "end": 60.07
+      },
+      {
+        "text": "komplett",
+        "start": 60.09,
+        "end": 60.49
+      },
+      {
+        "text": "verbarrikadieren.",
+        "start": 60.51,
+        "end": 61.251
+      }
+    ]
+  }
+]

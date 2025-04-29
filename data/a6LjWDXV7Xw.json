@@ -1,0 +1,1457 @@
+[
+  {
+    "id": 0,
+    "text": " Ha, ha, ha.",
+    "start": 0.622,
+    "end": 2.763,
+    "words": [
+      {
+        "text": "Ha,",
+        "start": 0.622,
+        "end": 0.762
+      },
+      {
+        "text": "ha,",
+        "start": 1.282,
+        "end": 1.863
+      },
+      {
+        "text": "ha.",
+        "start": 1.903,
+        "end": 2.763
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hauptsache, wir verstehen uns.",
+    "start": 2.803,
+    "end": 4.525,
+    "words": [
+      {
+        "text": "Hauptsache,",
+        "start": 2.803,
+        "end": 3.464
+      },
+      {
+        "text": "wir",
+        "start": 3.504,
+        "end": 3.684
+      },
+      {
+        "text": "verstehen",
+        "start": 3.724,
+        "end": 4.224
+      },
+      {
+        "text": "uns.",
+        "start": 4.264,
+        "end": 4.525
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Und du, Problemlöser.",
+    "start": 4.585,
+    "end": 9.087,
+    "words": [
+      {
+        "text": "Und",
+        "start": 4.585,
+        "end": 7.927
+      },
+      {
+        "text": "du,",
+        "start": 7.947,
+        "end": 8.287
+      },
+      {
+        "text": "Problemlöser.",
+        "start": 8.307,
+        "end": 9.087
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ja?",
+    "start": 9.128,
+    "end": 10.548,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 9.128,
+        "end": 10.548
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Er hier geht gerade noch so.",
+    "start": 10.648,
+    "end": 12.85,
+    "words": [
+      {
+        "text": "Er",
+        "start": 10.648,
+        "end": 10.849
+      },
+      {
+        "text": "hier",
+        "start": 10.889,
+        "end": 11.109
+      },
+      {
+        "text": "geht",
+        "start": 11.149,
+        "end": 11.349
+      },
+      {
+        "text": "gerade",
+        "start": 11.369,
+        "end": 11.709
+      },
+      {
+        "text": "noch",
+        "start": 11.749,
+        "end": 11.949
+      },
+      {
+        "text": "so.",
+        "start": 11.989,
+        "end": 12.85
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Aber du bist das Allerletzte.",
+    "start": 12.93,
+    "end": 15.352,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 12.93,
+        "end": 13.21
+      },
+      {
+        "text": "du",
+        "start": 13.23,
+        "end": 13.51
+      },
+      {
+        "text": "bist",
+        "start": 13.53,
+        "end": 13.71
+      },
+      {
+        "text": "das",
+        "start": 13.75,
+        "end": 14.031
+      },
+      {
+        "text": "Allerletzte.",
+        "start": 14.051,
+        "end": 15.352
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Was ist denn los mit dir?",
+    "start": 15.392,
+    "end": 16.732,
+    "words": [
+      {
+        "text": "Was",
+        "start": 15.392,
+        "end": 15.552
+      },
+      {
+        "text": "ist",
+        "start": 15.592,
+        "end": 15.692
+      },
+      {
+        "text": "denn",
+        "start": 15.732,
+        "end": 15.892
+      },
+      {
+        "text": "los",
+        "start": 15.932,
+        "end": 16.132
+      },
+      {
+        "text": "mit",
+        "start": 16.152,
+        "end": 16.332
+      },
+      {
+        "text": "dir?",
+        "start": 16.352,
+        "end": 16.732
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Warum kümmert dich, was andere über dich denken?",
+    "start": 16.772,
+    "end": 19.334,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 16.772,
+        "end": 17.093
+      },
+      {
+        "text": "kümmert",
+        "start": 17.133,
+        "end": 17.413
+      },
+      {
+        "text": "dich,",
+        "start": 17.453,
+        "end": 17.613
+      },
+      {
+        "text": "was",
+        "start": 17.653,
+        "end": 17.813
+      },
+      {
+        "text": "andere",
+        "start": 17.853,
+        "end": 18.093
+      },
+      {
+        "text": "über",
+        "start": 18.133,
+        "end": 18.293
+      },
+      {
+        "text": "dich",
+        "start": 18.313,
+        "end": 18.494
+      },
+      {
+        "text": "denken?",
+        "start": 18.534,
+        "end": 19.334
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Und dieses Lächeln ist einfach widerlich.",
+    "start": 19.374,
+    "end": 21.716,
+    "words": [
+      {
+        "text": "Und",
+        "start": 19.374,
+        "end": 19.534
+      },
+      {
+        "text": "dieses",
+        "start": 19.554,
+        "end": 19.834
+      },
+      {
+        "text": "Lächeln",
+        "start": 19.914,
+        "end": 20.315
+      },
+      {
+        "text": "ist",
+        "start": 20.355,
+        "end": 20.495
+      },
+      {
+        "text": "einfach",
+        "start": 20.515,
+        "end": 20.875
+      },
+      {
+        "text": "widerlich.",
+        "start": 20.915,
+        "end": 21.716
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Du glaubst vielleicht, dass es wie ein echtes Lächeln wirkt, aber das tut es nicht.",
+    "start": 21.736,
+    "end": 25.878,
+    "words": [
+      {
+        "text": "Du",
+        "start": 21.736,
+        "end": 22.016
+      },
+      {
+        "text": "glaubst",
+        "start": 22.036,
+        "end": 22.356
+      },
+      {
+        "text": "vielleicht,",
+        "start": 22.376,
+        "end": 22.736
+      },
+      {
+        "text": "dass",
+        "start": 22.776,
+        "end": 22.916
+      },
+      {
+        "text": "es",
+        "start": 22.956,
+        "end": 23.036
+      },
+      {
+        "text": "wie",
+        "start": 23.057,
+        "end": 23.257
+      },
+      {
+        "text": "ein",
+        "start": 23.277,
+        "end": 23.417
+      },
+      {
+        "text": "echtes",
+        "start": 23.437,
+        "end": 23.677
+      },
+      {
+        "text": "Lächeln",
+        "start": 23.777,
+        "end": 24.097
+      },
+      {
+        "text": "wirkt,",
+        "start": 24.137,
+        "end": 24.397
+      },
+      {
+        "text": "aber",
+        "start": 24.417,
+        "end": 24.598
+      },
+      {
+        "text": "das",
+        "start": 24.638,
+        "end": 24.838
+      },
+      {
+        "text": "tut",
+        "start": 24.858,
+        "end": 25.018
+      },
+      {
+        "text": "es",
+        "start": 25.058,
+        "end": 25.218
+      },
+      {
+        "text": "nicht.",
+        "start": 25.258,
+        "end": 25.878
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Du siehst auf andere herab.",
+    "start": 25.918,
+    "end": 27.76,
+    "words": [
+      {
+        "text": "Du",
+        "start": 25.918,
+        "end": 26.038
+      },
+      {
+        "text": "siehst",
+        "start": 26.199,
+        "end": 26.479
+      },
+      {
+        "text": "auf",
+        "start": 26.499,
+        "end": 26.659
+      },
+      {
+        "text": "andere",
+        "start": 26.699,
+        "end": 26.999
+      },
+      {
+        "text": "herab.",
+        "start": 27.059,
+        "end": 27.76
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Für wen hältst du dich eigentlich, hä?",
+    "start": 27.82,
+    "end": 29.341,
+    "words": [
+      {
+        "text": "Für",
+        "start": 27.82,
+        "end": 27.98
+      },
+      {
+        "text": "wen",
+        "start": 28.02,
+        "end": 28.24
+      },
+      {
+        "text": "hältst",
+        "start": 28.26,
+        "end": 28.48
+      },
+      {
+        "text": "du",
+        "start": 28.5,
+        "end": 28.62
+      },
+      {
+        "text": "dich",
+        "start": 28.64,
+        "end": 28.82
+      },
+      {
+        "text": "eigentlich,",
+        "start": 28.86,
+        "end": 29.281
+      },
+      {
+        "text": "hä?",
+        "start": 29.301,
+        "end": 29.341
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Komm schon, Saul.",
+    "start": 30.772,
+    "end": 31.413,
+    "words": [
+      {
+        "text": "Komm",
+        "start": 30.772,
+        "end": 31.012
+      },
+      {
+        "text": "schon,",
+        "start": 31.032,
+        "end": 31.192
+      },
+      {
+        "text": "Saul.",
+        "start": 31.233,
+        "end": 31.413
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Hör auf damit.",
+    "start": 31.433,
+    "end": 32.113,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 31.433,
+        "end": 31.813
+      },
+      {
+        "text": "auf",
+        "start": 31.853,
+        "end": 31.973
+      },
+      {
+        "text": "damit.",
+        "start": 31.993,
+        "end": 32.113
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Nimm deine Finger weg!",
+    "start": 32.173,
+    "end": 33.554,
+    "words": [
+      {
+        "text": "Nimm",
+        "start": 32.173,
+        "end": 32.273
+      },
+      {
+        "text": "deine",
+        "start": 32.293,
+        "end": 32.674
+      },
+      {
+        "text": "Finger",
+        "start": 32.714,
+        "end": 32.974
+      },
+      {
+        "text": "weg!",
+        "start": 33.014,
+        "end": 33.554
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Der guckt auch, als wäre er der jämmerlichste Kerl der Welt.",
+    "start": 33.594,
+    "end": 36.137,
+    "words": [
+      {
+        "text": "Der",
+        "start": 33.594,
+        "end": 33.715
+      },
+      {
+        "text": "guckt",
+        "start": 33.735,
+        "end": 33.935
+      },
+      {
+        "text": "auch,",
+        "start": 33.955,
+        "end": 34.095
+      },
+      {
+        "text": "als",
+        "start": 34.135,
+        "end": 34.235
+      },
+      {
+        "text": "wäre",
+        "start": 34.275,
+        "end": 34.475
+      },
+      {
+        "text": "er",
+        "start": 34.515,
+        "end": 34.615
+      },
+      {
+        "text": "der",
+        "start": 34.635,
+        "end": 34.775
+      },
+      {
+        "text": "jämmerlichste",
+        "start": 34.795,
+        "end": 35.316
+      },
+      {
+        "text": "Kerl",
+        "start": 35.356,
+        "end": 35.616
+      },
+      {
+        "text": "der",
+        "start": 35.636,
+        "end": 35.776
+      },
+      {
+        "text": "Welt.",
+        "start": 35.836,
+        "end": 36.137
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Siehst du das nicht?",
+    "start": 36.177,
+    "end": 37.338,
+    "words": [
+      {
+        "text": "Siehst",
+        "start": 36.177,
+        "end": 36.437
+      },
+      {
+        "text": "du",
+        "start": 36.477,
+        "end": 36.597
+      },
+      {
+        "text": "das",
+        "start": 36.617,
+        "end": 36.817
+      },
+      {
+        "text": "nicht?",
+        "start": 36.877,
+        "end": 37.338
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich hab keine Ahnung, was dir passiert ist, Mann.",
+    "start": 37.378,
+    "end": 39.459,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 37.378,
+        "end": 37.458
+      },
+      {
+        "text": "hab",
+        "start": 37.498,
+        "end": 37.718
+      },
+      {
+        "text": "keine",
+        "start": 37.758,
+        "end": 37.918
+      },
+      {
+        "text": "Ahnung,",
+        "start": 37.998,
+        "end": 38.218
+      },
+      {
+        "text": "was",
+        "start": 38.278,
+        "end": 38.378
+      },
+      {
+        "text": "dir",
+        "start": 38.398,
+        "end": 38.599
+      },
+      {
+        "text": "passiert",
+        "start": 38.619,
+        "end": 38.939
+      },
+      {
+        "text": "ist,",
+        "start": 38.979,
+        "end": 39.159
+      },
+      {
+        "text": "Mann.",
+        "start": 39.179,
+        "end": 39.459
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Aber sieh nach vorn, verdammt!",
+    "start": 39.499,
+    "end": 41.561,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 39.499,
+        "end": 39.8
+      },
+      {
+        "text": "sieh",
+        "start": 39.84,
+        "end": 40.1
+      },
+      {
+        "text": "nach",
+        "start": 40.14,
+        "end": 40.36
+      },
+      {
+        "text": "vorn,",
+        "start": 40.42,
+        "end": 40.74
+      },
+      {
+        "text": "verdammt!",
+        "start": 40.78,
+        "end": 41.561
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du läufst doch vor irgendwas davon.",
+    "start": 41.601,
+    "end": 43.343,
+    "words": [
+      {
+        "text": "Du",
+        "start": 41.601,
+        "end": 41.761
+      },
+      {
+        "text": "läufst",
+        "start": 41.801,
+        "end": 42.021
+      },
+      {
+        "text": "doch",
+        "start": 42.062,
+        "end": 42.222
+      },
+      {
+        "text": "vor",
+        "start": 42.242,
+        "end": 42.402
+      },
+      {
+        "text": "irgendwas",
+        "start": 42.442,
+        "end": 42.902
+      },
+      {
+        "text": "davon.",
+        "start": 42.922,
+        "end": 43.343
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich hasse das, sowas zu sehen!",
+    "start": 43.383,
+    "end": 44.964,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 43.383,
+        "end": 43.603
+      },
+      {
+        "text": "hasse",
+        "start": 43.643,
+        "end": 43.963
+      },
+      {
+        "text": "das,",
+        "start": 44.003,
+        "end": 44.183
+      },
+      {
+        "text": "sowas",
+        "start": 44.203,
+        "end": 44.524
+      },
+      {
+        "text": "zu",
+        "start": 44.564,
+        "end": 44.684
+      },
+      {
+        "text": "sehen!",
+        "start": 44.724,
+        "end": 44.964
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Tut mir leid.",
+    "start": 48.046,
+    "end": 48.827,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 48.046,
+        "end": 48.247
+      },
+      {
+        "text": "mir",
+        "start": 48.287,
+        "end": 48.447
+      },
+      {
+        "text": "leid.",
+        "start": 48.487,
+        "end": 48.827
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ich wollte nicht unangenehm auffallen.",
+    "start": 48.867,
+    "end": 50.949,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 48.867,
+        "end": 48.947
+      },
+      {
+        "text": "wollte",
+        "start": 48.987,
+        "end": 49.288
+      },
+      {
+        "text": "nicht",
+        "start": 49.308,
+        "end": 49.448
+      },
+      {
+        "text": "unangenehm",
+        "start": 49.488,
+        "end": 50.028
+      },
+      {
+        "text": "auffallen.",
+        "start": 50.068,
+        "end": 50.949
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ich werde in Zukunft darauf achten, das nicht mehr zu tun.",
+    "start": 50.989,
+    "end": 53.251,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 50.989,
+        "end": 51.069
+      },
+      {
+        "text": "werde",
+        "start": 51.089,
+        "end": 51.329
+      },
+      {
+        "text": "in",
+        "start": 51.369,
+        "end": 51.489
+      },
+      {
+        "text": "Zukunft",
+        "start": 51.509,
+        "end": 51.81
+      },
+      {
+        "text": "darauf",
+        "start": 51.85,
+        "end": 52.07
+      },
+      {
+        "text": "achten,",
+        "start": 52.11,
+        "end": 52.37
+      },
+      {
+        "text": "das",
+        "start": 52.39,
+        "end": 52.57
+      },
+      {
+        "text": "nicht",
+        "start": 52.61,
+        "end": 52.75
+      },
+      {
+        "text": "mehr",
+        "start": 52.77,
+        "end": 52.951
+      },
+      {
+        "text": "zu",
+        "start": 52.971,
+        "end": 53.051
+      },
+      {
+        "text": "tun.",
+        "start": 53.111,
+        "end": 53.251
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Lass den Scheiß!",
+    "start": 54.132,
+    "end": 55.293,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 54.132,
+        "end": 54.312
+      },
+      {
+        "text": "den",
+        "start": 54.352,
+        "end": 54.472
+      },
+      {
+        "text": "Scheiß!",
+        "start": 54.532,
+        "end": 55.293
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Was ist das für eine elende Einstellung?",
+    "start": 55.333,
+    "end": 58.535,
+    "words": [
+      {
+        "text": "Was",
+        "start": 55.333,
+        "end": 55.513
+      },
+      {
+        "text": "ist",
+        "start": 55.573,
+        "end": 55.693
+      },
+      {
+        "text": "das",
+        "start": 55.733,
+        "end": 55.873
+      },
+      {
+        "text": "für",
+        "start": 55.893,
+        "end": 56.053
+      },
+      {
+        "text": "eine",
+        "start": 56.114,
+        "end": 56.334
+      },
+      {
+        "text": "elende",
+        "start": 56.374,
+        "end": 56.774
+      },
+      {
+        "text": "Einstellung?",
+        "start": 56.834,
+        "end": 58.535
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Willst du mich verarschen?",
+    "start": 58.575,
+    "end": 59.776,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 58.575,
+        "end": 58.835
+      },
+      {
+        "text": "du",
+        "start": 58.875,
+        "end": 58.995
+      },
+      {
+        "text": "mich",
+        "start": 59.035,
+        "end": 59.216
+      },
+      {
+        "text": "verarschen?",
+        "start": 59.256,
+        "end": 59.776
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Du lehnst Geld für deine Arbeit ab, nur um dir einen Namen zu machen?",
+    "start": 60.076,
+    "end": 63.318,
+    "words": [
+      {
+        "text": "Du",
+        "start": 60.076,
+        "end": 60.236
+      },
+      {
+        "text": "lehnst",
+        "start": 60.276,
+        "end": 60.597
+      },
+      {
+        "text": "Geld",
+        "start": 60.637,
+        "end": 60.817
+      },
+      {
+        "text": "für",
+        "start": 60.837,
+        "end": 60.977
+      },
+      {
+        "text": "deine",
+        "start": 61.017,
+        "end": 61.277
+      },
+      {
+        "text": "Arbeit",
+        "start": 61.317,
+        "end": 61.597
+      },
+      {
+        "text": "ab,",
+        "start": 61.637,
+        "end": 61.797
+      },
+      {
+        "text": "nur",
+        "start": 61.817,
+        "end": 61.997
+      },
+      {
+        "text": "um",
+        "start": 62.038,
+        "end": 62.178
+      },
+      {
+        "text": "dir",
+        "start": 62.198,
+        "end": 62.298
+      },
+      {
+        "text": "einen",
+        "start": 62.338,
+        "end": 62.498
+      },
+      {
+        "text": "Namen",
+        "start": 62.538,
+        "end": 62.798
+      },
+      {
+        "text": "zu",
+        "start": 62.818,
+        "end": 62.918
+      },
+      {
+        "text": "machen?",
+        "start": 62.958,
+        "end": 63.318
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Macht dir das etwa Spaß, du kleiner Wicht?",
+    "start": 63.338,
+    "end": 65.26,
+    "words": [
+      {
+        "text": "Macht",
+        "start": 63.338,
+        "end": 63.498
+      },
+      {
+        "text": "dir",
+        "start": 63.518,
+        "end": 63.639
+      },
+      {
+        "text": "das",
+        "start": 63.679,
+        "end": 63.819
+      },
+      {
+        "text": "etwa",
+        "start": 63.839,
+        "end": 64.059
+      },
+      {
+        "text": "Spaß,",
+        "start": 64.079,
+        "end": 64.359
+      },
+      {
+        "text": "du",
+        "start": 64.379,
+        "end": 64.539
+      },
+      {
+        "text": "kleiner",
+        "start": 64.559,
+        "end": 64.839
+      },
+      {
+        "text": "Wicht?",
+        "start": 64.879,
+        "end": 65.26
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Wir brauchen das Geld, um zu überleben!",
+    "start": 65.28,
+    "end": 67.081,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 65.28,
+        "end": 65.44
+      },
+      {
+        "text": "brauchen",
+        "start": 65.46,
+        "end": 65.76
+      },
+      {
+        "text": "das",
+        "start": 65.8,
+        "end": 65.94
+      },
+      {
+        "text": "Geld,",
+        "start": 65.96,
+        "end": 66.14
+      },
+      {
+        "text": "um",
+        "start": 66.16,
+        "end": 66.3
+      },
+      {
+        "text": "zu",
+        "start": 66.34,
+        "end": 66.46
+      },
+      {
+        "text": "überleben!",
+        "start": 66.5,
+        "end": 67.081
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Verstehst du das?",
+    "start": 67.101,
+    "end": 68.342,
+    "words": [
+      {
+        "text": "Verstehst",
+        "start": 67.101,
+        "end": 67.501
+      },
+      {
+        "text": "du",
+        "start": 67.521,
+        "end": 67.641
+      },
+      {
+        "text": "das?",
+        "start": 67.681,
+        "end": 68.342
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Jetzt hör endlich auf!",
+    "start": 68.382,
+    "end": 69.683,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 68.382,
+        "end": 68.622
+      },
+      {
+        "text": "hör",
+        "start": 68.662,
+        "end": 68.822
+      },
+      {
+        "text": "endlich",
+        "start": 68.862,
+        "end": 69.202
+      },
+      {
+        "text": "auf!",
+        "start": 69.242,
+        "end": 69.683
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Du hast zu viel getrunken!",
+    "start": 69.703,
+    "end": 70.343,
+    "words": [
+      {
+        "text": "Du",
+        "start": 69.703,
+        "end": 69.803
+      },
+      {
+        "text": "hast",
+        "start": 69.823,
+        "end": 69.903
+      },
+      {
+        "text": "zu",
+        "start": 69.923,
+        "end": 69.963
+      },
+      {
+        "text": "viel",
+        "start": 69.983,
+        "end": 70.063
+      },
+      {
+        "text": "getrunken!",
+        "start": 70.083,
+        "end": 70.343
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Lass dich gefälligst los, verdammt!",
+    "start": 70.363,
+    "end": 72.825,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 70.363,
+        "end": 70.443
+      },
+      {
+        "text": "dich",
+        "start": 70.463,
+        "end": 70.563
+      },
+      {
+        "text": "gefälligst",
+        "start": 70.583,
+        "end": 71.124
+      },
+      {
+        "text": "los,",
+        "start": 71.164,
+        "end": 71.424
+      },
+      {
+        "text": "verdammt!",
+        "start": 71.444,
+        "end": 72.825
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Problemlöser, hä?",
+    "start": 72.845,
+    "end": 74.306,
+    "words": [
+      {
+        "text": "Problemlöser,",
+        "start": 72.845,
+        "end": 73.685
+      },
+      {
+        "text": "hä?",
+        "start": 74.166,
+        "end": 74.306
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Komm, erzähl doch mal!",
+    "start": 74.346,
+    "end": 75.346,
+    "words": [
+      {
+        "text": "Komm,",
+        "start": 74.346,
+        "end": 74.566
+      },
+      {
+        "text": "erzähl",
+        "start": 74.626,
+        "end": 74.906
+      },
+      {
+        "text": "doch",
+        "start": 74.926,
+        "end": 75.026
+      },
+      {
+        "text": "mal!",
+        "start": 75.146,
+        "end": 75.346
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Hast du Spaß am Leben?",
+    "start": 75.386,
+    "end": 76.567,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 75.386,
+        "end": 75.547
+      },
+      {
+        "text": "du",
+        "start": 75.567,
+        "end": 75.687
+      },
+      {
+        "text": "Spaß",
+        "start": 75.707,
+        "end": 75.947
+      },
+      {
+        "text": "am",
+        "start": 75.987,
+        "end": 76.107
+      },
+      {
+        "text": "Leben?",
+        "start": 76.167,
+        "end": 76.567
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Denn wenn nicht, hab ich ein gutes Mittel dagegen!",
+    "start": 76.607,
+    "end": 79.269,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 76.607,
+        "end": 76.807
+      },
+      {
+        "text": "wenn",
+        "start": 76.827,
+        "end": 77.028
+      },
+      {
+        "text": "nicht,",
+        "start": 77.068,
+        "end": 77.368
+      },
+      {
+        "text": "hab",
+        "start": 77.408,
+        "end": 77.548
+      },
+      {
+        "text": "ich",
+        "start": 77.568,
+        "end": 77.688
+      },
+      {
+        "text": "ein",
+        "start": 77.728,
+        "end": 77.848
+      },
+      {
+        "text": "gutes",
+        "start": 77.868,
+        "end": 78.128
+      },
+      {
+        "text": "Mittel",
+        "start": 78.168,
+        "end": 78.468
+      },
+      {
+        "text": "dagegen!",
+        "start": 78.489,
+        "end": 79.269
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Verreck doch einfach!",
+    "start": 79.289,
+    "end": 80.31,
+    "words": [
+      {
+        "text": "Verreck",
+        "start": 79.289,
+        "end": 79.709
+      },
+      {
+        "text": "doch",
+        "start": 79.749,
+        "end": 79.929
+      },
+      {
+        "text": "einfach!",
+        "start": 79.99,
+        "end": 80.31
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": " Der Typ ist das allerletzte.",
+    "start": 85.03,
+    "end": 86.657,
+    "words": [
+      {
+        "text": "Der",
+        "start": 85.03,
+        "end": 85.432
+      },
+      {
+        "text": "Typ",
+        "start": 85.452,
+        "end": 85.592
+      },
+      {
+        "text": "ist",
+        "start": 85.612,
+        "end": 85.753
+      },
+      {
+        "text": "das",
+        "start": 85.773,
+        "end": 85.954
+      },
+      {
+        "text": "allerletzte.",
+        "start": 86.014,
+        "end": 86.657
+      }
+    ]
+  }
+]

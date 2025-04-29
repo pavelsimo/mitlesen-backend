@@ -1,0 +1,1049 @@
+[
+  {
+    "id": 0,
+    "text": " Danke fürs Warten.",
+    "start": 1.063,
+    "end": 2.425,
+    "words": [
+      {
+        "text": "Danke",
+        "start": 1.063,
+        "end": 1.464
+      },
+      {
+        "text": "fürs",
+        "start": 1.504,
+        "end": 1.684
+      },
+      {
+        "text": "Warten.",
+        "start": 1.724,
+        "end": 2.425
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich hab Kontaktlinsen gekauft.",
+    "start": 2.465,
+    "end": 4.407,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.465,
+        "end": 2.545
+      },
+      {
+        "text": "hab",
+        "start": 2.565,
+        "end": 2.725
+      },
+      {
+        "text": "Kontaktlinsen",
+        "start": 2.905,
+        "end": 3.906
+      },
+      {
+        "text": "gekauft.",
+        "start": 3.926,
+        "end": 4.407
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Lass mich die Tüte tragen.",
+    "start": 4.447,
+    "end": 5.468,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 4.447,
+        "end": 4.627
+      },
+      {
+        "text": "mich",
+        "start": 4.647,
+        "end": 4.827
+      },
+      {
+        "text": "die",
+        "start": 4.847,
+        "end": 4.927
+      },
+      {
+        "text": "Tüte",
+        "start": 4.967,
+        "end": 5.168
+      },
+      {
+        "text": "tragen.",
+        "start": 5.208,
+        "end": 5.468
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Oh, merci.",
+    "start": 5.928,
+    "end": 7.85,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 5.928,
+        "end": 6.249
+      },
+      {
+        "text": "merci.",
+        "start": 6.289,
+        "end": 7.85
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Dann fehlen nur noch ... Strumpfhalter und Strümpfe.",
+    "start": 8.151,
+    "end": 14.117,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 8.151,
+        "end": 8.351
+      },
+      {
+        "text": "fehlen",
+        "start": 8.391,
+        "end": 8.731
+      },
+      {
+        "text": "nur",
+        "start": 8.771,
+        "end": 8.952
+      },
+      {
+        "text": "noch",
+        "start": 9.012,
+        "end": 12.695
+      },
+      {
+        "text": "Strumpfhalter",
+        "start": 12.735,
+        "end": 13.376
+      },
+      {
+        "text": "und",
+        "start": 13.416,
+        "end": 13.556
+      },
+      {
+        "text": "Strümpfe.",
+        "start": 13.576,
+        "end": 14.117
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Gehen wir.",
+    "start": 14.157,
+    "end": 14.517,
+    "words": [
+      {
+        "text": "Gehen",
+        "start": 14.157,
+        "end": 14.377
+      },
+      {
+        "text": "wir.",
+        "start": 14.417,
+        "end": 14.517
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Schauen Sie sich um.",
+    "start": 16.82,
+    "end": 17.46,
+    "words": [
+      {
+        "text": "Schauen",
+        "start": 16.82,
+        "end": 17.08
+      },
+      {
+        "text": "Sie",
+        "start": 17.1,
+        "end": 17.24
+      },
+      {
+        "text": "sich",
+        "start": 17.26,
+        "end": 17.4
+      },
+      {
+        "text": "um.",
+        "start": 17.42,
+        "end": 17.46
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Hey, kurze Frage.",
+    "start": 18.813,
+    "end": 20.234,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 18.813,
+        "end": 19.534
+      },
+      {
+        "text": "kurze",
+        "start": 19.554,
+        "end": 19.794
+      },
+      {
+        "text": "Frage.",
+        "start": 19.834,
+        "end": 20.234
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Wie lange dauert das ungefähr noch?",
+    "start": 20.254,
+    "end": 21.756,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 20.254,
+        "end": 20.414
+      },
+      {
+        "text": "lange",
+        "start": 20.434,
+        "end": 20.655
+      },
+      {
+        "text": "dauert",
+        "start": 20.675,
+        "end": 20.895
+      },
+      {
+        "text": "das",
+        "start": 20.935,
+        "end": 21.095
+      },
+      {
+        "text": "ungefähr",
+        "start": 21.135,
+        "end": 21.535
+      },
+      {
+        "text": "noch?",
+        "start": 21.575,
+        "end": 21.756
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Bist du gleich soweit?",
+    "start": 21.776,
+    "end": 22.917,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 21.776,
+        "end": 21.916
+      },
+      {
+        "text": "du",
+        "start": 21.936,
+        "end": 22.016
+      },
+      {
+        "text": "gleich",
+        "start": 22.036,
+        "end": 22.256
+      },
+      {
+        "text": "soweit?",
+        "start": 22.296,
+        "end": 22.917
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ja, bin sofort fertig.",
+    "start": 22.977,
+    "end": 25.179,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 22.977,
+        "end": 23.677
+      },
+      {
+        "text": "bin",
+        "start": 23.697,
+        "end": 23.898
+      },
+      {
+        "text": "sofort",
+        "start": 23.918,
+        "end": 24.298
+      },
+      {
+        "text": "fertig.",
+        "start": 24.318,
+        "end": 25.179
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Und noch eine Frage.",
+    "start": 25.259,
+    "end": 26.78,
+    "words": [
+      {
+        "text": "Und",
+        "start": 25.259,
+        "end": 25.739
+      },
+      {
+        "text": "noch",
+        "start": 25.779,
+        "end": 25.979
+      },
+      {
+        "text": "eine",
+        "start": 26.019,
+        "end": 26.18
+      },
+      {
+        "text": "Frage.",
+        "start": 26.22,
+        "end": 26.78
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Darf ich eigentlich in diesem Laden sein?",
+    "start": 26.84,
+    "end": 28.722,
+    "words": [
+      {
+        "text": "Darf",
+        "start": 26.84,
+        "end": 27.08
+      },
+      {
+        "text": "ich",
+        "start": 27.12,
+        "end": 27.321
+      },
+      {
+        "text": "eigentlich",
+        "start": 27.361,
+        "end": 27.801
+      },
+      {
+        "text": "in",
+        "start": 27.861,
+        "end": 27.921
+      },
+      {
+        "text": "diesem",
+        "start": 27.961,
+        "end": 28.141
+      },
+      {
+        "text": "Laden",
+        "start": 28.181,
+        "end": 28.422
+      },
+      {
+        "text": "sein?",
+        "start": 28.462,
+        "end": 28.722
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ist das denn erlaubt?",
+    "start": 28.782,
+    "end": 30.924,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 28.782,
+        "end": 29.222
+      },
+      {
+        "text": "das",
+        "start": 29.242,
+        "end": 29.443
+      },
+      {
+        "text": "denn",
+        "start": 29.463,
+        "end": 29.603
+      },
+      {
+        "text": "erlaubt?",
+        "start": 29.643,
+        "end": 30.924
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Klar, warum denn nicht?",
+    "start": 31.384,
+    "end": 32.866,
+    "words": [
+      {
+        "text": "Klar,",
+        "start": 31.384,
+        "end": 31.725
+      },
+      {
+        "text": "warum",
+        "start": 31.765,
+        "end": 32.125
+      },
+      {
+        "text": "denn",
+        "start": 32.145,
+        "end": 32.345
+      },
+      {
+        "text": "nicht?",
+        "start": 32.385,
+        "end": 32.866
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Aber den anderen Kunden?",
+    "start": 32.906,
+    "end": 34.107,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 32.906,
+        "end": 33.126
+      },
+      {
+        "text": "den",
+        "start": 33.146,
+        "end": 33.286
+      },
+      {
+        "text": "anderen",
+        "start": 33.306,
+        "end": 33.626
+      },
+      {
+        "text": "Kunden?",
+        "start": 33.646,
+        "end": 34.107
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ist es bestimmt unangenehm, wenn ein Mann hier rumsteht?",
+    "start": 34.147,
+    "end": 36.329,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 34.147,
+        "end": 34.267
+      },
+      {
+        "text": "es",
+        "start": 34.307,
+        "end": 34.427
+      },
+      {
+        "text": "bestimmt",
+        "start": 34.467,
+        "end": 34.747
+      },
+      {
+        "text": "unangenehm,",
+        "start": 34.767,
+        "end": 35.288
+      },
+      {
+        "text": "wenn",
+        "start": 35.308,
+        "end": 35.428
+      },
+      {
+        "text": "ein",
+        "start": 35.448,
+        "end": 35.568
+      },
+      {
+        "text": "Mann",
+        "start": 35.608,
+        "end": 35.728
+      },
+      {
+        "text": "hier",
+        "start": 35.748,
+        "end": 35.888
+      },
+      {
+        "text": "rumsteht?",
+        "start": 35.908,
+        "end": 36.329
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Oder soll ich lieber rausgehen?",
+    "start": 36.349,
+    "end": 37.61,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 36.349,
+        "end": 36.609
+      },
+      {
+        "text": "soll",
+        "start": 36.629,
+        "end": 36.769
+      },
+      {
+        "text": "ich",
+        "start": 36.809,
+        "end": 36.929
+      },
+      {
+        "text": "lieber",
+        "start": 36.949,
+        "end": 37.129
+      },
+      {
+        "text": "rausgehen?",
+        "start": 37.21,
+        "end": 37.61
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Wir sind doch lauter Pärchen.",
+    "start": 37.63,
+    "end": 38.951,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 37.63,
+        "end": 37.71
+      },
+      {
+        "text": "sind",
+        "start": 37.73,
+        "end": 37.87
+      },
+      {
+        "text": "doch",
+        "start": 37.89,
+        "end": 38.01
+      },
+      {
+        "text": "lauter",
+        "start": 38.05,
+        "end": 38.371
+      },
+      {
+        "text": "Pärchen.",
+        "start": 38.391,
+        "end": 38.951
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das stört niemanden.",
+    "start": 38.971,
+    "end": 40.112,
+    "words": [
+      {
+        "text": "Das",
+        "start": 38.971,
+        "end": 39.091
+      },
+      {
+        "text": "stört",
+        "start": 39.111,
+        "end": 39.372
+      },
+      {
+        "text": "niemanden.",
+        "start": 39.392,
+        "end": 40.112
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Was?",
+    "start": 40.152,
+    "end": 40.232,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 40.152,
+        "end": 40.232
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Das ist mir so unangenehm.",
+    "start": 44.766,
+    "end": 46.447,
+    "words": [
+      {
+        "text": "Das",
+        "start": 44.766,
+        "end": 44.866
+      },
+      {
+        "text": "ist",
+        "start": 44.906,
+        "end": 44.986
+      },
+      {
+        "text": "mir",
+        "start": 45.026,
+        "end": 45.146
+      },
+      {
+        "text": "so",
+        "start": 45.166,
+        "end": 45.287
+      },
+      {
+        "text": "unangenehm.",
+        "start": 45.347,
+        "end": 46.447
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ich bitte dich, beeil dich, Marin.",
+    "start": 46.487,
+    "end": 48.629,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 46.487,
+        "end": 46.627
+      },
+      {
+        "text": "bitte",
+        "start": 46.647,
+        "end": 46.948
+      },
+      {
+        "text": "dich,",
+        "start": 46.988,
+        "end": 47.468
+      },
+      {
+        "text": "beeil",
+        "start": 47.508,
+        "end": 47.908
+      },
+      {
+        "text": "dich,",
+        "start": 47.928,
+        "end": 48.048
+      },
+      {
+        "text": "Marin.",
+        "start": 48.128,
+        "end": 48.629
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Sakana, guck mal!",
+    "start": 48.689,
+    "end": 50.23,
+    "words": [
+      {
+        "text": "Sakana,",
+        "start": 48.689,
+        "end": 49.369
+      },
+      {
+        "text": "guck",
+        "start": 49.409,
+        "end": 49.729
+      },
+      {
+        "text": "mal!",
+        "start": 49.769,
+        "end": 50.23
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Na, was denkst du?",
+    "start": 51.29,
+    "end": 53.412,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 51.29,
+        "end": 51.731
+      },
+      {
+        "text": "was",
+        "start": 51.771,
+        "end": 51.951
+      },
+      {
+        "text": "denkst",
+        "start": 51.991,
+        "end": 52.351
+      },
+      {
+        "text": "du?",
+        "start": 52.371,
+        "end": 53.412
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Sieht gut aus, oder?",
+    "start": 53.452,
+    "end": 56.674,
+    "words": [
+      {
+        "text": "Sieht",
+        "start": 53.452,
+        "end": 53.692
+      },
+      {
+        "text": "gut",
+        "start": 53.732,
+        "end": 54.052
+      },
+      {
+        "text": "aus,",
+        "start": 54.112,
+        "end": 54.332
+      },
+      {
+        "text": "oder?",
+        "start": 54.372,
+        "end": 56.674
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Jeder kann dich sehen!",
+    "start": 56.714,
+    "end": 57.895,
+    "words": [
+      {
+        "text": "Jeder",
+        "start": 56.714,
+        "end": 57.274
+      },
+      {
+        "text": "kann",
+        "start": 57.294,
+        "end": 57.494
+      },
+      {
+        "text": "dich",
+        "start": 57.515,
+        "end": 57.635
+      },
+      {
+        "text": "sehen!",
+        "start": 57.675,
+        "end": 57.895
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Mach bitte wieder zu!",
+    "start": 57.935,
+    "end": 58.975,
+    "words": [
+      {
+        "text": "Mach",
+        "start": 57.935,
+        "end": 58.075
+      },
+      {
+        "text": "bitte",
+        "start": 58.115,
+        "end": 58.295
+      },
+      {
+        "text": "wieder",
+        "start": 58.315,
+        "end": 58.535
+      },
+      {
+        "text": "zu!",
+        "start": 58.575,
+        "end": 58.975
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Guck ruhig!",
+    "start": 59.035,
+    "end": 60.156,
+    "words": [
+      {
+        "text": "Guck",
+        "start": 59.035,
+        "end": 59.256
+      },
+      {
+        "text": "ruhig!",
+        "start": 59.336,
+        "end": 60.156
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ich muss mich doch immerhin dafür bedanken, dass du heute mitgekommen bist.",
+    "start": 60.196,
+    "end": 64.399,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 60.196,
+        "end": 60.316
+      },
+      {
+        "text": "muss",
+        "start": 60.356,
+        "end": 60.536
+      },
+      {
+        "text": "mich",
+        "start": 60.556,
+        "end": 60.697
+      },
+      {
+        "text": "doch",
+        "start": 60.737,
+        "end": 60.877
+      },
+      {
+        "text": "immerhin",
+        "start": 60.917,
+        "end": 61.237
+      },
+      {
+        "text": "dafür",
+        "start": 61.257,
+        "end": 61.497
+      },
+      {
+        "text": "bedanken,",
+        "start": 61.537,
+        "end": 61.937
+      },
+      {
+        "text": "dass",
+        "start": 61.977,
+        "end": 62.158
+      },
+      {
+        "text": "du",
+        "start": 62.198,
+        "end": 62.338
+      },
+      {
+        "text": "heute",
+        "start": 62.358,
+        "end": 62.898
+      },
+      {
+        "text": "mitgekommen",
+        "start": 62.918,
+        "end": 63.618
+      },
+      {
+        "text": "bist.",
+        "start": 63.659,
+        "end": 64.399
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Oder willst du noch mehr nackte Haut sehen?",
+    "start": 64.439,
+    "end": 68.121,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 64.439,
+        "end": 64.679
+      },
+      {
+        "text": "willst",
+        "start": 64.699,
+        "end": 64.919
+      },
+      {
+        "text": "du",
+        "start": 64.959,
+        "end": 65.059
+      },
+      {
+        "text": "noch",
+        "start": 65.079,
+        "end": 65.26
+      },
+      {
+        "text": "mehr",
+        "start": 65.28,
+        "end": 65.48
+      },
+      {
+        "text": "nackte",
+        "start": 65.52,
+        "end": 65.84
+      },
+      {
+        "text": "Haut",
+        "start": 65.88,
+        "end": 66.12
+      },
+      {
+        "text": "sehen?",
+        "start": 66.16,
+        "end": 68.121
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Mann!",
+    "start": 68.201,
+    "end": 68.502,
+    "words": [
+      {
+        "text": "Mann!",
+        "start": 68.201,
+        "end": 68.502
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Hör bitte auf mich zu ärgern, okay?!",
+    "start": 68.742,
+    "end": 70.623,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 68.742,
+        "end": 69.022
+      },
+      {
+        "text": "bitte",
+        "start": 69.062,
+        "end": 69.242
+      },
+      {
+        "text": "auf",
+        "start": 69.262,
+        "end": 69.482
+      },
+      {
+        "text": "mich",
+        "start": 69.502,
+        "end": 69.622
+      },
+      {
+        "text": "zu",
+        "start": 69.662,
+        "end": 69.742
+      },
+      {
+        "text": "ärgern,",
+        "start": 69.823,
+        "end": 70.083
+      },
+      {
+        "text": "okay?!",
+        "start": 70.123,
+        "end": 70.623
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Du kannst ja richtig brüllen!",
+    "start": 70.643,
+    "end": 71.924,
+    "words": [
+      {
+        "text": "Du",
+        "start": 70.643,
+        "end": 70.803
+      },
+      {
+        "text": "kannst",
+        "start": 70.823,
+        "end": 71.063
+      },
+      {
+        "text": "ja",
+        "start": 71.103,
+        "end": 71.223
+      },
+      {
+        "text": "richtig",
+        "start": 71.243,
+        "end": 71.544
+      },
+      {
+        "text": "brüllen!",
+        "start": 71.564,
+        "end": 71.924
+      }
+    ]
+  }
+]

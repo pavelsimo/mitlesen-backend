@@ -1,0 +1,353 @@
+[
+  {
+    "id": 0,
+    "text": " Anja will auf keinen Fall so eine Mama haben!",
+    "start": 0.051,
+    "end": 3.333,
+    "words": [
+      {
+        "text": "Anja",
+        "start": 0.051,
+        "end": 0.511
+      },
+      {
+        "text": "will",
+        "start": 0.551,
+        "end": 0.791
+      },
+      {
+        "text": "auf",
+        "start": 0.831,
+        "end": 0.951
+      },
+      {
+        "text": "keinen",
+        "start": 0.971,
+        "end": 1.252
+      },
+      {
+        "text": "Fall",
+        "start": 1.292,
+        "end": 1.372
+      },
+      {
+        "text": "so",
+        "start": 1.392,
+        "end": 1.532
+      },
+      {
+        "text": "eine",
+        "start": 1.612,
+        "end": 1.792
+      },
+      {
+        "text": "Mama",
+        "start": 1.832,
+        "end": 2.172
+      },
+      {
+        "text": "haben!",
+        "start": 2.232,
+        "end": 3.333
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Kakao ist wirklich toll, weil er lecker und gleichzeitig auch so nahrhaft ist, oder?",
+    "start": 3.353,
+    "end": 6.975,
+    "words": [
+      {
+        "text": "Kakao",
+        "start": 3.353,
+        "end": 3.693
+      },
+      {
+        "text": "ist",
+        "start": 3.733,
+        "end": 3.893
+      },
+      {
+        "text": "wirklich",
+        "start": 3.933,
+        "end": 4.253
+      },
+      {
+        "text": "toll,",
+        "start": 4.273,
+        "end": 4.513
+      },
+      {
+        "text": "weil",
+        "start": 4.533,
+        "end": 4.653
+      },
+      {
+        "text": "er",
+        "start": 4.693,
+        "end": 4.813
+      },
+      {
+        "text": "lecker",
+        "start": 4.833,
+        "end": 5.074
+      },
+      {
+        "text": "und",
+        "start": 5.094,
+        "end": 5.234
+      },
+      {
+        "text": "gleichzeitig",
+        "start": 5.254,
+        "end": 5.754
+      },
+      {
+        "text": "auch",
+        "start": 5.794,
+        "end": 5.934
+      },
+      {
+        "text": "so",
+        "start": 5.954,
+        "end": 6.074
+      },
+      {
+        "text": "nahrhaft",
+        "start": 6.094,
+        "end": 6.474
+      },
+      {
+        "text": "ist,",
+        "start": 6.534,
+        "end": 6.694
+      },
+      {
+        "text": "oder?",
+        "start": 6.734,
+        "end": 6.975
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Anja will jetzt irgendwie mit ihrer lieben Mama kuscheln.",
+    "start": 7.075,
+    "end": 17.0,
+    "words": [
+      {
+        "text": "Anja",
+        "start": 7.075,
+        "end": 11.817
+      },
+      {
+        "text": "will",
+        "start": 11.897,
+        "end": 12.737
+      },
+      {
+        "text": "jetzt",
+        "start": 12.777,
+        "end": 13.278
+      },
+      {
+        "text": "irgendwie",
+        "start": 13.418,
+        "end": 13.898
+      },
+      {
+        "text": "mit",
+        "start": 13.918,
+        "end": 14.078
+      },
+      {
+        "text": "ihrer",
+        "start": 14.118,
+        "end": 14.378
+      },
+      {
+        "text": "lieben",
+        "start": 14.418,
+        "end": 14.738
+      },
+      {
+        "text": "Mama",
+        "start": 14.758,
+        "end": 15.139
+      },
+      {
+        "text": "kuscheln.",
+        "start": 15.179,
+        "end": 17.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wo kommt das denn auf einmal her?",
+    "start": 17.04,
+    "end": 18.921,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 17.04,
+        "end": 17.16
+      },
+      {
+        "text": "kommt",
+        "start": 17.18,
+        "end": 17.36
+      },
+      {
+        "text": "das",
+        "start": 17.4,
+        "end": 17.5
+      },
+      {
+        "text": "denn",
+        "start": 17.52,
+        "end": 17.72
+      },
+      {
+        "text": "auf",
+        "start": 17.76,
+        "end": 17.84
+      },
+      {
+        "text": "einmal",
+        "start": 17.86,
+        "end": 18.18
+      },
+      {
+        "text": "her?",
+        "start": 18.2,
+        "end": 18.921
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Anja liebt ihre Mama wirklich über alles, weil sie ihr immer Kakao macht.",
+    "start": 19.021,
+    "end": 24.383,
+    "words": [
+      {
+        "text": "Anja",
+        "start": 19.021,
+        "end": 19.381
+      },
+      {
+        "text": "liebt",
+        "start": 19.401,
+        "end": 19.581
+      },
+      {
+        "text": "ihre",
+        "start": 19.661,
+        "end": 19.941
+      },
+      {
+        "text": "Mama",
+        "start": 19.961,
+        "end": 20.261
+      },
+      {
+        "text": "wirklich",
+        "start": 20.281,
+        "end": 20.641
+      },
+      {
+        "text": "über",
+        "start": 20.681,
+        "end": 21.122
+      },
+      {
+        "text": "alles,",
+        "start": 21.202,
+        "end": 21.582
+      },
+      {
+        "text": "weil",
+        "start": 21.602,
+        "end": 21.742
+      },
+      {
+        "text": "sie",
+        "start": 21.782,
+        "end": 21.862
+      },
+      {
+        "text": "ihr",
+        "start": 21.902,
+        "end": 22.022
+      },
+      {
+        "text": "immer",
+        "start": 22.062,
+        "end": 22.282
+      },
+      {
+        "text": "Kakao",
+        "start": 22.322,
+        "end": 22.743
+      },
+      {
+        "text": "macht.",
+        "start": 22.783,
+        "end": 24.383
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Anja!",
+    "start": 24.503,
+    "end": 26.124,
+    "words": [
+      {
+        "text": "Anja!",
+        "start": 24.503,
+        "end": 26.124
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "War in dem Kakao irgendwas drin?",
+    "start": 26.164,
+    "end": 27.405,
+    "words": [
+      {
+        "text": "War",
+        "start": 26.164,
+        "end": 26.284
+      },
+      {
+        "text": "in",
+        "start": 26.304,
+        "end": 26.384
+      },
+      {
+        "text": "dem",
+        "start": 26.404,
+        "end": 26.524
+      },
+      {
+        "text": "Kakao",
+        "start": 26.544,
+        "end": 26.865
+      },
+      {
+        "text": "irgendwas",
+        "start": 26.925,
+        "end": 27.245
+      },
+      {
+        "text": "drin?",
+        "start": 27.285,
+        "end": 27.405
+      }
+    ]
+  }
+]

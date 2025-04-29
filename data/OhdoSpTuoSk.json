@@ -1,0 +1,813 @@
+[
+  {
+    "id": 0,
+    "text": " Ich habe früher im Ausland gelebt und war deshalb automatisch an Sprachen und Kulturen interessiert.",
+    "start": 0.651,
+    "end": 8.034,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.651,
+        "end": 0.711
+      },
+      {
+        "text": "habe",
+        "start": 0.751,
+        "end": 0.891
+      },
+      {
+        "text": "früher",
+        "start": 0.931,
+        "end": 1.552
+      },
+      {
+        "text": "im",
+        "start": 1.592,
+        "end": 1.712
+      },
+      {
+        "text": "Ausland",
+        "start": 1.772,
+        "end": 2.152
+      },
+      {
+        "text": "gelebt",
+        "start": 2.172,
+        "end": 3.432
+      },
+      {
+        "text": "und",
+        "start": 3.472,
+        "end": 3.612
+      },
+      {
+        "text": "war",
+        "start": 3.652,
+        "end": 3.793
+      },
+      {
+        "text": "deshalb",
+        "start": 3.833,
+        "end": 4.153
+      },
+      {
+        "text": "automatisch",
+        "start": 4.173,
+        "end": 4.693
+      },
+      {
+        "text": "an",
+        "start": 4.753,
+        "end": 4.873
+      },
+      {
+        "text": "Sprachen",
+        "start": 4.913,
+        "end": 5.253
+      },
+      {
+        "text": "und",
+        "start": 5.273,
+        "end": 5.433
+      },
+      {
+        "text": "Kulturen",
+        "start": 5.473,
+        "end": 5.853
+      },
+      {
+        "text": "interessiert.",
+        "start": 5.893,
+        "end": 8.034
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Diese Faszination begleitet mich bis heute.",
+    "start": 8.054,
+    "end": 11.356,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 8.054,
+        "end": 8.274
+      },
+      {
+        "text": "Faszination",
+        "start": 8.314,
+        "end": 9.095
+      },
+      {
+        "text": "begleitet",
+        "start": 9.115,
+        "end": 9.515
+      },
+      {
+        "text": "mich",
+        "start": 9.535,
+        "end": 9.695
+      },
+      {
+        "text": "bis",
+        "start": 9.715,
+        "end": 9.835
+      },
+      {
+        "text": "heute.",
+        "start": 9.875,
+        "end": 11.356
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Deshalb habe ich meinen Blick immer in die Ferne gerichtet.",
+    "start": 11.396,
+    "end": 15.077,
+    "words": [
+      {
+        "text": "Deshalb",
+        "start": 11.396,
+        "end": 11.636
+      },
+      {
+        "text": "habe",
+        "start": 11.676,
+        "end": 11.776
+      },
+      {
+        "text": "ich",
+        "start": 11.816,
+        "end": 11.916
+      },
+      {
+        "text": "meinen",
+        "start": 11.956,
+        "end": 12.116
+      },
+      {
+        "text": "Blick",
+        "start": 12.136,
+        "end": 12.396
+      },
+      {
+        "text": "immer",
+        "start": 12.416,
+        "end": 12.596
+      },
+      {
+        "text": "in",
+        "start": 12.636,
+        "end": 12.716
+      },
+      {
+        "text": "die",
+        "start": 12.756,
+        "end": 12.816
+      },
+      {
+        "text": "Ferne",
+        "start": 12.856,
+        "end": 13.136
+      },
+      {
+        "text": "gerichtet.",
+        "start": 13.156,
+        "end": 15.077
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wer hätte gedacht, dass ich auch ganz in meiner Nähe fündig werden würde?",
+    "start": 15.097,
+    "end": 17.918,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 15.097,
+        "end": 15.237
+      },
+      {
+        "text": "hätte",
+        "start": 15.257,
+        "end": 15.497
+      },
+      {
+        "text": "gedacht,",
+        "start": 15.537,
+        "end": 15.777
+      },
+      {
+        "text": "dass",
+        "start": 15.797,
+        "end": 15.957
+      },
+      {
+        "text": "ich",
+        "start": 15.997,
+        "end": 16.097
+      },
+      {
+        "text": "auch",
+        "start": 16.117,
+        "end": 16.258
+      },
+      {
+        "text": "ganz",
+        "start": 16.278,
+        "end": 16.438
+      },
+      {
+        "text": "in",
+        "start": 16.458,
+        "end": 16.558
+      },
+      {
+        "text": "meiner",
+        "start": 16.578,
+        "end": 16.778
+      },
+      {
+        "text": "Nähe",
+        "start": 16.798,
+        "end": 17.038
+      },
+      {
+        "text": "fündig",
+        "start": 17.078,
+        "end": 17.398
+      },
+      {
+        "text": "werden",
+        "start": 17.418,
+        "end": 17.638
+      },
+      {
+        "text": "würde?",
+        "start": 17.678,
+        "end": 17.918
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Hm?",
+    "start": 21.62,
+    "end": 23.02,
+    "words": [
+      {
+        "text": "Hm?",
+        "start": 21.62,
+        "end": 23.02
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Hat er etwas gesagt?",
+    "start": 23.06,
+    "end": 24.881,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 23.06,
+        "end": 23.18
+      },
+      {
+        "text": "er",
+        "start": 23.22,
+        "end": 23.32
+      },
+      {
+        "text": "etwas",
+        "start": 23.36,
+        "end": 23.66
+      },
+      {
+        "text": "gesagt?",
+        "start": 23.701,
+        "end": 24.881
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Möchtest du mich wirklich besser kennenlernen, Yuki?",
+    "start": 24.921,
+    "end": 26.862,
+    "words": [
+      {
+        "text": "Möchtest",
+        "start": 24.921,
+        "end": 25.221
+      },
+      {
+        "text": "du",
+        "start": 25.241,
+        "end": 25.341
+      },
+      {
+        "text": "mich",
+        "start": 25.361,
+        "end": 25.521
+      },
+      {
+        "text": "wirklich",
+        "start": 25.541,
+        "end": 25.841
+      },
+      {
+        "text": "besser",
+        "start": 25.861,
+        "end": 26.101
+      },
+      {
+        "text": "kennenlernen,",
+        "start": 26.121,
+        "end": 26.622
+      },
+      {
+        "text": "Yuki?",
+        "start": 26.642,
+        "end": 26.862
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Was ist die Gebärde für mehr?",
+    "start": 31.534,
+    "end": 32.674,
+    "words": [
+      {
+        "text": "Was",
+        "start": 31.534,
+        "end": 31.634
+      },
+      {
+        "text": "ist",
+        "start": 31.674,
+        "end": 31.774
+      },
+      {
+        "text": "die",
+        "start": 31.794,
+        "end": 31.874
+      },
+      {
+        "text": "Gebärde",
+        "start": 31.914,
+        "end": 32.254
+      },
+      {
+        "text": "für",
+        "start": 32.274,
+        "end": 32.454
+      },
+      {
+        "text": "mehr?",
+        "start": 32.494,
+        "end": 32.674
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Mehr.",
+    "start": 34.535,
+    "end": 35.735,
+    "words": [
+      {
+        "text": "Mehr.",
+        "start": 34.535,
+        "end": 35.735
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Mehr.",
+    "start": 35.755,
+    "end": 38.356,
+    "words": [
+      {
+        "text": "Mehr.",
+        "start": 35.755,
+        "end": 38.356
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Mehr.",
+    "start": 38.376,
+    "end": 40.596,
+    "words": [
+      {
+        "text": "Mehr.",
+        "start": 38.376,
+        "end": 40.596
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Mehr.",
+    "start": 40.656,
+    "end": 40.916,
+    "words": [
+      {
+        "text": "Mehr.",
+        "start": 40.656,
+        "end": 40.916
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Mehr.",
+    "start": 40.936,
+    "end": 41.076,
+    "words": [
+      {
+        "text": "Mehr.",
+        "start": 40.936,
+        "end": 41.076
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Ich versteh's schon.",
+    "start": 64.908,
+    "end": 66.228,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 64.908,
+        "end": 65.028
+      },
+      {
+        "text": "versteh's",
+        "start": 65.068,
+        "end": 65.328
+      },
+      {
+        "text": "schon.",
+        "start": 65.348,
+        "end": 66.228
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ich versteh's schon.",
+    "start": 66.309,
+    "end": 70.49,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 66.309,
+        "end": 66.469
+      },
+      {
+        "text": "versteh's",
+        "start": 66.509,
+        "end": 66.769
+      },
+      {
+        "text": "schon.",
+        "start": 66.789,
+        "end": 70.49
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Obwohl er nur meine Hände festhält, fühlt es sich so an, als hätte er mich komplett im Griff.",
+    "start": 70.55,
+    "end": 76.692,
+    "words": [
+      {
+        "text": "Obwohl",
+        "start": 70.55,
+        "end": 70.87
+      },
+      {
+        "text": "er",
+        "start": 70.91,
+        "end": 71.05
+      },
+      {
+        "text": "nur",
+        "start": 71.07,
+        "end": 71.19
+      },
+      {
+        "text": "meine",
+        "start": 71.21,
+        "end": 71.43
+      },
+      {
+        "text": "Hände",
+        "start": 71.47,
+        "end": 71.75
+      },
+      {
+        "text": "festhält,",
+        "start": 71.79,
+        "end": 72.71
+      },
+      {
+        "text": "fühlt",
+        "start": 72.751,
+        "end": 72.951
+      },
+      {
+        "text": "es",
+        "start": 72.991,
+        "end": 73.111
+      },
+      {
+        "text": "sich",
+        "start": 73.151,
+        "end": 73.311
+      },
+      {
+        "text": "so",
+        "start": 73.351,
+        "end": 73.471
+      },
+      {
+        "text": "an,",
+        "start": 73.511,
+        "end": 73.751
+      },
+      {
+        "text": "als",
+        "start": 73.791,
+        "end": 73.971
+      },
+      {
+        "text": "hätte",
+        "start": 73.991,
+        "end": 74.191
+      },
+      {
+        "text": "er",
+        "start": 74.231,
+        "end": 74.351
+      },
+      {
+        "text": "mich",
+        "start": 74.371,
+        "end": 74.531
+      },
+      {
+        "text": "komplett",
+        "start": 74.571,
+        "end": 74.931
+      },
+      {
+        "text": "im",
+        "start": 74.971,
+        "end": 75.071
+      },
+      {
+        "text": "Griff.",
+        "start": 75.111,
+        "end": 76.692
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Und wenn er dabei so cool bleibt, klopft mein Herz erst recht wie wild.",
+    "start": 76.732,
+    "end": 83.514,
+    "words": [
+      {
+        "text": "Und",
+        "start": 76.732,
+        "end": 76.912
+      },
+      {
+        "text": "wenn",
+        "start": 76.932,
+        "end": 77.072
+      },
+      {
+        "text": "er",
+        "start": 77.112,
+        "end": 77.192
+      },
+      {
+        "text": "dabei",
+        "start": 77.232,
+        "end": 77.452
+      },
+      {
+        "text": "so",
+        "start": 77.492,
+        "end": 77.652
+      },
+      {
+        "text": "cool",
+        "start": 77.692,
+        "end": 77.932
+      },
+      {
+        "text": "bleibt,",
+        "start": 77.952,
+        "end": 78.992
+      },
+      {
+        "text": "klopft",
+        "start": 79.032,
+        "end": 79.413
+      },
+      {
+        "text": "mein",
+        "start": 79.453,
+        "end": 79.613
+      },
+      {
+        "text": "Herz",
+        "start": 79.633,
+        "end": 79.773
+      },
+      {
+        "text": "erst",
+        "start": 79.833,
+        "end": 80.013
+      },
+      {
+        "text": "recht",
+        "start": 80.053,
+        "end": 80.293
+      },
+      {
+        "text": "wie",
+        "start": 80.313,
+        "end": 80.433
+      },
+      {
+        "text": "wild.",
+        "start": 80.473,
+        "end": 83.514
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Warum?",
+    "start": 83.574,
+    "end": 85.815,
+    "words": [
+      {
+        "text": "Warum?",
+        "start": 83.574,
+        "end": 85.815
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Tu es vraiment, Mignon.",
+    "start": 85.855,
+    "end": 87.235,
+    "words": [
+      {
+        "text": "Tu",
+        "start": 85.855,
+        "end": 85.995
+      },
+      {
+        "text": "es",
+        "start": 86.095,
+        "end": 86.275
+      },
+      {
+        "text": "vraiment,",
+        "start": 86.315,
+        "end": 86.775
+      },
+      {
+        "text": "Mignon.",
+        "start": 86.795,
+        "end": 87.235
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Hat er das etwa nur gemacht, um mich aufzuziehen?",
+    "start": 98.962,
+    "end": 102.028,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 98.962,
+        "end": 99.103
+      },
+      {
+        "text": "er",
+        "start": 99.143,
+        "end": 99.183
+      },
+      {
+        "text": "das",
+        "start": 99.203,
+        "end": 99.343
+      },
+      {
+        "text": "etwa",
+        "start": 99.363,
+        "end": 99.543
+      },
+      {
+        "text": "nur",
+        "start": 99.584,
+        "end": 99.704
+      },
+      {
+        "text": "gemacht,",
+        "start": 99.724,
+        "end": 100.004
+      },
+      {
+        "text": "um",
+        "start": 100.044,
+        "end": 100.125
+      },
+      {
+        "text": "mich",
+        "start": 100.145,
+        "end": 100.305
+      },
+      {
+        "text": "aufzuziehen?",
+        "start": 100.325,
+        "end": 102.028
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Aber... das ist schon okay.",
+    "start": 102.088,
+    "end": 105.213,
+    "words": [
+      {
+        "text": "Aber...",
+        "start": 102.088,
+        "end": 103.11
+      },
+      {
+        "text": "das",
+        "start": 103.15,
+        "end": 103.27
+      },
+      {
+        "text": "ist",
+        "start": 103.31,
+        "end": 103.43
+      },
+      {
+        "text": "schon",
+        "start": 103.45,
+        "end": 103.631
+      },
+      {
+        "text": "okay.",
+        "start": 103.671,
+        "end": 105.213
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Solange er lacht.",
+    "start": 105.253,
+    "end": 106.075,
+    "words": [
+      {
+        "text": "Solange",
+        "start": 105.253,
+        "end": 105.654
+      },
+      {
+        "text": "er",
+        "start": 105.714,
+        "end": 105.814
+      },
+      {
+        "text": "lacht.",
+        "start": 105.854,
+        "end": 106.075
+      }
+    ]
+  }
+]
