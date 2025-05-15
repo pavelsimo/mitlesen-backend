@@ -1,0 +1,219 @@
+[
+  {
+    "id": 0,
+    "text": " Eins ist klar.",
+    "start": 6.015,
+    "end": 7.536,
+    "words": [
+      {
+        "text": "Eins",
+        "start": 6.015,
+        "end": 6.255
+      },
+      {
+        "text": "ist",
+        "start": 6.295,
+        "end": 6.496
+      },
+      {
+        "text": "klar.",
+        "start": 6.516,
+        "end": 7.536
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das Gift in diesem See stammt nicht aus den Mähen.",
+    "start": 7.576,
+    "end": 9.778,
+    "words": [
+      {
+        "text": "Das",
+        "start": 7.576,
+        "end": 7.776
+      },
+      {
+        "text": "Gift",
+        "start": 7.816,
+        "end": 8.057
+      },
+      {
+        "text": "in",
+        "start": 8.097,
+        "end": 8.157
+      },
+      {
+        "text": "diesem",
+        "start": 8.197,
+        "end": 8.357
+      },
+      {
+        "text": "See",
+        "start": 8.457,
+        "end": 8.617
+      },
+      {
+        "text": "stammt",
+        "start": 8.637,
+        "end": 8.937
+      },
+      {
+        "text": "nicht",
+        "start": 8.977,
+        "end": 9.157
+      },
+      {
+        "text": "aus",
+        "start": 9.197,
+        "end": 9.338
+      },
+      {
+        "text": "den",
+        "start": 9.378,
+        "end": 9.498
+      },
+      {
+        "text": "Mähen.",
+        "start": 9.538,
+        "end": 9.778
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": " Also doch.",
+    "start": 42.778,
+    "end": 43.138,
+    "words": [
+      {
+        "text": "Also",
+        "start": 42.778,
+        "end": 43.018
+      },
+      {
+        "text": "doch.",
+        "start": 43.038,
+        "end": 43.138
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Verschläge alle!",
+    "start": 43.158,
+    "end": 43.879,
+    "words": [
+      {
+        "text": "Verschläge",
+        "start": 43.158,
+        "end": 43.679
+      },
+      {
+        "text": "alle!",
+        "start": 43.759,
+        "end": 43.879
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Los, Wildeboot!",
+    "start": 43.899,
+    "end": 44.519,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 43.899,
+        "end": 44.059
+      },
+      {
+        "text": "Wildeboot!",
+        "start": 44.079,
+        "end": 44.519
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Bericht.",
+    "start": 86.753,
+    "end": 87.255,
+    "words": [
+      {
+        "text": "Bericht.",
+        "start": 86.753,
+        "end": 87.255
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Die Entgiftung des Wassers ist abgeschlossen.",
+    "start": 87.275,
+    "end": 89.406,
+    "words": [
+      {
+        "text": "Die",
+        "start": 87.275,
+        "end": 87.376
+      },
+      {
+        "text": "Entgiftung",
+        "start": 87.416,
+        "end": 87.878
+      },
+      {
+        "text": "des",
+        "start": 87.919,
+        "end": 88.039
+      },
+      {
+        "text": "Wassers",
+        "start": 88.08,
+        "end": 88.361
+      },
+      {
+        "text": "ist",
+        "start": 88.401,
+        "end": 88.582
+      },
+      {
+        "text": "abgeschlossen.",
+        "start": 88.622,
+        "end": 89.406
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Sehr gut.",
+    "start": 89.447,
+    "end": 89.808,
+    "words": [
+      {
+        "text": "Sehr",
+        "start": 89.447,
+        "end": 89.668
+      },
+      {
+        "text": "gut.",
+        "start": 89.688,
+        "end": 89.808
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Haha!",
+    "start": 115.625,
+    "end": 115.745,
+    "words": [
+      {
+        "text": "Haha!",
+        "start": 115.625,
+        "end": 115.745
+      }
+    ]
+  }
+]

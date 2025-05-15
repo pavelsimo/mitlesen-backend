@@ -1,0 +1,764 @@
+[
+  {
+    "id": 0,
+    "text": " Toya, ich wollte mich noch bei dir bedanken.",
+    "start": 6.251,
+    "end": 10.132,
+    "words": [
+      {
+        "text": "Toya,",
+        "start": 6.251,
+        "end": 7.011
+      },
+      {
+        "text": "ich",
+        "start": 7.051,
+        "end": 7.151
+      },
+      {
+        "text": "wollte",
+        "start": 7.191,
+        "end": 7.451
+      },
+      {
+        "text": "mich",
+        "start": 7.471,
+        "end": 7.631
+      },
+      {
+        "text": "noch",
+        "start": 7.671,
+        "end": 7.851
+      },
+      {
+        "text": "bei",
+        "start": 7.871,
+        "end": 8.011
+      },
+      {
+        "text": "dir",
+        "start": 8.031,
+        "end": 8.151
+      },
+      {
+        "text": "bedanken.",
+        "start": 8.192,
+        "end": 10.132
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich habe in der kurzen Zeit, in der ich hier bin, wirklich schon so einiges lernen dürfen.",
+    "start": 10.172,
+    "end": 15.253,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 10.172,
+        "end": 10.292
+      },
+      {
+        "text": "habe",
+        "start": 10.332,
+        "end": 11.132
+      },
+      {
+        "text": "in",
+        "start": 11.172,
+        "end": 11.272
+      },
+      {
+        "text": "der",
+        "start": 11.312,
+        "end": 11.452
+      },
+      {
+        "text": "kurzen",
+        "start": 11.492,
+        "end": 11.832
+      },
+      {
+        "text": "Zeit,",
+        "start": 11.872,
+        "end": 12.072
+      },
+      {
+        "text": "in",
+        "start": 12.112,
+        "end": 12.212
+      },
+      {
+        "text": "der",
+        "start": 12.252,
+        "end": 12.392
+      },
+      {
+        "text": "ich",
+        "start": 12.432,
+        "end": 12.572
+      },
+      {
+        "text": "hier",
+        "start": 12.593,
+        "end": 12.753
+      },
+      {
+        "text": "bin,",
+        "start": 12.773,
+        "end": 13.013
+      },
+      {
+        "text": "wirklich",
+        "start": 13.053,
+        "end": 13.353
+      },
+      {
+        "text": "schon",
+        "start": 13.373,
+        "end": 13.593
+      },
+      {
+        "text": "so",
+        "start": 13.633,
+        "end": 13.793
+      },
+      {
+        "text": "einiges",
+        "start": 13.813,
+        "end": 14.153
+      },
+      {
+        "text": "lernen",
+        "start": 14.193,
+        "end": 14.433
+      },
+      {
+        "text": "dürfen.",
+        "start": 14.473,
+        "end": 15.253
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sei es kochen oder auch die Dinge über mich selbst.",
+    "start": 15.273,
+    "end": 18.754,
+    "words": [
+      {
+        "text": "Sei",
+        "start": 15.273,
+        "end": 15.413
+      },
+      {
+        "text": "es",
+        "start": 15.453,
+        "end": 15.613
+      },
+      {
+        "text": "kochen",
+        "start": 15.653,
+        "end": 16.073
+      },
+      {
+        "text": "oder",
+        "start": 16.113,
+        "end": 16.293
+      },
+      {
+        "text": "auch",
+        "start": 16.313,
+        "end": 16.493
+      },
+      {
+        "text": "die",
+        "start": 16.513,
+        "end": 16.653
+      },
+      {
+        "text": "Dinge",
+        "start": 16.673,
+        "end": 16.913
+      },
+      {
+        "text": "über",
+        "start": 16.953,
+        "end": 17.134
+      },
+      {
+        "text": "mich",
+        "start": 17.174,
+        "end": 17.394
+      },
+      {
+        "text": "selbst.",
+        "start": 17.434,
+        "end": 18.754
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Seitdem wir uns beide kennengelernt haben, genieße ich jeden Tag.",
+    "start": 18.794,
+    "end": 23.335,
+    "words": [
+      {
+        "text": "Seitdem",
+        "start": 18.794,
+        "end": 19.174
+      },
+      {
+        "text": "wir",
+        "start": 19.194,
+        "end": 19.314
+      },
+      {
+        "text": "uns",
+        "start": 19.354,
+        "end": 19.514
+      },
+      {
+        "text": "beide",
+        "start": 19.554,
+        "end": 20.314
+      },
+      {
+        "text": "kennengelernt",
+        "start": 20.354,
+        "end": 20.994
+      },
+      {
+        "text": "haben,",
+        "start": 21.014,
+        "end": 21.374
+      },
+      {
+        "text": "genieße",
+        "start": 21.415,
+        "end": 21.795
+      },
+      {
+        "text": "ich",
+        "start": 21.835,
+        "end": 22.035
+      },
+      {
+        "text": "jeden",
+        "start": 22.075,
+        "end": 22.355
+      },
+      {
+        "text": "Tag.",
+        "start": 22.415,
+        "end": 23.335
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Lu, ich... Der kommt zwar spät, aber von Herzen.",
+    "start": 23.375,
+    "end": 29.276,
+    "words": [
+      {
+        "text": "Lu,",
+        "start": 23.375,
+        "end": 23.675
+      },
+      {
+        "text": "ich...",
+        "start": 23.735,
+        "end": 26.476
+      },
+      {
+        "text": "Der",
+        "start": 26.496,
+        "end": 26.676
+      },
+      {
+        "text": "kommt",
+        "start": 26.696,
+        "end": 26.916
+      },
+      {
+        "text": "zwar",
+        "start": 26.936,
+        "end": 27.116
+      },
+      {
+        "text": "spät,",
+        "start": 27.156,
+        "end": 27.456
+      },
+      {
+        "text": "aber",
+        "start": 27.496,
+        "end": 27.696
+      },
+      {
+        "text": "von",
+        "start": 27.716,
+        "end": 27.876
+      },
+      {
+        "text": "Herzen.",
+        "start": 27.916,
+        "end": 29.276
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Die Hochzeit ist noch weit entfernt, aber der soll uns verbinden.",
+    "start": 29.296,
+    "end": 32.277,
+    "words": [
+      {
+        "text": "Die",
+        "start": 29.296,
+        "end": 29.396
+      },
+      {
+        "text": "Hochzeit",
+        "start": 29.436,
+        "end": 29.736
+      },
+      {
+        "text": "ist",
+        "start": 29.796,
+        "end": 29.876
+      },
+      {
+        "text": "noch",
+        "start": 29.916,
+        "end": 30.036
+      },
+      {
+        "text": "weit",
+        "start": 30.076,
+        "end": 30.197
+      },
+      {
+        "text": "entfernt,",
+        "start": 30.217,
+        "end": 31.177
+      },
+      {
+        "text": "aber",
+        "start": 31.237,
+        "end": 31.477
+      },
+      {
+        "text": "der",
+        "start": 31.497,
+        "end": 31.597
+      },
+      {
+        "text": "soll",
+        "start": 31.637,
+        "end": 31.777
+      },
+      {
+        "text": "uns",
+        "start": 31.797,
+        "end": 31.917
+      },
+      {
+        "text": "verbinden.",
+        "start": 31.957,
+        "end": 32.277
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Ich bin so glücklich.",
+    "start": 35.323,
+    "end": 37.045,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 35.323,
+        "end": 35.403
+      },
+      {
+        "text": "bin",
+        "start": 35.423,
+        "end": 35.563
+      },
+      {
+        "text": "so",
+        "start": 35.603,
+        "end": 35.704
+      },
+      {
+        "text": "glücklich.",
+        "start": 35.724,
+        "end": 37.045
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Jetzt kann ich allen zeigen, dass Mochizuki Toya mein Verlobter ist.",
+    "start": 37.085,
+    "end": 43.49,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 37.085,
+        "end": 37.285
+      },
+      {
+        "text": "kann",
+        "start": 37.305,
+        "end": 37.465
+      },
+      {
+        "text": "ich",
+        "start": 37.505,
+        "end": 37.705
+      },
+      {
+        "text": "allen",
+        "start": 37.745,
+        "end": 38.006
+      },
+      {
+        "text": "zeigen,",
+        "start": 38.046,
+        "end": 38.326
+      },
+      {
+        "text": "dass",
+        "start": 38.366,
+        "end": 38.566
+      },
+      {
+        "text": "Mochizuki",
+        "start": 38.606,
+        "end": 39.367
+      },
+      {
+        "text": "Toya",
+        "start": 39.407,
+        "end": 39.847
+      },
+      {
+        "text": "mein",
+        "start": 39.887,
+        "end": 40.087
+      },
+      {
+        "text": "Verlobter",
+        "start": 40.127,
+        "end": 40.708
+      },
+      {
+        "text": "ist.",
+        "start": 40.788,
+        "end": 43.49
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich hätte ihn ihr viel früher geben sollen.",
+    "start": 43.651,
+    "end": 45.552,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 43.651,
+        "end": 43.791
+      },
+      {
+        "text": "hätte",
+        "start": 43.831,
+        "end": 44.071
+      },
+      {
+        "text": "ihn",
+        "start": 44.111,
+        "end": 44.251
+      },
+      {
+        "text": "ihr",
+        "start": 44.291,
+        "end": 44.451
+      },
+      {
+        "text": "viel",
+        "start": 44.491,
+        "end": 44.691
+      },
+      {
+        "text": "früher",
+        "start": 44.732,
+        "end": 44.972
+      },
+      {
+        "text": "geben",
+        "start": 45.012,
+        "end": 45.272
+      },
+      {
+        "text": "sollen.",
+        "start": 45.312,
+        "end": 45.552
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Gar nichts.",
+    "start": 47.794,
+    "end": 50.877,
+    "words": [
+      {
+        "text": "Gar",
+        "start": 47.794,
+        "end": 48.515
+      },
+      {
+        "text": "nichts.",
+        "start": 48.595,
+        "end": 50.877
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wahrscheinlich wirken wir gerade eher wie ein nettes Geschwisterpaar.",
+    "start": 50.897,
+    "end": 55.821,
+    "words": [
+      {
+        "text": "Wahrscheinlich",
+        "start": 50.897,
+        "end": 51.457
+      },
+      {
+        "text": "wirken",
+        "start": 51.497,
+        "end": 51.778
+      },
+      {
+        "text": "wir",
+        "start": 51.798,
+        "end": 51.978
+      },
+      {
+        "text": "gerade",
+        "start": 52.018,
+        "end": 52.378
+      },
+      {
+        "text": "eher",
+        "start": 52.418,
+        "end": 52.659
+      },
+      {
+        "text": "wie",
+        "start": 52.679,
+        "end": 52.819
+      },
+      {
+        "text": "ein",
+        "start": 52.839,
+        "end": 52.959
+      },
+      {
+        "text": "nettes",
+        "start": 52.999,
+        "end": 53.339
+      },
+      {
+        "text": "Geschwisterpaar.",
+        "start": 53.359,
+        "end": 55.821
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Naja, es hat ja keine Eile.",
+    "start": 55.861,
+    "end": 57.463,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 55.861,
+        "end": 56.442
+      },
+      {
+        "text": "es",
+        "start": 56.502,
+        "end": 56.582
+      },
+      {
+        "text": "hat",
+        "start": 56.622,
+        "end": 56.742
+      },
+      {
+        "text": "ja",
+        "start": 56.762,
+        "end": 56.942
+      },
+      {
+        "text": "keine",
+        "start": 56.962,
+        "end": 57.223
+      },
+      {
+        "text": "Eile.",
+        "start": 57.283,
+        "end": 57.463
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Sicher sehen wir bald wie ein Liebespaar und mit der Zeit wie ein echtes Ehepaar aus.",
+    "start": 66.518,
+    "end": 74.567,
+    "words": [
+      {
+        "text": "Sicher",
+        "start": 66.518,
+        "end": 66.759
+      },
+      {
+        "text": "sehen",
+        "start": 66.779,
+        "end": 66.979
+      },
+      {
+        "text": "wir",
+        "start": 67.019,
+        "end": 67.159
+      },
+      {
+        "text": "bald",
+        "start": 67.179,
+        "end": 67.339
+      },
+      {
+        "text": "wie",
+        "start": 67.359,
+        "end": 67.499
+      },
+      {
+        "text": "ein",
+        "start": 67.539,
+        "end": 67.66
+      },
+      {
+        "text": "Liebespaar",
+        "start": 67.7,
+        "end": 68.561
+      },
+      {
+        "text": "und",
+        "start": 68.601,
+        "end": 68.721
+      },
+      {
+        "text": "mit",
+        "start": 68.761,
+        "end": 68.861
+      },
+      {
+        "text": "der",
+        "start": 68.881,
+        "end": 69.001
+      },
+      {
+        "text": "Zeit",
+        "start": 69.021,
+        "end": 69.201
+      },
+      {
+        "text": "wie",
+        "start": 69.221,
+        "end": 69.341
+      },
+      {
+        "text": "ein",
+        "start": 69.381,
+        "end": 69.502
+      },
+      {
+        "text": "echtes",
+        "start": 69.562,
+        "end": 69.842
+      },
+      {
+        "text": "Ehepaar",
+        "start": 69.902,
+        "end": 70.322
+      },
+      {
+        "text": "aus.",
+        "start": 70.402,
+        "end": 74.567
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Dann werden wir noch lange in diesem Land zusammenleben.",
+    "start": 74.607,
+    "end": 77.29,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 74.607,
+        "end": 74.887
+      },
+      {
+        "text": "werden",
+        "start": 74.927,
+        "end": 75.148
+      },
+      {
+        "text": "wir",
+        "start": 75.168,
+        "end": 75.308
+      },
+      {
+        "text": "noch",
+        "start": 75.328,
+        "end": 75.528
+      },
+      {
+        "text": "lange",
+        "start": 75.568,
+        "end": 75.928
+      },
+      {
+        "text": "in",
+        "start": 75.968,
+        "end": 76.048
+      },
+      {
+        "text": "diesem",
+        "start": 76.069,
+        "end": 76.309
+      },
+      {
+        "text": "Land",
+        "start": 76.349,
+        "end": 76.629
+      },
+      {
+        "text": "zusammenleben.",
+        "start": 76.669,
+        "end": 77.29
+      }
+    ]
+  }
+]

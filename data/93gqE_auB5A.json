@@ -1,0 +1,1640 @@
+[
+  {
+    "id": 0,
+    "text": " Danke fürs Warten.",
+    "start": 3.488,
+    "end": 5.409,
+    "words": [
+      {
+        "text": "Danke",
+        "start": 3.488,
+        "end": 3.668
+      },
+      {
+        "text": "fürs",
+        "start": 3.708,
+        "end": 3.868
+      },
+      {
+        "text": "Warten.",
+        "start": 3.908,
+        "end": 5.409
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ist gesundheitlich mit dir alles okay?",
+    "start": 5.449,
+    "end": 7.17,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 5.449,
+        "end": 5.649
+      },
+      {
+        "text": "gesundheitlich",
+        "start": 5.669,
+        "end": 6.149
+      },
+      {
+        "text": "mit",
+        "start": 6.189,
+        "end": 6.269
+      },
+      {
+        "text": "dir",
+        "start": 6.289,
+        "end": 6.409
+      },
+      {
+        "text": "alles",
+        "start": 6.449,
+        "end": 6.629
+      },
+      {
+        "text": "okay?",
+        "start": 6.689,
+        "end": 7.17
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ja, es war einfach nur eine Nachfolgeuntersuchung.",
+    "start": 7.21,
+    "end": 11.811,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 7.21,
+        "end": 7.93
+      },
+      {
+        "text": "es",
+        "start": 7.97,
+        "end": 8.07
+      },
+      {
+        "text": "war",
+        "start": 8.11,
+        "end": 8.23
+      },
+      {
+        "text": "einfach",
+        "start": 8.25,
+        "end": 8.53
+      },
+      {
+        "text": "nur",
+        "start": 8.55,
+        "end": 8.67
+      },
+      {
+        "text": "eine",
+        "start": 8.71,
+        "end": 8.89
+      },
+      {
+        "text": "Nachfolgeuntersuchung.",
+        "start": 8.93,
+        "end": 11.811
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und ich hab noch so darüber gegrübelt, wohin du mit mir gehen willst.",
+    "start": 11.851,
+    "end": 15.293,
+    "words": [
+      {
+        "text": "Und",
+        "start": 11.851,
+        "end": 12.011
+      },
+      {
+        "text": "ich",
+        "start": 12.051,
+        "end": 12.152
+      },
+      {
+        "text": "hab",
+        "start": 12.172,
+        "end": 12.332
+      },
+      {
+        "text": "noch",
+        "start": 12.372,
+        "end": 12.532
+      },
+      {
+        "text": "so",
+        "start": 12.552,
+        "end": 12.692
+      },
+      {
+        "text": "darüber",
+        "start": 12.712,
+        "end": 13.112
+      },
+      {
+        "text": "gegrübelt,",
+        "start": 13.152,
+        "end": 13.612
+      },
+      {
+        "text": "wohin",
+        "start": 13.652,
+        "end": 13.872
+      },
+      {
+        "text": "du",
+        "start": 13.912,
+        "end": 14.012
+      },
+      {
+        "text": "mit",
+        "start": 14.032,
+        "end": 14.152
+      },
+      {
+        "text": "mir",
+        "start": 14.192,
+        "end": 14.312
+      },
+      {
+        "text": "gehen",
+        "start": 14.332,
+        "end": 14.613
+      },
+      {
+        "text": "willst.",
+        "start": 14.653,
+        "end": 15.293
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Naja, Shido hat heute leider keine Zeit.",
+    "start": 15.333,
+    "end": 18.194,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 15.333,
+        "end": 16.233
+      },
+      {
+        "text": "Shido",
+        "start": 16.273,
+        "end": 16.613
+      },
+      {
+        "text": "hat",
+        "start": 16.633,
+        "end": 16.793
+      },
+      {
+        "text": "heute",
+        "start": 16.813,
+        "end": 17.033
+      },
+      {
+        "text": "leider",
+        "start": 17.073,
+        "end": 17.334
+      },
+      {
+        "text": "keine",
+        "start": 17.354,
+        "end": 17.634
+      },
+      {
+        "text": "Zeit.",
+        "start": 17.674,
+        "end": 18.194
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Schon klar.",
+    "start": 18.234,
+    "end": 19.274,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 18.234,
+        "end": 18.514
+      },
+      {
+        "text": "klar.",
+        "start": 18.554,
+        "end": 19.274
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Und ich darf jetzt für sie einspringen.",
+    "start": 19.314,
+    "end": 21.935,
+    "words": [
+      {
+        "text": "Und",
+        "start": 19.314,
+        "end": 19.454
+      },
+      {
+        "text": "ich",
+        "start": 19.494,
+        "end": 19.594
+      },
+      {
+        "text": "darf",
+        "start": 19.615,
+        "end": 19.775
+      },
+      {
+        "text": "jetzt",
+        "start": 19.795,
+        "end": 19.955
+      },
+      {
+        "text": "für",
+        "start": 19.995,
+        "end": 20.095
+      },
+      {
+        "text": "sie",
+        "start": 20.135,
+        "end": 20.275
+      },
+      {
+        "text": "einspringen.",
+        "start": 20.295,
+        "end": 21.935
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Hattest du eher mit einem romantischen Ort für ein Date gerechnet?",
+    "start": 21.955,
+    "end": 24.817,
+    "words": [
+      {
+        "text": "Hattest",
+        "start": 21.955,
+        "end": 22.236
+      },
+      {
+        "text": "du",
+        "start": 22.276,
+        "end": 22.396
+      },
+      {
+        "text": "eher",
+        "start": 22.416,
+        "end": 22.596
+      },
+      {
+        "text": "mit",
+        "start": 22.616,
+        "end": 22.736
+      },
+      {
+        "text": "einem",
+        "start": 22.776,
+        "end": 22.916
+      },
+      {
+        "text": "romantischen",
+        "start": 22.996,
+        "end": 23.576
+      },
+      {
+        "text": "Ort",
+        "start": 23.616,
+        "end": 23.716
+      },
+      {
+        "text": "für",
+        "start": 23.756,
+        "end": 23.856
+      },
+      {
+        "text": "ein",
+        "start": 23.896,
+        "end": 23.996
+      },
+      {
+        "text": "Date",
+        "start": 24.036,
+        "end": 24.256
+      },
+      {
+        "text": "gerechnet?",
+        "start": 24.276,
+        "end": 24.817
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Was?",
+    "start": 24.977,
+    "end": 25.637,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 24.977,
+        "end": 25.637
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Nein, ich... Gehen wir etwas spazieren.",
+    "start": 25.677,
+    "end": 27.958,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 25.677,
+        "end": 26.057
+      },
+      {
+        "text": "ich...",
+        "start": 26.117,
+        "end": 26.637
+      },
+      {
+        "text": "Gehen",
+        "start": 26.657,
+        "end": 26.957
+      },
+      {
+        "text": "wir",
+        "start": 26.977,
+        "end": 27.097
+      },
+      {
+        "text": "etwas",
+        "start": 27.158,
+        "end": 27.458
+      },
+      {
+        "text": "spazieren.",
+        "start": 27.478,
+        "end": 27.958
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Genügend Schritte zu machen und den eigenen Gedanken freien Lauf zu lassen ist beides sehr gut für die eigene Gesundheit.",
+    "start": 31.111,
+    "end": 36.796,
+    "words": [
+      {
+        "text": "Genügend",
+        "start": 31.111,
+        "end": 31.432
+      },
+      {
+        "text": "Schritte",
+        "start": 31.452,
+        "end": 31.812
+      },
+      {
+        "text": "zu",
+        "start": 31.832,
+        "end": 31.932
+      },
+      {
+        "text": "machen",
+        "start": 31.992,
+        "end": 32.452
+      },
+      {
+        "text": "und",
+        "start": 32.492,
+        "end": 32.612
+      },
+      {
+        "text": "den",
+        "start": 32.653,
+        "end": 32.773
+      },
+      {
+        "text": "eigenen",
+        "start": 32.833,
+        "end": 33.173
+      },
+      {
+        "text": "Gedanken",
+        "start": 33.193,
+        "end": 33.613
+      },
+      {
+        "text": "freien",
+        "start": 33.673,
+        "end": 33.954
+      },
+      {
+        "text": "Lauf",
+        "start": 33.994,
+        "end": 34.254
+      },
+      {
+        "text": "zu",
+        "start": 34.274,
+        "end": 34.374
+      },
+      {
+        "text": "lassen",
+        "start": 34.414,
+        "end": 34.734
+      },
+      {
+        "text": "ist",
+        "start": 34.774,
+        "end": 34.894
+      },
+      {
+        "text": "beides",
+        "start": 34.914,
+        "end": 35.255
+      },
+      {
+        "text": "sehr",
+        "start": 35.275,
+        "end": 35.435
+      },
+      {
+        "text": "gut",
+        "start": 35.475,
+        "end": 35.615
+      },
+      {
+        "text": "für",
+        "start": 35.655,
+        "end": 35.735
+      },
+      {
+        "text": "die",
+        "start": 35.775,
+        "end": 35.895
+      },
+      {
+        "text": "eigene",
+        "start": 35.935,
+        "end": 36.215
+      },
+      {
+        "text": "Gesundheit.",
+        "start": 36.275,
+        "end": 36.796
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Verstehe.",
+    "start": 36.836,
+    "end": 41.36,
+    "words": [
+      {
+        "text": "Verstehe.",
+        "start": 36.836,
+        "end": 41.36
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Das ist also in Paris vorgefallen.",
+    "start": 41.4,
+    "end": 43.561,
+    "words": [
+      {
+        "text": "Das",
+        "start": 41.4,
+        "end": 41.52
+      },
+      {
+        "text": "ist",
+        "start": 41.56,
+        "end": 41.7
+      },
+      {
+        "text": "also",
+        "start": 41.74,
+        "end": 41.94
+      },
+      {
+        "text": "in",
+        "start": 41.96,
+        "end": 42.08
+      },
+      {
+        "text": "Paris",
+        "start": 42.12,
+        "end": 42.441
+      },
+      {
+        "text": "vorgefallen.",
+        "start": 42.481,
+        "end": 43.561
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Es ist wohl meine Schuld, weil ich mich nicht mehr kontrollieren konnte und sie angeschrien habe.",
+    "start": 43.642,
+    "end": 47.745,
+    "words": [
+      {
+        "text": "Es",
+        "start": 43.642,
+        "end": 43.722
+      },
+      {
+        "text": "ist",
+        "start": 43.762,
+        "end": 43.882
+      },
+      {
+        "text": "wohl",
+        "start": 43.922,
+        "end": 44.102
+      },
+      {
+        "text": "meine",
+        "start": 44.142,
+        "end": 44.342
+      },
+      {
+        "text": "Schuld,",
+        "start": 44.362,
+        "end": 44.622
+      },
+      {
+        "text": "weil",
+        "start": 44.642,
+        "end": 44.762
+      },
+      {
+        "text": "ich",
+        "start": 44.782,
+        "end": 44.883
+      },
+      {
+        "text": "mich",
+        "start": 44.923,
+        "end": 45.063
+      },
+      {
+        "text": "nicht",
+        "start": 45.083,
+        "end": 45.223
+      },
+      {
+        "text": "mehr",
+        "start": 45.263,
+        "end": 45.383
+      },
+      {
+        "text": "kontrollieren",
+        "start": 45.423,
+        "end": 45.963
+      },
+      {
+        "text": "konnte",
+        "start": 45.983,
+        "end": 46.224
+      },
+      {
+        "text": "und",
+        "start": 46.264,
+        "end": 46.364
+      },
+      {
+        "text": "sie",
+        "start": 46.384,
+        "end": 46.504
+      },
+      {
+        "text": "angeschrien",
+        "start": 46.524,
+        "end": 47.004
+      },
+      {
+        "text": "habe.",
+        "start": 47.024,
+        "end": 47.745
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Es war zwar offensichtlich, dass zwischen euch schlechte Stimmung herrscht, aber du scheinst dieses Mal wirklich besorgt zu sein.",
+    "start": 47.785,
+    "end": 53.97,
+    "words": [
+      {
+        "text": "Es",
+        "start": 47.785,
+        "end": 47.925
+      },
+      {
+        "text": "war",
+        "start": 47.965,
+        "end": 48.125
+      },
+      {
+        "text": "zwar",
+        "start": 48.145,
+        "end": 48.325
+      },
+      {
+        "text": "offensichtlich,",
+        "start": 48.345,
+        "end": 48.926
+      },
+      {
+        "text": "dass",
+        "start": 48.966,
+        "end": 49.126
+      },
+      {
+        "text": "zwischen",
+        "start": 49.166,
+        "end": 49.406
+      },
+      {
+        "text": "euch",
+        "start": 49.426,
+        "end": 49.546
+      },
+      {
+        "text": "schlechte",
+        "start": 49.566,
+        "end": 49.887
+      },
+      {
+        "text": "Stimmung",
+        "start": 49.907,
+        "end": 50.267
+      },
+      {
+        "text": "herrscht,",
+        "start": 50.287,
+        "end": 51.028
+      },
+      {
+        "text": "aber",
+        "start": 51.068,
+        "end": 51.208
+      },
+      {
+        "text": "du",
+        "start": 51.248,
+        "end": 51.348
+      },
+      {
+        "text": "scheinst",
+        "start": 51.368,
+        "end": 51.688
+      },
+      {
+        "text": "dieses",
+        "start": 51.708,
+        "end": 51.908
+      },
+      {
+        "text": "Mal",
+        "start": 51.968,
+        "end": 52.209
+      },
+      {
+        "text": "wirklich",
+        "start": 52.249,
+        "end": 52.589
+      },
+      {
+        "text": "besorgt",
+        "start": 52.629,
+        "end": 53.009
+      },
+      {
+        "text": "zu",
+        "start": 53.029,
+        "end": 53.169
+      },
+      {
+        "text": "sein.",
+        "start": 53.209,
+        "end": 53.97
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Das kannst du laut sagen.",
+    "start": 54.01,
+    "end": 55.411,
+    "words": [
+      {
+        "text": "Das",
+        "start": 54.01,
+        "end": 54.21
+      },
+      {
+        "text": "kannst",
+        "start": 54.23,
+        "end": 54.43
+      },
+      {
+        "text": "du",
+        "start": 54.45,
+        "end": 54.59
+      },
+      {
+        "text": "laut",
+        "start": 54.611,
+        "end": 54.851
+      },
+      {
+        "text": "sagen.",
+        "start": 54.891,
+        "end": 55.411
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Die Situation bringt Operation Lieb oder Stirb extrem in Gefahr.",
+    "start": 55.451,
+    "end": 58.554,
+    "words": [
+      {
+        "text": "Die",
+        "start": 55.451,
+        "end": 55.551
+      },
+      {
+        "text": "Situation",
+        "start": 55.591,
+        "end": 56.112
+      },
+      {
+        "text": "bringt",
+        "start": 56.132,
+        "end": 56.372
+      },
+      {
+        "text": "Operation",
+        "start": 56.412,
+        "end": 56.952
+      },
+      {
+        "text": "Lieb",
+        "start": 56.992,
+        "end": 57.153
+      },
+      {
+        "text": "oder",
+        "start": 57.193,
+        "end": 57.373
+      },
+      {
+        "text": "Stirb",
+        "start": 57.393,
+        "end": 57.693
+      },
+      {
+        "text": "extrem",
+        "start": 57.713,
+        "end": 58.113
+      },
+      {
+        "text": "in",
+        "start": 58.153,
+        "end": 58.274
+      },
+      {
+        "text": "Gefahr.",
+        "start": 58.314,
+        "end": 58.554
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Dein Rache-Plan.",
+    "start": 60.916,
+    "end": 62.376,
+    "words": [
+      {
+        "text": "Dein",
+        "start": 60.916,
+        "end": 61.476
+      },
+      {
+        "text": "Rache-Plan.",
+        "start": 61.516,
+        "end": 62.376
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Du hast ihn also immer noch nicht aufgegeben?",
+    "start": 62.416,
+    "end": 66.338,
+    "words": [
+      {
+        "text": "Du",
+        "start": 62.416,
+        "end": 62.497
+      },
+      {
+        "text": "hast",
+        "start": 62.537,
+        "end": 62.697
+      },
+      {
+        "text": "ihn",
+        "start": 62.717,
+        "end": 62.857
+      },
+      {
+        "text": "also",
+        "start": 62.897,
+        "end": 63.077
+      },
+      {
+        "text": "immer",
+        "start": 63.097,
+        "end": 63.257
+      },
+      {
+        "text": "noch",
+        "start": 63.297,
+        "end": 63.417
+      },
+      {
+        "text": "nicht",
+        "start": 63.457,
+        "end": 63.617
+      },
+      {
+        "text": "aufgegeben?",
+        "start": 63.657,
+        "end": 66.338
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du hoffst noch, dass sich Aki in dich verliebt?",
+    "start": 66.378,
+    "end": 69.959,
+    "words": [
+      {
+        "text": "Du",
+        "start": 66.378,
+        "end": 66.498
+      },
+      {
+        "text": "hoffst",
+        "start": 66.518,
+        "end": 66.758
+      },
+      {
+        "text": "noch,",
+        "start": 66.778,
+        "end": 66.918
+      },
+      {
+        "text": "dass",
+        "start": 66.958,
+        "end": 67.098
+      },
+      {
+        "text": "sich",
+        "start": 67.118,
+        "end": 67.278
+      },
+      {
+        "text": "Aki",
+        "start": 67.318,
+        "end": 67.538
+      },
+      {
+        "text": "in",
+        "start": 67.558,
+        "end": 67.618
+      },
+      {
+        "text": "dich",
+        "start": 67.638,
+        "end": 67.838
+      },
+      {
+        "text": "verliebt?",
+        "start": 67.878,
+        "end": 69.959
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ja, das hoffe ich.",
+    "start": 69.999,
+    "end": 71.94,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 69.999,
+        "end": 70.839
+      },
+      {
+        "text": "das",
+        "start": 70.859,
+        "end": 71.079
+      },
+      {
+        "text": "hoffe",
+        "start": 71.099,
+        "end": 71.319
+      },
+      {
+        "text": "ich.",
+        "start": 71.359,
+        "end": 71.94
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Obwohl du sie für eine Zicke hältst und überhaupt nicht leiden kannst?",
+    "start": 71.98,
+    "end": 77.882,
+    "words": [
+      {
+        "text": "Obwohl",
+        "start": 71.98,
+        "end": 72.34
+      },
+      {
+        "text": "du",
+        "start": 72.36,
+        "end": 72.5
+      },
+      {
+        "text": "sie",
+        "start": 72.54,
+        "end": 72.68
+      },
+      {
+        "text": "für",
+        "start": 72.7,
+        "end": 72.82
+      },
+      {
+        "text": "eine",
+        "start": 72.84,
+        "end": 73.08
+      },
+      {
+        "text": "Zicke",
+        "start": 73.12,
+        "end": 73.42
+      },
+      {
+        "text": "hältst",
+        "start": 73.46,
+        "end": 73.92
+      },
+      {
+        "text": "und",
+        "start": 73.98,
+        "end": 74.16
+      },
+      {
+        "text": "überhaupt",
+        "start": 74.2,
+        "end": 74.661
+      },
+      {
+        "text": "nicht",
+        "start": 74.681,
+        "end": 74.901
+      },
+      {
+        "text": "leiden",
+        "start": 74.941,
+        "end": 75.221
+      },
+      {
+        "text": "kannst?",
+        "start": 75.261,
+        "end": 77.882
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Deswegen werde ich sie ja abservieren.",
+    "start": 77.902,
+    "end": 79.922,
+    "words": [
+      {
+        "text": "Deswegen",
+        "start": 77.902,
+        "end": 78.362
+      },
+      {
+        "text": "werde",
+        "start": 78.382,
+        "end": 78.522
+      },
+      {
+        "text": "ich",
+        "start": 78.542,
+        "end": 78.622
+      },
+      {
+        "text": "sie",
+        "start": 78.662,
+        "end": 78.762
+      },
+      {
+        "text": "ja",
+        "start": 78.782,
+        "end": 78.922
+      },
+      {
+        "text": "abservieren.",
+        "start": 78.962,
+        "end": 79.922
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Das ist doch die Idee hinter meinem Rache-Plan.",
+    "start": 79.942,
+    "end": 81.923,
+    "words": [
+      {
+        "text": "Das",
+        "start": 79.942,
+        "end": 80.102
+      },
+      {
+        "text": "ist",
+        "start": 80.162,
+        "end": 80.242
+      },
+      {
+        "text": "doch",
+        "start": 80.282,
+        "end": 80.422
+      },
+      {
+        "text": "die",
+        "start": 80.442,
+        "end": 80.562
+      },
+      {
+        "text": "Idee",
+        "start": 80.602,
+        "end": 80.843
+      },
+      {
+        "text": "hinter",
+        "start": 80.863,
+        "end": 81.123
+      },
+      {
+        "text": "meinem",
+        "start": 81.143,
+        "end": 81.323
+      },
+      {
+        "text": "Rache-Plan.",
+        "start": 81.423,
+        "end": 81.923
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Ich finde, dass das nicht mehr viel mit Liebe zu tun hat.",
+    "start": 86.255,
+    "end": 89.784,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 86.255,
+        "end": 86.355
+      },
+      {
+        "text": "finde,",
+        "start": 86.395,
+        "end": 87.037
+      },
+      {
+        "text": "dass",
+        "start": 87.057,
+        "end": 87.238
+      },
+      {
+        "text": "das",
+        "start": 87.278,
+        "end": 87.478
+      },
+      {
+        "text": "nicht",
+        "start": 87.498,
+        "end": 87.699
+      },
+      {
+        "text": "mehr",
+        "start": 87.719,
+        "end": 87.879
+      },
+      {
+        "text": "viel",
+        "start": 87.899,
+        "end": 88.08
+      },
+      {
+        "text": "mit",
+        "start": 88.12,
+        "end": 88.24
+      },
+      {
+        "text": "Liebe",
+        "start": 88.28,
+        "end": 88.621
+      },
+      {
+        "text": "zu",
+        "start": 88.661,
+        "end": 88.782
+      },
+      {
+        "text": "tun",
+        "start": 88.822,
+        "end": 89.042
+      },
+      {
+        "text": "hat.",
+        "start": 89.062,
+        "end": 89.784
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ja und?",
+    "start": 89.804,
+    "end": 90.847,
+    "words": [
+      {
+        "text": "Ja",
+        "start": 89.804,
+        "end": 90.306
+      },
+      {
+        "text": "und?",
+        "start": 90.346,
+        "end": 90.847
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Das ist doch wohl offensichtlich.",
+    "start": 90.867,
+    "end": 92.171,
+    "words": [
+      {
+        "text": "Das",
+        "start": 90.867,
+        "end": 91.008
+      },
+      {
+        "text": "ist",
+        "start": 91.068,
+        "end": 91.168
+      },
+      {
+        "text": "doch",
+        "start": 91.208,
+        "end": 91.308
+      },
+      {
+        "text": "wohl",
+        "start": 91.348,
+        "end": 91.509
+      },
+      {
+        "text": "offensichtlich.",
+        "start": 91.529,
+        "end": 92.171
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": " Hey, was wird das?",
+    "start": 98.176,
+    "end": 100.278,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 98.176,
+        "end": 98.296
+      },
+      {
+        "text": "was",
+        "start": 98.356,
+        "end": 98.576
+      },
+      {
+        "text": "wird",
+        "start": 98.616,
+        "end": 99.597
+      },
+      {
+        "text": "das?",
+        "start": 99.617,
+        "end": 100.278
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ich wollte die Chance nutzen und auch einmal mutig sein.",
+    "start": 100.338,
+    "end": 103.5,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 100.338,
+        "end": 100.438
+      },
+      {
+        "text": "wollte",
+        "start": 100.478,
+        "end": 100.758
+      },
+      {
+        "text": "die",
+        "start": 100.798,
+        "end": 100.918
+      },
+      {
+        "text": "Chance",
+        "start": 100.998,
+        "end": 101.298
+      },
+      {
+        "text": "nutzen",
+        "start": 101.338,
+        "end": 101.659
+      },
+      {
+        "text": "und",
+        "start": 101.679,
+        "end": 101.859
+      },
+      {
+        "text": "auch",
+        "start": 101.899,
+        "end": 102.039
+      },
+      {
+        "text": "einmal",
+        "start": 102.079,
+        "end": 102.419
+      },
+      {
+        "text": "mutig",
+        "start": 102.459,
+        "end": 102.799
+      },
+      {
+        "text": "sein.",
+        "start": 102.839,
+        "end": 103.5
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Du magst dich vielleicht für Aki entschieden haben.",
+    "start": 103.52,
+    "end": 105.802,
+    "words": [
+      {
+        "text": "Du",
+        "start": 103.52,
+        "end": 103.72
+      },
+      {
+        "text": "magst",
+        "start": 103.74,
+        "end": 104.0
+      },
+      {
+        "text": "dich",
+        "start": 104.02,
+        "end": 104.18
+      },
+      {
+        "text": "vielleicht",
+        "start": 104.2,
+        "end": 104.581
+      },
+      {
+        "text": "für",
+        "start": 104.601,
+        "end": 104.721
+      },
+      {
+        "text": "Aki",
+        "start": 104.761,
+        "end": 105.101
+      },
+      {
+        "text": "entschieden",
+        "start": 105.121,
+        "end": 105.541
+      },
+      {
+        "text": "haben.",
+        "start": 105.581,
+        "end": 105.802
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Aber das hast du nicht aus Liebe, sondern aus Rache.",
+    "start": 106.362,
+    "end": 110.165,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 106.362,
+        "end": 106.982
+      },
+      {
+        "text": "das",
+        "start": 107.022,
+        "end": 107.163
+      },
+      {
+        "text": "hast",
+        "start": 107.203,
+        "end": 107.383
+      },
+      {
+        "text": "du",
+        "start": 107.403,
+        "end": 107.523
+      },
+      {
+        "text": "nicht",
+        "start": 107.543,
+        "end": 107.703
+      },
+      {
+        "text": "aus",
+        "start": 107.743,
+        "end": 107.963
+      },
+      {
+        "text": "Liebe,",
+        "start": 108.003,
+        "end": 108.343
+      },
+      {
+        "text": "sondern",
+        "start": 108.403,
+        "end": 108.964
+      },
+      {
+        "text": "aus",
+        "start": 109.024,
+        "end": 109.164
+      },
+      {
+        "text": "Rache.",
+        "start": 109.284,
+        "end": 110.165
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Das bedeutet, wenn du mit mir ausgehen würdest, dann würdest du ihr damit auch nicht fremdgehen.",
+    "start": 110.205,
+    "end": 115.529,
+    "words": [
+      {
+        "text": "Das",
+        "start": 110.205,
+        "end": 110.385
+      },
+      {
+        "text": "bedeutet,",
+        "start": 110.425,
+        "end": 111.326
+      },
+      {
+        "text": "wenn",
+        "start": 111.366,
+        "end": 111.466
+      },
+      {
+        "text": "du",
+        "start": 111.506,
+        "end": 111.606
+      },
+      {
+        "text": "mit",
+        "start": 111.626,
+        "end": 111.766
+      },
+      {
+        "text": "mir",
+        "start": 111.806,
+        "end": 111.966
+      },
+      {
+        "text": "ausgehen",
+        "start": 112.006,
+        "end": 112.446
+      },
+      {
+        "text": "würdest,",
+        "start": 112.486,
+        "end": 112.827
+      },
+      {
+        "text": "dann",
+        "start": 112.867,
+        "end": 113.527
+      },
+      {
+        "text": "würdest",
+        "start": 113.547,
+        "end": 113.787
+      },
+      {
+        "text": "du",
+        "start": 113.827,
+        "end": 113.908
+      },
+      {
+        "text": "ihr",
+        "start": 113.928,
+        "end": 114.048
+      },
+      {
+        "text": "damit",
+        "start": 114.068,
+        "end": 114.308
+      },
+      {
+        "text": "auch",
+        "start": 114.348,
+        "end": 114.488
+      },
+      {
+        "text": "nicht",
+        "start": 114.508,
+        "end": 114.668
+      },
+      {
+        "text": "fremdgehen.",
+        "start": 114.708,
+        "end": 115.529
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Fujinomiya.",
+    "start": 115.569,
+    "end": 116.109,
+    "words": [
+      {
+        "text": "Fujinomiya.",
+        "start": 115.569,
+        "end": 116.109
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Hör zu, Masamune.",
+    "start": 118.051,
+    "end": 119.932,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 118.051,
+        "end": 118.271
+      },
+      {
+        "text": "zu,",
+        "start": 118.311,
+        "end": 118.511
+      },
+      {
+        "text": "Masamune.",
+        "start": 118.531,
+        "end": 119.932
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich... Hauen wir ab.",
+    "start": 120.012,
+    "end": 125.136,
+    "words": [
+      {
+        "text": "Ich...",
+        "start": 120.012,
+        "end": 121.993
+      },
+      {
+        "text": "Hauen",
+        "start": 122.033,
+        "end": 122.294
+      },
+      {
+        "text": "wir",
+        "start": 122.314,
+        "end": 122.454
+      },
+      {
+        "text": "ab.",
+        "start": 122.514,
+        "end": 125.136
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Was ist denn in dich gefahren?",
+    "start": 125.156,
+    "end": 126.517,
+    "words": [
+      {
+        "text": "Was",
+        "start": 125.156,
+        "end": 125.296
+      },
+      {
+        "text": "ist",
+        "start": 125.336,
+        "end": 125.436
+      },
+      {
+        "text": "denn",
+        "start": 125.456,
+        "end": 125.596
+      },
+      {
+        "text": "in",
+        "start": 125.636,
+        "end": 125.756
+      },
+      {
+        "text": "dich",
+        "start": 125.796,
+        "end": 125.976
+      },
+      {
+        "text": "gefahren?",
+        "start": 126.016,
+        "end": 126.517
+      }
+    ]
+  }
+]

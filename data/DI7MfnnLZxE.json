@@ -1,0 +1,1337 @@
+[
+  {
+    "id": 0,
+    "text": " Aber ist schon okay.",
+    "start": 0.251,
+    "end": 2.952,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 0.251,
+        "end": 0.391
+      },
+      {
+        "text": "ist",
+        "start": 0.451,
+        "end": 0.571
+      },
+      {
+        "text": "schon",
+        "start": 0.611,
+        "end": 0.831
+      },
+      {
+        "text": "okay.",
+        "start": 0.851,
+        "end": 2.952
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich habe doch nicht im Traum damit gerechnet, dass du für Tsukasa-san einspringen könntest.",
+    "start": 2.992,
+    "end": 7.314,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.992,
+        "end": 3.092
+      },
+      {
+        "text": "habe",
+        "start": 3.132,
+        "end": 3.332
+      },
+      {
+        "text": "doch",
+        "start": 3.372,
+        "end": 3.492
+      },
+      {
+        "text": "nicht",
+        "start": 3.512,
+        "end": 3.653
+      },
+      {
+        "text": "im",
+        "start": 3.713,
+        "end": 3.833
+      },
+      {
+        "text": "Traum",
+        "start": 3.893,
+        "end": 4.093
+      },
+      {
+        "text": "damit",
+        "start": 4.113,
+        "end": 4.933
+      },
+      {
+        "text": "gerechnet,",
+        "start": 4.973,
+        "end": 5.413
+      },
+      {
+        "text": "dass",
+        "start": 5.433,
+        "end": 5.553
+      },
+      {
+        "text": "du",
+        "start": 5.593,
+        "end": 5.673
+      },
+      {
+        "text": "für",
+        "start": 5.693,
+        "end": 5.813
+      },
+      {
+        "text": "Tsukasa-san",
+        "start": 5.833,
+        "end": 6.474
+      },
+      {
+        "text": "einspringen",
+        "start": 6.514,
+        "end": 6.934
+      },
+      {
+        "text": "könntest.",
+        "start": 6.954,
+        "end": 7.314
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Da habe ich mir ein Helferlein geholt.",
+    "start": 7.334,
+    "end": 9.055,
+    "words": [
+      {
+        "text": "Da",
+        "start": 7.334,
+        "end": 7.454
+      },
+      {
+        "text": "habe",
+        "start": 7.474,
+        "end": 7.614
+      },
+      {
+        "text": "ich",
+        "start": 7.654,
+        "end": 7.734
+      },
+      {
+        "text": "mir",
+        "start": 7.754,
+        "end": 7.834
+      },
+      {
+        "text": "ein",
+        "start": 7.874,
+        "end": 8.014
+      },
+      {
+        "text": "Helferlein",
+        "start": 8.054,
+        "end": 8.495
+      },
+      {
+        "text": "geholt.",
+        "start": 8.535,
+        "end": 9.055
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wie bitte?",
+    "start": 9.095,
+    "end": 9.575,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 9.095,
+        "end": 9.235
+      },
+      {
+        "text": "bitte?",
+        "start": 9.275,
+        "end": 9.575
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Von wegen Helferlein!",
+    "start": 9.595,
+    "end": 11.136,
+    "words": [
+      {
+        "text": "Von",
+        "start": 9.595,
+        "end": 9.795
+      },
+      {
+        "text": "wegen",
+        "start": 9.815,
+        "end": 10.075
+      },
+      {
+        "text": "Helferlein!",
+        "start": 10.095,
+        "end": 11.136
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Erklär mir doch mal bitte, wieso ausgerechnet ich dir helfen muss, dein Badehaus zu putzen.",
+    "start": 11.216,
+    "end": 15.338,
+    "words": [
+      {
+        "text": "Erklär",
+        "start": 11.216,
+        "end": 11.656
+      },
+      {
+        "text": "mir",
+        "start": 11.676,
+        "end": 11.776
+      },
+      {
+        "text": "doch",
+        "start": 11.816,
+        "end": 11.916
+      },
+      {
+        "text": "mal",
+        "start": 11.996,
+        "end": 12.096
+      },
+      {
+        "text": "bitte,",
+        "start": 12.116,
+        "end": 12.356
+      },
+      {
+        "text": "wieso",
+        "start": 12.376,
+        "end": 12.656
+      },
+      {
+        "text": "ausgerechnet",
+        "start": 12.676,
+        "end": 13.257
+      },
+      {
+        "text": "ich",
+        "start": 13.337,
+        "end": 13.517
+      },
+      {
+        "text": "dir",
+        "start": 13.537,
+        "end": 13.657
+      },
+      {
+        "text": "helfen",
+        "start": 13.697,
+        "end": 13.937
+      },
+      {
+        "text": "muss,",
+        "start": 13.957,
+        "end": 14.137
+      },
+      {
+        "text": "dein",
+        "start": 14.157,
+        "end": 14.337
+      },
+      {
+        "text": "Badehaus",
+        "start": 14.357,
+        "end": 14.837
+      },
+      {
+        "text": "zu",
+        "start": 14.857,
+        "end": 14.977
+      },
+      {
+        "text": "putzen.",
+        "start": 14.997,
+        "end": 15.338
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Warum, fragst du?",
+    "start": 15.658,
+    "end": 16.958,
+    "words": [
+      {
+        "text": "Warum,",
+        "start": 15.658,
+        "end": 16.178
+      },
+      {
+        "text": "fragst",
+        "start": 16.238,
+        "end": 16.858
+      },
+      {
+        "text": "du?",
+        "start": 16.878,
+        "end": 16.958
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Na, weil Tsukasa-san auf Onsen-Tour ist und du dich vernachlässigt fühlst.",
+    "start": 16.998,
+    "end": 20.78,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 16.998,
+        "end": 17.138
+      },
+      {
+        "text": "weil",
+        "start": 17.158,
+        "end": 17.258
+      },
+      {
+        "text": "Tsukasa-san",
+        "start": 17.338,
+        "end": 18.019
+      },
+      {
+        "text": "auf",
+        "start": 18.039,
+        "end": 18.179
+      },
+      {
+        "text": "Onsen-Tour",
+        "start": 18.239,
+        "end": 18.899
+      },
+      {
+        "text": "ist",
+        "start": 18.939,
+        "end": 19.079
+      },
+      {
+        "text": "und",
+        "start": 19.119,
+        "end": 19.259
+      },
+      {
+        "text": "du",
+        "start": 19.299,
+        "end": 19.399
+      },
+      {
+        "text": "dich",
+        "start": 19.419,
+        "end": 19.639
+      },
+      {
+        "text": "vernachlässigt",
+        "start": 19.679,
+        "end": 20.48
+      },
+      {
+        "text": "fühlst.",
+        "start": 20.52,
+        "end": 20.78
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Deshalb muss ich dir doch nicht bei deinen Familienangelegenheiten helfen.",
+    "start": 21.36,
+    "end": 24.585,
+    "words": [
+      {
+        "text": "Deshalb",
+        "start": 21.36,
+        "end": 21.681
+      },
+      {
+        "text": "muss",
+        "start": 21.701,
+        "end": 21.841
+      },
+      {
+        "text": "ich",
+        "start": 21.881,
+        "end": 22.001
+      },
+      {
+        "text": "dir",
+        "start": 22.021,
+        "end": 22.142
+      },
+      {
+        "text": "doch",
+        "start": 22.162,
+        "end": 22.302
+      },
+      {
+        "text": "nicht",
+        "start": 22.322,
+        "end": 22.422
+      },
+      {
+        "text": "bei",
+        "start": 22.522,
+        "end": 22.642
+      },
+      {
+        "text": "deinen",
+        "start": 22.662,
+        "end": 22.923
+      },
+      {
+        "text": "Familienangelegenheiten",
+        "start": 22.963,
+        "end": 24.265
+      },
+      {
+        "text": "helfen.",
+        "start": 24.305,
+        "end": 24.585
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Und warum soll ich den Badeanzug anziehen, wenn wir... Doch nur das Bad putzen, der ist dann doch völlig unnötig.",
+    "start": 24.785,
+    "end": 31.475,
+    "words": [
+      {
+        "text": "Und",
+        "start": 24.785,
+        "end": 25.046
+      },
+      {
+        "text": "warum",
+        "start": 25.106,
+        "end": 25.386
+      },
+      {
+        "text": "soll",
+        "start": 25.426,
+        "end": 25.566
+      },
+      {
+        "text": "ich",
+        "start": 25.586,
+        "end": 25.707
+      },
+      {
+        "text": "den",
+        "start": 25.727,
+        "end": 25.887
+      },
+      {
+        "text": "Badeanzug",
+        "start": 25.927,
+        "end": 26.568
+      },
+      {
+        "text": "anziehen,",
+        "start": 26.628,
+        "end": 27.169
+      },
+      {
+        "text": "wenn",
+        "start": 27.189,
+        "end": 27.509
+      },
+      {
+        "text": "wir...",
+        "start": 27.549,
+        "end": 28.15
+      },
+      {
+        "text": "Doch",
+        "start": 28.19,
+        "end": 28.37
+      },
+      {
+        "text": "nur",
+        "start": 28.41,
+        "end": 28.551
+      },
+      {
+        "text": "das",
+        "start": 28.571,
+        "end": 28.831
+      },
+      {
+        "text": "Bad",
+        "start": 28.851,
+        "end": 29.172
+      },
+      {
+        "text": "putzen,",
+        "start": 29.212,
+        "end": 29.632
+      },
+      {
+        "text": "der",
+        "start": 29.652,
+        "end": 29.792
+      },
+      {
+        "text": "ist",
+        "start": 29.812,
+        "end": 29.933
+      },
+      {
+        "text": "dann",
+        "start": 29.953,
+        "end": 30.113
+      },
+      {
+        "text": "doch",
+        "start": 30.133,
+        "end": 30.293
+      },
+      {
+        "text": "völlig",
+        "start": 30.313,
+        "end": 30.614
+      },
+      {
+        "text": "unnötig.",
+        "start": 30.654,
+        "end": 31.475
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Aber ohne Badesachen würde das Ganze doch viel weniger Spaß machen.",
+    "start": 31.535,
+    "end": 35.28,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 31.535,
+        "end": 31.775
+      },
+      {
+        "text": "ohne",
+        "start": 31.815,
+        "end": 32.056
+      },
+      {
+        "text": "Badesachen",
+        "start": 32.076,
+        "end": 32.677
+      },
+      {
+        "text": "würde",
+        "start": 32.697,
+        "end": 32.937
+      },
+      {
+        "text": "das",
+        "start": 32.977,
+        "end": 33.117
+      },
+      {
+        "text": "Ganze",
+        "start": 33.157,
+        "end": 33.438
+      },
+      {
+        "text": "doch",
+        "start": 33.478,
+        "end": 33.598
+      },
+      {
+        "text": "viel",
+        "start": 33.638,
+        "end": 33.758
+      },
+      {
+        "text": "weniger",
+        "start": 33.778,
+        "end": 34.159
+      },
+      {
+        "text": "Spaß",
+        "start": 34.179,
+        "end": 34.499
+      },
+      {
+        "text": "machen.",
+        "start": 34.539,
+        "end": 35.28
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Hier!",
+    "start": 35.32,
+    "end": 35.4,
+    "words": [
+      {
+        "text": "Hier!",
+        "start": 35.32,
+        "end": 35.4
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Sag mal, hast du sie noch alle?",
+    "start": 37.283,
+    "end": 38.843,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 37.283,
+        "end": 37.583
+      },
+      {
+        "text": "mal,",
+        "start": 37.603,
+        "end": 37.743
+      },
+      {
+        "text": "hast",
+        "start": 37.763,
+        "end": 37.903
+      },
+      {
+        "text": "du",
+        "start": 37.923,
+        "end": 38.043
+      },
+      {
+        "text": "sie",
+        "start": 38.063,
+        "end": 38.143
+      },
+      {
+        "text": "noch",
+        "start": 38.163,
+        "end": 38.283
+      },
+      {
+        "text": "alle?",
+        "start": 38.343,
+        "end": 38.843
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Zur Abwechslung kann man doch mal rumalbern.",
+    "start": 38.863,
+    "end": 41.144,
+    "words": [
+      {
+        "text": "Zur",
+        "start": 38.863,
+        "end": 39.043
+      },
+      {
+        "text": "Abwechslung",
+        "start": 39.143,
+        "end": 39.663
+      },
+      {
+        "text": "kann",
+        "start": 39.703,
+        "end": 39.863
+      },
+      {
+        "text": "man",
+        "start": 39.883,
+        "end": 40.003
+      },
+      {
+        "text": "doch",
+        "start": 40.023,
+        "end": 40.144
+      },
+      {
+        "text": "mal",
+        "start": 40.244,
+        "end": 40.364
+      },
+      {
+        "text": "rumalbern.",
+        "start": 40.404,
+        "end": 41.144
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ich hab mit keinem einzigen Wort gesagt, dass ich Abwechslung brauche.",
+    "start": 41.204,
+    "end": 44.984,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 41.204,
+        "end": 41.324
+      },
+      {
+        "text": "hab",
+        "start": 41.344,
+        "end": 41.524
+      },
+      {
+        "text": "mit",
+        "start": 41.564,
+        "end": 41.744
+      },
+      {
+        "text": "keinem",
+        "start": 41.764,
+        "end": 42.084
+      },
+      {
+        "text": "einzigen",
+        "start": 42.164,
+        "end": 42.484
+      },
+      {
+        "text": "Wort",
+        "start": 42.624,
+        "end": 42.844
+      },
+      {
+        "text": "gesagt,",
+        "start": 42.884,
+        "end": 43.244
+      },
+      {
+        "text": "dass",
+        "start": 43.264,
+        "end": 43.404
+      },
+      {
+        "text": "ich",
+        "start": 43.464,
+        "end": 43.544
+      },
+      {
+        "text": "Abwechslung",
+        "start": 43.604,
+        "end": 44.184
+      },
+      {
+        "text": "brauche.",
+        "start": 44.204,
+        "end": 44.984
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Du kannst ruhig mal einen Ton sagen, anstatt nur blöd rumzustehen.",
+    "start": 45.024,
+    "end": 48.285,
+    "words": [
+      {
+        "text": "Du",
+        "start": 45.024,
+        "end": 45.164
+      },
+      {
+        "text": "kannst",
+        "start": 45.184,
+        "end": 45.524
+      },
+      {
+        "text": "ruhig",
+        "start": 45.584,
+        "end": 45.785
+      },
+      {
+        "text": "mal",
+        "start": 45.805,
+        "end": 45.945
+      },
+      {
+        "text": "einen",
+        "start": 45.985,
+        "end": 46.145
+      },
+      {
+        "text": "Ton",
+        "start": 46.165,
+        "end": 46.405
+      },
+      {
+        "text": "sagen,",
+        "start": 46.425,
+        "end": 46.705
+      },
+      {
+        "text": "anstatt",
+        "start": 46.765,
+        "end": 47.125
+      },
+      {
+        "text": "nur",
+        "start": 47.145,
+        "end": 47.245
+      },
+      {
+        "text": "blöd",
+        "start": 47.265,
+        "end": 47.505
+      },
+      {
+        "text": "rumzustehen.",
+        "start": 47.525,
+        "end": 48.285
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Gut, so macht weiter.",
+    "start": 48.705,
+    "end": 49.985,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 48.705,
+        "end": 49.025
+      },
+      {
+        "text": "so",
+        "start": 49.065,
+        "end": 49.185
+      },
+      {
+        "text": "macht",
+        "start": 49.205,
+        "end": 49.465
+      },
+      {
+        "text": "weiter.",
+        "start": 49.505,
+        "end": 49.985
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Das allerbeste an Badehäusern ist doch, dass es da eine Menge Haus zu sehen gibt.",
+    "start": 50.005,
+    "end": 54.366,
+    "words": [
+      {
+        "text": "Das",
+        "start": 50.005,
+        "end": 50.145
+      },
+      {
+        "text": "allerbeste",
+        "start": 50.205,
+        "end": 50.745
+      },
+      {
+        "text": "an",
+        "start": 50.785,
+        "end": 50.885
+      },
+      {
+        "text": "Badehäusern",
+        "start": 50.905,
+        "end": 51.466
+      },
+      {
+        "text": "ist",
+        "start": 51.506,
+        "end": 51.646
+      },
+      {
+        "text": "doch,",
+        "start": 51.666,
+        "end": 51.806
+      },
+      {
+        "text": "dass",
+        "start": 51.826,
+        "end": 51.946
+      },
+      {
+        "text": "es",
+        "start": 52.026,
+        "end": 52.106
+      },
+      {
+        "text": "da",
+        "start": 52.146,
+        "end": 52.346
+      },
+      {
+        "text": "eine",
+        "start": 52.366,
+        "end": 52.486
+      },
+      {
+        "text": "Menge",
+        "start": 52.506,
+        "end": 52.826
+      },
+      {
+        "text": "Haus",
+        "start": 52.846,
+        "end": 53.106
+      },
+      {
+        "text": "zu",
+        "start": 53.186,
+        "end": 53.326
+      },
+      {
+        "text": "sehen",
+        "start": 53.346,
+        "end": 53.606
+      },
+      {
+        "text": "gibt.",
+        "start": 53.626,
+        "end": 54.366
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Hört das doch mal!",
+    "start": 54.386,
+    "end": 55.826,
+    "words": [
+      {
+        "text": "Hört",
+        "start": 54.386,
+        "end": 54.586
+      },
+      {
+        "text": "das",
+        "start": 54.626,
+        "end": 54.906
+      },
+      {
+        "text": "doch",
+        "start": 54.946,
+        "end": 55.206
+      },
+      {
+        "text": "mal!",
+        "start": 55.226,
+        "end": 55.826
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du zerrst mir doch alles ab!",
+    "start": 56.046,
+    "end": 57.587,
+    "words": [
+      {
+        "text": "Du",
+        "start": 56.046,
+        "end": 56.186
+      },
+      {
+        "text": "zerrst",
+        "start": 56.226,
+        "end": 56.626
+      },
+      {
+        "text": "mir",
+        "start": 56.686,
+        "end": 56.906
+      },
+      {
+        "text": "doch",
+        "start": 56.947,
+        "end": 57.127
+      },
+      {
+        "text": "alles",
+        "start": 57.187,
+        "end": 57.347
+      },
+      {
+        "text": "ab!",
+        "start": 57.387,
+        "end": 57.587
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Du wolltest doch eine Abwechslung.",
+    "start": 57.607,
+    "end": 59.267,
+    "words": [
+      {
+        "text": "Du",
+        "start": 57.607,
+        "end": 57.787
+      },
+      {
+        "text": "wolltest",
+        "start": 57.827,
+        "end": 58.187
+      },
+      {
+        "text": "doch",
+        "start": 58.207,
+        "end": 58.367
+      },
+      {
+        "text": "eine",
+        "start": 58.407,
+        "end": 58.647
+      },
+      {
+        "text": "Abwechslung.",
+        "start": 58.687,
+        "end": 59.267
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Nackt sein wäre eine.",
+    "start": 59.287,
+    "end": 61.407,
+    "words": [
+      {
+        "text": "Nackt",
+        "start": 59.287,
+        "end": 59.527
+      },
+      {
+        "text": "sein",
+        "start": 59.567,
+        "end": 59.767
+      },
+      {
+        "text": "wäre",
+        "start": 59.787,
+        "end": 60.187
+      },
+      {
+        "text": "eine.",
+        "start": 60.267,
+        "end": 61.407
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Na gut, bei dem Spiel können aber auch Zweifel spielen.",
+    "start": 61.427,
+    "end": 64.148,
+    "words": [
+      {
+        "text": "Na",
+        "start": 61.427,
+        "end": 61.567
+      },
+      {
+        "text": "gut,",
+        "start": 61.607,
+        "end": 61.967
+      },
+      {
+        "text": "bei",
+        "start": 62.007,
+        "end": 62.207
+      },
+      {
+        "text": "dem",
+        "start": 62.227,
+        "end": 62.307
+      },
+      {
+        "text": "Spiel",
+        "start": 62.387,
+        "end": 62.648
+      },
+      {
+        "text": "können",
+        "start": 62.668,
+        "end": 62.928
+      },
+      {
+        "text": "aber",
+        "start": 62.968,
+        "end": 63.048
+      },
+      {
+        "text": "auch",
+        "start": 63.088,
+        "end": 63.208
+      },
+      {
+        "text": "Zweifel",
+        "start": 63.228,
+        "end": 63.688
+      },
+      {
+        "text": "spielen.",
+        "start": 63.768,
+        "end": 64.148
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Das hält's auch!",
+    "start": 64.248,
+    "end": 64.968,
+    "words": [
+      {
+        "text": "Das",
+        "start": 64.248,
+        "end": 64.408
+      },
+      {
+        "text": "hält's",
+        "start": 64.448,
+        "end": 64.668
+      },
+      {
+        "text": "auch!",
+        "start": 64.728,
+        "end": 64.968
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Schon wieder!",
+    "start": 67.413,
+    "end": 68.495,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 67.413,
+        "end": 67.994
+      },
+      {
+        "text": "wieder!",
+        "start": 68.014,
+        "end": 68.495
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "So'n billiger Erotik-Scheiß muss das sein?",
+    "start": 68.555,
+    "end": 71.098,
+    "words": [
+      {
+        "text": "So'n",
+        "start": 68.555,
+        "end": 68.835
+      },
+      {
+        "text": "billiger",
+        "start": 68.875,
+        "end": 69.296
+      },
+      {
+        "text": "Erotik-Scheiß",
+        "start": 69.356,
+        "end": 70.177
+      },
+      {
+        "text": "muss",
+        "start": 70.197,
+        "end": 70.397
+      },
+      {
+        "text": "das",
+        "start": 70.417,
+        "end": 70.598
+      },
+      {
+        "text": "sein?",
+        "start": 70.638,
+        "end": 71.098
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Sag mal, was ist hier überhaupt los?",
+    "start": 71.479,
+    "end": 74.483,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 71.479,
+        "end": 71.599
+      },
+      {
+        "text": "mal,",
+        "start": 71.659,
+        "end": 71.879
+      },
+      {
+        "text": "was",
+        "start": 71.919,
+        "end": 72.18
+      },
+      {
+        "text": "ist",
+        "start": 72.24,
+        "end": 72.42
+      },
+      {
+        "text": "hier",
+        "start": 72.48,
+        "end": 73.141
+      },
+      {
+        "text": "überhaupt",
+        "start": 73.161,
+        "end": 73.842
+      },
+      {
+        "text": "los?",
+        "start": 73.902,
+        "end": 74.483
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Das ist doch scheiße!",
+    "start": 74.523,
+    "end": 75.945,
+    "words": [
+      {
+        "text": "Das",
+        "start": 74.523,
+        "end": 74.683
+      },
+      {
+        "text": "ist",
+        "start": 74.723,
+        "end": 74.864
+      },
+      {
+        "text": "doch",
+        "start": 74.884,
+        "end": 75.064
+      },
+      {
+        "text": "scheiße!",
+        "start": 75.084,
+        "end": 75.945
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Aber das hier ist nun mal eine Badehaus-Folge.",
+    "start": 76.045,
+    "end": 79.47,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 76.045,
+        "end": 76.306
+      },
+      {
+        "text": "das",
+        "start": 76.346,
+        "end": 76.526
+      },
+      {
+        "text": "hier",
+        "start": 76.566,
+        "end": 77.187
+      },
+      {
+        "text": "ist",
+        "start": 77.247,
+        "end": 77.427
+      },
+      {
+        "text": "nun",
+        "start": 77.447,
+        "end": 77.567
+      },
+      {
+        "text": "mal",
+        "start": 77.608,
+        "end": 77.708
+      },
+      {
+        "text": "eine",
+        "start": 77.748,
+        "end": 77.968
+      },
+      {
+        "text": "Badehaus-Folge.",
+        "start": 78.008,
+        "end": 79.47
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Wovon redest du überhaupt?",
+    "start": 79.51,
+    "end": 81.012,
+    "words": [
+      {
+        "text": "Wovon",
+        "start": 79.51,
+        "end": 79.891
+      },
+      {
+        "text": "redest",
+        "start": 79.971,
+        "end": 80.351
+      },
+      {
+        "text": "du",
+        "start": 80.391,
+        "end": 80.492
+      },
+      {
+        "text": "überhaupt?",
+        "start": 80.532,
+        "end": 81.012
+      }
+    ]
+  }
+]

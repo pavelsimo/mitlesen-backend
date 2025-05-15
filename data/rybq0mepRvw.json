@@ -1,0 +1,1237 @@
+[
+  {
+    "id": 0,
+    "text": " Ich frage mich, ob es einen Weg gibt, meine Sicht noch zu erweitern.",
+    "start": 0.232,
+    "end": 4.323,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.232,
+        "end": 0.292
+      },
+      {
+        "text": "frage",
+        "start": 0.312,
+        "end": 0.492
+      },
+      {
+        "text": "mich,",
+        "start": 0.512,
+        "end": 0.653
+      },
+      {
+        "text": "ob",
+        "start": 0.673,
+        "end": 0.753
+      },
+      {
+        "text": "es",
+        "start": 0.793,
+        "end": 0.873
+      },
+      {
+        "text": "einen",
+        "start": 0.914,
+        "end": 1.014
+      },
+      {
+        "text": "Weg",
+        "start": 1.054,
+        "end": 1.174
+      },
+      {
+        "text": "gibt,",
+        "start": 1.194,
+        "end": 1.435
+      },
+      {
+        "text": "meine",
+        "start": 1.455,
+        "end": 1.656
+      },
+      {
+        "text": "Sicht",
+        "start": 1.696,
+        "end": 1.896
+      },
+      {
+        "text": "noch",
+        "start": 1.936,
+        "end": 2.137
+      },
+      {
+        "text": "zu",
+        "start": 2.157,
+        "end": 2.237
+      },
+      {
+        "text": "erweitern.",
+        "start": 2.297,
+        "end": 4.323
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das kommt ja wie gerufen.",
+    "start": 4.363,
+    "end": 5.707,
+    "words": [
+      {
+        "text": "Das",
+        "start": 4.363,
+        "end": 4.524
+      },
+      {
+        "text": "kommt",
+        "start": 4.564,
+        "end": 4.744
+      },
+      {
+        "text": "ja",
+        "start": 4.785,
+        "end": 4.885
+      },
+      {
+        "text": "wie",
+        "start": 4.925,
+        "end": 5.045
+      },
+      {
+        "text": "gerufen.",
+        "start": 5.085,
+        "end": 5.707
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Kostet zwar 1000 Punkte, aber ich brauche das unbedingt.",
+    "start": 5.727,
+    "end": 7.934,
+    "words": [
+      {
+        "text": "Kostet",
+        "start": 5.727,
+        "end": 6.048
+      },
+      {
+        "text": "zwar",
+        "start": 6.088,
+        "end": 6.51
+      },
+      {
+        "text": "Punkte,",
+        "start": 6.55,
+        "end": 6.77
+      },
+      {
+        "text": "aber",
+        "start": 6.79,
+        "end": 6.931
+      },
+      {
+        "text": "ich",
+        "start": 6.971,
+        "end": 7.031
+      },
+      {
+        "text": "brauche",
+        "start": 7.051,
+        "end": 7.312
+      },
+      {
+        "text": "das",
+        "start": 7.352,
+        "end": 7.532
+      },
+      {
+        "text": "unbedingt.",
+        "start": 7.573,
+        "end": 7.934
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": " Oh, ich sehe die Welt mit ganz neuen Augen.",
+    "start": 9.49,
+    "end": 12.251,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 9.49,
+        "end": 10.15
+      },
+      {
+        "text": "ich",
+        "start": 10.19,
+        "end": 10.29
+      },
+      {
+        "text": "sehe",
+        "start": 10.33,
+        "end": 10.49
+      },
+      {
+        "text": "die",
+        "start": 10.51,
+        "end": 10.65
+      },
+      {
+        "text": "Welt",
+        "start": 10.67,
+        "end": 10.85
+      },
+      {
+        "text": "mit",
+        "start": 10.87,
+        "end": 11.07
+      },
+      {
+        "text": "ganz",
+        "start": 11.09,
+        "end": 11.311
+      },
+      {
+        "text": "neuen",
+        "start": 11.351,
+        "end": 11.591
+      },
+      {
+        "text": "Augen.",
+        "start": 11.611,
+        "end": 12.251
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Boxo, schlag Alarm, wenn jemand von hinten angreift, okay?",
+    "start": 12.291,
+    "end": 15.872,
+    "words": [
+      {
+        "text": "Boxo,",
+        "start": 12.291,
+        "end": 12.951
+      },
+      {
+        "text": "schlag",
+        "start": 13.011,
+        "end": 13.271
+      },
+      {
+        "text": "Alarm,",
+        "start": 13.331,
+        "end": 13.631
+      },
+      {
+        "text": "wenn",
+        "start": 13.651,
+        "end": 13.771
+      },
+      {
+        "text": "jemand",
+        "start": 13.791,
+        "end": 14.051
+      },
+      {
+        "text": "von",
+        "start": 14.071,
+        "end": 14.211
+      },
+      {
+        "text": "hinten",
+        "start": 14.231,
+        "end": 14.391
+      },
+      {
+        "text": "angreift,",
+        "start": 14.571,
+        "end": 14.911
+      },
+      {
+        "text": "okay?",
+        "start": 14.971,
+        "end": 15.872
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Bei einem Treffer gibt es einen Gewinn.",
+    "start": 15.892,
+    "end": 17.952,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 15.892,
+        "end": 16.112
+      },
+      {
+        "text": "einem",
+        "start": 16.152,
+        "end": 16.392
+      },
+      {
+        "text": "Treffer",
+        "start": 16.412,
+        "end": 16.772
+      },
+      {
+        "text": "gibt",
+        "start": 16.812,
+        "end": 16.952
+      },
+      {
+        "text": "es",
+        "start": 16.992,
+        "end": 17.072
+      },
+      {
+        "text": "einen",
+        "start": 17.152,
+        "end": 17.432
+      },
+      {
+        "text": "Gewinn.",
+        "start": 17.472,
+        "end": 17.952
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Hab verstanden.",
+    "start": 18.012,
+    "end": 18.952,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 18.012,
+        "end": 18.252
+      },
+      {
+        "text": "verstanden.",
+        "start": 18.272,
+        "end": 18.952
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wenn du bei einem Treffer gibt es einen Gewinn sagst, ist ein Gegner.",
+    "start": 18.972,
+    "end": 21.913,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 18.972,
+        "end": 19.152
+      },
+      {
+        "text": "du",
+        "start": 19.192,
+        "end": 19.332
+      },
+      {
+        "text": "bei",
+        "start": 19.352,
+        "end": 19.512
+      },
+      {
+        "text": "einem",
+        "start": 19.532,
+        "end": 19.752
+      },
+      {
+        "text": "Treffer",
+        "start": 19.792,
+        "end": 20.073
+      },
+      {
+        "text": "gibt",
+        "start": 20.113,
+        "end": 20.233
+      },
+      {
+        "text": "es",
+        "start": 20.293,
+        "end": 20.373
+      },
+      {
+        "text": "einen",
+        "start": 20.413,
+        "end": 20.573
+      },
+      {
+        "text": "Gewinn",
+        "start": 20.593,
+        "end": 20.873
+      },
+      {
+        "text": "sagst,",
+        "start": 20.913,
+        "end": 21.133
+      },
+      {
+        "text": "ist",
+        "start": 21.173,
+        "end": 21.313
+      },
+      {
+        "text": "ein",
+        "start": 21.353,
+        "end": 21.493
+      },
+      {
+        "text": "Gegner.",
+        "start": 21.533,
+        "end": 21.913
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Alles klar, soweit.",
+    "start": 21.953,
+    "end": 22.873,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 21.953,
+        "end": 22.193
+      },
+      {
+        "text": "klar,",
+        "start": 22.213,
+        "end": 22.373
+      },
+      {
+        "text": "soweit.",
+        "start": 22.393,
+        "end": 22.873
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Herzlich willkommen.",
+    "start": 22.913,
+    "end": 23.913,
+    "words": [
+      {
+        "text": "Herzlich",
+        "start": 22.913,
+        "end": 23.393
+      },
+      {
+        "text": "willkommen.",
+        "start": 23.453,
+        "end": 23.913
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Alle Achtung, Kleine.",
+    "start": 23.953,
+    "end": 24.994,
+    "words": [
+      {
+        "text": "Alle",
+        "start": 23.953,
+        "end": 24.254
+      },
+      {
+        "text": "Achtung,",
+        "start": 24.294,
+        "end": 24.754
+      },
+      {
+        "text": "Kleine.",
+        "start": 24.774,
+        "end": 24.994
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Du hältst den echt mächtig ein und deine Schläge haben einen ordentlichen Wumms drauf.",
+    "start": 25.034,
+    "end": 28.555,
+    "words": [
+      {
+        "text": "Du",
+        "start": 25.034,
+        "end": 25.134
+      },
+      {
+        "text": "hältst",
+        "start": 25.154,
+        "end": 25.354
+      },
+      {
+        "text": "den",
+        "start": 25.374,
+        "end": 25.554
+      },
+      {
+        "text": "echt",
+        "start": 25.594,
+        "end": 25.794
+      },
+      {
+        "text": "mächtig",
+        "start": 25.814,
+        "end": 26.214
+      },
+      {
+        "text": "ein",
+        "start": 26.254,
+        "end": 26.414
+      },
+      {
+        "text": "und",
+        "start": 26.434,
+        "end": 26.554
+      },
+      {
+        "text": "deine",
+        "start": 26.594,
+        "end": 26.814
+      },
+      {
+        "text": "Schläge",
+        "start": 26.834,
+        "end": 27.154
+      },
+      {
+        "text": "haben",
+        "start": 27.174,
+        "end": 27.314
+      },
+      {
+        "text": "einen",
+        "start": 27.334,
+        "end": 27.534
+      },
+      {
+        "text": "ordentlichen",
+        "start": 27.574,
+        "end": 27.994
+      },
+      {
+        "text": "Wumms",
+        "start": 28.034,
+        "end": 28.234
+      },
+      {
+        "text": "drauf.",
+        "start": 28.274,
+        "end": 28.555
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Nicht von schlechten Eltern.",
+    "start": 28.615,
+    "end": 29.675,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 28.615,
+        "end": 28.815
+      },
+      {
+        "text": "von",
+        "start": 28.835,
+        "end": 28.955
+      },
+      {
+        "text": "schlechten",
+        "start": 28.995,
+        "end": 29.355
+      },
+      {
+        "text": "Eltern.",
+        "start": 29.395,
+        "end": 29.675
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Naja, man tut, was man kann.",
+    "start": 29.975,
+    "end": 31.535,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 29.975,
+        "end": 30.335
+      },
+      {
+        "text": "man",
+        "start": 30.355,
+        "end": 30.455
+      },
+      {
+        "text": "tut,",
+        "start": 30.515,
+        "end": 30.635
+      },
+      {
+        "text": "was",
+        "start": 30.675,
+        "end": 30.795
+      },
+      {
+        "text": "man",
+        "start": 30.815,
+        "end": 30.955
+      },
+      {
+        "text": "kann.",
+        "start": 30.995,
+        "end": 31.535
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Da werde ich ja noch ganz ruhig.",
+    "start": 31.555,
+    "end": 32.716,
+    "words": [
+      {
+        "text": "Da",
+        "start": 31.555,
+        "end": 31.715
+      },
+      {
+        "text": "werde",
+        "start": 31.735,
+        "end": 31.835
+      },
+      {
+        "text": "ich",
+        "start": 31.875,
+        "end": 31.955
+      },
+      {
+        "text": "ja",
+        "start": 31.975,
+        "end": 32.055
+      },
+      {
+        "text": "noch",
+        "start": 32.075,
+        "end": 32.175
+      },
+      {
+        "text": "ganz",
+        "start": 32.195,
+        "end": 32.435
+      },
+      {
+        "text": "ruhig.",
+        "start": 32.515,
+        "end": 32.716
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Bei einem Treffer gibt es einen Gewinn.",
+    "start": 32.736,
+    "end": 34.656,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 32.736,
+        "end": 32.916
+      },
+      {
+        "text": "einem",
+        "start": 32.956,
+        "end": 33.296
+      },
+      {
+        "text": "Treffer",
+        "start": 33.356,
+        "end": 33.716
+      },
+      {
+        "text": "gibt",
+        "start": 33.756,
+        "end": 33.876
+      },
+      {
+        "text": "es",
+        "start": 33.936,
+        "end": 34.056
+      },
+      {
+        "text": "einen",
+        "start": 34.076,
+        "end": 34.196
+      },
+      {
+        "text": "Gewinn.",
+        "start": 34.236,
+        "end": 34.656
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Nicht da.",
+    "start": 34.676,
+    "end": 34.916,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 34.676,
+        "end": 34.796
+      },
+      {
+        "text": "da.",
+        "start": 34.836,
+        "end": 34.916
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Du duftest mich nicht auf, doch, Boxo.",
+    "start": 34.956,
+    "end": 36.656,
+    "words": [
+      {
+        "text": "Du",
+        "start": 34.956,
+        "end": 35.096
+      },
+      {
+        "text": "duftest",
+        "start": 35.116,
+        "end": 35.276
+      },
+      {
+        "text": "mich",
+        "start": 35.296,
+        "end": 35.456
+      },
+      {
+        "text": "nicht",
+        "start": 35.496,
+        "end": 35.696
+      },
+      {
+        "text": "auf,",
+        "start": 35.756,
+        "end": 35.896
+      },
+      {
+        "text": "doch,",
+        "start": 35.916,
+        "end": 36.196
+      },
+      {
+        "text": "Boxo.",
+        "start": 36.236,
+        "end": 36.656
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Nein, du Blitzbirne.",
+    "start": 36.796,
+    "end": 37.877,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 36.796,
+        "end": 37.097
+      },
+      {
+        "text": "du",
+        "start": 37.117,
+        "end": 37.197
+      },
+      {
+        "text": "Blitzbirne.",
+        "start": 37.217,
+        "end": 37.877
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das sind Gegner auf sechs Rohren.",
+    "start": 37.897,
+    "end": 39.037,
+    "words": [
+      {
+        "text": "Das",
+        "start": 37.897,
+        "end": 38.037
+      },
+      {
+        "text": "sind",
+        "start": 38.057,
+        "end": 38.177
+      },
+      {
+        "text": "Gegner",
+        "start": 38.197,
+        "end": 38.477
+      },
+      {
+        "text": "auf",
+        "start": 38.497,
+        "end": 38.617
+      },
+      {
+        "text": "sechs",
+        "start": 38.637,
+        "end": 38.757
+      },
+      {
+        "text": "Rohren.",
+        "start": 38.817,
+        "end": 39.037
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Wo kommt denn dieses blaue Licht jetzt schon wieder her?",
+    "start": 42.819,
+    "end": 45.381,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 42.819,
+        "end": 43.019
+      },
+      {
+        "text": "kommt",
+        "start": 43.039,
+        "end": 43.259
+      },
+      {
+        "text": "denn",
+        "start": 43.279,
+        "end": 43.46
+      },
+      {
+        "text": "dieses",
+        "start": 43.5,
+        "end": 43.76
+      },
+      {
+        "text": "blaue",
+        "start": 43.8,
+        "end": 44.12
+      },
+      {
+        "text": "Licht",
+        "start": 44.16,
+        "end": 44.38
+      },
+      {
+        "text": "jetzt",
+        "start": 44.42,
+        "end": 44.56
+      },
+      {
+        "text": "schon",
+        "start": 44.6,
+        "end": 44.76
+      },
+      {
+        "text": "wieder",
+        "start": 44.78,
+        "end": 44.96
+      },
+      {
+        "text": "her?",
+        "start": 45.0,
+        "end": 45.381
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Ist das deine Gabe, Kleine?",
+    "start": 45.421,
+    "end": 46.882,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 45.421,
+        "end": 45.561
+      },
+      {
+        "text": "das",
+        "start": 45.581,
+        "end": 45.741
+      },
+      {
+        "text": "deine",
+        "start": 45.761,
+        "end": 46.041
+      },
+      {
+        "text": "Gabe,",
+        "start": 46.081,
+        "end": 46.381
+      },
+      {
+        "text": "Kleine?",
+        "start": 46.401,
+        "end": 46.882
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Nee, nee, sowas kann ich nicht.",
+    "start": 46.902,
+    "end": 48.162,
+    "words": [
+      {
+        "text": "Nee,",
+        "start": 46.902,
+        "end": 47.102
+      },
+      {
+        "text": "nee,",
+        "start": 47.122,
+        "end": 47.302
+      },
+      {
+        "text": "sowas",
+        "start": 47.322,
+        "end": 47.602
+      },
+      {
+        "text": "kann",
+        "start": 47.642,
+        "end": 47.822
+      },
+      {
+        "text": "ich",
+        "start": 47.862,
+        "end": 47.982
+      },
+      {
+        "text": "nicht.",
+        "start": 48.022,
+        "end": 48.162
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Aber ich glaub, das könnte Boxers Kraft sein.",
+    "start": 48.202,
+    "end": 50.184,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 48.202,
+        "end": 48.342
+      },
+      {
+        "text": "ich",
+        "start": 48.382,
+        "end": 48.463
+      },
+      {
+        "text": "glaub,",
+        "start": 48.503,
+        "end": 48.683
+      },
+      {
+        "text": "das",
+        "start": 48.703,
+        "end": 48.803
+      },
+      {
+        "text": "könnte",
+        "start": 48.823,
+        "end": 49.123
+      },
+      {
+        "text": "Boxers",
+        "start": 49.143,
+        "end": 49.523
+      },
+      {
+        "text": "Kraft",
+        "start": 49.543,
+        "end": 49.803
+      },
+      {
+        "text": "sein.",
+        "start": 49.843,
+        "end": 50.184
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Du denkst, Boxer war das?",
+    "start": 50.224,
+    "end": 53.686,
+    "words": [
+      {
+        "text": "Du",
+        "start": 50.224,
+        "end": 50.324
+      },
+      {
+        "text": "denkst,",
+        "start": 50.364,
+        "end": 50.624
+      },
+      {
+        "text": "Boxer",
+        "start": 50.664,
+        "end": 51.044
+      },
+      {
+        "text": "war",
+        "start": 51.064,
+        "end": 51.184
+      },
+      {
+        "text": "das?",
+        "start": 51.204,
+        "end": 53.686
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Was soll denn jetzt auf einmal dieser Mafia-Boss-Blick?",
+    "start": 53.706,
+    "end": 56.587,
+    "words": [
+      {
+        "text": "Was",
+        "start": 53.706,
+        "end": 53.886
+      },
+      {
+        "text": "soll",
+        "start": 53.926,
+        "end": 54.106
+      },
+      {
+        "text": "denn",
+        "start": 54.126,
+        "end": 54.286
+      },
+      {
+        "text": "jetzt",
+        "start": 54.306,
+        "end": 54.506
+      },
+      {
+        "text": "auf",
+        "start": 54.526,
+        "end": 54.666
+      },
+      {
+        "text": "einmal",
+        "start": 54.706,
+        "end": 54.966
+      },
+      {
+        "text": "dieser",
+        "start": 55.006,
+        "end": 55.226
+      },
+      {
+        "text": "Mafia-Boss-Blick?",
+        "start": 55.266,
+        "end": 56.587
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Den sollte ich wohl besser im Auge behalten.",
+    "start": 56.607,
+    "end": 59.589,
+    "words": [
+      {
+        "text": "Den",
+        "start": 56.607,
+        "end": 56.867
+      },
+      {
+        "text": "sollte",
+        "start": 56.887,
+        "end": 57.068
+      },
+      {
+        "text": "ich",
+        "start": 57.088,
+        "end": 57.168
+      },
+      {
+        "text": "wohl",
+        "start": 57.188,
+        "end": 57.348
+      },
+      {
+        "text": "besser",
+        "start": 57.388,
+        "end": 57.588
+      },
+      {
+        "text": "im",
+        "start": 57.608,
+        "end": 57.748
+      },
+      {
+        "text": "Auge",
+        "start": 57.808,
+        "end": 58.028
+      },
+      {
+        "text": "behalten.",
+        "start": 58.068,
+        "end": 59.589
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ich hab das Gefühl, Boxer und ich werden dicke Freunde werden.",
+    "start": 59.629,
+    "end": 62.991,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 59.629,
+        "end": 59.729
+      },
+      {
+        "text": "hab",
+        "start": 59.769,
+        "end": 59.949
+      },
+      {
+        "text": "das",
+        "start": 59.969,
+        "end": 60.169
+      },
+      {
+        "text": "Gefühl,",
+        "start": 60.209,
+        "end": 60.53
+      },
+      {
+        "text": "Boxer",
+        "start": 60.57,
+        "end": 60.89
+      },
+      {
+        "text": "und",
+        "start": 60.91,
+        "end": 61.13
+      },
+      {
+        "text": "ich",
+        "start": 61.15,
+        "end": 61.31
+      },
+      {
+        "text": "werden",
+        "start": 61.33,
+        "end": 61.63
+      },
+      {
+        "text": "dicke",
+        "start": 61.65,
+        "end": 61.97
+      },
+      {
+        "text": "Freunde",
+        "start": 62.01,
+        "end": 62.391
+      },
+      {
+        "text": "werden.",
+        "start": 62.431,
+        "end": 62.991
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Sicher nicht.",
+    "start": 63.031,
+    "end": 63.832,
+    "words": [
+      {
+        "text": "Sicher",
+        "start": 63.031,
+        "end": 63.351
+      },
+      {
+        "text": "nicht.",
+        "start": 63.391,
+        "end": 63.832
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ich lehne dankend ab, du Möchtegern-Indianer-Jones.",
+    "start": 63.872,
+    "end": 66.093,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 63.872,
+        "end": 63.972
+      },
+      {
+        "text": "lehne",
+        "start": 64.012,
+        "end": 64.272
+      },
+      {
+        "text": "dankend",
+        "start": 64.292,
+        "end": 64.592
+      },
+      {
+        "text": "ab,",
+        "start": 64.632,
+        "end": 64.752
+      },
+      {
+        "text": "du",
+        "start": 64.772,
+        "end": 64.932
+      },
+      {
+        "text": "Möchtegern-Indianer-Jones.",
+        "start": 64.952,
+        "end": 66.093
+      }
+    ]
+  }
+]

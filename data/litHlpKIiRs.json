@@ -1,0 +1,554 @@
+[
+  {
+    "id": 0,
+    "text": " Folgen Sie mir bitte!",
+    "start": 0.411,
+    "end": 10.376,
+    "words": [
+      {
+        "text": "Folgen",
+        "start": 0.411,
+        "end": 0.691
+      },
+      {
+        "text": "Sie",
+        "start": 0.711,
+        "end": 0.831
+      },
+      {
+        "text": "mir",
+        "start": 0.851,
+        "end": 1.011
+      },
+      {
+        "text": "bitte!",
+        "start": 1.031,
+        "end": 10.376
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich habe Sichtkontakt!",
+    "start": 10.416,
+    "end": 11.937,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 10.416,
+        "end": 10.516
+      },
+      {
+        "text": "habe",
+        "start": 10.536,
+        "end": 10.696
+      },
+      {
+        "text": "Sichtkontakt!",
+        "start": 10.776,
+        "end": 11.937
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sie haben Pistolen!",
+    "start": 11.957,
+    "end": 13.097,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 11.957,
+        "end": 12.077
+      },
+      {
+        "text": "haben",
+        "start": 12.117,
+        "end": 12.357
+      },
+      {
+        "text": "Pistolen!",
+        "start": 12.377,
+        "end": 13.097
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und Heaven!",
+    "start": 13.157,
+    "end": 13.738,
+    "words": [
+      {
+        "text": "Und",
+        "start": 13.157,
+        "end": 13.458
+      },
+      {
+        "text": "Heaven!",
+        "start": 13.498,
+        "end": 13.738
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": " Hey, lass das!",
+    "start": 28.076,
+    "end": 29.397,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 28.076,
+        "end": 28.636
+      },
+      {
+        "text": "lass",
+        "start": 28.676,
+        "end": 28.897
+      },
+      {
+        "text": "das!",
+        "start": 28.937,
+        "end": 29.397
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Benutz den nicht als dein Schutzschild!",
+    "start": 29.417,
+    "end": 31.959,
+    "words": [
+      {
+        "text": "Benutz",
+        "start": 29.417,
+        "end": 29.697
+      },
+      {
+        "text": "den",
+        "start": 29.777,
+        "end": 29.957
+      },
+      {
+        "text": "nicht",
+        "start": 29.977,
+        "end": 30.118
+      },
+      {
+        "text": "als",
+        "start": 30.178,
+        "end": 30.358
+      },
+      {
+        "text": "dein",
+        "start": 30.398,
+        "end": 30.558
+      },
+      {
+        "text": "Schutzschild!",
+        "start": 30.598,
+        "end": 31.959
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Hey, paar auf das, was der Bär sagt!",
+    "start": 31.979,
+    "end": 33.86,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 31.979,
+        "end": 32.399
+      },
+      {
+        "text": "paar",
+        "start": 32.439,
+        "end": 32.619
+      },
+      {
+        "text": "auf",
+        "start": 32.659,
+        "end": 32.839
+      },
+      {
+        "text": "das,",
+        "start": 32.859,
+        "end": 33.04
+      },
+      {
+        "text": "was",
+        "start": 33.06,
+        "end": 33.22
+      },
+      {
+        "text": "der",
+        "start": 33.24,
+        "end": 33.38
+      },
+      {
+        "text": "Bär",
+        "start": 33.4,
+        "end": 33.56
+      },
+      {
+        "text": "sagt!",
+        "start": 33.6,
+        "end": 33.86
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich hab euch doch gesagt, wie wichtig der mir ist!",
+    "start": 33.96,
+    "end": 36.582,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 33.96,
+        "end": 34.06
+      },
+      {
+        "text": "hab",
+        "start": 34.08,
+        "end": 34.2
+      },
+      {
+        "text": "euch",
+        "start": 34.26,
+        "end": 34.381
+      },
+      {
+        "text": "doch",
+        "start": 34.421,
+        "end": 34.601
+      },
+      {
+        "text": "gesagt,",
+        "start": 34.621,
+        "end": 34.941
+      },
+      {
+        "text": "wie",
+        "start": 34.961,
+        "end": 35.201
+      },
+      {
+        "text": "wichtig",
+        "start": 35.221,
+        "end": 35.561
+      },
+      {
+        "text": "der",
+        "start": 35.601,
+        "end": 35.721
+      },
+      {
+        "text": "mir",
+        "start": 35.741,
+        "end": 36.042
+      },
+      {
+        "text": "ist!",
+        "start": 36.102,
+        "end": 36.582
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Nimm den Koffer endlich aus der Schusslinie, Takina!",
+    "start": 36.622,
+    "end": 39.044,
+    "words": [
+      {
+        "text": "Nimm",
+        "start": 36.622,
+        "end": 36.802
+      },
+      {
+        "text": "den",
+        "start": 36.842,
+        "end": 36.942
+      },
+      {
+        "text": "Koffer",
+        "start": 36.982,
+        "end": 37.243
+      },
+      {
+        "text": "endlich",
+        "start": 37.283,
+        "end": 37.563
+      },
+      {
+        "text": "aus",
+        "start": 37.603,
+        "end": 37.743
+      },
+      {
+        "text": "der",
+        "start": 37.783,
+        "end": 37.883
+      },
+      {
+        "text": "Schusslinie,",
+        "start": 37.903,
+        "end": 38.443
+      },
+      {
+        "text": "Takina!",
+        "start": 38.483,
+        "end": 39.044
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Gut, das reicht Rückzug!",
+    "start": 39.064,
+    "end": 40.445,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 39.064,
+        "end": 39.224
+      },
+      {
+        "text": "das",
+        "start": 39.244,
+        "end": 39.364
+      },
+      {
+        "text": "reicht",
+        "start": 39.444,
+        "end": 39.644
+      },
+      {
+        "text": "Rückzug!",
+        "start": 39.704,
+        "end": 40.445
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Und wie stellt ihr euch das vor?",
+    "start": 40.485,
+    "end": 41.866,
+    "words": [
+      {
+        "text": "Und",
+        "start": 40.485,
+        "end": 40.705
+      },
+      {
+        "text": "wie",
+        "start": 40.725,
+        "end": 40.805
+      },
+      {
+        "text": "stellt",
+        "start": 40.825,
+        "end": 41.045
+      },
+      {
+        "text": "ihr",
+        "start": 41.105,
+        "end": 41.165
+      },
+      {
+        "text": "euch",
+        "start": 41.185,
+        "end": 41.325
+      },
+      {
+        "text": "das",
+        "start": 41.345,
+        "end": 41.506
+      },
+      {
+        "text": "vor?",
+        "start": 41.546,
+        "end": 41.866
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ah!",
+    "start": 41.966,
+    "end": 42.166,
+    "words": [
+      {
+        "text": "Ah!",
+        "start": 41.966,
+        "end": 42.166
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ah!",
+    "start": 42.226,
+    "end": 42.386,
+    "words": [
+      {
+        "text": "Ah!",
+        "start": 42.226,
+        "end": 42.386
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ah!",
+    "start": 42.426,
+    "end": 42.646,
+    "words": [
+      {
+        "text": "Ah!",
+        "start": 42.426,
+        "end": 42.646
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Dann genau so!",
+    "start": 59.279,
+    "end": 59.639,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 59.279,
+        "end": 59.419
+      },
+      {
+        "text": "genau",
+        "start": 59.439,
+        "end": 59.539
+      },
+      {
+        "text": "so!",
+        "start": 59.559,
+        "end": 59.639
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wieso treffe ich nicht?",
+    "start": 59.659,
+    "end": 60.42,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 59.659,
+        "end": 59.779
+      },
+      {
+        "text": "treffe",
+        "start": 59.819,
+        "end": 59.999
+      },
+      {
+        "text": "ich",
+        "start": 60.06,
+        "end": 60.14
+      },
+      {
+        "text": "nicht?",
+        "start": 60.16,
+        "end": 60.42
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Komm, lass mich dich verarzten.",
+    "start": 104.419,
+    "end": 106.541,
+    "words": [
+      {
+        "text": "Komm,",
+        "start": 104.419,
+        "end": 104.919
+      },
+      {
+        "text": "lass",
+        "start": 104.939,
+        "end": 105.12
+      },
+      {
+        "text": "mich",
+        "start": 105.14,
+        "end": 105.28
+      },
+      {
+        "text": "dich",
+        "start": 105.32,
+        "end": 105.42
+      },
+      {
+        "text": "verarzten.",
+        "start": 105.48,
+        "end": 106.541
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Wie bitte?",
+    "start": 106.581,
+    "end": 109.163,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 106.581,
+        "end": 106.761
+      },
+      {
+        "text": "bitte?",
+        "start": 106.781,
+        "end": 109.163
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Schau doch, du blutest total.",
+    "start": 109.243,
+    "end": 110.624,
+    "words": [
+      {
+        "text": "Schau",
+        "start": 109.243,
+        "end": 109.744
+      },
+      {
+        "text": "doch,",
+        "start": 109.764,
+        "end": 109.924
+      },
+      {
+        "text": "du",
+        "start": 109.944,
+        "end": 110.064
+      },
+      {
+        "text": "blutest",
+        "start": 110.084,
+        "end": 110.484
+      },
+      {
+        "text": "total.",
+        "start": 110.524,
+        "end": 110.624
+      }
+    ]
+  }
+]

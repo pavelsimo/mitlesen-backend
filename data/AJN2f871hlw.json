@@ -1,0 +1,464 @@
+[
+  {
+    "id": 0,
+    "text": " Du willst damit sagen, dass ich das machen soll, nicht wahr?",
+    "start": 0.391,
+    "end": 11.399,
+    "words": [
+      {
+        "text": "Du",
+        "start": 0.391,
+        "end": 0.491
+      },
+      {
+        "text": "willst",
+        "start": 0.511,
+        "end": 0.691
+      },
+      {
+        "text": "damit",
+        "start": 0.711,
+        "end": 0.932
+      },
+      {
+        "text": "sagen,",
+        "start": 0.972,
+        "end": 1.132
+      },
+      {
+        "text": "dass",
+        "start": 1.172,
+        "end": 1.332
+      },
+      {
+        "text": "ich",
+        "start": 1.352,
+        "end": 1.492
+      },
+      {
+        "text": "das",
+        "start": 1.512,
+        "end": 1.672
+      },
+      {
+        "text": "machen",
+        "start": 1.692,
+        "end": 1.892
+      },
+      {
+        "text": "soll,",
+        "start": 1.932,
+        "end": 2.092
+      },
+      {
+        "text": "nicht",
+        "start": 2.112,
+        "end": 2.252
+      },
+      {
+        "text": "wahr?",
+        "start": 2.292,
+        "end": 11.399
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Zink aus Nori-Algen?",
+    "start": 11.439,
+    "end": 13.18,
+    "words": [
+      {
+        "text": "Zink",
+        "start": 11.439,
+        "end": 11.719
+      },
+      {
+        "text": "aus",
+        "start": 11.759,
+        "end": 11.879
+      },
+      {
+        "text": "Nori-Algen?",
+        "start": 11.919,
+        "end": 13.18
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Onigiri aus Mangan.",
+    "start": 13.24,
+    "end": 14.981,
+    "words": [
+      {
+        "text": "Onigiri",
+        "start": 13.24,
+        "end": 13.68
+      },
+      {
+        "text": "aus",
+        "start": 13.72,
+        "end": 13.9
+      },
+      {
+        "text": "Mangan.",
+        "start": 13.94,
+        "end": 14.981
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Nehmen wir noch Kohle?",
+    "start": 15.021,
+    "end": 16.762,
+    "words": [
+      {
+        "text": "Nehmen",
+        "start": 15.021,
+        "end": 15.221
+      },
+      {
+        "text": "wir",
+        "start": 15.241,
+        "end": 15.341
+      },
+      {
+        "text": "noch",
+        "start": 15.381,
+        "end": 15.501
+      },
+      {
+        "text": "Kohle?",
+        "start": 15.541,
+        "end": 16.762
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Zack, ne Mangan-Batterie.",
+    "start": 16.802,
+    "end": 18.543,
+    "words": [
+      {
+        "text": "Zack,",
+        "start": 16.802,
+        "end": 17.042
+      },
+      {
+        "text": "ne",
+        "start": 17.122,
+        "end": 17.242
+      },
+      {
+        "text": "Mangan-Batterie.",
+        "start": 17.282,
+        "end": 18.543
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Zack, ne Mangan-Batterie.",
+    "start": 18.583,
+    "end": 20.244,
+    "words": [
+      {
+        "text": "Zack,",
+        "start": 18.583,
+        "end": 18.823
+      },
+      {
+        "text": "ne",
+        "start": 18.903,
+        "end": 19.024
+      },
+      {
+        "text": "Mangan-Batterie.",
+        "start": 19.044,
+        "end": 20.244
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Nanu?",
+    "start": 20.304,
+    "end": 22.046,
+    "words": [
+      {
+        "text": "Nanu?",
+        "start": 20.304,
+        "end": 22.046
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wow, das ging ja flott.",
+    "start": 22.086,
+    "end": 23.727,
+    "words": [
+      {
+        "text": "Wow,",
+        "start": 22.086,
+        "end": 22.386
+      },
+      {
+        "text": "das",
+        "start": 22.426,
+        "end": 22.566
+      },
+      {
+        "text": "ging",
+        "start": 22.606,
+        "end": 22.806
+      },
+      {
+        "text": "ja",
+        "start": 22.826,
+        "end": 23.006
+      },
+      {
+        "text": "flott.",
+        "start": 23.046,
+        "end": 23.727
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich dachte, das wäre sau schwer.",
+    "start": 23.787,
+    "end": 25.028,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 23.787,
+        "end": 23.907
+      },
+      {
+        "text": "dachte,",
+        "start": 23.927,
+        "end": 24.127
+      },
+      {
+        "text": "das",
+        "start": 24.167,
+        "end": 24.327
+      },
+      {
+        "text": "wäre",
+        "start": 24.347,
+        "end": 24.567
+      },
+      {
+        "text": "sau",
+        "start": 24.587,
+        "end": 24.727
+      },
+      {
+        "text": "schwer.",
+        "start": 24.767,
+        "end": 25.028
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " War's aber gar nicht!",
+    "start": 26.103,
+    "end": 27.485,
+    "words": [
+      {
+        "text": "War's",
+        "start": 26.103,
+        "end": 26.584
+      },
+      {
+        "text": "aber",
+        "start": 26.604,
+        "end": 26.744
+      },
+      {
+        "text": "gar",
+        "start": 26.784,
+        "end": 26.904
+      },
+      {
+        "text": "nicht!",
+        "start": 26.924,
+        "end": 27.485
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Mangan-Trockenzelle?",
+    "start": 27.505,
+    "end": 29.247,
+    "words": [
+      {
+        "text": "Mangan-Trockenzelle?",
+        "start": 27.505,
+        "end": 29.247
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ganz viel Mangan!",
+    "start": 29.287,
+    "end": 31.05,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 29.287,
+        "end": 29.488
+      },
+      {
+        "text": "viel",
+        "start": 29.528,
+        "end": 29.688
+      },
+      {
+        "text": "Mangan!",
+        "start": 29.728,
+        "end": 31.05
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Mangan-Trockenzelle?",
+    "start": 31.07,
+    "end": 32.832,
+    "words": [
+      {
+        "text": "Mangan-Trockenzelle?",
+        "start": 31.07,
+        "end": 32.832
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Noch mehr Mangan!",
+    "start": 32.852,
+    "end": 34.594,
+    "words": [
+      {
+        "text": "Noch",
+        "start": 32.852,
+        "end": 33.032
+      },
+      {
+        "text": "mehr",
+        "start": 33.052,
+        "end": 33.232
+      },
+      {
+        "text": "Mangan!",
+        "start": 33.293,
+        "end": 34.594
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Mangan-Trockenzelle?",
+    "start": 34.614,
+    "end": 36.156,
+    "words": [
+      {
+        "text": "Mangan-Trockenzelle?",
+        "start": 34.614,
+        "end": 36.156
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Scheiß viel Mangan!",
+    "start": 36.317,
+    "end": 37.919,
+    "words": [
+      {
+        "text": "Scheiß",
+        "start": 36.317,
+        "end": 36.677
+      },
+      {
+        "text": "viel",
+        "start": 36.697,
+        "end": 36.857
+      },
+      {
+        "text": "Mangan!",
+        "start": 36.897,
+        "end": 37.919
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Stell mindestens 800 davon her!",
+    "start": 38.439,
+    "end": 39.941,
+    "words": [
+      {
+        "text": "Stell",
+        "start": 38.439,
+        "end": 38.64
+      },
+      {
+        "text": "mindestens",
+        "start": 38.66,
+        "end": 39.06
+      },
+      {
+        "text": "davon",
+        "start": 39.14,
+        "end": 39.481
+      },
+      {
+        "text": "her!",
+        "start": 39.501,
+        "end": 39.941
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "WAS?!",
+    "start": 39.981,
+    "end": 40.482,
+    "words": [
+      {
+        "text": "WAS?!",
+        "start": 39.981,
+        "end": 40.482
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "DU MONSTER!",
+    "start": 40.502,
+    "end": 41.203,
+    "words": [
+      {
+        "text": "DU",
+        "start": 40.502,
+        "end": 40.743
+      },
+      {
+        "text": "MONSTER!",
+        "start": 40.763,
+        "end": 41.203
+      }
+    ]
+  }
+]

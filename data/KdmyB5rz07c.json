@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 0,
+    "text": " Alles gut.",
+    "start": 5.592,
+    "end": 6.313,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 5.592,
+        "end": 5.792
+      },
+      {
+        "text": "gut.",
+        "start": 5.812,
+        "end": 6.313
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sie hatten von Anfang an vor, uns als Schild zu missbrauchen.",
+    "start": 6.333,
+    "end": 8.874,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 6.333,
+        "end": 6.433
+      },
+      {
+        "text": "hatten",
+        "start": 6.453,
+        "end": 6.713
+      },
+      {
+        "text": "von",
+        "start": 6.753,
+        "end": 6.933
+      },
+      {
+        "text": "Anfang",
+        "start": 6.973,
+        "end": 7.313
+      },
+      {
+        "text": "an",
+        "start": 7.333,
+        "end": 7.473
+      },
+      {
+        "text": "vor,",
+        "start": 7.513,
+        "end": 7.653
+      },
+      {
+        "text": "uns",
+        "start": 7.694,
+        "end": 7.834
+      },
+      {
+        "text": "als",
+        "start": 7.854,
+        "end": 8.014
+      },
+      {
+        "text": "Schild",
+        "start": 8.034,
+        "end": 8.274
+      },
+      {
+        "text": "zu",
+        "start": 8.314,
+        "end": 8.414
+      },
+      {
+        "text": "missbrauchen.",
+        "start": 8.454,
+        "end": 8.874
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Niemals!",
+    "start": 9.315,
+    "end": 10.315,
+    "words": [
+      {
+        "text": "Niemals!",
+        "start": 9.315,
+        "end": 10.315
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Darauf können Sie wetten.",
+    "start": 10.335,
+    "end": 11.576,
+    "words": [
+      {
+        "text": "Darauf",
+        "start": 10.335,
+        "end": 10.655
+      },
+      {
+        "text": "können",
+        "start": 10.675,
+        "end": 10.915
+      },
+      {
+        "text": "Sie",
+        "start": 10.956,
+        "end": 11.116
+      },
+      {
+        "text": "wetten.",
+        "start": 11.136,
+        "end": 11.576
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ihnen ist es nur recht, wenn wir beide verrecken.",
+    "start": 11.636,
+    "end": 14.878,
+    "words": [
+      {
+        "text": "Ihnen",
+        "start": 11.636,
+        "end": 11.876
+      },
+      {
+        "text": "ist",
+        "start": 11.916,
+        "end": 12.056
+      },
+      {
+        "text": "es",
+        "start": 12.116,
+        "end": 12.296
+      },
+      {
+        "text": "nur",
+        "start": 12.316,
+        "end": 12.496
+      },
+      {
+        "text": "recht,",
+        "start": 12.536,
+        "end": 12.737
+      },
+      {
+        "text": "wenn",
+        "start": 12.757,
+        "end": 12.917
+      },
+      {
+        "text": "wir",
+        "start": 12.937,
+        "end": 13.097
+      },
+      {
+        "text": "beide",
+        "start": 13.117,
+        "end": 13.377
+      },
+      {
+        "text": "verrecken.",
+        "start": 13.397,
+        "end": 14.878
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Dann will ich dieses Luxionsschwert doch mal ausprobieren.",
+    "start": 14.898,
+    "end": 17.439,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 14.898,
+        "end": 15.058
+      },
+      {
+        "text": "will",
+        "start": 15.078,
+        "end": 15.218
+      },
+      {
+        "text": "ich",
+        "start": 15.238,
+        "end": 15.358
+      },
+      {
+        "text": "dieses",
+        "start": 15.398,
+        "end": 15.598
+      },
+      {
+        "text": "Luxionsschwert",
+        "start": 15.698,
+        "end": 16.379
+      },
+      {
+        "text": "doch",
+        "start": 16.399,
+        "end": 16.499
+      },
+      {
+        "text": "mal",
+        "start": 16.599,
+        "end": 16.759
+      },
+      {
+        "text": "ausprobieren.",
+        "start": 16.799,
+        "end": 17.439
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Der letzte Streich!",
+    "start": 17.459,
+    "end": 24.104,
+    "words": [
+      {
+        "text": "Der",
+        "start": 17.459,
+        "end": 17.66
+      },
+      {
+        "text": "letzte",
+        "start": 17.68,
+        "end": 18.02
+      },
+      {
+        "text": "Streich!",
+        "start": 18.06,
+        "end": 24.104
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich mach dich fertig!",
+    "start": 24.164,
+    "end": 29.067,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 24.164,
+        "end": 27.766
+      },
+      {
+        "text": "mach",
+        "start": 27.826,
+        "end": 28.086
+      },
+      {
+        "text": "dich",
+        "start": 28.126,
+        "end": 28.306
+      },
+      {
+        "text": "fertig!",
+        "start": 28.366,
+        "end": 29.067
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Herr Lian, du bist ja so stark!",
+    "start": 31.408,
+    "end": 32.929,
+    "words": [
+      {
+        "text": "Herr",
+        "start": 31.408,
+        "end": 31.588
+      },
+      {
+        "text": "Lian,",
+        "start": 31.628,
+        "end": 32.008
+      },
+      {
+        "text": "du",
+        "start": 32.028,
+        "end": 32.148
+      },
+      {
+        "text": "bist",
+        "start": 32.168,
+        "end": 32.289
+      },
+      {
+        "text": "ja",
+        "start": 32.329,
+        "end": 32.449
+      },
+      {
+        "text": "so",
+        "start": 32.469,
+        "end": 32.589
+      },
+      {
+        "text": "stark!",
+        "start": 32.629,
+        "end": 32.929
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Ja, ich hab zu Hause immer ziemlich viel trainiert.",
+    "start": 33.975,
+    "end": 36.297,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 33.975,
+        "end": 34.276
+      },
+      {
+        "text": "ich",
+        "start": 34.296,
+        "end": 34.376
+      },
+      {
+        "text": "hab",
+        "start": 34.396,
+        "end": 34.576
+      },
+      {
+        "text": "zu",
+        "start": 34.596,
+        "end": 34.696
+      },
+      {
+        "text": "Hause",
+        "start": 34.736,
+        "end": 34.956
+      },
+      {
+        "text": "immer",
+        "start": 34.996,
+        "end": 35.236
+      },
+      {
+        "text": "ziemlich",
+        "start": 35.276,
+        "end": 35.617
+      },
+      {
+        "text": "viel",
+        "start": 35.637,
+        "end": 35.817
+      },
+      {
+        "text": "trainiert.",
+        "start": 35.837,
+        "end": 36.297
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich würde aber echt gern mal was Übleres bekämpfen.",
+    "start": 36.357,
+    "end": 38.719,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 36.357,
+        "end": 36.457
+      },
+      {
+        "text": "würde",
+        "start": 36.497,
+        "end": 36.717
+      },
+      {
+        "text": "aber",
+        "start": 36.737,
+        "end": 36.958
+      },
+      {
+        "text": "echt",
+        "start": 36.998,
+        "end": 37.178
+      },
+      {
+        "text": "gern",
+        "start": 37.218,
+        "end": 37.358
+      },
+      {
+        "text": "mal",
+        "start": 37.458,
+        "end": 37.578
+      },
+      {
+        "text": "was",
+        "start": 37.638,
+        "end": 37.858
+      },
+      {
+        "text": "Übleres",
+        "start": 37.898,
+        "end": 38.279
+      },
+      {
+        "text": "bekämpfen.",
+        "start": 38.319,
+        "end": 38.719
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Na warte!",
+    "start": 39.159,
+    "end": 45.604,
+    "words": [
+      {
+        "text": "Na",
+        "start": 39.159,
+        "end": 41.601
+      },
+      {
+        "text": "warte!",
+        "start": 41.821,
+        "end": 45.604
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du glaubst wohl, du kannst uns in Schrecken einjagen?",
+    "start": 45.624,
+    "end": 49.407,
+    "words": [
+      {
+        "text": "Du",
+        "start": 45.624,
+        "end": 45.785
+      },
+      {
+        "text": "glaubst",
+        "start": 45.805,
+        "end": 46.125
+      },
+      {
+        "text": "wohl,",
+        "start": 46.145,
+        "end": 46.305
+      },
+      {
+        "text": "du",
+        "start": 46.325,
+        "end": 46.445
+      },
+      {
+        "text": "kannst",
+        "start": 46.485,
+        "end": 46.765
+      },
+      {
+        "text": "uns",
+        "start": 46.785,
+        "end": 46.906
+      },
+      {
+        "text": "in",
+        "start": 46.966,
+        "end": 47.066
+      },
+      {
+        "text": "Schrecken",
+        "start": 47.086,
+        "end": 47.386
+      },
+      {
+        "text": "einjagen?",
+        "start": 47.446,
+        "end": 49.407
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Es tut mir leid.",
+    "start": 49.468,
+    "end": 50.668,
+    "words": [
+      {
+        "text": "Es",
+        "start": 49.468,
+        "end": 49.608
+      },
+      {
+        "text": "tut",
+        "start": 49.628,
+        "end": 49.808
+      },
+      {
+        "text": "mir",
+        "start": 49.848,
+        "end": 50.008
+      },
+      {
+        "text": "leid.",
+        "start": 50.028,
+        "end": 50.668
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Nur weil sie mich beschützt haben.",
+    "start": 50.709,
+    "end": 57.013,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 50.709,
+        "end": 50.849
+      },
+      {
+        "text": "weil",
+        "start": 50.869,
+        "end": 50.989
+      },
+      {
+        "text": "sie",
+        "start": 51.009,
+        "end": 51.109
+      },
+      {
+        "text": "mich",
+        "start": 51.149,
+        "end": 51.309
+      },
+      {
+        "text": "beschützt",
+        "start": 51.349,
+        "end": 51.729
+      },
+      {
+        "text": "haben.",
+        "start": 51.769,
+        "end": 57.013
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Herr Liam!",
+    "start": 57.033,
+    "end": 58.755,
+    "words": [
+      {
+        "text": "Herr",
+        "start": 57.033,
+        "end": 57.194
+      },
+      {
+        "text": "Liam!",
+        "start": 57.234,
+        "end": 58.755
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ihr habt gut durchgehalten.",
+    "start": 58.835,
+    "end": 60.016,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 58.835,
+        "end": 58.895
+      },
+      {
+        "text": "habt",
+        "start": 58.915,
+        "end": 59.115
+      },
+      {
+        "text": "gut",
+        "start": 59.135,
+        "end": 59.335
+      },
+      {
+        "text": "durchgehalten.",
+        "start": 59.375,
+        "end": 60.016
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Den Rest könnt ihr gerne uns überlassen.",
+    "start": 60.556,
+    "end": 62.358,
+    "words": [
+      {
+        "text": "Den",
+        "start": 60.556,
+        "end": 60.716
+      },
+      {
+        "text": "Rest",
+        "start": 60.776,
+        "end": 60.977
+      },
+      {
+        "text": "könnt",
+        "start": 60.997,
+        "end": 61.157
+      },
+      {
+        "text": "ihr",
+        "start": 61.197,
+        "end": 61.297
+      },
+      {
+        "text": "gerne",
+        "start": 61.317,
+        "end": 61.657
+      },
+      {
+        "text": "uns",
+        "start": 61.677,
+        "end": 61.917
+      },
+      {
+        "text": "überlassen.",
+        "start": 61.957,
+        "end": 62.358
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Die stecken die Lorbeeren ein.",
+    "start": 64.022,
+    "end": 65.303,
+    "words": [
+      {
+        "text": "Die",
+        "start": 64.022,
+        "end": 64.162
+      },
+      {
+        "text": "stecken",
+        "start": 64.202,
+        "end": 64.522
+      },
+      {
+        "text": "die",
+        "start": 64.542,
+        "end": 64.642
+      },
+      {
+        "text": "Lorbeeren",
+        "start": 64.683,
+        "end": 65.123
+      },
+      {
+        "text": "ein.",
+        "start": 65.163,
+        "end": 65.303
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Marie, fürchtest du dich nicht?",
+    "start": 69.104,
+    "end": 70.445,
+    "words": [
+      {
+        "text": "Marie,",
+        "start": 69.104,
+        "end": 69.544
+      },
+      {
+        "text": "fürchtest",
+        "start": 69.584,
+        "end": 69.944
+      },
+      {
+        "text": "du",
+        "start": 69.964,
+        "end": 70.064
+      },
+      {
+        "text": "dich",
+        "start": 70.084,
+        "end": 70.264
+      },
+      {
+        "text": "nicht?",
+        "start": 70.304,
+        "end": 70.445
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Nein, macht euch keine Sorgen.",
+    "start": 70.885,
+    "end": 74.606,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 70.885,
+        "end": 71.385
+      },
+      {
+        "text": "macht",
+        "start": 71.425,
+        "end": 71.605
+      },
+      {
+        "text": "euch",
+        "start": 71.685,
+        "end": 71.825
+      },
+      {
+        "text": "keine",
+        "start": 71.845,
+        "end": 72.105
+      },
+      {
+        "text": "Sorgen.",
+        "start": 72.145,
+        "end": 74.606
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Ehrlich gesagt, mache ich mir viel mehr Sorgen um dich, Hoheit.",
+    "start": 74.686,
+    "end": 77.447,
+    "words": [
+      {
+        "text": "Ehrlich",
+        "start": 74.686,
+        "end": 75.066
+      },
+      {
+        "text": "gesagt,",
+        "start": 75.106,
+        "end": 75.486
+      },
+      {
+        "text": "mache",
+        "start": 75.506,
+        "end": 75.686
+      },
+      {
+        "text": "ich",
+        "start": 75.726,
+        "end": 75.826
+      },
+      {
+        "text": "mir",
+        "start": 75.866,
+        "end": 76.006
+      },
+      {
+        "text": "viel",
+        "start": 76.047,
+        "end": 76.147
+      },
+      {
+        "text": "mehr",
+        "start": 76.187,
+        "end": 76.307
+      },
+      {
+        "text": "Sorgen",
+        "start": 76.347,
+        "end": 76.587
+      },
+      {
+        "text": "um",
+        "start": 76.627,
+        "end": 76.727
+      },
+      {
+        "text": "dich,",
+        "start": 76.747,
+        "end": 76.947
+      },
+      {
+        "text": "Hoheit.",
+        "start": 76.987,
+        "end": 77.447
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Wer im Königspalast aufwächst, dem fehlt die Härte.",
+    "start": 77.467,
+    "end": 80.488,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 77.467,
+        "end": 77.567
+      },
+      {
+        "text": "im",
+        "start": 77.607,
+        "end": 77.787
+      },
+      {
+        "text": "Königspalast",
+        "start": 77.807,
+        "end": 78.507
+      },
+      {
+        "text": "aufwächst,",
+        "start": 78.547,
+        "end": 78.968
+      },
+      {
+        "text": "dem",
+        "start": 78.988,
+        "end": 79.168
+      },
+      {
+        "text": "fehlt",
+        "start": 79.208,
+        "end": 79.428
+      },
+      {
+        "text": "die",
+        "start": 79.468,
+        "end": 79.568
+      },
+      {
+        "text": "Härte.",
+        "start": 79.608,
+        "end": 80.488
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Hey, sei vorsichtig, du beleidigst seine Hoheit.",
+    "start": 80.528,
+    "end": 83.489,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 80.528,
+        "end": 80.828
+      },
+      {
+        "text": "sei",
+        "start": 80.848,
+        "end": 81.028
+      },
+      {
+        "text": "vorsichtig,",
+        "start": 81.068,
+        "end": 81.548
+      },
+      {
+        "text": "du",
+        "start": 81.588,
+        "end": 81.688
+      },
+      {
+        "text": "beleidigst",
+        "start": 81.709,
+        "end": 82.129
+      },
+      {
+        "text": "seine",
+        "start": 82.169,
+        "end": 82.389
+      },
+      {
+        "text": "Hoheit.",
+        "start": 82.429,
+        "end": 83.489
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Aktuell sind wir jedoch bloß Studenten und so miteinander gleichgestellt.",
+    "start": 83.529,
+    "end": 86.97,
+    "words": [
+      {
+        "text": "Aktuell",
+        "start": 83.529,
+        "end": 83.929
+      },
+      {
+        "text": "sind",
+        "start": 83.969,
+        "end": 84.089
+      },
+      {
+        "text": "wir",
+        "start": 84.109,
+        "end": 84.209
+      },
+      {
+        "text": "jedoch",
+        "start": 84.229,
+        "end": 84.469
+      },
+      {
+        "text": "bloß",
+        "start": 84.489,
+        "end": 84.69
+      },
+      {
+        "text": "Studenten",
+        "start": 84.73,
+        "end": 85.23
+      },
+      {
+        "text": "und",
+        "start": 85.27,
+        "end": 85.39
+      },
+      {
+        "text": "so",
+        "start": 85.41,
+        "end": 85.55
+      },
+      {
+        "text": "miteinander",
+        "start": 85.57,
+        "end": 86.05
+      },
+      {
+        "text": "gleichgestellt.",
+        "start": 86.09,
+        "end": 86.97
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "An seiner Seite wirst du es ganz und gar nicht leicht haben, Werte Marie.",
+    "start": 87.03,
+    "end": 90.031,
+    "words": [
+      {
+        "text": "An",
+        "start": 87.03,
+        "end": 87.23
+      },
+      {
+        "text": "seiner",
+        "start": 87.27,
+        "end": 87.531
+      },
+      {
+        "text": "Seite",
+        "start": 87.551,
+        "end": 87.831
+      },
+      {
+        "text": "wirst",
+        "start": 87.871,
+        "end": 88.031
+      },
+      {
+        "text": "du",
+        "start": 88.071,
+        "end": 88.111
+      },
+      {
+        "text": "es",
+        "start": 88.131,
+        "end": 88.251
+      },
+      {
+        "text": "ganz",
+        "start": 88.271,
+        "end": 88.451
+      },
+      {
+        "text": "und",
+        "start": 88.471,
+        "end": 88.611
+      },
+      {
+        "text": "gar",
+        "start": 88.631,
+        "end": 88.751
+      },
+      {
+        "text": "nicht",
+        "start": 88.771,
+        "end": 88.951
+      },
+      {
+        "text": "leicht",
+        "start": 88.991,
+        "end": 89.211
+      },
+      {
+        "text": "haben,",
+        "start": 89.231,
+        "end": 89.471
+      },
+      {
+        "text": "Werte",
+        "start": 89.491,
+        "end": 89.791
+      },
+      {
+        "text": "Marie.",
+        "start": 89.811,
+        "end": 90.031
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": " Zeit für Magie!",
+    "start": 98.108,
+    "end": 107.4,
+    "words": [
+      {
+        "text": "Zeit",
+        "start": 98.108,
+        "end": 100.711
+      },
+      {
+        "text": "für",
+        "start": 100.771,
+        "end": 101.052
+      },
+      {
+        "text": "Magie!",
+        "start": 101.292,
+        "end": 107.4
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Wir brauchen Verstärkung!",
+    "start": 107.44,
+    "end": 109.122,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 107.44,
+        "end": 107.58
+      },
+      {
+        "text": "brauchen",
+        "start": 107.6,
+        "end": 107.92
+      },
+      {
+        "text": "Verstärkung!",
+        "start": 107.96,
+        "end": 109.122
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Nur die Ruhe bewahren.",
+    "start": 109.182,
+    "end": 110.824,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 109.182,
+        "end": 109.382
+      },
+      {
+        "text": "die",
+        "start": 109.402,
+        "end": 109.542
+      },
+      {
+        "text": "Ruhe",
+        "start": 109.583,
+        "end": 109.863
+      },
+      {
+        "text": "bewahren.",
+        "start": 109.903,
+        "end": 110.824
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Seine Majestät ist nicht so schwach, wie ihr ihn einschätzt.",
+    "start": 110.844,
+    "end": 113.007,
+    "words": [
+      {
+        "text": "Seine",
+        "start": 110.844,
+        "end": 111.044
+      },
+      {
+        "text": "Majestät",
+        "start": 111.084,
+        "end": 111.505
+      },
+      {
+        "text": "ist",
+        "start": 111.545,
+        "end": 111.665
+      },
+      {
+        "text": "nicht",
+        "start": 111.685,
+        "end": 111.845
+      },
+      {
+        "text": "so",
+        "start": 111.885,
+        "end": 111.966
+      },
+      {
+        "text": "schwach,",
+        "start": 112.006,
+        "end": 112.226
+      },
+      {
+        "text": "wie",
+        "start": 112.266,
+        "end": 112.366
+      },
+      {
+        "text": "ihr",
+        "start": 112.406,
+        "end": 112.466
+      },
+      {
+        "text": "ihn",
+        "start": 112.486,
+        "end": 112.566
+      },
+      {
+        "text": "einschätzt.",
+        "start": 112.586,
+        "end": 113.007
+      }
+    ]
+  }
+]

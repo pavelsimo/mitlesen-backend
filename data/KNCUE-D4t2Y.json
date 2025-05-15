@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "text": " Er spielt seine Rolle als Verlobter perfekt.",
+    "start": 2.893,
+    "end": 5.614,
+    "words": [
+      {
+        "text": "Er",
+        "start": 2.893,
+        "end": 2.993
+      },
+      {
+        "text": "spielt",
+        "start": 3.013,
+        "end": 3.253
+      },
+      {
+        "text": "seine",
+        "start": 3.293,
+        "end": 3.433
+      },
+      {
+        "text": "Rolle",
+        "start": 3.493,
+        "end": 3.713
+      },
+      {
+        "text": "als",
+        "start": 3.753,
+        "end": 3.873
+      },
+      {
+        "text": "Verlobter",
+        "start": 3.913,
+        "end": 4.414
+      },
+      {
+        "text": "perfekt.",
+        "start": 4.454,
+        "end": 5.614
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sogar ein Fake-Date hat er geplant.",
+    "start": 5.654,
+    "end": 7.615,
+    "words": [
+      {
+        "text": "Sogar",
+        "start": 5.654,
+        "end": 5.974
+      },
+      {
+        "text": "ein",
+        "start": 6.014,
+        "end": 6.154
+      },
+      {
+        "text": "Fake-Date",
+        "start": 6.214,
+        "end": 6.794
+      },
+      {
+        "text": "hat",
+        "start": 6.834,
+        "end": 6.954
+      },
+      {
+        "text": "er",
+        "start": 6.994,
+        "end": 7.094
+      },
+      {
+        "text": "geplant.",
+        "start": 7.134,
+        "end": 7.615
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Noah, ich möchte mit dir über etwas reden.",
+    "start": 8.375,
+    "end": 14.017,
+    "words": [
+      {
+        "text": "Noah,",
+        "start": 8.375,
+        "end": 11.296
+      },
+      {
+        "text": "ich",
+        "start": 11.336,
+        "end": 11.476
+      },
+      {
+        "text": "möchte",
+        "start": 11.496,
+        "end": 11.796
+      },
+      {
+        "text": "mit",
+        "start": 11.816,
+        "end": 11.936
+      },
+      {
+        "text": "dir",
+        "start": 11.976,
+        "end": 12.136
+      },
+      {
+        "text": "über",
+        "start": 12.176,
+        "end": 12.316
+      },
+      {
+        "text": "etwas",
+        "start": 12.356,
+        "end": 12.796
+      },
+      {
+        "text": "reden.",
+        "start": 12.836,
+        "end": 14.017
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich weiß, worüber.",
+    "start": 14.057,
+    "end": 15.017,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.057,
+        "end": 14.197
+      },
+      {
+        "text": "weiß,",
+        "start": 14.237,
+        "end": 14.537
+      },
+      {
+        "text": "worüber.",
+        "start": 14.557,
+        "end": 15.017
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Da du mich bisher ausgenutzt hast, wirst du dich, sobald du mich nicht mehr brauchst, meiner entledigen, richtig?",
+    "start": 16.478,
+    "end": 24.54,
+    "words": [
+      {
+        "text": "Da",
+        "start": 16.478,
+        "end": 17.218
+      },
+      {
+        "text": "du",
+        "start": 17.238,
+        "end": 17.378
+      },
+      {
+        "text": "mich",
+        "start": 17.398,
+        "end": 17.558
+      },
+      {
+        "text": "bisher",
+        "start": 17.578,
+        "end": 17.938
+      },
+      {
+        "text": "ausgenutzt",
+        "start": 17.978,
+        "end": 18.558
+      },
+      {
+        "text": "hast,",
+        "start": 18.578,
+        "end": 18.838
+      },
+      {
+        "text": "wirst",
+        "start": 18.858,
+        "end": 19.078
+      },
+      {
+        "text": "du",
+        "start": 19.098,
+        "end": 19.198
+      },
+      {
+        "text": "dich,",
+        "start": 19.218,
+        "end": 19.939
+      },
+      {
+        "text": "sobald",
+        "start": 19.959,
+        "end": 20.259
+      },
+      {
+        "text": "du",
+        "start": 20.279,
+        "end": 20.419
+      },
+      {
+        "text": "mich",
+        "start": 20.439,
+        "end": 20.619
+      },
+      {
+        "text": "nicht",
+        "start": 20.659,
+        "end": 20.819
+      },
+      {
+        "text": "mehr",
+        "start": 20.839,
+        "end": 20.999
+      },
+      {
+        "text": "brauchst,",
+        "start": 21.059,
+        "end": 22.52
+      },
+      {
+        "text": "meiner",
+        "start": 22.54,
+        "end": 22.82
+      },
+      {
+        "text": "entledigen,",
+        "start": 22.86,
+        "end": 23.44
+      },
+      {
+        "text": "richtig?",
+        "start": 23.48,
+        "end": 24.54
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Musst du das ausgerechnet so ausdrücken?",
+    "start": 24.58,
+    "end": 26.581,
+    "words": [
+      {
+        "text": "Musst",
+        "start": 24.58,
+        "end": 24.7
+      },
+      {
+        "text": "du",
+        "start": 24.72,
+        "end": 24.86
+      },
+      {
+        "text": "das",
+        "start": 24.88,
+        "end": 25.06
+      },
+      {
+        "text": "ausgerechnet",
+        "start": 25.12,
+        "end": 25.781
+      },
+      {
+        "text": "so",
+        "start": 25.821,
+        "end": 26.041
+      },
+      {
+        "text": "ausdrücken?",
+        "start": 26.081,
+        "end": 26.581
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Das klingt ja echt, als wäre ich das Allerletzte.",
+    "start": 27.241,
+    "end": 29.602,
+    "words": [
+      {
+        "text": "Das",
+        "start": 27.241,
+        "end": 27.401
+      },
+      {
+        "text": "klingt",
+        "start": 27.461,
+        "end": 27.701
+      },
+      {
+        "text": "ja",
+        "start": 27.741,
+        "end": 27.881
+      },
+      {
+        "text": "echt,",
+        "start": 27.921,
+        "end": 28.041
+      },
+      {
+        "text": "als",
+        "start": 28.101,
+        "end": 28.261
+      },
+      {
+        "text": "wäre",
+        "start": 28.281,
+        "end": 28.481
+      },
+      {
+        "text": "ich",
+        "start": 28.521,
+        "end": 28.642
+      },
+      {
+        "text": "das",
+        "start": 28.682,
+        "end": 28.902
+      },
+      {
+        "text": "Allerletzte.",
+        "start": 28.942,
+        "end": 29.602
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Aber es entspricht der Wahrheit.",
+    "start": 30.407,
+    "end": 32.027,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 30.407,
+        "end": 30.547
+      },
+      {
+        "text": "es",
+        "start": 30.587,
+        "end": 30.727
+      },
+      {
+        "text": "entspricht",
+        "start": 30.787,
+        "end": 31.147
+      },
+      {
+        "text": "der",
+        "start": 31.187,
+        "end": 31.287
+      },
+      {
+        "text": "Wahrheit.",
+        "start": 31.327,
+        "end": 32.027
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ja, schon, aber... Naja, ich bin ja sowieso nur eine Erpresserin, wie ein gewisser jemand mir vor kurzem mitgeteilt hat.",
+    "start": 32.047,
+    "end": 43.91,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 32.047,
+        "end": 32.247
+      },
+      {
+        "text": "schon,",
+        "start": 32.287,
+        "end": 32.888
+      },
+      {
+        "text": "aber...",
+        "start": 32.928,
+        "end": 34.088
+      },
+      {
+        "text": "Naja,",
+        "start": 34.888,
+        "end": 35.268
+      },
+      {
+        "text": "ich",
+        "start": 35.308,
+        "end": 35.428
+      },
+      {
+        "text": "bin",
+        "start": 35.448,
+        "end": 35.568
+      },
+      {
+        "text": "ja",
+        "start": 35.608,
+        "end": 35.748
+      },
+      {
+        "text": "sowieso",
+        "start": 35.768,
+        "end": 36.188
+      },
+      {
+        "text": "nur",
+        "start": 36.228,
+        "end": 36.408
+      },
+      {
+        "text": "eine",
+        "start": 36.428,
+        "end": 36.588
+      },
+      {
+        "text": "Erpresserin,",
+        "start": 36.628,
+        "end": 37.248
+      },
+      {
+        "text": "wie",
+        "start": 37.268,
+        "end": 37.389
+      },
+      {
+        "text": "ein",
+        "start": 37.409,
+        "end": 37.529
+      },
+      {
+        "text": "gewisser",
+        "start": 37.569,
+        "end": 37.949
+      },
+      {
+        "text": "jemand",
+        "start": 37.989,
+        "end": 38.249
+      },
+      {
+        "text": "mir",
+        "start": 38.289,
+        "end": 38.409
+      },
+      {
+        "text": "vor",
+        "start": 38.449,
+        "end": 38.569
+      },
+      {
+        "text": "kurzem",
+        "start": 38.589,
+        "end": 38.949
+      },
+      {
+        "text": "mitgeteilt",
+        "start": 38.989,
+        "end": 39.589
+      },
+      {
+        "text": "hat.",
+        "start": 39.629,
+        "end": 43.91
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Relyana, bleib bitte an meiner Seite.",
+    "start": 43.97,
+    "end": 56.673,
+    "words": [
+      {
+        "text": "Relyana,",
+        "start": 43.97,
+        "end": 45.93
+      },
+      {
+        "text": "bleib",
+        "start": 45.97,
+        "end": 46.27
+      },
+      {
+        "text": "bitte",
+        "start": 46.31,
+        "end": 47.251
+      },
+      {
+        "text": "an",
+        "start": 47.291,
+        "end": 47.431
+      },
+      {
+        "text": "meiner",
+        "start": 47.471,
+        "end": 47.751
+      },
+      {
+        "text": "Seite.",
+        "start": 47.791,
+        "end": 56.673
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Bis wir einander nicht mehr brauchen.",
+    "start": 56.713,
+    "end": 58.433,
+    "words": [
+      {
+        "text": "Bis",
+        "start": 56.713,
+        "end": 56.913
+      },
+      {
+        "text": "wir",
+        "start": 56.933,
+        "end": 57.133
+      },
+      {
+        "text": "einander",
+        "start": 57.173,
+        "end": 57.653
+      },
+      {
+        "text": "nicht",
+        "start": 57.693,
+        "end": 57.873
+      },
+      {
+        "text": "mehr",
+        "start": 57.913,
+        "end": 58.073
+      },
+      {
+        "text": "brauchen.",
+        "start": 58.113,
+        "end": 58.433
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Ach, das war ja klar.",
+    "start": 60.057,
+    "end": 61.581,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 60.057,
+        "end": 60.177
+      },
+      {
+        "text": "das",
+        "start": 60.217,
+        "end": 60.358
+      },
+      {
+        "text": "war",
+        "start": 60.378,
+        "end": 60.518
+      },
+      {
+        "text": "ja",
+        "start": 60.558,
+        "end": 60.739
+      },
+      {
+        "text": "klar.",
+        "start": 60.779,
+        "end": 61.581
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Aber toll geklungen hat es trotzdem.",
+    "start": 61.662,
+    "end": 63.507,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 61.662,
+        "end": 61.902
+      },
+      {
+        "text": "toll",
+        "start": 61.922,
+        "end": 62.143
+      },
+      {
+        "text": "geklungen",
+        "start": 62.163,
+        "end": 62.665
+      },
+      {
+        "text": "hat",
+        "start": 62.685,
+        "end": 62.845
+      },
+      {
+        "text": "es",
+        "start": 62.885,
+        "end": 63.066
+      },
+      {
+        "text": "trotzdem.",
+        "start": 63.086,
+        "end": 63.507
+      }
+    ]
+  }
+]

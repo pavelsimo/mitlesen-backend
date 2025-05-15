@@ -1,0 +1,1492 @@
+[
+  {
+    "id": 0,
+    "text": " Was machst du hier, Aito?",
+    "start": 0.271,
+    "end": 1.813,
+    "words": [
+      {
+        "text": "Was",
+        "start": 0.271,
+        "end": 0.411
+      },
+      {
+        "text": "machst",
+        "start": 0.452,
+        "end": 0.592
+      },
+      {
+        "text": "du",
+        "start": 0.612,
+        "end": 0.732
+      },
+      {
+        "text": "hier,",
+        "start": 0.772,
+        "end": 0.932
+      },
+      {
+        "text": "Aito?",
+        "start": 0.972,
+        "end": 1.813
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich hab nach dir gesucht.",
+    "start": 1.873,
+    "end": 3.015,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 1.873,
+        "end": 1.993
+      },
+      {
+        "text": "hab",
+        "start": 2.033,
+        "end": 2.174
+      },
+      {
+        "text": "nach",
+        "start": 2.194,
+        "end": 2.294
+      },
+      {
+        "text": "dir",
+        "start": 2.314,
+        "end": 2.494
+      },
+      {
+        "text": "gesucht.",
+        "start": 2.514,
+        "end": 3.015
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was?",
+    "start": 3.035,
+    "end": 3.535,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 3.035,
+        "end": 3.535
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ja, aber wieso das denn?",
+    "start": 3.676,
+    "end": 4.817,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 3.676,
+        "end": 3.856
+      },
+      {
+        "text": "aber",
+        "start": 3.876,
+        "end": 4.076
+      },
+      {
+        "text": "wieso",
+        "start": 4.116,
+        "end": 4.376
+      },
+      {
+        "text": "das",
+        "start": 4.416,
+        "end": 4.617
+      },
+      {
+        "text": "denn?",
+        "start": 4.677,
+        "end": 4.817
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ähm, na ja, weil... Ich hab vom Fenster aus gesehen, dass ihr nach Kleeblättern sucht und wollte euch eine kleine Erfrischung bringen.",
+    "start": 5.358,
+    "end": 12.607,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 5.358,
+        "end": 6.018
+      },
+      {
+        "text": "na",
+        "start": 6.058,
+        "end": 6.219
+      },
+      {
+        "text": "ja,",
+        "start": 6.239,
+        "end": 6.519
+      },
+      {
+        "text": "weil...",
+        "start": 6.559,
+        "end": 7.12
+      },
+      {
+        "text": "Ich",
+        "start": 7.18,
+        "end": 7.28
+      },
+      {
+        "text": "hab",
+        "start": 7.32,
+        "end": 7.46
+      },
+      {
+        "text": "vom",
+        "start": 7.5,
+        "end": 7.66
+      },
+      {
+        "text": "Fenster",
+        "start": 7.7,
+        "end": 8.001
+      },
+      {
+        "text": "aus",
+        "start": 8.021,
+        "end": 8.141
+      },
+      {
+        "text": "gesehen,",
+        "start": 8.181,
+        "end": 8.461
+      },
+      {
+        "text": "dass",
+        "start": 8.481,
+        "end": 8.602
+      },
+      {
+        "text": "ihr",
+        "start": 8.662,
+        "end": 8.742
+      },
+      {
+        "text": "nach",
+        "start": 8.762,
+        "end": 8.922
+      },
+      {
+        "text": "Kleeblättern",
+        "start": 8.962,
+        "end": 9.523
+      },
+      {
+        "text": "sucht",
+        "start": 9.543,
+        "end": 9.763
+      },
+      {
+        "text": "und",
+        "start": 9.783,
+        "end": 9.943
+      },
+      {
+        "text": "wollte",
+        "start": 9.983,
+        "end": 10.264
+      },
+      {
+        "text": "euch",
+        "start": 10.284,
+        "end": 10.444
+      },
+      {
+        "text": "eine",
+        "start": 10.464,
+        "end": 10.604
+      },
+      {
+        "text": "kleine",
+        "start": 10.624,
+        "end": 10.884
+      },
+      {
+        "text": "Erfrischung",
+        "start": 10.904,
+        "end": 11.405
+      },
+      {
+        "text": "bringen.",
+        "start": 11.425,
+        "end": 12.607
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Hier, für dich.",
+    "start": 12.647,
+    "end": 13.968,
+    "words": [
+      {
+        "text": "Hier,",
+        "start": 12.647,
+        "end": 13.167
+      },
+      {
+        "text": "für",
+        "start": 13.207,
+        "end": 13.428
+      },
+      {
+        "text": "dich.",
+        "start": 13.448,
+        "end": 13.968
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Natürlich nur, wenn du willst.",
+    "start": 14.008,
+    "end": 15.05,
+    "words": [
+      {
+        "text": "Natürlich",
+        "start": 14.008,
+        "end": 14.409
+      },
+      {
+        "text": "nur,",
+        "start": 14.429,
+        "end": 14.549
+      },
+      {
+        "text": "wenn",
+        "start": 14.589,
+        "end": 14.689
+      },
+      {
+        "text": "du",
+        "start": 14.709,
+        "end": 14.829
+      },
+      {
+        "text": "willst.",
+        "start": 14.849,
+        "end": 15.05
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Du hast hier extra die Mühe... Das ist ja viel zu viel, das schaffe ich doch gar nicht alleine.",
+    "start": 15.71,
+    "end": 21.796,
+    "words": [
+      {
+        "text": "Du",
+        "start": 15.71,
+        "end": 15.81
+      },
+      {
+        "text": "hast",
+        "start": 15.83,
+        "end": 15.97
+      },
+      {
+        "text": "hier",
+        "start": 16.01,
+        "end": 16.131
+      },
+      {
+        "text": "extra",
+        "start": 16.191,
+        "end": 16.451
+      },
+      {
+        "text": "die",
+        "start": 16.491,
+        "end": 16.911
+      },
+      {
+        "text": "Mühe...",
+        "start": 16.951,
+        "end": 19.374
+      },
+      {
+        "text": "Das",
+        "start": 19.394,
+        "end": 19.494
+      },
+      {
+        "text": "ist",
+        "start": 19.554,
+        "end": 19.674
+      },
+      {
+        "text": "ja",
+        "start": 19.694,
+        "end": 19.814
+      },
+      {
+        "text": "viel",
+        "start": 19.854,
+        "end": 20.034
+      },
+      {
+        "text": "zu",
+        "start": 20.074,
+        "end": 20.195
+      },
+      {
+        "text": "viel,",
+        "start": 20.215,
+        "end": 20.435
+      },
+      {
+        "text": "das",
+        "start": 20.455,
+        "end": 20.535
+      },
+      {
+        "text": "schaffe",
+        "start": 20.615,
+        "end": 20.775
+      },
+      {
+        "text": "ich",
+        "start": 20.815,
+        "end": 20.875
+      },
+      {
+        "text": "doch",
+        "start": 20.915,
+        "end": 21.055
+      },
+      {
+        "text": "gar",
+        "start": 21.095,
+        "end": 21.216
+      },
+      {
+        "text": "nicht",
+        "start": 21.236,
+        "end": 21.356
+      },
+      {
+        "text": "alleine.",
+        "start": 21.396,
+        "end": 21.796
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Puh, wie können wir dieses Problem nur lösen?",
+    "start": 21.836,
+    "end": 24.038,
+    "words": [
+      {
+        "text": "Puh,",
+        "start": 21.836,
+        "end": 22.096
+      },
+      {
+        "text": "wie",
+        "start": 22.116,
+        "end": 22.217
+      },
+      {
+        "text": "können",
+        "start": 22.237,
+        "end": 22.437
+      },
+      {
+        "text": "wir",
+        "start": 22.457,
+        "end": 22.577
+      },
+      {
+        "text": "dieses",
+        "start": 22.597,
+        "end": 22.837
+      },
+      {
+        "text": "Problem",
+        "start": 22.857,
+        "end": 23.197
+      },
+      {
+        "text": "nur",
+        "start": 23.238,
+        "end": 23.378
+      },
+      {
+        "text": "lösen?",
+        "start": 23.398,
+        "end": 24.038
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ich hab's!",
+    "start": 24.118,
+    "end": 24.899,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 24.118,
+        "end": 24.299
+      },
+      {
+        "text": "hab's!",
+        "start": 24.399,
+        "end": 24.899
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wie wär's, wenn wir Halbe Halbe machen würden?",
+    "start": 24.939,
+    "end": 27.081,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 24.939,
+        "end": 25.059
+      },
+      {
+        "text": "wär's,",
+        "start": 25.079,
+        "end": 25.32
+      },
+      {
+        "text": "wenn",
+        "start": 25.34,
+        "end": 25.48
+      },
+      {
+        "text": "wir",
+        "start": 25.5,
+        "end": 25.66
+      },
+      {
+        "text": "Halbe",
+        "start": 25.68,
+        "end": 25.98
+      },
+      {
+        "text": "Halbe",
+        "start": 26.0,
+        "end": 26.321
+      },
+      {
+        "text": "machen",
+        "start": 26.361,
+        "end": 26.621
+      },
+      {
+        "text": "würden?",
+        "start": 26.661,
+        "end": 27.081
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Was?",
+    "start": 27.121,
+    "end": 27.582,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 27.121,
+        "end": 27.582
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Was für ein Meisterplan!",
+    "start": 27.622,
+    "end": 29.223,
+    "words": [
+      {
+        "text": "Was",
+        "start": 27.622,
+        "end": 27.842
+      },
+      {
+        "text": "für",
+        "start": 27.862,
+        "end": 27.962
+      },
+      {
+        "text": "ein",
+        "start": 28.002,
+        "end": 28.222
+      },
+      {
+        "text": "Meisterplan!",
+        "start": 28.242,
+        "end": 29.223
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Wenn er darauf eingeht, dann kann ich mir ganz leicht und unauffällig einen indirekten Kuss von ihm angeln.",
+    "start": 29.243,
+    "end": 33.548,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 29.243,
+        "end": 29.364
+      },
+      {
+        "text": "er",
+        "start": 29.484,
+        "end": 29.544
+      },
+      {
+        "text": "darauf",
+        "start": 29.564,
+        "end": 29.764
+      },
+      {
+        "text": "eingeht,",
+        "start": 29.784,
+        "end": 30.164
+      },
+      {
+        "text": "dann",
+        "start": 30.184,
+        "end": 30.305
+      },
+      {
+        "text": "kann",
+        "start": 30.325,
+        "end": 30.445
+      },
+      {
+        "text": "ich",
+        "start": 30.485,
+        "end": 30.565
+      },
+      {
+        "text": "mir",
+        "start": 30.605,
+        "end": 30.725
+      },
+      {
+        "text": "ganz",
+        "start": 30.745,
+        "end": 31.005
+      },
+      {
+        "text": "leicht",
+        "start": 31.065,
+        "end": 31.406
+      },
+      {
+        "text": "und",
+        "start": 31.446,
+        "end": 31.506
+      },
+      {
+        "text": "unauffällig",
+        "start": 31.526,
+        "end": 31.926
+      },
+      {
+        "text": "einen",
+        "start": 31.966,
+        "end": 32.166
+      },
+      {
+        "text": "indirekten",
+        "start": 32.206,
+        "end": 32.727
+      },
+      {
+        "text": "Kuss",
+        "start": 32.767,
+        "end": 32.907
+      },
+      {
+        "text": "von",
+        "start": 32.947,
+        "end": 33.087
+      },
+      {
+        "text": "ihm",
+        "start": 33.127,
+        "end": 33.267
+      },
+      {
+        "text": "angeln.",
+        "start": 33.327,
+        "end": 33.548
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Ach, kein Ding.",
+    "start": 33.888,
+    "end": 35.188,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 33.888,
+        "end": 34.428
+      },
+      {
+        "text": "kein",
+        "start": 34.468,
+        "end": 34.668
+      },
+      {
+        "text": "Ding.",
+        "start": 34.708,
+        "end": 35.188
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich hab mir schon gedacht, dass für so ein zierliches Mädchen 350 Milliliter etwas zu viel sein könnten.",
+    "start": 35.228,
+    "end": 39.97,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 35.228,
+        "end": 35.308
+      },
+      {
+        "text": "hab",
+        "start": 35.328,
+        "end": 35.468
+      },
+      {
+        "text": "mir",
+        "start": 35.488,
+        "end": 35.608
+      },
+      {
+        "text": "schon",
+        "start": 35.628,
+        "end": 35.789
+      },
+      {
+        "text": "gedacht,",
+        "start": 35.809,
+        "end": 36.009
+      },
+      {
+        "text": "dass",
+        "start": 36.029,
+        "end": 36.169
+      },
+      {
+        "text": "für",
+        "start": 36.189,
+        "end": 36.309
+      },
+      {
+        "text": "so",
+        "start": 36.329,
+        "end": 36.449
+      },
+      {
+        "text": "ein",
+        "start": 36.469,
+        "end": 36.569
+      },
+      {
+        "text": "zierliches",
+        "start": 36.609,
+        "end": 37.049
+      },
+      {
+        "text": "Mädchen",
+        "start": 37.069,
+        "end": 38.149
+      },
+      {
+        "text": "Milliliter",
+        "start": 38.189,
+        "end": 38.689
+      },
+      {
+        "text": "etwas",
+        "start": 38.709,
+        "end": 38.969
+      },
+      {
+        "text": "zu",
+        "start": 38.989,
+        "end": 39.089
+      },
+      {
+        "text": "viel",
+        "start": 39.129,
+        "end": 39.289
+      },
+      {
+        "text": "sein",
+        "start": 39.33,
+        "end": 39.49
+      },
+      {
+        "text": "könnten.",
+        "start": 39.51,
+        "end": 39.97
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Einmal mitgedacht.",
+    "start": 40.01,
+    "end": 41.73,
+    "words": [
+      {
+        "text": "Einmal",
+        "start": 40.01,
+        "end": 40.35
+      },
+      {
+        "text": "mitgedacht.",
+        "start": 40.37,
+        "end": 41.73
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Was?",
+    "start": 41.77,
+    "end": 42.25,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 41.77,
+        "end": 42.25
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Naja, aber weißt du, die Hälfte von 350 ist doch 175.",
+    "start": 42.29,
+    "end": 45.251,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 42.29,
+        "end": 42.61
+      },
+      {
+        "text": "aber",
+        "start": 42.63,
+        "end": 42.81
+      },
+      {
+        "text": "weißt",
+        "start": 42.87,
+        "end": 43.111
+      },
+      {
+        "text": "du,",
+        "start": 43.131,
+        "end": 43.591
+      },
+      {
+        "text": "die",
+        "start": 43.611,
+        "end": 43.751
+      },
+      {
+        "text": "Hälfte",
+        "start": 43.771,
+        "end": 44.031
+      },
+      {
+        "text": "von",
+        "start": 44.051,
+        "end": 44.151
+      },
+      {
+        "text": "ist",
+        "start": 44.271,
+        "end": 44.931
+      },
+      {
+        "text": "doch",
+        "start": 44.951,
+        "end": 45.251
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Wenn man also den Inhalt der beiden Dosen vergleicht, sind immer noch 15 Milliliter mehr drin.",
+    "start": 45.331,
+    "end": 50.172,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 45.331,
+        "end": 46.231
+      },
+      {
+        "text": "man",
+        "start": 46.291,
+        "end": 46.471
+      },
+      {
+        "text": "also",
+        "start": 46.491,
+        "end": 46.692
+      },
+      {
+        "text": "den",
+        "start": 46.732,
+        "end": 46.832
+      },
+      {
+        "text": "Inhalt",
+        "start": 46.852,
+        "end": 47.092
+      },
+      {
+        "text": "der",
+        "start": 47.132,
+        "end": 47.212
+      },
+      {
+        "text": "beiden",
+        "start": 47.232,
+        "end": 47.432
+      },
+      {
+        "text": "Dosen",
+        "start": 47.472,
+        "end": 47.712
+      },
+      {
+        "text": "vergleicht,",
+        "start": 47.752,
+        "end": 48.132
+      },
+      {
+        "text": "sind",
+        "start": 48.152,
+        "end": 48.272
+      },
+      {
+        "text": "immer",
+        "start": 48.312,
+        "end": 48.512
+      },
+      {
+        "text": "noch",
+        "start": 48.552,
+        "end": 48.992
+      },
+      {
+        "text": "Milliliter",
+        "start": 49.032,
+        "end": 49.512
+      },
+      {
+        "text": "mehr",
+        "start": 49.532,
+        "end": 49.692
+      },
+      {
+        "text": "drin.",
+        "start": 49.712,
+        "end": 50.172
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich glaube nicht, dass ich so viel trinken kann.",
+    "start": 50.212,
+    "end": 51.913,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 50.212,
+        "end": 50.353
+      },
+      {
+        "text": "glaube",
+        "start": 50.373,
+        "end": 50.653
+      },
+      {
+        "text": "nicht,",
+        "start": 50.693,
+        "end": 50.833
+      },
+      {
+        "text": "dass",
+        "start": 50.853,
+        "end": 50.953
+      },
+      {
+        "text": "ich",
+        "start": 50.993,
+        "end": 51.113
+      },
+      {
+        "text": "so",
+        "start": 51.133,
+        "end": 51.233
+      },
+      {
+        "text": "viel",
+        "start": 51.253,
+        "end": 51.413
+      },
+      {
+        "text": "trinken",
+        "start": 51.433,
+        "end": 51.713
+      },
+      {
+        "text": "kann.",
+        "start": 51.753,
+        "end": 51.913
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Das schaffe ich doch alleine niemals.",
+    "start": 51.933,
+    "end": 53.673,
+    "words": [
+      {
+        "text": "Das",
+        "start": 51.933,
+        "end": 52.073
+      },
+      {
+        "text": "schaffe",
+        "start": 52.093,
+        "end": 52.293
+      },
+      {
+        "text": "ich",
+        "start": 52.333,
+        "end": 52.413
+      },
+      {
+        "text": "doch",
+        "start": 52.433,
+        "end": 52.513
+      },
+      {
+        "text": "alleine",
+        "start": 52.553,
+        "end": 52.893
+      },
+      {
+        "text": "niemals.",
+        "start": 52.913,
+        "end": 53.673
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Machen 15 Milliliter so einen Unterschied?",
+    "start": 53.713,
+    "end": 56.034,
+    "words": [
+      {
+        "text": "Machen",
+        "start": 53.713,
+        "end": 54.054
+      },
+      {
+        "text": "Milliliter",
+        "start": 54.094,
+        "end": 54.574
+      },
+      {
+        "text": "so",
+        "start": 54.614,
+        "end": 54.674
+      },
+      {
+        "text": "einen",
+        "start": 54.694,
+        "end": 54.914
+      },
+      {
+        "text": "Unterschied?",
+        "start": 54.954,
+        "end": 56.034
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Nun, wenn es denn wirklich nicht anders geht... Ich könnte deine Hilfe gebrauchen.",
+    "start": 56.094,
+    "end": 60.455,
+    "words": [
+      {
+        "text": "Nun,",
+        "start": 56.094,
+        "end": 56.654
+      },
+      {
+        "text": "wenn",
+        "start": 56.694,
+        "end": 56.854
+      },
+      {
+        "text": "es",
+        "start": 56.914,
+        "end": 57.014
+      },
+      {
+        "text": "denn",
+        "start": 57.034,
+        "end": 57.214
+      },
+      {
+        "text": "wirklich",
+        "start": 57.254,
+        "end": 57.554
+      },
+      {
+        "text": "nicht",
+        "start": 57.574,
+        "end": 57.735
+      },
+      {
+        "text": "anders",
+        "start": 57.795,
+        "end": 58.075
+      },
+      {
+        "text": "geht...",
+        "start": 58.115,
+        "end": 58.275
+      },
+      {
+        "text": "Ich",
+        "start": 58.635,
+        "end": 58.755
+      },
+      {
+        "text": "könnte",
+        "start": 58.815,
+        "end": 59.095
+      },
+      {
+        "text": "deine",
+        "start": 59.115,
+        "end": 59.355
+      },
+      {
+        "text": "Hilfe",
+        "start": 59.415,
+        "end": 59.695
+      },
+      {
+        "text": "gebrauchen.",
+        "start": 59.735,
+        "end": 60.455
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Gut, dann werde ich mal...",
+    "start": 60.495,
+    "end": 61.876,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 60.495,
+        "end": 61.095
+      },
+      {
+        "text": "dann",
+        "start": 61.135,
+        "end": 61.356
+      },
+      {
+        "text": "werde",
+        "start": 61.396,
+        "end": 61.556
+      },
+      {
+        "text": "ich",
+        "start": 61.596,
+        "end": 61.696
+      },
+      {
+        "text": "mal...",
+        "start": 61.776,
+        "end": 61.876
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": " Gar nicht so einfach, genau 15 Milliliter zu trinken.",
+    "start": 65.303,
+    "end": 67.604,
+    "words": [
+      {
+        "text": "Gar",
+        "start": 65.303,
+        "end": 65.403
+      },
+      {
+        "text": "nicht",
+        "start": 65.563,
+        "end": 65.763
+      },
+      {
+        "text": "so",
+        "start": 65.783,
+        "end": 65.883
+      },
+      {
+        "text": "einfach,",
+        "start": 65.903,
+        "end": 66.103
+      },
+      {
+        "text": "genau",
+        "start": 66.143,
+        "end": 66.364
+      },
+      {
+        "text": "Milliliter",
+        "start": 66.704,
+        "end": 67.204
+      },
+      {
+        "text": "zu",
+        "start": 67.224,
+        "end": 67.324
+      },
+      {
+        "text": "trinken.",
+        "start": 67.344,
+        "end": 67.604
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Bitte.",
+    "start": 68.305,
+    "end": 69.105,
+    "words": [
+      {
+        "text": "Bitte.",
+        "start": 68.305,
+        "end": 69.105
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ich hoffe, das stimmt so.",
+    "start": 69.145,
+    "end": 70.266,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 69.145,
+        "end": 69.245
+      },
+      {
+        "text": "hoffe,",
+        "start": 69.285,
+        "end": 69.505
+      },
+      {
+        "text": "das",
+        "start": 69.525,
+        "end": 69.645
+      },
+      {
+        "text": "stimmt",
+        "start": 69.685,
+        "end": 69.906
+      },
+      {
+        "text": "so.",
+        "start": 69.926,
+        "end": 70.266
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Danke für die Unterstützung.",
+    "start": 70.306,
+    "end": 73.187,
+    "words": [
+      {
+        "text": "Danke",
+        "start": 70.306,
+        "end": 70.626
+      },
+      {
+        "text": "für",
+        "start": 70.646,
+        "end": 70.726
+      },
+      {
+        "text": "die",
+        "start": 70.746,
+        "end": 70.866
+      },
+      {
+        "text": "Unterstützung.",
+        "start": 70.906,
+        "end": 73.187
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Moment mal, ist das nicht ein indirekter Kuss?",
+    "start": 73.207,
+    "end": 76.409,
+    "words": [
+      {
+        "text": "Moment",
+        "start": 73.207,
+        "end": 73.888
+      },
+      {
+        "text": "mal,",
+        "start": 73.928,
+        "end": 74.048
+      },
+      {
+        "text": "ist",
+        "start": 74.088,
+        "end": 74.208
+      },
+      {
+        "text": "das",
+        "start": 74.228,
+        "end": 74.428
+      },
+      {
+        "text": "nicht",
+        "start": 74.468,
+        "end": 74.768
+      },
+      {
+        "text": "ein",
+        "start": 74.808,
+        "end": 74.928
+      },
+      {
+        "text": "indirekter",
+        "start": 74.988,
+        "end": 75.569
+      },
+      {
+        "text": "Kuss?",
+        "start": 75.609,
+        "end": 76.409
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ich werde einen indirekten Kuss mit Aijou austauschen.",
+    "start": 76.449,
+    "end": 79.271,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 76.449,
+        "end": 76.609
+      },
+      {
+        "text": "werde",
+        "start": 76.649,
+        "end": 76.849
+      },
+      {
+        "text": "einen",
+        "start": 76.869,
+        "end": 77.069
+      },
+      {
+        "text": "indirekten",
+        "start": 77.11,
+        "end": 77.67
+      },
+      {
+        "text": "Kuss",
+        "start": 77.71,
+        "end": 77.95
+      },
+      {
+        "text": "mit",
+        "start": 77.97,
+        "end": 78.09
+      },
+      {
+        "text": "Aijou",
+        "start": 78.11,
+        "end": 78.59
+      },
+      {
+        "text": "austauschen.",
+        "start": 78.63,
+        "end": 79.271
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Einen indirekten.",
+    "start": 79.311,
+    "end": 80.171,
+    "words": [
+      {
+        "text": "Einen",
+        "start": 79.311,
+        "end": 79.751
+      },
+      {
+        "text": "indirekten.",
+        "start": 79.811,
+        "end": 80.171
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Knutsch!",
+    "start": 80.191,
+    "end": 82.052,
+    "words": [
+      {
+        "text": "Knutsch!",
+        "start": 80.191,
+        "end": 82.052
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Ist alles okay?",
+    "start": 82.092,
+    "end": 87.835,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 82.092,
+        "end": 82.252
+      },
+      {
+        "text": "alles",
+        "start": 82.292,
+        "end": 82.452
+      },
+      {
+        "text": "okay?",
+        "start": 82.553,
+        "end": 87.835
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich hatte ja keine Ahnung, dass du den Saft so liebst.",
+    "start": 87.955,
+    "end": 90.357,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 87.955,
+        "end": 88.036
+      },
+      {
+        "text": "hatte",
+        "start": 88.076,
+        "end": 88.236
+      },
+      {
+        "text": "ja",
+        "start": 88.276,
+        "end": 88.436
+      },
+      {
+        "text": "keine",
+        "start": 88.456,
+        "end": 88.736
+      },
+      {
+        "text": "Ahnung,",
+        "start": 88.816,
+        "end": 89.016
+      },
+      {
+        "text": "dass",
+        "start": 89.056,
+        "end": 89.196
+      },
+      {
+        "text": "du",
+        "start": 89.216,
+        "end": 89.296
+      },
+      {
+        "text": "den",
+        "start": 89.316,
+        "end": 89.476
+      },
+      {
+        "text": "Saft",
+        "start": 89.516,
+        "end": 89.776
+      },
+      {
+        "text": "so",
+        "start": 89.817,
+        "end": 89.957
+      },
+      {
+        "text": "liebst.",
+        "start": 90.017,
+        "end": 90.357
+      }
+    ]
+  }
+]

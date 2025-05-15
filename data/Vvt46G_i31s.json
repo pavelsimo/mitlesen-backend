@@ -1,0 +1,351 @@
+[
+  {
+    "id": 0,
+    "text": " Shisei?",
+    "start": 1.755,
+    "end": 14.743,
+    "words": [
+      {
+        "text": "Shisei?",
+        "start": 1.755,
+        "end": 14.743
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Florence?",
+    "start": 14.783,
+    "end": 23.188,
+    "words": [
+      {
+        "text": "Florence?",
+        "start": 14.783,
+        "end": 23.188
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hinder dir, Loda, dem verhassten Feuer der Wut.",
+    "start": 23.248,
+    "end": 26.11,
+    "words": [
+      {
+        "text": "Hinder",
+        "start": 23.248,
+        "end": 23.688
+      },
+      {
+        "text": "dir,",
+        "start": 23.728,
+        "end": 23.828
+      },
+      {
+        "text": "Loda,",
+        "start": 23.868,
+        "end": 24.429
+      },
+      {
+        "text": "dem",
+        "start": 24.449,
+        "end": 24.589
+      },
+      {
+        "text": "verhassten",
+        "start": 24.629,
+        "end": 25.249
+      },
+      {
+        "text": "Feuer",
+        "start": 25.289,
+        "end": 25.65
+      },
+      {
+        "text": "der",
+        "start": 25.69,
+        "end": 25.85
+      },
+      {
+        "text": "Wut.",
+        "start": 25.89,
+        "end": 26.11
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": " Kriecht, wenn ihr nicht fliegen könnt.",
+    "start": 28.718,
+    "end": 34.201,
+    "words": [
+      {
+        "text": "Kriecht,",
+        "start": 28.718,
+        "end": 29.358
+      },
+      {
+        "text": "wenn",
+        "start": 29.418,
+        "end": 29.578
+      },
+      {
+        "text": "ihr",
+        "start": 29.638,
+        "end": 29.759
+      },
+      {
+        "text": "nicht",
+        "start": 29.779,
+        "end": 29.999
+      },
+      {
+        "text": "fliegen",
+        "start": 30.059,
+        "end": 30.479
+      },
+      {
+        "text": "könnt.",
+        "start": 30.519,
+        "end": 34.201
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Zieht hinab in den Grund.",
+    "start": 34.221,
+    "end": 37.163,
+    "words": [
+      {
+        "text": "Zieht",
+        "start": 34.221,
+        "end": 34.461
+      },
+      {
+        "text": "hinab",
+        "start": 34.521,
+        "end": 34.801
+      },
+      {
+        "text": "in",
+        "start": 34.841,
+        "end": 35.001
+      },
+      {
+        "text": "den",
+        "start": 35.021,
+        "end": 35.161
+      },
+      {
+        "text": "Grund.",
+        "start": 35.201,
+        "end": 37.163
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Geht und folgt meinem Pfad des Blutes.",
+    "start": 37.183,
+    "end": 39.704,
+    "words": [
+      {
+        "text": "Geht",
+        "start": 37.183,
+        "end": 37.503
+      },
+      {
+        "text": "und",
+        "start": 37.543,
+        "end": 37.703
+      },
+      {
+        "text": "folgt",
+        "start": 37.743,
+        "end": 38.123
+      },
+      {
+        "text": "meinem",
+        "start": 38.143,
+        "end": 38.403
+      },
+      {
+        "text": "Pfad",
+        "start": 38.423,
+        "end": 38.783
+      },
+      {
+        "text": "des",
+        "start": 38.803,
+        "end": 39.004
+      },
+      {
+        "text": "Blutes.",
+        "start": 39.044,
+        "end": 39.704
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Nein!",
+    "start": 45.847,
+    "end": 49.169,
+    "words": [
+      {
+        "text": "Nein!",
+        "start": 45.847,
+        "end": 49.169
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Lucy!",
+    "start": 49.209,
+    "end": 53.792,
+    "words": [
+      {
+        "text": "Lucy!",
+        "start": 49.209,
+        "end": 53.792
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sie sind fort.",
+    "start": 53.832,
+    "end": 54.472,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 53.832,
+        "end": 54.012
+      },
+      {
+        "text": "sind",
+        "start": 54.052,
+        "end": 54.252
+      },
+      {
+        "text": "fort.",
+        "start": 54.292,
+        "end": 54.472
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Verdammt, das ist ein Magier?",
+    "start": 55.752,
+    "end": 57.936,
+    "words": [
+      {
+        "text": "Verdammt,",
+        "start": 55.752,
+        "end": 56.573
+      },
+      {
+        "text": "das",
+        "start": 56.613,
+        "end": 56.754
+      },
+      {
+        "text": "ist",
+        "start": 56.794,
+        "end": 56.954
+      },
+      {
+        "text": "ein",
+        "start": 56.994,
+        "end": 57.154
+      },
+      {
+        "text": "Magier?",
+        "start": 57.174,
+        "end": 57.936
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Unmöglich ist das.",
+    "start": 57.976,
+    "end": 59.678,
+    "words": [
+      {
+        "text": "Unmöglich",
+        "start": 57.976,
+        "end": 58.737
+      },
+      {
+        "text": "ist",
+        "start": 58.777,
+        "end": 58.957
+      },
+      {
+        "text": "das.",
+        "start": 58.977,
+        "end": 59.678
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Einfach nur ein Magier.",
+    "start": 59.739,
+    "end": 61.562,
+    "words": [
+      {
+        "text": "Einfach",
+        "start": 59.739,
+        "end": 60.179
+      },
+      {
+        "text": "nur",
+        "start": 60.219,
+        "end": 60.38
+      },
+      {
+        "text": "ein",
+        "start": 60.44,
+        "end": 60.62
+      },
+      {
+        "text": "Magier.",
+        "start": 60.64,
+        "end": 61.562
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Das glaub ich nicht.",
+    "start": 61.602,
+    "end": 62.603,
+    "words": [
+      {
+        "text": "Das",
+        "start": 61.602,
+        "end": 61.862
+      },
+      {
+        "text": "glaub",
+        "start": 61.902,
+        "end": 62.183
+      },
+      {
+        "text": "ich",
+        "start": 62.243,
+        "end": 62.423
+      },
+      {
+        "text": "nicht.",
+        "start": 62.463,
+        "end": 62.603
+      }
+    ]
+  }
+]

@@ -20,6 +20,8 @@ class CompletionClient:
         self.model_gemini = model_gemini
         self.backend = backend.lower()
         self.system_instruction = system_instruction
+        # TODO(Pavel): Gemini models are accessible using the OpenAI libraries
+        # https://ai.google.dev/gemini-api/docs/openai
         if self.backend == "openai":
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
             self.model = model_openai
@@ -57,7 +59,15 @@ class CompletionClient:
 
         else:  # gemini
             # for Gemini, just send into the existing chat session
-            chunk = self.chat.send_message(prompt, config={'response_mime_type': 'application/json'})
+            chunk = self.chat.send_message(
+                prompt,
+                config={
+                    'response_mime_type': 'application/json',
+                    'generation_config': {
+                        'response_format': {'type': 'json_object'}
+                    }
+                }
+            )
             return chunk.text
 
 
@@ -112,6 +122,14 @@ class CompletionStreamClient:
                     yield delta
 
         elif self.backend == "gemini":
-            for chunk in self.gemini_chat.send_message_stream(prompt):
+            for chunk in self.gemini_chat.send_message_stream(
+                prompt,
+                config={
+                    'response_mime_type': 'application/json',
+                    'generation_config': {
+                        'response_format': {'type': 'json_object'}
+                    }
+                }
+            ):
                 if chunk.text:
                     yield chunk.text

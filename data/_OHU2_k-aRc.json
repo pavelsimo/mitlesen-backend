@@ -1,0 +1,2144 @@
+[
+  {
+    "id": 0,
+    "text": " Wenn ich nur dran denke, könnte ich schon wieder ausrasten.",
+    "start": 3.893,
+    "end": 6.455,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 3.893,
+        "end": 4.033
+      },
+      {
+        "text": "ich",
+        "start": 4.053,
+        "end": 4.133
+      },
+      {
+        "text": "nur",
+        "start": 4.173,
+        "end": 4.253
+      },
+      {
+        "text": "dran",
+        "start": 4.293,
+        "end": 4.474
+      },
+      {
+        "text": "denke,",
+        "start": 4.494,
+        "end": 4.714
+      },
+      {
+        "text": "könnte",
+        "start": 4.734,
+        "end": 4.914
+      },
+      {
+        "text": "ich",
+        "start": 4.934,
+        "end": 4.994
+      },
+      {
+        "text": "schon",
+        "start": 5.014,
+        "end": 5.174
+      },
+      {
+        "text": "wieder",
+        "start": 5.194,
+        "end": 5.414
+      },
+      {
+        "text": "ausrasten.",
+        "start": 5.434,
+        "end": 6.455
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Tut mir ja leid, dass wir zu laut waren.",
+    "start": 6.495,
+    "end": 8.717,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 6.495,
+        "end": 6.675
+      },
+      {
+        "text": "mir",
+        "start": 6.695,
+        "end": 6.815
+      },
+      {
+        "text": "ja",
+        "start": 6.855,
+        "end": 6.995
+      },
+      {
+        "text": "leid,",
+        "start": 7.035,
+        "end": 7.156
+      },
+      {
+        "text": "dass",
+        "start": 7.196,
+        "end": 7.316
+      },
+      {
+        "text": "wir",
+        "start": 7.336,
+        "end": 7.476
+      },
+      {
+        "text": "zu",
+        "start": 7.496,
+        "end": 7.576
+      },
+      {
+        "text": "laut",
+        "start": 7.616,
+        "end": 7.816
+      },
+      {
+        "text": "waren.",
+        "start": 7.856,
+        "end": 8.717
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Aber das gibt ja nicht gleich das Recht, sich so unverschämt in unsere Beziehung einzumischen.",
+    "start": 8.757,
+    "end": 12.179,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 8.757,
+        "end": 8.937
+      },
+      {
+        "text": "das",
+        "start": 8.957,
+        "end": 9.077
+      },
+      {
+        "text": "gibt",
+        "start": 9.097,
+        "end": 9.197
+      },
+      {
+        "text": "ja",
+        "start": 9.237,
+        "end": 9.357
+      },
+      {
+        "text": "nicht",
+        "start": 9.377,
+        "end": 9.497
+      },
+      {
+        "text": "gleich",
+        "start": 9.517,
+        "end": 9.697
+      },
+      {
+        "text": "das",
+        "start": 9.717,
+        "end": 9.858
+      },
+      {
+        "text": "Recht,",
+        "start": 9.898,
+        "end": 10.018
+      },
+      {
+        "text": "sich",
+        "start": 10.058,
+        "end": 10.158
+      },
+      {
+        "text": "so",
+        "start": 10.178,
+        "end": 10.298
+      },
+      {
+        "text": "unverschämt",
+        "start": 10.338,
+        "end": 10.778
+      },
+      {
+        "text": "in",
+        "start": 10.798,
+        "end": 10.918
+      },
+      {
+        "text": "unsere",
+        "start": 10.958,
+        "end": 11.179
+      },
+      {
+        "text": "Beziehung",
+        "start": 11.219,
+        "end": 11.639
+      },
+      {
+        "text": "einzumischen.",
+        "start": 11.679,
+        "end": 12.179
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Da fällt mir ein, dass vor etwa zwei Wochen ein Laster vorm Haus rumstand.",
+    "start": 12.84,
+    "end": 16.683,
+    "words": [
+      {
+        "text": "Da",
+        "start": 12.84,
+        "end": 13.0
+      },
+      {
+        "text": "fällt",
+        "start": 13.04,
+        "end": 13.22
+      },
+      {
+        "text": "mir",
+        "start": 13.24,
+        "end": 13.4
+      },
+      {
+        "text": "ein,",
+        "start": 13.42,
+        "end": 13.52
+      },
+      {
+        "text": "dass",
+        "start": 13.56,
+        "end": 13.66
+      },
+      {
+        "text": "vor",
+        "start": 13.68,
+        "end": 13.801
+      },
+      {
+        "text": "etwa",
+        "start": 13.821,
+        "end": 14.061
+      },
+      {
+        "text": "zwei",
+        "start": 14.081,
+        "end": 14.261
+      },
+      {
+        "text": "Wochen",
+        "start": 14.281,
+        "end": 14.501
+      },
+      {
+        "text": "ein",
+        "start": 14.521,
+        "end": 14.641
+      },
+      {
+        "text": "Laster",
+        "start": 14.661,
+        "end": 14.941
+      },
+      {
+        "text": "vorm",
+        "start": 14.981,
+        "end": 15.121
+      },
+      {
+        "text": "Haus",
+        "start": 15.162,
+        "end": 15.302
+      },
+      {
+        "text": "rumstand.",
+        "start": 15.362,
+        "end": 16.683
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Dass Chizurune Mietfreundin ist, scheint sie noch nicht herausgefunden zu haben.",
+    "start": 16.703,
+    "end": 20.405,
+    "words": [
+      {
+        "text": "Dass",
+        "start": 16.703,
+        "end": 16.863
+      },
+      {
+        "text": "Chizurune",
+        "start": 16.923,
+        "end": 17.363
+      },
+      {
+        "text": "Mietfreundin",
+        "start": 17.403,
+        "end": 17.844
+      },
+      {
+        "text": "ist,",
+        "start": 17.884,
+        "end": 18.004
+      },
+      {
+        "text": "scheint",
+        "start": 18.044,
+        "end": 18.224
+      },
+      {
+        "text": "sie",
+        "start": 18.244,
+        "end": 18.344
+      },
+      {
+        "text": "noch",
+        "start": 18.364,
+        "end": 18.464
+      },
+      {
+        "text": "nicht",
+        "start": 18.504,
+        "end": 18.624
+      },
+      {
+        "text": "herausgefunden",
+        "start": 18.664,
+        "end": 19.265
+      },
+      {
+        "text": "zu",
+        "start": 19.285,
+        "end": 19.385
+      },
+      {
+        "text": "haben.",
+        "start": 19.425,
+        "end": 20.405
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Hoffentlich laufen wir uns nicht so schnell wieder über den Weg.",
+    "start": 20.425,
+    "end": 22.387,
+    "words": [
+      {
+        "text": "Hoffentlich",
+        "start": 20.425,
+        "end": 20.806
+      },
+      {
+        "text": "laufen",
+        "start": 20.846,
+        "end": 21.046
+      },
+      {
+        "text": "wir",
+        "start": 21.066,
+        "end": 21.166
+      },
+      {
+        "text": "uns",
+        "start": 21.186,
+        "end": 21.286
+      },
+      {
+        "text": "nicht",
+        "start": 21.306,
+        "end": 21.426
+      },
+      {
+        "text": "so",
+        "start": 21.446,
+        "end": 21.506
+      },
+      {
+        "text": "schnell",
+        "start": 21.526,
+        "end": 21.726
+      },
+      {
+        "text": "wieder",
+        "start": 21.766,
+        "end": 21.907
+      },
+      {
+        "text": "über",
+        "start": 21.927,
+        "end": 22.047
+      },
+      {
+        "text": "den",
+        "start": 22.067,
+        "end": 22.187
+      },
+      {
+        "text": "Weg.",
+        "start": 22.227,
+        "end": 22.387
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Was?",
+    "start": 22.547,
+    "end": 22.947,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 22.547,
+        "end": 22.947
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ist das dein Ernst?",
+    "start": 23.007,
+    "end": 24.589,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 23.007,
+        "end": 23.107
+      },
+      {
+        "text": "das",
+        "start": 23.127,
+        "end": 23.288
+      },
+      {
+        "text": "dein",
+        "start": 23.308,
+        "end": 23.468
+      },
+      {
+        "text": "Ernst?",
+        "start": 23.528,
+        "end": 24.589
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Das kann doch niemals wahr sein.",
+    "start": 24.609,
+    "end": 26.49,
+    "words": [
+      {
+        "text": "Das",
+        "start": 24.609,
+        "end": 24.749
+      },
+      {
+        "text": "kann",
+        "start": 24.769,
+        "end": 24.949
+      },
+      {
+        "text": "doch",
+        "start": 24.969,
+        "end": 25.149
+      },
+      {
+        "text": "niemals",
+        "start": 25.169,
+        "end": 25.569
+      },
+      {
+        "text": "wahr",
+        "start": 25.609,
+        "end": 25.89
+      },
+      {
+        "text": "sein.",
+        "start": 25.93,
+        "end": 26.49
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wenn ich's doch sage!",
+    "start": 26.51,
+    "end": 27.251,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 26.51,
+        "end": 26.67
+      },
+      {
+        "text": "ich's",
+        "start": 26.71,
+        "end": 26.81
+      },
+      {
+        "text": "doch",
+        "start": 26.83,
+        "end": 26.99
+      },
+      {
+        "text": "sage!",
+        "start": 27.03,
+        "end": 27.251
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Was?",
+    "start": 28.171,
+    "end": 28.932,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 28.171,
+        "end": 28.932
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Das ist sie!",
+    "start": 28.972,
+    "end": 29.592,
+    "words": [
+      {
+        "text": "Das",
+        "start": 28.972,
+        "end": 29.152
+      },
+      {
+        "text": "ist",
+        "start": 29.232,
+        "end": 29.472
+      },
+      {
+        "text": "sie!",
+        "start": 29.492,
+        "end": 29.592
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Was soll das?",
+    "start": 33.937,
+    "end": 34.698,
+    "words": [
+      {
+        "text": "Was",
+        "start": 33.937,
+        "end": 34.037
+      },
+      {
+        "text": "soll",
+        "start": 34.077,
+        "end": 34.237
+      },
+      {
+        "text": "das?",
+        "start": 34.257,
+        "end": 34.698
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Geht ihr auf meine Uni?",
+    "start": 34.738,
+    "end": 35.979,
+    "words": [
+      {
+        "text": "Geht",
+        "start": 34.738,
+        "end": 34.878
+      },
+      {
+        "text": "ihr",
+        "start": 34.918,
+        "end": 34.978
+      },
+      {
+        "text": "auf",
+        "start": 34.998,
+        "end": 35.158
+      },
+      {
+        "text": "meine",
+        "start": 35.198,
+        "end": 35.378
+      },
+      {
+        "text": "Uni?",
+        "start": 35.438,
+        "end": 35.979
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Moment mal, den Typen da drin... Mist!",
+    "start": 36.019,
+    "end": 37.98,
+    "words": [
+      {
+        "text": "Moment",
+        "start": 36.019,
+        "end": 36.419
+      },
+      {
+        "text": "mal,",
+        "start": 36.479,
+        "end": 36.599
+      },
+      {
+        "text": "den",
+        "start": 36.639,
+        "end": 36.719
+      },
+      {
+        "text": "Typen",
+        "start": 36.759,
+        "end": 36.939
+      },
+      {
+        "text": "da",
+        "start": 36.979,
+        "end": 37.079
+      },
+      {
+        "text": "drin...",
+        "start": 37.099,
+        "end": 37.3
+      },
+      {
+        "text": "Mist!",
+        "start": 37.48,
+        "end": 37.98
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Sie hat mich!",
+    "start": 38.0,
+    "end": 38.48,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 38.0,
+        "end": 38.16
+      },
+      {
+        "text": "hat",
+        "start": 38.18,
+        "end": 38.36
+      },
+      {
+        "text": "mich!",
+        "start": 38.38,
+        "end": 38.48
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Du warst also auch auf der Nerima-Uni und so?",
+    "start": 38.5,
+    "end": 40.762,
+    "words": [
+      {
+        "text": "Du",
+        "start": 38.5,
+        "end": 38.64
+      },
+      {
+        "text": "warst",
+        "start": 38.66,
+        "end": 38.821
+      },
+      {
+        "text": "also",
+        "start": 38.861,
+        "end": 39.061
+      },
+      {
+        "text": "auch",
+        "start": 39.101,
+        "end": 39.201
+      },
+      {
+        "text": "auf",
+        "start": 39.221,
+        "end": 39.321
+      },
+      {
+        "text": "der",
+        "start": 39.341,
+        "end": 39.441
+      },
+      {
+        "text": "Nerima-Uni",
+        "start": 39.481,
+        "end": 40.061
+      },
+      {
+        "text": "und",
+        "start": 40.101,
+        "end": 40.242
+      },
+      {
+        "text": "so?",
+        "start": 40.262,
+        "end": 40.762
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "In welchem Jahr bist du?",
+    "start": 40.802,
+    "end": 41.683,
+    "words": [
+      {
+        "text": "In",
+        "start": 40.802,
+        "end": 40.902
+      },
+      {
+        "text": "welchem",
+        "start": 40.922,
+        "end": 41.242
+      },
+      {
+        "text": "Jahr",
+        "start": 41.262,
+        "end": 41.362
+      },
+      {
+        "text": "bist",
+        "start": 41.382,
+        "end": 41.542
+      },
+      {
+        "text": "du?",
+        "start": 41.583,
+        "end": 41.683
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Äh, im zweiten.",
+    "start": 41.923,
+    "end": 43.184,
+    "words": [
+      {
+        "text": "Äh,",
+        "start": 41.923,
+        "end": 42.263
+      },
+      {
+        "text": "im",
+        "start": 42.323,
+        "end": 42.483
+      },
+      {
+        "text": "zweiten.",
+        "start": 42.503,
+        "end": 43.184
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das heißt ja, dass du mein Brä bist, oder?",
+    "start": 43.244,
+    "end": 44.985,
+    "words": [
+      {
+        "text": "Das",
+        "start": 43.244,
+        "end": 43.404
+      },
+      {
+        "text": "heißt",
+        "start": 43.444,
+        "end": 43.604
+      },
+      {
+        "text": "ja,",
+        "start": 43.644,
+        "end": 43.744
+      },
+      {
+        "text": "dass",
+        "start": 43.764,
+        "end": 43.884
+      },
+      {
+        "text": "du",
+        "start": 43.924,
+        "end": 44.024
+      },
+      {
+        "text": "mein",
+        "start": 44.044,
+        "end": 44.164
+      },
+      {
+        "text": "Brä",
+        "start": 44.184,
+        "end": 44.465
+      },
+      {
+        "text": "bist,",
+        "start": 44.485,
+        "end": 44.765
+      },
+      {
+        "text": "oder?",
+        "start": 44.805,
+        "end": 44.985
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "LOL!",
+    "start": 45.505,
+    "end": 45.986,
+    "words": [
+      {
+        "text": "LOL!",
+        "start": 45.505,
+        "end": 45.986
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Was für ein Zufall!",
+    "start": 46.026,
+    "end": 47.206,
+    "words": [
+      {
+        "text": "Was",
+        "start": 46.026,
+        "end": 46.186
+      },
+      {
+        "text": "für",
+        "start": 46.206,
+        "end": 46.346
+      },
+      {
+        "text": "ein",
+        "start": 46.366,
+        "end": 46.486
+      },
+      {
+        "text": "Zufall!",
+        "start": 46.506,
+        "end": 47.206
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Jo, was ein Zufall.",
+    "start": 47.246,
+    "end": 48.407,
+    "words": [
+      {
+        "text": "Jo,",
+        "start": 47.246,
+        "end": 47.567
+      },
+      {
+        "text": "was",
+        "start": 47.627,
+        "end": 47.767
+      },
+      {
+        "text": "ein",
+        "start": 47.807,
+        "end": 47.947
+      },
+      {
+        "text": "Zufall.",
+        "start": 47.967,
+        "end": 48.407
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Bevor ich's vergesse, ich bin übrigens die Mini-Yamori aus dem ersten.",
+    "start": 49.148,
+    "end": 52.69,
+    "words": [
+      {
+        "text": "Bevor",
+        "start": 49.148,
+        "end": 49.468
+      },
+      {
+        "text": "ich's",
+        "start": 49.508,
+        "end": 49.668
+      },
+      {
+        "text": "vergesse,",
+        "start": 49.708,
+        "end": 50.329
+      },
+      {
+        "text": "ich",
+        "start": 50.369,
+        "end": 50.449
+      },
+      {
+        "text": "bin",
+        "start": 50.469,
+        "end": 50.589
+      },
+      {
+        "text": "übrigens",
+        "start": 50.649,
+        "end": 50.989
+      },
+      {
+        "text": "die",
+        "start": 51.029,
+        "end": 51.129
+      },
+      {
+        "text": "Mini-Yamori",
+        "start": 51.149,
+        "end": 51.87
+      },
+      {
+        "text": "aus",
+        "start": 51.91,
+        "end": 52.05
+      },
+      {
+        "text": "dem",
+        "start": 52.07,
+        "end": 52.21
+      },
+      {
+        "text": "ersten.",
+        "start": 52.27,
+        "end": 52.69
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Freut mich, dich kennenzulernen und so.",
+    "start": 52.75,
+    "end": 54.632,
+    "words": [
+      {
+        "text": "Freut",
+        "start": 52.75,
+        "end": 53.01
+      },
+      {
+        "text": "mich,",
+        "start": 53.031,
+        "end": 53.191
+      },
+      {
+        "text": "dich",
+        "start": 53.211,
+        "end": 53.351
+      },
+      {
+        "text": "kennenzulernen",
+        "start": 53.391,
+        "end": 54.031
+      },
+      {
+        "text": "und",
+        "start": 54.071,
+        "end": 54.191
+      },
+      {
+        "text": "so.",
+        "start": 54.231,
+        "end": 54.632
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ähm, also ich bin Kasuja.",
+    "start": 54.712,
+    "end": 56.353,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 54.712,
+        "end": 54.972
+      },
+      {
+        "text": "also",
+        "start": 55.032,
+        "end": 55.252
+      },
+      {
+        "text": "ich",
+        "start": 55.292,
+        "end": 55.372
+      },
+      {
+        "text": "bin",
+        "start": 55.412,
+        "end": 55.572
+      },
+      {
+        "text": "Kasuja.",
+        "start": 55.612,
+        "end": 56.353
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Spinnig?",
+    "start": 56.373,
+    "end": 57.013,
+    "words": [
+      {
+        "text": "Spinnig?",
+        "start": 56.373,
+        "end": 57.013
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Die ist ja voll die Süße.",
+    "start": 57.053,
+    "end": 58.674,
+    "words": [
+      {
+        "text": "Die",
+        "start": 57.053,
+        "end": 57.133
+      },
+      {
+        "text": "ist",
+        "start": 57.153,
+        "end": 57.293
+      },
+      {
+        "text": "ja",
+        "start": 57.334,
+        "end": 57.474
+      },
+      {
+        "text": "voll",
+        "start": 57.494,
+        "end": 57.674
+      },
+      {
+        "text": "die",
+        "start": 57.694,
+        "end": 57.834
+      },
+      {
+        "text": "Süße.",
+        "start": 57.874,
+        "end": 58.674
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ich muss mich nochmal für gestern entschuldigen.",
+    "start": 58.714,
+    "end": 60.676,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 58.714,
+        "end": 58.815
+      },
+      {
+        "text": "muss",
+        "start": 58.855,
+        "end": 58.995
+      },
+      {
+        "text": "mich",
+        "start": 59.035,
+        "end": 59.155
+      },
+      {
+        "text": "nochmal",
+        "start": 59.175,
+        "end": 59.455
+      },
+      {
+        "text": "für",
+        "start": 59.475,
+        "end": 59.575
+      },
+      {
+        "text": "gestern",
+        "start": 59.595,
+        "end": 59.855
+      },
+      {
+        "text": "entschuldigen.",
+        "start": 59.895,
+        "end": 60.676
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Hätte erwartet, dass du sauer bist.",
+    "start": 60.716,
+    "end": 61.997,
+    "words": [
+      {
+        "text": "Hätte",
+        "start": 60.716,
+        "end": 60.896
+      },
+      {
+        "text": "erwartet,",
+        "start": 60.936,
+        "end": 61.236
+      },
+      {
+        "text": "dass",
+        "start": 61.276,
+        "end": 61.396
+      },
+      {
+        "text": "du",
+        "start": 61.416,
+        "end": 61.536
+      },
+      {
+        "text": "sauer",
+        "start": 61.576,
+        "end": 61.837
+      },
+      {
+        "text": "bist.",
+        "start": 61.857,
+        "end": 61.997
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Ach, das war nur Position-Talk und so.",
+    "start": 62.905,
+    "end": 64.706,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 62.905,
+        "end": 63.105
+      },
+      {
+        "text": "das",
+        "start": 63.125,
+        "end": 63.265
+      },
+      {
+        "text": "war",
+        "start": 63.305,
+        "end": 63.406
+      },
+      {
+        "text": "nur",
+        "start": 63.466,
+        "end": 63.606
+      },
+      {
+        "text": "Position-Talk",
+        "start": 63.626,
+        "end": 64.366
+      },
+      {
+        "text": "und",
+        "start": 64.406,
+        "end": 64.526
+      },
+      {
+        "text": "so.",
+        "start": 64.566,
+        "end": 64.706
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Kein Stress.",
+    "start": 64.726,
+    "end": 65.607,
+    "words": [
+      {
+        "text": "Kein",
+        "start": 64.726,
+        "end": 64.906
+      },
+      {
+        "text": "Stress.",
+        "start": 64.926,
+        "end": 65.607
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "P-P-Pussy?",
+    "start": 65.627,
+    "end": 66.467,
+    "words": [
+      {
+        "text": "P-P-Pussy?",
+        "start": 65.627,
+        "end": 66.467
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Wenn fremde Anwohner dir krass auf die Nerven gehen, musst du ihnen das unmissverständlich klar machen.",
+    "start": 66.487,
+    "end": 70.429,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 66.487,
+        "end": 66.607
+      },
+      {
+        "text": "fremde",
+        "start": 66.647,
+        "end": 66.947
+      },
+      {
+        "text": "Anwohner",
+        "start": 66.967,
+        "end": 67.348
+      },
+      {
+        "text": "dir",
+        "start": 67.368,
+        "end": 67.488
+      },
+      {
+        "text": "krass",
+        "start": 67.508,
+        "end": 67.668
+      },
+      {
+        "text": "auf",
+        "start": 67.688,
+        "end": 67.788
+      },
+      {
+        "text": "die",
+        "start": 67.808,
+        "end": 67.928
+      },
+      {
+        "text": "Nerven",
+        "start": 67.948,
+        "end": 68.168
+      },
+      {
+        "text": "gehen,",
+        "start": 68.188,
+        "end": 68.348
+      },
+      {
+        "text": "musst",
+        "start": 68.368,
+        "end": 68.508
+      },
+      {
+        "text": "du",
+        "start": 68.528,
+        "end": 68.608
+      },
+      {
+        "text": "ihnen",
+        "start": 68.628,
+        "end": 68.768
+      },
+      {
+        "text": "das",
+        "start": 68.788,
+        "end": 68.909
+      },
+      {
+        "text": "unmissverständlich",
+        "start": 68.969,
+        "end": 69.669
+      },
+      {
+        "text": "klar",
+        "start": 69.689,
+        "end": 69.889
+      },
+      {
+        "text": "machen.",
+        "start": 69.909,
+        "end": 70.429
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Hab ich auf WeTube gesehen und so.",
+    "start": 70.469,
+    "end": 72.39,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 70.469,
+        "end": 70.609
+      },
+      {
+        "text": "ich",
+        "start": 70.649,
+        "end": 70.73
+      },
+      {
+        "text": "auf",
+        "start": 70.77,
+        "end": 70.87
+      },
+      {
+        "text": "WeTube",
+        "start": 70.91,
+        "end": 71.31
+      },
+      {
+        "text": "gesehen",
+        "start": 71.35,
+        "end": 71.63
+      },
+      {
+        "text": "und",
+        "start": 71.67,
+        "end": 71.79
+      },
+      {
+        "text": "so.",
+        "start": 71.81,
+        "end": 72.39
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Achso.",
+    "start": 72.45,
+    "end": 73.411,
+    "words": [
+      {
+        "text": "Achso.",
+        "start": 72.45,
+        "end": 73.411
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Was man da so findet.",
+    "start": 73.431,
+    "end": 74.672,
+    "words": [
+      {
+        "text": "Was",
+        "start": 73.431,
+        "end": 73.631
+      },
+      {
+        "text": "man",
+        "start": 73.671,
+        "end": 73.771
+      },
+      {
+        "text": "da",
+        "start": 73.791,
+        "end": 73.911
+      },
+      {
+        "text": "so",
+        "start": 73.951,
+        "end": 74.051
+      },
+      {
+        "text": "findet.",
+        "start": 74.091,
+        "end": 74.672
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Aber da du mein Brie bist, ändert das alles.",
+    "start": 74.732,
+    "end": 76.553,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 74.732,
+        "end": 74.912
+      },
+      {
+        "text": "da",
+        "start": 74.932,
+        "end": 75.092
+      },
+      {
+        "text": "du",
+        "start": 75.112,
+        "end": 75.212
+      },
+      {
+        "text": "mein",
+        "start": 75.232,
+        "end": 75.352
+      },
+      {
+        "text": "Brie",
+        "start": 75.392,
+        "end": 75.592
+      },
+      {
+        "text": "bist,",
+        "start": 75.612,
+        "end": 75.772
+      },
+      {
+        "text": "ändert",
+        "start": 75.812,
+        "end": 76.052
+      },
+      {
+        "text": "das",
+        "start": 76.092,
+        "end": 76.273
+      },
+      {
+        "text": "alles.",
+        "start": 76.313,
+        "end": 76.553
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Tut mir voll leid, dass ich gestern so unverschämt und respektlos zu dir war und so.",
+    "start": 76.893,
+    "end": 80.295,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 76.893,
+        "end": 77.093
+      },
+      {
+        "text": "mir",
+        "start": 77.113,
+        "end": 77.253
+      },
+      {
+        "text": "voll",
+        "start": 77.293,
+        "end": 77.413
+      },
+      {
+        "text": "leid,",
+        "start": 77.453,
+        "end": 77.573
+      },
+      {
+        "text": "dass",
+        "start": 77.593,
+        "end": 77.693
+      },
+      {
+        "text": "ich",
+        "start": 77.733,
+        "end": 77.853
+      },
+      {
+        "text": "gestern",
+        "start": 77.873,
+        "end": 78.154
+      },
+      {
+        "text": "so",
+        "start": 78.174,
+        "end": 78.314
+      },
+      {
+        "text": "unverschämt",
+        "start": 78.354,
+        "end": 78.774
+      },
+      {
+        "text": "und",
+        "start": 78.814,
+        "end": 78.914
+      },
+      {
+        "text": "respektlos",
+        "start": 78.954,
+        "end": 79.494
+      },
+      {
+        "text": "zu",
+        "start": 79.514,
+        "end": 79.634
+      },
+      {
+        "text": "dir",
+        "start": 79.654,
+        "end": 79.774
+      },
+      {
+        "text": "war",
+        "start": 79.794,
+        "end": 79.935
+      },
+      {
+        "text": "und",
+        "start": 79.975,
+        "end": 80.135
+      },
+      {
+        "text": "so.",
+        "start": 80.175,
+        "end": 80.295
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Ach, ist schon in Ordnung.",
+    "start": 80.395,
+    "end": 81.615,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 80.395,
+        "end": 80.755
+      },
+      {
+        "text": "ist",
+        "start": 80.795,
+        "end": 80.875
+      },
+      {
+        "text": "schon",
+        "start": 80.895,
+        "end": 81.075
+      },
+      {
+        "text": "in",
+        "start": 81.115,
+        "end": 81.235
+      },
+      {
+        "text": "Ordnung.",
+        "start": 81.275,
+        "end": 81.615
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Wer hätte gedacht, dass sie so aufrichtig und höflich ist?",
+    "start": 81.655,
+    "end": 84.117,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 81.655,
+        "end": 81.776
+      },
+      {
+        "text": "hätte",
+        "start": 81.896,
+        "end": 82.096
+      },
+      {
+        "text": "gedacht,",
+        "start": 82.116,
+        "end": 82.356
+      },
+      {
+        "text": "dass",
+        "start": 82.376,
+        "end": 82.536
+      },
+      {
+        "text": "sie",
+        "start": 82.556,
+        "end": 82.656
+      },
+      {
+        "text": "so",
+        "start": 82.676,
+        "end": 82.836
+      },
+      {
+        "text": "aufrichtig",
+        "start": 82.856,
+        "end": 83.316
+      },
+      {
+        "text": "und",
+        "start": 83.336,
+        "end": 83.456
+      },
+      {
+        "text": "höflich",
+        "start": 83.577,
+        "end": 83.997
+      },
+      {
+        "text": "ist?",
+        "start": 84.037,
+        "end": 84.117
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": " Tja, das hier ist mein Nachbar.",
+    "start": 84.457,
+    "end": 86.238,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 84.457,
+        "end": 84.617
+      },
+      {
+        "text": "das",
+        "start": 84.817,
+        "end": 85.397
+      },
+      {
+        "text": "hier",
+        "start": 85.417,
+        "end": 85.538
+      },
+      {
+        "text": "ist",
+        "start": 85.578,
+        "end": 85.738
+      },
+      {
+        "text": "mein",
+        "start": 85.758,
+        "end": 85.898
+      },
+      {
+        "text": "Nachbar.",
+        "start": 85.938,
+        "end": 86.238
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Er wohnt direkt neben mir.",
+    "start": 86.258,
+    "end": 87.178,
+    "words": [
+      {
+        "text": "Er",
+        "start": 86.258,
+        "end": 86.298
+      },
+      {
+        "text": "wohnt",
+        "start": 86.318,
+        "end": 86.458
+      },
+      {
+        "text": "direkt",
+        "start": 86.478,
+        "end": 86.738
+      },
+      {
+        "text": "neben",
+        "start": 86.778,
+        "end": 86.958
+      },
+      {
+        "text": "mir.",
+        "start": 87.018,
+        "end": 87.178
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Scheiße!",
+    "start": 87.198,
+    "end": 87.739,
+    "words": [
+      {
+        "text": "Scheiße!",
+        "start": 87.198,
+        "end": 87.739
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Was, wenn sie das an der Uni rumerzählt?",
+    "start": 87.759,
+    "end": 89.78,
+    "words": [
+      {
+        "text": "Was,",
+        "start": 87.759,
+        "end": 87.959
+      },
+      {
+        "text": "wenn",
+        "start": 87.999,
+        "end": 88.119
+      },
+      {
+        "text": "sie",
+        "start": 88.139,
+        "end": 88.219
+      },
+      {
+        "text": "das",
+        "start": 88.239,
+        "end": 88.379
+      },
+      {
+        "text": "an",
+        "start": 88.419,
+        "end": 88.519
+      },
+      {
+        "text": "der",
+        "start": 88.539,
+        "end": 88.639
+      },
+      {
+        "text": "Uni",
+        "start": 88.679,
+        "end": 88.879
+      },
+      {
+        "text": "rumerzählt?",
+        "start": 88.899,
+        "end": 89.78
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Jetzt sag schon, Kazuya.",
+    "start": 89.92,
+    "end": 91.0,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 89.92,
+        "end": 90.04
+      },
+      {
+        "text": "sag",
+        "start": 90.16,
+        "end": 90.34
+      },
+      {
+        "text": "schon,",
+        "start": 90.36,
+        "end": 90.56
+      },
+      {
+        "text": "Kazuya.",
+        "start": 90.58,
+        "end": 91.0
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Ist an diesen Gerüchten was dran, dass du dich nachts ständig auf deinem Balkon mit so ner heißen Brau triffst?",
+    "start": 91.02,
+    "end": 95.202,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 91.02,
+        "end": 91.12
+      },
+      {
+        "text": "an",
+        "start": 91.16,
+        "end": 91.26
+      },
+      {
+        "text": "diesen",
+        "start": 91.28,
+        "end": 91.461
+      },
+      {
+        "text": "Gerüchten",
+        "start": 91.481,
+        "end": 91.821
+      },
+      {
+        "text": "was",
+        "start": 91.881,
+        "end": 91.981
+      },
+      {
+        "text": "dran,",
+        "start": 92.001,
+        "end": 92.161
+      },
+      {
+        "text": "dass",
+        "start": 92.181,
+        "end": 92.301
+      },
+      {
+        "text": "du",
+        "start": 92.321,
+        "end": 92.381
+      },
+      {
+        "text": "dich",
+        "start": 92.401,
+        "end": 92.561
+      },
+      {
+        "text": "nachts",
+        "start": 92.601,
+        "end": 92.821
+      },
+      {
+        "text": "ständig",
+        "start": 92.841,
+        "end": 93.101
+      },
+      {
+        "text": "auf",
+        "start": 93.141,
+        "end": 93.201
+      },
+      {
+        "text": "deinem",
+        "start": 93.221,
+        "end": 93.401
+      },
+      {
+        "text": "Balkon",
+        "start": 93.421,
+        "end": 93.702
+      },
+      {
+        "text": "mit",
+        "start": 93.722,
+        "end": 93.822
+      },
+      {
+        "text": "so",
+        "start": 93.842,
+        "end": 93.882
+      },
+      {
+        "text": "ner",
+        "start": 93.922,
+        "end": 94.022
+      },
+      {
+        "text": "heißen",
+        "start": 94.062,
+        "end": 94.302
+      },
+      {
+        "text": "Brau",
+        "start": 94.342,
+        "end": 94.422
+      },
+      {
+        "text": "triffst?",
+        "start": 94.462,
+        "end": 95.202
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Hey, Mini, hör mal!",
+    "start": 95.222,
+    "end": 96.503,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 95.222,
+        "end": 95.603
+      },
+      {
+        "text": "Mini,",
+        "start": 95.623,
+        "end": 95.903
+      },
+      {
+        "text": "hör",
+        "start": 95.943,
+        "end": 96.083
+      },
+      {
+        "text": "mal!",
+        "start": 96.103,
+        "end": 96.503
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Können wir kurz da drüben unter vier Augen reden?",
+    "start": 96.523,
+    "end": 98.204,
+    "words": [
+      {
+        "text": "Können",
+        "start": 96.523,
+        "end": 96.663
+      },
+      {
+        "text": "wir",
+        "start": 96.683,
+        "end": 96.763
+      },
+      {
+        "text": "kurz",
+        "start": 96.803,
+        "end": 96.983
+      },
+      {
+        "text": "da",
+        "start": 97.023,
+        "end": 97.083
+      },
+      {
+        "text": "drüben",
+        "start": 97.103,
+        "end": 97.303
+      },
+      {
+        "text": "unter",
+        "start": 97.323,
+        "end": 97.524
+      },
+      {
+        "text": "vier",
+        "start": 97.544,
+        "end": 97.684
+      },
+      {
+        "text": "Augen",
+        "start": 97.724,
+        "end": 97.904
+      },
+      {
+        "text": "reden?",
+        "start": 97.984,
+        "end": 98.204
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Was?",
+    "start": 98.544,
+    "end": 99.124,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 98.544,
+        "end": 99.124
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Dann geh ich schon mal fort zum Hörsaal.",
+    "start": 99.164,
+    "end": 100.705,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 99.164,
+        "end": 99.284
+      },
+      {
+        "text": "geh",
+        "start": 99.304,
+        "end": 99.404
+      },
+      {
+        "text": "ich",
+        "start": 99.445,
+        "end": 99.505
+      },
+      {
+        "text": "schon",
+        "start": 99.545,
+        "end": 99.645
+      },
+      {
+        "text": "mal",
+        "start": 99.765,
+        "end": 99.845
+      },
+      {
+        "text": "fort",
+        "start": 99.865,
+        "end": 99.985
+      },
+      {
+        "text": "zum",
+        "start": 100.025,
+        "end": 100.165
+      },
+      {
+        "text": "Hörsaal.",
+        "start": 100.185,
+        "end": 100.705
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Bis dann!",
+    "start": 100.745,
+    "end": 100.985,
+    "words": [
+      {
+        "text": "Bis",
+        "start": 100.745,
+        "end": 100.845
+      },
+      {
+        "text": "dann!",
+        "start": 100.865,
+        "end": 100.985
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Jo, bis dann!",
+    "start": 101.025,
+    "end": 102.366,
+    "words": [
+      {
+        "text": "Jo,",
+        "start": 101.025,
+        "end": 101.105
+      },
+      {
+        "text": "bis",
+        "start": 101.125,
+        "end": 101.345
+      },
+      {
+        "text": "dann!",
+        "start": 101.385,
+        "end": 102.366
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Worüber genau wolltest du denn mit mir reden?",
+    "start": 102.406,
+    "end": 104.107,
+    "words": [
+      {
+        "text": "Worüber",
+        "start": 102.406,
+        "end": 102.766
+      },
+      {
+        "text": "genau",
+        "start": 102.786,
+        "end": 103.026
+      },
+      {
+        "text": "wolltest",
+        "start": 103.046,
+        "end": 103.306
+      },
+      {
+        "text": "du",
+        "start": 103.326,
+        "end": 103.406
+      },
+      {
+        "text": "denn",
+        "start": 103.426,
+        "end": 103.547
+      },
+      {
+        "text": "mit",
+        "start": 103.567,
+        "end": 103.727
+      },
+      {
+        "text": "mir",
+        "start": 103.747,
+        "end": 103.867
+      },
+      {
+        "text": "reden?",
+        "start": 103.907,
+        "end": 104.107
+      }
+    ]
+  }
+]

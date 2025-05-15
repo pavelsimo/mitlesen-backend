@@ -1,0 +1,915 @@
+[
+  {
+    "id": 0,
+    "text": " Da ist sie.",
+    "start": 4.52,
+    "end": 5.601,
+    "words": [
+      {
+        "text": "Da",
+        "start": 4.52,
+        "end": 4.7
+      },
+      {
+        "text": "ist",
+        "start": 5.381,
+        "end": 5.481
+      },
+      {
+        "text": "sie.",
+        "start": 5.501,
+        "end": 5.601
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Carol Orson.",
+    "start": 5.681,
+    "end": 7.662,
+    "words": [
+      {
+        "text": "Carol",
+        "start": 5.681,
+        "end": 7.062
+      },
+      {
+        "text": "Orson.",
+        "start": 7.122,
+        "end": 7.662
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sie wird schon am frühen Morgen von allen belagert.",
+    "start": 7.702,
+    "end": 11.485,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 7.702,
+        "end": 7.782
+      },
+      {
+        "text": "wird",
+        "start": 7.802,
+        "end": 7.943
+      },
+      {
+        "text": "schon",
+        "start": 7.983,
+        "end": 8.123
+      },
+      {
+        "text": "am",
+        "start": 8.163,
+        "end": 8.303
+      },
+      {
+        "text": "frühen",
+        "start": 8.323,
+        "end": 8.563
+      },
+      {
+        "text": "Morgen",
+        "start": 8.603,
+        "end": 8.883
+      },
+      {
+        "text": "von",
+        "start": 8.903,
+        "end": 9.083
+      },
+      {
+        "text": "allen",
+        "start": 9.123,
+        "end": 9.304
+      },
+      {
+        "text": "belagert.",
+        "start": 9.344,
+        "end": 11.485
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Was meinst du, wenn Carol das beliebteste Mädchen an der Schule ist?",
+    "start": 11.525,
+    "end": 14.407,
+    "words": [
+      {
+        "text": "Was",
+        "start": 11.525,
+        "end": 11.685
+      },
+      {
+        "text": "meinst",
+        "start": 11.725,
+        "end": 11.905
+      },
+      {
+        "text": "du,",
+        "start": 11.925,
+        "end": 12.025
+      },
+      {
+        "text": "wenn",
+        "start": 12.045,
+        "end": 12.186
+      },
+      {
+        "text": "Carol",
+        "start": 12.226,
+        "end": 12.446
+      },
+      {
+        "text": "das",
+        "start": 12.466,
+        "end": 12.586
+      },
+      {
+        "text": "beliebteste",
+        "start": 12.626,
+        "end": 13.146
+      },
+      {
+        "text": "Mädchen",
+        "start": 13.186,
+        "end": 13.426
+      },
+      {
+        "text": "an",
+        "start": 13.466,
+        "end": 13.567
+      },
+      {
+        "text": "der",
+        "start": 13.587,
+        "end": 13.667
+      },
+      {
+        "text": "Schule",
+        "start": 13.707,
+        "end": 13.987
+      },
+      {
+        "text": "ist?",
+        "start": 14.027,
+        "end": 14.407
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Bedeutet das, sie ist auch das femininste, oder nicht?",
+    "start": 14.427,
+    "end": 16.929,
+    "words": [
+      {
+        "text": "Bedeutet",
+        "start": 14.427,
+        "end": 14.827
+      },
+      {
+        "text": "das,",
+        "start": 14.847,
+        "end": 14.988
+      },
+      {
+        "text": "sie",
+        "start": 15.008,
+        "end": 15.088
+      },
+      {
+        "text": "ist",
+        "start": 15.128,
+        "end": 15.248
+      },
+      {
+        "text": "auch",
+        "start": 15.288,
+        "end": 15.428
+      },
+      {
+        "text": "das",
+        "start": 15.448,
+        "end": 15.608
+      },
+      {
+        "text": "femininste,",
+        "start": 15.628,
+        "end": 16.228
+      },
+      {
+        "text": "oder",
+        "start": 16.268,
+        "end": 16.469
+      },
+      {
+        "text": "nicht?",
+        "start": 16.509,
+        "end": 16.929
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Das ist schwer zu sagen.",
+    "start": 16.969,
+    "end": 18.71,
+    "words": [
+      {
+        "text": "Das",
+        "start": 16.969,
+        "end": 17.129
+      },
+      {
+        "text": "ist",
+        "start": 17.169,
+        "end": 17.289
+      },
+      {
+        "text": "schwer",
+        "start": 17.329,
+        "end": 17.589
+      },
+      {
+        "text": "zu",
+        "start": 17.629,
+        "end": 17.77
+      },
+      {
+        "text": "sagen.",
+        "start": 17.81,
+        "end": 18.71
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Hat die es vielleicht gut?",
+    "start": 18.73,
+    "end": 20.712,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 18.73,
+        "end": 18.99
+      },
+      {
+        "text": "die",
+        "start": 19.03,
+        "end": 19.171
+      },
+      {
+        "text": "es",
+        "start": 19.211,
+        "end": 19.371
+      },
+      {
+        "text": "vielleicht",
+        "start": 19.391,
+        "end": 19.811
+      },
+      {
+        "text": "gut?",
+        "start": 19.851,
+        "end": 20.712
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich frage mich, wie ich auch so werde wie sie.",
+    "start": 20.752,
+    "end": 23.394,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 20.752,
+        "end": 20.872
+      },
+      {
+        "text": "frage",
+        "start": 20.912,
+        "end": 21.212
+      },
+      {
+        "text": "mich,",
+        "start": 21.232,
+        "end": 21.392
+      },
+      {
+        "text": "wie",
+        "start": 21.412,
+        "end": 21.492
+      },
+      {
+        "text": "ich",
+        "start": 21.532,
+        "end": 21.632
+      },
+      {
+        "text": "auch",
+        "start": 21.672,
+        "end": 21.832
+      },
+      {
+        "text": "so",
+        "start": 21.852,
+        "end": 21.952
+      },
+      {
+        "text": "werde",
+        "start": 21.993,
+        "end": 22.233
+      },
+      {
+        "text": "wie",
+        "start": 22.273,
+        "end": 22.373
+      },
+      {
+        "text": "sie.",
+        "start": 22.413,
+        "end": 23.394
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Der erste Schritt ist, mal deine Hantel wegzulegen.",
+    "start": 23.434,
+    "end": 26.075,
+    "words": [
+      {
+        "text": "Der",
+        "start": 23.434,
+        "end": 23.594
+      },
+      {
+        "text": "erste",
+        "start": 23.634,
+        "end": 23.914
+      },
+      {
+        "text": "Schritt",
+        "start": 23.934,
+        "end": 24.254
+      },
+      {
+        "text": "ist,",
+        "start": 24.334,
+        "end": 24.774
+      },
+      {
+        "text": "mal",
+        "start": 24.835,
+        "end": 24.975
+      },
+      {
+        "text": "deine",
+        "start": 24.995,
+        "end": 25.215
+      },
+      {
+        "text": "Hantel",
+        "start": 25.255,
+        "end": 25.495
+      },
+      {
+        "text": "wegzulegen.",
+        "start": 25.535,
+        "end": 26.075
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Mhm.",
+    "start": 26.135,
+    "end": 26.256,
+    "words": [
+      {
+        "text": "Mhm.",
+        "start": 26.135,
+        "end": 26.256
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Ihre Beliebtheit liegt bestimmt nicht nur an ihrem Aussehen.",
+    "start": 29.072,
+    "end": 31.733,
+    "words": [
+      {
+        "text": "Ihre",
+        "start": 29.072,
+        "end": 29.232
+      },
+      {
+        "text": "Beliebtheit",
+        "start": 29.272,
+        "end": 29.652
+      },
+      {
+        "text": "liegt",
+        "start": 29.672,
+        "end": 29.872
+      },
+      {
+        "text": "bestimmt",
+        "start": 29.912,
+        "end": 30.232
+      },
+      {
+        "text": "nicht",
+        "start": 30.272,
+        "end": 30.432
+      },
+      {
+        "text": "nur",
+        "start": 30.452,
+        "end": 30.572
+      },
+      {
+        "text": "an",
+        "start": 30.613,
+        "end": 30.693
+      },
+      {
+        "text": "ihrem",
+        "start": 30.713,
+        "end": 30.953
+      },
+      {
+        "text": "Aussehen.",
+        "start": 30.993,
+        "end": 31.733
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Sie hat sicher auch einen besonderen Status, weil sie die einzige Engländerin an unserer Schule ist.",
+    "start": 31.773,
+    "end": 36.534,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 31.773,
+        "end": 31.893
+      },
+      {
+        "text": "hat",
+        "start": 31.913,
+        "end": 32.053
+      },
+      {
+        "text": "sicher",
+        "start": 32.073,
+        "end": 32.293
+      },
+      {
+        "text": "auch",
+        "start": 32.333,
+        "end": 32.453
+      },
+      {
+        "text": "einen",
+        "start": 32.473,
+        "end": 32.613
+      },
+      {
+        "text": "besonderen",
+        "start": 32.653,
+        "end": 33.113
+      },
+      {
+        "text": "Status,",
+        "start": 33.153,
+        "end": 33.513
+      },
+      {
+        "text": "weil",
+        "start": 33.553,
+        "end": 33.653
+      },
+      {
+        "text": "sie",
+        "start": 33.693,
+        "end": 33.813
+      },
+      {
+        "text": "die",
+        "start": 33.833,
+        "end": 33.933
+      },
+      {
+        "text": "einzige",
+        "start": 33.973,
+        "end": 34.334
+      },
+      {
+        "text": "Engländerin",
+        "start": 34.374,
+        "end": 34.914
+      },
+      {
+        "text": "an",
+        "start": 34.954,
+        "end": 35.074
+      },
+      {
+        "text": "unserer",
+        "start": 35.094,
+        "end": 35.374
+      },
+      {
+        "text": "Schule",
+        "start": 35.394,
+        "end": 35.714
+      },
+      {
+        "text": "ist.",
+        "start": 35.754,
+        "end": 36.534
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Und außerdem... Was für Gründe sollte es noch geben?",
+    "start": 36.574,
+    "end": 42.416,
+    "words": [
+      {
+        "text": "Und",
+        "start": 36.574,
+        "end": 36.794
+      },
+      {
+        "text": "außerdem...",
+        "start": 36.834,
+        "end": 40.255
+      },
+      {
+        "text": "Was",
+        "start": 40.275,
+        "end": 40.415
+      },
+      {
+        "text": "für",
+        "start": 40.435,
+        "end": 40.535
+      },
+      {
+        "text": "Gründe",
+        "start": 40.555,
+        "end": 40.835
+      },
+      {
+        "text": "sollte",
+        "start": 40.875,
+        "end": 41.055
+      },
+      {
+        "text": "es",
+        "start": 41.115,
+        "end": 41.255
+      },
+      {
+        "text": "noch",
+        "start": 41.295,
+        "end": 41.435
+      },
+      {
+        "text": "geben?",
+        "start": 41.495,
+        "end": 42.416
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ihre Persönlichkeit.",
+    "start": 42.456,
+    "end": 43.716,
+    "words": [
+      {
+        "text": "Ihre",
+        "start": 42.456,
+        "end": 42.656
+      },
+      {
+        "text": "Persönlichkeit.",
+        "start": 42.696,
+        "end": 43.716
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Sie wirkt doch irgendwie weich und wehrlos, oder?",
+    "start": 43.736,
+    "end": 45.937,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 43.736,
+        "end": 43.836
+      },
+      {
+        "text": "wirkt",
+        "start": 43.876,
+        "end": 44.036
+      },
+      {
+        "text": "doch",
+        "start": 44.056,
+        "end": 44.176
+      },
+      {
+        "text": "irgendwie",
+        "start": 44.216,
+        "end": 44.576
+      },
+      {
+        "text": "weich",
+        "start": 44.616,
+        "end": 44.836
+      },
+      {
+        "text": "und",
+        "start": 44.876,
+        "end": 44.996
+      },
+      {
+        "text": "wehrlos,",
+        "start": 45.036,
+        "end": 45.437
+      },
+      {
+        "text": "oder?",
+        "start": 45.457,
+        "end": 45.937
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "So etwas lässt Männerherzen schnell höher schlagen.",
+    "start": 45.957,
+    "end": 48.517,
+    "words": [
+      {
+        "text": "So",
+        "start": 45.957,
+        "end": 46.077
+      },
+      {
+        "text": "etwas",
+        "start": 46.117,
+        "end": 46.357
+      },
+      {
+        "text": "lässt",
+        "start": 46.397,
+        "end": 46.577
+      },
+      {
+        "text": "Männerherzen",
+        "start": 46.617,
+        "end": 47.217
+      },
+      {
+        "text": "schnell",
+        "start": 47.237,
+        "end": 47.517
+      },
+      {
+        "text": "höher",
+        "start": 47.557,
+        "end": 47.697
+      },
+      {
+        "text": "schlagen.",
+        "start": 47.737,
+        "end": 48.517
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Echt?",
+    "start": 48.577,
+    "end": 48.797,
+    "words": [
+      {
+        "text": "Echt?",
+        "start": 48.577,
+        "end": 48.797
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Wehrlos zu sein ist also etwas Gutes?",
+    "start": 48.837,
+    "end": 50.378,
+    "words": [
+      {
+        "text": "Wehrlos",
+        "start": 48.837,
+        "end": 49.138
+      },
+      {
+        "text": "zu",
+        "start": 49.158,
+        "end": 49.238
+      },
+      {
+        "text": "sein",
+        "start": 49.258,
+        "end": 49.398
+      },
+      {
+        "text": "ist",
+        "start": 49.438,
+        "end": 49.538
+      },
+      {
+        "text": "also",
+        "start": 49.578,
+        "end": 49.778
+      },
+      {
+        "text": "etwas",
+        "start": 49.798,
+        "end": 50.078
+      },
+      {
+        "text": "Gutes?",
+        "start": 50.098,
+        "end": 50.378
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Damit ist doch jeder Kampf direkt zum Scheitern verurteilt.",
+    "start": 51.078,
+    "end": 53.603,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 51.078,
+        "end": 51.299
+      },
+      {
+        "text": "ist",
+        "start": 51.319,
+        "end": 51.419
+      },
+      {
+        "text": "doch",
+        "start": 51.459,
+        "end": 51.619
+      },
+      {
+        "text": "jeder",
+        "start": 51.639,
+        "end": 51.86
+      },
+      {
+        "text": "Kampf",
+        "start": 51.88,
+        "end": 52.08
+      },
+      {
+        "text": "direkt",
+        "start": 52.12,
+        "end": 52.34
+      },
+      {
+        "text": "zum",
+        "start": 52.361,
+        "end": 52.501
+      },
+      {
+        "text": "Scheitern",
+        "start": 52.521,
+        "end": 52.901
+      },
+      {
+        "text": "verurteilt.",
+        "start": 52.921,
+        "end": 53.603
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du denkst nur darüber nach, wer in einem Kampf gewinnt oder verliert.",
+    "start": 53.863,
+    "end": 56.748,
+    "words": [
+      {
+        "text": "Du",
+        "start": 53.863,
+        "end": 53.943
+      },
+      {
+        "text": "denkst",
+        "start": 53.983,
+        "end": 54.164
+      },
+      {
+        "text": "nur",
+        "start": 54.284,
+        "end": 54.404
+      },
+      {
+        "text": "darüber",
+        "start": 54.444,
+        "end": 54.744
+      },
+      {
+        "text": "nach,",
+        "start": 54.805,
+        "end": 55.025
+      },
+      {
+        "text": "wer",
+        "start": 55.045,
+        "end": 55.125
+      },
+      {
+        "text": "in",
+        "start": 55.165,
+        "end": 55.285
+      },
+      {
+        "text": "einem",
+        "start": 55.325,
+        "end": 55.546
+      },
+      {
+        "text": "Kampf",
+        "start": 55.566,
+        "end": 55.786
+      },
+      {
+        "text": "gewinnt",
+        "start": 55.826,
+        "end": 56.127
+      },
+      {
+        "text": "oder",
+        "start": 56.167,
+        "end": 56.407
+      },
+      {
+        "text": "verliert.",
+        "start": 56.447,
+        "end": 56.748
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Das solltest du mal lassen.",
+    "start": 56.788,
+    "end": 58.05,
+    "words": [
+      {
+        "text": "Das",
+        "start": 56.788,
+        "end": 57.169
+      },
+      {
+        "text": "solltest",
+        "start": 57.209,
+        "end": 57.489
+      },
+      {
+        "text": "du",
+        "start": 57.509,
+        "end": 57.649
+      },
+      {
+        "text": "mal",
+        "start": 57.669,
+        "end": 57.77
+      },
+      {
+        "text": "lassen.",
+        "start": 57.81,
+        "end": 58.05
+      }
+    ]
+  }
+]

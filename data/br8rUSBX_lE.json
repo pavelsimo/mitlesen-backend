@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "text": " Hey, ist alles okay bei dir?",
+    "start": 1.912,
+    "end": 3.493,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 1.912,
+        "end": 2.212
+      },
+      {
+        "text": "ist",
+        "start": 2.252,
+        "end": 2.372
+      },
+      {
+        "text": "alles",
+        "start": 2.412,
+        "end": 2.573
+      },
+      {
+        "text": "okay",
+        "start": 2.633,
+        "end": 2.913
+      },
+      {
+        "text": "bei",
+        "start": 2.933,
+        "end": 3.073
+      },
+      {
+        "text": "dir?",
+        "start": 3.093,
+        "end": 3.493
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hörst du?",
+    "start": 3.533,
+    "end": 4.334,
+    "words": [
+      {
+        "text": "Hörst",
+        "start": 3.533,
+        "end": 3.753
+      },
+      {
+        "text": "du?",
+        "start": 3.773,
+        "end": 4.334
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hey, du!",
+    "start": 4.374,
+    "end": 7.596,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 4.374,
+        "end": 4.574
+      },
+      {
+        "text": "du!",
+        "start": 4.594,
+        "end": 7.596
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Halt durch!",
+    "start": 7.636,
+    "end": 8.376,
+    "words": [
+      {
+        "text": "Halt",
+        "start": 7.636,
+        "end": 7.816
+      },
+      {
+        "text": "durch!",
+        "start": 7.836,
+        "end": 8.376
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich hol dich hier raus.",
+    "start": 8.416,
+    "end": 16.121,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 8.416,
+        "end": 8.496
+      },
+      {
+        "text": "hol",
+        "start": 8.536,
+        "end": 8.596
+      },
+      {
+        "text": "dich",
+        "start": 8.616,
+        "end": 8.756
+      },
+      {
+        "text": "hier",
+        "start": 8.796,
+        "end": 8.916
+      },
+      {
+        "text": "raus.",
+        "start": 8.956,
+        "end": 16.121
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Lydia, wo hast du das Kind her?",
+    "start": 16.181,
+    "end": 18.002,
+    "words": [
+      {
+        "text": "Lydia,",
+        "start": 16.181,
+        "end": 16.641
+      },
+      {
+        "text": "wo",
+        "start": 16.661,
+        "end": 16.761
+      },
+      {
+        "text": "hast",
+        "start": 16.801,
+        "end": 16.941
+      },
+      {
+        "text": "du",
+        "start": 16.961,
+        "end": 17.102
+      },
+      {
+        "text": "das",
+        "start": 17.122,
+        "end": 17.262
+      },
+      {
+        "text": "Kind",
+        "start": 17.302,
+        "end": 17.522
+      },
+      {
+        "text": "her?",
+        "start": 17.562,
+        "end": 18.002
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Warum hast du uns denn nicht vorher erzählt, dass du Mutter geworden bist?",
+    "start": 18.022,
+    "end": 21.044,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 18.022,
+        "end": 18.262
+      },
+      {
+        "text": "hast",
+        "start": 18.282,
+        "end": 18.442
+      },
+      {
+        "text": "du",
+        "start": 18.462,
+        "end": 18.542
+      },
+      {
+        "text": "uns",
+        "start": 18.562,
+        "end": 18.682
+      },
+      {
+        "text": "denn",
+        "start": 18.702,
+        "end": 18.843
+      },
+      {
+        "text": "nicht",
+        "start": 18.863,
+        "end": 18.983
+      },
+      {
+        "text": "vorher",
+        "start": 19.003,
+        "end": 19.283
+      },
+      {
+        "text": "erzählt,",
+        "start": 19.303,
+        "end": 19.583
+      },
+      {
+        "text": "dass",
+        "start": 19.603,
+        "end": 19.743
+      },
+      {
+        "text": "du",
+        "start": 19.763,
+        "end": 19.883
+      },
+      {
+        "text": "Mutter",
+        "start": 19.903,
+        "end": 20.163
+      },
+      {
+        "text": "geworden",
+        "start": 20.183,
+        "end": 20.524
+      },
+      {
+        "text": "bist?",
+        "start": 20.564,
+        "end": 21.044
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wie kommst du auf so eine dumme Idee, Carol?",
+    "start": 21.064,
+    "end": 23.225,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 21.064,
+        "end": 21.184
+      },
+      {
+        "text": "kommst",
+        "start": 21.204,
+        "end": 21.424
+      },
+      {
+        "text": "du",
+        "start": 21.464,
+        "end": 21.544
+      },
+      {
+        "text": "auf",
+        "start": 21.564,
+        "end": 21.684
+      },
+      {
+        "text": "so",
+        "start": 21.704,
+        "end": 21.844
+      },
+      {
+        "text": "eine",
+        "start": 21.884,
+        "end": 22.045
+      },
+      {
+        "text": "dumme",
+        "start": 22.065,
+        "end": 22.325
+      },
+      {
+        "text": "Idee,",
+        "start": 22.365,
+        "end": 22.645
+      },
+      {
+        "text": "Carol?",
+        "start": 22.685,
+        "end": 23.225
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Außerdem bin ich noch gar nicht... Ja bitte?",
+    "start": 23.245,
+    "end": 25.867,
+    "words": [
+      {
+        "text": "Außerdem",
+        "start": 23.245,
+        "end": 23.686
+      },
+      {
+        "text": "bin",
+        "start": 23.726,
+        "end": 23.846
+      },
+      {
+        "text": "ich",
+        "start": 23.886,
+        "end": 23.986
+      },
+      {
+        "text": "noch",
+        "start": 24.026,
+        "end": 24.146
+      },
+      {
+        "text": "gar",
+        "start": 24.186,
+        "end": 24.346
+      },
+      {
+        "text": "nicht...",
+        "start": 24.386,
+        "end": 24.866
+      },
+      {
+        "text": "Ja",
+        "start": 24.886,
+        "end": 25.167
+      },
+      {
+        "text": "bitte?",
+        "start": 25.207,
+        "end": 25.867
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Was bist du noch nicht?",
+    "start": 25.927,
+    "end": 27.108,
+    "words": [
+      {
+        "text": "Was",
+        "start": 25.927,
+        "end": 26.167
+      },
+      {
+        "text": "bist",
+        "start": 26.207,
+        "end": 26.367
+      },
+      {
+        "text": "du",
+        "start": 26.387,
+        "end": 26.507
+      },
+      {
+        "text": "noch",
+        "start": 26.547,
+        "end": 26.788
+      },
+      {
+        "text": "nicht?",
+        "start": 26.828,
+        "end": 27.108
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Ja!",
+    "start": 29.967,
+    "end": 30.727,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 29.967,
+        "end": 30.727
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Helfen Sie mir, Lady Aph!",
+    "start": 30.787,
+    "end": 32.008,
+    "words": [
+      {
+        "text": "Helfen",
+        "start": 30.787,
+        "end": 31.108
+      },
+      {
+        "text": "Sie",
+        "start": 31.148,
+        "end": 31.308
+      },
+      {
+        "text": "mir,",
+        "start": 31.328,
+        "end": 31.548
+      },
+      {
+        "text": "Lady",
+        "start": 31.568,
+        "end": 31.828
+      },
+      {
+        "text": "Aph!",
+        "start": 31.888,
+        "end": 32.008
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Lässt uns wieder aus!",
+    "start": 32.048,
+    "end": 35.11,
+    "words": [
+      {
+        "text": "Lässt",
+        "start": 32.048,
+        "end": 32.228
+      },
+      {
+        "text": "uns",
+        "start": 32.288,
+        "end": 32.368
+      },
+      {
+        "text": "wieder",
+        "start": 32.408,
+        "end": 32.649
+      },
+      {
+        "text": "aus!",
+        "start": 32.729,
+        "end": 35.11
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Wie hat es Fräulein Ainsworth?",
+    "start": 35.19,
+    "end": 36.811,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 35.19,
+        "end": 35.37
+      },
+      {
+        "text": "hat",
+        "start": 35.41,
+        "end": 35.55
+      },
+      {
+        "text": "es",
+        "start": 35.59,
+        "end": 35.65
+      },
+      {
+        "text": "Fräulein",
+        "start": 35.67,
+        "end": 35.97
+      },
+      {
+        "text": "Ainsworth?",
+        "start": 36.01,
+        "end": 36.811
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wirst du so gut mir zu erklären, was hier los ist?",
+    "start": 36.851,
+    "end": 38.952,
+    "words": [
+      {
+        "text": "Wirst",
+        "start": 36.851,
+        "end": 37.071
+      },
+      {
+        "text": "du",
+        "start": 37.091,
+        "end": 37.211
+      },
+      {
+        "text": "so",
+        "start": 37.251,
+        "end": 37.331
+      },
+      {
+        "text": "gut",
+        "start": 37.351,
+        "end": 37.471
+      },
+      {
+        "text": "mir",
+        "start": 37.491,
+        "end": 37.611
+      },
+      {
+        "text": "zu",
+        "start": 37.651,
+        "end": 37.731
+      },
+      {
+        "text": "erklären,",
+        "start": 37.791,
+        "end": 38.112
+      },
+      {
+        "text": "was",
+        "start": 38.152,
+        "end": 38.232
+      },
+      {
+        "text": "hier",
+        "start": 38.252,
+        "end": 38.352
+      },
+      {
+        "text": "los",
+        "start": 38.392,
+        "end": 38.552
+      },
+      {
+        "text": "ist?",
+        "start": 38.592,
+        "end": 38.952
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich habe diese Stimme gehört, die mich gerufen hat.",
+    "start": 38.972,
+    "end": 41.854,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 38.972,
+        "end": 39.052
+      },
+      {
+        "text": "habe",
+        "start": 39.092,
+        "end": 39.332
+      },
+      {
+        "text": "diese",
+        "start": 39.352,
+        "end": 39.552
+      },
+      {
+        "text": "Stimme",
+        "start": 39.592,
+        "end": 39.913
+      },
+      {
+        "text": "gehört,",
+        "start": 39.953,
+        "end": 40.233
+      },
+      {
+        "text": "die",
+        "start": 40.253,
+        "end": 40.353
+      },
+      {
+        "text": "mich",
+        "start": 40.373,
+        "end": 40.533
+      },
+      {
+        "text": "gerufen",
+        "start": 40.573,
+        "end": 40.973
+      },
+      {
+        "text": "hat.",
+        "start": 41.013,
+        "end": 41.854
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Und als ich daraufhin die Umgebung absuchte, fand ich dieses Kind hier.",
+    "start": 41.894,
+    "end": 45.516,
+    "words": [
+      {
+        "text": "Und",
+        "start": 41.894,
+        "end": 42.054
+      },
+      {
+        "text": "als",
+        "start": 42.094,
+        "end": 42.214
+      },
+      {
+        "text": "ich",
+        "start": 42.254,
+        "end": 42.374
+      },
+      {
+        "text": "daraufhin",
+        "start": 42.394,
+        "end": 42.814
+      },
+      {
+        "text": "die",
+        "start": 42.834,
+        "end": 42.914
+      },
+      {
+        "text": "Umgebung",
+        "start": 42.954,
+        "end": 43.335
+      },
+      {
+        "text": "absuchte,",
+        "start": 43.355,
+        "end": 43.755
+      },
+      {
+        "text": "fand",
+        "start": 43.795,
+        "end": 43.955
+      },
+      {
+        "text": "ich",
+        "start": 43.975,
+        "end": 44.095
+      },
+      {
+        "text": "dieses",
+        "start": 44.135,
+        "end": 44.375
+      },
+      {
+        "text": "Kind",
+        "start": 44.415,
+        "end": 44.635
+      },
+      {
+        "text": "hier.",
+        "start": 44.675,
+        "end": 45.516
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich glaube, dieser Junge ist der einzige Überlebende.",
+    "start": 45.556,
+    "end": 47.377,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 45.556,
+        "end": 45.636
+      },
+      {
+        "text": "glaube,",
+        "start": 45.676,
+        "end": 45.916
+      },
+      {
+        "text": "dieser",
+        "start": 45.936,
+        "end": 46.136
+      },
+      {
+        "text": "Junge",
+        "start": 46.176,
+        "end": 46.336
+      },
+      {
+        "text": "ist",
+        "start": 46.356,
+        "end": 46.476
+      },
+      {
+        "text": "der",
+        "start": 46.496,
+        "end": 46.616
+      },
+      {
+        "text": "einzige",
+        "start": 46.657,
+        "end": 46.937
+      },
+      {
+        "text": "Überlebende.",
+        "start": 46.997,
+        "end": 47.377
+      }
+    ]
+  }
+]

@@ -1,0 +1,756 @@
+[
+  {
+    "id": 0,
+    "text": " Oh, eine neue Nachricht von Miko.",
+    "start": 1.012,
+    "end": 4.275,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 1.012,
+        "end": 1.712
+      },
+      {
+        "text": "eine",
+        "start": 1.753,
+        "end": 1.953
+      },
+      {
+        "text": "neue",
+        "start": 1.993,
+        "end": 2.193
+      },
+      {
+        "text": "Nachricht",
+        "start": 2.233,
+        "end": 2.573
+      },
+      {
+        "text": "von",
+        "start": 2.613,
+        "end": 2.773
+      },
+      {
+        "text": "Miko.",
+        "start": 2.813,
+        "end": 4.275
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hier steht gelesen.",
+    "start": 4.295,
+    "end": 5.436,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 4.295,
+        "end": 4.435
+      },
+      {
+        "text": "steht",
+        "start": 4.475,
+        "end": 4.695
+      },
+      {
+        "text": "gelesen.",
+        "start": 4.735,
+        "end": 5.436
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was meint sie damit?",
+    "start": 5.476,
+    "end": 7.618,
+    "words": [
+      {
+        "text": "Was",
+        "start": 5.476,
+        "end": 5.736
+      },
+      {
+        "text": "meint",
+        "start": 5.776,
+        "end": 6.036
+      },
+      {
+        "text": "sie",
+        "start": 6.056,
+        "end": 6.216
+      },
+      {
+        "text": "damit?",
+        "start": 6.256,
+        "end": 7.618
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Der Schülersprecher ruft an.",
+    "start": 7.658,
+    "end": 8.899,
+    "words": [
+      {
+        "text": "Der",
+        "start": 7.658,
+        "end": 7.738
+      },
+      {
+        "text": "Schülersprecher",
+        "start": 7.758,
+        "end": 8.238
+      },
+      {
+        "text": "ruft",
+        "start": 8.338,
+        "end": 8.458
+      },
+      {
+        "text": "an.",
+        "start": 8.498,
+        "end": 8.899
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Sie sollten sofort rangehen.",
+    "start": 8.939,
+    "end": 10.08,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 8.939,
+        "end": 9.019
+      },
+      {
+        "text": "sollten",
+        "start": 9.039,
+        "end": 9.299
+      },
+      {
+        "text": "sofort",
+        "start": 9.339,
+        "end": 9.599
+      },
+      {
+        "text": "rangehen.",
+        "start": 9.679,
+        "end": 10.08
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Augenblick, erklär mir das zuerst.",
+    "start": 10.14,
+    "end": 11.921,
+    "words": [
+      {
+        "text": "Augenblick,",
+        "start": 10.14,
+        "end": 10.78
+      },
+      {
+        "text": "erklär",
+        "start": 10.82,
+        "end": 11.201
+      },
+      {
+        "text": "mir",
+        "start": 11.221,
+        "end": 11.341
+      },
+      {
+        "text": "das",
+        "start": 11.361,
+        "end": 11.541
+      },
+      {
+        "text": "zuerst.",
+        "start": 11.561,
+        "end": 11.921
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Los, gehen Sie ran.",
+    "start": 11.961,
+    "end": 12.842,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 11.961,
+        "end": 12.162
+      },
+      {
+        "text": "gehen",
+        "start": 12.182,
+        "end": 12.362
+      },
+      {
+        "text": "Sie",
+        "start": 12.402,
+        "end": 12.522
+      },
+      {
+        "text": "ran.",
+        "start": 12.562,
+        "end": 12.842
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Mensch!",
+    "start": 12.862,
+    "end": 13.523,
+    "words": [
+      {
+        "text": "Mensch!",
+        "start": 12.862,
+        "end": 13.523
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Yo, Kaguya.",
+    "start": 13.563,
+    "end": 19.768,
+    "words": [
+      {
+        "text": "Yo,",
+        "start": 13.563,
+        "end": 13.723
+      },
+      {
+        "text": "Kaguya.",
+        "start": 14.724,
+        "end": 19.768
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wie geht's, wie steht's?",
+    "start": 19.828,
+    "end": 21.65,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 19.828,
+        "end": 19.988
+      },
+      {
+        "text": "geht's,",
+        "start": 20.008,
+        "end": 20.309
+      },
+      {
+        "text": "wie",
+        "start": 20.329,
+        "end": 20.429
+      },
+      {
+        "text": "steht's?",
+        "start": 20.449,
+        "end": 21.65
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Schülersprecher, womit kann ich helfen?",
+    "start": 21.69,
+    "end": 23.812,
+    "words": [
+      {
+        "text": "Schülersprecher,",
+        "start": 21.69,
+        "end": 22.931
+      },
+      {
+        "text": "womit",
+        "start": 22.971,
+        "end": 23.231
+      },
+      {
+        "text": "kann",
+        "start": 23.271,
+        "end": 23.411
+      },
+      {
+        "text": "ich",
+        "start": 23.451,
+        "end": 23.572
+      },
+      {
+        "text": "helfen?",
+        "start": 23.592,
+        "end": 23.812
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Da das mit dem Smartphone noch ganz neu für dich ist, dachte ich mir, ich erkläre dir ein paar Dinge.",
+    "start": 24.859,
+    "end": 28.98,
+    "words": [
+      {
+        "text": "Da",
+        "start": 24.859,
+        "end": 25.039
+      },
+      {
+        "text": "das",
+        "start": 25.059,
+        "end": 25.219
+      },
+      {
+        "text": "mit",
+        "start": 25.239,
+        "end": 25.319
+      },
+      {
+        "text": "dem",
+        "start": 25.359,
+        "end": 25.459
+      },
+      {
+        "text": "Smartphone",
+        "start": 25.499,
+        "end": 25.919
+      },
+      {
+        "text": "noch",
+        "start": 25.939,
+        "end": 26.079
+      },
+      {
+        "text": "ganz",
+        "start": 26.099,
+        "end": 26.3
+      },
+      {
+        "text": "neu",
+        "start": 26.34,
+        "end": 26.48
+      },
+      {
+        "text": "für",
+        "start": 26.52,
+        "end": 26.62
+      },
+      {
+        "text": "dich",
+        "start": 26.64,
+        "end": 26.84
+      },
+      {
+        "text": "ist,",
+        "start": 26.88,
+        "end": 27.2
+      },
+      {
+        "text": "dachte",
+        "start": 27.36,
+        "end": 27.58
+      },
+      {
+        "text": "ich",
+        "start": 27.62,
+        "end": 27.74
+      },
+      {
+        "text": "mir,",
+        "start": 27.76,
+        "end": 27.9
+      },
+      {
+        "text": "ich",
+        "start": 27.92,
+        "end": 28.02
+      },
+      {
+        "text": "erkläre",
+        "start": 28.08,
+        "end": 28.38
+      },
+      {
+        "text": "dir",
+        "start": 28.4,
+        "end": 28.46
+      },
+      {
+        "text": "ein",
+        "start": 28.5,
+        "end": 28.62
+      },
+      {
+        "text": "paar",
+        "start": 28.64,
+        "end": 28.76
+      },
+      {
+        "text": "Dinge.",
+        "start": 28.78,
+        "end": 28.98
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Katja, weißt du, was Lesebestätigungen sind?",
+    "start": 29.0,
+    "end": 33.582,
+    "words": [
+      {
+        "text": "Katja,",
+        "start": 29.0,
+        "end": 29.701
+      },
+      {
+        "text": "weißt",
+        "start": 29.721,
+        "end": 29.881
+      },
+      {
+        "text": "du,",
+        "start": 29.901,
+        "end": 30.501
+      },
+      {
+        "text": "was",
+        "start": 30.541,
+        "end": 30.621
+      },
+      {
+        "text": "Lesebestätigungen",
+        "start": 30.641,
+        "end": 31.061
+      },
+      {
+        "text": "sind?",
+        "start": 31.081,
+        "end": 33.582
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Katja, weißt du, was Lesebestätigungen sind?",
+    "start": 33.602,
+    "end": 37.063,
+    "words": [
+      {
+        "text": "Katja,",
+        "start": 33.602,
+        "end": 34.382
+      },
+      {
+        "text": "weißt",
+        "start": 34.422,
+        "end": 34.622
+      },
+      {
+        "text": "du,",
+        "start": 34.642,
+        "end": 34.782
+      },
+      {
+        "text": "was",
+        "start": 34.822,
+        "end": 35.023
+      },
+      {
+        "text": "Lesebestätigungen",
+        "start": 35.063,
+        "end": 35.963
+      },
+      {
+        "text": "sind?",
+        "start": 36.003,
+        "end": 37.063
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Diese Funktion zeigt dem Gesprächspartner eine Bestätigung an, wenn die Nachricht eingesehen wurde.",
+    "start": 37.103,
+    "end": 41.665,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 37.103,
+        "end": 37.343
+      },
+      {
+        "text": "Funktion",
+        "start": 37.383,
+        "end": 37.804
+      },
+      {
+        "text": "zeigt",
+        "start": 37.844,
+        "end": 38.024
+      },
+      {
+        "text": "dem",
+        "start": 38.044,
+        "end": 38.144
+      },
+      {
+        "text": "Gesprächspartner",
+        "start": 38.184,
+        "end": 38.944
+      },
+      {
+        "text": "eine",
+        "start": 38.984,
+        "end": 39.124
+      },
+      {
+        "text": "Bestätigung",
+        "start": 39.164,
+        "end": 39.664
+      },
+      {
+        "text": "an,",
+        "start": 39.724,
+        "end": 39.944
+      },
+      {
+        "text": "wenn",
+        "start": 39.964,
+        "end": 40.144
+      },
+      {
+        "text": "die",
+        "start": 40.164,
+        "end": 40.284
+      },
+      {
+        "text": "Nachricht",
+        "start": 40.304,
+        "end": 40.665
+      },
+      {
+        "text": "eingesehen",
+        "start": 40.685,
+        "end": 41.125
+      },
+      {
+        "text": "wurde.",
+        "start": 41.145,
+        "end": 41.665
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "So weiß man immer, wann der andere die Nachricht gelesen hat.",
+    "start": 41.685,
+    "end": 48.967,
+    "words": [
+      {
+        "text": "So",
+        "start": 41.685,
+        "end": 41.845
+      },
+      {
+        "text": "weiß",
+        "start": 41.885,
+        "end": 42.105
+      },
+      {
+        "text": "man",
+        "start": 42.145,
+        "end": 42.425
+      },
+      {
+        "text": "immer,",
+        "start": 42.465,
+        "end": 42.705
+      },
+      {
+        "text": "wann",
+        "start": 42.725,
+        "end": 42.885
+      },
+      {
+        "text": "der",
+        "start": 42.905,
+        "end": 43.005
+      },
+      {
+        "text": "andere",
+        "start": 43.045,
+        "end": 43.345
+      },
+      {
+        "text": "die",
+        "start": 43.365,
+        "end": 43.485
+      },
+      {
+        "text": "Nachricht",
+        "start": 43.506,
+        "end": 43.806
+      },
+      {
+        "text": "gelesen",
+        "start": 43.826,
+        "end": 44.226
+      },
+      {
+        "text": "hat.",
+        "start": 44.246,
+        "end": 48.967
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Mir fiel auf, dass die drei Nachrichten, die ich dir geschickt habe, sofort als gelesen angezeigt wurden.",
+    "start": 48.987,
+    "end": 53.369,
+    "words": [
+      {
+        "text": "Mir",
+        "start": 48.987,
+        "end": 49.167
+      },
+      {
+        "text": "fiel",
+        "start": 49.207,
+        "end": 49.408
+      },
+      {
+        "text": "auf,",
+        "start": 49.428,
+        "end": 49.608
+      },
+      {
+        "text": "dass",
+        "start": 49.628,
+        "end": 49.788
+      },
+      {
+        "text": "die",
+        "start": 49.808,
+        "end": 49.908
+      },
+      {
+        "text": "drei",
+        "start": 49.928,
+        "end": 50.128
+      },
+      {
+        "text": "Nachrichten,",
+        "start": 50.168,
+        "end": 50.508
+      },
+      {
+        "text": "die",
+        "start": 50.528,
+        "end": 50.628
+      },
+      {
+        "text": "ich",
+        "start": 50.688,
+        "end": 50.808
+      },
+      {
+        "text": "dir",
+        "start": 50.848,
+        "end": 50.948
+      },
+      {
+        "text": "geschickt",
+        "start": 50.988,
+        "end": 51.328
+      },
+      {
+        "text": "habe,",
+        "start": 51.348,
+        "end": 51.668
+      },
+      {
+        "text": "sofort",
+        "start": 51.688,
+        "end": 52.048
+      },
+      {
+        "text": "als",
+        "start": 52.068,
+        "end": 52.249
+      },
+      {
+        "text": "gelesen",
+        "start": 52.269,
+        "end": 52.649
+      },
+      {
+        "text": "angezeigt",
+        "start": 52.689,
+        "end": 53.169
+      },
+      {
+        "text": "wurden.",
+        "start": 53.189,
+        "end": 53.369
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Wie könnte das nur zu erklären sein?",
+    "start": 54.503,
+    "end": 56.513,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 54.503,
+        "end": 55.006
+      },
+      {
+        "text": "könnte",
+        "start": 55.026,
+        "end": 55.247
+      },
+      {
+        "text": "das",
+        "start": 55.267,
+        "end": 55.367
+      },
+      {
+        "text": "nur",
+        "start": 55.408,
+        "end": 55.488
+      },
+      {
+        "text": "zu",
+        "start": 55.508,
+        "end": 55.548
+      },
+      {
+        "text": "erklären",
+        "start": 55.629,
+        "end": 56.292
+      },
+      {
+        "text": "sein?",
+        "start": 56.332,
+        "end": 56.513
+      }
+    ]
+  }
+]

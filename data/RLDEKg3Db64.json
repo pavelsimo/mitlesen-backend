@@ -1,0 +1,307 @@
+[
+  {
+    "id": 0,
+    "text": " Aniel schwebt in Lebensgefahr!",
+    "start": 0.577,
+    "end": 8.982,
+    "words": [
+      {
+        "text": "Aniel",
+        "start": 0.577,
+        "end": 1.057
+      },
+      {
+        "text": "schwebt",
+        "start": 1.478,
+        "end": 1.818
+      },
+      {
+        "text": "in",
+        "start": 1.878,
+        "end": 2.118
+      },
+      {
+        "text": "Lebensgefahr!",
+        "start": 2.158,
+        "end": 8.982
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was ist das?",
+    "start": 10.202,
+    "end": 11.143,
+    "words": [
+      {
+        "text": "Was",
+        "start": 10.202,
+        "end": 10.462
+      },
+      {
+        "text": "ist",
+        "start": 10.522,
+        "end": 10.703
+      },
+      {
+        "text": "das?",
+        "start": 10.743,
+        "end": 11.143
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Da ist doch was!",
+    "start": 11.163,
+    "end": 12.203,
+    "words": [
+      {
+        "text": "Da",
+        "start": 11.163,
+        "end": 11.303
+      },
+      {
+        "text": "ist",
+        "start": 11.343,
+        "end": 11.543
+      },
+      {
+        "text": "doch",
+        "start": 11.563,
+        "end": 11.763
+      },
+      {
+        "text": "was!",
+        "start": 11.783,
+        "end": 12.203
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ist das ein heulender Säugling?",
+    "start": 12.263,
+    "end": 13.784,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 12.263,
+        "end": 12.343
+      },
+      {
+        "text": "das",
+        "start": 12.363,
+        "end": 12.484
+      },
+      {
+        "text": "ein",
+        "start": 12.504,
+        "end": 12.604
+      },
+      {
+        "text": "heulender",
+        "start": 12.624,
+        "end": 13.024
+      },
+      {
+        "text": "Säugling?",
+        "start": 13.064,
+        "end": 13.784
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ein Geist!",
+    "start": 13.944,
+    "end": 14.545,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 13.944,
+        "end": 14.104
+      },
+      {
+        "text": "Geist!",
+        "start": 14.124,
+        "end": 14.545
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Das ist ganz sicher ein Geist!",
+    "start": 14.565,
+    "end": 16.626,
+    "words": [
+      {
+        "text": "Das",
+        "start": 14.565,
+        "end": 14.745
+      },
+      {
+        "text": "ist",
+        "start": 14.805,
+        "end": 14.925
+      },
+      {
+        "text": "ganz",
+        "start": 14.965,
+        "end": 15.165
+      },
+      {
+        "text": "sicher",
+        "start": 15.185,
+        "end": 15.445
+      },
+      {
+        "text": "ein",
+        "start": 15.485,
+        "end": 15.745
+      },
+      {
+        "text": "Geist!",
+        "start": 15.765,
+        "end": 16.626
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Gerettet!",
+    "start": 17.066,
+    "end": 18.107,
+    "words": [
+      {
+        "text": "Gerettet!",
+        "start": 17.066,
+        "end": 18.107
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Zurück zur Basis!",
+    "start": 18.147,
+    "end": 19.067,
+    "words": [
+      {
+        "text": "Zurück",
+        "start": 18.147,
+        "end": 18.567
+      },
+      {
+        "text": "zur",
+        "start": 18.587,
+        "end": 18.727
+      },
+      {
+        "text": "Basis!",
+        "start": 18.747,
+        "end": 19.067
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Es ist also wirklich wahr!",
+    "start": 27.017,
+    "end": 29.259,
+    "words": [
+      {
+        "text": "Es",
+        "start": 27.017,
+        "end": 27.878
+      },
+      {
+        "text": "ist",
+        "start": 27.938,
+        "end": 28.078
+      },
+      {
+        "text": "also",
+        "start": 28.138,
+        "end": 28.438
+      },
+      {
+        "text": "wirklich",
+        "start": 28.459,
+        "end": 28.839
+      },
+      {
+        "text": "wahr!",
+        "start": 28.879,
+        "end": 29.259
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Säuglinge kommen tatsächlich als Geister zurück, wenn sie durch medizinische Fehler sterben!",
+    "start": 29.299,
+    "end": 33.584,
+    "words": [
+      {
+        "text": "Säuglinge",
+        "start": 29.299,
+        "end": 29.74
+      },
+      {
+        "text": "kommen",
+        "start": 29.78,
+        "end": 30.14
+      },
+      {
+        "text": "tatsächlich",
+        "start": 30.16,
+        "end": 30.721
+      },
+      {
+        "text": "als",
+        "start": 30.761,
+        "end": 30.921
+      },
+      {
+        "text": "Geister",
+        "start": 30.941,
+        "end": 31.321
+      },
+      {
+        "text": "zurück,",
+        "start": 31.362,
+        "end": 31.642
+      },
+      {
+        "text": "wenn",
+        "start": 31.662,
+        "end": 31.802
+      },
+      {
+        "text": "sie",
+        "start": 31.822,
+        "end": 31.922
+      },
+      {
+        "text": "durch",
+        "start": 31.942,
+        "end": 32.122
+      },
+      {
+        "text": "medizinische",
+        "start": 32.162,
+        "end": 32.823
+      },
+      {
+        "text": "Fehler",
+        "start": 32.863,
+        "end": 33.143
+      },
+      {
+        "text": "sterben!",
+        "start": 33.183,
+        "end": 33.584
+      }
+    ]
+  }
+]

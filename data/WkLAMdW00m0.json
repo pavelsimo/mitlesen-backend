@@ -1,0 +1,1566 @@
+[
+  {
+    "id": 0,
+    "text": " Begrüßung und Stellung!",
+    "start": 0.953,
+    "end": 5.796,
+    "words": [
+      {
+        "text": "Begrüßung",
+        "start": 0.953,
+        "end": 1.533
+      },
+      {
+        "text": "und",
+        "start": 1.574,
+        "end": 1.754
+      },
+      {
+        "text": "Stellung!",
+        "start": 1.794,
+        "end": 5.796
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sekurus!",
+    "start": 5.836,
+    "end": 9.158,
+    "words": [
+      {
+        "text": "Sekurus!",
+        "start": 5.836,
+        "end": 9.158
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Dieser Zauber auf euren Atamen verhindert, dass ihr euch verletzt.",
+    "start": 9.198,
+    "end": 12.881,
+    "words": [
+      {
+        "text": "Dieser",
+        "start": 9.198,
+        "end": 9.479
+      },
+      {
+        "text": "Zauber",
+        "start": 9.519,
+        "end": 9.839
+      },
+      {
+        "text": "auf",
+        "start": 9.879,
+        "end": 10.019
+      },
+      {
+        "text": "euren",
+        "start": 10.079,
+        "end": 10.299
+      },
+      {
+        "text": "Atamen",
+        "start": 10.339,
+        "end": 10.86
+      },
+      {
+        "text": "verhindert,",
+        "start": 10.88,
+        "end": 11.26
+      },
+      {
+        "text": "dass",
+        "start": 11.3,
+        "end": 11.42
+      },
+      {
+        "text": "ihr",
+        "start": 11.46,
+        "end": 11.52
+      },
+      {
+        "text": "euch",
+        "start": 11.54,
+        "end": 11.74
+      },
+      {
+        "text": "verletzt.",
+        "start": 11.76,
+        "end": 12.881
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich möchte nicht, dass sich heute jemand umbringt.",
+    "start": 12.901,
+    "end": 14.442,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 12.901,
+        "end": 12.981
+      },
+      {
+        "text": "möchte",
+        "start": 13.001,
+        "end": 13.241
+      },
+      {
+        "text": "nicht,",
+        "start": 13.281,
+        "end": 13.381
+      },
+      {
+        "text": "dass",
+        "start": 13.421,
+        "end": 13.541
+      },
+      {
+        "text": "sich",
+        "start": 13.561,
+        "end": 13.661
+      },
+      {
+        "text": "heute",
+        "start": 13.681,
+        "end": 13.861
+      },
+      {
+        "text": "jemand",
+        "start": 13.902,
+        "end": 14.122
+      },
+      {
+        "text": "umbringt.",
+        "start": 14.162,
+        "end": 14.442
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": " Den Zauber kenn ich gar nicht.",
+    "start": 16.784,
+    "end": 18.164,
+    "words": [
+      {
+        "text": "Den",
+        "start": 16.784,
+        "end": 16.924
+      },
+      {
+        "text": "Zauber",
+        "start": 16.944,
+        "end": 17.144
+      },
+      {
+        "text": "kenn",
+        "start": 17.164,
+        "end": 17.284
+      },
+      {
+        "text": "ich",
+        "start": 17.324,
+        "end": 17.384
+      },
+      {
+        "text": "gar",
+        "start": 17.424,
+        "end": 17.644
+      },
+      {
+        "text": "nicht.",
+        "start": 17.664,
+        "end": 18.164
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Auch die Regeln besagen, dass ihr nur unter diesen Bedingungen gegeneinander kämpfen dürft.",
+    "start": 18.204,
+    "end": 22.565,
+    "words": [
+      {
+        "text": "Auch",
+        "start": 18.204,
+        "end": 18.364
+      },
+      {
+        "text": "die",
+        "start": 18.404,
+        "end": 18.484
+      },
+      {
+        "text": "Regeln",
+        "start": 18.524,
+        "end": 18.824
+      },
+      {
+        "text": "besagen,",
+        "start": 18.864,
+        "end": 19.385
+      },
+      {
+        "text": "dass",
+        "start": 19.405,
+        "end": 19.545
+      },
+      {
+        "text": "ihr",
+        "start": 19.585,
+        "end": 19.725
+      },
+      {
+        "text": "nur",
+        "start": 19.745,
+        "end": 19.885
+      },
+      {
+        "text": "unter",
+        "start": 19.925,
+        "end": 20.165
+      },
+      {
+        "text": "diesen",
+        "start": 20.185,
+        "end": 20.445
+      },
+      {
+        "text": "Bedingungen",
+        "start": 20.485,
+        "end": 21.005
+      },
+      {
+        "text": "gegeneinander",
+        "start": 21.045,
+        "end": 21.565
+      },
+      {
+        "text": "kämpfen",
+        "start": 21.605,
+        "end": 21.965
+      },
+      {
+        "text": "dürft.",
+        "start": 22.005,
+        "end": 22.565
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Verstöße werden hart bestraft.",
+    "start": 22.605,
+    "end": 25.025,
+    "words": [
+      {
+        "text": "Verstöße",
+        "start": 22.605,
+        "end": 23.345
+      },
+      {
+        "text": "werden",
+        "start": 23.365,
+        "end": 23.725
+      },
+      {
+        "text": "hart",
+        "start": 23.745,
+        "end": 23.985
+      },
+      {
+        "text": "bestraft.",
+        "start": 24.005,
+        "end": 25.025
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Der Kampf endet mit dem ersten tödlichen Hieb auf den Kopf- oder Brustbereich.",
+    "start": 25.046,
+    "end": 29.506,
+    "words": [
+      {
+        "text": "Der",
+        "start": 25.046,
+        "end": 25.226
+      },
+      {
+        "text": "Kampf",
+        "start": 25.246,
+        "end": 25.546
+      },
+      {
+        "text": "endet",
+        "start": 25.606,
+        "end": 26.586
+      },
+      {
+        "text": "mit",
+        "start": 26.606,
+        "end": 26.726
+      },
+      {
+        "text": "dem",
+        "start": 26.766,
+        "end": 26.926
+      },
+      {
+        "text": "ersten",
+        "start": 26.966,
+        "end": 27.286
+      },
+      {
+        "text": "tödlichen",
+        "start": 27.326,
+        "end": 27.746
+      },
+      {
+        "text": "Hieb",
+        "start": 27.786,
+        "end": 27.986
+      },
+      {
+        "text": "auf",
+        "start": 28.026,
+        "end": 28.126
+      },
+      {
+        "text": "den",
+        "start": 28.166,
+        "end": 28.286
+      },
+      {
+        "text": "Kopf-",
+        "start": 28.326,
+        "end": 28.526
+      },
+      {
+        "text": "oder",
+        "start": 28.566,
+        "end": 28.786
+      },
+      {
+        "text": "Brustbereich.",
+        "start": 28.806,
+        "end": 29.506
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Es gibt keine Zeitvorgabe.",
+    "start": 29.546,
+    "end": 31.707,
+    "words": [
+      {
+        "text": "Es",
+        "start": 29.546,
+        "end": 29.606
+      },
+      {
+        "text": "gibt",
+        "start": 29.626,
+        "end": 29.826
+      },
+      {
+        "text": "keine",
+        "start": 29.866,
+        "end": 30.066
+      },
+      {
+        "text": "Zeitvorgabe.",
+        "start": 30.106,
+        "end": 31.707
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Kontrahenten, Kampfstellung!",
+    "start": 31.747,
+    "end": 33.247,
+    "words": [
+      {
+        "text": "Kontrahenten,",
+        "start": 31.747,
+        "end": 32.667
+      },
+      {
+        "text": "Kampfstellung!",
+        "start": 32.707,
+        "end": 33.247
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Dann möge es ein guter Kampf werden.",
+    "start": 33.267,
+    "end": 36.448,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 33.267,
+        "end": 33.367
+      },
+      {
+        "text": "möge",
+        "start": 33.467,
+        "end": 34.107
+      },
+      {
+        "text": "es",
+        "start": 34.147,
+        "end": 34.407
+      },
+      {
+        "text": "ein",
+        "start": 34.467,
+        "end": 34.587
+      },
+      {
+        "text": "guter",
+        "start": 34.607,
+        "end": 35.647
+      },
+      {
+        "text": "Kampf",
+        "start": 35.687,
+        "end": 35.947
+      },
+      {
+        "text": "werden.",
+        "start": 35.967,
+        "end": 36.448
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Es ist mir eine Ehre.",
+    "start": 36.528,
+    "end": 38.568,
+    "words": [
+      {
+        "text": "Es",
+        "start": 36.528,
+        "end": 36.628
+      },
+      {
+        "text": "ist",
+        "start": 36.668,
+        "end": 36.808
+      },
+      {
+        "text": "mir",
+        "start": 36.828,
+        "end": 36.968
+      },
+      {
+        "text": "eine",
+        "start": 37.008,
+        "end": 37.148
+      },
+      {
+        "text": "Ehre.",
+        "start": 37.208,
+        "end": 38.568
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "In puncto Magie ist Nanao nicht ganz so erfahren.",
+    "start": 38.628,
+    "end": 40.948,
+    "words": [
+      {
+        "text": "In",
+        "start": 38.628,
+        "end": 38.788
+      },
+      {
+        "text": "puncto",
+        "start": 38.828,
+        "end": 39.108
+      },
+      {
+        "text": "Magie",
+        "start": 39.148,
+        "end": 39.408
+      },
+      {
+        "text": "ist",
+        "start": 39.468,
+        "end": 39.648
+      },
+      {
+        "text": "Nanao",
+        "start": 39.688,
+        "end": 40.028
+      },
+      {
+        "text": "nicht",
+        "start": 40.068,
+        "end": 40.208
+      },
+      {
+        "text": "ganz",
+        "start": 40.248,
+        "end": 40.408
+      },
+      {
+        "text": "so",
+        "start": 40.428,
+        "end": 40.528
+      },
+      {
+        "text": "erfahren.",
+        "start": 40.588,
+        "end": 40.948
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Also halte ich mich mit meiner Magie zurück und beschränke mich auf meine Schwertkunst.",
+    "start": 41.268,
+    "end": 44.869,
+    "words": [
+      {
+        "text": "Also",
+        "start": 41.268,
+        "end": 41.548
+      },
+      {
+        "text": "halte",
+        "start": 41.568,
+        "end": 41.768
+      },
+      {
+        "text": "ich",
+        "start": 41.828,
+        "end": 41.928
+      },
+      {
+        "text": "mich",
+        "start": 41.968,
+        "end": 42.108
+      },
+      {
+        "text": "mit",
+        "start": 42.129,
+        "end": 42.269
+      },
+      {
+        "text": "meiner",
+        "start": 42.309,
+        "end": 42.489
+      },
+      {
+        "text": "Magie",
+        "start": 42.529,
+        "end": 42.849
+      },
+      {
+        "text": "zurück",
+        "start": 42.889,
+        "end": 43.269
+      },
+      {
+        "text": "und",
+        "start": 43.289,
+        "end": 43.429
+      },
+      {
+        "text": "beschränke",
+        "start": 43.449,
+        "end": 43.829
+      },
+      {
+        "text": "mich",
+        "start": 43.869,
+        "end": 43.969
+      },
+      {
+        "text": "auf",
+        "start": 44.009,
+        "end": 44.129
+      },
+      {
+        "text": "meine",
+        "start": 44.169,
+        "end": 44.309
+      },
+      {
+        "text": "Schwertkunst.",
+        "start": 44.349,
+        "end": 44.869
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Nein, nicht jetzt.",
+    "start": 47.45,
+    "end": 49.191,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 47.45,
+        "end": 48.171
+      },
+      {
+        "text": "nicht",
+        "start": 48.211,
+        "end": 48.411
+      },
+      {
+        "text": "jetzt.",
+        "start": 48.431,
+        "end": 49.191
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Beginnt!",
+    "start": 49.231,
+    "end": 50.472,
+    "words": [
+      {
+        "text": "Beginnt!",
+        "start": 49.231,
+        "end": 50.472
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ich darf sie auf keinen Fall unterschätzen.",
+    "start": 50.532,
+    "end": 56.557,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 50.532,
+        "end": 50.672
+      },
+      {
+        "text": "darf",
+        "start": 50.712,
+        "end": 50.873
+      },
+      {
+        "text": "sie",
+        "start": 50.893,
+        "end": 51.013
+      },
+      {
+        "text": "auf",
+        "start": 51.053,
+        "end": 51.193
+      },
+      {
+        "text": "keinen",
+        "start": 51.233,
+        "end": 51.473
+      },
+      {
+        "text": "Fall",
+        "start": 51.513,
+        "end": 51.713
+      },
+      {
+        "text": "unterschätzen.",
+        "start": 51.753,
+        "end": 56.557
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Lange halte ich dem nicht stand.",
+    "start": 56.597,
+    "end": 58.859,
+    "words": [
+      {
+        "text": "Lange",
+        "start": 56.597,
+        "end": 56.817
+      },
+      {
+        "text": "halte",
+        "start": 56.837,
+        "end": 56.997
+      },
+      {
+        "text": "ich",
+        "start": 57.037,
+        "end": 57.137
+      },
+      {
+        "text": "dem",
+        "start": 57.157,
+        "end": 57.337
+      },
+      {
+        "text": "nicht",
+        "start": 57.377,
+        "end": 57.518
+      },
+      {
+        "text": "stand.",
+        "start": 57.618,
+        "end": 58.859
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Grab es, Morast!",
+    "start": 58.899,
+    "end": 64.603,
+    "words": [
+      {
+        "text": "Grab",
+        "start": 58.899,
+        "end": 59.159
+      },
+      {
+        "text": "es,",
+        "start": 59.219,
+        "end": 59.339
+      },
+      {
+        "text": "Morast!",
+        "start": 59.379,
+        "end": 64.603
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Jetzt habe ich sie.",
+    "start": 64.623,
+    "end": 66.804,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 64.623,
+        "end": 64.843
+      },
+      {
+        "text": "habe",
+        "start": 64.883,
+        "end": 65.023
+      },
+      {
+        "text": "ich",
+        "start": 65.063,
+        "end": 65.183
+      },
+      {
+        "text": "sie.",
+        "start": 65.223,
+        "end": 66.804
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Was?",
+    "start": 66.864,
+    "end": 71.008,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 66.864,
+        "end": 71.008
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Nicht blöcken!",
+    "start": 71.448,
+    "end": 72.188,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 71.448,
+        "end": 71.708
+      },
+      {
+        "text": "blöcken!",
+        "start": 71.748,
+        "end": 72.188
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Die Kraft weiterleiten!",
+    "start": 72.208,
+    "end": 73.169,
+    "words": [
+      {
+        "text": "Die",
+        "start": 72.208,
+        "end": 72.309
+      },
+      {
+        "text": "Kraft",
+        "start": 72.329,
+        "end": 72.589
+      },
+      {
+        "text": "weiterleiten!",
+        "start": 72.609,
+        "end": 73.169
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Jetzt aber!",
+    "start": 78.772,
+    "end": 79.155,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 78.772,
+        "end": 78.933
+      },
+      {
+        "text": "aber!",
+        "start": 78.974,
+        "end": 79.155
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Was hat sie jetzt vor?",
+    "start": 101.564,
+    "end": 103.165,
+    "words": [
+      {
+        "text": "Was",
+        "start": 101.564,
+        "end": 101.684
+      },
+      {
+        "text": "hat",
+        "start": 101.724,
+        "end": 101.824
+      },
+      {
+        "text": "sie",
+        "start": 101.864,
+        "end": 101.944
+      },
+      {
+        "text": "jetzt",
+        "start": 101.964,
+        "end": 102.184
+      },
+      {
+        "text": "vor?",
+        "start": 102.224,
+        "end": 103.165
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Mit diesem Schwert hat sie Menschen umgebracht.",
+    "start": 103.185,
+    "end": 105.605,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 103.185,
+        "end": 103.365
+      },
+      {
+        "text": "diesem",
+        "start": 103.385,
+        "end": 103.625
+      },
+      {
+        "text": "Schwert",
+        "start": 103.665,
+        "end": 103.945
+      },
+      {
+        "text": "hat",
+        "start": 103.965,
+        "end": 104.105
+      },
+      {
+        "text": "sie",
+        "start": 104.125,
+        "end": 104.245
+      },
+      {
+        "text": "Menschen",
+        "start": 104.285,
+        "end": 104.565
+      },
+      {
+        "text": "umgebracht.",
+        "start": 104.605,
+        "end": 105.605
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Und das waren bestimmt nicht nur 10 oder 20.",
+    "start": 105.646,
+    "end": 107.646,
+    "words": [
+      {
+        "text": "Und",
+        "start": 105.646,
+        "end": 105.806
+      },
+      {
+        "text": "das",
+        "start": 105.846,
+        "end": 105.966
+      },
+      {
+        "text": "waren",
+        "start": 106.006,
+        "end": 106.226
+      },
+      {
+        "text": "bestimmt",
+        "start": 106.266,
+        "end": 106.646
+      },
+      {
+        "text": "nicht",
+        "start": 106.666,
+        "end": 106.846
+      },
+      {
+        "text": "nur",
+        "start": 106.886,
+        "end": 107.086
+      },
+      {
+        "text": "oder",
+        "start": 107.426,
+        "end": 107.646
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Wie viel Blut klebt wohl an ihren Händen?",
+    "start": 107.746,
+    "end": 112.928,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 107.746,
+        "end": 110.667
+      },
+      {
+        "text": "viel",
+        "start": 110.687,
+        "end": 110.927
+      },
+      {
+        "text": "Blut",
+        "start": 110.947,
+        "end": 111.247
+      },
+      {
+        "text": "klebt",
+        "start": 111.267,
+        "end": 111.488
+      },
+      {
+        "text": "wohl",
+        "start": 111.508,
+        "end": 111.668
+      },
+      {
+        "text": "an",
+        "start": 111.708,
+        "end": 111.808
+      },
+      {
+        "text": "ihren",
+        "start": 111.868,
+        "end": 112.068
+      },
+      {
+        "text": "Händen?",
+        "start": 112.108,
+        "end": 112.928
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Hier.",
+    "start": 112.948,
+    "end": 113.208,
+    "words": [
+      {
+        "text": "Hier.",
+        "start": 112.948,
+        "end": 113.208
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Hier bist du.",
+    "start": 113.308,
+    "end": 113.808,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 113.308,
+        "end": 113.488
+      },
+      {
+        "text": "bist",
+        "start": 113.508,
+        "end": 113.648
+      },
+      {
+        "text": "du.",
+        "start": 113.688,
+        "end": 113.808
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Hier bist du.",
+    "start": 113.828,
+    "end": 114.469,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 113.828,
+        "end": 114.228
+      },
+      {
+        "text": "bist",
+        "start": 114.248,
+        "end": 114.389
+      },
+      {
+        "text": "du.",
+        "start": 114.409,
+        "end": 114.469
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": " Weine nicht.",
+    "start": 133.158,
+    "end": 135.26,
+    "words": [
+      {
+        "text": "Weine",
+        "start": 133.158,
+        "end": 133.598
+      },
+      {
+        "text": "nicht.",
+        "start": 133.638,
+        "end": 135.26
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Am liebsten würde ich ihre Tränen trocknen.",
+    "start": 135.34,
+    "end": 137.542,
+    "words": [
+      {
+        "text": "Am",
+        "start": 135.34,
+        "end": 135.48
+      },
+      {
+        "text": "liebsten",
+        "start": 135.52,
+        "end": 135.96
+      },
+      {
+        "text": "würde",
+        "start": 135.98,
+        "end": 136.16
+      },
+      {
+        "text": "ich",
+        "start": 136.18,
+        "end": 136.301
+      },
+      {
+        "text": "ihre",
+        "start": 136.321,
+        "end": 136.501
+      },
+      {
+        "text": "Tränen",
+        "start": 136.541,
+        "end": 136.861
+      },
+      {
+        "text": "trocknen.",
+        "start": 136.901,
+        "end": 137.542
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Aber für Rücksicht ist es jetzt zu spät.",
+    "start": 137.562,
+    "end": 139.463,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 137.562,
+        "end": 137.782
+      },
+      {
+        "text": "für",
+        "start": 137.802,
+        "end": 137.942
+      },
+      {
+        "text": "Rücksicht",
+        "start": 137.982,
+        "end": 138.282
+      },
+      {
+        "text": "ist",
+        "start": 138.322,
+        "end": 138.462
+      },
+      {
+        "text": "es",
+        "start": 138.522,
+        "end": 138.622
+      },
+      {
+        "text": "jetzt",
+        "start": 138.662,
+        "end": 138.863
+      },
+      {
+        "text": "zu",
+        "start": 138.883,
+        "end": 138.983
+      },
+      {
+        "text": "spät.",
+        "start": 139.003,
+        "end": 139.463
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Mein Mitleid spielt hier keine Rolle.",
+    "start": 139.503,
+    "end": 142.165,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 139.503,
+        "end": 139.743
+      },
+      {
+        "text": "Mitleid",
+        "start": 139.783,
+        "end": 141.084
+      },
+      {
+        "text": "spielt",
+        "start": 141.104,
+        "end": 141.365
+      },
+      {
+        "text": "hier",
+        "start": 141.385,
+        "end": 141.625
+      },
+      {
+        "text": "keine",
+        "start": 141.665,
+        "end": 141.885
+      },
+      {
+        "text": "Rolle.",
+        "start": 141.925,
+        "end": 142.165
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Hab vielen Dank.",
+    "start": 147.77,
+    "end": 154.655,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 147.77,
+        "end": 148.25
+      },
+      {
+        "text": "vielen",
+        "start": 148.29,
+        "end": 153.434
+      },
+      {
+        "text": "Dank.",
+        "start": 154.115,
+        "end": 154.655
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Wir werden weitermachen, bis einer von uns sein Leben ausgehaupt hat.",
+    "start": 154.695,
+    "end": 159.9,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 154.695,
+        "end": 154.855
+      },
+      {
+        "text": "werden",
+        "start": 154.896,
+        "end": 155.216
+      },
+      {
+        "text": "weitermachen,",
+        "start": 155.236,
+        "end": 156.337
+      },
+      {
+        "text": "bis",
+        "start": 156.377,
+        "end": 156.677
+      },
+      {
+        "text": "einer",
+        "start": 156.717,
+        "end": 156.977
+      },
+      {
+        "text": "von",
+        "start": 157.017,
+        "end": 157.157
+      },
+      {
+        "text": "uns",
+        "start": 157.217,
+        "end": 157.337
+      },
+      {
+        "text": "sein",
+        "start": 157.378,
+        "end": 157.538
+      },
+      {
+        "text": "Leben",
+        "start": 157.578,
+        "end": 157.818
+      },
+      {
+        "text": "ausgehaupt",
+        "start": 157.858,
+        "end": 158.338
+      },
+      {
+        "text": "hat.",
+        "start": 158.378,
+        "end": 159.9
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Kampf einstellen!",
+    "start": 159.94,
+    "end": 161.121,
+    "words": [
+      {
+        "text": "Kampf",
+        "start": 159.94,
+        "end": 160.32
+      },
+      {
+        "text": "einstellen!",
+        "start": 160.34,
+        "end": 161.121
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Hängt sofort die Schwerter!",
+    "start": 161.141,
+    "end": 162.301,
+    "words": [
+      {
+        "text": "Hängt",
+        "start": 161.141,
+        "end": 161.421
+      },
+      {
+        "text": "sofort",
+        "start": 161.441,
+        "end": 161.801
+      },
+      {
+        "text": "die",
+        "start": 161.841,
+        "end": 161.941
+      },
+      {
+        "text": "Schwerter!",
+        "start": 161.961,
+        "end": 162.301
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": " Ich muss den Kampf an dieser Stelle beenden, denn ihr wart im Begriff einander umzubringen.",
+    "start": 163.362,
+    "end": 167.548,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 163.362,
+        "end": 163.442
+      },
+      {
+        "text": "muss",
+        "start": 163.462,
+        "end": 163.643
+      },
+      {
+        "text": "den",
+        "start": 163.663,
+        "end": 163.763
+      },
+      {
+        "text": "Kampf",
+        "start": 163.803,
+        "end": 163.963
+      },
+      {
+        "text": "an",
+        "start": 164.003,
+        "end": 164.103
+      },
+      {
+        "text": "dieser",
+        "start": 164.143,
+        "end": 164.304
+      },
+      {
+        "text": "Stelle",
+        "start": 164.324,
+        "end": 164.624
+      },
+      {
+        "text": "beenden,",
+        "start": 164.644,
+        "end": 165.285
+      },
+      {
+        "text": "denn",
+        "start": 165.325,
+        "end": 165.445
+      },
+      {
+        "text": "ihr",
+        "start": 165.485,
+        "end": 165.545
+      },
+      {
+        "text": "wart",
+        "start": 165.565,
+        "end": 165.705
+      },
+      {
+        "text": "im",
+        "start": 165.745,
+        "end": 165.846
+      },
+      {
+        "text": "Begriff",
+        "start": 165.866,
+        "end": 166.106
+      },
+      {
+        "text": "einander",
+        "start": 166.146,
+        "end": 166.466
+      },
+      {
+        "text": "umzubringen.",
+        "start": 166.506,
+        "end": 167.548
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Vielleicht war es unbewusst, aber ihr habt es geschafft, meinen Zauber aufzulösen.",
+    "start": 167.568,
+    "end": 171.653,
+    "words": [
+      {
+        "text": "Vielleicht",
+        "start": 167.568,
+        "end": 167.928
+      },
+      {
+        "text": "war",
+        "start": 167.968,
+        "end": 168.089
+      },
+      {
+        "text": "es",
+        "start": 168.129,
+        "end": 168.249
+      },
+      {
+        "text": "unbewusst,",
+        "start": 168.269,
+        "end": 168.91
+      },
+      {
+        "text": "aber",
+        "start": 168.95,
+        "end": 169.11
+      },
+      {
+        "text": "ihr",
+        "start": 169.17,
+        "end": 169.25
+      },
+      {
+        "text": "habt",
+        "start": 169.27,
+        "end": 169.41
+      },
+      {
+        "text": "es",
+        "start": 169.45,
+        "end": 169.571
+      },
+      {
+        "text": "geschafft,",
+        "start": 169.611,
+        "end": 169.951
+      },
+      {
+        "text": "meinen",
+        "start": 169.971,
+        "end": 170.171
+      },
+      {
+        "text": "Zauber",
+        "start": 170.191,
+        "end": 170.492
+      },
+      {
+        "text": "aufzulösen.",
+        "start": 170.512,
+        "end": 171.653
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Was war das?",
+    "start": 171.693,
+    "end": 173.135,
+    "words": [
+      {
+        "text": "Was",
+        "start": 171.693,
+        "end": 171.874
+      },
+      {
+        "text": "war",
+        "start": 171.914,
+        "end": 172.054
+      },
+      {
+        "text": "das?",
+        "start": 172.094,
+        "end": 173.135
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Was hatte ich da gerade vor?",
+    "start": 173.155,
+    "end": 174.417,
+    "words": [
+      {
+        "text": "Was",
+        "start": 173.155,
+        "end": 173.336
+      },
+      {
+        "text": "hatte",
+        "start": 173.356,
+        "end": 173.556
+      },
+      {
+        "text": "ich",
+        "start": 173.576,
+        "end": 173.676
+      },
+      {
+        "text": "da",
+        "start": 173.696,
+        "end": 173.816
+      },
+      {
+        "text": "gerade",
+        "start": 173.856,
+        "end": 174.036
+      },
+      {
+        "text": "vor?",
+        "start": 174.057,
+        "end": 174.417
+      }
+    ]
+  }
+]

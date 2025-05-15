@@ -1,0 +1,1545 @@
+[
+  {
+    "id": 0,
+    "text": " Endlich lächelst du mal wieder.",
+    "start": 1.262,
+    "end": 3.163,
+    "words": [
+      {
+        "text": "Endlich",
+        "start": 1.262,
+        "end": 1.562
+      },
+      {
+        "text": "lächelst",
+        "start": 1.602,
+        "end": 1.882
+      },
+      {
+        "text": "du",
+        "start": 1.902,
+        "end": 2.083
+      },
+      {
+        "text": "mal",
+        "start": 2.123,
+        "end": 2.243
+      },
+      {
+        "text": "wieder.",
+        "start": 2.263,
+        "end": 3.163
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was soll das denn heißen?",
+    "start": 3.203,
+    "end": 4.324,
+    "words": [
+      {
+        "text": "Was",
+        "start": 3.203,
+        "end": 3.343
+      },
+      {
+        "text": "soll",
+        "start": 3.363,
+        "end": 3.563
+      },
+      {
+        "text": "das",
+        "start": 3.583,
+        "end": 3.763
+      },
+      {
+        "text": "denn",
+        "start": 3.803,
+        "end": 3.963
+      },
+      {
+        "text": "heißen?",
+        "start": 4.003,
+        "end": 4.324
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Bin ich etwa so mürrisch gewesen?",
+    "start": 4.364,
+    "end": 6.204,
+    "words": [
+      {
+        "text": "Bin",
+        "start": 4.364,
+        "end": 4.484
+      },
+      {
+        "text": "ich",
+        "start": 4.524,
+        "end": 4.644
+      },
+      {
+        "text": "etwa",
+        "start": 4.664,
+        "end": 4.884
+      },
+      {
+        "text": "so",
+        "start": 4.924,
+        "end": 5.084
+      },
+      {
+        "text": "mürrisch",
+        "start": 5.124,
+        "end": 5.464
+      },
+      {
+        "text": "gewesen?",
+        "start": 5.484,
+        "end": 6.204
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Keine Sorge, so hab ich's nicht gemeint.",
+    "start": 6.224,
+    "end": 9.286,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 6.224,
+        "end": 6.585
+      },
+      {
+        "text": "Sorge,",
+        "start": 6.625,
+        "end": 7.265
+      },
+      {
+        "text": "so",
+        "start": 7.285,
+        "end": 7.405
+      },
+      {
+        "text": "hab",
+        "start": 7.425,
+        "end": 7.565
+      },
+      {
+        "text": "ich's",
+        "start": 7.605,
+        "end": 7.725
+      },
+      {
+        "text": "nicht",
+        "start": 7.745,
+        "end": 7.945
+      },
+      {
+        "text": "gemeint.",
+        "start": 7.965,
+        "end": 9.286
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Aber bis eben hast du nur ein klein wenig angespannt gewirkt.",
+    "start": 9.346,
+    "end": 12.547,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 9.346,
+        "end": 9.526
+      },
+      {
+        "text": "bis",
+        "start": 9.566,
+        "end": 9.766
+      },
+      {
+        "text": "eben",
+        "start": 9.806,
+        "end": 9.986
+      },
+      {
+        "text": "hast",
+        "start": 10.006,
+        "end": 10.166
+      },
+      {
+        "text": "du",
+        "start": 10.186,
+        "end": 10.286
+      },
+      {
+        "text": "nur",
+        "start": 10.326,
+        "end": 10.406
+      },
+      {
+        "text": "ein",
+        "start": 10.426,
+        "end": 10.546
+      },
+      {
+        "text": "klein",
+        "start": 10.566,
+        "end": 10.786
+      },
+      {
+        "text": "wenig",
+        "start": 10.827,
+        "end": 11.067
+      },
+      {
+        "text": "angespannt",
+        "start": 11.107,
+        "end": 11.627
+      },
+      {
+        "text": "gewirkt.",
+        "start": 11.647,
+        "end": 12.547
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Es freut mich echt, wenn du endlich mal abschalten kannst.",
+    "start": 12.607,
+    "end": 15.569,
+    "words": [
+      {
+        "text": "Es",
+        "start": 12.607,
+        "end": 12.707
+      },
+      {
+        "text": "freut",
+        "start": 12.747,
+        "end": 12.987
+      },
+      {
+        "text": "mich",
+        "start": 13.007,
+        "end": 13.168
+      },
+      {
+        "text": "echt,",
+        "start": 13.208,
+        "end": 13.348
+      },
+      {
+        "text": "wenn",
+        "start": 13.368,
+        "end": 13.508
+      },
+      {
+        "text": "du",
+        "start": 13.528,
+        "end": 13.648
+      },
+      {
+        "text": "endlich",
+        "start": 13.688,
+        "end": 13.908
+      },
+      {
+        "text": "mal",
+        "start": 13.988,
+        "end": 14.148
+      },
+      {
+        "text": "abschalten",
+        "start": 14.168,
+        "end": 14.648
+      },
+      {
+        "text": "kannst.",
+        "start": 14.688,
+        "end": 15.569
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich muss zugeben, das kannst du gut.",
+    "start": 15.629,
+    "end": 17.63,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 15.629,
+        "end": 15.729
+      },
+      {
+        "text": "muss",
+        "start": 15.749,
+        "end": 15.969
+      },
+      {
+        "text": "zugeben,",
+        "start": 16.009,
+        "end": 16.369
+      },
+      {
+        "text": "das",
+        "start": 16.389,
+        "end": 16.549
+      },
+      {
+        "text": "kannst",
+        "start": 16.589,
+        "end": 16.829
+      },
+      {
+        "text": "du",
+        "start": 16.849,
+        "end": 16.989
+      },
+      {
+        "text": "gut.",
+        "start": 17.009,
+        "end": 17.63
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Leute wieder aufzumuntern, ist wohl voll dein Ding.",
+    "start": 17.71,
+    "end": 20.731,
+    "words": [
+      {
+        "text": "Leute",
+        "start": 17.71,
+        "end": 17.99
+      },
+      {
+        "text": "wieder",
+        "start": 18.03,
+        "end": 18.27
+      },
+      {
+        "text": "aufzumuntern,",
+        "start": 18.31,
+        "end": 19.37
+      },
+      {
+        "text": "ist",
+        "start": 19.41,
+        "end": 19.59
+      },
+      {
+        "text": "wohl",
+        "start": 19.631,
+        "end": 19.871
+      },
+      {
+        "text": "voll",
+        "start": 19.911,
+        "end": 20.051
+      },
+      {
+        "text": "dein",
+        "start": 20.071,
+        "end": 20.291
+      },
+      {
+        "text": "Ding.",
+        "start": 20.331,
+        "end": 20.731
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Findest du?",
+    "start": 20.751,
+    "end": 21.771,
+    "words": [
+      {
+        "text": "Findest",
+        "start": 20.751,
+        "end": 21.091
+      },
+      {
+        "text": "du?",
+        "start": 21.131,
+        "end": 21.771
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das liegt vielleicht an meiner kleinen Schwester.",
+    "start": 21.791,
+    "end": 23.492,
+    "words": [
+      {
+        "text": "Das",
+        "start": 21.791,
+        "end": 21.972
+      },
+      {
+        "text": "liegt",
+        "start": 21.992,
+        "end": 22.152
+      },
+      {
+        "text": "vielleicht",
+        "start": 22.172,
+        "end": 22.472
+      },
+      {
+        "text": "an",
+        "start": 22.512,
+        "end": 22.612
+      },
+      {
+        "text": "meiner",
+        "start": 22.652,
+        "end": 22.852
+      },
+      {
+        "text": "kleinen",
+        "start": 22.872,
+        "end": 23.092
+      },
+      {
+        "text": "Schwester.",
+        "start": 23.112,
+        "end": 23.492
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Oh, die arme Kleine ist immer noch nicht entlassen worden, nicht wahr?",
+    "start": 24.373,
+    "end": 28.154,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 24.373,
+        "end": 25.313
+      },
+      {
+        "text": "die",
+        "start": 25.353,
+        "end": 25.493
+      },
+      {
+        "text": "arme",
+        "start": 25.533,
+        "end": 25.853
+      },
+      {
+        "text": "Kleine",
+        "start": 25.893,
+        "end": 26.193
+      },
+      {
+        "text": "ist",
+        "start": 26.234,
+        "end": 26.434
+      },
+      {
+        "text": "immer",
+        "start": 26.474,
+        "end": 26.694
+      },
+      {
+        "text": "noch",
+        "start": 26.734,
+        "end": 26.894
+      },
+      {
+        "text": "nicht",
+        "start": 26.914,
+        "end": 27.114
+      },
+      {
+        "text": "entlassen",
+        "start": 27.154,
+        "end": 27.534
+      },
+      {
+        "text": "worden,",
+        "start": 27.574,
+        "end": 27.754
+      },
+      {
+        "text": "nicht",
+        "start": 27.794,
+        "end": 28.014
+      },
+      {
+        "text": "wahr?",
+        "start": 28.034,
+        "end": 28.154
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Hm.",
+    "start": 28.174,
+    "end": 28.214,
+    "words": [
+      {
+        "text": "Hm.",
+        "start": 28.174,
+        "end": 28.214
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Falls ich was für sie tun kann, musst du es nur sagen.",
+    "start": 30.76,
+    "end": 33.402,
+    "words": [
+      {
+        "text": "Falls",
+        "start": 30.76,
+        "end": 31.16
+      },
+      {
+        "text": "ich",
+        "start": 31.22,
+        "end": 31.3
+      },
+      {
+        "text": "was",
+        "start": 31.34,
+        "end": 31.46
+      },
+      {
+        "text": "für",
+        "start": 31.48,
+        "end": 31.6
+      },
+      {
+        "text": "sie",
+        "start": 31.621,
+        "end": 31.701
+      },
+      {
+        "text": "tun",
+        "start": 31.741,
+        "end": 31.881
+      },
+      {
+        "text": "kann,",
+        "start": 31.921,
+        "end": 32.081
+      },
+      {
+        "text": "musst",
+        "start": 32.101,
+        "end": 32.221
+      },
+      {
+        "text": "du",
+        "start": 32.241,
+        "end": 32.341
+      },
+      {
+        "text": "es",
+        "start": 32.361,
+        "end": 32.441
+      },
+      {
+        "text": "nur",
+        "start": 32.481,
+        "end": 32.621
+      },
+      {
+        "text": "sagen.",
+        "start": 32.661,
+        "end": 33.402
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Nein, brauchst du nicht.",
+    "start": 33.442,
+    "end": 34.902,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 33.442,
+        "end": 33.742
+      },
+      {
+        "text": "brauchst",
+        "start": 33.762,
+        "end": 34.062
+      },
+      {
+        "text": "du",
+        "start": 34.082,
+        "end": 34.222
+      },
+      {
+        "text": "nicht.",
+        "start": 34.242,
+        "end": 34.902
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ich hab dir schon weitaus genug Schwierigkeiten bereitet.",
+    "start": 34.942,
+    "end": 38.064,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 34.942,
+        "end": 35.022
+      },
+      {
+        "text": "hab",
+        "start": 35.063,
+        "end": 35.203
+      },
+      {
+        "text": "dir",
+        "start": 35.223,
+        "end": 35.343
+      },
+      {
+        "text": "schon",
+        "start": 35.363,
+        "end": 35.563
+      },
+      {
+        "text": "weitaus",
+        "start": 35.583,
+        "end": 35.943
+      },
+      {
+        "text": "genug",
+        "start": 35.983,
+        "end": 36.263
+      },
+      {
+        "text": "Schwierigkeiten",
+        "start": 36.283,
+        "end": 36.964
+      },
+      {
+        "text": "bereitet.",
+        "start": 36.984,
+        "end": 38.064
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Das könnte ich niemals alles wieder gut machen.",
+    "start": 38.104,
+    "end": 40.826,
+    "words": [
+      {
+        "text": "Das",
+        "start": 38.104,
+        "end": 38.244
+      },
+      {
+        "text": "könnte",
+        "start": 38.284,
+        "end": 38.525
+      },
+      {
+        "text": "ich",
+        "start": 38.565,
+        "end": 38.685
+      },
+      {
+        "text": "niemals",
+        "start": 38.725,
+        "end": 39.105
+      },
+      {
+        "text": "alles",
+        "start": 39.125,
+        "end": 39.405
+      },
+      {
+        "text": "wieder",
+        "start": 39.425,
+        "end": 39.645
+      },
+      {
+        "text": "gut",
+        "start": 39.665,
+        "end": 39.885
+      },
+      {
+        "text": "machen.",
+        "start": 39.925,
+        "end": 40.826
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ach, red' doch kein Unsinn, Kanne.",
+    "start": 40.886,
+    "end": 43.327,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 40.886,
+        "end": 41.066
+      },
+      {
+        "text": "red'",
+        "start": 41.086,
+        "end": 41.246
+      },
+      {
+        "text": "doch",
+        "start": 41.266,
+        "end": 41.446
+      },
+      {
+        "text": "kein",
+        "start": 41.486,
+        "end": 41.726
+      },
+      {
+        "text": "Unsinn,",
+        "start": 41.766,
+        "end": 42.187
+      },
+      {
+        "text": "Kanne.",
+        "start": 42.227,
+        "end": 43.327
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich meine, Masamune, immerhin bist du nach all den Jahren zu mir zurückgekehrt.",
+    "start": 43.367,
+    "end": 48.19,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 43.367,
+        "end": 43.507
+      },
+      {
+        "text": "meine,",
+        "start": 43.547,
+        "end": 43.708
+      },
+      {
+        "text": "Masamune,",
+        "start": 43.748,
+        "end": 44.608
+      },
+      {
+        "text": "immerhin",
+        "start": 44.648,
+        "end": 45.028
+      },
+      {
+        "text": "bist",
+        "start": 45.048,
+        "end": 45.188
+      },
+      {
+        "text": "du",
+        "start": 45.228,
+        "end": 45.328
+      },
+      {
+        "text": "nach",
+        "start": 45.369,
+        "end": 45.569
+      },
+      {
+        "text": "all",
+        "start": 45.609,
+        "end": 45.709
+      },
+      {
+        "text": "den",
+        "start": 45.729,
+        "end": 45.929
+      },
+      {
+        "text": "Jahren",
+        "start": 45.949,
+        "end": 46.269
+      },
+      {
+        "text": "zu",
+        "start": 46.309,
+        "end": 46.389
+      },
+      {
+        "text": "mir",
+        "start": 46.429,
+        "end": 46.589
+      },
+      {
+        "text": "zurückgekehrt.",
+        "start": 46.629,
+        "end": 48.19
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Bedrück dich etwas, dann helfe ich dir auch.",
+    "start": 48.23,
+    "end": 55.935,
+    "words": [
+      {
+        "text": "Bedrück",
+        "start": 48.23,
+        "end": 48.53
+      },
+      {
+        "text": "dich",
+        "start": 48.55,
+        "end": 48.73
+      },
+      {
+        "text": "etwas,",
+        "start": 48.77,
+        "end": 49.031
+      },
+      {
+        "text": "dann",
+        "start": 49.051,
+        "end": 49.231
+      },
+      {
+        "text": "helfe",
+        "start": 49.251,
+        "end": 49.451
+      },
+      {
+        "text": "ich",
+        "start": 49.491,
+        "end": 49.591
+      },
+      {
+        "text": "dir",
+        "start": 49.651,
+        "end": 49.811
+      },
+      {
+        "text": "auch.",
+        "start": 49.871,
+        "end": 55.935
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du brauchst dich wirklich nicht schlecht zu fühlen.",
+    "start": 55.975,
+    "end": 58.496,
+    "words": [
+      {
+        "text": "Du",
+        "start": 55.975,
+        "end": 56.095
+      },
+      {
+        "text": "brauchst",
+        "start": 56.115,
+        "end": 56.415
+      },
+      {
+        "text": "dich",
+        "start": 56.435,
+        "end": 56.615
+      },
+      {
+        "text": "wirklich",
+        "start": 56.635,
+        "end": 56.955
+      },
+      {
+        "text": "nicht",
+        "start": 56.995,
+        "end": 57.135
+      },
+      {
+        "text": "schlecht",
+        "start": 57.175,
+        "end": 57.456
+      },
+      {
+        "text": "zu",
+        "start": 57.496,
+        "end": 57.636
+      },
+      {
+        "text": "fühlen.",
+        "start": 57.676,
+        "end": 58.496
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Was liegt dir auf dem Herzen?",
+    "start": 58.536,
+    "end": 59.737,
+    "words": [
+      {
+        "text": "Was",
+        "start": 58.536,
+        "end": 58.736
+      },
+      {
+        "text": "liegt",
+        "start": 58.756,
+        "end": 58.916
+      },
+      {
+        "text": "dir",
+        "start": 58.936,
+        "end": 59.076
+      },
+      {
+        "text": "auf",
+        "start": 59.097,
+        "end": 59.197
+      },
+      {
+        "text": "dem",
+        "start": 59.237,
+        "end": 59.357
+      },
+      {
+        "text": "Herzen?",
+        "start": 59.397,
+        "end": 59.737
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Naja, weißt du, Akilein... Ehrlich gesagt... Was willst du denn hier?",
+    "start": 65.472,
+    "end": 79.717,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 65.472,
+        "end": 66.812
+      },
+      {
+        "text": "weißt",
+        "start": 66.852,
+        "end": 67.093
+      },
+      {
+        "text": "du,",
+        "start": 67.113,
+        "end": 67.313
+      },
+      {
+        "text": "Akilein...",
+        "start": 67.353,
+        "end": 71.954
+      },
+      {
+        "text": "Ehrlich",
+        "start": 72.014,
+        "end": 72.334
+      },
+      {
+        "text": "gesagt...",
+        "start": 72.374,
+        "end": 72.614
+      },
+      {
+        "text": "Was",
+        "start": 72.674,
+        "end": 75.355
+      },
+      {
+        "text": "willst",
+        "start": 75.395,
+        "end": 79.037
+      },
+      {
+        "text": "du",
+        "start": 79.057,
+        "end": 79.417
+      },
+      {
+        "text": "denn",
+        "start": 79.457,
+        "end": 79.577
+      },
+      {
+        "text": "hier?",
+        "start": 79.597,
+        "end": 79.717
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Gefährlichst auf den Namen von anderen zu beschmutzen!",
+    "start": 79.737,
+    "end": 82.078,
+    "words": [
+      {
+        "text": "Gefährlichst",
+        "start": 79.737,
+        "end": 80.197
+      },
+      {
+        "text": "auf",
+        "start": 80.237,
+        "end": 80.377
+      },
+      {
+        "text": "den",
+        "start": 80.397,
+        "end": 80.517
+      },
+      {
+        "text": "Namen",
+        "start": 80.577,
+        "end": 80.797
+      },
+      {
+        "text": "von",
+        "start": 80.817,
+        "end": 80.997
+      },
+      {
+        "text": "anderen",
+        "start": 81.057,
+        "end": 81.477
+      },
+      {
+        "text": "zu",
+        "start": 81.497,
+        "end": 81.597
+      },
+      {
+        "text": "beschmutzen!",
+        "start": 81.617,
+        "end": 82.078
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Ich bitte dich, du musst sie finden und ihr erzählen, was wirklich passiert ist.",
+    "start": 93.268,
+    "end": 97.529,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 93.268,
+        "end": 93.368
+      },
+      {
+        "text": "bitte",
+        "start": 93.468,
+        "end": 93.748
+      },
+      {
+        "text": "dich,",
+        "start": 93.768,
+        "end": 94.648
+      },
+      {
+        "text": "du",
+        "start": 94.708,
+        "end": 94.868
+      },
+      {
+        "text": "musst",
+        "start": 94.908,
+        "end": 95.128
+      },
+      {
+        "text": "sie",
+        "start": 95.148,
+        "end": 95.348
+      },
+      {
+        "text": "finden",
+        "start": 95.388,
+        "end": 95.668
+      },
+      {
+        "text": "und",
+        "start": 95.728,
+        "end": 95.849
+      },
+      {
+        "text": "ihr",
+        "start": 95.869,
+        "end": 95.969
+      },
+      {
+        "text": "erzählen,",
+        "start": 96.009,
+        "end": 96.349
+      },
+      {
+        "text": "was",
+        "start": 96.389,
+        "end": 96.569
+      },
+      {
+        "text": "wirklich",
+        "start": 96.589,
+        "end": 96.929
+      },
+      {
+        "text": "passiert",
+        "start": 96.969,
+        "end": 97.349
+      },
+      {
+        "text": "ist.",
+        "start": 97.409,
+        "end": 97.529
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Nur so kann ich diese Gefühle, die mich seit langer Zeit belasten, endlich loswerden.",
+    "start": 100.39,
+    "end": 106.732,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 100.39,
+        "end": 100.61
+      },
+      {
+        "text": "so",
+        "start": 100.63,
+        "end": 100.73
+      },
+      {
+        "text": "kann",
+        "start": 100.77,
+        "end": 100.97
+      },
+      {
+        "text": "ich",
+        "start": 101.01,
+        "end": 101.19
+      },
+      {
+        "text": "diese",
+        "start": 101.21,
+        "end": 101.45
+      },
+      {
+        "text": "Gefühle,",
+        "start": 101.49,
+        "end": 101.951
+      },
+      {
+        "text": "die",
+        "start": 103.231,
+        "end": 103.351
+      },
+      {
+        "text": "mich",
+        "start": 103.371,
+        "end": 103.491
+      },
+      {
+        "text": "seit",
+        "start": 103.531,
+        "end": 103.811
+      },
+      {
+        "text": "langer",
+        "start": 103.831,
+        "end": 104.151
+      },
+      {
+        "text": "Zeit",
+        "start": 104.171,
+        "end": 104.391
+      },
+      {
+        "text": "belasten,",
+        "start": 104.431,
+        "end": 105.552
+      },
+      {
+        "text": "endlich",
+        "start": 105.632,
+        "end": 105.992
+      },
+      {
+        "text": "loswerden.",
+        "start": 106.112,
+        "end": 106.732
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": " Hast du sie noch alle, Makabeh?",
+    "start": 111.262,
+    "end": 112.463,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 111.262,
+        "end": 111.402
+      },
+      {
+        "text": "du",
+        "start": 111.422,
+        "end": 111.522
+      },
+      {
+        "text": "sie",
+        "start": 111.542,
+        "end": 111.642
+      },
+      {
+        "text": "noch",
+        "start": 111.662,
+        "end": 111.802
+      },
+      {
+        "text": "alle,",
+        "start": 111.823,
+        "end": 112.003
+      },
+      {
+        "text": "Makabeh?",
+        "start": 112.023,
+        "end": 112.463
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Was sollte das gerade?",
+    "start": 112.483,
+    "end": 113.764,
+    "words": [
+      {
+        "text": "Was",
+        "start": 112.483,
+        "end": 112.643
+      },
+      {
+        "text": "sollte",
+        "start": 112.663,
+        "end": 112.943
+      },
+      {
+        "text": "das",
+        "start": 112.963,
+        "end": 113.183
+      },
+      {
+        "text": "gerade?",
+        "start": 113.223,
+        "end": 113.764
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Dir habe ich auch einiges zu sagen!",
+    "start": 113.804,
+    "end": 115.665,
+    "words": [
+      {
+        "text": "Dir",
+        "start": 113.804,
+        "end": 113.964
+      },
+      {
+        "text": "habe",
+        "start": 113.984,
+        "end": 114.124
+      },
+      {
+        "text": "ich",
+        "start": 114.164,
+        "end": 114.284
+      },
+      {
+        "text": "auch",
+        "start": 114.304,
+        "end": 114.484
+      },
+      {
+        "text": "einiges",
+        "start": 114.524,
+        "end": 114.805
+      },
+      {
+        "text": "zu",
+        "start": 114.845,
+        "end": 114.925
+      },
+      {
+        "text": "sagen!",
+        "start": 114.965,
+        "end": 115.665
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Mag ja sein, dass das alles nur ein Missverständnis ist, aber für dein beschissenes Verhalten habe ich gerade einfach null Verständnis!",
+    "start": 115.705,
+    "end": 124.651,
+    "words": [
+      {
+        "text": "Mag",
+        "start": 115.705,
+        "end": 115.885
+      },
+      {
+        "text": "ja",
+        "start": 115.905,
+        "end": 116.065
+      },
+      {
+        "text": "sein,",
+        "start": 116.085,
+        "end": 116.246
+      },
+      {
+        "text": "dass",
+        "start": 116.266,
+        "end": 116.406
+      },
+      {
+        "text": "das",
+        "start": 116.446,
+        "end": 116.586
+      },
+      {
+        "text": "alles",
+        "start": 116.626,
+        "end": 116.826
+      },
+      {
+        "text": "nur",
+        "start": 116.846,
+        "end": 116.926
+      },
+      {
+        "text": "ein",
+        "start": 116.966,
+        "end": 117.086
+      },
+      {
+        "text": "Missverständnis",
+        "start": 117.106,
+        "end": 117.887
+      },
+      {
+        "text": "ist,",
+        "start": 117.927,
+        "end": 118.507
+      },
+      {
+        "text": "aber",
+        "start": 118.567,
+        "end": 118.747
+      },
+      {
+        "text": "für",
+        "start": 118.767,
+        "end": 118.887
+      },
+      {
+        "text": "dein",
+        "start": 118.907,
+        "end": 119.068
+      },
+      {
+        "text": "beschissenes",
+        "start": 119.088,
+        "end": 119.608
+      },
+      {
+        "text": "Verhalten",
+        "start": 119.648,
+        "end": 120.048
+      },
+      {
+        "text": "habe",
+        "start": 120.068,
+        "end": 120.188
+      },
+      {
+        "text": "ich",
+        "start": 120.228,
+        "end": 120.328
+      },
+      {
+        "text": "gerade",
+        "start": 120.368,
+        "end": 120.609
+      },
+      {
+        "text": "einfach",
+        "start": 120.649,
+        "end": 120.989
+      },
+      {
+        "text": "null",
+        "start": 121.029,
+        "end": 121.189
+      },
+      {
+        "text": "Verständnis!",
+        "start": 121.249,
+        "end": 124.651
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Damit das klar ist, wenn du schon mit dem da ausgehen willst, dann nimm den echten!",
+    "start": 124.692,
+    "end": 135.559,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 124.692,
+        "end": 125.052
+      },
+      {
+        "text": "das",
+        "start": 125.072,
+        "end": 125.272
+      },
+      {
+        "text": "klar",
+        "start": 125.312,
+        "end": 125.552
+      },
+      {
+        "text": "ist,",
+        "start": 125.612,
+        "end": 126.373
+      },
+      {
+        "text": "wenn",
+        "start": 126.413,
+        "end": 126.553
+      },
+      {
+        "text": "du",
+        "start": 126.593,
+        "end": 126.693
+      },
+      {
+        "text": "schon",
+        "start": 126.733,
+        "end": 126.913
+      },
+      {
+        "text": "mit",
+        "start": 126.953,
+        "end": 127.053
+      },
+      {
+        "text": "dem",
+        "start": 127.093,
+        "end": 127.313
+      },
+      {
+        "text": "da",
+        "start": 127.333,
+        "end": 127.433
+      },
+      {
+        "text": "ausgehen",
+        "start": 127.493,
+        "end": 127.934
+      },
+      {
+        "text": "willst,",
+        "start": 127.974,
+        "end": 133.298
+      },
+      {
+        "text": "dann",
+        "start": 133.338,
+        "end": 133.558
+      },
+      {
+        "text": "nimm",
+        "start": 133.578,
+        "end": 133.818
+      },
+      {
+        "text": "den",
+        "start": 133.838,
+        "end": 134.038
+      },
+      {
+        "text": "echten!",
+        "start": 134.078,
+        "end": 135.559
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ich bin es, kapiert?",
+    "start": 135.619,
+    "end": 136.48,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 135.619,
+        "end": 135.759
+      },
+      {
+        "text": "bin",
+        "start": 135.799,
+        "end": 135.959
+      },
+      {
+        "text": "es,",
+        "start": 136.019,
+        "end": 136.12
+      },
+      {
+        "text": "kapiert?",
+        "start": 136.16,
+        "end": 136.48
+      }
+    ]
+  }
+]

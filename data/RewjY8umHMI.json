@@ -1,0 +1,744 @@
+[
+  {
+    "id": 0,
+    "text": " Der rote Panzerhandschuh.",
+    "start": 0.391,
+    "end": 6.113,
+    "words": [
+      {
+        "text": "Der",
+        "start": 0.391,
+        "end": 0.631
+      },
+      {
+        "text": "rote",
+        "start": 0.671,
+        "end": 1.372
+      },
+      {
+        "text": "Panzerhandschuh.",
+        "start": 1.412,
+        "end": 6.113
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wir machen die Fliege, Noe.",
+    "start": 6.153,
+    "end": 7.774,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 6.153,
+        "end": 6.293
+      },
+      {
+        "text": "machen",
+        "start": 6.313,
+        "end": 6.553
+      },
+      {
+        "text": "die",
+        "start": 6.573,
+        "end": 6.633
+      },
+      {
+        "text": "Fliege,",
+        "start": 6.673,
+        "end": 6.954
+      },
+      {
+        "text": "Noe.",
+        "start": 6.974,
+        "end": 7.774
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sie ist eine Bureau von Lord Ruthven.",
+    "start": 7.814,
+    "end": 9.775,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 7.814,
+        "end": 7.934
+      },
+      {
+        "text": "ist",
+        "start": 7.974,
+        "end": 8.134
+      },
+      {
+        "text": "eine",
+        "start": 8.174,
+        "end": 8.334
+      },
+      {
+        "text": "Bureau",
+        "start": 8.354,
+        "end": 8.694
+      },
+      {
+        "text": "von",
+        "start": 8.714,
+        "end": 8.874
+      },
+      {
+        "text": "Lord",
+        "start": 8.894,
+        "end": 9.094
+      },
+      {
+        "text": "Ruthven.",
+        "start": 9.134,
+        "end": 9.775
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Bitte?",
+    "start": 9.815,
+    "end": 10.915,
+    "words": [
+      {
+        "text": "Bitte?",
+        "start": 9.815,
+        "end": 10.915
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Lebst du komplett hinterm Mond, oder was?",
+    "start": 10.955,
+    "end": 12.976,
+    "words": [
+      {
+        "text": "Lebst",
+        "start": 10.955,
+        "end": 11.175
+      },
+      {
+        "text": "du",
+        "start": 11.215,
+        "end": 11.315
+      },
+      {
+        "text": "komplett",
+        "start": 11.355,
+        "end": 11.755
+      },
+      {
+        "text": "hinterm",
+        "start": 11.795,
+        "end": 12.216
+      },
+      {
+        "text": "Mond,",
+        "start": 12.256,
+        "end": 12.516
+      },
+      {
+        "text": "oder",
+        "start": 12.576,
+        "end": 12.736
+      },
+      {
+        "text": "was?",
+        "start": 12.896,
+        "end": 12.976
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Dann sperr mal schön die Lausche auf.",
+    "start": 15.337,
+    "end": 16.877,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 15.337,
+        "end": 15.597
+      },
+      {
+        "text": "sperr",
+        "start": 15.717,
+        "end": 15.917
+      },
+      {
+        "text": "mal",
+        "start": 15.937,
+        "end": 16.017
+      },
+      {
+        "text": "schön",
+        "start": 16.057,
+        "end": 16.197
+      },
+      {
+        "text": "die",
+        "start": 16.217,
+        "end": 16.337
+      },
+      {
+        "text": "Lausche",
+        "start": 16.357,
+        "end": 16.617
+      },
+      {
+        "text": "auf.",
+        "start": 16.657,
+        "end": 16.877
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Im Krieg gab es tausende Vampire, die ihresgleichen verraten und sich den Menschen angeschlossen haben.",
+    "start": 16.917,
+    "end": 21.738,
+    "words": [
+      {
+        "text": "Im",
+        "start": 16.917,
+        "end": 17.017
+      },
+      {
+        "text": "Krieg",
+        "start": 17.057,
+        "end": 17.477
+      },
+      {
+        "text": "gab",
+        "start": 17.497,
+        "end": 17.657
+      },
+      {
+        "text": "es",
+        "start": 17.697,
+        "end": 17.817
+      },
+      {
+        "text": "tausende",
+        "start": 17.857,
+        "end": 18.237
+      },
+      {
+        "text": "Vampire,",
+        "start": 18.258,
+        "end": 18.658
+      },
+      {
+        "text": "die",
+        "start": 18.698,
+        "end": 18.818
+      },
+      {
+        "text": "ihresgleichen",
+        "start": 18.878,
+        "end": 19.438
+      },
+      {
+        "text": "verraten",
+        "start": 19.458,
+        "end": 20.018
+      },
+      {
+        "text": "und",
+        "start": 20.058,
+        "end": 20.198
+      },
+      {
+        "text": "sich",
+        "start": 20.218,
+        "end": 20.378
+      },
+      {
+        "text": "den",
+        "start": 20.418,
+        "end": 20.518
+      },
+      {
+        "text": "Menschen",
+        "start": 20.558,
+        "end": 20.858
+      },
+      {
+        "text": "angeschlossen",
+        "start": 20.878,
+        "end": 21.338
+      },
+      {
+        "text": "haben.",
+        "start": 21.378,
+        "end": 21.738
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Und eine Bureau hat sie alle im Alleingang hingerichtet.",
+    "start": 21.778,
+    "end": 24.879,
+    "words": [
+      {
+        "text": "Und",
+        "start": 21.778,
+        "end": 21.958
+      },
+      {
+        "text": "eine",
+        "start": 21.998,
+        "end": 22.158
+      },
+      {
+        "text": "Bureau",
+        "start": 22.178,
+        "end": 22.498
+      },
+      {
+        "text": "hat",
+        "start": 22.518,
+        "end": 22.718
+      },
+      {
+        "text": "sie",
+        "start": 22.738,
+        "end": 22.838
+      },
+      {
+        "text": "alle",
+        "start": 22.878,
+        "end": 23.058
+      },
+      {
+        "text": "im",
+        "start": 23.098,
+        "end": 23.198
+      },
+      {
+        "text": "Alleingang",
+        "start": 23.238,
+        "end": 23.718
+      },
+      {
+        "text": "hingerichtet.",
+        "start": 23.758,
+        "end": 24.879
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sie ist die Trägerin von Carpe Diem, dem roten Panzerhandschuh.",
+    "start": 24.919,
+    "end": 28.079,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 24.919,
+        "end": 25.019
+      },
+      {
+        "text": "ist",
+        "start": 25.059,
+        "end": 25.199
+      },
+      {
+        "text": "die",
+        "start": 25.219,
+        "end": 25.319
+      },
+      {
+        "text": "Trägerin",
+        "start": 25.339,
+        "end": 25.839
+      },
+      {
+        "text": "von",
+        "start": 25.859,
+        "end": 25.999
+      },
+      {
+        "text": "Carpe",
+        "start": 26.019,
+        "end": 26.379
+      },
+      {
+        "text": "Diem,",
+        "start": 26.399,
+        "end": 26.719
+      },
+      {
+        "text": "dem",
+        "start": 26.759,
+        "end": 26.899
+      },
+      {
+        "text": "roten",
+        "start": 26.939,
+        "end": 27.299
+      },
+      {
+        "text": "Panzerhandschuh.",
+        "start": 27.339,
+        "end": 28.079
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Die Henkerin mit dem Namen einer Heiligen, die ihresgleichen tötet.",
+    "start": 28.099,
+    "end": 34.4,
+    "words": [
+      {
+        "text": "Die",
+        "start": 28.099,
+        "end": 28.259
+      },
+      {
+        "text": "Henkerin",
+        "start": 28.299,
+        "end": 28.639
+      },
+      {
+        "text": "mit",
+        "start": 28.659,
+        "end": 28.759
+      },
+      {
+        "text": "dem",
+        "start": 28.799,
+        "end": 28.939
+      },
+      {
+        "text": "Namen",
+        "start": 28.979,
+        "end": 29.279
+      },
+      {
+        "text": "einer",
+        "start": 29.319,
+        "end": 29.499
+      },
+      {
+        "text": "Heiligen,",
+        "start": 29.539,
+        "end": 29.88
+      },
+      {
+        "text": "die",
+        "start": 29.92,
+        "end": 30.06
+      },
+      {
+        "text": "ihresgleichen",
+        "start": 30.16,
+        "end": 30.76
+      },
+      {
+        "text": "tötet.",
+        "start": 30.88,
+        "end": 34.4
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Die Hexe des Höllenfeuers, Jeanne.",
+    "start": 34.44,
+    "end": 36.581,
+    "words": [
+      {
+        "text": "Die",
+        "start": 34.44,
+        "end": 34.62
+      },
+      {
+        "text": "Hexe",
+        "start": 34.66,
+        "end": 35.06
+      },
+      {
+        "text": "des",
+        "start": 35.1,
+        "end": 35.24
+      },
+      {
+        "text": "Höllenfeuers,",
+        "start": 35.28,
+        "end": 36.321
+      },
+      {
+        "text": "Jeanne.",
+        "start": 36.401,
+        "end": 36.581
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Nein.",
+    "start": 36.601,
+    "end": 36.721,
+    "words": [
+      {
+        "text": "Nein.",
+        "start": 36.601,
+        "end": 36.721
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Tja, so viel dazu, dass sie versucht, uns lebendig zu fangen.",
+    "start": 47.965,
+    "end": 52.91,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 47.965,
+        "end": 48.106
+      },
+      {
+        "text": "so",
+        "start": 48.146,
+        "end": 48.266
+      },
+      {
+        "text": "viel",
+        "start": 48.286,
+        "end": 48.366
+      },
+      {
+        "text": "dazu,",
+        "start": 48.386,
+        "end": 48.606
+      },
+      {
+        "text": "dass",
+        "start": 48.646,
+        "end": 48.766
+      },
+      {
+        "text": "sie",
+        "start": 48.786,
+        "end": 48.866
+      },
+      {
+        "text": "versucht,",
+        "start": 48.886,
+        "end": 49.387
+      },
+      {
+        "text": "uns",
+        "start": 49.427,
+        "end": 49.527
+      },
+      {
+        "text": "lebendig",
+        "start": 49.547,
+        "end": 49.887
+      },
+      {
+        "text": "zu",
+        "start": 49.907,
+        "end": 49.987
+      },
+      {
+        "text": "fangen.",
+        "start": 50.047,
+        "end": 52.91
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Stirb mir bloß nicht weg!",
+    "start": 52.95,
+    "end": 54.612,
+    "words": [
+      {
+        "text": "Stirb",
+        "start": 52.95,
+        "end": 53.231
+      },
+      {
+        "text": "mir",
+        "start": 53.271,
+        "end": 53.371
+      },
+      {
+        "text": "bloß",
+        "start": 53.391,
+        "end": 53.651
+      },
+      {
+        "text": "nicht",
+        "start": 53.691,
+        "end": 53.831
+      },
+      {
+        "text": "weg!",
+        "start": 53.871,
+        "end": 54.612
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Das sieht echt übel aus.",
+    "start": 54.952,
+    "end": 63.701,
+    "words": [
+      {
+        "text": "Das",
+        "start": 54.952,
+        "end": 62.8
+      },
+      {
+        "text": "sieht",
+        "start": 62.84,
+        "end": 63.021
+      },
+      {
+        "text": "echt",
+        "start": 63.081,
+        "end": 63.281
+      },
+      {
+        "text": "übel",
+        "start": 63.321,
+        "end": 63.601
+      },
+      {
+        "text": "aus.",
+        "start": 63.621,
+        "end": 63.701
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Jeanne!",
+    "start": 83.326,
+    "end": 84.568,
+    "words": [
+      {
+        "text": "Jeanne!",
+        "start": 83.326,
+        "end": 84.568
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Monsieur Lucas, hier ist es zu gefährlich.",
+    "start": 84.608,
+    "end": 87.071,
+    "words": [
+      {
+        "text": "Monsieur",
+        "start": 84.608,
+        "end": 84.888
+      },
+      {
+        "text": "Lucas,",
+        "start": 84.928,
+        "end": 85.569
+      },
+      {
+        "text": "hier",
+        "start": 85.609,
+        "end": 85.709
+      },
+      {
+        "text": "ist",
+        "start": 85.729,
+        "end": 85.809
+      },
+      {
+        "text": "es",
+        "start": 85.869,
+        "end": 85.99
+      },
+      {
+        "text": "zu",
+        "start": 86.01,
+        "end": 86.09
+      },
+      {
+        "text": "gefährlich.",
+        "start": 86.13,
+        "end": 87.071
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Bitte begebt euch wieder in Sicherheit.",
+    "start": 87.111,
+    "end": 88.513,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 87.111,
+        "end": 87.311
+      },
+      {
+        "text": "begebt",
+        "start": 87.352,
+        "end": 87.572
+      },
+      {
+        "text": "euch",
+        "start": 87.612,
+        "end": 87.752
+      },
+      {
+        "text": "wieder",
+        "start": 87.792,
+        "end": 87.952
+      },
+      {
+        "text": "in",
+        "start": 87.972,
+        "end": 88.093
+      },
+      {
+        "text": "Sicherheit.",
+        "start": 88.113,
+        "end": 88.513
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Hör auf, Jeanne!",
+    "start": 89.234,
+    "end": 90.175,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 89.234,
+        "end": 89.535
+      },
+      {
+        "text": "auf,",
+        "start": 89.615,
+        "end": 89.835
+      },
+      {
+        "text": "Jeanne!",
+        "start": 89.895,
+        "end": 90.175
+      }
+    ]
+  }
+]

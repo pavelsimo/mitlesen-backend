@@ -1,0 +1,449 @@
+[
+  {
+    "id": 0,
+    "text": " Ist schon klar.",
+    "start": 0.531,
+    "end": 1.412,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 0.531,
+        "end": 0.691
+      },
+      {
+        "text": "schon",
+        "start": 0.711,
+        "end": 0.932
+      },
+      {
+        "text": "klar.",
+        "start": 0.952,
+        "end": 1.412
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich wollte dich nur ärgern.",
+    "start": 1.472,
+    "end": 2.573,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 1.472,
+        "end": 1.552
+      },
+      {
+        "text": "wollte",
+        "start": 1.572,
+        "end": 1.812
+      },
+      {
+        "text": "dich",
+        "start": 1.832,
+        "end": 1.972
+      },
+      {
+        "text": "nur",
+        "start": 1.992,
+        "end": 2.132
+      },
+      {
+        "text": "ärgern.",
+        "start": 2.172,
+        "end": 2.573
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wir wissen, dass du auf Shimi so stehst.",
+    "start": 2.593,
+    "end": 5.495,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 2.593,
+        "end": 2.693
+      },
+      {
+        "text": "wissen,",
+        "start": 2.713,
+        "end": 2.913
+      },
+      {
+        "text": "dass",
+        "start": 2.933,
+        "end": 3.093
+      },
+      {
+        "text": "du",
+        "start": 3.113,
+        "end": 3.213
+      },
+      {
+        "text": "auf",
+        "start": 3.233,
+        "end": 3.333
+      },
+      {
+        "text": "Shimi",
+        "start": 3.373,
+        "end": 3.654
+      },
+      {
+        "text": "so",
+        "start": 3.694,
+        "end": 3.794
+      },
+      {
+        "text": "stehst.",
+        "start": 3.834,
+        "end": 5.495
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ändert aber nichts daran, dass du eine Schraube locker hast.",
+    "start": 5.555,
+    "end": 16.482,
+    "words": [
+      {
+        "text": "Ändert",
+        "start": 5.555,
+        "end": 5.795
+      },
+      {
+        "text": "aber",
+        "start": 5.815,
+        "end": 5.995
+      },
+      {
+        "text": "nichts",
+        "start": 6.015,
+        "end": 6.195
+      },
+      {
+        "text": "daran,",
+        "start": 6.215,
+        "end": 6.415
+      },
+      {
+        "text": "dass",
+        "start": 6.435,
+        "end": 6.535
+      },
+      {
+        "text": "du",
+        "start": 6.576,
+        "end": 6.636
+      },
+      {
+        "text": "eine",
+        "start": 6.656,
+        "end": 6.756
+      },
+      {
+        "text": "Schraube",
+        "start": 6.776,
+        "end": 7.076
+      },
+      {
+        "text": "locker",
+        "start": 7.096,
+        "end": 7.356
+      },
+      {
+        "text": "hast.",
+        "start": 7.376,
+        "end": 16.482
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ist nicht wahr.",
+    "start": 16.542,
+    "end": 17.743,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 16.542,
+        "end": 16.783
+      },
+      {
+        "text": "nicht",
+        "start": 16.823,
+        "end": 17.023
+      },
+      {
+        "text": "wahr.",
+        "start": 17.083,
+        "end": 17.743
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Der Typ da drüben ist auch im Volleyball-Club.",
+    "start": 17.763,
+    "end": 20.165,
+    "words": [
+      {
+        "text": "Der",
+        "start": 17.763,
+        "end": 17.883
+      },
+      {
+        "text": "Typ",
+        "start": 17.923,
+        "end": 18.083
+      },
+      {
+        "text": "da",
+        "start": 18.103,
+        "end": 18.204
+      },
+      {
+        "text": "drüben",
+        "start": 18.264,
+        "end": 18.484
+      },
+      {
+        "text": "ist",
+        "start": 18.524,
+        "end": 18.684
+      },
+      {
+        "text": "auch",
+        "start": 18.724,
+        "end": 18.864
+      },
+      {
+        "text": "im",
+        "start": 18.904,
+        "end": 18.984
+      },
+      {
+        "text": "Volleyball-Club.",
+        "start": 19.004,
+        "end": 20.165
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich werde ihn einfach ignorieren.",
+    "start": 20.205,
+    "end": 21.466,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 20.205,
+        "end": 20.325
+      },
+      {
+        "text": "werde",
+        "start": 20.345,
+        "end": 20.505
+      },
+      {
+        "text": "ihn",
+        "start": 20.545,
+        "end": 20.665
+      },
+      {
+        "text": "einfach",
+        "start": 20.685,
+        "end": 20.985
+      },
+      {
+        "text": "ignorieren.",
+        "start": 21.025,
+        "end": 21.466
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Was?",
+    "start": 47.891,
+    "end": 48.792,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 47.891,
+        "end": 48.792
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Willst du mich heiraten?",
+    "start": 48.852,
+    "end": 63.764,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 48.852,
+        "end": 49.112
+      },
+      {
+        "text": "du",
+        "start": 49.152,
+        "end": 49.252
+      },
+      {
+        "text": "mich",
+        "start": 49.272,
+        "end": 49.392
+      },
+      {
+        "text": "heiraten?",
+        "start": 49.432,
+        "end": 63.764
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Nein, danke.",
+    "start": 63.804,
+    "end": 64.364,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 63.804,
+        "end": 64.084
+      },
+      {
+        "text": "danke.",
+        "start": 64.124,
+        "end": 64.364
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Ach ja, genau.",
+    "start": 71.896,
+    "end": 72.657,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 71.896,
+        "end": 71.996
+      },
+      {
+        "text": "ja,",
+        "start": 72.036,
+        "end": 72.237
+      },
+      {
+        "text": "genau.",
+        "start": 72.277,
+        "end": 72.657
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Er hat dir sofort einen Heiratsantrag gemacht.",
+    "start": 72.697,
+    "end": 74.72,
+    "words": [
+      {
+        "text": "Er",
+        "start": 72.697,
+        "end": 72.797
+      },
+      {
+        "text": "hat",
+        "start": 72.818,
+        "end": 72.958
+      },
+      {
+        "text": "dir",
+        "start": 72.978,
+        "end": 73.098
+      },
+      {
+        "text": "sofort",
+        "start": 73.138,
+        "end": 73.378
+      },
+      {
+        "text": "einen",
+        "start": 73.418,
+        "end": 73.619
+      },
+      {
+        "text": "Heiratsantrag",
+        "start": 73.659,
+        "end": 74.4
+      },
+      {
+        "text": "gemacht.",
+        "start": 74.44,
+        "end": 74.72
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Tja, genau so tickt unser Tanaka eben.",
+    "start": 75.161,
+    "end": 77.965,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 75.161,
+        "end": 75.661
+      },
+      {
+        "text": "genau",
+        "start": 75.681,
+        "end": 75.922
+      },
+      {
+        "text": "so",
+        "start": 75.962,
+        "end": 76.062
+      },
+      {
+        "text": "tickt",
+        "start": 76.102,
+        "end": 76.322
+      },
+      {
+        "text": "unser",
+        "start": 76.342,
+        "end": 76.583
+      },
+      {
+        "text": "Tanaka",
+        "start": 76.603,
+        "end": 77.103
+      },
+      {
+        "text": "eben.",
+        "start": 77.143,
+        "end": 77.965
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Stimmt.",
+    "start": 78.585,
+    "end": 78.846,
+    "words": [
+      {
+        "text": "Stimmt.",
+        "start": 78.585,
+        "end": 78.846
+      }
+    ]
+  }
+]

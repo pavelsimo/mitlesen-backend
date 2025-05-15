@@ -1,0 +1,2112 @@
+[
+  {
+    "id": 0,
+    "text": " Was sind denn das für Zäunen?",
+    "start": 0.031,
+    "end": 4.013,
+    "words": [
+      {
+        "text": "Was",
+        "start": 0.031,
+        "end": 2.652
+      },
+      {
+        "text": "sind",
+        "start": 2.693,
+        "end": 2.833
+      },
+      {
+        "text": "denn",
+        "start": 2.873,
+        "end": 3.053
+      },
+      {
+        "text": "das",
+        "start": 3.073,
+        "end": 3.293
+      },
+      {
+        "text": "für",
+        "start": 3.333,
+        "end": 3.533
+      },
+      {
+        "text": "Zäunen?",
+        "start": 3.573,
+        "end": 4.013
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Aber das kann doch nicht sein.",
+    "start": 4.634,
+    "end": 6.575,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 4.634,
+        "end": 5.214
+      },
+      {
+        "text": "das",
+        "start": 5.234,
+        "end": 5.374
+      },
+      {
+        "text": "kann",
+        "start": 5.414,
+        "end": 5.594
+      },
+      {
+        "text": "doch",
+        "start": 5.614,
+        "end": 5.794
+      },
+      {
+        "text": "nicht",
+        "start": 5.834,
+        "end": 5.994
+      },
+      {
+        "text": "sein.",
+        "start": 6.034,
+        "end": 6.575
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Nachdem ich mein Körpergewicht immer so perfekt unter Kontrolle hatte.",
+    "start": 6.595,
+    "end": 10.957,
+    "words": [
+      {
+        "text": "Nachdem",
+        "start": 6.595,
+        "end": 6.995
+      },
+      {
+        "text": "ich",
+        "start": 7.035,
+        "end": 7.155
+      },
+      {
+        "text": "mein",
+        "start": 7.235,
+        "end": 7.415
+      },
+      {
+        "text": "Körpergewicht",
+        "start": 7.435,
+        "end": 8.116
+      },
+      {
+        "text": "immer",
+        "start": 8.136,
+        "end": 8.356
+      },
+      {
+        "text": "so",
+        "start": 8.376,
+        "end": 8.596
+      },
+      {
+        "text": "perfekt",
+        "start": 8.636,
+        "end": 9.056
+      },
+      {
+        "text": "unter",
+        "start": 9.096,
+        "end": 9.356
+      },
+      {
+        "text": "Kontrolle",
+        "start": 9.396,
+        "end": 9.897
+      },
+      {
+        "text": "hatte.",
+        "start": 9.937,
+        "end": 10.957
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "In letzter Zeit habe ich auf so etwas tatsächlich nicht geachtet.",
+    "start": 11.017,
+    "end": 14.099,
+    "words": [
+      {
+        "text": "In",
+        "start": 11.017,
+        "end": 11.177
+      },
+      {
+        "text": "letzter",
+        "start": 11.217,
+        "end": 11.517
+      },
+      {
+        "text": "Zeit",
+        "start": 11.558,
+        "end": 11.758
+      },
+      {
+        "text": "habe",
+        "start": 11.778,
+        "end": 11.898
+      },
+      {
+        "text": "ich",
+        "start": 11.938,
+        "end": 12.018
+      },
+      {
+        "text": "auf",
+        "start": 12.038,
+        "end": 12.158
+      },
+      {
+        "text": "so",
+        "start": 12.178,
+        "end": 12.298
+      },
+      {
+        "text": "etwas",
+        "start": 12.318,
+        "end": 12.578
+      },
+      {
+        "text": "tatsächlich",
+        "start": 12.598,
+        "end": 13.098
+      },
+      {
+        "text": "nicht",
+        "start": 13.118,
+        "end": 13.278
+      },
+      {
+        "text": "geachtet.",
+        "start": 13.319,
+        "end": 14.099
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Habe ich in ein paar Monaten so viel zugelegt?",
+    "start": 14.139,
+    "end": 17.061,
+    "words": [
+      {
+        "text": "Habe",
+        "start": 14.139,
+        "end": 14.279
+      },
+      {
+        "text": "ich",
+        "start": 14.299,
+        "end": 14.399
+      },
+      {
+        "text": "in",
+        "start": 14.459,
+        "end": 14.539
+      },
+      {
+        "text": "ein",
+        "start": 14.579,
+        "end": 14.699
+      },
+      {
+        "text": "paar",
+        "start": 14.719,
+        "end": 14.939
+      },
+      {
+        "text": "Monaten",
+        "start": 14.959,
+        "end": 15.4
+      },
+      {
+        "text": "so",
+        "start": 15.44,
+        "end": 15.58
+      },
+      {
+        "text": "viel",
+        "start": 15.62,
+        "end": 15.88
+      },
+      {
+        "text": "zugelegt?",
+        "start": 15.92,
+        "end": 17.061
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Woran liegt das?",
+    "start": 17.081,
+    "end": 18.221,
+    "words": [
+      {
+        "text": "Woran",
+        "start": 17.081,
+        "end": 17.501
+      },
+      {
+        "text": "liegt",
+        "start": 17.541,
+        "end": 17.761
+      },
+      {
+        "text": "das?",
+        "start": 17.801,
+        "end": 18.221
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich habe keine Ahnung, wie ich so viel zugenommen haben könnte.",
+    "start": 18.261,
+    "end": 20.823,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 18.261,
+        "end": 18.341
+      },
+      {
+        "text": "habe",
+        "start": 18.361,
+        "end": 18.581
+      },
+      {
+        "text": "keine",
+        "start": 18.602,
+        "end": 18.822
+      },
+      {
+        "text": "Ahnung,",
+        "start": 18.862,
+        "end": 19.122
+      },
+      {
+        "text": "wie",
+        "start": 19.142,
+        "end": 19.222
+      },
+      {
+        "text": "ich",
+        "start": 19.262,
+        "end": 19.362
+      },
+      {
+        "text": "so",
+        "start": 19.402,
+        "end": 19.502
+      },
+      {
+        "text": "viel",
+        "start": 19.542,
+        "end": 19.742
+      },
+      {
+        "text": "zugenommen",
+        "start": 19.782,
+        "end": 20.222
+      },
+      {
+        "text": "haben",
+        "start": 20.262,
+        "end": 20.523
+      },
+      {
+        "text": "könnte.",
+        "start": 20.563,
+        "end": 20.823
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Und ob ich das weiß?",
+    "start": 23.743,
+    "end": 25.423,
+    "words": [
+      {
+        "text": "Und",
+        "start": 23.743,
+        "end": 24.103
+      },
+      {
+        "text": "ob",
+        "start": 24.163,
+        "end": 24.283
+      },
+      {
+        "text": "ich",
+        "start": 24.323,
+        "end": 24.403
+      },
+      {
+        "text": "das",
+        "start": 24.443,
+        "end": 24.583
+      },
+      {
+        "text": "weiß?",
+        "start": 24.603,
+        "end": 25.423
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Möchtest du vielleicht noch eine Portion?",
+    "start": 25.443,
+    "end": 29.004,
+    "words": [
+      {
+        "text": "Möchtest",
+        "start": 25.443,
+        "end": 25.783
+      },
+      {
+        "text": "du",
+        "start": 25.803,
+        "end": 25.963
+      },
+      {
+        "text": "vielleicht",
+        "start": 26.003,
+        "end": 26.604
+      },
+      {
+        "text": "noch",
+        "start": 26.624,
+        "end": 26.824
+      },
+      {
+        "text": "eine",
+        "start": 26.864,
+        "end": 27.044
+      },
+      {
+        "text": "Portion?",
+        "start": 27.084,
+        "end": 29.004
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ich wusste gar nicht, dass in einer glücklichen Ehe solche Fallstricke lauern.",
+    "start": 29.064,
+    "end": 33.805,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 29.064,
+        "end": 29.204
+      },
+      {
+        "text": "wusste",
+        "start": 29.244,
+        "end": 29.564
+      },
+      {
+        "text": "gar",
+        "start": 29.604,
+        "end": 29.744
+      },
+      {
+        "text": "nicht,",
+        "start": 29.764,
+        "end": 29.924
+      },
+      {
+        "text": "dass",
+        "start": 29.964,
+        "end": 30.124
+      },
+      {
+        "text": "in",
+        "start": 30.164,
+        "end": 30.264
+      },
+      {
+        "text": "einer",
+        "start": 30.304,
+        "end": 30.464
+      },
+      {
+        "text": "glücklichen",
+        "start": 30.504,
+        "end": 30.984
+      },
+      {
+        "text": "Ehe",
+        "start": 31.044,
+        "end": 31.304
+      },
+      {
+        "text": "solche",
+        "start": 31.324,
+        "end": 31.704
+      },
+      {
+        "text": "Fallstricke",
+        "start": 31.724,
+        "end": 32.285
+      },
+      {
+        "text": "lauern.",
+        "start": 32.325,
+        "end": 33.805
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Aber wie kann das sein?",
+    "start": 33.865,
+    "end": 36.625,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 33.865,
+        "end": 34.565
+      },
+      {
+        "text": "wie",
+        "start": 34.585,
+        "end": 34.705
+      },
+      {
+        "text": "kann",
+        "start": 34.745,
+        "end": 34.905
+      },
+      {
+        "text": "das",
+        "start": 34.945,
+        "end": 35.125
+      },
+      {
+        "text": "sein?",
+        "start": 35.165,
+        "end": 36.625
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Meine Frau ist doch immer ungefähr das gleiche wie ich.",
+    "start": 36.665,
+    "end": 39.786,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 36.665,
+        "end": 36.905
+      },
+      {
+        "text": "Frau",
+        "start": 36.945,
+        "end": 37.185
+      },
+      {
+        "text": "ist",
+        "start": 37.225,
+        "end": 37.345
+      },
+      {
+        "text": "doch",
+        "start": 37.365,
+        "end": 37.525
+      },
+      {
+        "text": "immer",
+        "start": 37.565,
+        "end": 37.766
+      },
+      {
+        "text": "ungefähr",
+        "start": 37.786,
+        "end": 38.146
+      },
+      {
+        "text": "das",
+        "start": 38.166,
+        "end": 38.326
+      },
+      {
+        "text": "gleiche",
+        "start": 38.366,
+        "end": 38.666
+      },
+      {
+        "text": "wie",
+        "start": 38.706,
+        "end": 38.826
+      },
+      {
+        "text": "ich.",
+        "start": 38.866,
+        "end": 39.786
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wie kommt es, dass sich bei ihr gar nichts verändert?",
+    "start": 39.826,
+    "end": 44.147,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 39.826,
+        "end": 40.006
+      },
+      {
+        "text": "kommt",
+        "start": 40.046,
+        "end": 40.226
+      },
+      {
+        "text": "es,",
+        "start": 40.286,
+        "end": 40.366
+      },
+      {
+        "text": "dass",
+        "start": 40.406,
+        "end": 40.526
+      },
+      {
+        "text": "sich",
+        "start": 40.566,
+        "end": 40.686
+      },
+      {
+        "text": "bei",
+        "start": 40.706,
+        "end": 40.826
+      },
+      {
+        "text": "ihr",
+        "start": 40.866,
+        "end": 41.006
+      },
+      {
+        "text": "gar",
+        "start": 41.026,
+        "end": 41.166
+      },
+      {
+        "text": "nichts",
+        "start": 41.186,
+        "end": 41.426
+      },
+      {
+        "text": "verändert?",
+        "start": 41.446,
+        "end": 44.147
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Du, Tsukasa?",
+    "start": 44.187,
+    "end": 45.227,
+    "words": [
+      {
+        "text": "Du,",
+        "start": 44.187,
+        "end": 44.507
+      },
+      {
+        "text": "Tsukasa?",
+        "start": 44.527,
+        "end": 45.227
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Tsukasa!",
+    "start": 45.247,
+    "end": 49.368,
+    "words": [
+      {
+        "text": "Tsukasa!",
+        "start": 45.247,
+        "end": 49.368
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Also... Hey, Naza!",
+    "start": 49.428,
+    "end": 51.168,
+    "words": [
+      {
+        "text": "Also...",
+        "start": 49.428,
+        "end": 49.868
+      },
+      {
+        "text": "Hey,",
+        "start": 49.888,
+        "end": 50.828
+      },
+      {
+        "text": "Naza!",
+        "start": 50.848,
+        "end": 51.168
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " So schlank?",
+    "start": 52.215,
+    "end": 53.476,
+    "words": [
+      {
+        "text": "So",
+        "start": 52.215,
+        "end": 52.375
+      },
+      {
+        "text": "schlank?",
+        "start": 52.415,
+        "end": 53.476
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Meine Frau ist erstaunlich schlank.",
+    "start": 53.516,
+    "end": 55.498,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 53.516,
+        "end": 53.756
+      },
+      {
+        "text": "Frau",
+        "start": 53.776,
+        "end": 53.956
+      },
+      {
+        "text": "ist",
+        "start": 54.017,
+        "end": 54.117
+      },
+      {
+        "text": "erstaunlich",
+        "start": 54.177,
+        "end": 54.697
+      },
+      {
+        "text": "schlank.",
+        "start": 54.737,
+        "end": 55.498
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Wieso?",
+    "start": 55.538,
+    "end": 59.941,
+    "words": [
+      {
+        "text": "Wieso?",
+        "start": 55.538,
+        "end": 59.941
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Mein Schatz, ist es möglich, dass du zugenommen hast?",
+    "start": 59.981,
+    "end": 62.543,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 59.981,
+        "end": 60.181
+      },
+      {
+        "text": "Schatz,",
+        "start": 60.221,
+        "end": 60.541
+      },
+      {
+        "text": "ist",
+        "start": 60.581,
+        "end": 60.701
+      },
+      {
+        "text": "es",
+        "start": 60.761,
+        "end": 60.942
+      },
+      {
+        "text": "möglich,",
+        "start": 60.982,
+        "end": 61.342
+      },
+      {
+        "text": "dass",
+        "start": 61.382,
+        "end": 61.602
+      },
+      {
+        "text": "du",
+        "start": 61.622,
+        "end": 61.862
+      },
+      {
+        "text": "zugenommen",
+        "start": 61.882,
+        "end": 62.343
+      },
+      {
+        "text": "hast?",
+        "start": 62.363,
+        "end": 62.543
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Was?",
+    "start": 63.584,
+    "end": 64.084,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 63.584,
+        "end": 64.084
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Wie kommst du denn darauf, Zucasserschatz?",
+    "start": 64.104,
+    "end": 66.165,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 64.104,
+        "end": 64.264
+      },
+      {
+        "text": "kommst",
+        "start": 64.304,
+        "end": 64.544
+      },
+      {
+        "text": "du",
+        "start": 64.564,
+        "end": 64.664
+      },
+      {
+        "text": "denn",
+        "start": 64.704,
+        "end": 64.885
+      },
+      {
+        "text": "darauf,",
+        "start": 64.905,
+        "end": 65.285
+      },
+      {
+        "text": "Zucasserschatz?",
+        "start": 65.325,
+        "end": 66.165
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Sehe ich etwa so aus oder warum sagst du sowas?",
+    "start": 66.185,
+    "end": 68.908,
+    "words": [
+      {
+        "text": "Sehe",
+        "start": 66.185,
+        "end": 66.346
+      },
+      {
+        "text": "ich",
+        "start": 66.386,
+        "end": 66.526
+      },
+      {
+        "text": "etwa",
+        "start": 66.566,
+        "end": 66.806
+      },
+      {
+        "text": "so",
+        "start": 66.846,
+        "end": 67.006
+      },
+      {
+        "text": "aus",
+        "start": 67.066,
+        "end": 67.246
+      },
+      {
+        "text": "oder",
+        "start": 67.266,
+        "end": 67.547
+      },
+      {
+        "text": "warum",
+        "start": 67.587,
+        "end": 67.967
+      },
+      {
+        "text": "sagst",
+        "start": 67.987,
+        "end": 68.287
+      },
+      {
+        "text": "du",
+        "start": 68.307,
+        "end": 68.427
+      },
+      {
+        "text": "sowas?",
+        "start": 68.447,
+        "end": 68.908
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Naja, man sieht's dir wohl noch nicht richtig an, aber...",
+    "start": 69.468,
+    "end": 71.99,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 69.468,
+        "end": 69.868
+      },
+      {
+        "text": "man",
+        "start": 69.908,
+        "end": 70.048
+      },
+      {
+        "text": "sieht's",
+        "start": 70.088,
+        "end": 70.309
+      },
+      {
+        "text": "dir",
+        "start": 70.329,
+        "end": 70.449
+      },
+      {
+        "text": "wohl",
+        "start": 70.469,
+        "end": 70.629
+      },
+      {
+        "text": "noch",
+        "start": 70.649,
+        "end": 70.809
+      },
+      {
+        "text": "nicht",
+        "start": 70.829,
+        "end": 71.009
+      },
+      {
+        "text": "richtig",
+        "start": 71.049,
+        "end": 71.409
+      },
+      {
+        "text": "an,",
+        "start": 71.489,
+        "end": 71.79
+      },
+      {
+        "text": "aber...",
+        "start": 71.83,
+        "end": 71.99
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Ich hab recht, oder?",
+    "start": 73.418,
+    "end": 75.321,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 73.418,
+        "end": 73.498
+      },
+      {
+        "text": "hab",
+        "start": 73.518,
+        "end": 73.639
+      },
+      {
+        "text": "recht,",
+        "start": 73.679,
+        "end": 73.919
+      },
+      {
+        "text": "oder?",
+        "start": 74.059,
+        "end": 75.321
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Hast du wirklich zugenommen?",
+    "start": 75.341,
+    "end": 78.786,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 75.341,
+        "end": 75.521
+      },
+      {
+        "text": "du",
+        "start": 75.541,
+        "end": 75.741
+      },
+      {
+        "text": "wirklich",
+        "start": 75.782,
+        "end": 76.222
+      },
+      {
+        "text": "zugenommen?",
+        "start": 76.262,
+        "end": 78.786
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ja.",
+    "start": 78.826,
+    "end": 79.627,
+    "words": [
+      {
+        "text": "Ja.",
+        "start": 78.826,
+        "end": 79.627
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Verstehe.",
+    "start": 79.667,
+    "end": 80.468,
+    "words": [
+      {
+        "text": "Verstehe.",
+        "start": 79.667,
+        "end": 80.468
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Aber wahrscheinlich bin ich selbst schuld daran.",
+    "start": 80.488,
+    "end": 82.931,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 80.488,
+        "end": 80.688
+      },
+      {
+        "text": "wahrscheinlich",
+        "start": 80.728,
+        "end": 81.229
+      },
+      {
+        "text": "bin",
+        "start": 81.249,
+        "end": 81.369
+      },
+      {
+        "text": "ich",
+        "start": 81.389,
+        "end": 81.529
+      },
+      {
+        "text": "selbst",
+        "start": 81.549,
+        "end": 81.83
+      },
+      {
+        "text": "schuld",
+        "start": 81.87,
+        "end": 82.15
+      },
+      {
+        "text": "daran.",
+        "start": 82.17,
+        "end": 82.931
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Du bist immer so süß, wenn dir mein Essen schmeckt, dass ich vielleicht immer mal wieder zu viel koche.",
+    "start": 82.971,
+    "end": 88.018,
+    "words": [
+      {
+        "text": "Du",
+        "start": 82.971,
+        "end": 83.052
+      },
+      {
+        "text": "bist",
+        "start": 83.072,
+        "end": 83.312
+      },
+      {
+        "text": "immer",
+        "start": 83.352,
+        "end": 83.572
+      },
+      {
+        "text": "so",
+        "start": 83.592,
+        "end": 83.753
+      },
+      {
+        "text": "süß,",
+        "start": 83.793,
+        "end": 84.013
+      },
+      {
+        "text": "wenn",
+        "start": 84.033,
+        "end": 84.193
+      },
+      {
+        "text": "dir",
+        "start": 84.233,
+        "end": 84.353
+      },
+      {
+        "text": "mein",
+        "start": 84.393,
+        "end": 84.554
+      },
+      {
+        "text": "Essen",
+        "start": 84.594,
+        "end": 84.854
+      },
+      {
+        "text": "schmeckt,",
+        "start": 84.874,
+        "end": 85.315
+      },
+      {
+        "text": "dass",
+        "start": 85.355,
+        "end": 85.815
+      },
+      {
+        "text": "ich",
+        "start": 85.855,
+        "end": 85.996
+      },
+      {
+        "text": "vielleicht",
+        "start": 86.036,
+        "end": 86.456
+      },
+      {
+        "text": "immer",
+        "start": 86.496,
+        "end": 86.657
+      },
+      {
+        "text": "mal",
+        "start": 86.717,
+        "end": 86.877
+      },
+      {
+        "text": "wieder",
+        "start": 86.917,
+        "end": 87.157
+      },
+      {
+        "text": "zu",
+        "start": 87.197,
+        "end": 87.378
+      },
+      {
+        "text": "viel",
+        "start": 87.418,
+        "end": 87.698
+      },
+      {
+        "text": "koche.",
+        "start": 87.738,
+        "end": 88.018
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Aber das ist doch nicht deine Schuld!",
+    "start": 88.959,
+    "end": 90.86,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 88.959,
+        "end": 89.38
+      },
+      {
+        "text": "das",
+        "start": 89.42,
+        "end": 89.56
+      },
+      {
+        "text": "ist",
+        "start": 89.6,
+        "end": 89.7
+      },
+      {
+        "text": "doch",
+        "start": 89.74,
+        "end": 89.86
+      },
+      {
+        "text": "nicht",
+        "start": 89.9,
+        "end": 90.06
+      },
+      {
+        "text": "deine",
+        "start": 90.08,
+        "end": 90.36
+      },
+      {
+        "text": "Schuld!",
+        "start": 90.4,
+        "end": 90.86
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Dass ich zu viel esse, liegt doch nicht an dir, sondern ganz allein an mir!",
+    "start": 90.9,
+    "end": 94.822,
+    "words": [
+      {
+        "text": "Dass",
+        "start": 90.9,
+        "end": 91.04
+      },
+      {
+        "text": "ich",
+        "start": 91.08,
+        "end": 91.221
+      },
+      {
+        "text": "zu",
+        "start": 91.261,
+        "end": 91.381
+      },
+      {
+        "text": "viel",
+        "start": 91.401,
+        "end": 91.601
+      },
+      {
+        "text": "esse,",
+        "start": 91.641,
+        "end": 91.861
+      },
+      {
+        "text": "liegt",
+        "start": 91.901,
+        "end": 92.041
+      },
+      {
+        "text": "doch",
+        "start": 92.061,
+        "end": 92.221
+      },
+      {
+        "text": "nicht",
+        "start": 92.261,
+        "end": 92.401
+      },
+      {
+        "text": "an",
+        "start": 92.441,
+        "end": 92.601
+      },
+      {
+        "text": "dir,",
+        "start": 92.621,
+        "end": 92.881
+      },
+      {
+        "text": "sondern",
+        "start": 92.901,
+        "end": 93.222
+      },
+      {
+        "text": "ganz",
+        "start": 93.262,
+        "end": 93.502
+      },
+      {
+        "text": "allein",
+        "start": 93.522,
+        "end": 93.822
+      },
+      {
+        "text": "an",
+        "start": 93.862,
+        "end": 94.022
+      },
+      {
+        "text": "mir!",
+        "start": 94.062,
+        "end": 94.822
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ich danke dir, aber ich hab ein Auge drauf.",
+    "start": 94.883,
+    "end": 98.364,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 94.883,
+        "end": 95.043
+      },
+      {
+        "text": "danke",
+        "start": 95.083,
+        "end": 95.403
+      },
+      {
+        "text": "dir,",
+        "start": 95.443,
+        "end": 95.863
+      },
+      {
+        "text": "aber",
+        "start": 95.903,
+        "end": 96.063
+      },
+      {
+        "text": "ich",
+        "start": 96.083,
+        "end": 96.183
+      },
+      {
+        "text": "hab",
+        "start": 96.203,
+        "end": 96.343
+      },
+      {
+        "text": "ein",
+        "start": 96.383,
+        "end": 96.543
+      },
+      {
+        "text": "Auge",
+        "start": 96.583,
+        "end": 96.784
+      },
+      {
+        "text": "drauf.",
+        "start": 96.844,
+        "end": 98.364
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Aber lass jetzt bloß dich den Kopf fängen, okay?",
+    "start": 98.424,
+    "end": 100.986,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 98.424,
+        "end": 98.625
+      },
+      {
+        "text": "lass",
+        "start": 98.665,
+        "end": 98.825
+      },
+      {
+        "text": "jetzt",
+        "start": 98.845,
+        "end": 99.005
+      },
+      {
+        "text": "bloß",
+        "start": 99.025,
+        "end": 99.265
+      },
+      {
+        "text": "dich",
+        "start": 99.285,
+        "end": 99.445
+      },
+      {
+        "text": "den",
+        "start": 99.465,
+        "end": 99.605
+      },
+      {
+        "text": "Kopf",
+        "start": 99.625,
+        "end": 99.825
+      },
+      {
+        "text": "fängen,",
+        "start": 99.865,
+        "end": 100.085
+      },
+      {
+        "text": "okay?",
+        "start": 100.145,
+        "end": 100.986
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Nur weil du ein bisschen mollig wirst, find ich dich kein bisschen weniger niedlich.",
+    "start": 101.006,
+    "end": 107.99,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 101.006,
+        "end": 101.126
+      },
+      {
+        "text": "weil",
+        "start": 101.146,
+        "end": 101.266
+      },
+      {
+        "text": "du",
+        "start": 101.306,
+        "end": 101.406
+      },
+      {
+        "text": "ein",
+        "start": 101.426,
+        "end": 101.546
+      },
+      {
+        "text": "bisschen",
+        "start": 101.566,
+        "end": 101.926
+      },
+      {
+        "text": "mollig",
+        "start": 101.966,
+        "end": 102.347
+      },
+      {
+        "text": "wirst,",
+        "start": 102.387,
+        "end": 103.027
+      },
+      {
+        "text": "find",
+        "start": 103.047,
+        "end": 103.187
+      },
+      {
+        "text": "ich",
+        "start": 103.227,
+        "end": 103.327
+      },
+      {
+        "text": "dich",
+        "start": 103.367,
+        "end": 103.587
+      },
+      {
+        "text": "kein",
+        "start": 103.607,
+        "end": 103.847
+      },
+      {
+        "text": "bisschen",
+        "start": 103.887,
+        "end": 104.368
+      },
+      {
+        "text": "weniger",
+        "start": 104.408,
+        "end": 104.868
+      },
+      {
+        "text": "niedlich.",
+        "start": 104.888,
+        "end": 107.99
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Was ist denn plötzlich mit dir los, mein Schatz?",
+    "start": 108.03,
+    "end": 110.391,
+    "words": [
+      {
+        "text": "Was",
+        "start": 108.03,
+        "end": 108.19
+      },
+      {
+        "text": "ist",
+        "start": 108.23,
+        "end": 108.35
+      },
+      {
+        "text": "denn",
+        "start": 108.37,
+        "end": 108.57
+      },
+      {
+        "text": "plötzlich",
+        "start": 108.61,
+        "end": 109.01
+      },
+      {
+        "text": "mit",
+        "start": 109.05,
+        "end": 109.15
+      },
+      {
+        "text": "dir",
+        "start": 109.17,
+        "end": 109.31
+      },
+      {
+        "text": "los,",
+        "start": 109.35,
+        "end": 109.571
+      },
+      {
+        "text": "mein",
+        "start": 109.591,
+        "end": 109.811
+      },
+      {
+        "text": "Schatz?",
+        "start": 109.831,
+        "end": 110.391
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Warum macht dich diese Sache denn so fertig?",
+    "start": 110.411,
+    "end": 112.892,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 110.411,
+        "end": 110.691
+      },
+      {
+        "text": "macht",
+        "start": 110.731,
+        "end": 110.931
+      },
+      {
+        "text": "dich",
+        "start": 110.951,
+        "end": 111.111
+      },
+      {
+        "text": "diese",
+        "start": 111.151,
+        "end": 111.391
+      },
+      {
+        "text": "Sache",
+        "start": 111.432,
+        "end": 111.672
+      },
+      {
+        "text": "denn",
+        "start": 111.712,
+        "end": 111.872
+      },
+      {
+        "text": "so",
+        "start": 111.912,
+        "end": 112.032
+      },
+      {
+        "text": "fertig?",
+        "start": 112.112,
+        "end": 112.892
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Es... Es ist gut möglich, dass ich mich in letzter Zeit etwas habe gehen lassen.",
+    "start": 112.952,
+    "end": 117.595,
+    "words": [
+      {
+        "text": "Es...",
+        "start": 112.952,
+        "end": 114.013
+      },
+      {
+        "text": "Es",
+        "start": 114.073,
+        "end": 114.193
+      },
+      {
+        "text": "ist",
+        "start": 114.253,
+        "end": 114.453
+      },
+      {
+        "text": "gut",
+        "start": 114.493,
+        "end": 114.753
+      },
+      {
+        "text": "möglich,",
+        "start": 114.793,
+        "end": 115.174
+      },
+      {
+        "text": "dass",
+        "start": 115.214,
+        "end": 115.374
+      },
+      {
+        "text": "ich",
+        "start": 115.414,
+        "end": 115.534
+      },
+      {
+        "text": "mich",
+        "start": 115.554,
+        "end": 115.694
+      },
+      {
+        "text": "in",
+        "start": 115.734,
+        "end": 115.874
+      },
+      {
+        "text": "letzter",
+        "start": 115.894,
+        "end": 116.194
+      },
+      {
+        "text": "Zeit",
+        "start": 116.234,
+        "end": 116.494
+      },
+      {
+        "text": "etwas",
+        "start": 116.534,
+        "end": 116.794
+      },
+      {
+        "text": "habe",
+        "start": 116.834,
+        "end": 117.075
+      },
+      {
+        "text": "gehen",
+        "start": 117.115,
+        "end": 117.335
+      },
+      {
+        "text": "lassen.",
+        "start": 117.355,
+        "end": 117.595
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": " Aber das ist doch kein Weltuntergang!",
+    "start": 118.403,
+    "end": 120.584,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 118.403,
+        "end": 118.683
+      },
+      {
+        "text": "das",
+        "start": 118.723,
+        "end": 118.883
+      },
+      {
+        "text": "ist",
+        "start": 118.903,
+        "end": 119.043
+      },
+      {
+        "text": "doch",
+        "start": 119.063,
+        "end": 119.263
+      },
+      {
+        "text": "kein",
+        "start": 119.283,
+        "end": 119.503
+      },
+      {
+        "text": "Weltuntergang!",
+        "start": 119.523,
+        "end": 120.584
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Nein, aber... Jetzt, wo ich meinen eigenen Fehler erkannt habe, kann ich das doch selbst wieder in Ordnung bringen!",
+    "start": 120.644,
+    "end": 126.546,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 120.644,
+        "end": 121.204
+      },
+      {
+        "text": "aber...",
+        "start": 121.304,
+        "end": 122.084
+      },
+      {
+        "text": "Jetzt,",
+        "start": 122.124,
+        "end": 122.344
+      },
+      {
+        "text": "wo",
+        "start": 122.384,
+        "end": 122.484
+      },
+      {
+        "text": "ich",
+        "start": 122.524,
+        "end": 122.604
+      },
+      {
+        "text": "meinen",
+        "start": 122.645,
+        "end": 122.845
+      },
+      {
+        "text": "eigenen",
+        "start": 122.885,
+        "end": 123.265
+      },
+      {
+        "text": "Fehler",
+        "start": 123.285,
+        "end": 123.505
+      },
+      {
+        "text": "erkannt",
+        "start": 123.545,
+        "end": 123.885
+      },
+      {
+        "text": "habe,",
+        "start": 123.925,
+        "end": 124.205
+      },
+      {
+        "text": "kann",
+        "start": 124.225,
+        "end": 124.345
+      },
+      {
+        "text": "ich",
+        "start": 124.385,
+        "end": 124.465
+      },
+      {
+        "text": "das",
+        "start": 124.485,
+        "end": 124.625
+      },
+      {
+        "text": "doch",
+        "start": 124.665,
+        "end": 124.805
+      },
+      {
+        "text": "selbst",
+        "start": 124.825,
+        "end": 125.025
+      },
+      {
+        "text": "wieder",
+        "start": 125.065,
+        "end": 125.245
+      },
+      {
+        "text": "in",
+        "start": 125.285,
+        "end": 125.405
+      },
+      {
+        "text": "Ordnung",
+        "start": 125.445,
+        "end": 125.846
+      },
+      {
+        "text": "bringen!",
+        "start": 125.866,
+        "end": 126.546
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Mit einer Diät und Kalorienreduktion mit Sport!",
+    "start": 126.586,
+    "end": 130.187,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 126.586,
+        "end": 126.886
+      },
+      {
+        "text": "einer",
+        "start": 126.926,
+        "end": 127.366
+      },
+      {
+        "text": "Diät",
+        "start": 127.406,
+        "end": 127.966
+      },
+      {
+        "text": "und",
+        "start": 128.006,
+        "end": 128.086
+      },
+      {
+        "text": "Kalorienreduktion",
+        "start": 128.186,
+        "end": 129.107
+      },
+      {
+        "text": "mit",
+        "start": 129.127,
+        "end": 129.247
+      },
+      {
+        "text": "Sport!",
+        "start": 129.307,
+        "end": 130.187
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Wenn ich mehr Kalorien verbrenne, als ich aufnehme, kann ich gar nicht zunehmen!",
+    "start": 130.207,
+    "end": 135.169,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 130.207,
+        "end": 130.367
+      },
+      {
+        "text": "ich",
+        "start": 130.427,
+        "end": 130.527
+      },
+      {
+        "text": "mehr",
+        "start": 130.567,
+        "end": 130.747
+      },
+      {
+        "text": "Kalorien",
+        "start": 130.787,
+        "end": 131.227
+      },
+      {
+        "text": "verbrenne,",
+        "start": 131.267,
+        "end": 131.688
+      },
+      {
+        "text": "als",
+        "start": 131.748,
+        "end": 131.888
+      },
+      {
+        "text": "ich",
+        "start": 131.928,
+        "end": 132.048
+      },
+      {
+        "text": "aufnehme,",
+        "start": 132.088,
+        "end": 132.748
+      },
+      {
+        "text": "kann",
+        "start": 132.768,
+        "end": 132.948
+      },
+      {
+        "text": "ich",
+        "start": 132.988,
+        "end": 133.108
+      },
+      {
+        "text": "gar",
+        "start": 133.148,
+        "end": 133.288
+      },
+      {
+        "text": "nicht",
+        "start": 133.308,
+        "end": 133.508
+      },
+      {
+        "text": "zunehmen!",
+        "start": 133.528,
+        "end": 135.169
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Ab heute werde ich Sport treiben!",
+    "start": 135.249,
+    "end": 138.01,
+    "words": [
+      {
+        "text": "Ab",
+        "start": 135.249,
+        "end": 135.509
+      },
+      {
+        "text": "heute",
+        "start": 135.529,
+        "end": 135.989
+      },
+      {
+        "text": "werde",
+        "start": 136.009,
+        "end": 136.329
+      },
+      {
+        "text": "ich",
+        "start": 136.369,
+        "end": 136.509
+      },
+      {
+        "text": "Sport",
+        "start": 136.529,
+        "end": 136.869
+      },
+      {
+        "text": "treiben!",
+        "start": 136.989,
+        "end": 138.01
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Und jetzt ist er der Meinung, jeden Tag 10 Kilometer laufen zu müssen.",
+    "start": 138.07,
+    "end": 141.831,
+    "words": [
+      {
+        "text": "Und",
+        "start": 138.07,
+        "end": 138.29
+      },
+      {
+        "text": "jetzt",
+        "start": 138.33,
+        "end": 138.57
+      },
+      {
+        "text": "ist",
+        "start": 138.63,
+        "end": 138.75
+      },
+      {
+        "text": "er",
+        "start": 138.79,
+        "end": 138.89
+      },
+      {
+        "text": "der",
+        "start": 138.91,
+        "end": 139.05
+      },
+      {
+        "text": "Meinung,",
+        "start": 139.09,
+        "end": 139.49
+      },
+      {
+        "text": "jeden",
+        "start": 139.53,
+        "end": 139.77
+      },
+      {
+        "text": "Tag",
+        "start": 139.81,
+        "end": 140.11
+      },
+      {
+        "text": "Kilometer",
+        "start": 140.391,
+        "end": 140.871
+      },
+      {
+        "text": "laufen",
+        "start": 140.911,
+        "end": 141.211
+      },
+      {
+        "text": "zu",
+        "start": 141.251,
+        "end": 141.351
+      },
+      {
+        "text": "müssen.",
+        "start": 141.391,
+        "end": 141.831
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Ob mein Schatz fit genug dafür ist, weiß ich auch nicht.",
+    "start": 141.871,
+    "end": 144.412,
+    "words": [
+      {
+        "text": "Ob",
+        "start": 141.871,
+        "end": 142.071
+      },
+      {
+        "text": "mein",
+        "start": 142.111,
+        "end": 142.191
+      },
+      {
+        "text": "Schatz",
+        "start": 142.211,
+        "end": 142.611
+      },
+      {
+        "text": "fit",
+        "start": 142.631,
+        "end": 142.871
+      },
+      {
+        "text": "genug",
+        "start": 142.891,
+        "end": 143.152
+      },
+      {
+        "text": "dafür",
+        "start": 143.192,
+        "end": 143.432
+      },
+      {
+        "text": "ist,",
+        "start": 143.472,
+        "end": 143.652
+      },
+      {
+        "text": "weiß",
+        "start": 143.672,
+        "end": 143.872
+      },
+      {
+        "text": "ich",
+        "start": 143.892,
+        "end": 144.052
+      },
+      {
+        "text": "auch",
+        "start": 144.092,
+        "end": 144.252
+      },
+      {
+        "text": "nicht.",
+        "start": 144.292,
+        "end": 144.412
+      }
+    ]
+  }
+]

@@ -1,0 +1,1488 @@
+[
+  {
+    "id": 0,
+    "text": " Hey, weiser Gas.",
+    "start": 1.195,
+    "end": 3.816,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 1.195,
+        "end": 2.115
+      },
+      {
+        "text": "weiser",
+        "start": 2.155,
+        "end": 2.535
+      },
+      {
+        "text": "Gas.",
+        "start": 2.575,
+        "end": 3.816
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Du kannst mich Gas nennen.",
+    "start": 3.856,
+    "end": 5.376,
+    "words": [
+      {
+        "text": "Du",
+        "start": 3.856,
+        "end": 4.016
+      },
+      {
+        "text": "kannst",
+        "start": 4.036,
+        "end": 4.356
+      },
+      {
+        "text": "mich",
+        "start": 4.396,
+        "end": 4.636
+      },
+      {
+        "text": "Gas",
+        "start": 4.676,
+        "end": 4.936
+      },
+      {
+        "text": "nennen.",
+        "start": 4.996,
+        "end": 5.376
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Okay, alter Gas.",
+    "start": 5.436,
+    "end": 7.477,
+    "words": [
+      {
+        "text": "Okay,",
+        "start": 5.436,
+        "end": 5.876
+      },
+      {
+        "text": "alter",
+        "start": 5.916,
+        "end": 6.196
+      },
+      {
+        "text": "Gas.",
+        "start": 6.236,
+        "end": 7.477
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wem gehörte das hier?",
+    "start": 7.537,
+    "end": 9.517,
+    "words": [
+      {
+        "text": "Wem",
+        "start": 7.537,
+        "end": 7.757
+      },
+      {
+        "text": "gehörte",
+        "start": 7.777,
+        "end": 8.177
+      },
+      {
+        "text": "das",
+        "start": 8.217,
+        "end": 8.437
+      },
+      {
+        "text": "hier?",
+        "start": 8.457,
+        "end": 9.517
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ihr gehörte Telperion, der Silberseite.",
+    "start": 9.557,
+    "end": 13.218,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 9.557,
+        "end": 9.697
+      },
+      {
+        "text": "gehörte",
+        "start": 9.737,
+        "end": 10.277
+      },
+      {
+        "text": "Telperion,",
+        "start": 10.317,
+        "end": 11.597
+      },
+      {
+        "text": "der",
+        "start": 11.638,
+        "end": 11.818
+      },
+      {
+        "text": "Silberseite.",
+        "start": 11.858,
+        "end": 13.218
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ach so.",
+    "start": 13.298,
+    "end": 14.738,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 13.298,
+        "end": 13.538
+      },
+      {
+        "text": "so.",
+        "start": 13.598,
+        "end": 14.738
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Kommst du zufällig aus dem großen Wald von Eryn?",
+    "start": 14.778,
+    "end": 17.959,
+    "words": [
+      {
+        "text": "Kommst",
+        "start": 14.778,
+        "end": 15.078
+      },
+      {
+        "text": "du",
+        "start": 15.098,
+        "end": 15.258
+      },
+      {
+        "text": "zufällig",
+        "start": 15.298,
+        "end": 15.839
+      },
+      {
+        "text": "aus",
+        "start": 15.859,
+        "end": 15.999
+      },
+      {
+        "text": "dem",
+        "start": 16.039,
+        "end": 16.219
+      },
+      {
+        "text": "großen",
+        "start": 16.259,
+        "end": 16.599
+      },
+      {
+        "text": "Wald",
+        "start": 16.639,
+        "end": 16.859
+      },
+      {
+        "text": "von",
+        "start": 16.899,
+        "end": 17.159
+      },
+      {
+        "text": "Eryn?",
+        "start": 17.239,
+        "end": 17.959
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ja, genauso wie er.",
+    "start": 17.999,
+    "end": 20.2,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 17.999,
+        "end": 18.719
+      },
+      {
+        "text": "genauso",
+        "start": 18.779,
+        "end": 19.199
+      },
+      {
+        "text": "wie",
+        "start": 19.219,
+        "end": 19.379
+      },
+      {
+        "text": "er.",
+        "start": 19.419,
+        "end": 20.2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Dieses silberne Haar, bist du zufällig mit Telperion verwandt?",
+    "start": 20.24,
+    "end": 24.901,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 20.24,
+        "end": 20.56
+      },
+      {
+        "text": "silberne",
+        "start": 20.62,
+        "end": 21.26
+      },
+      {
+        "text": "Haar,",
+        "start": 21.3,
+        "end": 22.08
+      },
+      {
+        "text": "bist",
+        "start": 22.1,
+        "end": 22.26
+      },
+      {
+        "text": "du",
+        "start": 22.3,
+        "end": 22.44
+      },
+      {
+        "text": "zufällig",
+        "start": 22.48,
+        "end": 22.98
+      },
+      {
+        "text": "mit",
+        "start": 23.02,
+        "end": 23.14
+      },
+      {
+        "text": "Telperion",
+        "start": 23.18,
+        "end": 23.92
+      },
+      {
+        "text": "verwandt?",
+        "start": 23.96,
+        "end": 24.901
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Nur entfernt, aber ja.",
+    "start": 24.941,
+    "end": 26.001,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 24.941,
+        "end": 25.121
+      },
+      {
+        "text": "entfernt,",
+        "start": 25.161,
+        "end": 25.621
+      },
+      {
+        "text": "aber",
+        "start": 25.661,
+        "end": 25.901
+      },
+      {
+        "text": "ja.",
+        "start": 25.921,
+        "end": 26.001
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Ich werde den hier mitnehmen.",
+    "start": 27.262,
+    "end": 29.063,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.262,
+        "end": 27.382
+      },
+      {
+        "text": "werde",
+        "start": 27.422,
+        "end": 27.682
+      },
+      {
+        "text": "den",
+        "start": 27.702,
+        "end": 27.902
+      },
+      {
+        "text": "hier",
+        "start": 27.942,
+        "end": 28.102
+      },
+      {
+        "text": "mitnehmen.",
+        "start": 28.143,
+        "end": 29.063
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Du bist dir wirklich sicher, dass du ihn benutzen kannst?",
+    "start": 29.103,
+    "end": 31.864,
+    "words": [
+      {
+        "text": "Du",
+        "start": 29.103,
+        "end": 29.243
+      },
+      {
+        "text": "bist",
+        "start": 29.263,
+        "end": 29.403
+      },
+      {
+        "text": "dir",
+        "start": 29.423,
+        "end": 29.563
+      },
+      {
+        "text": "wirklich",
+        "start": 29.603,
+        "end": 29.963
+      },
+      {
+        "text": "sicher,",
+        "start": 29.983,
+        "end": 30.224
+      },
+      {
+        "text": "dass",
+        "start": 30.244,
+        "end": 30.404
+      },
+      {
+        "text": "du",
+        "start": 30.424,
+        "end": 30.524
+      },
+      {
+        "text": "ihn",
+        "start": 30.544,
+        "end": 30.664
+      },
+      {
+        "text": "benutzen",
+        "start": 30.684,
+        "end": 31.124
+      },
+      {
+        "text": "kannst?",
+        "start": 31.164,
+        "end": 31.864
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Es heißt, dass ein Unwürdiger, der eine Mithril-Säne spannt, seine Finger verlieren kann.",
+    "start": 31.924,
+    "end": 36.587,
+    "words": [
+      {
+        "text": "Es",
+        "start": 31.924,
+        "end": 32.064
+      },
+      {
+        "text": "heißt,",
+        "start": 32.084,
+        "end": 32.325
+      },
+      {
+        "text": "dass",
+        "start": 32.365,
+        "end": 32.545
+      },
+      {
+        "text": "ein",
+        "start": 32.585,
+        "end": 32.765
+      },
+      {
+        "text": "Unwürdiger,",
+        "start": 32.805,
+        "end": 33.385
+      },
+      {
+        "text": "der",
+        "start": 33.405,
+        "end": 33.565
+      },
+      {
+        "text": "eine",
+        "start": 33.585,
+        "end": 33.765
+      },
+      {
+        "text": "Mithril-Säne",
+        "start": 33.785,
+        "end": 34.626
+      },
+      {
+        "text": "spannt,",
+        "start": 34.666,
+        "end": 34.966
+      },
+      {
+        "text": "seine",
+        "start": 35.006,
+        "end": 35.266
+      },
+      {
+        "text": "Finger",
+        "start": 35.306,
+        "end": 35.646
+      },
+      {
+        "text": "verlieren",
+        "start": 35.666,
+        "end": 36.146
+      },
+      {
+        "text": "kann.",
+        "start": 36.186,
+        "end": 36.587
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Das ist kein Problem.",
+    "start": 36.627,
+    "end": 37.727,
+    "words": [
+      {
+        "text": "Das",
+        "start": 36.627,
+        "end": 36.827
+      },
+      {
+        "text": "ist",
+        "start": 36.867,
+        "end": 37.107
+      },
+      {
+        "text": "kein",
+        "start": 37.147,
+        "end": 37.327
+      },
+      {
+        "text": "Problem.",
+        "start": 37.367,
+        "end": 37.727
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Siehst du?",
+    "start": 37.767,
+    "end": 44.33,
+    "words": [
+      {
+        "text": "Siehst",
+        "start": 37.767,
+        "end": 42.83
+      },
+      {
+        "text": "du?",
+        "start": 42.87,
+        "end": 44.33
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Hm.",
+    "start": 44.45,
+    "end": 44.53,
+    "words": [
+      {
+        "text": "Hm.",
+        "start": 44.45,
+        "end": 44.53
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Und was ist damit?",
+    "start": 48.42,
+    "end": 49.601,
+    "words": [
+      {
+        "text": "Und",
+        "start": 48.42,
+        "end": 48.58
+      },
+      {
+        "text": "was",
+        "start": 48.62,
+        "end": 48.74
+      },
+      {
+        "text": "ist",
+        "start": 48.78,
+        "end": 48.98
+      },
+      {
+        "text": "damit?",
+        "start": 49.021,
+        "end": 49.601
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Das ist die vollständige Rüstung von Bavore, dem Klingenbrecher.",
+    "start": 49.621,
+    "end": 53.484,
+    "words": [
+      {
+        "text": "Das",
+        "start": 49.621,
+        "end": 49.821
+      },
+      {
+        "text": "ist",
+        "start": 49.861,
+        "end": 50.061
+      },
+      {
+        "text": "die",
+        "start": 50.101,
+        "end": 50.221
+      },
+      {
+        "text": "vollständige",
+        "start": 50.241,
+        "end": 50.922
+      },
+      {
+        "text": "Rüstung",
+        "start": 50.982,
+        "end": 51.382
+      },
+      {
+        "text": "von",
+        "start": 51.402,
+        "end": 51.602
+      },
+      {
+        "text": "Bavore,",
+        "start": 51.622,
+        "end": 52.323
+      },
+      {
+        "text": "dem",
+        "start": 52.343,
+        "end": 52.583
+      },
+      {
+        "text": "Klingenbrecher.",
+        "start": 52.623,
+        "end": 53.484
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Es scheint eine Zwergenrüstung zu sein.",
+    "start": 54.224,
+    "end": 57.026,
+    "words": [
+      {
+        "text": "Es",
+        "start": 54.224,
+        "end": 54.344
+      },
+      {
+        "text": "scheint",
+        "start": 54.384,
+        "end": 54.764
+      },
+      {
+        "text": "eine",
+        "start": 54.784,
+        "end": 55.025
+      },
+      {
+        "text": "Zwergenrüstung",
+        "start": 55.065,
+        "end": 56.025
+      },
+      {
+        "text": "zu",
+        "start": 56.045,
+        "end": 56.185
+      },
+      {
+        "text": "sein.",
+        "start": 56.225,
+        "end": 57.026
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Genau.",
+    "start": 57.086,
+    "end": 58.007,
+    "words": [
+      {
+        "text": "Genau.",
+        "start": 57.086,
+        "end": 58.007
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Bavore war ein wandernder Zwergenkrieger.",
+    "start": 58.087,
+    "end": 61.289,
+    "words": [
+      {
+        "text": "Bavore",
+        "start": 58.087,
+        "end": 58.707
+      },
+      {
+        "text": "war",
+        "start": 58.727,
+        "end": 58.847
+      },
+      {
+        "text": "ein",
+        "start": 58.887,
+        "end": 59.087
+      },
+      {
+        "text": "wandernder",
+        "start": 59.147,
+        "end": 59.768
+      },
+      {
+        "text": "Zwergenkrieger.",
+        "start": 59.828,
+        "end": 61.289
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Er nahm an unserer Schlacht gegen den Hochkönig teil und nannte es die Schlacht der Rache für das Eisengebirge.",
+    "start": 61.329,
+    "end": 67.433,
+    "words": [
+      {
+        "text": "Er",
+        "start": 61.329,
+        "end": 61.449
+      },
+      {
+        "text": "nahm",
+        "start": 61.489,
+        "end": 61.669
+      },
+      {
+        "text": "an",
+        "start": 61.689,
+        "end": 61.869
+      },
+      {
+        "text": "unserer",
+        "start": 61.909,
+        "end": 62.25
+      },
+      {
+        "text": "Schlacht",
+        "start": 62.29,
+        "end": 62.65
+      },
+      {
+        "text": "gegen",
+        "start": 62.69,
+        "end": 62.93
+      },
+      {
+        "text": "den",
+        "start": 62.95,
+        "end": 63.13
+      },
+      {
+        "text": "Hochkönig",
+        "start": 63.17,
+        "end": 63.851
+      },
+      {
+        "text": "teil",
+        "start": 63.871,
+        "end": 64.371
+      },
+      {
+        "text": "und",
+        "start": 64.411,
+        "end": 64.591
+      },
+      {
+        "text": "nannte",
+        "start": 64.631,
+        "end": 64.911
+      },
+      {
+        "text": "es",
+        "start": 64.931,
+        "end": 65.091
+      },
+      {
+        "text": "die",
+        "start": 65.132,
+        "end": 65.212
+      },
+      {
+        "text": "Schlacht",
+        "start": 65.252,
+        "end": 65.592
+      },
+      {
+        "text": "der",
+        "start": 65.612,
+        "end": 65.752
+      },
+      {
+        "text": "Rache",
+        "start": 65.812,
+        "end": 66.112
+      },
+      {
+        "text": "für",
+        "start": 66.152,
+        "end": 66.252
+      },
+      {
+        "text": "das",
+        "start": 66.272,
+        "end": 66.432
+      },
+      {
+        "text": "Eisengebirge.",
+        "start": 66.472,
+        "end": 67.433
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Oh.",
+    "start": 67.553,
+    "end": 69.494,
+    "words": [
+      {
+        "text": "Oh.",
+        "start": 67.553,
+        "end": 69.494
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Dann werde ich mir den hier nehmen.",
+    "start": 69.535,
+    "end": 71.616,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 69.535,
+        "end": 69.795
+      },
+      {
+        "text": "werde",
+        "start": 69.835,
+        "end": 70.135
+      },
+      {
+        "text": "ich",
+        "start": 70.175,
+        "end": 70.335
+      },
+      {
+        "text": "mir",
+        "start": 70.375,
+        "end": 70.595
+      },
+      {
+        "text": "den",
+        "start": 70.635,
+        "end": 70.955
+      },
+      {
+        "text": "hier",
+        "start": 71.016,
+        "end": 71.276
+      },
+      {
+        "text": "nehmen.",
+        "start": 71.336,
+        "end": 71.616
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Und ich mir die hier.",
+    "start": 73.472,
+    "end": 75.393,
+    "words": [
+      {
+        "text": "Und",
+        "start": 73.472,
+        "end": 73.632
+      },
+      {
+        "text": "ich",
+        "start": 73.672,
+        "end": 73.812
+      },
+      {
+        "text": "mir",
+        "start": 73.852,
+        "end": 74.052
+      },
+      {
+        "text": "die",
+        "start": 74.092,
+        "end": 74.312
+      },
+      {
+        "text": "hier.",
+        "start": 74.352,
+        "end": 75.393
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Sie zu schwingen erfordert bemerkenswerte Kraft.",
+    "start": 75.433,
+    "end": 79.074,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 75.433,
+        "end": 75.673
+      },
+      {
+        "text": "zu",
+        "start": 75.713,
+        "end": 75.873
+      },
+      {
+        "text": "schwingen",
+        "start": 75.913,
+        "end": 76.453
+      },
+      {
+        "text": "erfordert",
+        "start": 76.493,
+        "end": 76.973
+      },
+      {
+        "text": "bemerkenswerte",
+        "start": 77.013,
+        "end": 78.014
+      },
+      {
+        "text": "Kraft.",
+        "start": 78.054,
+        "end": 79.074
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Wer war die Person, die Sie benutzt hat?",
+    "start": 79.094,
+    "end": 81.615,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 79.094,
+        "end": 79.294
+      },
+      {
+        "text": "war",
+        "start": 79.334,
+        "end": 79.514
+      },
+      {
+        "text": "die",
+        "start": 79.534,
+        "end": 79.674
+      },
+      {
+        "text": "Person,",
+        "start": 79.714,
+        "end": 80.074
+      },
+      {
+        "text": "die",
+        "start": 80.094,
+        "end": 80.215
+      },
+      {
+        "text": "Sie",
+        "start": 80.235,
+        "end": 80.355
+      },
+      {
+        "text": "benutzt",
+        "start": 80.375,
+        "end": 80.755
+      },
+      {
+        "text": "hat?",
+        "start": 80.795,
+        "end": 81.615
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ach, es war Ewing der Wilde.",
+    "start": 81.735,
+    "end": 84.056,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 81.735,
+        "end": 82.115
+      },
+      {
+        "text": "es",
+        "start": 82.155,
+        "end": 82.235
+      },
+      {
+        "text": "war",
+        "start": 82.295,
+        "end": 82.575
+      },
+      {
+        "text": "Ewing",
+        "start": 82.655,
+        "end": 83.056
+      },
+      {
+        "text": "der",
+        "start": 83.096,
+        "end": 83.276
+      },
+      {
+        "text": "Wilde.",
+        "start": 83.336,
+        "end": 84.056
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Und er lächelte immer so fröhlich.",
+    "start": 84.096,
+    "end": 86.977,
+    "words": [
+      {
+        "text": "Und",
+        "start": 84.096,
+        "end": 84.336
+      },
+      {
+        "text": "er",
+        "start": 84.376,
+        "end": 84.676
+      },
+      {
+        "text": "lächelte",
+        "start": 84.716,
+        "end": 85.236
+      },
+      {
+        "text": "immer",
+        "start": 85.276,
+        "end": 85.536
+      },
+      {
+        "text": "so",
+        "start": 85.556,
+        "end": 85.756
+      },
+      {
+        "text": "fröhlich.",
+        "start": 85.817,
+        "end": 86.977
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Für Kämpfe hatte er nicht viel übrig.",
+    "start": 86.997,
+    "end": 89.278,
+    "words": [
+      {
+        "text": "Für",
+        "start": 86.997,
+        "end": 87.257
+      },
+      {
+        "text": "Kämpfe",
+        "start": 87.297,
+        "end": 87.917
+      },
+      {
+        "text": "hatte",
+        "start": 87.937,
+        "end": 88.217
+      },
+      {
+        "text": "er",
+        "start": 88.297,
+        "end": 88.437
+      },
+      {
+        "text": "nicht",
+        "start": 88.457,
+        "end": 88.658
+      },
+      {
+        "text": "viel",
+        "start": 88.678,
+        "end": 88.938
+      },
+      {
+        "text": "übrig.",
+        "start": 88.998,
+        "end": 89.278
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Wenn in unserer Welt Frieden geherrscht hätte, wäre er vielleicht ein guter Bauer geworden.",
+    "start": 90.482,
+    "end": 96.827,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 90.482,
+        "end": 90.722
+      },
+      {
+        "text": "in",
+        "start": 90.782,
+        "end": 90.903
+      },
+      {
+        "text": "unserer",
+        "start": 90.963,
+        "end": 91.323
+      },
+      {
+        "text": "Welt",
+        "start": 91.363,
+        "end": 91.663
+      },
+      {
+        "text": "Frieden",
+        "start": 91.743,
+        "end": 92.384
+      },
+      {
+        "text": "geherrscht",
+        "start": 92.424,
+        "end": 93.044
+      },
+      {
+        "text": "hätte,",
+        "start": 93.064,
+        "end": 93.665
+      },
+      {
+        "text": "wäre",
+        "start": 93.685,
+        "end": 93.905
+      },
+      {
+        "text": "er",
+        "start": 93.965,
+        "end": 94.085
+      },
+      {
+        "text": "vielleicht",
+        "start": 94.125,
+        "end": 94.706
+      },
+      {
+        "text": "ein",
+        "start": 94.746,
+        "end": 94.986
+      },
+      {
+        "text": "guter",
+        "start": 95.026,
+        "end": 95.386
+      },
+      {
+        "text": "Bauer",
+        "start": 95.426,
+        "end": 95.766
+      },
+      {
+        "text": "geworden.",
+        "start": 95.786,
+        "end": 96.827
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Das ist richtig.",
+    "start": 96.867,
+    "end": 98.268,
+    "words": [
+      {
+        "text": "Das",
+        "start": 96.867,
+        "end": 97.027
+      },
+      {
+        "text": "ist",
+        "start": 97.067,
+        "end": 97.228
+      },
+      {
+        "text": "richtig.",
+        "start": 97.288,
+        "end": 98.268
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ewing, Barbore, Telperion.",
+    "start": 98.368,
+    "end": 101.451,
+    "words": [
+      {
+        "text": "Ewing,",
+        "start": 98.368,
+        "end": 99.069
+      },
+      {
+        "text": "Barbore,",
+        "start": 99.109,
+        "end": 99.85
+      },
+      {
+        "text": "Telperion.",
+        "start": 99.89,
+        "end": 101.451
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Sie alle gaben ihr Leben, um den Hochkönig zu besiegen.",
+    "start": 101.491,
+    "end": 105.174,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 101.491,
+        "end": 101.691
+      },
+      {
+        "text": "alle",
+        "start": 101.751,
+        "end": 101.931
+      },
+      {
+        "text": "gaben",
+        "start": 101.971,
+        "end": 102.272
+      },
+      {
+        "text": "ihr",
+        "start": 102.312,
+        "end": 102.412
+      },
+      {
+        "text": "Leben,",
+        "start": 102.432,
+        "end": 102.732
+      },
+      {
+        "text": "um",
+        "start": 102.772,
+        "end": 102.892
+      },
+      {
+        "text": "den",
+        "start": 102.912,
+        "end": 103.092
+      },
+      {
+        "text": "Hochkönig",
+        "start": 103.112,
+        "end": 103.653
+      },
+      {
+        "text": "zu",
+        "start": 103.693,
+        "end": 103.773
+      },
+      {
+        "text": "besiegen.",
+        "start": 103.813,
+        "end": 105.174
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "All die Waffen und Rüstungen in dieser Waffenkammer.",
+    "start": 105.214,
+    "end": 109.257,
+    "words": [
+      {
+        "text": "All",
+        "start": 105.214,
+        "end": 105.454
+      },
+      {
+        "text": "die",
+        "start": 105.474,
+        "end": 105.674
+      },
+      {
+        "text": "Waffen",
+        "start": 105.714,
+        "end": 106.355
+      },
+      {
+        "text": "und",
+        "start": 106.395,
+        "end": 106.655
+      },
+      {
+        "text": "Rüstungen",
+        "start": 106.695,
+        "end": 108.036
+      },
+      {
+        "text": "in",
+        "start": 108.096,
+        "end": 108.216
+      },
+      {
+        "text": "dieser",
+        "start": 108.256,
+        "end": 108.576
+      },
+      {
+        "text": "Waffenkammer.",
+        "start": 108.617,
+        "end": 109.257
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": " Jede einzelne von ihnen war für jemanden sehr wichtig und hat ihre eigene Geschichte.",
+    "start": 110.778,
+    "end": 117.368,
+    "words": [
+      {
+        "text": "Jede",
+        "start": 110.778,
+        "end": 111.119
+      },
+      {
+        "text": "einzelne",
+        "start": 111.159,
+        "end": 111.62
+      },
+      {
+        "text": "von",
+        "start": 111.66,
+        "end": 111.84
+      },
+      {
+        "text": "ihnen",
+        "start": 111.86,
+        "end": 112.22
+      },
+      {
+        "text": "war",
+        "start": 112.24,
+        "end": 112.381
+      },
+      {
+        "text": "für",
+        "start": 112.421,
+        "end": 112.601
+      },
+      {
+        "text": "jemanden",
+        "start": 112.621,
+        "end": 113.102
+      },
+      {
+        "text": "sehr",
+        "start": 113.122,
+        "end": 113.322
+      },
+      {
+        "text": "wichtig",
+        "start": 113.362,
+        "end": 114.303
+      },
+      {
+        "text": "und",
+        "start": 114.343,
+        "end": 114.544
+      },
+      {
+        "text": "hat",
+        "start": 114.564,
+        "end": 114.764
+      },
+      {
+        "text": "ihre",
+        "start": 114.804,
+        "end": 115.084
+      },
+      {
+        "text": "eigene",
+        "start": 115.124,
+        "end": 115.485
+      },
+      {
+        "text": "Geschichte.",
+        "start": 115.525,
+        "end": 117.368
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Ich bete, dass sie, wo auch immer sie sind, Führung und Ruhe finden.",
+    "start": 117.428,
+    "end": 121.914,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 117.428,
+        "end": 117.608
+      },
+      {
+        "text": "bete,",
+        "start": 117.648,
+        "end": 117.988
+      },
+      {
+        "text": "dass",
+        "start": 118.008,
+        "end": 118.229
+      },
+      {
+        "text": "sie,",
+        "start": 118.269,
+        "end": 118.709
+      },
+      {
+        "text": "wo",
+        "start": 118.729,
+        "end": 118.89
+      },
+      {
+        "text": "auch",
+        "start": 118.93,
+        "end": 119.23
+      },
+      {
+        "text": "immer",
+        "start": 119.27,
+        "end": 119.531
+      },
+      {
+        "text": "sie",
+        "start": 119.551,
+        "end": 119.711
+      },
+      {
+        "text": "sind,",
+        "start": 119.751,
+        "end": 120.492
+      },
+      {
+        "text": "Führung",
+        "start": 120.532,
+        "end": 120.993
+      },
+      {
+        "text": "und",
+        "start": 121.033,
+        "end": 121.213
+      },
+      {
+        "text": "Ruhe",
+        "start": 121.253,
+        "end": 121.573
+      },
+      {
+        "text": "finden.",
+        "start": 121.633,
+        "end": 121.914
+      }
+    ]
+  }
+]

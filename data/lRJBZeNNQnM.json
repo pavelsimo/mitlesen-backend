@@ -1,0 +1,350 @@
+[
+  {
+    "id": 0,
+    "text": " Hm.",
+    "start": 0.031,
+    "end": 1.071,
+    "words": [
+      {
+        "text": "Hm.",
+        "start": 0.031,
+        "end": 1.071
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Du hast was zu tun, Seph.",
+    "start": 1.091,
+    "end": 3.192,
+    "words": [
+      {
+        "text": "Du",
+        "start": 1.091,
+        "end": 1.211
+      },
+      {
+        "text": "hast",
+        "start": 1.251,
+        "end": 1.472
+      },
+      {
+        "text": "was",
+        "start": 1.512,
+        "end": 1.712
+      },
+      {
+        "text": "zu",
+        "start": 1.752,
+        "end": 1.872
+      },
+      {
+        "text": "tun,",
+        "start": 1.912,
+        "end": 2.092
+      },
+      {
+        "text": "Seph.",
+        "start": 2.172,
+        "end": 3.192
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Und zwar als Magieversorger.",
+    "start": 3.232,
+    "end": 6.393,
+    "words": [
+      {
+        "text": "Und",
+        "start": 3.232,
+        "end": 3.412
+      },
+      {
+        "text": "zwar",
+        "start": 3.452,
+        "end": 3.692
+      },
+      {
+        "text": "als",
+        "start": 3.712,
+        "end": 3.872
+      },
+      {
+        "text": "Magieversorger.",
+        "start": 3.932,
+        "end": 6.393
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Trübe Finsternis!",
+    "start": 16.777,
+    "end": 18.357,
+    "words": [
+      {
+        "text": "Trübe",
+        "start": 16.777,
+        "end": 17.217
+      },
+      {
+        "text": "Finsternis!",
+        "start": 17.257,
+        "end": 18.357
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich bring dir den Magieversorger.",
+    "start": 18.397,
+    "end": 20.778,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 18.397,
+        "end": 18.498
+      },
+      {
+        "text": "bring",
+        "start": 18.538,
+        "end": 18.738
+      },
+      {
+        "text": "dir",
+        "start": 18.758,
+        "end": 18.898
+      },
+      {
+        "text": "den",
+        "start": 18.918,
+        "end": 18.998
+      },
+      {
+        "text": "Magieversorger.",
+        "start": 19.098,
+        "end": 20.778
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Vielen Dank, Morgendämmerung.",
+    "start": 20.798,
+    "end": 22.679,
+    "words": [
+      {
+        "text": "Vielen",
+        "start": 20.798,
+        "end": 21.098
+      },
+      {
+        "text": "Dank,",
+        "start": 21.138,
+        "end": 21.419
+      },
+      {
+        "text": "Morgendämmerung.",
+        "start": 21.459,
+        "end": 22.679
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Tut mir leid, Junge.",
+    "start": 22.739,
+    "end": 24.42,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 22.739,
+        "end": 22.919
+      },
+      {
+        "text": "mir",
+        "start": 22.959,
+        "end": 23.079
+      },
+      {
+        "text": "leid,",
+        "start": 23.119,
+        "end": 23.339
+      },
+      {
+        "text": "Junge.",
+        "start": 23.379,
+        "end": 24.42
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Leih mir mal Kraft.",
+    "start": 24.46,
+    "end": 25.16,
+    "words": [
+      {
+        "text": "Leih",
+        "start": 24.46,
+        "end": 24.64
+      },
+      {
+        "text": "mir",
+        "start": 24.66,
+        "end": 24.76
+      },
+      {
+        "text": "mal",
+        "start": 24.78,
+        "end": 24.92
+      },
+      {
+        "text": "Kraft.",
+        "start": 24.96,
+        "end": 25.16
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " War es dafür wirklich nötig, ihn zu küssen?",
+    "start": 60.749,
+    "end": 63.33,
+    "words": [
+      {
+        "text": "War",
+        "start": 60.749,
+        "end": 60.929
+      },
+      {
+        "text": "es",
+        "start": 60.969,
+        "end": 61.149
+      },
+      {
+        "text": "dafür",
+        "start": 61.189,
+        "end": 61.549
+      },
+      {
+        "text": "wirklich",
+        "start": 61.569,
+        "end": 61.99
+      },
+      {
+        "text": "nötig,",
+        "start": 62.03,
+        "end": 62.47
+      },
+      {
+        "text": "ihn",
+        "start": 62.53,
+        "end": 62.71
+      },
+      {
+        "text": "zu",
+        "start": 62.75,
+        "end": 62.91
+      },
+      {
+        "text": "küssen?",
+        "start": 62.93,
+        "end": 63.33
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Eifersucht auf ein Kind, das einem das Leben gerettet hat.",
+    "start": 65.683,
+    "end": 68.691,
+    "words": [
+      {
+        "text": "Eifersucht",
+        "start": 65.683,
+        "end": 66.205
+      },
+      {
+        "text": "auf",
+        "start": 66.245,
+        "end": 66.385
+      },
+      {
+        "text": "ein",
+        "start": 66.405,
+        "end": 66.566
+      },
+      {
+        "text": "Kind,",
+        "start": 66.606,
+        "end": 66.766
+      },
+      {
+        "text": "das",
+        "start": 66.786,
+        "end": 66.947
+      },
+      {
+        "text": "einem",
+        "start": 66.987,
+        "end": 67.207
+      },
+      {
+        "text": "das",
+        "start": 67.227,
+        "end": 67.428
+      },
+      {
+        "text": "Leben",
+        "start": 67.468,
+        "end": 67.709
+      },
+      {
+        "text": "gerettet",
+        "start": 67.749,
+        "end": 68.13
+      },
+      {
+        "text": "hat.",
+        "start": 68.15,
+        "end": 68.691
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Macht keinen guten Eindruck, Seldner.",
+    "start": 68.731,
+    "end": 70.355,
+    "words": [
+      {
+        "text": "Macht",
+        "start": 68.731,
+        "end": 69.012
+      },
+      {
+        "text": "keinen",
+        "start": 69.032,
+        "end": 69.273
+      },
+      {
+        "text": "guten",
+        "start": 69.293,
+        "end": 69.593
+      },
+      {
+        "text": "Eindruck,",
+        "start": 69.633,
+        "end": 69.974
+      },
+      {
+        "text": "Seldner.",
+        "start": 70.034,
+        "end": 70.355
+      }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "id": 0,
+    "text": " Der kann ja stehen!",
+    "start": 11.412,
+    "end": 12.954,
+    "words": [
+      {
+        "text": "Der",
+        "start": 11.412,
+        "end": 11.552
+      },
+      {
+        "text": "kann",
+        "start": 11.592,
+        "end": 11.773
+      },
+      {
+        "text": "ja",
+        "start": 11.793,
+        "end": 11.913
+      },
+      {
+        "text": "stehen!",
+        "start": 11.933,
+        "end": 12.954
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Schnell, Pai!",
+    "start": 12.994,
+    "end": 13.835,
+    "words": [
+      {
+        "text": "Schnell,",
+        "start": 12.994,
+        "end": 13.655
+      },
+      {
+        "text": "Pai!",
+        "start": 13.675,
+        "end": 13.835
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Guck mal schnell her!",
+    "start": 13.855,
+    "end": 15.056,
+    "words": [
+      {
+        "text": "Guck",
+        "start": 13.855,
+        "end": 14.195
+      },
+      {
+        "text": "mal",
+        "start": 14.215,
+        "end": 14.315
+      },
+      {
+        "text": "schnell",
+        "start": 14.335,
+        "end": 14.736
+      },
+      {
+        "text": "her!",
+        "start": 14.776,
+        "end": 15.056
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Der kleine Pandacotirol steht auf einmal auf zwei Beinen!",
+    "start": 15.096,
+    "end": 17.699,
+    "words": [
+      {
+        "text": "Der",
+        "start": 15.096,
+        "end": 15.236
+      },
+      {
+        "text": "kleine",
+        "start": 15.256,
+        "end": 15.537
+      },
+      {
+        "text": "Pandacotirol",
+        "start": 15.557,
+        "end": 16.257
+      },
+      {
+        "text": "steht",
+        "start": 16.277,
+        "end": 16.458
+      },
+      {
+        "text": "auf",
+        "start": 16.498,
+        "end": 16.598
+      },
+      {
+        "text": "einmal",
+        "start": 16.638,
+        "end": 16.858
+      },
+      {
+        "text": "auf",
+        "start": 16.898,
+        "end": 17.018
+      },
+      {
+        "text": "zwei",
+        "start": 17.058,
+        "end": 17.258
+      },
+      {
+        "text": "Beinen!",
+        "start": 17.298,
+        "end": 17.699
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Zieh's dir rein!",
+    "start": 17.719,
+    "end": 18.239,
+    "words": [
+      {
+        "text": "Zieh's",
+        "start": 17.719,
+        "end": 17.899
+      },
+      {
+        "text": "dir",
+        "start": 17.919,
+        "end": 18.079
+      },
+      {
+        "text": "rein!",
+        "start": 18.119,
+        "end": 18.239
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich glaub, der Kleine will uns einschüchtern!",
+    "start": 18.299,
+    "end": 20.081,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 18.299,
+        "end": 18.38
+      },
+      {
+        "text": "glaub,",
+        "start": 18.4,
+        "end": 18.56
+      },
+      {
+        "text": "der",
+        "start": 18.58,
+        "end": 18.68
+      },
+      {
+        "text": "Kleine",
+        "start": 18.7,
+        "end": 18.96
+      },
+      {
+        "text": "will",
+        "start": 18.98,
+        "end": 19.08
+      },
+      {
+        "text": "uns",
+        "start": 19.1,
+        "end": 19.26
+      },
+      {
+        "text": "einschüchtern!",
+        "start": 19.361,
+        "end": 20.081
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Hm?",
+    "start": 29.091,
+    "end": 29.151,
+    "words": [
+      {
+        "text": "Hm?",
+        "start": 29.091,
+        "end": 29.151
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Hmmmm...",
+    "start": 29.171,
+    "end": 29.291,
+    "words": [
+      {
+        "text": "Hmmmm...",
+        "start": 29.171,
+        "end": 29.291
+      }
+    ]
+  }
+]

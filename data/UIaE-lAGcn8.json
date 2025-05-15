@@ -1,0 +1,1417 @@
+[
+  {
+    "id": 0,
+    "text": " Das wäre alles.",
+    "start": 0.391,
+    "end": 1.351,
+    "words": [
+      {
+        "text": "Das",
+        "start": 0.391,
+        "end": 0.711
+      },
+      {
+        "text": "wäre",
+        "start": 0.751,
+        "end": 0.951
+      },
+      {
+        "text": "alles.",
+        "start": 0.991,
+        "end": 1.351
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Falls jemand noch Fragen zur Kimberly und ihrer Geschichte hat, werde ich sie jetzt beantworten.",
+    "start": 1.391,
+    "end": 6.373,
+    "words": [
+      {
+        "text": "Falls",
+        "start": 1.391,
+        "end": 1.631
+      },
+      {
+        "text": "jemand",
+        "start": 1.651,
+        "end": 1.931
+      },
+      {
+        "text": "noch",
+        "start": 1.971,
+        "end": 2.132
+      },
+      {
+        "text": "Fragen",
+        "start": 2.172,
+        "end": 2.492
+      },
+      {
+        "text": "zur",
+        "start": 2.532,
+        "end": 2.672
+      },
+      {
+        "text": "Kimberly",
+        "start": 2.692,
+        "end": 3.072
+      },
+      {
+        "text": "und",
+        "start": 3.092,
+        "end": 3.212
+      },
+      {
+        "text": "ihrer",
+        "start": 3.252,
+        "end": 3.452
+      },
+      {
+        "text": "Geschichte",
+        "start": 3.492,
+        "end": 3.892
+      },
+      {
+        "text": "hat,",
+        "start": 3.932,
+        "end": 4.232
+      },
+      {
+        "text": "werde",
+        "start": 4.272,
+        "end": 4.492
+      },
+      {
+        "text": "ich",
+        "start": 4.532,
+        "end": 4.652
+      },
+      {
+        "text": "sie",
+        "start": 4.672,
+        "end": 4.812
+      },
+      {
+        "text": "jetzt",
+        "start": 4.832,
+        "end": 5.052
+      },
+      {
+        "text": "beantworten.",
+        "start": 5.072,
+        "end": 6.373
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Frau Direktorin, dürfte ich eine Sache vorbringen?",
+    "start": 6.413,
+    "end": 9.573,
+    "words": [
+      {
+        "text": "Frau",
+        "start": 6.413,
+        "end": 6.593
+      },
+      {
+        "text": "Direktorin,",
+        "start": 6.613,
+        "end": 7.693
+      },
+      {
+        "text": "dürfte",
+        "start": 7.733,
+        "end": 8.013
+      },
+      {
+        "text": "ich",
+        "start": 8.053,
+        "end": 8.193
+      },
+      {
+        "text": "eine",
+        "start": 8.233,
+        "end": 8.373
+      },
+      {
+        "text": "Sache",
+        "start": 8.413,
+        "end": 8.633
+      },
+      {
+        "text": "vorbringen?",
+        "start": 8.673,
+        "end": 9.573
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Das darfst du.",
+    "start": 9.613,
+    "end": 10.554,
+    "words": [
+      {
+        "text": "Das",
+        "start": 9.613,
+        "end": 9.814
+      },
+      {
+        "text": "darfst",
+        "start": 9.874,
+        "end": 10.154
+      },
+      {
+        "text": "du.",
+        "start": 10.174,
+        "end": 10.554
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Worum geht es?",
+    "start": 10.574,
+    "end": 11.774,
+    "words": [
+      {
+        "text": "Worum",
+        "start": 10.574,
+        "end": 10.834
+      },
+      {
+        "text": "geht",
+        "start": 10.874,
+        "end": 11.054
+      },
+      {
+        "text": "es?",
+        "start": 11.094,
+        "end": 11.774
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wenn man Kopfschmerzen hat, soll es helfen, wenn man sich die Schläfen mit kreisenden Bewegungen vorsichtig massiert.",
+    "start": 11.794,
+    "end": 20.156,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 11.794,
+        "end": 11.974
+      },
+      {
+        "text": "man",
+        "start": 11.994,
+        "end": 12.194
+      },
+      {
+        "text": "Kopfschmerzen",
+        "start": 12.234,
+        "end": 12.914
+      },
+      {
+        "text": "hat,",
+        "start": 12.954,
+        "end": 13.394
+      },
+      {
+        "text": "soll",
+        "start": 13.414,
+        "end": 13.574
+      },
+      {
+        "text": "es",
+        "start": 13.614,
+        "end": 13.835
+      },
+      {
+        "text": "helfen,",
+        "start": 13.875,
+        "end": 14.255
+      },
+      {
+        "text": "wenn",
+        "start": 14.275,
+        "end": 14.435
+      },
+      {
+        "text": "man",
+        "start": 14.455,
+        "end": 14.575
+      },
+      {
+        "text": "sich",
+        "start": 14.595,
+        "end": 14.755
+      },
+      {
+        "text": "die",
+        "start": 14.775,
+        "end": 14.855
+      },
+      {
+        "text": "Schläfen",
+        "start": 14.875,
+        "end": 15.255
+      },
+      {
+        "text": "mit",
+        "start": 15.275,
+        "end": 15.495
+      },
+      {
+        "text": "kreisenden",
+        "start": 15.535,
+        "end": 15.975
+      },
+      {
+        "text": "Bewegungen",
+        "start": 16.015,
+        "end": 16.595
+      },
+      {
+        "text": "vorsichtig",
+        "start": 16.615,
+        "end": 17.115
+      },
+      {
+        "text": "massiert.",
+        "start": 17.155,
+        "end": 20.156
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Das soll doch keine Frage sein, oder?",
+    "start": 20.216,
+    "end": 22.497,
+    "words": [
+      {
+        "text": "Das",
+        "start": 20.216,
+        "end": 20.396
+      },
+      {
+        "text": "soll",
+        "start": 20.436,
+        "end": 20.596
+      },
+      {
+        "text": "doch",
+        "start": 20.636,
+        "end": 20.816
+      },
+      {
+        "text": "keine",
+        "start": 20.836,
+        "end": 21.056
+      },
+      {
+        "text": "Frage",
+        "start": 21.096,
+        "end": 21.456
+      },
+      {
+        "text": "sein,",
+        "start": 21.497,
+        "end": 21.737
+      },
+      {
+        "text": "oder?",
+        "start": 21.777,
+        "end": 22.497
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Nein, nur ein kleiner Vorschlag, weil es Ihnen heute offensichtlich nicht so gut geht.",
+    "start": 22.577,
+    "end": 26.898,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 22.577,
+        "end": 23.057
+      },
+      {
+        "text": "nur",
+        "start": 23.097,
+        "end": 23.237
+      },
+      {
+        "text": "ein",
+        "start": 23.277,
+        "end": 23.397
+      },
+      {
+        "text": "kleiner",
+        "start": 23.437,
+        "end": 23.817
+      },
+      {
+        "text": "Vorschlag,",
+        "start": 23.857,
+        "end": 24.597
+      },
+      {
+        "text": "weil",
+        "start": 24.617,
+        "end": 24.757
+      },
+      {
+        "text": "es",
+        "start": 24.817,
+        "end": 24.937
+      },
+      {
+        "text": "Ihnen",
+        "start": 24.977,
+        "end": 25.277
+      },
+      {
+        "text": "heute",
+        "start": 25.297,
+        "end": 25.578
+      },
+      {
+        "text": "offensichtlich",
+        "start": 25.618,
+        "end": 26.158
+      },
+      {
+        "text": "nicht",
+        "start": 26.178,
+        "end": 26.318
+      },
+      {
+        "text": "so",
+        "start": 26.358,
+        "end": 26.478
+      },
+      {
+        "text": "gut",
+        "start": 26.498,
+        "end": 26.698
+      },
+      {
+        "text": "geht.",
+        "start": 26.738,
+        "end": 26.898
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Wenn es sonst nichts mehr gibt, kann die Zeremonie fortgesetzt werden.",
+    "start": 28.382,
+    "end": 31.603,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 28.382,
+        "end": 28.522
+      },
+      {
+        "text": "es",
+        "start": 28.542,
+        "end": 28.602
+      },
+      {
+        "text": "sonst",
+        "start": 28.622,
+        "end": 28.802
+      },
+      {
+        "text": "nichts",
+        "start": 28.842,
+        "end": 29.022
+      },
+      {
+        "text": "mehr",
+        "start": 29.062,
+        "end": 29.202
+      },
+      {
+        "text": "gibt,",
+        "start": 29.222,
+        "end": 29.883
+      },
+      {
+        "text": "kann",
+        "start": 29.923,
+        "end": 30.083
+      },
+      {
+        "text": "die",
+        "start": 30.123,
+        "end": 30.243
+      },
+      {
+        "text": "Zeremonie",
+        "start": 30.283,
+        "end": 30.823
+      },
+      {
+        "text": "fortgesetzt",
+        "start": 30.843,
+        "end": 31.363
+      },
+      {
+        "text": "werden.",
+        "start": 31.403,
+        "end": 31.603
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Sag mal, hast du sie nicht mehr alle?",
+    "start": 32.204,
+    "end": 33.664,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 32.204,
+        "end": 32.384
+      },
+      {
+        "text": "mal,",
+        "start": 32.424,
+        "end": 32.584
+      },
+      {
+        "text": "hast",
+        "start": 32.624,
+        "end": 32.784
+      },
+      {
+        "text": "du",
+        "start": 32.804,
+        "end": 32.924
+      },
+      {
+        "text": "sie",
+        "start": 32.944,
+        "end": 33.064
+      },
+      {
+        "text": "nicht",
+        "start": 33.084,
+        "end": 33.244
+      },
+      {
+        "text": "mehr",
+        "start": 33.304,
+        "end": 33.444
+      },
+      {
+        "text": "alle?",
+        "start": 33.464,
+        "end": 33.664
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Na hör mal!",
+    "start": 34.024,
+    "end": 35.185,
+    "words": [
+      {
+        "text": "Na",
+        "start": 34.024,
+        "end": 34.325
+      },
+      {
+        "text": "hör",
+        "start": 34.365,
+        "end": 34.645
+      },
+      {
+        "text": "mal!",
+        "start": 34.685,
+        "end": 35.185
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Das funktioniert wirklich!",
+    "start": 35.225,
+    "end": 36.826,
+    "words": [
+      {
+        "text": "Das",
+        "start": 35.225,
+        "end": 35.405
+      },
+      {
+        "text": "funktioniert",
+        "start": 35.445,
+        "end": 36.005
+      },
+      {
+        "text": "wirklich!",
+        "start": 36.045,
+        "end": 36.826
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Was fällt dir eigentlich ein, so mit mir zu reden?",
+    "start": 36.846,
+    "end": 40.067,
+    "words": [
+      {
+        "text": "Was",
+        "start": 36.846,
+        "end": 36.986
+      },
+      {
+        "text": "fällt",
+        "start": 37.006,
+        "end": 37.986
+      },
+      {
+        "text": "dir",
+        "start": 38.026,
+        "end": 38.226
+      },
+      {
+        "text": "eigentlich",
+        "start": 38.286,
+        "end": 38.907
+      },
+      {
+        "text": "ein,",
+        "start": 38.987,
+        "end": 39.187
+      },
+      {
+        "text": "so",
+        "start": 39.227,
+        "end": 39.327
+      },
+      {
+        "text": "mit",
+        "start": 39.347,
+        "end": 39.547
+      },
+      {
+        "text": "mir",
+        "start": 39.587,
+        "end": 39.747
+      },
+      {
+        "text": "zu",
+        "start": 39.787,
+        "end": 39.887
+      },
+      {
+        "text": "reden?",
+        "start": 39.907,
+        "end": 40.067
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Als nächstes folgt das Willkommensbankett.",
+    "start": 40.107,
+    "end": 42.648,
+    "words": [
+      {
+        "text": "Als",
+        "start": 40.107,
+        "end": 40.347
+      },
+      {
+        "text": "nächstes",
+        "start": 40.387,
+        "end": 41.047
+      },
+      {
+        "text": "folgt",
+        "start": 41.087,
+        "end": 41.348
+      },
+      {
+        "text": "das",
+        "start": 41.388,
+        "end": 41.548
+      },
+      {
+        "text": "Willkommensbankett.",
+        "start": 41.588,
+        "end": 42.648
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Private Konversationen sind dabei durchaus erwünscht.",
+    "start": 42.688,
+    "end": 45.269,
+    "words": [
+      {
+        "text": "Private",
+        "start": 42.688,
+        "end": 43.068
+      },
+      {
+        "text": "Konversationen",
+        "start": 43.108,
+        "end": 43.889
+      },
+      {
+        "text": "sind",
+        "start": 43.909,
+        "end": 44.049
+      },
+      {
+        "text": "dabei",
+        "start": 44.069,
+        "end": 44.309
+      },
+      {
+        "text": "durchaus",
+        "start": 44.329,
+        "end": 44.669
+      },
+      {
+        "text": "erwünscht.",
+        "start": 44.709,
+        "end": 45.269
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Esst, trinkt und unterhaltet euch mit euren Mitschülern.",
+    "start": 45.329,
+    "end": 48.771,
+    "words": [
+      {
+        "text": "Esst,",
+        "start": 45.329,
+        "end": 45.97
+      },
+      {
+        "text": "trinkt",
+        "start": 46.01,
+        "end": 46.63
+      },
+      {
+        "text": "und",
+        "start": 46.65,
+        "end": 46.83
+      },
+      {
+        "text": "unterhaltet",
+        "start": 46.87,
+        "end": 47.37
+      },
+      {
+        "text": "euch",
+        "start": 47.41,
+        "end": 47.59
+      },
+      {
+        "text": "mit",
+        "start": 47.63,
+        "end": 47.77
+      },
+      {
+        "text": "euren",
+        "start": 47.79,
+        "end": 48.03
+      },
+      {
+        "text": "Mitschülern.",
+        "start": 48.05,
+        "end": 48.771
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wohl an!",
+    "start": 48.831,
+    "end": 49.511,
+    "words": [
+      {
+        "text": "Wohl",
+        "start": 48.831,
+        "end": 49.111
+      },
+      {
+        "text": "an!",
+        "start": 49.171,
+        "end": 49.511
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Bitte nehmt nun alle Platz.",
+    "start": 49.551,
+    "end": 50.972,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 49.551,
+        "end": 49.811
+      },
+      {
+        "text": "nehmt",
+        "start": 49.851,
+        "end": 50.111
+      },
+      {
+        "text": "nun",
+        "start": 50.131,
+        "end": 50.351
+      },
+      {
+        "text": "alle",
+        "start": 50.411,
+        "end": 50.631
+      },
+      {
+        "text": "Platz.",
+        "start": 50.671,
+        "end": 50.972
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Wo sollen wir Platz nehmen?",
+    "start": 52.012,
+    "end": 54.193,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 52.012,
+        "end": 52.932
+      },
+      {
+        "text": "sollen",
+        "start": 52.992,
+        "end": 53.393
+      },
+      {
+        "text": "wir",
+        "start": 53.413,
+        "end": 53.553
+      },
+      {
+        "text": "Platz",
+        "start": 53.593,
+        "end": 53.893
+      },
+      {
+        "text": "nehmen?",
+        "start": 53.913,
+        "end": 54.193
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Ist der fertig?",
+    "start": 64.817,
+    "end": 76.37,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 64.817,
+        "end": 65.097
+      },
+      {
+        "text": "der",
+        "start": 65.117,
+        "end": 65.217
+      },
+      {
+        "text": "fertig?",
+        "start": 65.258,
+        "end": 76.37
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Willkommen auf der Kimberley, ihr strahlenden Neuzugänge.",
+    "start": 76.41,
+    "end": 79.994,
+    "words": [
+      {
+        "text": "Willkommen",
+        "start": 76.41,
+        "end": 77.231
+      },
+      {
+        "text": "auf",
+        "start": 77.271,
+        "end": 77.431
+      },
+      {
+        "text": "der",
+        "start": 77.451,
+        "end": 77.592
+      },
+      {
+        "text": "Kimberley,",
+        "start": 77.632,
+        "end": 78.393
+      },
+      {
+        "text": "ihr",
+        "start": 78.453,
+        "end": 78.733
+      },
+      {
+        "text": "strahlenden",
+        "start": 78.773,
+        "end": 79.434
+      },
+      {
+        "text": "Neuzugänge.",
+        "start": 79.474,
+        "end": 79.994
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Unsere Direktorin ist gruselig, oder?",
+    "start": 80.943,
+    "end": 82.823,
+    "words": [
+      {
+        "text": "Unsere",
+        "start": 80.943,
+        "end": 81.103
+      },
+      {
+        "text": "Direktorin",
+        "start": 81.123,
+        "end": 81.563
+      },
+      {
+        "text": "ist",
+        "start": 81.603,
+        "end": 81.743
+      },
+      {
+        "text": "gruselig,",
+        "start": 81.763,
+        "end": 82.203
+      },
+      {
+        "text": "oder?",
+        "start": 82.263,
+        "end": 82.823
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Aber macht euch nichts draus.",
+    "start": 82.883,
+    "end": 84.284,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 82.883,
+        "end": 83.123
+      },
+      {
+        "text": "macht",
+        "start": 83.143,
+        "end": 83.303
+      },
+      {
+        "text": "euch",
+        "start": 83.363,
+        "end": 83.443
+      },
+      {
+        "text": "nichts",
+        "start": 83.483,
+        "end": 83.684
+      },
+      {
+        "text": "draus.",
+        "start": 83.724,
+        "end": 84.284
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Sie übertreibt sehr gern.",
+    "start": 84.304,
+    "end": 85.784,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 84.304,
+        "end": 84.464
+      },
+      {
+        "text": "übertreibt",
+        "start": 84.504,
+        "end": 84.924
+      },
+      {
+        "text": "sehr",
+        "start": 84.964,
+        "end": 85.144
+      },
+      {
+        "text": "gern.",
+        "start": 85.164,
+        "end": 85.784
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wir älteren Semester werden gut auf euch aufpassen.",
+    "start": 85.824,
+    "end": 88.564,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 85.824,
+        "end": 86.004
+      },
+      {
+        "text": "älteren",
+        "start": 86.044,
+        "end": 86.464
+      },
+      {
+        "text": "Semester",
+        "start": 86.504,
+        "end": 86.944
+      },
+      {
+        "text": "werden",
+        "start": 86.964,
+        "end": 87.284
+      },
+      {
+        "text": "gut",
+        "start": 87.324,
+        "end": 87.484
+      },
+      {
+        "text": "auf",
+        "start": 87.524,
+        "end": 87.624
+      },
+      {
+        "text": "euch",
+        "start": 87.664,
+        "end": 87.884
+      },
+      {
+        "text": "aufpassen.",
+        "start": 87.924,
+        "end": 88.564
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Keine Sorge.",
+    "start": 88.604,
+    "end": 89.745,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 88.604,
+        "end": 88.844
+      },
+      {
+        "text": "Sorge.",
+        "start": 88.864,
+        "end": 89.745
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Nur nicht so schüchtern.",
+    "start": 89.785,
+    "end": 90.845,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 89.785,
+        "end": 89.905
+      },
+      {
+        "text": "nicht",
+        "start": 89.925,
+        "end": 90.105
+      },
+      {
+        "text": "so",
+        "start": 90.125,
+        "end": 90.225
+      },
+      {
+        "text": "schüchtern.",
+        "start": 90.265,
+        "end": 90.845
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Trinkt ruhig, der weiße Traubensaft ist verboten gut.",
+    "start": 91.065,
+    "end": 93.645,
+    "words": [
+      {
+        "text": "Trinkt",
+        "start": 91.065,
+        "end": 91.345
+      },
+      {
+        "text": "ruhig,",
+        "start": 91.385,
+        "end": 91.605
+      },
+      {
+        "text": "der",
+        "start": 91.625,
+        "end": 91.725
+      },
+      {
+        "text": "weiße",
+        "start": 91.765,
+        "end": 92.045
+      },
+      {
+        "text": "Traubensaft",
+        "start": 92.065,
+        "end": 92.545
+      },
+      {
+        "text": "ist",
+        "start": 92.605,
+        "end": 92.705
+      },
+      {
+        "text": "verboten",
+        "start": 92.725,
+        "end": 93.245
+      },
+      {
+        "text": "gut.",
+        "start": 93.425,
+        "end": 93.645
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Oh, da sind sie ja.",
+    "start": 98.146,
+    "end": 99.086,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 98.146,
+        "end": 98.246
+      },
+      {
+        "text": "da",
+        "start": 98.266,
+        "end": 98.426
+      },
+      {
+        "text": "sind",
+        "start": 98.446,
+        "end": 98.586
+      },
+      {
+        "text": "sie",
+        "start": 98.626,
+        "end": 98.726
+      },
+      {
+        "text": "ja.",
+        "start": 98.766,
+        "end": 99.086
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Mann, zähl nicht so an mir.",
+    "start": 99.126,
+    "end": 100.746,
+    "words": [
+      {
+        "text": "Mann,",
+        "start": 99.126,
+        "end": 99.266
+      },
+      {
+        "text": "zähl",
+        "start": 99.286,
+        "end": 99.406
+      },
+      {
+        "text": "nicht",
+        "start": 99.426,
+        "end": 99.586
+      },
+      {
+        "text": "so",
+        "start": 99.626,
+        "end": 99.666
+      },
+      {
+        "text": "an",
+        "start": 99.906,
+        "end": 100.026
+      },
+      {
+        "text": "mir.",
+        "start": 100.066,
+        "end": 100.746
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ach, da seid ihr ja wieder.",
+    "start": 100.846,
+    "end": 102.587,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 100.846,
+        "end": 101.066
+      },
+      {
+        "text": "da",
+        "start": 101.106,
+        "end": 101.246
+      },
+      {
+        "text": "seid",
+        "start": 101.286,
+        "end": 101.467
+      },
+      {
+        "text": "ihr",
+        "start": 101.507,
+        "end": 101.607
+      },
+      {
+        "text": "ja",
+        "start": 101.647,
+        "end": 101.827
+      },
+      {
+        "text": "wieder.",
+        "start": 101.867,
+        "end": 102.587
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Endlich haben wir einander wiedergefunden.",
+    "start": 102.747,
+    "end": 104.767,
+    "words": [
+      {
+        "text": "Endlich",
+        "start": 102.747,
+        "end": 103.067
+      },
+      {
+        "text": "haben",
+        "start": 103.087,
+        "end": 103.287
+      },
+      {
+        "text": "wir",
+        "start": 103.307,
+        "end": 103.407
+      },
+      {
+        "text": "einander",
+        "start": 103.467,
+        "end": 103.807
+      },
+      {
+        "text": "wiedergefunden.",
+        "start": 103.827,
+        "end": 104.767
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Jetzt fehlt nur noch das Mädchen, das auf die Krankenstation gebracht wurde.",
+    "start": 104.807,
+    "end": 107.708,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 104.807,
+        "end": 104.967
+      },
+      {
+        "text": "fehlt",
+        "start": 105.007,
+        "end": 105.207
+      },
+      {
+        "text": "nur",
+        "start": 105.227,
+        "end": 105.327
+      },
+      {
+        "text": "noch",
+        "start": 105.367,
+        "end": 105.487
+      },
+      {
+        "text": "das",
+        "start": 105.507,
+        "end": 105.667
+      },
+      {
+        "text": "Mädchen,",
+        "start": 105.707,
+        "end": 105.987
+      },
+      {
+        "text": "das",
+        "start": 106.007,
+        "end": 106.147
+      },
+      {
+        "text": "auf",
+        "start": 106.167,
+        "end": 106.287
+      },
+      {
+        "text": "die",
+        "start": 106.307,
+        "end": 106.387
+      },
+      {
+        "text": "Krankenstation",
+        "start": 106.407,
+        "end": 107.147
+      },
+      {
+        "text": "gebracht",
+        "start": 107.167,
+        "end": 107.488
+      },
+      {
+        "text": "wurde.",
+        "start": 107.508,
+        "end": 107.708
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Tut mir leid, ich bin spät dran.",
+    "start": 108.168,
+    "end": 109.608,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 108.168,
+        "end": 108.548
+      },
+      {
+        "text": "mir",
+        "start": 108.568,
+        "end": 108.688
+      },
+      {
+        "text": "leid,",
+        "start": 108.728,
+        "end": 108.848
+      },
+      {
+        "text": "ich",
+        "start": 108.908,
+        "end": 108.988
+      },
+      {
+        "text": "bin",
+        "start": 109.008,
+        "end": 109.108
+      },
+      {
+        "text": "spät",
+        "start": 109.188,
+        "end": 109.488
+      },
+      {
+        "text": "dran.",
+        "start": 109.508,
+        "end": 109.608
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": " Da wäre sie auch schon.",
+    "start": 115.249,
+    "end": 116.421,
+    "words": [
+      {
+        "text": "Da",
+        "start": 115.249,
+        "end": 115.39
+      },
+      {
+        "text": "wäre",
+        "start": 115.431,
+        "end": 115.774
+      },
+      {
+        "text": "sie",
+        "start": 115.795,
+        "end": 115.916
+      },
+      {
+        "text": "auch",
+        "start": 115.977,
+        "end": 116.118
+      },
+      {
+        "text": "schon.",
+        "start": 116.138,
+        "end": 116.421
+      }
+    ]
+  }
+]

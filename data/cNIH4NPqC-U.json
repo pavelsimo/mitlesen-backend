@@ -1,0 +1,1253 @@
+[
+  {
+    "id": 0,
+    "text": " Abgefahren!",
+    "start": 0.632,
+    "end": 1.112,
+    "words": [
+      {
+        "text": "Abgefahren!",
+        "start": 0.632,
+        "end": 1.112
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sag bloß, die alte fährt jetzt meinen Brosse-Körper durch die Gegend!",
+    "start": 1.613,
+    "end": 4.696,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 1.613,
+        "end": 1.873
+      },
+      {
+        "text": "bloß,",
+        "start": 1.893,
+        "end": 2.113
+      },
+      {
+        "text": "die",
+        "start": 2.133,
+        "end": 2.213
+      },
+      {
+        "text": "alte",
+        "start": 2.253,
+        "end": 2.414
+      },
+      {
+        "text": "fährt",
+        "start": 2.454,
+        "end": 2.614
+      },
+      {
+        "text": "jetzt",
+        "start": 2.634,
+        "end": 2.774
+      },
+      {
+        "text": "meinen",
+        "start": 2.794,
+        "end": 2.934
+      },
+      {
+        "text": "Brosse-Körper",
+        "start": 2.954,
+        "end": 3.555
+      },
+      {
+        "text": "durch",
+        "start": 3.575,
+        "end": 3.715
+      },
+      {
+        "text": "die",
+        "start": 3.755,
+        "end": 3.855
+      },
+      {
+        "text": "Gegend!",
+        "start": 3.875,
+        "end": 4.696
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich schwör's, wenn sie mich auch noch im Unterricht gepackt hat, dann reiß dich aus!",
+    "start": 4.716,
+    "end": 13.625,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.716,
+        "end": 4.856
+      },
+      {
+        "text": "schwör's,",
+        "start": 4.896,
+        "end": 5.437
+      },
+      {
+        "text": "wenn",
+        "start": 5.457,
+        "end": 5.617
+      },
+      {
+        "text": "sie",
+        "start": 5.637,
+        "end": 5.717
+      },
+      {
+        "text": "mich",
+        "start": 5.737,
+        "end": 5.857
+      },
+      {
+        "text": "auch",
+        "start": 5.877,
+        "end": 5.977
+      },
+      {
+        "text": "noch",
+        "start": 6.017,
+        "end": 6.097
+      },
+      {
+        "text": "im",
+        "start": 6.137,
+        "end": 6.218
+      },
+      {
+        "text": "Unterricht",
+        "start": 6.258,
+        "end": 6.598
+      },
+      {
+        "text": "gepackt",
+        "start": 6.638,
+        "end": 6.898
+      },
+      {
+        "text": "hat,",
+        "start": 6.918,
+        "end": 7.058
+      },
+      {
+        "text": "dann",
+        "start": 7.078,
+        "end": 7.219
+      },
+      {
+        "text": "reiß",
+        "start": 7.259,
+        "end": 7.499
+      },
+      {
+        "text": "dich",
+        "start": 7.519,
+        "end": 7.739
+      },
+      {
+        "text": "aus!",
+        "start": 7.799,
+        "end": 13.625
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Jammer da, er hat sich ja... Er hat sich ja völlig verändert!",
+    "start": 13.645,
+    "end": 17.069,
+    "words": [
+      {
+        "text": "Jammer",
+        "start": 13.645,
+        "end": 13.906
+      },
+      {
+        "text": "da,",
+        "start": 13.926,
+        "end": 14.026
+      },
+      {
+        "text": "er",
+        "start": 14.066,
+        "end": 14.166
+      },
+      {
+        "text": "hat",
+        "start": 14.186,
+        "end": 14.306
+      },
+      {
+        "text": "sich",
+        "start": 14.326,
+        "end": 14.446
+      },
+      {
+        "text": "ja...",
+        "start": 14.466,
+        "end": 14.947
+      },
+      {
+        "text": "Er",
+        "start": 14.987,
+        "end": 15.127
+      },
+      {
+        "text": "hat",
+        "start": 15.147,
+        "end": 15.307
+      },
+      {
+        "text": "sich",
+        "start": 15.327,
+        "end": 15.447
+      },
+      {
+        "text": "ja",
+        "start": 15.487,
+        "end": 15.608
+      },
+      {
+        "text": "völlig",
+        "start": 15.628,
+        "end": 15.888
+      },
+      {
+        "text": "verändert!",
+        "start": 15.908,
+        "end": 17.069
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Unglaublich, er ist zum Streber mutiert.",
+    "start": 17.109,
+    "end": 19.011,
+    "words": [
+      {
+        "text": "Unglaublich,",
+        "start": 17.109,
+        "end": 17.91
+      },
+      {
+        "text": "er",
+        "start": 17.95,
+        "end": 17.99
+      },
+      {
+        "text": "ist",
+        "start": 18.01,
+        "end": 18.11
+      },
+      {
+        "text": "zum",
+        "start": 18.13,
+        "end": 18.27
+      },
+      {
+        "text": "Streber",
+        "start": 18.29,
+        "end": 18.671
+      },
+      {
+        "text": "mutiert.",
+        "start": 18.711,
+        "end": 19.011
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Herr Lehrer, ist es möglich, dass in diesem Fall die Mitternachtsformel zur Verwendung kommt?",
+    "start": 20.774,
+    "end": 25.301,
+    "words": [
+      {
+        "text": "Herr",
+        "start": 20.774,
+        "end": 20.995
+      },
+      {
+        "text": "Lehrer,",
+        "start": 21.015,
+        "end": 21.596
+      },
+      {
+        "text": "ist",
+        "start": 21.636,
+        "end": 21.776
+      },
+      {
+        "text": "es",
+        "start": 21.816,
+        "end": 21.976
+      },
+      {
+        "text": "möglich,",
+        "start": 21.996,
+        "end": 22.497
+      },
+      {
+        "text": "dass",
+        "start": 22.517,
+        "end": 22.737
+      },
+      {
+        "text": "in",
+        "start": 22.757,
+        "end": 22.857
+      },
+      {
+        "text": "diesem",
+        "start": 22.877,
+        "end": 23.098
+      },
+      {
+        "text": "Fall",
+        "start": 23.138,
+        "end": 23.318
+      },
+      {
+        "text": "die",
+        "start": 23.338,
+        "end": 23.398
+      },
+      {
+        "text": "Mitternachtsformel",
+        "start": 23.438,
+        "end": 24.219
+      },
+      {
+        "text": "zur",
+        "start": 24.239,
+        "end": 24.38
+      },
+      {
+        "text": "Verwendung",
+        "start": 24.42,
+        "end": 24.86
+      },
+      {
+        "text": "kommt?",
+        "start": 24.88,
+        "end": 25.301
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ja, das ist korrekt.",
+    "start": 25.321,
+    "end": 27.865,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 25.321,
+        "end": 26.262
+      },
+      {
+        "text": "das",
+        "start": 26.302,
+        "end": 26.443
+      },
+      {
+        "text": "ist",
+        "start": 26.683,
+        "end": 26.883
+      },
+      {
+        "text": "korrekt.",
+        "start": 26.903,
+        "end": 27.865
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Nun denn, dann gibt es für X genau zwei Lösungen.",
+    "start": 28.005,
+    "end": 30.649,
+    "words": [
+      {
+        "text": "Nun",
+        "start": 28.005,
+        "end": 28.205
+      },
+      {
+        "text": "denn,",
+        "start": 28.225,
+        "end": 28.726
+      },
+      {
+        "text": "dann",
+        "start": 28.746,
+        "end": 28.906
+      },
+      {
+        "text": "gibt",
+        "start": 28.946,
+        "end": 29.066
+      },
+      {
+        "text": "es",
+        "start": 29.106,
+        "end": 29.207
+      },
+      {
+        "text": "für",
+        "start": 29.247,
+        "end": 29.387
+      },
+      {
+        "text": "X",
+        "start": 29.427,
+        "end": 29.547
+      },
+      {
+        "text": "genau",
+        "start": 29.567,
+        "end": 29.888
+      },
+      {
+        "text": "zwei",
+        "start": 29.908,
+        "end": 30.108
+      },
+      {
+        "text": "Lösungen.",
+        "start": 30.128,
+        "end": 30.649
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Eine positiv und eine negativ.",
+    "start": 30.689,
+    "end": 32.251,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 30.689,
+        "end": 30.909
+      },
+      {
+        "text": "positiv",
+        "start": 30.949,
+        "end": 31.35
+      },
+      {
+        "text": "und",
+        "start": 31.39,
+        "end": 31.51
+      },
+      {
+        "text": "eine",
+        "start": 31.55,
+        "end": 31.75
+      },
+      {
+        "text": "negativ.",
+        "start": 31.79,
+        "end": 32.251
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Sagt mal, hängt ihr jetzt völlig?",
+    "start": 32.271,
+    "end": 33.873,
+    "words": [
+      {
+        "text": "Sagt",
+        "start": 32.271,
+        "end": 32.511
+      },
+      {
+        "text": "mal,",
+        "start": 32.551,
+        "end": 32.712
+      },
+      {
+        "text": "hängt",
+        "start": 32.732,
+        "end": 32.892
+      },
+      {
+        "text": "ihr",
+        "start": 32.952,
+        "end": 33.052
+      },
+      {
+        "text": "jetzt",
+        "start": 33.072,
+        "end": 33.192
+      },
+      {
+        "text": "völlig?",
+        "start": 33.232,
+        "end": 33.873
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Kommt sofort mit!",
+    "start": 33.913,
+    "end": 34.695,
+    "words": [
+      {
+        "text": "Kommt",
+        "start": 33.913,
+        "end": 34.294
+      },
+      {
+        "text": "sofort",
+        "start": 34.314,
+        "end": 34.554
+      },
+      {
+        "text": "mit!",
+        "start": 34.574,
+        "end": 34.695
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Mädel, erklär mir, was hier abgeht!",
+    "start": 39.588,
+    "end": 41.731,
+    "words": [
+      {
+        "text": "Mädel,",
+        "start": 39.588,
+        "end": 40.009
+      },
+      {
+        "text": "erklär",
+        "start": 40.049,
+        "end": 40.309
+      },
+      {
+        "text": "mir,",
+        "start": 40.329,
+        "end": 40.469
+      },
+      {
+        "text": "was",
+        "start": 40.509,
+        "end": 40.629
+      },
+      {
+        "text": "hier",
+        "start": 40.649,
+        "end": 40.85
+      },
+      {
+        "text": "abgeht!",
+        "start": 40.87,
+        "end": 41.731
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Hast du irgendeine Peilung, warum wir die Körper getauscht haben?",
+    "start": 41.771,
+    "end": 45.015,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 41.771,
+        "end": 41.951
+      },
+      {
+        "text": "du",
+        "start": 41.971,
+        "end": 42.051
+      },
+      {
+        "text": "irgendeine",
+        "start": 42.091,
+        "end": 42.412
+      },
+      {
+        "text": "Peilung,",
+        "start": 42.452,
+        "end": 42.852
+      },
+      {
+        "text": "warum",
+        "start": 42.872,
+        "end": 43.133
+      },
+      {
+        "text": "wir",
+        "start": 43.153,
+        "end": 43.293
+      },
+      {
+        "text": "die",
+        "start": 43.313,
+        "end": 43.393
+      },
+      {
+        "text": "Körper",
+        "start": 43.433,
+        "end": 43.733
+      },
+      {
+        "text": "getauscht",
+        "start": 43.773,
+        "end": 44.134
+      },
+      {
+        "text": "haben?",
+        "start": 44.174,
+        "end": 45.015
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Keine Ahnung.",
+    "start": 45.055,
+    "end": 45.836,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 45.055,
+        "end": 45.275
+      },
+      {
+        "text": "Ahnung.",
+        "start": 45.335,
+        "end": 45.836
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wie, du hast keine Ahnung?",
+    "start": 45.856,
+    "end": 47.218,
+    "words": [
+      {
+        "text": "Wie,",
+        "start": 45.856,
+        "end": 46.016
+      },
+      {
+        "text": "du",
+        "start": 46.036,
+        "end": 46.176
+      },
+      {
+        "text": "hast",
+        "start": 46.197,
+        "end": 46.397
+      },
+      {
+        "text": "keine",
+        "start": 46.437,
+        "end": 46.637
+      },
+      {
+        "text": "Ahnung?",
+        "start": 46.697,
+        "end": 47.218
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Unglaublich, wie tiefenentspannt du bist!",
+    "start": 47.278,
+    "end": 49.461,
+    "words": [
+      {
+        "text": "Unglaublich,",
+        "start": 47.278,
+        "end": 47.839
+      },
+      {
+        "text": "wie",
+        "start": 47.859,
+        "end": 47.959
+      },
+      {
+        "text": "tiefenentspannt",
+        "start": 47.999,
+        "end": 48.7
+      },
+      {
+        "text": "du",
+        "start": 48.72,
+        "end": 48.86
+      },
+      {
+        "text": "bist!",
+        "start": 48.9,
+        "end": 49.461
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Dir ist schon klar, dass das Ding hier mehr als krass ist?",
+    "start": 49.481,
+    "end": 52.364,
+    "words": [
+      {
+        "text": "Dir",
+        "start": 49.481,
+        "end": 49.621
+      },
+      {
+        "text": "ist",
+        "start": 49.661,
+        "end": 49.781
+      },
+      {
+        "text": "schon",
+        "start": 49.801,
+        "end": 50.041
+      },
+      {
+        "text": "klar,",
+        "start": 50.061,
+        "end": 50.222
+      },
+      {
+        "text": "dass",
+        "start": 50.242,
+        "end": 50.382
+      },
+      {
+        "text": "das",
+        "start": 50.422,
+        "end": 50.522
+      },
+      {
+        "text": "Ding",
+        "start": 50.562,
+        "end": 50.702
+      },
+      {
+        "text": "hier",
+        "start": 50.722,
+        "end": 50.862
+      },
+      {
+        "text": "mehr",
+        "start": 50.882,
+        "end": 51.063
+      },
+      {
+        "text": "als",
+        "start": 51.083,
+        "end": 51.223
+      },
+      {
+        "text": "krass",
+        "start": 51.243,
+        "end": 51.583
+      },
+      {
+        "text": "ist?",
+        "start": 51.663,
+        "end": 52.364
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ja, schon.",
+    "start": 52.404,
+    "end": 53.326,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 52.404,
+        "end": 52.705
+      },
+      {
+        "text": "schon.",
+        "start": 52.765,
+        "end": 53.326
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ja, schon dich selber!",
+    "start": 53.486,
+    "end": 55.028,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 53.486,
+        "end": 53.646
+      },
+      {
+        "text": "schon",
+        "start": 53.686,
+        "end": 53.926
+      },
+      {
+        "text": "dich",
+        "start": 53.986,
+        "end": 54.207
+      },
+      {
+        "text": "selber!",
+        "start": 54.247,
+        "end": 55.028
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Wieso das Ganze passiert ist, kann ich dir nicht sagen.",
+    "start": 55.048,
+    "end": 58.312,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 55.048,
+        "end": 55.368
+      },
+      {
+        "text": "das",
+        "start": 55.408,
+        "end": 55.568
+      },
+      {
+        "text": "Ganze",
+        "start": 55.608,
+        "end": 55.869
+      },
+      {
+        "text": "passiert",
+        "start": 55.909,
+        "end": 56.269
+      },
+      {
+        "text": "ist,",
+        "start": 56.329,
+        "end": 57.471
+      },
+      {
+        "text": "kann",
+        "start": 57.491,
+        "end": 57.651
+      },
+      {
+        "text": "ich",
+        "start": 57.671,
+        "end": 57.771
+      },
+      {
+        "text": "dir",
+        "start": 57.811,
+        "end": 57.931
+      },
+      {
+        "text": "nicht",
+        "start": 57.951,
+        "end": 58.112
+      },
+      {
+        "text": "sagen.",
+        "start": 58.152,
+        "end": 58.312
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Aber ich weiß, wie wir es wieder rückgängig machen können.",
+    "start": 59.617,
+    "end": 62.961,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 59.617,
+        "end": 60.899
+      },
+      {
+        "text": "ich",
+        "start": 60.959,
+        "end": 61.099
+      },
+      {
+        "text": "weiß,",
+        "start": 61.139,
+        "end": 61.339
+      },
+      {
+        "text": "wie",
+        "start": 61.359,
+        "end": 61.459
+      },
+      {
+        "text": "wir",
+        "start": 61.479,
+        "end": 61.599
+      },
+      {
+        "text": "es",
+        "start": 61.639,
+        "end": 61.78
+      },
+      {
+        "text": "wieder",
+        "start": 61.8,
+        "end": 61.98
+      },
+      {
+        "text": "rückgängig",
+        "start": 62.0,
+        "end": 62.42
+      },
+      {
+        "text": "machen",
+        "start": 62.44,
+        "end": 62.68
+      },
+      {
+        "text": "können.",
+        "start": 62.72,
+        "end": 62.961
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Eins ist klar.",
+    "start": 64.462,
+    "end": 65.543,
+    "words": [
+      {
+        "text": "Eins",
+        "start": 64.462,
+        "end": 64.703
+      },
+      {
+        "text": "ist",
+        "start": 64.743,
+        "end": 64.943
+      },
+      {
+        "text": "klar.",
+        "start": 64.983,
+        "end": 65.543
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Es muss etwas mit unserem Sturz von der Treppe zu tun haben.",
+    "start": 65.604,
+    "end": 68.447,
+    "words": [
+      {
+        "text": "Es",
+        "start": 65.604,
+        "end": 65.704
+      },
+      {
+        "text": "muss",
+        "start": 65.724,
+        "end": 65.944
+      },
+      {
+        "text": "etwas",
+        "start": 65.964,
+        "end": 66.184
+      },
+      {
+        "text": "mit",
+        "start": 66.224,
+        "end": 66.344
+      },
+      {
+        "text": "unserem",
+        "start": 66.384,
+        "end": 66.605
+      },
+      {
+        "text": "Sturz",
+        "start": 66.645,
+        "end": 66.905
+      },
+      {
+        "text": "von",
+        "start": 66.925,
+        "end": 67.045
+      },
+      {
+        "text": "der",
+        "start": 67.065,
+        "end": 67.165
+      },
+      {
+        "text": "Treppe",
+        "start": 67.205,
+        "end": 67.506
+      },
+      {
+        "text": "zu",
+        "start": 67.526,
+        "end": 67.626
+      },
+      {
+        "text": "tun",
+        "start": 67.646,
+        "end": 67.846
+      },
+      {
+        "text": "haben.",
+        "start": 67.886,
+        "end": 68.447
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Denn bis dahin waren wir noch normal.",
+    "start": 68.467,
+    "end": 70.709,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 68.467,
+        "end": 68.627
+      },
+      {
+        "text": "bis",
+        "start": 68.667,
+        "end": 68.827
+      },
+      {
+        "text": "dahin",
+        "start": 68.847,
+        "end": 69.147
+      },
+      {
+        "text": "waren",
+        "start": 69.167,
+        "end": 69.327
+      },
+      {
+        "text": "wir",
+        "start": 69.347,
+        "end": 69.488
+      },
+      {
+        "text": "noch",
+        "start": 69.528,
+        "end": 69.668
+      },
+      {
+        "text": "normal.",
+        "start": 69.708,
+        "end": 70.709
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ich bin mir sicher, wenn wir das wiederholen, ist alles wieder beim Alten.",
+    "start": 70.769,
+    "end": 75.134,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 70.769,
+        "end": 70.869
+      },
+      {
+        "text": "bin",
+        "start": 70.889,
+        "end": 71.029
+      },
+      {
+        "text": "mir",
+        "start": 71.049,
+        "end": 71.189
+      },
+      {
+        "text": "sicher,",
+        "start": 71.229,
+        "end": 71.47
+      },
+      {
+        "text": "wenn",
+        "start": 71.49,
+        "end": 71.61
+      },
+      {
+        "text": "wir",
+        "start": 71.63,
+        "end": 71.73
+      },
+      {
+        "text": "das",
+        "start": 71.75,
+        "end": 71.91
+      },
+      {
+        "text": "wiederholen,",
+        "start": 71.93,
+        "end": 72.451
+      },
+      {
+        "text": "ist",
+        "start": 72.491,
+        "end": 72.691
+      },
+      {
+        "text": "alles",
+        "start": 72.711,
+        "end": 72.951
+      },
+      {
+        "text": "wieder",
+        "start": 72.971,
+        "end": 73.171
+      },
+      {
+        "text": "beim",
+        "start": 73.212,
+        "end": 73.412
+      },
+      {
+        "text": "Alten.",
+        "start": 73.472,
+        "end": 75.134
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Dass du da nicht selbst drauf gekommen bist, ist echt armselig.",
+    "start": 75.154,
+    "end": 78.037,
+    "words": [
+      {
+        "text": "Dass",
+        "start": 75.154,
+        "end": 75.354
+      },
+      {
+        "text": "du",
+        "start": 75.374,
+        "end": 75.474
+      },
+      {
+        "text": "da",
+        "start": 75.494,
+        "end": 75.634
+      },
+      {
+        "text": "nicht",
+        "start": 75.654,
+        "end": 75.814
+      },
+      {
+        "text": "selbst",
+        "start": 75.834,
+        "end": 76.034
+      },
+      {
+        "text": "drauf",
+        "start": 76.075,
+        "end": 76.275
+      },
+      {
+        "text": "gekommen",
+        "start": 76.315,
+        "end": 76.675
+      },
+      {
+        "text": "bist,",
+        "start": 76.715,
+        "end": 77.056
+      },
+      {
+        "text": "ist",
+        "start": 77.096,
+        "end": 77.256
+      },
+      {
+        "text": "echt",
+        "start": 77.296,
+        "end": 77.476
+      },
+      {
+        "text": "armselig.",
+        "start": 77.516,
+        "end": 78.037
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Mann, was bist du nur für ne Zimtzicke?",
+    "start": 78.377,
+    "end": 79.838,
+    "words": [
+      {
+        "text": "Mann,",
+        "start": 78.377,
+        "end": 78.597
+      },
+      {
+        "text": "was",
+        "start": 78.637,
+        "end": 78.797
+      },
+      {
+        "text": "bist",
+        "start": 78.837,
+        "end": 79.018
+      },
+      {
+        "text": "du",
+        "start": 79.038,
+        "end": 79.198
+      },
+      {
+        "text": "nur",
+        "start": 79.218,
+        "end": 79.318
+      },
+      {
+        "text": "für",
+        "start": 79.338,
+        "end": 79.438
+      },
+      {
+        "text": "ne",
+        "start": 79.458,
+        "end": 79.578
+      },
+      {
+        "text": "Zimtzicke?",
+        "start": 79.618,
+        "end": 79.838
+      }
+    ]
+  }
+]

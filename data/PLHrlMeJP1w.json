@@ -1,0 +1,577 @@
+[
+  {
+    "id": 0,
+    "text": " Sind alle bereit?",
+    "start": 0.555,
+    "end": 2.115,
+    "words": [
+      {
+        "text": "Sind",
+        "start": 0.555,
+        "end": 0.815
+      },
+      {
+        "text": "alle",
+        "start": 0.855,
+        "end": 1.015
+      },
+      {
+        "text": "bereit?",
+        "start": 1.055,
+        "end": 2.115
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Dann los!",
+    "start": 2.155,
+    "end": 2.576,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 2.155,
+        "end": 2.376
+      },
+      {
+        "text": "los!",
+        "start": 2.416,
+        "end": 2.576
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Er ist wieder zurück.",
+    "start": 4.216,
+    "end": 6.116,
+    "words": [
+      {
+        "text": "Er",
+        "start": 4.216,
+        "end": 4.296
+      },
+      {
+        "text": "ist",
+        "start": 4.336,
+        "end": 4.416
+      },
+      {
+        "text": "wieder",
+        "start": 4.436,
+        "end": 5.056
+      },
+      {
+        "text": "zurück.",
+        "start": 5.096,
+        "end": 6.116
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Dämon, stell dich mir!",
+    "start": 6.156,
+    "end": 8.337,
+    "words": [
+      {
+        "text": "Dämon,",
+        "start": 6.156,
+        "end": 7.037
+      },
+      {
+        "text": "stell",
+        "start": 7.137,
+        "end": 8.037
+      },
+      {
+        "text": "dich",
+        "start": 8.077,
+        "end": 8.237
+      },
+      {
+        "text": "mir!",
+        "start": 8.257,
+        "end": 8.337
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": " Wenn ich Gravity nutze und das Gewicht des Schwertes erhöhe, kurz bevor es seinen Kopf trifft... Gravity!",
+    "start": 37.139,
+    "end": 50.011,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 37.139,
+        "end": 37.539
+      },
+      {
+        "text": "ich",
+        "start": 37.579,
+        "end": 37.659
+      },
+      {
+        "text": "Gravity",
+        "start": 37.7,
+        "end": 37.92
+      },
+      {
+        "text": "nutze",
+        "start": 37.96,
+        "end": 38.26
+      },
+      {
+        "text": "und",
+        "start": 38.28,
+        "end": 38.38
+      },
+      {
+        "text": "das",
+        "start": 38.42,
+        "end": 38.58
+      },
+      {
+        "text": "Gewicht",
+        "start": 38.6,
+        "end": 38.841
+      },
+      {
+        "text": "des",
+        "start": 38.861,
+        "end": 39.001
+      },
+      {
+        "text": "Schwertes",
+        "start": 39.021,
+        "end": 39.361
+      },
+      {
+        "text": "erhöhe,",
+        "start": 39.421,
+        "end": 39.821
+      },
+      {
+        "text": "kurz",
+        "start": 39.841,
+        "end": 40.042
+      },
+      {
+        "text": "bevor",
+        "start": 40.082,
+        "end": 40.282
+      },
+      {
+        "text": "es",
+        "start": 40.342,
+        "end": 40.422
+      },
+      {
+        "text": "seinen",
+        "start": 40.442,
+        "end": 40.682
+      },
+      {
+        "text": "Kopf",
+        "start": 40.702,
+        "end": 40.962
+      },
+      {
+        "text": "trifft...",
+        "start": 40.983,
+        "end": 42.584
+      },
+      {
+        "text": "Gravity!",
+        "start": 42.624,
+        "end": 50.011
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Es hat funktioniert.",
+    "start": 50.071,
+    "end": 52.533,
+    "words": [
+      {
+        "text": "Es",
+        "start": 50.071,
+        "end": 50.211
+      },
+      {
+        "text": "hat",
+        "start": 50.251,
+        "end": 50.451
+      },
+      {
+        "text": "funktioniert.",
+        "start": 50.491,
+        "end": 52.533
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Er mag immun gegen Magieangriffe sein, aber das bringt ihm nichts, wenn er nicht das Ziel eines Zaubers ist.",
+    "start": 52.573,
+    "end": 57.998,
+    "words": [
+      {
+        "text": "Er",
+        "start": 52.573,
+        "end": 52.693
+      },
+      {
+        "text": "mag",
+        "start": 52.713,
+        "end": 52.893
+      },
+      {
+        "text": "immun",
+        "start": 52.933,
+        "end": 53.234
+      },
+      {
+        "text": "gegen",
+        "start": 53.254,
+        "end": 53.434
+      },
+      {
+        "text": "Magieangriffe",
+        "start": 53.474,
+        "end": 54.175
+      },
+      {
+        "text": "sein,",
+        "start": 54.195,
+        "end": 54.875
+      },
+      {
+        "text": "aber",
+        "start": 54.915,
+        "end": 55.095
+      },
+      {
+        "text": "das",
+        "start": 55.115,
+        "end": 55.236
+      },
+      {
+        "text": "bringt",
+        "start": 55.256,
+        "end": 55.456
+      },
+      {
+        "text": "ihm",
+        "start": 55.496,
+        "end": 55.636
+      },
+      {
+        "text": "nichts,",
+        "start": 55.656,
+        "end": 55.796
+      },
+      {
+        "text": "wenn",
+        "start": 55.836,
+        "end": 55.956
+      },
+      {
+        "text": "er",
+        "start": 55.996,
+        "end": 56.056
+      },
+      {
+        "text": "nicht",
+        "start": 56.076,
+        "end": 56.216
+      },
+      {
+        "text": "das",
+        "start": 56.256,
+        "end": 56.397
+      },
+      {
+        "text": "Ziel",
+        "start": 56.437,
+        "end": 56.657
+      },
+      {
+        "text": "eines",
+        "start": 56.677,
+        "end": 56.917
+      },
+      {
+        "text": "Zaubers",
+        "start": 56.977,
+        "end": 57.317
+      },
+      {
+        "text": "ist.",
+        "start": 57.378,
+        "end": 57.998
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Denn ich habe schließlich nur das Schwert selbst angewendet.",
+    "start": 58.018,
+    "end": 60.6,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 58.018,
+        "end": 58.198
+      },
+      {
+        "text": "ich",
+        "start": 58.238,
+        "end": 58.338
+      },
+      {
+        "text": "habe",
+        "start": 58.378,
+        "end": 58.599
+      },
+      {
+        "text": "schließlich",
+        "start": 58.619,
+        "end": 59.079
+      },
+      {
+        "text": "nur",
+        "start": 59.119,
+        "end": 59.279
+      },
+      {
+        "text": "das",
+        "start": 59.299,
+        "end": 59.399
+      },
+      {
+        "text": "Schwert",
+        "start": 59.439,
+        "end": 59.72
+      },
+      {
+        "text": "selbst",
+        "start": 59.76,
+        "end": 60.06
+      },
+      {
+        "text": "angewendet.",
+        "start": 60.1,
+        "end": 60.6
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Toya!",
+    "start": 61.161,
+    "end": 61.261,
+    "words": [
+      {
+        "text": "Toya!",
+        "start": 61.161,
+        "end": 61.261
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Alles in Ordnung mit euch?",
+    "start": 65.719,
+    "end": 67.061,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 65.719,
+        "end": 65.899
+      },
+      {
+        "text": "in",
+        "start": 65.939,
+        "end": 66.039
+      },
+      {
+        "text": "Ordnung",
+        "start": 66.059,
+        "end": 66.28
+      },
+      {
+        "text": "mit",
+        "start": 66.3,
+        "end": 66.42
+      },
+      {
+        "text": "euch?",
+        "start": 66.46,
+        "end": 67.061
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ja, uns geht es sehr gut.",
+    "start": 67.101,
+    "end": 68.805,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 67.101,
+        "end": 67.342
+      },
+      {
+        "text": "uns",
+        "start": 67.402,
+        "end": 67.602
+      },
+      {
+        "text": "geht",
+        "start": 67.622,
+        "end": 67.783
+      },
+      {
+        "text": "es",
+        "start": 67.843,
+        "end": 67.963
+      },
+      {
+        "text": "sehr",
+        "start": 68.003,
+        "end": 68.223
+      },
+      {
+        "text": "gut.",
+        "start": 68.264,
+        "end": 68.805
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Toya, du warst wieder einmal unglaublich!",
+    "start": 68.825,
+    "end": 71.209,
+    "words": [
+      {
+        "text": "Toya,",
+        "start": 68.825,
+        "end": 69.205
+      },
+      {
+        "text": "du",
+        "start": 69.225,
+        "end": 69.326
+      },
+      {
+        "text": "warst",
+        "start": 69.366,
+        "end": 69.546
+      },
+      {
+        "text": "wieder",
+        "start": 69.566,
+        "end": 69.766
+      },
+      {
+        "text": "einmal",
+        "start": 69.807,
+        "end": 70.067
+      },
+      {
+        "text": "unglaublich!",
+        "start": 70.107,
+        "end": 71.209
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du hast ihn mit einem Schlag fertig gemacht!",
+    "start": 71.249,
+    "end": 73.414,
+    "words": [
+      {
+        "text": "Du",
+        "start": 71.249,
+        "end": 71.39
+      },
+      {
+        "text": "hast",
+        "start": 71.41,
+        "end": 71.57
+      },
+      {
+        "text": "ihn",
+        "start": 71.61,
+        "end": 71.71
+      },
+      {
+        "text": "mit",
+        "start": 71.73,
+        "end": 71.891
+      },
+      {
+        "text": "einem",
+        "start": 71.931,
+        "end": 72.091
+      },
+      {
+        "text": "Schlag",
+        "start": 72.111,
+        "end": 72.392
+      },
+      {
+        "text": "fertig",
+        "start": 72.432,
+        "end": 72.772
+      },
+      {
+        "text": "gemacht!",
+        "start": 72.812,
+        "end": 73.414
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Einfach unfassbar!",
+    "start": 73.474,
+    "end": 74.916,
+    "words": [
+      {
+        "text": "Einfach",
+        "start": 73.474,
+        "end": 73.814
+      },
+      {
+        "text": "unfassbar!",
+        "start": 73.874,
+        "end": 74.916
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Danke euch.",
+    "start": 74.977,
+    "end": 75.437,
+    "words": [
+      {
+        "text": "Danke",
+        "start": 74.977,
+        "end": 75.217
+      },
+      {
+        "text": "euch.",
+        "start": 75.317,
+        "end": 75.437
+      }
+    ]
+  }
+]

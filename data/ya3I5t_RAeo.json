@@ -1,0 +1,1474 @@
+[
+  {
+    "id": 0,
+    "text": " Verdammt schnell.",
+    "start": 11.793,
+    "end": 13.814,
+    "words": [
+      {
+        "text": "Verdammt",
+        "start": 11.793,
+        "end": 12.974
+      },
+      {
+        "text": "schnell.",
+        "start": 13.034,
+        "end": 13.814
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das Rote ist dreimal schneller als die anderen.",
+    "start": 13.854,
+    "end": 16.055,
+    "words": [
+      {
+        "text": "Das",
+        "start": 13.854,
+        "end": 14.014
+      },
+      {
+        "text": "Rote",
+        "start": 14.054,
+        "end": 14.254
+      },
+      {
+        "text": "ist",
+        "start": 14.294,
+        "end": 14.434
+      },
+      {
+        "text": "dreimal",
+        "start": 14.454,
+        "end": 14.795
+      },
+      {
+        "text": "schneller",
+        "start": 14.835,
+        "end": 15.095
+      },
+      {
+        "text": "als",
+        "start": 15.135,
+        "end": 15.295
+      },
+      {
+        "text": "die",
+        "start": 15.315,
+        "end": 15.395
+      },
+      {
+        "text": "anderen.",
+        "start": 15.435,
+        "end": 16.055
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Aber... Ich bin noch ein kleines bisschen schneller.",
+    "start": 16.115,
+    "end": 20.998,
+    "words": [
+      {
+        "text": "Aber...",
+        "start": 16.115,
+        "end": 19.397
+      },
+      {
+        "text": "Ich",
+        "start": 19.437,
+        "end": 19.557
+      },
+      {
+        "text": "bin",
+        "start": 19.577,
+        "end": 19.737
+      },
+      {
+        "text": "noch",
+        "start": 19.757,
+        "end": 19.877
+      },
+      {
+        "text": "ein",
+        "start": 19.897,
+        "end": 20.017
+      },
+      {
+        "text": "kleines",
+        "start": 20.057,
+        "end": 20.358
+      },
+      {
+        "text": "bisschen",
+        "start": 20.378,
+        "end": 20.698
+      },
+      {
+        "text": "schneller.",
+        "start": 20.738,
+        "end": 20.998
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Riotas Max MP sind um eins angestiegen.",
+    "start": 23.979,
+    "end": 27.281,
+    "words": [
+      {
+        "text": "Riotas",
+        "start": 23.979,
+        "end": 24.68
+      },
+      {
+        "text": "Max",
+        "start": 24.7,
+        "end": 25.0
+      },
+      {
+        "text": "MP",
+        "start": 25.08,
+        "end": 25.5
+      },
+      {
+        "text": "sind",
+        "start": 25.52,
+        "end": 25.72
+      },
+      {
+        "text": "um",
+        "start": 25.76,
+        "end": 25.92
+      },
+      {
+        "text": "eins",
+        "start": 25.96,
+        "end": 26.221
+      },
+      {
+        "text": "angestiegen.",
+        "start": 26.261,
+        "end": 27.281
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich verstehe.",
+    "start": 27.321,
+    "end": 28.262,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.321,
+        "end": 27.481
+      },
+      {
+        "text": "verstehe.",
+        "start": 27.501,
+        "end": 28.262
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Im fünften Stock sind es also MP.",
+    "start": 28.322,
+    "end": 30.483,
+    "words": [
+      {
+        "text": "Im",
+        "start": 28.322,
+        "end": 28.502
+      },
+      {
+        "text": "fünften",
+        "start": 28.522,
+        "end": 28.862
+      },
+      {
+        "text": "Stock",
+        "start": 28.902,
+        "end": 29.122
+      },
+      {
+        "text": "sind",
+        "start": 29.142,
+        "end": 29.282
+      },
+      {
+        "text": "es",
+        "start": 29.342,
+        "end": 29.462
+      },
+      {
+        "text": "also",
+        "start": 29.502,
+        "end": 29.722
+      },
+      {
+        "text": "MP.",
+        "start": 29.802,
+        "end": 30.483
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Hier steigen die Magie-Punkte an.",
+    "start": 30.523,
+    "end": 33.644,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 30.523,
+        "end": 30.723
+      },
+      {
+        "text": "steigen",
+        "start": 30.743,
+        "end": 31.063
+      },
+      {
+        "text": "die",
+        "start": 31.083,
+        "end": 31.183
+      },
+      {
+        "text": "Magie-Punkte",
+        "start": 31.243,
+        "end": 31.884
+      },
+      {
+        "text": "an.",
+        "start": 31.944,
+        "end": 33.644
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Moment mal.",
+    "start": 33.685,
+    "end": 34.305,
+    "words": [
+      {
+        "text": "Moment",
+        "start": 33.685,
+        "end": 33.945
+      },
+      {
+        "text": "mal.",
+        "start": 34.045,
+        "end": 34.305
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "MP sind doch die Punkte, die man braucht, um Magie zu benutzen.",
+    "start": 34.445,
+    "end": 37.907,
+    "words": [
+      {
+        "text": "MP",
+        "start": 34.445,
+        "end": 34.725
+      },
+      {
+        "text": "sind",
+        "start": 34.745,
+        "end": 34.905
+      },
+      {
+        "text": "doch",
+        "start": 34.945,
+        "end": 35.085
+      },
+      {
+        "text": "die",
+        "start": 35.105,
+        "end": 35.265
+      },
+      {
+        "text": "Punkte,",
+        "start": 35.305,
+        "end": 35.586
+      },
+      {
+        "text": "die",
+        "start": 35.606,
+        "end": 35.706
+      },
+      {
+        "text": "man",
+        "start": 35.726,
+        "end": 35.846
+      },
+      {
+        "text": "braucht,",
+        "start": 35.886,
+        "end": 36.146
+      },
+      {
+        "text": "um",
+        "start": 36.186,
+        "end": 36.266
+      },
+      {
+        "text": "Magie",
+        "start": 36.306,
+        "end": 36.626
+      },
+      {
+        "text": "zu",
+        "start": 36.646,
+        "end": 36.726
+      },
+      {
+        "text": "benutzen.",
+        "start": 36.766,
+        "end": 37.907
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Und woher lerne ich jetzt, wie ich Zauber einsetze?",
+    "start": 37.947,
+    "end": 40.108,
+    "words": [
+      {
+        "text": "Und",
+        "start": 37.947,
+        "end": 38.147
+      },
+      {
+        "text": "woher",
+        "start": 38.167,
+        "end": 38.447
+      },
+      {
+        "text": "lerne",
+        "start": 38.467,
+        "end": 38.707
+      },
+      {
+        "text": "ich",
+        "start": 38.747,
+        "end": 38.867
+      },
+      {
+        "text": "jetzt,",
+        "start": 38.887,
+        "end": 39.087
+      },
+      {
+        "text": "wie",
+        "start": 39.127,
+        "end": 39.227
+      },
+      {
+        "text": "ich",
+        "start": 39.267,
+        "end": 39.428
+      },
+      {
+        "text": "Zauber",
+        "start": 39.468,
+        "end": 39.728
+      },
+      {
+        "text": "einsetze?",
+        "start": 39.748,
+        "end": 40.108
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Das waren genau drei Millionen Pyro.",
+    "start": 43.684,
+    "end": 45.825,
+    "words": [
+      {
+        "text": "Das",
+        "start": 43.684,
+        "end": 43.804
+      },
+      {
+        "text": "waren",
+        "start": 43.824,
+        "end": 44.024
+      },
+      {
+        "text": "genau",
+        "start": 44.044,
+        "end": 44.264
+      },
+      {
+        "text": "drei",
+        "start": 44.284,
+        "end": 44.464
+      },
+      {
+        "text": "Millionen",
+        "start": 44.485,
+        "end": 44.865
+      },
+      {
+        "text": "Pyro.",
+        "start": 44.905,
+        "end": 45.825
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich hab es wirklich gekauft.",
+    "start": 45.865,
+    "end": 47.306,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 45.865,
+        "end": 45.945
+      },
+      {
+        "text": "hab",
+        "start": 45.965,
+        "end": 46.105
+      },
+      {
+        "text": "es",
+        "start": 46.165,
+        "end": 46.285
+      },
+      {
+        "text": "wirklich",
+        "start": 46.305,
+        "end": 46.626
+      },
+      {
+        "text": "gekauft.",
+        "start": 46.666,
+        "end": 47.306
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Hast du.",
+    "start": 47.346,
+    "end": 48.046,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 47.346,
+        "end": 47.646
+      },
+      {
+        "text": "du.",
+        "start": 47.686,
+        "end": 48.046
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Im Normalfall würdest du Magie und neue Zauber erlernen, wenn du Level-Ups erhältst.",
+    "start": 48.086,
+    "end": 52.048,
+    "words": [
+      {
+        "text": "Im",
+        "start": 48.086,
+        "end": 48.186
+      },
+      {
+        "text": "Normalfall",
+        "start": 48.226,
+        "end": 48.827
+      },
+      {
+        "text": "würdest",
+        "start": 48.847,
+        "end": 49.067
+      },
+      {
+        "text": "du",
+        "start": 49.107,
+        "end": 49.187
+      },
+      {
+        "text": "Magie",
+        "start": 49.247,
+        "end": 49.487
+      },
+      {
+        "text": "und",
+        "start": 49.507,
+        "end": 49.647
+      },
+      {
+        "text": "neue",
+        "start": 49.667,
+        "end": 49.887
+      },
+      {
+        "text": "Zauber",
+        "start": 49.927,
+        "end": 50.227
+      },
+      {
+        "text": "erlernen,",
+        "start": 50.247,
+        "end": 50.548
+      },
+      {
+        "text": "wenn",
+        "start": 50.568,
+        "end": 50.688
+      },
+      {
+        "text": "du",
+        "start": 50.728,
+        "end": 50.808
+      },
+      {
+        "text": "Level-Ups",
+        "start": 50.848,
+        "end": 51.388
+      },
+      {
+        "text": "erhältst.",
+        "start": 51.428,
+        "end": 52.048
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Nur kannst du dein Magielevel nicht einfach so erhöhen.",
+    "start": 52.108,
+    "end": 55.37,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 52.108,
+        "end": 52.308
+      },
+      {
+        "text": "kannst",
+        "start": 52.348,
+        "end": 52.549
+      },
+      {
+        "text": "du",
+        "start": 52.569,
+        "end": 52.669
+      },
+      {
+        "text": "dein",
+        "start": 52.689,
+        "end": 52.849
+      },
+      {
+        "text": "Magielevel",
+        "start": 52.889,
+        "end": 53.469
+      },
+      {
+        "text": "nicht",
+        "start": 53.509,
+        "end": 53.689
+      },
+      {
+        "text": "einfach",
+        "start": 53.729,
+        "end": 54.009
+      },
+      {
+        "text": "so",
+        "start": 54.029,
+        "end": 54.209
+      },
+      {
+        "text": "erhöhen.",
+        "start": 54.249,
+        "end": 55.37
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Aber wenn du diese seltene Magiefrucht isst, umgehst du das und kannst einen zufälligen Zauber erlernen.",
+    "start": 55.43,
+    "end": 61.393,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 55.43,
+        "end": 55.95
+      },
+      {
+        "text": "wenn",
+        "start": 55.97,
+        "end": 56.13
+      },
+      {
+        "text": "du",
+        "start": 56.17,
+        "end": 56.39
+      },
+      {
+        "text": "diese",
+        "start": 56.43,
+        "end": 56.751
+      },
+      {
+        "text": "seltene",
+        "start": 56.791,
+        "end": 57.111
+      },
+      {
+        "text": "Magiefrucht",
+        "start": 57.211,
+        "end": 57.811
+      },
+      {
+        "text": "isst,",
+        "start": 57.871,
+        "end": 58.211
+      },
+      {
+        "text": "umgehst",
+        "start": 58.251,
+        "end": 58.632
+      },
+      {
+        "text": "du",
+        "start": 58.652,
+        "end": 58.752
+      },
+      {
+        "text": "das",
+        "start": 58.772,
+        "end": 58.932
+      },
+      {
+        "text": "und",
+        "start": 58.952,
+        "end": 59.092
+      },
+      {
+        "text": "kannst",
+        "start": 59.112,
+        "end": 59.372
+      },
+      {
+        "text": "einen",
+        "start": 59.392,
+        "end": 59.552
+      },
+      {
+        "text": "zufälligen",
+        "start": 59.592,
+        "end": 60.072
+      },
+      {
+        "text": "Zauber",
+        "start": 60.132,
+        "end": 60.432
+      },
+      {
+        "text": "erlernen.",
+        "start": 60.473,
+        "end": 61.393
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ich wusste nicht, dass es so etwas gibt.",
+    "start": 61.433,
+    "end": 63.294,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 61.433,
+        "end": 61.513
+      },
+      {
+        "text": "wusste",
+        "start": 61.553,
+        "end": 61.833
+      },
+      {
+        "text": "nicht,",
+        "start": 61.853,
+        "end": 61.973
+      },
+      {
+        "text": "dass",
+        "start": 62.013,
+        "end": 62.133
+      },
+      {
+        "text": "es",
+        "start": 62.193,
+        "end": 62.273
+      },
+      {
+        "text": "so",
+        "start": 62.293,
+        "end": 62.413
+      },
+      {
+        "text": "etwas",
+        "start": 62.433,
+        "end": 62.734
+      },
+      {
+        "text": "gibt.",
+        "start": 62.774,
+        "end": 63.294
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Wie wäre es, wenn du ein Stück probierst?",
+    "start": 63.354,
+    "end": 65.175,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 63.354,
+        "end": 63.494
+      },
+      {
+        "text": "wäre",
+        "start": 63.534,
+        "end": 63.814
+      },
+      {
+        "text": "es,",
+        "start": 63.834,
+        "end": 63.934
+      },
+      {
+        "text": "wenn",
+        "start": 63.954,
+        "end": 64.074
+      },
+      {
+        "text": "du",
+        "start": 64.114,
+        "end": 64.194
+      },
+      {
+        "text": "ein",
+        "start": 64.214,
+        "end": 64.334
+      },
+      {
+        "text": "Stück",
+        "start": 64.354,
+        "end": 64.615
+      },
+      {
+        "text": "probierst?",
+        "start": 64.635,
+        "end": 65.175
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Nein, ich hab was vor.",
+    "start": 65.964,
+    "end": 67.485,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 65.964,
+        "end": 66.264
+      },
+      {
+        "text": "ich",
+        "start": 66.304,
+        "end": 66.404
+      },
+      {
+        "text": "hab",
+        "start": 66.424,
+        "end": 66.584
+      },
+      {
+        "text": "was",
+        "start": 66.645,
+        "end": 66.825
+      },
+      {
+        "text": "vor.",
+        "start": 66.845,
+        "end": 67.485
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Selbstverständlich sind wir nicht ohne Grund so weit aus der Stadt rausgegangen.",
+    "start": 67.525,
+    "end": 71.207,
+    "words": [
+      {
+        "text": "Selbstverständlich",
+        "start": 67.525,
+        "end": 68.505
+      },
+      {
+        "text": "sind",
+        "start": 68.525,
+        "end": 68.665
+      },
+      {
+        "text": "wir",
+        "start": 68.686,
+        "end": 68.826
+      },
+      {
+        "text": "nicht",
+        "start": 68.846,
+        "end": 69.006
+      },
+      {
+        "text": "ohne",
+        "start": 69.046,
+        "end": 69.266
+      },
+      {
+        "text": "Grund",
+        "start": 69.306,
+        "end": 69.486
+      },
+      {
+        "text": "so",
+        "start": 69.526,
+        "end": 69.646
+      },
+      {
+        "text": "weit",
+        "start": 69.686,
+        "end": 69.826
+      },
+      {
+        "text": "aus",
+        "start": 69.866,
+        "end": 69.966
+      },
+      {
+        "text": "der",
+        "start": 70.006,
+        "end": 70.106
+      },
+      {
+        "text": "Stadt",
+        "start": 70.126,
+        "end": 70.306
+      },
+      {
+        "text": "rausgegangen.",
+        "start": 70.366,
+        "end": 71.207
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich bin mir nicht sicher, ob das funktioniert.",
+    "start": 71.247,
+    "end": 73.568,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 71.247,
+        "end": 71.367
+      },
+      {
+        "text": "bin",
+        "start": 71.387,
+        "end": 71.527
+      },
+      {
+        "text": "mir",
+        "start": 71.547,
+        "end": 71.687
+      },
+      {
+        "text": "nicht",
+        "start": 71.707,
+        "end": 71.887
+      },
+      {
+        "text": "sicher,",
+        "start": 71.927,
+        "end": 72.147
+      },
+      {
+        "text": "ob",
+        "start": 72.187,
+        "end": 72.287
+      },
+      {
+        "text": "das",
+        "start": 72.327,
+        "end": 72.507
+      },
+      {
+        "text": "funktioniert.",
+        "start": 72.547,
+        "end": 73.568
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Aber ich muss es wenigstens einmal versuchen.",
+    "start": 73.608,
+    "end": 79.611,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 73.608,
+        "end": 73.748
+      },
+      {
+        "text": "ich",
+        "start": 73.808,
+        "end": 73.888
+      },
+      {
+        "text": "muss",
+        "start": 73.908,
+        "end": 74.048
+      },
+      {
+        "text": "es",
+        "start": 74.088,
+        "end": 74.208
+      },
+      {
+        "text": "wenigstens",
+        "start": 74.248,
+        "end": 74.668
+      },
+      {
+        "text": "einmal",
+        "start": 74.688,
+        "end": 74.989
+      },
+      {
+        "text": "versuchen.",
+        "start": 75.009,
+        "end": 79.611
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Das hast du vor.",
+    "start": 79.631,
+    "end": 80.631,
+    "words": [
+      {
+        "text": "Das",
+        "start": 79.631,
+        "end": 79.811
+      },
+      {
+        "text": "hast",
+        "start": 79.831,
+        "end": 80.031
+      },
+      {
+        "text": "du",
+        "start": 80.071,
+        "end": 80.231
+      },
+      {
+        "text": "vor.",
+        "start": 80.291,
+        "end": 80.631
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Du willst also wissen, was der Streuner davon droppen lässt.",
+    "start": 80.671,
+    "end": 90.256,
+    "words": [
+      {
+        "text": "Du",
+        "start": 80.671,
+        "end": 80.771
+      },
+      {
+        "text": "willst",
+        "start": 80.791,
+        "end": 81.052
+      },
+      {
+        "text": "also",
+        "start": 81.092,
+        "end": 81.292
+      },
+      {
+        "text": "wissen,",
+        "start": 81.332,
+        "end": 81.532
+      },
+      {
+        "text": "was",
+        "start": 81.552,
+        "end": 81.692
+      },
+      {
+        "text": "der",
+        "start": 81.712,
+        "end": 81.812
+      },
+      {
+        "text": "Streuner",
+        "start": 81.832,
+        "end": 82.172
+      },
+      {
+        "text": "davon",
+        "start": 82.192,
+        "end": 82.412
+      },
+      {
+        "text": "droppen",
+        "start": 82.452,
+        "end": 82.752
+      },
+      {
+        "text": "lässt.",
+        "start": 82.772,
+        "end": 90.256
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Was ist das denn?",
+    "start": 90.316,
+    "end": 91.437,
+    "words": [
+      {
+        "text": "Was",
+        "start": 90.316,
+        "end": 90.476
+      },
+      {
+        "text": "ist",
+        "start": 90.536,
+        "end": 90.736
+      },
+      {
+        "text": "das",
+        "start": 90.776,
+        "end": 90.956
+      },
+      {
+        "text": "denn?",
+        "start": 90.976,
+        "end": 91.437
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Sieht aus, als wäre das ein Ryuta Sato aus Metall.",
+    "start": 91.457,
+    "end": 93.738,
+    "words": [
+      {
+        "text": "Sieht",
+        "start": 91.457,
+        "end": 91.637
+      },
+      {
+        "text": "aus,",
+        "start": 91.677,
+        "end": 91.837
+      },
+      {
+        "text": "als",
+        "start": 91.877,
+        "end": 91.997
+      },
+      {
+        "text": "wäre",
+        "start": 92.037,
+        "end": 92.217
+      },
+      {
+        "text": "das",
+        "start": 92.237,
+        "end": 92.377
+      },
+      {
+        "text": "ein",
+        "start": 92.397,
+        "end": 92.497
+      },
+      {
+        "text": "Ryuta",
+        "start": 92.537,
+        "end": 92.957
+      },
+      {
+        "text": "Sato",
+        "start": 92.977,
+        "end": 93.218
+      },
+      {
+        "text": "aus",
+        "start": 93.258,
+        "end": 93.398
+      },
+      {
+        "text": "Metall.",
+        "start": 93.418,
+        "end": 93.738
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": " Der ist hart, er ist schnell und auch noch stark.",
+    "start": 103.652,
+    "end": 106.574,
+    "words": [
+      {
+        "text": "Der",
+        "start": 103.652,
+        "end": 103.752
+      },
+      {
+        "text": "ist",
+        "start": 103.772,
+        "end": 103.872
+      },
+      {
+        "text": "hart,",
+        "start": 103.892,
+        "end": 104.153
+      },
+      {
+        "text": "er",
+        "start": 104.193,
+        "end": 104.253
+      },
+      {
+        "text": "ist",
+        "start": 104.273,
+        "end": 104.433
+      },
+      {
+        "text": "schnell",
+        "start": 104.473,
+        "end": 104.893
+      },
+      {
+        "text": "und",
+        "start": 104.913,
+        "end": 105.113
+      },
+      {
+        "text": "auch",
+        "start": 105.133,
+        "end": 105.313
+      },
+      {
+        "text": "noch",
+        "start": 105.333,
+        "end": 105.513
+      },
+      {
+        "text": "stark.",
+        "start": 105.553,
+        "end": 106.574
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Dieses Monster ist wohl circa 80% so stark wie das, was es kopiert.",
+    "start": 106.614,
+    "end": 110.717,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 106.614,
+        "end": 106.914
+      },
+      {
+        "text": "Monster",
+        "start": 106.954,
+        "end": 107.254
+      },
+      {
+        "text": "ist",
+        "start": 107.274,
+        "end": 107.374
+      },
+      {
+        "text": "wohl",
+        "start": 107.394,
+        "end": 107.595
+      },
+      {
+        "text": "circa",
+        "start": 107.635,
+        "end": 108.655
+      },
+      {
+        "text": "so",
+        "start": 108.695,
+        "end": 108.815
+      },
+      {
+        "text": "stark",
+        "start": 108.855,
+        "end": 109.076
+      },
+      {
+        "text": "wie",
+        "start": 109.096,
+        "end": 109.236
+      },
+      {
+        "text": "das,",
+        "start": 109.276,
+        "end": 109.396
+      },
+      {
+        "text": "was",
+        "start": 109.456,
+        "end": 109.556
+      },
+      {
+        "text": "es",
+        "start": 109.596,
+        "end": 109.696
+      },
+      {
+        "text": "kopiert.",
+        "start": 109.736,
+        "end": 110.717
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Da will man kein New Game Plus starten.",
+    "start": 110.737,
+    "end": 121.883,
+    "words": [
+      {
+        "text": "Da",
+        "start": 110.737,
+        "end": 110.937
+      },
+      {
+        "text": "will",
+        "start": 110.977,
+        "end": 111.137
+      },
+      {
+        "text": "man",
+        "start": 111.177,
+        "end": 111.377
+      },
+      {
+        "text": "kein",
+        "start": 111.417,
+        "end": 111.637
+      },
+      {
+        "text": "New",
+        "start": 111.677,
+        "end": 111.817
+      },
+      {
+        "text": "Game",
+        "start": 111.837,
+        "end": 112.077
+      },
+      {
+        "text": "Plus",
+        "start": 112.117,
+        "end": 112.378
+      },
+      {
+        "text": "starten.",
+        "start": 112.398,
+        "end": 121.883
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Es ist wieder eine Magiefrucht.",
+    "start": 121.963,
+    "end": 123.684,
+    "words": [
+      {
+        "text": "Es",
+        "start": 121.963,
+        "end": 122.063
+      },
+      {
+        "text": "ist",
+        "start": 122.103,
+        "end": 122.243
+      },
+      {
+        "text": "wieder",
+        "start": 122.263,
+        "end": 122.444
+      },
+      {
+        "text": "eine",
+        "start": 122.484,
+        "end": 122.604
+      },
+      {
+        "text": "Magiefrucht.",
+        "start": 122.664,
+        "end": 123.684
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ja, aber anders als vorher.",
+    "start": 123.724,
+    "end": 127.086,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 123.724,
+        "end": 124.185
+      },
+      {
+        "text": "aber",
+        "start": 124.225,
+        "end": 124.445
+      },
+      {
+        "text": "anders",
+        "start": 124.485,
+        "end": 124.745
+      },
+      {
+        "text": "als",
+        "start": 124.785,
+        "end": 124.985
+      },
+      {
+        "text": "vorher.",
+        "start": 125.005,
+        "end": 127.086
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Warte mal.",
+    "start": 127.146,
+    "end": 128.107,
+    "words": [
+      {
+        "text": "Warte",
+        "start": 127.146,
+        "end": 127.527
+      },
+      {
+        "text": "mal.",
+        "start": 127.587,
+        "end": 128.107
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Bedeutet das etwa... Sicher.",
+    "start": 128.147,
+    "end": 130.048,
+    "words": [
+      {
+        "text": "Bedeutet",
+        "start": 128.147,
+        "end": 128.527
+      },
+      {
+        "text": "das",
+        "start": 128.547,
+        "end": 128.727
+      },
+      {
+        "text": "etwa...",
+        "start": 128.767,
+        "end": 129.348
+      },
+      {
+        "text": "Sicher.",
+        "start": 129.388,
+        "end": 130.048
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Ja, ich bin mir sicher.",
+    "start": 130.108,
+    "end": 131.249,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 130.108,
+        "end": 130.448
+      },
+      {
+        "text": "ich",
+        "start": 130.488,
+        "end": 130.589
+      },
+      {
+        "text": "bin",
+        "start": 130.609,
+        "end": 130.769
+      },
+      {
+        "text": "mir",
+        "start": 130.809,
+        "end": 130.989
+      },
+      {
+        "text": "sicher.",
+        "start": 131.029,
+        "end": 131.249
+      }
+    ]
+  }
+]

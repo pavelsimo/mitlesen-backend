@@ -1,0 +1,1663 @@
+[
+  {
+    "id": 0,
+    "text": " Dieses Jahr muss unsere Klasse die meisten Verkäufe der Schule machen, damit wir den Preis bekommen.",
+    "start": 2.143,
+    "end": 8.506,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 2.143,
+        "end": 3.084
+      },
+      {
+        "text": "Jahr",
+        "start": 3.104,
+        "end": 3.244
+      },
+      {
+        "text": "muss",
+        "start": 3.264,
+        "end": 3.404
+      },
+      {
+        "text": "unsere",
+        "start": 3.444,
+        "end": 3.744
+      },
+      {
+        "text": "Klasse",
+        "start": 3.784,
+        "end": 4.124
+      },
+      {
+        "text": "die",
+        "start": 4.164,
+        "end": 4.284
+      },
+      {
+        "text": "meisten",
+        "start": 4.304,
+        "end": 4.604
+      },
+      {
+        "text": "Verkäufe",
+        "start": 4.664,
+        "end": 5.145
+      },
+      {
+        "text": "der",
+        "start": 5.165,
+        "end": 5.265
+      },
+      {
+        "text": "Schule",
+        "start": 5.305,
+        "end": 5.585
+      },
+      {
+        "text": "machen,",
+        "start": 5.625,
+        "end": 5.885
+      },
+      {
+        "text": "damit",
+        "start": 5.925,
+        "end": 6.145
+      },
+      {
+        "text": "wir",
+        "start": 6.165,
+        "end": 6.285
+      },
+      {
+        "text": "den",
+        "start": 6.305,
+        "end": 6.465
+      },
+      {
+        "text": "Preis",
+        "start": 7.206,
+        "end": 7.486
+      },
+      {
+        "text": "bekommen.",
+        "start": 7.526,
+        "end": 8.506
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Holen wir uns das Freilos für die Abschlussfeier!",
+    "start": 8.566,
+    "end": 10.967,
+    "words": [
+      {
+        "text": "Holen",
+        "start": 8.566,
+        "end": 8.886
+      },
+      {
+        "text": "wir",
+        "start": 8.906,
+        "end": 9.007
+      },
+      {
+        "text": "uns",
+        "start": 9.067,
+        "end": 9.227
+      },
+      {
+        "text": "das",
+        "start": 9.247,
+        "end": 9.467
+      },
+      {
+        "text": "Freilos",
+        "start": 9.487,
+        "end": 9.927
+      },
+      {
+        "text": "für",
+        "start": 9.947,
+        "end": 10.087
+      },
+      {
+        "text": "die",
+        "start": 10.107,
+        "end": 10.207
+      },
+      {
+        "text": "Abschlussfeier!",
+        "start": 10.287,
+        "end": 10.967
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ja!",
+    "start": 10.987,
+    "end": 14.849,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 10.987,
+        "end": 14.849
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Das Löwenkostüm passt überhaupt nicht zu dir.",
+    "start": 14.889,
+    "end": 19.912,
+    "words": [
+      {
+        "text": "Das",
+        "start": 14.889,
+        "end": 15.069
+      },
+      {
+        "text": "Löwenkostüm",
+        "start": 15.129,
+        "end": 15.75
+      },
+      {
+        "text": "passt",
+        "start": 15.77,
+        "end": 16.41
+      },
+      {
+        "text": "überhaupt",
+        "start": 16.45,
+        "end": 16.77
+      },
+      {
+        "text": "nicht",
+        "start": 16.81,
+        "end": 17.01
+      },
+      {
+        "text": "zu",
+        "start": 17.03,
+        "end": 17.15
+      },
+      {
+        "text": "dir.",
+        "start": 17.17,
+        "end": 19.912
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Aber deins passt wie Arsch auf Eimer zu dir, Inezuka.",
+    "start": 19.992,
+    "end": 23.233,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 19.992,
+        "end": 20.232
+      },
+      {
+        "text": "deins",
+        "start": 20.252,
+        "end": 20.512
+      },
+      {
+        "text": "passt",
+        "start": 20.552,
+        "end": 20.812
+      },
+      {
+        "text": "wie",
+        "start": 20.852,
+        "end": 21.292
+      },
+      {
+        "text": "Arsch",
+        "start": 21.332,
+        "end": 21.573
+      },
+      {
+        "text": "auf",
+        "start": 21.593,
+        "end": 21.753
+      },
+      {
+        "text": "Eimer",
+        "start": 21.793,
+        "end": 22.093
+      },
+      {
+        "text": "zu",
+        "start": 22.113,
+        "end": 22.213
+      },
+      {
+        "text": "dir,",
+        "start": 22.253,
+        "end": 22.413
+      },
+      {
+        "text": "Inezuka.",
+        "start": 22.433,
+        "end": 23.233
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ist dir nicht heiß?",
+    "start": 23.273,
+    "end": 24.334,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 23.273,
+        "end": 23.413
+      },
+      {
+        "text": "dir",
+        "start": 23.433,
+        "end": 23.593
+      },
+      {
+        "text": "nicht",
+        "start": 23.633,
+        "end": 23.794
+      },
+      {
+        "text": "heiß?",
+        "start": 23.994,
+        "end": 24.334
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Äh, Izumi?",
+    "start": 24.614,
+    "end": 26.475,
+    "words": [
+      {
+        "text": "Äh,",
+        "start": 24.614,
+        "end": 26.115
+      },
+      {
+        "text": "Izumi?",
+        "start": 26.175,
+        "end": 26.475
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Ah, Shikimori.",
+    "start": 27.442,
+    "end": 28.843,
+    "words": [
+      {
+        "text": "Ah,",
+        "start": 27.442,
+        "end": 27.502
+      },
+      {
+        "text": "Shikimori.",
+        "start": 27.622,
+        "end": 28.843
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Wie, wie sehe ich aus?",
+    "start": 28.883,
+    "end": 30.385,
+    "words": [
+      {
+        "text": "Wie,",
+        "start": 28.883,
+        "end": 29.304
+      },
+      {
+        "text": "wie",
+        "start": 29.344,
+        "end": 29.484
+      },
+      {
+        "text": "sehe",
+        "start": 29.504,
+        "end": 29.624
+      },
+      {
+        "text": "ich",
+        "start": 29.684,
+        "end": 29.904
+      },
+      {
+        "text": "aus?",
+        "start": 29.964,
+        "end": 30.385
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Irgendwie seltsam vielleicht?",
+    "start": 30.485,
+    "end": 32.166,
+    "words": [
+      {
+        "text": "Irgendwie",
+        "start": 30.485,
+        "end": 31.025
+      },
+      {
+        "text": "seltsam",
+        "start": 31.085,
+        "end": 31.486
+      },
+      {
+        "text": "vielleicht?",
+        "start": 31.526,
+        "end": 32.166
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Glaubst du nicht ich sehe ein bisschen peinlich aus?",
+    "start": 32.186,
+    "end": 35.329,
+    "words": [
+      {
+        "text": "Glaubst",
+        "start": 32.186,
+        "end": 32.467
+      },
+      {
+        "text": "du",
+        "start": 32.487,
+        "end": 32.607
+      },
+      {
+        "text": "nicht",
+        "start": 32.627,
+        "end": 32.767
+      },
+      {
+        "text": "ich",
+        "start": 32.807,
+        "end": 32.887
+      },
+      {
+        "text": "sehe",
+        "start": 32.927,
+        "end": 33.187
+      },
+      {
+        "text": "ein",
+        "start": 33.207,
+        "end": 33.287
+      },
+      {
+        "text": "bisschen",
+        "start": 33.307,
+        "end": 33.608
+      },
+      {
+        "text": "peinlich",
+        "start": 33.648,
+        "end": 34.108
+      },
+      {
+        "text": "aus?",
+        "start": 34.148,
+        "end": 35.329
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Was redest du da?",
+    "start": 35.389,
+    "end": 36.23,
+    "words": [
+      {
+        "text": "Was",
+        "start": 35.389,
+        "end": 35.67
+      },
+      {
+        "text": "redest",
+        "start": 35.69,
+        "end": 35.93
+      },
+      {
+        "text": "du",
+        "start": 35.95,
+        "end": 36.07
+      },
+      {
+        "text": "da?",
+        "start": 36.09,
+        "end": 36.23
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du siehst total süß aus.",
+    "start": 36.25,
+    "end": 37.652,
+    "words": [
+      {
+        "text": "Du",
+        "start": 36.25,
+        "end": 36.39
+      },
+      {
+        "text": "siehst",
+        "start": 36.41,
+        "end": 36.591
+      },
+      {
+        "text": "total",
+        "start": 36.631,
+        "end": 37.131
+      },
+      {
+        "text": "süß",
+        "start": 37.151,
+        "end": 37.331
+      },
+      {
+        "text": "aus.",
+        "start": 37.491,
+        "end": 37.652
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Findest du wirklich?",
+    "start": 37.672,
+    "end": 39.093,
+    "words": [
+      {
+        "text": "Findest",
+        "start": 37.672,
+        "end": 37.992
+      },
+      {
+        "text": "du",
+        "start": 38.012,
+        "end": 38.212
+      },
+      {
+        "text": "wirklich?",
+        "start": 38.252,
+        "end": 39.093
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Dir steht dein Kostüm aber auch gut.",
+    "start": 39.113,
+    "end": 42.216,
+    "words": [
+      {
+        "text": "Dir",
+        "start": 39.113,
+        "end": 39.233
+      },
+      {
+        "text": "steht",
+        "start": 39.273,
+        "end": 39.453
+      },
+      {
+        "text": "dein",
+        "start": 39.473,
+        "end": 39.573
+      },
+      {
+        "text": "Kostüm",
+        "start": 39.613,
+        "end": 40.014
+      },
+      {
+        "text": "aber",
+        "start": 40.054,
+        "end": 40.274
+      },
+      {
+        "text": "auch",
+        "start": 40.314,
+        "end": 40.514
+      },
+      {
+        "text": "gut.",
+        "start": 40.554,
+        "end": 42.216
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Hey ihr zwei da!",
+    "start": 42.256,
+    "end": 43.357,
+    "words": [
+      {
+        "text": "Hey",
+        "start": 42.256,
+        "end": 42.496
+      },
+      {
+        "text": "ihr",
+        "start": 42.556,
+        "end": 42.736
+      },
+      {
+        "text": "zwei",
+        "start": 42.756,
+        "end": 42.956
+      },
+      {
+        "text": "da!",
+        "start": 42.997,
+        "end": 43.357
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Hört auf zu zurtüllen und geht an die Arbeit!",
+    "start": 43.397,
+    "end": 47.1,
+    "words": [
+      {
+        "text": "Hört",
+        "start": 43.397,
+        "end": 43.557
+      },
+      {
+        "text": "auf",
+        "start": 43.597,
+        "end": 43.717
+      },
+      {
+        "text": "zu",
+        "start": 43.757,
+        "end": 43.877
+      },
+      {
+        "text": "zurtüllen",
+        "start": 43.917,
+        "end": 44.218
+      },
+      {
+        "text": "und",
+        "start": 44.258,
+        "end": 44.338
+      },
+      {
+        "text": "geht",
+        "start": 44.358,
+        "end": 44.478
+      },
+      {
+        "text": "an",
+        "start": 44.518,
+        "end": 44.578
+      },
+      {
+        "text": "die",
+        "start": 44.598,
+        "end": 44.818
+      },
+      {
+        "text": "Arbeit!",
+        "start": 44.878,
+        "end": 47.1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Das 47.",
+    "start": 47.14,
+    "end": 47.741,
+    "words": [
+      {
+        "text": "Das",
+        "start": 47.14,
+        "end": 47.741
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Kulturfest der Hachiyo-Schule beginnt jetzt!",
+    "start": 48.301,
+    "end": 50.904,
+    "words": [
+      {
+        "text": "Kulturfest",
+        "start": 48.301,
+        "end": 48.942
+      },
+      {
+        "text": "der",
+        "start": 48.982,
+        "end": 49.242
+      },
+      {
+        "text": "Hachiyo-Schule",
+        "start": 49.262,
+        "end": 50.103
+      },
+      {
+        "text": "beginnt",
+        "start": 50.123,
+        "end": 50.664
+      },
+      {
+        "text": "jetzt!",
+        "start": 50.684,
+        "end": 50.904
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Alle mal herhören!",
+    "start": 64.663,
+    "end": 65.644,
+    "words": [
+      {
+        "text": "Alle",
+        "start": 64.663,
+        "end": 64.783
+      },
+      {
+        "text": "mal",
+        "start": 64.803,
+        "end": 64.944
+      },
+      {
+        "text": "herhören!",
+        "start": 64.984,
+        "end": 65.644
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Wir von der Elf D. machen ein Tiercafé!",
+    "start": 65.684,
+    "end": 68.286,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 65.684,
+        "end": 65.864
+      },
+      {
+        "text": "von",
+        "start": 65.884,
+        "end": 66.025
+      },
+      {
+        "text": "der",
+        "start": 66.065,
+        "end": 66.165
+      },
+      {
+        "text": "Elf",
+        "start": 66.265,
+        "end": 66.405
+      },
+      {
+        "text": "D.",
+        "start": 66.425,
+        "end": 66.665
+      },
+      {
+        "text": "machen",
+        "start": 66.705,
+        "end": 66.965
+      },
+      {
+        "text": "ein",
+        "start": 67.025,
+        "end": 67.186
+      },
+      {
+        "text": "Tiercafé!",
+        "start": 67.226,
+        "end": 68.286
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Kommt alle vorbei!",
+    "start": 68.306,
+    "end": 71.289,
+    "words": [
+      {
+        "text": "Kommt",
+        "start": 68.306,
+        "end": 68.547
+      },
+      {
+        "text": "alle",
+        "start": 68.607,
+        "end": 68.807
+      },
+      {
+        "text": "vorbei!",
+        "start": 68.847,
+        "end": 71.289
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Sieh mal, das kleine Häschen ist aber niedlich.",
+    "start": 71.309,
+    "end": 73.751,
+    "words": [
+      {
+        "text": "Sieh",
+        "start": 71.309,
+        "end": 71.449
+      },
+      {
+        "text": "mal,",
+        "start": 71.509,
+        "end": 71.629
+      },
+      {
+        "text": "das",
+        "start": 71.649,
+        "end": 71.769
+      },
+      {
+        "text": "kleine",
+        "start": 71.789,
+        "end": 72.07
+      },
+      {
+        "text": "Häschen",
+        "start": 72.11,
+        "end": 72.45
+      },
+      {
+        "text": "ist",
+        "start": 72.51,
+        "end": 72.57
+      },
+      {
+        "text": "aber",
+        "start": 72.59,
+        "end": 72.73
+      },
+      {
+        "text": "niedlich.",
+        "start": 72.75,
+        "end": 73.751
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Das ist aber ziemlich originell.",
+    "start": 73.791,
+    "end": 76.053,
+    "words": [
+      {
+        "text": "Das",
+        "start": 73.791,
+        "end": 73.951
+      },
+      {
+        "text": "ist",
+        "start": 73.991,
+        "end": 74.091
+      },
+      {
+        "text": "aber",
+        "start": 74.151,
+        "end": 74.372
+      },
+      {
+        "text": "ziemlich",
+        "start": 74.412,
+        "end": 74.752
+      },
+      {
+        "text": "originell.",
+        "start": 74.792,
+        "end": 76.053
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Voll süß!",
+    "start": 76.093,
+    "end": 79.196,
+    "words": [
+      {
+        "text": "Voll",
+        "start": 76.093,
+        "end": 76.573
+      },
+      {
+        "text": "süß!",
+        "start": 76.594,
+        "end": 79.196
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Wir nehmen zweimal Schokoladen und einmal Matcha-Eis.",
+    "start": 79.216,
+    "end": 81.738,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 79.216,
+        "end": 79.336
+      },
+      {
+        "text": "nehmen",
+        "start": 79.376,
+        "end": 79.616
+      },
+      {
+        "text": "zweimal",
+        "start": 79.636,
+        "end": 79.936
+      },
+      {
+        "text": "Schokoladen",
+        "start": 79.956,
+        "end": 80.477
+      },
+      {
+        "text": "und",
+        "start": 80.497,
+        "end": 80.637
+      },
+      {
+        "text": "einmal",
+        "start": 80.677,
+        "end": 80.937
+      },
+      {
+        "text": "Matcha-Eis.",
+        "start": 80.977,
+        "end": 81.738
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Dazu Orangensaft und eine Limonade bitte.",
+    "start": 81.758,
+    "end": 83.76,
+    "words": [
+      {
+        "text": "Dazu",
+        "start": 81.758,
+        "end": 81.998
+      },
+      {
+        "text": "Orangensaft",
+        "start": 82.078,
+        "end": 82.639
+      },
+      {
+        "text": "und",
+        "start": 82.679,
+        "end": 82.799
+      },
+      {
+        "text": "eine",
+        "start": 82.839,
+        "end": 83.019
+      },
+      {
+        "text": "Limonade",
+        "start": 83.039,
+        "end": 83.519
+      },
+      {
+        "text": "bitte.",
+        "start": 83.559,
+        "end": 83.76
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": " Kann ich ein Foto machen?",
+    "start": 86.65,
+    "end": 88.831,
+    "words": [
+      {
+        "text": "Kann",
+        "start": 86.65,
+        "end": 86.87
+      },
+      {
+        "text": "ich",
+        "start": 87.03,
+        "end": 87.09
+      },
+      {
+        "text": "ein",
+        "start": 87.11,
+        "end": 87.21
+      },
+      {
+        "text": "Foto",
+        "start": 87.23,
+        "end": 87.35
+      },
+      {
+        "text": "machen?",
+        "start": 87.37,
+        "end": 88.831
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ja.",
+    "start": 88.871,
+    "end": 89.832,
+    "words": [
+      {
+        "text": "Ja.",
+        "start": 88.871,
+        "end": 89.832
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Was für ein Tier willst du sein?",
+    "start": 89.892,
+    "end": 91.153,
+    "words": [
+      {
+        "text": "Was",
+        "start": 89.892,
+        "end": 90.032
+      },
+      {
+        "text": "für",
+        "start": 90.092,
+        "end": 90.192
+      },
+      {
+        "text": "ein",
+        "start": 90.212,
+        "end": 90.272
+      },
+      {
+        "text": "Tier",
+        "start": 90.292,
+        "end": 90.532
+      },
+      {
+        "text": "willst",
+        "start": 90.552,
+        "end": 90.752
+      },
+      {
+        "text": "du",
+        "start": 90.772,
+        "end": 90.913
+      },
+      {
+        "text": "sein?",
+        "start": 90.933,
+        "end": 91.153
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Also... Kannst du mir sagen, was das Giraffenpaket ist?",
+    "start": 91.713,
+    "end": 94.255,
+    "words": [
+      {
+        "text": "Also...",
+        "start": 91.713,
+        "end": 92.033
+      },
+      {
+        "text": "Kannst",
+        "start": 92.073,
+        "end": 92.213
+      },
+      {
+        "text": "du",
+        "start": 92.333,
+        "end": 92.413
+      },
+      {
+        "text": "mir",
+        "start": 92.433,
+        "end": 92.554
+      },
+      {
+        "text": "sagen,",
+        "start": 92.574,
+        "end": 92.754
+      },
+      {
+        "text": "was",
+        "start": 92.774,
+        "end": 92.914
+      },
+      {
+        "text": "das",
+        "start": 92.934,
+        "end": 93.094
+      },
+      {
+        "text": "Giraffenpaket",
+        "start": 93.134,
+        "end": 93.914
+      },
+      {
+        "text": "ist?",
+        "start": 94.134,
+        "end": 94.255
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Entschuldigung, bedarf denn meine Bestellung?",
+    "start": 94.295,
+    "end": 97.476,
+    "words": [
+      {
+        "text": "Entschuldigung,",
+        "start": 94.295,
+        "end": 94.695
+      },
+      {
+        "text": "bedarf",
+        "start": 94.715,
+        "end": 95.175
+      },
+      {
+        "text": "denn",
+        "start": 95.355,
+        "end": 95.495
+      },
+      {
+        "text": "meine",
+        "start": 95.515,
+        "end": 96.036
+      },
+      {
+        "text": "Bestellung?",
+        "start": 96.056,
+        "end": 97.476
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Mein Gott, ist hier gerade viel los.",
+    "start": 97.516,
+    "end": 99.338,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 97.516,
+        "end": 97.837
+      },
+      {
+        "text": "Gott,",
+        "start": 97.857,
+        "end": 98.017
+      },
+      {
+        "text": "ist",
+        "start": 98.057,
+        "end": 98.157
+      },
+      {
+        "text": "hier",
+        "start": 98.177,
+        "end": 98.277
+      },
+      {
+        "text": "gerade",
+        "start": 98.297,
+        "end": 98.557
+      },
+      {
+        "text": "viel",
+        "start": 98.617,
+        "end": 98.777
+      },
+      {
+        "text": "los.",
+        "start": 98.837,
+        "end": 99.338
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Ich muss das irgendwie durchstehen.",
+    "start": 99.378,
+    "end": 100.818,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 99.378,
+        "end": 99.478
+      },
+      {
+        "text": "muss",
+        "start": 99.518,
+        "end": 99.658
+      },
+      {
+        "text": "das",
+        "start": 99.698,
+        "end": 99.878
+      },
+      {
+        "text": "irgendwie",
+        "start": 99.918,
+        "end": 100.298
+      },
+      {
+        "text": "durchstehen.",
+        "start": 100.318,
+        "end": 100.818
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Oh nein!",
+    "start": 105.621,
+    "end": 106.942,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 105.621,
+        "end": 106.302
+      },
+      {
+        "text": "nein!",
+        "start": 106.442,
+        "end": 106.942
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Was war das?",
+    "start": 106.982,
+    "end": 107.743,
+    "words": [
+      {
+        "text": "Was",
+        "start": 106.982,
+        "end": 107.182
+      },
+      {
+        "text": "war",
+        "start": 107.202,
+        "end": 107.402
+      },
+      {
+        "text": "das?",
+        "start": 107.442,
+        "end": 107.743
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Ich bin auf irgendwas ausgerutscht.",
+    "start": 107.783,
+    "end": 109.764,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 107.783,
+        "end": 107.903
+      },
+      {
+        "text": "bin",
+        "start": 107.943,
+        "end": 108.063
+      },
+      {
+        "text": "auf",
+        "start": 108.103,
+        "end": 108.243
+      },
+      {
+        "text": "irgendwas",
+        "start": 108.263,
+        "end": 108.703
+      },
+      {
+        "text": "ausgerutscht.",
+        "start": 108.743,
+        "end": 109.764
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Ich kann doch nicht auf alles achten.",
+    "start": 109.804,
+    "end": 112.025,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 109.804,
+        "end": 109.904
+      },
+      {
+        "text": "kann",
+        "start": 109.944,
+        "end": 110.104
+      },
+      {
+        "text": "doch",
+        "start": 110.124,
+        "end": 110.244
+      },
+      {
+        "text": "nicht",
+        "start": 110.284,
+        "end": 110.424
+      },
+      {
+        "text": "auf",
+        "start": 110.444,
+        "end": 110.564
+      },
+      {
+        "text": "alles",
+        "start": 110.604,
+        "end": 110.824
+      },
+      {
+        "text": "achten.",
+        "start": 110.904,
+        "end": 112.025
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Oh nein, Isumi!",
+    "start": 112.085,
+    "end": 113.026,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 112.085,
+        "end": 112.285
+      },
+      {
+        "text": "nein,",
+        "start": 112.305,
+        "end": 112.545
+      },
+      {
+        "text": "Isumi!",
+        "start": 112.585,
+        "end": 113.026
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Der Junge ist aber wirklich ein Pechvogel.",
+    "start": 113.046,
+    "end": 114.867,
+    "words": [
+      {
+        "text": "Der",
+        "start": 113.046,
+        "end": 113.246
+      },
+      {
+        "text": "Junge",
+        "start": 113.286,
+        "end": 113.446
+      },
+      {
+        "text": "ist",
+        "start": 113.486,
+        "end": 113.626
+      },
+      {
+        "text": "aber",
+        "start": 113.666,
+        "end": 113.866
+      },
+      {
+        "text": "wirklich",
+        "start": 113.886,
+        "end": 114.146
+      },
+      {
+        "text": "ein",
+        "start": 114.166,
+        "end": 114.306
+      },
+      {
+        "text": "Pechvogel.",
+        "start": 114.326,
+        "end": 114.867
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": " Ich muss das Eis irgendwie retten.",
+    "start": 117.148,
+    "end": 124.552,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 117.148,
+        "end": 117.248
+      },
+      {
+        "text": "muss",
+        "start": 117.268,
+        "end": 117.428
+      },
+      {
+        "text": "das",
+        "start": 117.468,
+        "end": 117.588
+      },
+      {
+        "text": "Eis",
+        "start": 117.648,
+        "end": 117.888
+      },
+      {
+        "text": "irgendwie",
+        "start": 117.948,
+        "end": 118.328
+      },
+      {
+        "text": "retten.",
+        "start": 118.348,
+        "end": 124.552
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Du Dummerchen.",
+    "start": 124.572,
+    "end": 126.393,
+    "words": [
+      {
+        "text": "Du",
+        "start": 124.572,
+        "end": 124.812
+      },
+      {
+        "text": "Dummerchen.",
+        "start": 124.832,
+        "end": 126.393
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Du kannst das doch nicht alles allein schaffen.",
+    "start": 126.413,
+    "end": 128.314,
+    "words": [
+      {
+        "text": "Du",
+        "start": 126.413,
+        "end": 126.533
+      },
+      {
+        "text": "kannst",
+        "start": 126.573,
+        "end": 126.813
+      },
+      {
+        "text": "das",
+        "start": 126.853,
+        "end": 126.973
+      },
+      {
+        "text": "doch",
+        "start": 127.013,
+        "end": 127.133
+      },
+      {
+        "text": "nicht",
+        "start": 127.173,
+        "end": 127.293
+      },
+      {
+        "text": "alles",
+        "start": 127.313,
+        "end": 127.533
+      },
+      {
+        "text": "allein",
+        "start": 127.573,
+        "end": 127.853
+      },
+      {
+        "text": "schaffen.",
+        "start": 127.893,
+        "end": 128.314
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Wir sind auch noch da, vergiss das nicht.",
+    "start": 128.334,
+    "end": 131.095,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 128.334,
+        "end": 128.454
+      },
+      {
+        "text": "sind",
+        "start": 128.474,
+        "end": 128.674
+      },
+      {
+        "text": "auch",
+        "start": 128.714,
+        "end": 128.854
+      },
+      {
+        "text": "noch",
+        "start": 128.894,
+        "end": 129.034
+      },
+      {
+        "text": "da,",
+        "start": 129.054,
+        "end": 129.214
+      },
+      {
+        "text": "vergiss",
+        "start": 129.234,
+        "end": 129.534
+      },
+      {
+        "text": "das",
+        "start": 129.554,
+        "end": 129.714
+      },
+      {
+        "text": "nicht.",
+        "start": 129.754,
+        "end": 131.095
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Tut mir echt leid.",
+    "start": 131.135,
+    "end": 132.336,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 131.135,
+        "end": 131.315
+      },
+      {
+        "text": "mir",
+        "start": 131.355,
+        "end": 131.475
+      },
+      {
+        "text": "echt",
+        "start": 131.535,
+        "end": 131.755
+      },
+      {
+        "text": "leid.",
+        "start": 131.815,
+        "end": 132.336
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Kein Problem, solange es nicht wieder vorkommt.",
+    "start": 132.376,
+    "end": 135.898,
+    "words": [
+      {
+        "text": "Kein",
+        "start": 132.376,
+        "end": 132.576
+      },
+      {
+        "text": "Problem,",
+        "start": 132.616,
+        "end": 133.036
+      },
+      {
+        "text": "solange",
+        "start": 133.076,
+        "end": 133.396
+      },
+      {
+        "text": "es",
+        "start": 133.416,
+        "end": 133.516
+      },
+      {
+        "text": "nicht",
+        "start": 133.536,
+        "end": 133.696
+      },
+      {
+        "text": "wieder",
+        "start": 133.736,
+        "end": 133.977
+      },
+      {
+        "text": "vorkommt.",
+        "start": 134.017,
+        "end": 135.898
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Bei dem Häschen wird unser Löwe glatt zum Kätzchen.",
+    "start": 135.958,
+    "end": 138.359,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 135.958,
+        "end": 136.138
+      },
+      {
+        "text": "dem",
+        "start": 136.158,
+        "end": 136.338
+      },
+      {
+        "text": "Häschen",
+        "start": 136.378,
+        "end": 136.738
+      },
+      {
+        "text": "wird",
+        "start": 136.758,
+        "end": 136.918
+      },
+      {
+        "text": "unser",
+        "start": 136.958,
+        "end": 137.158
+      },
+      {
+        "text": "Löwe",
+        "start": 137.178,
+        "end": 137.418
+      },
+      {
+        "text": "glatt",
+        "start": 137.458,
+        "end": 137.638
+      },
+      {
+        "text": "zum",
+        "start": 137.658,
+        "end": 137.919
+      },
+      {
+        "text": "Kätzchen.",
+        "start": 137.939,
+        "end": 138.359
+      }
+    ]
+  }
+]

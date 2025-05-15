@@ -1,0 +1,830 @@
+[
+  {
+    "id": 0,
+    "text": " Typisch Bürgerliche.",
+    "start": 19.794,
+    "end": 21.054,
+    "words": [
+      {
+        "text": "Typisch",
+        "start": 19.794,
+        "end": 20.054
+      },
+      {
+        "text": "Bürgerliche.",
+        "start": 20.094,
+        "end": 21.054
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Diese Aufmachung als Butler steht dir perfekt.",
+    "start": 21.074,
+    "end": 23.315,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 21.074,
+        "end": 21.315
+      },
+      {
+        "text": "Aufmachung",
+        "start": 21.355,
+        "end": 21.795
+      },
+      {
+        "text": "als",
+        "start": 21.835,
+        "end": 21.975
+      },
+      {
+        "text": "Butler",
+        "start": 22.015,
+        "end": 22.315
+      },
+      {
+        "text": "steht",
+        "start": 22.355,
+        "end": 22.595
+      },
+      {
+        "text": "dir",
+        "start": 22.615,
+        "end": 22.715
+      },
+      {
+        "text": "perfekt.",
+        "start": 22.735,
+        "end": 23.315
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich glaube es nicht.",
+    "start": 23.395,
+    "end": 24.295,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 23.395,
+        "end": 23.515
+      },
+      {
+        "text": "glaube",
+        "start": 23.535,
+        "end": 23.795
+      },
+      {
+        "text": "es",
+        "start": 23.835,
+        "end": 23.955
+      },
+      {
+        "text": "nicht.",
+        "start": 23.995,
+        "end": 24.295
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ihr habt mir ja ein Kompliment gemacht.",
+    "start": 24.355,
+    "end": 26.196,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 24.355,
+        "end": 24.435
+      },
+      {
+        "text": "habt",
+        "start": 24.455,
+        "end": 24.656
+      },
+      {
+        "text": "mir",
+        "start": 24.696,
+        "end": 24.816
+      },
+      {
+        "text": "ja",
+        "start": 24.836,
+        "end": 24.876
+      },
+      {
+        "text": "ein",
+        "start": 24.896,
+        "end": 25.016
+      },
+      {
+        "text": "Kompliment",
+        "start": 25.036,
+        "end": 25.676
+      },
+      {
+        "text": "gemacht.",
+        "start": 25.716,
+        "end": 26.196
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Du solltest dich nicht darüber freuen.",
+    "start": 26.216,
+    "end": 28.117,
+    "words": [
+      {
+        "text": "Du",
+        "start": 26.216,
+        "end": 26.376
+      },
+      {
+        "text": "solltest",
+        "start": 26.396,
+        "end": 26.676
+      },
+      {
+        "text": "dich",
+        "start": 26.696,
+        "end": 26.856
+      },
+      {
+        "text": "nicht",
+        "start": 26.876,
+        "end": 27.036
+      },
+      {
+        "text": "darüber",
+        "start": 27.076,
+        "end": 27.456
+      },
+      {
+        "text": "freuen.",
+        "start": 27.496,
+        "end": 28.117
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Und Misha?",
+    "start": 28.157,
+    "end": 29.137,
+    "words": [
+      {
+        "text": "Und",
+        "start": 28.157,
+        "end": 28.417
+      },
+      {
+        "text": "Misha?",
+        "start": 28.437,
+        "end": 29.137
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Was sagst du?",
+    "start": 29.177,
+    "end": 30.057,
+    "words": [
+      {
+        "text": "Was",
+        "start": 29.177,
+        "end": 29.337
+      },
+      {
+        "text": "sagst",
+        "start": 29.377,
+        "end": 29.637
+      },
+      {
+        "text": "du?",
+        "start": 29.657,
+        "end": 30.057
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Toll.",
+    "start": 30.357,
+    "end": 31.177,
+    "words": [
+      {
+        "text": "Toll.",
+        "start": 30.357,
+        "end": 31.177
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Es steht euch sehr gut, Prinz Yu.",
+    "start": 31.237,
+    "end": 33.318,
+    "words": [
+      {
+        "text": "Es",
+        "start": 31.237,
+        "end": 31.378
+      },
+      {
+        "text": "steht",
+        "start": 31.418,
+        "end": 31.598
+      },
+      {
+        "text": "euch",
+        "start": 31.658,
+        "end": 31.838
+      },
+      {
+        "text": "sehr",
+        "start": 31.878,
+        "end": 32.058
+      },
+      {
+        "text": "gut,",
+        "start": 32.098,
+        "end": 32.338
+      },
+      {
+        "text": "Prinz",
+        "start": 32.358,
+        "end": 32.718
+      },
+      {
+        "text": "Yu.",
+        "start": 32.758,
+        "end": 33.318
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Du siehst auch herrlich aus.",
+    "start": 33.358,
+    "end": 34.518,
+    "words": [
+      {
+        "text": "Du",
+        "start": 33.358,
+        "end": 33.498
+      },
+      {
+        "text": "siehst",
+        "start": 33.518,
+        "end": 33.758
+      },
+      {
+        "text": "auch",
+        "start": 33.778,
+        "end": 33.998
+      },
+      {
+        "text": "herrlich",
+        "start": 34.018,
+        "end": 34.338
+      },
+      {
+        "text": "aus.",
+        "start": 34.378,
+        "end": 34.518
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Danke für das Kompliment.",
+    "start": 36.339,
+    "end": 40.44,
+    "words": [
+      {
+        "text": "Danke",
+        "start": 36.339,
+        "end": 36.799
+      },
+      {
+        "text": "für",
+        "start": 36.839,
+        "end": 36.959
+      },
+      {
+        "text": "das",
+        "start": 36.999,
+        "end": 37.139
+      },
+      {
+        "text": "Kompliment.",
+        "start": 37.159,
+        "end": 40.44
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Das hier ist unser Schichtplan.",
+    "start": 40.48,
+    "end": 42.321,
+    "words": [
+      {
+        "text": "Das",
+        "start": 40.48,
+        "end": 40.64
+      },
+      {
+        "text": "hier",
+        "start": 40.66,
+        "end": 40.8
+      },
+      {
+        "text": "ist",
+        "start": 40.84,
+        "end": 41.04
+      },
+      {
+        "text": "unser",
+        "start": 41.08,
+        "end": 41.3
+      },
+      {
+        "text": "Schichtplan.",
+        "start": 41.32,
+        "end": 42.321
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wir werden unsere Dienste wechseln.",
+    "start": 42.361,
+    "end": 44.401,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 42.361,
+        "end": 42.461
+      },
+      {
+        "text": "werden",
+        "start": 42.501,
+        "end": 42.781
+      },
+      {
+        "text": "unsere",
+        "start": 42.821,
+        "end": 43.101
+      },
+      {
+        "text": "Dienste",
+        "start": 43.121,
+        "end": 43.501
+      },
+      {
+        "text": "wechseln.",
+        "start": 43.541,
+        "end": 44.401
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Geht bitte der Reihe nach in eure Pause.",
+    "start": 44.441,
+    "end": 46.122,
+    "words": [
+      {
+        "text": "Geht",
+        "start": 44.441,
+        "end": 44.601
+      },
+      {
+        "text": "bitte",
+        "start": 44.641,
+        "end": 44.842
+      },
+      {
+        "text": "der",
+        "start": 44.882,
+        "end": 44.982
+      },
+      {
+        "text": "Reihe",
+        "start": 45.022,
+        "end": 45.282
+      },
+      {
+        "text": "nach",
+        "start": 45.302,
+        "end": 45.442
+      },
+      {
+        "text": "in",
+        "start": 45.482,
+        "end": 45.602
+      },
+      {
+        "text": "eure",
+        "start": 45.642,
+        "end": 45.802
+      },
+      {
+        "text": "Pause.",
+        "start": 45.822,
+        "end": 46.122
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Ich glaube, wir werden gleich eröffnen.",
+    "start": 48.08,
+    "end": 49.882,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 48.08,
+        "end": 48.181
+      },
+      {
+        "text": "glaube,",
+        "start": 48.201,
+        "end": 48.421
+      },
+      {
+        "text": "wir",
+        "start": 48.461,
+        "end": 48.581
+      },
+      {
+        "text": "werden",
+        "start": 48.601,
+        "end": 48.861
+      },
+      {
+        "text": "gleich",
+        "start": 48.881,
+        "end": 49.081
+      },
+      {
+        "text": "eröffnen.",
+        "start": 49.122,
+        "end": 49.882
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Jawohl!",
+    "start": 49.922,
+    "end": 50.723,
+    "words": [
+      {
+        "text": "Jawohl!",
+        "start": 49.922,
+        "end": 50.723
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Lasst uns das rocken, Leute!",
+    "start": 50.763,
+    "end": 52.125,
+    "words": [
+      {
+        "text": "Lasst",
+        "start": 50.763,
+        "end": 51.004
+      },
+      {
+        "text": "uns",
+        "start": 51.044,
+        "end": 51.204
+      },
+      {
+        "text": "das",
+        "start": 51.224,
+        "end": 51.384
+      },
+      {
+        "text": "rocken,",
+        "start": 51.464,
+        "end": 51.724
+      },
+      {
+        "text": "Leute!",
+        "start": 51.764,
+        "end": 52.125
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich heiße euch willkommen, meine Herrschaften!",
+    "start": 57.31,
+    "end": 59.573,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 57.31,
+        "end": 57.411
+      },
+      {
+        "text": "heiße",
+        "start": 57.431,
+        "end": 57.691
+      },
+      {
+        "text": "euch",
+        "start": 57.791,
+        "end": 58.071
+      },
+      {
+        "text": "willkommen,",
+        "start": 58.091,
+        "end": 58.732
+      },
+      {
+        "text": "meine",
+        "start": 58.772,
+        "end": 58.972
+      },
+      {
+        "text": "Herrschaften!",
+        "start": 59.012,
+        "end": 59.573
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Hier entlang.",
+    "start": 59.593,
+    "end": 61.695,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 59.593,
+        "end": 61.255
+      },
+      {
+        "text": "entlang.",
+        "start": 61.295,
+        "end": 61.695
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Eure Taten.",
+    "start": 61.895,
+    "end": 64.578,
+    "words": [
+      {
+        "text": "Eure",
+        "start": 61.895,
+        "end": 63.497
+      },
+      {
+        "text": "Taten.",
+        "start": 63.517,
+        "end": 64.578
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Konntet ihr euch schon für etwas entscheiden, mein werzer Herr?",
+    "start": 64.598,
+    "end": 67.321,
+    "words": [
+      {
+        "text": "Konntet",
+        "start": 64.598,
+        "end": 64.919
+      },
+      {
+        "text": "ihr",
+        "start": 64.959,
+        "end": 65.019
+      },
+      {
+        "text": "euch",
+        "start": 65.059,
+        "end": 65.179
+      },
+      {
+        "text": "schon",
+        "start": 65.199,
+        "end": 65.339
+      },
+      {
+        "text": "für",
+        "start": 65.379,
+        "end": 65.539
+      },
+      {
+        "text": "etwas",
+        "start": 65.559,
+        "end": 65.88
+      },
+      {
+        "text": "entscheiden,",
+        "start": 65.92,
+        "end": 66.541
+      },
+      {
+        "text": "mein",
+        "start": 66.561,
+        "end": 66.801
+      },
+      {
+        "text": "werzer",
+        "start": 66.821,
+        "end": 67.161
+      },
+      {
+        "text": "Herr?",
+        "start": 67.201,
+        "end": 67.321
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Kommt sofort.",
+    "start": 68.51,
+    "end": 69.933,
+    "words": [
+      {
+        "text": "Kommt",
+        "start": 68.51,
+        "end": 68.731
+      },
+      {
+        "text": "sofort.",
+        "start": 68.771,
+        "end": 69.933
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ganz wie ihr wünscht.",
+    "start": 69.953,
+    "end": 71.156,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 69.953,
+        "end": 70.214
+      },
+      {
+        "text": "wie",
+        "start": 70.234,
+        "end": 70.374
+      },
+      {
+        "text": "ihr",
+        "start": 70.414,
+        "end": 70.554
+      },
+      {
+        "text": "wünscht.",
+        "start": 70.595,
+        "end": 71.156
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Bitte sehr, eine Portion Tramezzini mit Roastbeef für euch.",
+    "start": 71.176,
+    "end": 76.045,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 71.176,
+        "end": 71.496
+      },
+      {
+        "text": "sehr,",
+        "start": 71.516,
+        "end": 71.997
+      },
+      {
+        "text": "eine",
+        "start": 72.017,
+        "end": 72.218
+      },
+      {
+        "text": "Portion",
+        "start": 72.258,
+        "end": 72.719
+      },
+      {
+        "text": "Tramezzini",
+        "start": 72.739,
+        "end": 73.36
+      },
+      {
+        "text": "mit",
+        "start": 73.38,
+        "end": 73.48
+      },
+      {
+        "text": "Roastbeef",
+        "start": 73.52,
+        "end": 74.021
+      },
+      {
+        "text": "für",
+        "start": 74.061,
+        "end": 74.182
+      },
+      {
+        "text": "euch.",
+        "start": 74.262,
+        "end": 76.045
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ist auch alles angekommen, was ihr bestellt habt?",
+    "start": 76.085,
+    "end": 79.091,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 76.085,
+        "end": 76.226
+      },
+      {
+        "text": "auch",
+        "start": 76.286,
+        "end": 76.426
+      },
+      {
+        "text": "alles",
+        "start": 76.466,
+        "end": 76.807
+      },
+      {
+        "text": "angekommen,",
+        "start": 76.827,
+        "end": 77.288
+      },
+      {
+        "text": "was",
+        "start": 77.308,
+        "end": 77.508
+      },
+      {
+        "text": "ihr",
+        "start": 77.548,
+        "end": 77.608
+      },
+      {
+        "text": "bestellt",
+        "start": 77.628,
+        "end": 78.149
+      },
+      {
+        "text": "habt?",
+        "start": 78.169,
+        "end": 79.091
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Meine verehrten Damen.",
+    "start": 79.131,
+    "end": 80.193,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 79.131,
+        "end": 79.412
+      },
+      {
+        "text": "verehrten",
+        "start": 79.432,
+        "end": 79.913
+      },
+      {
+        "text": "Damen.",
+        "start": 79.953,
+        "end": 80.193
+      }
+    ]
+  }
+]

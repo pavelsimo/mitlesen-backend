@@ -1,0 +1,1606 @@
+[
+  {
+    "id": 0,
+    "text": " Entschuldige, John.",
+    "start": 1.949,
+    "end": 3.05,
+    "words": [
+      {
+        "text": "Entschuldige,",
+        "start": 1.949,
+        "end": 2.47
+      },
+      {
+        "text": "John.",
+        "start": 2.53,
+        "end": 3.05
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wartest du schon lange?",
+    "start": 3.09,
+    "end": 3.911,
+    "words": [
+      {
+        "text": "Wartest",
+        "start": 3.09,
+        "end": 3.33
+      },
+      {
+        "text": "du",
+        "start": 3.35,
+        "end": 3.45
+      },
+      {
+        "text": "schon",
+        "start": 3.49,
+        "end": 3.671
+      },
+      {
+        "text": "lange?",
+        "start": 3.691,
+        "end": 3.911
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ist was?",
+    "start": 9.996,
+    "end": 10.316,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 9.996,
+        "end": 10.096
+      },
+      {
+        "text": "was?",
+        "start": 10.156,
+        "end": 10.316
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Nö, alles klar.",
+    "start": 11.677,
+    "end": 12.858,
+    "words": [
+      {
+        "text": "Nö,",
+        "start": 11.677,
+        "end": 12.178
+      },
+      {
+        "text": "alles",
+        "start": 12.258,
+        "end": 12.498
+      },
+      {
+        "text": "klar.",
+        "start": 12.538,
+        "end": 12.858
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Lass uns gehen.",
+    "start": 12.918,
+    "end": 13.859,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 12.918,
+        "end": 13.078
+      },
+      {
+        "text": "uns",
+        "start": 13.138,
+        "end": 13.258
+      },
+      {
+        "text": "gehen.",
+        "start": 13.298,
+        "end": 13.859
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Äh, okay.",
+    "start": 13.939,
+    "end": 16.221,
+    "words": [
+      {
+        "text": "Äh,",
+        "start": 13.939,
+        "end": 14.019
+      },
+      {
+        "text": "okay.",
+        "start": 14.039,
+        "end": 16.221
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Krass, ist das schon lange her.",
+    "start": 16.281,
+    "end": 18.463,
+    "words": [
+      {
+        "text": "Krass,",
+        "start": 16.281,
+        "end": 16.461
+      },
+      {
+        "text": "ist",
+        "start": 16.521,
+        "end": 16.661
+      },
+      {
+        "text": "das",
+        "start": 16.681,
+        "end": 16.801
+      },
+      {
+        "text": "schon",
+        "start": 16.841,
+        "end": 17.022
+      },
+      {
+        "text": "lange",
+        "start": 17.062,
+        "end": 17.322
+      },
+      {
+        "text": "her.",
+        "start": 17.342,
+        "end": 18.463
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wann waren wir das letzte Mal zusammen hier?",
+    "start": 18.503,
+    "end": 21.425,
+    "words": [
+      {
+        "text": "Wann",
+        "start": 18.503,
+        "end": 18.703
+      },
+      {
+        "text": "waren",
+        "start": 18.723,
+        "end": 18.883
+      },
+      {
+        "text": "wir",
+        "start": 18.923,
+        "end": 19.043
+      },
+      {
+        "text": "das",
+        "start": 19.063,
+        "end": 19.243
+      },
+      {
+        "text": "letzte",
+        "start": 19.283,
+        "end": 19.504
+      },
+      {
+        "text": "Mal",
+        "start": 19.564,
+        "end": 19.724
+      },
+      {
+        "text": "zusammen",
+        "start": 19.764,
+        "end": 20.024
+      },
+      {
+        "text": "hier?",
+        "start": 20.084,
+        "end": 21.425
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Verdammt.",
+    "start": 21.465,
+    "end": 22.526,
+    "words": [
+      {
+        "text": "Verdammt.",
+        "start": 21.465,
+        "end": 22.526
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Jetzt machen wir wieder nur das Gleiche wie sonst auch.",
+    "start": 22.546,
+    "end": 24.528,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 22.546,
+        "end": 22.726
+      },
+      {
+        "text": "machen",
+        "start": 22.746,
+        "end": 22.946
+      },
+      {
+        "text": "wir",
+        "start": 22.966,
+        "end": 23.107
+      },
+      {
+        "text": "wieder",
+        "start": 23.127,
+        "end": 23.307
+      },
+      {
+        "text": "nur",
+        "start": 23.347,
+        "end": 23.447
+      },
+      {
+        "text": "das",
+        "start": 23.487,
+        "end": 23.607
+      },
+      {
+        "text": "Gleiche",
+        "start": 23.647,
+        "end": 23.967
+      },
+      {
+        "text": "wie",
+        "start": 23.987,
+        "end": 24.087
+      },
+      {
+        "text": "sonst",
+        "start": 24.107,
+        "end": 24.388
+      },
+      {
+        "text": "auch.",
+        "start": 24.428,
+        "end": 24.528
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Sag mal, schießen die Geräte in diesem Bereich nicht mit 160 kmh?",
+    "start": 25.978,
+    "end": 29.121,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 25.978,
+        "end": 26.098
+      },
+      {
+        "text": "mal,",
+        "start": 26.118,
+        "end": 26.239
+      },
+      {
+        "text": "schießen",
+        "start": 26.259,
+        "end": 26.539
+      },
+      {
+        "text": "die",
+        "start": 26.559,
+        "end": 26.639
+      },
+      {
+        "text": "Geräte",
+        "start": 26.659,
+        "end": 27.019
+      },
+      {
+        "text": "in",
+        "start": 27.039,
+        "end": 27.119
+      },
+      {
+        "text": "diesem",
+        "start": 27.139,
+        "end": 27.36
+      },
+      {
+        "text": "Bereich",
+        "start": 27.38,
+        "end": 27.68
+      },
+      {
+        "text": "nicht",
+        "start": 27.7,
+        "end": 27.86
+      },
+      {
+        "text": "mit",
+        "start": 27.88,
+        "end": 27.98
+      },
+      {
+        "text": "kmh?",
+        "start": 28.601,
+        "end": 29.121
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ja, das stimmt.",
+    "start": 29.161,
+    "end": 30.343,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 29.161,
+        "end": 29.342
+      },
+      {
+        "text": "das",
+        "start": 29.442,
+        "end": 29.542
+      },
+      {
+        "text": "stimmt.",
+        "start": 29.582,
+        "end": 30.343
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Die Geschwindigkeit ist seit kurzem für mich machbar.",
+    "start": 30.383,
+    "end": 33.426,
+    "words": [
+      {
+        "text": "Die",
+        "start": 30.383,
+        "end": 30.483
+      },
+      {
+        "text": "Geschwindigkeit",
+        "start": 30.503,
+        "end": 31.023
+      },
+      {
+        "text": "ist",
+        "start": 31.063,
+        "end": 31.163
+      },
+      {
+        "text": "seit",
+        "start": 31.203,
+        "end": 31.364
+      },
+      {
+        "text": "kurzem",
+        "start": 31.384,
+        "end": 31.644
+      },
+      {
+        "text": "für",
+        "start": 31.684,
+        "end": 31.804
+      },
+      {
+        "text": "mich",
+        "start": 31.824,
+        "end": 31.964
+      },
+      {
+        "text": "machbar.",
+        "start": 32.004,
+        "end": 33.426
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Seit wann das denn?",
+    "start": 33.446,
+    "end": 34.667,
+    "words": [
+      {
+        "text": "Seit",
+        "start": 33.446,
+        "end": 33.566
+      },
+      {
+        "text": "wann",
+        "start": 33.606,
+        "end": 33.846
+      },
+      {
+        "text": "das",
+        "start": 33.886,
+        "end": 34.046
+      },
+      {
+        "text": "denn?",
+        "start": 34.066,
+        "end": 34.667
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Dabei hat er letztens noch 120 kmh geschlagen.",
+    "start": 34.707,
+    "end": 38.23,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 34.707,
+        "end": 34.907
+      },
+      {
+        "text": "hat",
+        "start": 34.947,
+        "end": 35.047
+      },
+      {
+        "text": "er",
+        "start": 35.087,
+        "end": 35.207
+      },
+      {
+        "text": "letztens",
+        "start": 35.227,
+        "end": 35.508
+      },
+      {
+        "text": "noch",
+        "start": 35.548,
+        "end": 35.828
+      },
+      {
+        "text": "kmh",
+        "start": 36.369,
+        "end": 36.689
+      },
+      {
+        "text": "geschlagen.",
+        "start": 36.709,
+        "end": 38.23
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "160 werde ich nie im Leben schaffen.",
+    "start": 38.25,
+    "end": 39.412,
+    "words": [
+      {
+        "text": "werde",
+        "start": 38.27,
+        "end": 38.431
+      },
+      {
+        "text": "ich",
+        "start": 38.471,
+        "end": 38.551
+      },
+      {
+        "text": "nie",
+        "start": 38.591,
+        "end": 38.691
+      },
+      {
+        "text": "im",
+        "start": 38.731,
+        "end": 38.831
+      },
+      {
+        "text": "Leben",
+        "start": 38.851,
+        "end": 39.091
+      },
+      {
+        "text": "schaffen.",
+        "start": 39.131,
+        "end": 39.412
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Los, Toma, versuch's doch auch mal.",
+    "start": 40.232,
+    "end": 42.194,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 40.232,
+        "end": 40.373
+      },
+      {
+        "text": "Toma,",
+        "start": 40.393,
+        "end": 40.693
+      },
+      {
+        "text": "versuch's",
+        "start": 40.713,
+        "end": 40.993
+      },
+      {
+        "text": "doch",
+        "start": 41.013,
+        "end": 41.133
+      },
+      {
+        "text": "auch",
+        "start": 41.173,
+        "end": 41.273
+      },
+      {
+        "text": "mal.",
+        "start": 41.394,
+        "end": 42.194
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Volltreffer!",
+    "start": 44.276,
+    "end": 46.098,
+    "words": [
+      {
+        "text": "Volltreffer!",
+        "start": 44.276,
+        "end": 46.098
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Wie geil!",
+    "start": 49.762,
+    "end": 50.423,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 49.762,
+        "end": 50.262
+      },
+      {
+        "text": "geil!",
+        "start": 50.282,
+        "end": 50.423
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Hier waren wir ja auch ewig nicht mehr.",
+    "start": 50.463,
+    "end": 52.244,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 50.463,
+        "end": 50.563
+      },
+      {
+        "text": "waren",
+        "start": 50.583,
+        "end": 50.723
+      },
+      {
+        "text": "wir",
+        "start": 50.743,
+        "end": 50.823
+      },
+      {
+        "text": "ja",
+        "start": 50.863,
+        "end": 50.963
+      },
+      {
+        "text": "auch",
+        "start": 50.983,
+        "end": 51.123
+      },
+      {
+        "text": "ewig",
+        "start": 51.163,
+        "end": 51.463
+      },
+      {
+        "text": "nicht",
+        "start": 51.483,
+        "end": 51.644
+      },
+      {
+        "text": "mehr.",
+        "start": 51.664,
+        "end": 52.244
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Spätestens jetzt läuft wirklich alles genauso ab wie immer.",
+    "start": 52.284,
+    "end": 55.027,
+    "words": [
+      {
+        "text": "Spätestens",
+        "start": 52.284,
+        "end": 52.885
+      },
+      {
+        "text": "jetzt",
+        "start": 52.925,
+        "end": 53.065
+      },
+      {
+        "text": "läuft",
+        "start": 53.105,
+        "end": 53.285
+      },
+      {
+        "text": "wirklich",
+        "start": 53.305,
+        "end": 53.585
+      },
+      {
+        "text": "alles",
+        "start": 53.625,
+        "end": 53.846
+      },
+      {
+        "text": "genauso",
+        "start": 53.886,
+        "end": 54.246
+      },
+      {
+        "text": "ab",
+        "start": 54.286,
+        "end": 54.426
+      },
+      {
+        "text": "wie",
+        "start": 54.446,
+        "end": 54.566
+      },
+      {
+        "text": "immer.",
+        "start": 54.626,
+        "end": 55.027
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Wow!",
+    "start": 55.067,
+    "end": 55.607,
+    "words": [
+      {
+        "text": "Wow!",
+        "start": 55.067,
+        "end": 55.607
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Alter, wiegt die Kugel nicht siebeneinhalb Kilo?",
+    "start": 55.687,
+    "end": 57.549,
+    "words": [
+      {
+        "text": "Alter,",
+        "start": 55.687,
+        "end": 55.927
+      },
+      {
+        "text": "wiegt",
+        "start": 55.967,
+        "end": 56.067
+      },
+      {
+        "text": "die",
+        "start": 56.087,
+        "end": 56.188
+      },
+      {
+        "text": "Kugel",
+        "start": 56.208,
+        "end": 56.448
+      },
+      {
+        "text": "nicht",
+        "start": 56.468,
+        "end": 56.628
+      },
+      {
+        "text": "siebeneinhalb",
+        "start": 56.648,
+        "end": 57.188
+      },
+      {
+        "text": "Kilo?",
+        "start": 57.228,
+        "end": 57.549
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ja, aber das Gewicht krieg ich neuerdings locker gehoben.",
+    "start": 58.009,
+    "end": 61.192,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 58.009,
+        "end": 58.269
+      },
+      {
+        "text": "aber",
+        "start": 58.309,
+        "end": 58.449
+      },
+      {
+        "text": "das",
+        "start": 58.49,
+        "end": 58.63
+      },
+      {
+        "text": "Gewicht",
+        "start": 58.67,
+        "end": 58.93
+      },
+      {
+        "text": "krieg",
+        "start": 58.95,
+        "end": 59.11
+      },
+      {
+        "text": "ich",
+        "start": 59.15,
+        "end": 59.25
+      },
+      {
+        "text": "neuerdings",
+        "start": 59.27,
+        "end": 59.731
+      },
+      {
+        "text": "locker",
+        "start": 59.771,
+        "end": 60.051
+      },
+      {
+        "text": "gehoben.",
+        "start": 60.091,
+        "end": 61.192
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Dabei hat er bis vor kurzem noch eine leichtere Kugel benutzt.",
+    "start": 61.212,
+    "end": 64.395,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 61.212,
+        "end": 61.512
+      },
+      {
+        "text": "hat",
+        "start": 61.532,
+        "end": 61.652
+      },
+      {
+        "text": "er",
+        "start": 61.692,
+        "end": 61.792
+      },
+      {
+        "text": "bis",
+        "start": 61.812,
+        "end": 61.932
+      },
+      {
+        "text": "vor",
+        "start": 61.952,
+        "end": 62.093
+      },
+      {
+        "text": "kurzem",
+        "start": 62.113,
+        "end": 62.433
+      },
+      {
+        "text": "noch",
+        "start": 62.453,
+        "end": 62.573
+      },
+      {
+        "text": "eine",
+        "start": 62.613,
+        "end": 62.773
+      },
+      {
+        "text": "leichtere",
+        "start": 62.793,
+        "end": 63.234
+      },
+      {
+        "text": "Kugel",
+        "start": 63.274,
+        "end": 63.534
+      },
+      {
+        "text": "benutzt.",
+        "start": 63.554,
+        "end": 64.395
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Für mich ist die sicher viel zu schwer.",
+    "start": 64.435,
+    "end": 66.176,
+    "words": [
+      {
+        "text": "Für",
+        "start": 64.435,
+        "end": 64.555
+      },
+      {
+        "text": "mich",
+        "start": 64.575,
+        "end": 64.695
+      },
+      {
+        "text": "ist",
+        "start": 64.735,
+        "end": 64.855
+      },
+      {
+        "text": "die",
+        "start": 64.875,
+        "end": 64.955
+      },
+      {
+        "text": "sicher",
+        "start": 64.975,
+        "end": 65.275
+      },
+      {
+        "text": "viel",
+        "start": 65.295,
+        "end": 65.476
+      },
+      {
+        "text": "zu",
+        "start": 65.496,
+        "end": 65.596
+      },
+      {
+        "text": "schwer.",
+        "start": 65.616,
+        "end": 66.176
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Los, Tumo, versuch's doch auch mal.",
+    "start": 66.256,
+    "end": 70.94,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 66.256,
+        "end": 66.396
+      },
+      {
+        "text": "Tumo,",
+        "start": 66.416,
+        "end": 66.717
+      },
+      {
+        "text": "versuch's",
+        "start": 66.737,
+        "end": 66.997
+      },
+      {
+        "text": "doch",
+        "start": 67.037,
+        "end": 67.157
+      },
+      {
+        "text": "auch",
+        "start": 67.197,
+        "end": 67.297
+      },
+      {
+        "text": "mal.",
+        "start": 67.377,
+        "end": 70.94
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Strike!",
+    "start": 71.04,
+    "end": 71.581,
+    "words": [
+      {
+        "text": "Strike!",
+        "start": 71.04,
+        "end": 71.581
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " So geht das nicht.",
+    "start": 75.047,
+    "end": 75.827,
+    "words": [
+      {
+        "text": "So",
+        "start": 75.047,
+        "end": 75.147
+      },
+      {
+        "text": "geht",
+        "start": 75.187,
+        "end": 75.327
+      },
+      {
+        "text": "das",
+        "start": 75.347,
+        "end": 75.467
+      },
+      {
+        "text": "nicht.",
+        "start": 75.487,
+        "end": 75.827
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ich muss irgendwas tun.",
+    "start": 75.867,
+    "end": 76.748,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 75.867,
+        "end": 75.967
+      },
+      {
+        "text": "muss",
+        "start": 75.987,
+        "end": 76.127
+      },
+      {
+        "text": "irgendwas",
+        "start": 76.187,
+        "end": 76.568
+      },
+      {
+        "text": "tun.",
+        "start": 76.588,
+        "end": 76.748
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ähm, also... hast du Bock als nächstes vielleicht zum Karaoke zu gehen?",
+    "start": 76.828,
+    "end": 82.069,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 76.828,
+        "end": 78.148
+      },
+      {
+        "text": "also...",
+        "start": 78.208,
+        "end": 79.048
+      },
+      {
+        "text": "hast",
+        "start": 79.088,
+        "end": 79.229
+      },
+      {
+        "text": "du",
+        "start": 79.249,
+        "end": 79.409
+      },
+      {
+        "text": "Bock",
+        "start": 79.449,
+        "end": 79.689
+      },
+      {
+        "text": "als",
+        "start": 79.729,
+        "end": 79.929
+      },
+      {
+        "text": "nächstes",
+        "start": 79.969,
+        "end": 80.589
+      },
+      {
+        "text": "vielleicht",
+        "start": 80.629,
+        "end": 81.009
+      },
+      {
+        "text": "zum",
+        "start": 81.049,
+        "end": 81.189
+      },
+      {
+        "text": "Karaoke",
+        "start": 81.229,
+        "end": 81.729
+      },
+      {
+        "text": "zu",
+        "start": 81.769,
+        "end": 81.849
+      },
+      {
+        "text": "gehen?",
+        "start": 81.889,
+        "end": 82.069
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Klar, wieso nicht?",
+    "start": 82.089,
+    "end": 83.53,
+    "words": [
+      {
+        "text": "Klar,",
+        "start": 82.089,
+        "end": 82.91
+      },
+      {
+        "text": "wieso",
+        "start": 82.95,
+        "end": 83.21
+      },
+      {
+        "text": "nicht?",
+        "start": 83.27,
+        "end": 83.53
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ich dachte mir schon, dass du Nein sagst, aber zur Abwechslung wär's doch... Moment mal, was?",
+    "start": 83.57,
+    "end": 87.951,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 83.57,
+        "end": 83.67
+      },
+      {
+        "text": "dachte",
+        "start": 83.73,
+        "end": 84.01
+      },
+      {
+        "text": "mir",
+        "start": 84.03,
+        "end": 84.15
+      },
+      {
+        "text": "schon,",
+        "start": 84.17,
+        "end": 84.33
+      },
+      {
+        "text": "dass",
+        "start": 84.35,
+        "end": 84.47
+      },
+      {
+        "text": "du",
+        "start": 84.51,
+        "end": 84.65
+      },
+      {
+        "text": "Nein",
+        "start": 84.69,
+        "end": 84.89
+      },
+      {
+        "text": "sagst,",
+        "start": 84.93,
+        "end": 85.231
+      },
+      {
+        "text": "aber",
+        "start": 85.251,
+        "end": 85.471
+      },
+      {
+        "text": "zur",
+        "start": 85.491,
+        "end": 85.631
+      },
+      {
+        "text": "Abwechslung",
+        "start": 85.651,
+        "end": 86.191
+      },
+      {
+        "text": "wär's",
+        "start": 86.231,
+        "end": 86.451
+      },
+      {
+        "text": "doch...",
+        "start": 86.471,
+        "end": 87.251
+      },
+      {
+        "text": "Moment",
+        "start": 87.291,
+        "end": 87.511
+      },
+      {
+        "text": "mal,",
+        "start": 87.591,
+        "end": 87.731
+      },
+      {
+        "text": "was?",
+        "start": 87.811,
+        "end": 87.951
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Ach, so sieht's hier also aus.",
+    "start": 91.213,
+    "end": 93.493,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 91.213,
+        "end": 91.793
+      },
+      {
+        "text": "so",
+        "start": 91.813,
+        "end": 92.073
+      },
+      {
+        "text": "sieht's",
+        "start": 92.113,
+        "end": 92.273
+      },
+      {
+        "text": "hier",
+        "start": 92.353,
+        "end": 92.573
+      },
+      {
+        "text": "also",
+        "start": 92.633,
+        "end": 92.893
+      },
+      {
+        "text": "aus.",
+        "start": 92.953,
+        "end": 93.493
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich hab gedacht, dass Karaokeboxen viel lebhafter wären.",
+    "start": 93.533,
+    "end": 96.234,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 93.533,
+        "end": 93.613
+      },
+      {
+        "text": "hab",
+        "start": 93.653,
+        "end": 93.793
+      },
+      {
+        "text": "gedacht,",
+        "start": 93.833,
+        "end": 94.074
+      },
+      {
+        "text": "dass",
+        "start": 94.094,
+        "end": 94.194
+      },
+      {
+        "text": "Karaokeboxen",
+        "start": 94.234,
+        "end": 95.034
+      },
+      {
+        "text": "viel",
+        "start": 95.054,
+        "end": 95.194
+      },
+      {
+        "text": "lebhafter",
+        "start": 95.234,
+        "end": 95.734
+      },
+      {
+        "text": "wären.",
+        "start": 95.774,
+        "end": 96.234
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Dabei ist es hier nur eng und düster.",
+    "start": 96.254,
+    "end": 98.115,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 96.254,
+        "end": 96.794
+      },
+      {
+        "text": "ist",
+        "start": 96.854,
+        "end": 96.955
+      },
+      {
+        "text": "es",
+        "start": 96.995,
+        "end": 97.075
+      },
+      {
+        "text": "hier",
+        "start": 97.095,
+        "end": 97.235
+      },
+      {
+        "text": "nur",
+        "start": 97.275,
+        "end": 97.415
+      },
+      {
+        "text": "eng",
+        "start": 97.455,
+        "end": 97.595
+      },
+      {
+        "text": "und",
+        "start": 97.615,
+        "end": 97.755
+      },
+      {
+        "text": "düster.",
+        "start": 97.775,
+        "end": 98.115
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Na komm schon, lass dich endlich leben, Ding.",
+    "start": 98.855,
+    "end": 101.256,
+    "words": [
+      {
+        "text": "Na",
+        "start": 98.855,
+        "end": 99.335
+      },
+      {
+        "text": "komm",
+        "start": 99.475,
+        "end": 99.735
+      },
+      {
+        "text": "schon,",
+        "start": 99.775,
+        "end": 99.956
+      },
+      {
+        "text": "lass",
+        "start": 99.996,
+        "end": 100.176
+      },
+      {
+        "text": "dich",
+        "start": 100.196,
+        "end": 100.356
+      },
+      {
+        "text": "endlich",
+        "start": 100.396,
+        "end": 100.676
+      },
+      {
+        "text": "leben,",
+        "start": 100.716,
+        "end": 100.916
+      },
+      {
+        "text": "Ding.",
+        "start": 100.936,
+        "end": 101.256
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Du musst dich bei ihm ankuscheln.",
+    "start": 101.276,
+    "end": 103.197,
+    "words": [
+      {
+        "text": "Du",
+        "start": 101.276,
+        "end": 101.496
+      },
+      {
+        "text": "musst",
+        "start": 101.516,
+        "end": 101.676
+      },
+      {
+        "text": "dich",
+        "start": 101.696,
+        "end": 101.856
+      },
+      {
+        "text": "bei",
+        "start": 101.896,
+        "end": 101.996
+      },
+      {
+        "text": "ihm",
+        "start": 102.056,
+        "end": 102.156
+      },
+      {
+        "text": "ankuscheln.",
+        "start": 102.196,
+        "end": 103.197
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Was ist?",
+    "start": 103.217,
+    "end": 103.557,
+    "words": [
+      {
+        "text": "Was",
+        "start": 103.217,
+        "end": 103.397
+      },
+      {
+        "text": "ist?",
+        "start": 103.417,
+        "end": 103.557
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": " Willst du nicht was singen?",
+    "start": 104.723,
+    "end": 106.809,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 104.723,
+        "end": 105.224
+      },
+      {
+        "text": "du",
+        "start": 105.244,
+        "end": 105.325
+      },
+      {
+        "text": "nicht",
+        "start": 105.345,
+        "end": 105.485
+      },
+      {
+        "text": "was",
+        "start": 105.545,
+        "end": 105.706
+      },
+      {
+        "text": "singen?",
+        "start": 105.746,
+        "end": 106.809
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Ich und singen?",
+    "start": 106.869,
+    "end": 107.892,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 106.869,
+        "end": 107.05
+      },
+      {
+        "text": "und",
+        "start": 107.09,
+        "end": 107.351
+      },
+      {
+        "text": "singen?",
+        "start": 107.411,
+        "end": 107.892
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Wie kommst du auf die Idee, dass gerade ich singen würde?",
+    "start": 107.912,
+    "end": 110.259,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 107.912,
+        "end": 108.053
+      },
+      {
+        "text": "kommst",
+        "start": 108.093,
+        "end": 108.273
+      },
+      {
+        "text": "du",
+        "start": 108.293,
+        "end": 108.414
+      },
+      {
+        "text": "auf",
+        "start": 108.434,
+        "end": 108.534
+      },
+      {
+        "text": "die",
+        "start": 108.554,
+        "end": 108.654
+      },
+      {
+        "text": "Idee,",
+        "start": 108.714,
+        "end": 108.915
+      },
+      {
+        "text": "dass",
+        "start": 108.935,
+        "end": 109.055
+      },
+      {
+        "text": "gerade",
+        "start": 109.075,
+        "end": 109.436
+      },
+      {
+        "text": "ich",
+        "start": 109.477,
+        "end": 109.657
+      },
+      {
+        "text": "singen",
+        "start": 109.697,
+        "end": 109.958
+      },
+      {
+        "text": "würde?",
+        "start": 109.998,
+        "end": 110.259
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Und warum sind wir dann hierher gekommen?",
+    "start": 110.279,
+    "end": 111.643,
+    "words": [
+      {
+        "text": "Und",
+        "start": 110.279,
+        "end": 110.339
+      },
+      {
+        "text": "warum",
+        "start": 110.359,
+        "end": 110.58
+      },
+      {
+        "text": "sind",
+        "start": 110.6,
+        "end": 110.72
+      },
+      {
+        "text": "wir",
+        "start": 110.76,
+        "end": 110.84
+      },
+      {
+        "text": "dann",
+        "start": 110.861,
+        "end": 110.981
+      },
+      {
+        "text": "hierher",
+        "start": 111.021,
+        "end": 111.342
+      },
+      {
+        "text": "gekommen?",
+        "start": 111.382,
+        "end": 111.643
+      }
+    ]
+  }
+]

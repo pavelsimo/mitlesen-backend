@@ -1,0 +1,1728 @@
+[
+  {
+    "id": 0,
+    "text": " Herzlichen Glückwunsch, ihr Rohdiamanten.",
+    "start": 3.5,
+    "end": 5.461,
+    "words": [
+      {
+        "text": "Herzlichen",
+        "start": 3.5,
+        "end": 3.94
+      },
+      {
+        "text": "Glückwunsch,",
+        "start": 3.96,
+        "end": 4.401
+      },
+      {
+        "text": "ihr",
+        "start": 4.441,
+        "end": 4.561
+      },
+      {
+        "text": "Rohdiamanten.",
+        "start": 4.601,
+        "end": 5.461
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Willkommen.",
+    "start": 5.481,
+    "end": 6.702,
+    "words": [
+      {
+        "text": "Willkommen.",
+        "start": 5.481,
+        "end": 6.702
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ihr seid 300 Stürmer unter 18 Jahren, die nach meiner persönlichen subjektiven Beurteilung ausgewählt wurden.",
+    "start": 6.762,
+    "end": 13.006,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 6.762,
+        "end": 6.982
+      },
+      {
+        "text": "seid",
+        "start": 7.002,
+        "end": 7.622
+      },
+      {
+        "text": "Stürmer",
+        "start": 7.723,
+        "end": 8.183
+      },
+      {
+        "text": "unter",
+        "start": 8.283,
+        "end": 8.563
+      },
+      {
+        "text": "Jahren,",
+        "start": 9.023,
+        "end": 9.464
+      },
+      {
+        "text": "die",
+        "start": 9.484,
+        "end": 9.604
+      },
+      {
+        "text": "nach",
+        "start": 9.644,
+        "end": 9.824
+      },
+      {
+        "text": "meiner",
+        "start": 9.844,
+        "end": 10.104
+      },
+      {
+        "text": "persönlichen",
+        "start": 10.144,
+        "end": 10.764
+      },
+      {
+        "text": "subjektiven",
+        "start": 10.784,
+        "end": 11.405
+      },
+      {
+        "text": "Beurteilung",
+        "start": 11.445,
+        "end": 12.125
+      },
+      {
+        "text": "ausgewählt",
+        "start": 12.165,
+        "end": 12.665
+      },
+      {
+        "text": "wurden.",
+        "start": 12.685,
+        "end": 13.006
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wer hier gewinnen will, der braucht ein großes Ego.",
+    "start": 14.146,
+    "end": 19.249,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 14.146,
+        "end": 14.346
+      },
+      {
+        "text": "hier",
+        "start": 14.366,
+        "end": 14.586
+      },
+      {
+        "text": "gewinnen",
+        "start": 14.606,
+        "end": 15.047
+      },
+      {
+        "text": "will,",
+        "start": 15.087,
+        "end": 15.387
+      },
+      {
+        "text": "der",
+        "start": 15.427,
+        "end": 15.587
+      },
+      {
+        "text": "braucht",
+        "start": 15.627,
+        "end": 15.967
+      },
+      {
+        "text": "ein",
+        "start": 16.007,
+        "end": 16.187
+      },
+      {
+        "text": "großes",
+        "start": 16.207,
+        "end": 16.708
+      },
+      {
+        "text": "Ego.",
+        "start": 16.808,
+        "end": 19.249
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wovon redet er da?",
+    "start": 19.289,
+    "end": 22.731,
+    "words": [
+      {
+        "text": "Wovon",
+        "start": 19.289,
+        "end": 20.29
+      },
+      {
+        "text": "redet",
+        "start": 20.37,
+        "end": 20.67
+      },
+      {
+        "text": "er",
+        "start": 20.71,
+        "end": 20.79
+      },
+      {
+        "text": "da?",
+        "start": 20.81,
+        "end": 22.731
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wollen Sie ihn nicht miterleben?",
+    "start": 22.771,
+    "end": 25.893,
+    "words": [
+      {
+        "text": "Wollen",
+        "start": 22.771,
+        "end": 22.991
+      },
+      {
+        "text": "Sie",
+        "start": 23.031,
+        "end": 23.131
+      },
+      {
+        "text": "ihn",
+        "start": 23.171,
+        "end": 23.311
+      },
+      {
+        "text": "nicht",
+        "start": 23.331,
+        "end": 23.531
+      },
+      {
+        "text": "miterleben?",
+        "start": 23.571,
+        "end": 25.893
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Den entscheidenden Moment, in dem der Held des japanischen Fußballs geboren wird.",
+    "start": 25.913,
+    "end": 29.435,
+    "words": [
+      {
+        "text": "Den",
+        "start": 25.913,
+        "end": 26.093
+      },
+      {
+        "text": "entscheidenden",
+        "start": 26.133,
+        "end": 26.793
+      },
+      {
+        "text": "Moment,",
+        "start": 26.833,
+        "end": 27.133
+      },
+      {
+        "text": "in",
+        "start": 27.174,
+        "end": 27.254
+      },
+      {
+        "text": "dem",
+        "start": 27.274,
+        "end": 27.414
+      },
+      {
+        "text": "der",
+        "start": 27.434,
+        "end": 27.554
+      },
+      {
+        "text": "Held",
+        "start": 27.574,
+        "end": 27.754
+      },
+      {
+        "text": "des",
+        "start": 27.794,
+        "end": 27.894
+      },
+      {
+        "text": "japanischen",
+        "start": 27.934,
+        "end": 28.514
+      },
+      {
+        "text": "Fußballs",
+        "start": 28.554,
+        "end": 28.975
+      },
+      {
+        "text": "geboren",
+        "start": 29.015,
+        "end": 29.295
+      },
+      {
+        "text": "wird.",
+        "start": 29.315,
+        "end": 29.435
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Dafür gibt es jetzt Bluelock.",
+    "start": 31.952,
+    "end": 36.396,
+    "words": [
+      {
+        "text": "Dafür",
+        "start": 31.952,
+        "end": 33.013
+      },
+      {
+        "text": "gibt",
+        "start": 33.033,
+        "end": 33.253
+      },
+      {
+        "text": "es",
+        "start": 33.314,
+        "end": 33.474
+      },
+      {
+        "text": "jetzt",
+        "start": 33.514,
+        "end": 33.794
+      },
+      {
+        "text": "Bluelock.",
+        "start": 33.834,
+        "end": 36.396
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Allerdings, jeder, der bei Bluelock durchfällt, verliert sein Leben lang das Recht auf Berufung in die Nationalmannschaft.",
+    "start": 36.457,
+    "end": 46.206,
+    "words": [
+      {
+        "text": "Allerdings,",
+        "start": 36.457,
+        "end": 38.298
+      },
+      {
+        "text": "jeder,",
+        "start": 38.338,
+        "end": 38.759
+      },
+      {
+        "text": "der",
+        "start": 38.779,
+        "end": 38.899
+      },
+      {
+        "text": "bei",
+        "start": 38.939,
+        "end": 39.119
+      },
+      {
+        "text": "Bluelock",
+        "start": 39.159,
+        "end": 39.84
+      },
+      {
+        "text": "durchfällt,",
+        "start": 39.88,
+        "end": 42.482
+      },
+      {
+        "text": "verliert",
+        "start": 42.502,
+        "end": 42.923
+      },
+      {
+        "text": "sein",
+        "start": 42.963,
+        "end": 43.183
+      },
+      {
+        "text": "Leben",
+        "start": 43.223,
+        "end": 43.463
+      },
+      {
+        "text": "lang",
+        "start": 43.503,
+        "end": 43.703
+      },
+      {
+        "text": "das",
+        "start": 43.743,
+        "end": 43.944
+      },
+      {
+        "text": "Recht",
+        "start": 43.984,
+        "end": 44.244
+      },
+      {
+        "text": "auf",
+        "start": 44.264,
+        "end": 44.444
+      },
+      {
+        "text": "Berufung",
+        "start": 44.484,
+        "end": 44.925
+      },
+      {
+        "text": "in",
+        "start": 44.965,
+        "end": 45.045
+      },
+      {
+        "text": "die",
+        "start": 45.085,
+        "end": 45.185
+      },
+      {
+        "text": "Nationalmannschaft.",
+        "start": 45.225,
+        "end": 46.206
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wie können wir denn nur gewinnen?",
+    "start": 49.329,
+    "end": 52.652,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 49.329,
+        "end": 49.449
+      },
+      {
+        "text": "können",
+        "start": 49.469,
+        "end": 49.669
+      },
+      {
+        "text": "wir",
+        "start": 49.689,
+        "end": 49.809
+      },
+      {
+        "text": "denn",
+        "start": 49.829,
+        "end": 49.929
+      },
+      {
+        "text": "nur",
+        "start": 49.969,
+        "end": 50.089
+      },
+      {
+        "text": "gewinnen?",
+        "start": 50.109,
+        "end": 52.652
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Was fehlt mir als Stürmer, um hier bei Bluelock zu bestehen?",
+    "start": 52.692,
+    "end": 55.795,
+    "words": [
+      {
+        "text": "Was",
+        "start": 52.692,
+        "end": 52.912
+      },
+      {
+        "text": "fehlt",
+        "start": 52.952,
+        "end": 53.152
+      },
+      {
+        "text": "mir",
+        "start": 53.192,
+        "end": 53.333
+      },
+      {
+        "text": "als",
+        "start": 53.353,
+        "end": 53.473
+      },
+      {
+        "text": "Stürmer,",
+        "start": 53.513,
+        "end": 54.293
+      },
+      {
+        "text": "um",
+        "start": 54.333,
+        "end": 54.474
+      },
+      {
+        "text": "hier",
+        "start": 54.494,
+        "end": 54.634
+      },
+      {
+        "text": "bei",
+        "start": 54.654,
+        "end": 54.794
+      },
+      {
+        "text": "Bluelock",
+        "start": 54.814,
+        "end": 55.254
+      },
+      {
+        "text": "zu",
+        "start": 55.274,
+        "end": 55.354
+      },
+      {
+        "text": "bestehen?",
+        "start": 55.394,
+        "end": 55.795
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Batshiras Waffe ist das Dribbling.",
+    "start": 58.978,
+    "end": 60.458,
+    "words": [
+      {
+        "text": "Batshiras",
+        "start": 58.978,
+        "end": 59.338
+      },
+      {
+        "text": "Waffe",
+        "start": 59.358,
+        "end": 59.518
+      },
+      {
+        "text": "ist",
+        "start": 59.538,
+        "end": 59.638
+      },
+      {
+        "text": "das",
+        "start": 59.658,
+        "end": 59.778
+      },
+      {
+        "text": "Dribbling.",
+        "start": 59.798,
+        "end": 60.458
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wirklich beeindruckend.",
+    "start": 60.478,
+    "end": 61.799,
+    "words": [
+      {
+        "text": "Wirklich",
+        "start": 60.478,
+        "end": 60.798
+      },
+      {
+        "text": "beeindruckend.",
+        "start": 60.818,
+        "end": 61.799
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Lasst uns ein aufregendes Fußballspiel draus machen.",
+    "start": 61.819,
+    "end": 65.98,
+    "words": [
+      {
+        "text": "Lasst",
+        "start": 61.819,
+        "end": 62.119
+      },
+      {
+        "text": "uns",
+        "start": 62.159,
+        "end": 62.519
+      },
+      {
+        "text": "ein",
+        "start": 62.579,
+        "end": 62.799
+      },
+      {
+        "text": "aufregendes",
+        "start": 62.839,
+        "end": 63.439
+      },
+      {
+        "text": "Fußballspiel",
+        "start": 63.479,
+        "end": 64.099
+      },
+      {
+        "text": "draus",
+        "start": 64.119,
+        "end": 64.379
+      },
+      {
+        "text": "machen.",
+        "start": 64.399,
+        "end": 65.98
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ich dribble in Blitzgeschwindigkeit!",
+    "start": 66.04,
+    "end": 68.02,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 66.04,
+        "end": 66.16
+      },
+      {
+        "text": "dribble",
+        "start": 66.18,
+        "end": 66.52
+      },
+      {
+        "text": "in",
+        "start": 66.54,
+        "end": 66.66
+      },
+      {
+        "text": "Blitzgeschwindigkeit!",
+        "start": 66.68,
+        "end": 68.02
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "An allen vorbeizuziehen, nur darum geht es für mich wirklich beim Fußball.",
+    "start": 68.08,
+    "end": 72.621,
+    "words": [
+      {
+        "text": "An",
+        "start": 68.08,
+        "end": 68.28
+      },
+      {
+        "text": "allen",
+        "start": 68.32,
+        "end": 68.48
+      },
+      {
+        "text": "vorbeizuziehen,",
+        "start": 68.52,
+        "end": 69.94
+      },
+      {
+        "text": "nur",
+        "start": 69.96,
+        "end": 70.14
+      },
+      {
+        "text": "darum",
+        "start": 70.16,
+        "end": 70.4
+      },
+      {
+        "text": "geht",
+        "start": 70.42,
+        "end": 70.54
+      },
+      {
+        "text": "es",
+        "start": 70.6,
+        "end": 70.66
+      },
+      {
+        "text": "für",
+        "start": 70.7,
+        "end": 70.801
+      },
+      {
+        "text": "mich",
+        "start": 70.821,
+        "end": 71.001
+      },
+      {
+        "text": "wirklich",
+        "start": 71.041,
+        "end": 71.301
+      },
+      {
+        "text": "beim",
+        "start": 71.321,
+        "end": 71.481
+      },
+      {
+        "text": "Fußball.",
+        "start": 71.521,
+        "end": 72.621
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Baros Verhalten ist einfach eine Anomalie auf dem Spielfeld.",
+    "start": 72.641,
+    "end": 76.462,
+    "words": [
+      {
+        "text": "Baros",
+        "start": 72.641,
+        "end": 73.021
+      },
+      {
+        "text": "Verhalten",
+        "start": 73.041,
+        "end": 73.741
+      },
+      {
+        "text": "ist",
+        "start": 73.801,
+        "end": 74.041
+      },
+      {
+        "text": "einfach",
+        "start": 74.061,
+        "end": 74.361
+      },
+      {
+        "text": "eine",
+        "start": 74.381,
+        "end": 74.541
+      },
+      {
+        "text": "Anomalie",
+        "start": 74.561,
+        "end": 75.021
+      },
+      {
+        "text": "auf",
+        "start": 75.041,
+        "end": 75.161
+      },
+      {
+        "text": "dem",
+        "start": 75.181,
+        "end": 75.301
+      },
+      {
+        "text": "Spielfeld.",
+        "start": 75.341,
+        "end": 76.462
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich bin der King.",
+    "start": 76.502,
+    "end": 77.402,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 76.502,
+        "end": 76.722
+      },
+      {
+        "text": "bin",
+        "start": 76.762,
+        "end": 76.862
+      },
+      {
+        "text": "der",
+        "start": 76.882,
+        "end": 77.122
+      },
+      {
+        "text": "King.",
+        "start": 77.162,
+        "end": 77.402
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Seishiro Nagi, der kotzt mich sowas von an.",
+    "start": 79.162,
+    "end": 82.343,
+    "words": [
+      {
+        "text": "Seishiro",
+        "start": 79.162,
+        "end": 79.722
+      },
+      {
+        "text": "Nagi,",
+        "start": 79.782,
+        "end": 80.663
+      },
+      {
+        "text": "der",
+        "start": 80.683,
+        "end": 80.823
+      },
+      {
+        "text": "kotzt",
+        "start": 80.883,
+        "end": 81.163
+      },
+      {
+        "text": "mich",
+        "start": 81.183,
+        "end": 81.383
+      },
+      {
+        "text": "sowas",
+        "start": 81.403,
+        "end": 81.723
+      },
+      {
+        "text": "von",
+        "start": 81.763,
+        "end": 82.003
+      },
+      {
+        "text": "an.",
+        "start": 82.043,
+        "end": 82.343
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das war ein sowas von einfacher Schuss.",
+    "start": 82.383,
+    "end": 84.703,
+    "words": [
+      {
+        "text": "Das",
+        "start": 82.383,
+        "end": 82.523
+      },
+      {
+        "text": "war",
+        "start": 82.563,
+        "end": 82.663
+      },
+      {
+        "text": "ein",
+        "start": 82.703,
+        "end": 82.803
+      },
+      {
+        "text": "sowas",
+        "start": 82.823,
+        "end": 83.103
+      },
+      {
+        "text": "von",
+        "start": 83.123,
+        "end": 83.283
+      },
+      {
+        "text": "einfacher",
+        "start": 83.323,
+        "end": 83.723
+      },
+      {
+        "text": "Schuss.",
+        "start": 83.743,
+        "end": 84.703
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Kann man denn gegen so jemanden überhaupt gewinnen?",
+    "start": 84.723,
+    "end": 87.464,
+    "words": [
+      {
+        "text": "Kann",
+        "start": 84.723,
+        "end": 84.903
+      },
+      {
+        "text": "man",
+        "start": 84.943,
+        "end": 85.123
+      },
+      {
+        "text": "denn",
+        "start": 85.163,
+        "end": 85.764
+      },
+      {
+        "text": "gegen",
+        "start": 85.784,
+        "end": 86.044
+      },
+      {
+        "text": "so",
+        "start": 86.084,
+        "end": 86.324
+      },
+      {
+        "text": "jemanden",
+        "start": 86.344,
+        "end": 86.744
+      },
+      {
+        "text": "überhaupt",
+        "start": 86.784,
+        "end": 87.124
+      },
+      {
+        "text": "gewinnen?",
+        "start": 87.164,
+        "end": 87.464
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Den Schlüssel für meine Entwicklung finde ich nur in mir selbst.",
+    "start": 88.186,
+    "end": 92.668,
+    "words": [
+      {
+        "text": "Den",
+        "start": 88.186,
+        "end": 88.626
+      },
+      {
+        "text": "Schlüssel",
+        "start": 88.646,
+        "end": 88.906
+      },
+      {
+        "text": "für",
+        "start": 88.926,
+        "end": 89.006
+      },
+      {
+        "text": "meine",
+        "start": 89.026,
+        "end": 89.146
+      },
+      {
+        "text": "Entwicklung",
+        "start": 89.186,
+        "end": 89.487
+      },
+      {
+        "text": "finde",
+        "start": 89.527,
+        "end": 89.687
+      },
+      {
+        "text": "ich",
+        "start": 89.707,
+        "end": 89.807
+      },
+      {
+        "text": "nur",
+        "start": 89.847,
+        "end": 89.927
+      },
+      {
+        "text": "in",
+        "start": 89.947,
+        "end": 90.047
+      },
+      {
+        "text": "mir",
+        "start": 90.067,
+        "end": 90.267
+      },
+      {
+        "text": "selbst.",
+        "start": 90.307,
+        "end": 92.668
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Abschaum.",
+    "start": 92.708,
+    "end": 93.529,
+    "words": [
+      {
+        "text": "Abschaum.",
+        "start": 92.708,
+        "end": 93.529
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Für euch alle hier scheint Fußball immer noch nur ein einfacher Sport zu sein.",
+    "start": 93.569,
+    "end": 97.791,
+    "words": [
+      {
+        "text": "Für",
+        "start": 93.569,
+        "end": 93.729
+      },
+      {
+        "text": "euch",
+        "start": 93.749,
+        "end": 93.909
+      },
+      {
+        "text": "alle",
+        "start": 93.949,
+        "end": 94.209
+      },
+      {
+        "text": "hier",
+        "start": 94.229,
+        "end": 94.749
+      },
+      {
+        "text": "scheint",
+        "start": 94.769,
+        "end": 95.029
+      },
+      {
+        "text": "Fußball",
+        "start": 95.049,
+        "end": 95.449
+      },
+      {
+        "text": "immer",
+        "start": 95.49,
+        "end": 95.65
+      },
+      {
+        "text": "noch",
+        "start": 95.69,
+        "end": 95.85
+      },
+      {
+        "text": "nur",
+        "start": 95.87,
+        "end": 95.97
+      },
+      {
+        "text": "ein",
+        "start": 96.01,
+        "end": 96.15
+      },
+      {
+        "text": "einfacher",
+        "start": 96.19,
+        "end": 96.51
+      },
+      {
+        "text": "Sport",
+        "start": 96.57,
+        "end": 96.87
+      },
+      {
+        "text": "zu",
+        "start": 96.91,
+        "end": 97.03
+      },
+      {
+        "text": "sein.",
+        "start": 97.05,
+        "end": 97.791
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Auf diesem Schlachtfeld geht es um Leben und Tod.",
+    "start": 97.831,
+    "end": 100.792,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 97.831,
+        "end": 97.971
+      },
+      {
+        "text": "diesem",
+        "start": 98.011,
+        "end": 98.251
+      },
+      {
+        "text": "Schlachtfeld",
+        "start": 98.311,
+        "end": 98.791
+      },
+      {
+        "text": "geht",
+        "start": 98.811,
+        "end": 98.931
+      },
+      {
+        "text": "es",
+        "start": 98.991,
+        "end": 99.071
+      },
+      {
+        "text": "um",
+        "start": 99.091,
+        "end": 99.271
+      },
+      {
+        "text": "Leben",
+        "start": 99.311,
+        "end": 99.491
+      },
+      {
+        "text": "und",
+        "start": 99.531,
+        "end": 99.672
+      },
+      {
+        "text": "Tod.",
+        "start": 99.692,
+        "end": 100.792
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Genau aus diesem Grund werdet ihr auch niemals gut genug sein.",
+    "start": 100.832,
+    "end": 103.453,
+    "words": [
+      {
+        "text": "Genau",
+        "start": 100.832,
+        "end": 101.012
+      },
+      {
+        "text": "aus",
+        "start": 101.052,
+        "end": 101.232
+      },
+      {
+        "text": "diesem",
+        "start": 101.252,
+        "end": 101.532
+      },
+      {
+        "text": "Grund",
+        "start": 101.552,
+        "end": 101.813
+      },
+      {
+        "text": "werdet",
+        "start": 101.833,
+        "end": 102.033
+      },
+      {
+        "text": "ihr",
+        "start": 102.073,
+        "end": 102.133
+      },
+      {
+        "text": "auch",
+        "start": 102.173,
+        "end": 102.333
+      },
+      {
+        "text": "niemals",
+        "start": 102.373,
+        "end": 102.733
+      },
+      {
+        "text": "gut",
+        "start": 102.753,
+        "end": 102.933
+      },
+      {
+        "text": "genug",
+        "start": 102.953,
+        "end": 103.233
+      },
+      {
+        "text": "sein.",
+        "start": 103.273,
+        "end": 103.453
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Er hat recht.",
+    "start": 105.674,
+    "end": 106.835,
+    "words": [
+      {
+        "text": "Er",
+        "start": 105.674,
+        "end": 105.774
+      },
+      {
+        "text": "hat",
+        "start": 105.794,
+        "end": 105.995
+      },
+      {
+        "text": "recht.",
+        "start": 106.035,
+        "end": 106.835
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Wenn ich dadurch endlich gewinnen kann, lösche ich gern alles aus, was mich ausmacht.",
+    "start": 106.855,
+    "end": 112.338,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 106.855,
+        "end": 106.995
+      },
+      {
+        "text": "ich",
+        "start": 107.035,
+        "end": 107.135
+      },
+      {
+        "text": "dadurch",
+        "start": 107.175,
+        "end": 107.575
+      },
+      {
+        "text": "endlich",
+        "start": 107.615,
+        "end": 107.915
+      },
+      {
+        "text": "gewinnen",
+        "start": 107.955,
+        "end": 108.256
+      },
+      {
+        "text": "kann,",
+        "start": 108.296,
+        "end": 109.356
+      },
+      {
+        "text": "lösche",
+        "start": 109.376,
+        "end": 109.676
+      },
+      {
+        "text": "ich",
+        "start": 109.696,
+        "end": 109.776
+      },
+      {
+        "text": "gern",
+        "start": 109.796,
+        "end": 110.076
+      },
+      {
+        "text": "alles",
+        "start": 110.117,
+        "end": 110.397
+      },
+      {
+        "text": "aus,",
+        "start": 110.417,
+        "end": 110.637
+      },
+      {
+        "text": "was",
+        "start": 110.677,
+        "end": 110.837
+      },
+      {
+        "text": "mich",
+        "start": 110.857,
+        "end": 111.017
+      },
+      {
+        "text": "ausmacht.",
+        "start": 111.057,
+        "end": 112.338
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ich bin die Nummer Eins.",
+    "start": 112.378,
+    "end": 114.619,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 112.378,
+        "end": 112.478
+      },
+      {
+        "text": "bin",
+        "start": 112.518,
+        "end": 112.638
+      },
+      {
+        "text": "die",
+        "start": 112.658,
+        "end": 112.778
+      },
+      {
+        "text": "Nummer",
+        "start": 112.798,
+        "end": 113.058
+      },
+      {
+        "text": "Eins.",
+        "start": 113.098,
+        "end": 114.619
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ich werde bei Blue Nog wiedergeboren.",
+    "start": 114.659,
+    "end": 116.94,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 114.659,
+        "end": 114.759
+      },
+      {
+        "text": "werde",
+        "start": 114.799,
+        "end": 114.959
+      },
+      {
+        "text": "bei",
+        "start": 115.019,
+        "end": 115.179
+      },
+      {
+        "text": "Blue",
+        "start": 115.199,
+        "end": 115.359
+      },
+      {
+        "text": "Nog",
+        "start": 115.379,
+        "end": 116.219
+      },
+      {
+        "text": "wiedergeboren.",
+        "start": 116.259,
+        "end": 116.94
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Und zwar jetzt!",
+    "start": 117.957,
+    "end": 119.299,
+    "words": [
+      {
+        "text": "Und",
+        "start": 117.957,
+        "end": 118.117
+      },
+      {
+        "text": "zwar",
+        "start": 118.137,
+        "end": 118.298
+      },
+      {
+        "text": "jetzt!",
+        "start": 118.318,
+        "end": 119.299
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Ich bin ein Stürmer!",
+    "start": 119.359,
+    "end": 124.904,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 119.359,
+        "end": 119.579
+      },
+      {
+        "text": "bin",
+        "start": 119.639,
+        "end": 120.62
+      },
+      {
+        "text": "ein",
+        "start": 120.68,
+        "end": 120.84
+      },
+      {
+        "text": "Stürmer!",
+        "start": 120.9,
+        "end": 124.904
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Aus diesem Grund wird die nächste Auswahl in drei Wochen stattfinden.",
+    "start": 124.944,
+    "end": 128.387,
+    "words": [
+      {
+        "text": "Aus",
+        "start": 124.944,
+        "end": 125.104
+      },
+      {
+        "text": "diesem",
+        "start": 125.144,
+        "end": 125.385
+      },
+      {
+        "text": "Grund",
+        "start": 125.425,
+        "end": 125.685
+      },
+      {
+        "text": "wird",
+        "start": 125.705,
+        "end": 125.885
+      },
+      {
+        "text": "die",
+        "start": 125.905,
+        "end": 126.005
+      },
+      {
+        "text": "nächste",
+        "start": 126.045,
+        "end": 126.386
+      },
+      {
+        "text": "Auswahl",
+        "start": 126.426,
+        "end": 126.826
+      },
+      {
+        "text": "in",
+        "start": 126.846,
+        "end": 126.966
+      },
+      {
+        "text": "drei",
+        "start": 127.006,
+        "end": 127.206
+      },
+      {
+        "text": "Wochen",
+        "start": 127.246,
+        "end": 127.527
+      },
+      {
+        "text": "stattfinden.",
+        "start": 127.567,
+        "end": 128.387
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Es wird ein Kampf werden, bei dem Bluelogs Fortbestand auf dem Spiel steht.",
+    "start": 128.448,
+    "end": 133.593,
+    "words": [
+      {
+        "text": "Es",
+        "start": 128.448,
+        "end": 128.528
+      },
+      {
+        "text": "wird",
+        "start": 128.568,
+        "end": 128.748
+      },
+      {
+        "text": "ein",
+        "start": 128.788,
+        "end": 128.948
+      },
+      {
+        "text": "Kampf",
+        "start": 128.968,
+        "end": 129.208
+      },
+      {
+        "text": "werden,",
+        "start": 129.228,
+        "end": 129.649
+      },
+      {
+        "text": "bei",
+        "start": 129.669,
+        "end": 129.789
+      },
+      {
+        "text": "dem",
+        "start": 129.809,
+        "end": 129.969
+      },
+      {
+        "text": "Bluelogs",
+        "start": 130.009,
+        "end": 130.47
+      },
+      {
+        "text": "Fortbestand",
+        "start": 130.51,
+        "end": 131.19
+      },
+      {
+        "text": "auf",
+        "start": 131.23,
+        "end": 131.37
+      },
+      {
+        "text": "dem",
+        "start": 131.39,
+        "end": 131.531
+      },
+      {
+        "text": "Spiel",
+        "start": 131.571,
+        "end": 131.831
+      },
+      {
+        "text": "steht.",
+        "start": 131.871,
+        "end": 133.593
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ein besonderes Riesenmatch zwischen der japanischen U20-Mannschaft und der Bluelog 11.",
+    "start": 133.633,
+    "end": 138.377,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 133.633,
+        "end": 133.773
+      },
+      {
+        "text": "besonderes",
+        "start": 133.813,
+        "end": 134.433
+      },
+      {
+        "text": "Riesenmatch",
+        "start": 134.493,
+        "end": 135.174
+      },
+      {
+        "text": "zwischen",
+        "start": 135.194,
+        "end": 135.454
+      },
+      {
+        "text": "der",
+        "start": 135.474,
+        "end": 135.595
+      },
+      {
+        "text": "japanischen",
+        "start": 135.635,
+        "end": 136.195
+      },
+      {
+        "text": "U20-Mannschaft",
+        "start": 136.235,
+        "end": 137.456
+      },
+      {
+        "text": "und",
+        "start": 137.476,
+        "end": 137.657
+      },
+      {
+        "text": "der",
+        "start": 137.697,
+        "end": 137.877
+      },
+      {
+        "text": "Bluelog",
+        "start": 137.897,
+        "end": 138.377
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": " Mit diesem Spiel kann ich mein Leben komplett verändern.",
+    "start": 142.025,
+    "end": 146.078,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 142.025,
+        "end": 142.205
+      },
+      {
+        "text": "diesem",
+        "start": 142.225,
+        "end": 142.466
+      },
+      {
+        "text": "Spiel",
+        "start": 142.506,
+        "end": 143.369
+      },
+      {
+        "text": "kann",
+        "start": 143.409,
+        "end": 143.55
+      },
+      {
+        "text": "ich",
+        "start": 143.59,
+        "end": 143.71
+      },
+      {
+        "text": "mein",
+        "start": 143.75,
+        "end": 143.931
+      },
+      {
+        "text": "Leben",
+        "start": 143.971,
+        "end": 144.292
+      },
+      {
+        "text": "komplett",
+        "start": 144.332,
+        "end": 144.774
+      },
+      {
+        "text": "verändern.",
+        "start": 144.794,
+        "end": 146.078
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Es ist an der Zeit, dass Bluelog Japan verändert.",
+    "start": 146.138,
+    "end": 148.746,
+    "words": [
+      {
+        "text": "Es",
+        "start": 146.138,
+        "end": 146.238
+      },
+      {
+        "text": "ist",
+        "start": 146.278,
+        "end": 146.419
+      },
+      {
+        "text": "an",
+        "start": 146.459,
+        "end": 146.599
+      },
+      {
+        "text": "der",
+        "start": 146.64,
+        "end": 146.76
+      },
+      {
+        "text": "Zeit,",
+        "start": 146.8,
+        "end": 147.041
+      },
+      {
+        "text": "dass",
+        "start": 147.061,
+        "end": 147.262
+      },
+      {
+        "text": "Bluelog",
+        "start": 147.302,
+        "end": 147.843
+      },
+      {
+        "text": "Japan",
+        "start": 147.863,
+        "end": 148.285
+      },
+      {
+        "text": "verändert.",
+        "start": 148.325,
+        "end": 148.746
+      }
+    ]
+  }
+]

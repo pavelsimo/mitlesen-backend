@@ -1,0 +1,1828 @@
+[
+  {
+    "id": 0,
+    "text": " Leveln messen.",
+    "start": 0.031,
+    "end": 1.431,
+    "words": [
+      {
+        "text": "Leveln",
+        "start": 0.031,
+        "end": 0.771
+      },
+      {
+        "text": "messen.",
+        "start": 0.791,
+        "end": 1.431
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich habe den Helden getötet, kann auf wundersame Weise das heilige Schwert führen und ich habe Liliths Pläne durchkreuzt.",
+    "start": 1.451,
+    "end": 7.793,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 1.451,
+        "end": 1.531
+      },
+      {
+        "text": "habe",
+        "start": 1.551,
+        "end": 1.731
+      },
+      {
+        "text": "den",
+        "start": 1.751,
+        "end": 1.892
+      },
+      {
+        "text": "Helden",
+        "start": 1.912,
+        "end": 2.192
+      },
+      {
+        "text": "getötet,",
+        "start": 2.212,
+        "end": 2.692
+      },
+      {
+        "text": "kann",
+        "start": 2.712,
+        "end": 2.872
+      },
+      {
+        "text": "auf",
+        "start": 2.912,
+        "end": 3.032
+      },
+      {
+        "text": "wundersame",
+        "start": 3.072,
+        "end": 3.652
+      },
+      {
+        "text": "Weise",
+        "start": 3.692,
+        "end": 3.992
+      },
+      {
+        "text": "das",
+        "start": 4.012,
+        "end": 4.152
+      },
+      {
+        "text": "heilige",
+        "start": 4.192,
+        "end": 4.532
+      },
+      {
+        "text": "Schwert",
+        "start": 4.552,
+        "end": 4.852
+      },
+      {
+        "text": "führen",
+        "start": 4.872,
+        "end": 5.492
+      },
+      {
+        "text": "und",
+        "start": 5.532,
+        "end": 5.713
+      },
+      {
+        "text": "ich",
+        "start": 5.753,
+        "end": 5.853
+      },
+      {
+        "text": "habe",
+        "start": 5.893,
+        "end": 6.113
+      },
+      {
+        "text": "Liliths",
+        "start": 6.153,
+        "end": 6.513
+      },
+      {
+        "text": "Pläne",
+        "start": 6.553,
+        "end": 6.813
+      },
+      {
+        "text": "durchkreuzt.",
+        "start": 6.833,
+        "end": 7.793
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Willst du wissen, wie ich das gemacht habe?",
+    "start": 7.833,
+    "end": 9.734,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 7.833,
+        "end": 8.013
+      },
+      {
+        "text": "du",
+        "start": 8.033,
+        "end": 8.153
+      },
+      {
+        "text": "wissen,",
+        "start": 8.173,
+        "end": 8.373
+      },
+      {
+        "text": "wie",
+        "start": 8.413,
+        "end": 8.493
+      },
+      {
+        "text": "ich",
+        "start": 8.513,
+        "end": 8.613
+      },
+      {
+        "text": "das",
+        "start": 8.653,
+        "end": 8.813
+      },
+      {
+        "text": "gemacht",
+        "start": 8.833,
+        "end": 9.073
+      },
+      {
+        "text": "habe?",
+        "start": 9.093,
+        "end": 9.734
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Die Antwort ist ganz einfach.",
+    "start": 9.774,
+    "end": 11.474,
+    "words": [
+      {
+        "text": "Die",
+        "start": 9.774,
+        "end": 9.934
+      },
+      {
+        "text": "Antwort",
+        "start": 9.974,
+        "end": 10.294
+      },
+      {
+        "text": "ist",
+        "start": 10.354,
+        "end": 10.534
+      },
+      {
+        "text": "ganz",
+        "start": 10.574,
+        "end": 10.814
+      },
+      {
+        "text": "einfach.",
+        "start": 10.854,
+        "end": 11.474
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich besitze eine Wahnsinnskraft, die alle Magie übersteigt, die sogenannte pralle Schenkelkraft.",
+    "start": 11.514,
+    "end": 16.876,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 11.514,
+        "end": 11.674
+      },
+      {
+        "text": "besitze",
+        "start": 11.694,
+        "end": 12.114
+      },
+      {
+        "text": "eine",
+        "start": 12.154,
+        "end": 12.334
+      },
+      {
+        "text": "Wahnsinnskraft,",
+        "start": 12.374,
+        "end": 13.235
+      },
+      {
+        "text": "die",
+        "start": 13.255,
+        "end": 13.455
+      },
+      {
+        "text": "alle",
+        "start": 13.475,
+        "end": 13.655
+      },
+      {
+        "text": "Magie",
+        "start": 13.715,
+        "end": 14.035
+      },
+      {
+        "text": "übersteigt,",
+        "start": 14.075,
+        "end": 14.655
+      },
+      {
+        "text": "die",
+        "start": 14.695,
+        "end": 14.795
+      },
+      {
+        "text": "sogenannte",
+        "start": 14.835,
+        "end": 15.335
+      },
+      {
+        "text": "pralle",
+        "start": 15.375,
+        "end": 15.815
+      },
+      {
+        "text": "Schenkelkraft.",
+        "start": 15.835,
+        "end": 16.876
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Etwa die Kraft üppiger Oberschenkel?",
+    "start": 16.956,
+    "end": 18.916,
+    "words": [
+      {
+        "text": "Etwa",
+        "start": 16.956,
+        "end": 17.196
+      },
+      {
+        "text": "die",
+        "start": 17.236,
+        "end": 17.336
+      },
+      {
+        "text": "Kraft",
+        "start": 17.376,
+        "end": 17.636
+      },
+      {
+        "text": "üppiger",
+        "start": 17.676,
+        "end": 18.036
+      },
+      {
+        "text": "Oberschenkel?",
+        "start": 18.076,
+        "end": 18.916
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Wieso nimmt er nicht einen Namen, für den man sich nicht fremd schämen muss?",
+    "start": 18.936,
+    "end": 22.157,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 18.936,
+        "end": 19.176
+      },
+      {
+        "text": "nimmt",
+        "start": 19.196,
+        "end": 19.316
+      },
+      {
+        "text": "er",
+        "start": 19.356,
+        "end": 19.436
+      },
+      {
+        "text": "nicht",
+        "start": 19.456,
+        "end": 19.576
+      },
+      {
+        "text": "einen",
+        "start": 19.636,
+        "end": 19.816
+      },
+      {
+        "text": "Namen,",
+        "start": 19.836,
+        "end": 20.016
+      },
+      {
+        "text": "für",
+        "start": 20.056,
+        "end": 20.136
+      },
+      {
+        "text": "den",
+        "start": 20.156,
+        "end": 20.256
+      },
+      {
+        "text": "man",
+        "start": 20.276,
+        "end": 20.397
+      },
+      {
+        "text": "sich",
+        "start": 20.417,
+        "end": 20.557
+      },
+      {
+        "text": "nicht",
+        "start": 20.577,
+        "end": 20.717
+      },
+      {
+        "text": "fremd",
+        "start": 20.757,
+        "end": 20.977
+      },
+      {
+        "text": "schämen",
+        "start": 20.997,
+        "end": 21.277
+      },
+      {
+        "text": "muss?",
+        "start": 21.317,
+        "end": 22.157
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Pralle Schenkelkraft sagst du?",
+    "start": 22.197,
+    "end": 23.917,
+    "words": [
+      {
+        "text": "Pralle",
+        "start": 22.197,
+        "end": 22.597
+      },
+      {
+        "text": "Schenkelkraft",
+        "start": 22.637,
+        "end": 23.257
+      },
+      {
+        "text": "sagst",
+        "start": 23.277,
+        "end": 23.577
+      },
+      {
+        "text": "du?",
+        "start": 23.597,
+        "end": 23.917
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Das habe ich mir doch gleich gedacht.",
+    "start": 23.957,
+    "end": 25.618,
+    "words": [
+      {
+        "text": "Das",
+        "start": 23.957,
+        "end": 24.078
+      },
+      {
+        "text": "habe",
+        "start": 24.098,
+        "end": 24.238
+      },
+      {
+        "text": "ich",
+        "start": 24.278,
+        "end": 24.398
+      },
+      {
+        "text": "mir",
+        "start": 24.418,
+        "end": 24.518
+      },
+      {
+        "text": "doch",
+        "start": 24.538,
+        "end": 24.698
+      },
+      {
+        "text": "gleich",
+        "start": 24.718,
+        "end": 25.058
+      },
+      {
+        "text": "gedacht.",
+        "start": 25.098,
+        "end": 25.618
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Was denn, die zwei glauben ihm?",
+    "start": 25.658,
+    "end": 27.458,
+    "words": [
+      {
+        "text": "Was",
+        "start": 25.658,
+        "end": 25.818
+      },
+      {
+        "text": "denn,",
+        "start": 25.858,
+        "end": 25.978
+      },
+      {
+        "text": "die",
+        "start": 25.998,
+        "end": 26.158
+      },
+      {
+        "text": "zwei",
+        "start": 26.178,
+        "end": 26.378
+      },
+      {
+        "text": "glauben",
+        "start": 26.398,
+        "end": 26.738
+      },
+      {
+        "text": "ihm?",
+        "start": 26.798,
+        "end": 27.458
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Was denkt er damit erreichen zu können?",
+    "start": 27.498,
+    "end": 29.079,
+    "words": [
+      {
+        "text": "Was",
+        "start": 27.498,
+        "end": 27.678
+      },
+      {
+        "text": "denkt",
+        "start": 27.698,
+        "end": 27.859
+      },
+      {
+        "text": "er",
+        "start": 27.899,
+        "end": 27.979
+      },
+      {
+        "text": "damit",
+        "start": 27.999,
+        "end": 28.239
+      },
+      {
+        "text": "erreichen",
+        "start": 28.279,
+        "end": 28.699
+      },
+      {
+        "text": "zu",
+        "start": 28.719,
+        "end": 28.839
+      },
+      {
+        "text": "können?",
+        "start": 28.879,
+        "end": 29.079
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Oder will er vielleicht nur Zeit schinden?",
+    "start": 30.558,
+    "end": 32.94,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 30.558,
+        "end": 30.698
+      },
+      {
+        "text": "will",
+        "start": 30.738,
+        "end": 30.818
+      },
+      {
+        "text": "er",
+        "start": 30.858,
+        "end": 30.939
+      },
+      {
+        "text": "vielleicht",
+        "start": 30.959,
+        "end": 31.219
+      },
+      {
+        "text": "nur",
+        "start": 31.259,
+        "end": 31.419
+      },
+      {
+        "text": "Zeit",
+        "start": 31.459,
+        "end": 31.579
+      },
+      {
+        "text": "schinden?",
+        "start": 31.679,
+        "end": 32.94
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du hast absolut keine Chance gegen mich.",
+    "start": 32.98,
+    "end": 35.783,
+    "words": [
+      {
+        "text": "Du",
+        "start": 32.98,
+        "end": 33.1
+      },
+      {
+        "text": "hast",
+        "start": 33.12,
+        "end": 33.501
+      },
+      {
+        "text": "absolut",
+        "start": 33.541,
+        "end": 34.081
+      },
+      {
+        "text": "keine",
+        "start": 34.121,
+        "end": 34.402
+      },
+      {
+        "text": "Chance",
+        "start": 34.442,
+        "end": 34.742
+      },
+      {
+        "text": "gegen",
+        "start": 34.782,
+        "end": 35.002
+      },
+      {
+        "text": "mich.",
+        "start": 35.062,
+        "end": 35.783
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Verwandelst du jedoch die Bürger wieder zurück, werde ich dich am Leben lassen.",
+    "start": 35.823,
+    "end": 39.306,
+    "words": [
+      {
+        "text": "Verwandelst",
+        "start": 35.823,
+        "end": 36.283
+      },
+      {
+        "text": "du",
+        "start": 36.303,
+        "end": 36.463
+      },
+      {
+        "text": "jedoch",
+        "start": 36.483,
+        "end": 36.764
+      },
+      {
+        "text": "die",
+        "start": 36.784,
+        "end": 36.884
+      },
+      {
+        "text": "Bürger",
+        "start": 36.904,
+        "end": 37.184
+      },
+      {
+        "text": "wieder",
+        "start": 37.204,
+        "end": 37.444
+      },
+      {
+        "text": "zurück,",
+        "start": 37.464,
+        "end": 37.785
+      },
+      {
+        "text": "werde",
+        "start": 37.845,
+        "end": 38.045
+      },
+      {
+        "text": "ich",
+        "start": 38.085,
+        "end": 38.165
+      },
+      {
+        "text": "dich",
+        "start": 38.205,
+        "end": 38.345
+      },
+      {
+        "text": "am",
+        "start": 38.385,
+        "end": 38.485
+      },
+      {
+        "text": "Leben",
+        "start": 38.525,
+        "end": 38.765
+      },
+      {
+        "text": "lassen.",
+        "start": 38.806,
+        "end": 39.306
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Träger der pralle Schenkelkraft sind nämlich sehr großzügig.",
+    "start": 39.566,
+    "end": 43.249,
+    "words": [
+      {
+        "text": "Träger",
+        "start": 39.566,
+        "end": 39.927
+      },
+      {
+        "text": "der",
+        "start": 39.947,
+        "end": 40.047
+      },
+      {
+        "text": "pralle",
+        "start": 40.087,
+        "end": 40.407
+      },
+      {
+        "text": "Schenkelkraft",
+        "start": 40.427,
+        "end": 41.228
+      },
+      {
+        "text": "sind",
+        "start": 41.268,
+        "end": 41.488
+      },
+      {
+        "text": "nämlich",
+        "start": 41.528,
+        "end": 41.868
+      },
+      {
+        "text": "sehr",
+        "start": 41.908,
+        "end": 42.088
+      },
+      {
+        "text": "großzügig.",
+        "start": 42.108,
+        "end": 43.249
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Irgendwas ist tatsächlich ziemlich merkwürdig an dir.",
+    "start": 43.31,
+    "end": 46.232,
+    "words": [
+      {
+        "text": "Irgendwas",
+        "start": 43.31,
+        "end": 43.83
+      },
+      {
+        "text": "ist",
+        "start": 43.87,
+        "end": 44.03
+      },
+      {
+        "text": "tatsächlich",
+        "start": 44.07,
+        "end": 44.671
+      },
+      {
+        "text": "ziemlich",
+        "start": 44.711,
+        "end": 45.071
+      },
+      {
+        "text": "merkwürdig",
+        "start": 45.111,
+        "end": 45.612
+      },
+      {
+        "text": "an",
+        "start": 45.652,
+        "end": 45.772
+      },
+      {
+        "text": "dir.",
+        "start": 45.812,
+        "end": 46.232
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Daher wäre es wahrlich nicht sehr klug, ohne einen Plan den Kampf gegen dich aufzunehmen.",
+    "start": 46.272,
+    "end": 50.816,
+    "words": [
+      {
+        "text": "Daher",
+        "start": 46.272,
+        "end": 46.632
+      },
+      {
+        "text": "wäre",
+        "start": 46.653,
+        "end": 46.853
+      },
+      {
+        "text": "es",
+        "start": 46.893,
+        "end": 47.013
+      },
+      {
+        "text": "wahrlich",
+        "start": 47.053,
+        "end": 47.433
+      },
+      {
+        "text": "nicht",
+        "start": 47.453,
+        "end": 47.673
+      },
+      {
+        "text": "sehr",
+        "start": 47.713,
+        "end": 47.874
+      },
+      {
+        "text": "klug,",
+        "start": 47.894,
+        "end": 48.214
+      },
+      {
+        "text": "ohne",
+        "start": 48.254,
+        "end": 48.514
+      },
+      {
+        "text": "einen",
+        "start": 48.534,
+        "end": 48.694
+      },
+      {
+        "text": "Plan",
+        "start": 48.734,
+        "end": 49.035
+      },
+      {
+        "text": "den",
+        "start": 49.055,
+        "end": 49.255
+      },
+      {
+        "text": "Kampf",
+        "start": 49.295,
+        "end": 49.495
+      },
+      {
+        "text": "gegen",
+        "start": 49.535,
+        "end": 49.695
+      },
+      {
+        "text": "dich",
+        "start": 49.715,
+        "end": 49.915
+      },
+      {
+        "text": "aufzunehmen.",
+        "start": 49.955,
+        "end": 50.816
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Allerdings kann ich mir auch, nachdem die Wand gefallen ist, überlegen, ob es überhaupt notwendig ist, gegen dich zu kämpfen.",
+    "start": 50.856,
+    "end": 56.601,
+    "words": [
+      {
+        "text": "Allerdings",
+        "start": 50.856,
+        "end": 51.917
+      },
+      {
+        "text": "kann",
+        "start": 51.937,
+        "end": 52.117
+      },
+      {
+        "text": "ich",
+        "start": 52.157,
+        "end": 52.257
+      },
+      {
+        "text": "mir",
+        "start": 52.298,
+        "end": 52.378
+      },
+      {
+        "text": "auch,",
+        "start": 52.418,
+        "end": 52.558
+      },
+      {
+        "text": "nachdem",
+        "start": 52.598,
+        "end": 52.878
+      },
+      {
+        "text": "die",
+        "start": 52.918,
+        "end": 53.018
+      },
+      {
+        "text": "Wand",
+        "start": 53.038,
+        "end": 53.238
+      },
+      {
+        "text": "gefallen",
+        "start": 53.278,
+        "end": 53.639
+      },
+      {
+        "text": "ist,",
+        "start": 53.699,
+        "end": 53.899
+      },
+      {
+        "text": "überlegen,",
+        "start": 53.939,
+        "end": 54.379
+      },
+      {
+        "text": "ob",
+        "start": 54.419,
+        "end": 54.479
+      },
+      {
+        "text": "es",
+        "start": 54.54,
+        "end": 54.66
+      },
+      {
+        "text": "überhaupt",
+        "start": 54.68,
+        "end": 55.06
+      },
+      {
+        "text": "notwendig",
+        "start": 55.08,
+        "end": 55.58
+      },
+      {
+        "text": "ist,",
+        "start": 55.62,
+        "end": 55.781
+      },
+      {
+        "text": "gegen",
+        "start": 55.801,
+        "end": 55.961
+      },
+      {
+        "text": "dich",
+        "start": 55.981,
+        "end": 56.161
+      },
+      {
+        "text": "zu",
+        "start": 56.201,
+        "end": 56.301
+      },
+      {
+        "text": "kämpfen.",
+        "start": 56.341,
+        "end": 56.601
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Eine Kraft, die nicht mit Mana-Leveln gemessen werden kann?",
+    "start": 58.177,
+    "end": 60.759,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 58.177,
+        "end": 58.357
+      },
+      {
+        "text": "Kraft,",
+        "start": 58.377,
+        "end": 58.577
+      },
+      {
+        "text": "die",
+        "start": 58.597,
+        "end": 58.698
+      },
+      {
+        "text": "nicht",
+        "start": 58.718,
+        "end": 58.878
+      },
+      {
+        "text": "mit",
+        "start": 58.898,
+        "end": 59.038
+      },
+      {
+        "text": "Mana-Leveln",
+        "start": 59.078,
+        "end": 59.778
+      },
+      {
+        "text": "gemessen",
+        "start": 59.798,
+        "end": 60.218
+      },
+      {
+        "text": "werden",
+        "start": 60.238,
+        "end": 60.479
+      },
+      {
+        "text": "kann?",
+        "start": 60.519,
+        "end": 60.759
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "So ein Schwachsinn!",
+    "start": 60.779,
+    "end": 61.859,
+    "words": [
+      {
+        "text": "So",
+        "start": 60.779,
+        "end": 60.879
+      },
+      {
+        "text": "ein",
+        "start": 60.899,
+        "end": 61.039
+      },
+      {
+        "text": "Schwachsinn!",
+        "start": 61.079,
+        "end": 61.859
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ohne Mana könntest du nicht mal das heilige Schwert in der Hand halten!",
+    "start": 61.919,
+    "end": 64.941,
+    "words": [
+      {
+        "text": "Ohne",
+        "start": 61.919,
+        "end": 62.16
+      },
+      {
+        "text": "Mana",
+        "start": 62.2,
+        "end": 62.44
+      },
+      {
+        "text": "könntest",
+        "start": 62.46,
+        "end": 62.76
+      },
+      {
+        "text": "du",
+        "start": 62.78,
+        "end": 62.86
+      },
+      {
+        "text": "nicht",
+        "start": 62.88,
+        "end": 62.98
+      },
+      {
+        "text": "mal",
+        "start": 63.06,
+        "end": 63.16
+      },
+      {
+        "text": "das",
+        "start": 63.18,
+        "end": 63.28
+      },
+      {
+        "text": "heilige",
+        "start": 63.3,
+        "end": 63.6
+      },
+      {
+        "text": "Schwert",
+        "start": 63.64,
+        "end": 63.901
+      },
+      {
+        "text": "in",
+        "start": 63.921,
+        "end": 64.041
+      },
+      {
+        "text": "der",
+        "start": 64.081,
+        "end": 64.281
+      },
+      {
+        "text": "Hand",
+        "start": 64.301,
+        "end": 64.541
+      },
+      {
+        "text": "halten!",
+        "start": 64.581,
+        "end": 64.941
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Hör zu, Toka.",
+    "start": 66.322,
+    "end": 67.322,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 66.322,
+        "end": 66.582
+      },
+      {
+        "text": "zu,",
+        "start": 66.602,
+        "end": 66.742
+      },
+      {
+        "text": "Toka.",
+        "start": 66.802,
+        "end": 67.322
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Mit so was trainiert könntet ihr... Danke, nicht nötig.",
+    "start": 67.363,
+    "end": 69.864,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 67.363,
+        "end": 67.523
+      },
+      {
+        "text": "so",
+        "start": 67.543,
+        "end": 67.703
+      },
+      {
+        "text": "was",
+        "start": 67.723,
+        "end": 67.883
+      },
+      {
+        "text": "trainiert",
+        "start": 67.923,
+        "end": 68.163
+      },
+      {
+        "text": "könntet",
+        "start": 68.183,
+        "end": 68.503
+      },
+      {
+        "text": "ihr...",
+        "start": 68.543,
+        "end": 68.823
+      },
+      {
+        "text": "Danke,",
+        "start": 68.863,
+        "end": 69.304
+      },
+      {
+        "text": "nicht",
+        "start": 69.344,
+        "end": 69.504
+      },
+      {
+        "text": "nötig.",
+        "start": 69.544,
+        "end": 69.864
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Jetzt zeige ich dir meine geheime Kraft ohne Mana, mein Lieber.",
+    "start": 71.325,
+    "end": 74.407,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 71.325,
+        "end": 71.565
+      },
+      {
+        "text": "zeige",
+        "start": 71.605,
+        "end": 71.805
+      },
+      {
+        "text": "ich",
+        "start": 71.825,
+        "end": 71.905
+      },
+      {
+        "text": "dir",
+        "start": 71.945,
+        "end": 72.105
+      },
+      {
+        "text": "meine",
+        "start": 72.145,
+        "end": 72.305
+      },
+      {
+        "text": "geheime",
+        "start": 72.345,
+        "end": 72.666
+      },
+      {
+        "text": "Kraft",
+        "start": 72.706,
+        "end": 72.966
+      },
+      {
+        "text": "ohne",
+        "start": 72.986,
+        "end": 73.206
+      },
+      {
+        "text": "Mana,",
+        "start": 73.246,
+        "end": 73.526
+      },
+      {
+        "text": "mein",
+        "start": 73.566,
+        "end": 73.766
+      },
+      {
+        "text": "Lieber.",
+        "start": 73.786,
+        "end": 74.407
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Jetzt lernst du meine wahre Stärke kennen.",
+    "start": 74.447,
+    "end": 79.49,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 74.447,
+        "end": 74.707
+      },
+      {
+        "text": "lernst",
+        "start": 74.747,
+        "end": 74.987
+      },
+      {
+        "text": "du",
+        "start": 75.027,
+        "end": 75.167
+      },
+      {
+        "text": "meine",
+        "start": 75.187,
+        "end": 75.427
+      },
+      {
+        "text": "wahre",
+        "start": 75.447,
+        "end": 75.767
+      },
+      {
+        "text": "Stärke",
+        "start": 75.807,
+        "end": 76.208
+      },
+      {
+        "text": "kennen.",
+        "start": 76.248,
+        "end": 79.49
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Dir ist offensichtlich entgangen, dass es da noch einen Kameraden in unserer Gruppe gab.",
+    "start": 79.53,
+    "end": 83.212,
+    "words": [
+      {
+        "text": "Dir",
+        "start": 79.53,
+        "end": 79.63
+      },
+      {
+        "text": "ist",
+        "start": 79.67,
+        "end": 79.83
+      },
+      {
+        "text": "offensichtlich",
+        "start": 79.87,
+        "end": 80.39
+      },
+      {
+        "text": "entgangen,",
+        "start": 80.45,
+        "end": 80.81
+      },
+      {
+        "text": "dass",
+        "start": 80.83,
+        "end": 80.95
+      },
+      {
+        "text": "es",
+        "start": 80.99,
+        "end": 81.09
+      },
+      {
+        "text": "da",
+        "start": 81.11,
+        "end": 81.291
+      },
+      {
+        "text": "noch",
+        "start": 81.311,
+        "end": 81.491
+      },
+      {
+        "text": "einen",
+        "start": 81.531,
+        "end": 81.711
+      },
+      {
+        "text": "Kameraden",
+        "start": 81.731,
+        "end": 82.291
+      },
+      {
+        "text": "in",
+        "start": 82.331,
+        "end": 82.451
+      },
+      {
+        "text": "unserer",
+        "start": 82.491,
+        "end": 82.751
+      },
+      {
+        "text": "Gruppe",
+        "start": 82.791,
+        "end": 83.092
+      },
+      {
+        "text": "gab.",
+        "start": 83.112,
+        "end": 83.212
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Meister Diego!",
+    "start": 83.232,
+    "end": 83.972,
+    "words": [
+      {
+        "text": "Meister",
+        "start": 83.232,
+        "end": 83.612
+      },
+      {
+        "text": "Diego!",
+        "start": 83.632,
+        "end": 83.972
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Meister Diego!",
+    "start": 83.992,
+    "end": 85.013,
+    "words": [
+      {
+        "text": "Meister",
+        "start": 83.992,
+        "end": 84.592
+      },
+      {
+        "text": "Diego!",
+        "start": 84.612,
+        "end": 85.013
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Ich hab dem Bürgermeister einen Spezialauftrag erteilt.",
+    "start": 86.289,
+    "end": 90.452,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 86.289,
+        "end": 86.369
+      },
+      {
+        "text": "hab",
+        "start": 86.409,
+        "end": 86.549
+      },
+      {
+        "text": "dem",
+        "start": 86.569,
+        "end": 86.669
+      },
+      {
+        "text": "Bürgermeister",
+        "start": 86.689,
+        "end": 87.15
+      },
+      {
+        "text": "einen",
+        "start": 87.19,
+        "end": 87.33
+      },
+      {
+        "text": "Spezialauftrag",
+        "start": 87.37,
+        "end": 88.191
+      },
+      {
+        "text": "erteilt.",
+        "start": 88.251,
+        "end": 90.452
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ich sagte, du willst doch Marguerite nackt in Kniestrümpfen sehen.",
+    "start": 90.492,
+    "end": 93.314,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 90.492,
+        "end": 90.592
+      },
+      {
+        "text": "sagte,",
+        "start": 90.612,
+        "end": 90.812
+      },
+      {
+        "text": "du",
+        "start": 90.872,
+        "end": 90.953
+      },
+      {
+        "text": "willst",
+        "start": 90.993,
+        "end": 91.153
+      },
+      {
+        "text": "doch",
+        "start": 91.193,
+        "end": 91.353
+      },
+      {
+        "text": "Marguerite",
+        "start": 91.373,
+        "end": 91.773
+      },
+      {
+        "text": "nackt",
+        "start": 91.813,
+        "end": 91.973
+      },
+      {
+        "text": "in",
+        "start": 92.013,
+        "end": 92.133
+      },
+      {
+        "text": "Kniestrümpfen",
+        "start": 92.173,
+        "end": 92.774
+      },
+      {
+        "text": "sehen.",
+        "start": 92.834,
+        "end": 93.314
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Das kannst du haben.",
+    "start": 93.334,
+    "end": 94.435,
+    "words": [
+      {
+        "text": "Das",
+        "start": 93.334,
+        "end": 93.494
+      },
+      {
+        "text": "kannst",
+        "start": 93.514,
+        "end": 93.715
+      },
+      {
+        "text": "du",
+        "start": 93.735,
+        "end": 93.875
+      },
+      {
+        "text": "haben.",
+        "start": 93.915,
+        "end": 94.435
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Aber dafür musst du das magische Gefährt holen.",
+    "start": 94.475,
+    "end": 96.396,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 94.475,
+        "end": 94.695
+      },
+      {
+        "text": "dafür",
+        "start": 94.715,
+        "end": 94.995
+      },
+      {
+        "text": "musst",
+        "start": 95.015,
+        "end": 95.156
+      },
+      {
+        "text": "du",
+        "start": 95.176,
+        "end": 95.256
+      },
+      {
+        "text": "das",
+        "start": 95.296,
+        "end": 95.416
+      },
+      {
+        "text": "magische",
+        "start": 95.456,
+        "end": 95.836
+      },
+      {
+        "text": "Gefährt",
+        "start": 95.876,
+        "end": 96.196
+      },
+      {
+        "text": "holen.",
+        "start": 96.216,
+        "end": 96.396
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Das könnt ihr doch nicht einfach so entscheiden!",
+    "start": 96.416,
+    "end": 98.678,
+    "words": [
+      {
+        "text": "Das",
+        "start": 96.416,
+        "end": 96.637
+      },
+      {
+        "text": "könnt",
+        "start": 96.657,
+        "end": 96.837
+      },
+      {
+        "text": "ihr",
+        "start": 96.877,
+        "end": 96.937
+      },
+      {
+        "text": "doch",
+        "start": 96.957,
+        "end": 97.077
+      },
+      {
+        "text": "nicht",
+        "start": 97.117,
+        "end": 97.317
+      },
+      {
+        "text": "einfach",
+        "start": 97.337,
+        "end": 97.557
+      },
+      {
+        "text": "so",
+        "start": 97.597,
+        "end": 97.717
+      },
+      {
+        "text": "entscheiden!",
+        "start": 97.757,
+        "end": 98.678
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Verehrte Prinzessin, ich bin zurückgekommen, um euch nackt in Strümpfen zu sehen.",
+    "start": 98.698,
+    "end": 102.941,
+    "words": [
+      {
+        "text": "Verehrte",
+        "start": 98.698,
+        "end": 99.198
+      },
+      {
+        "text": "Prinzessin,",
+        "start": 99.238,
+        "end": 100.019
+      },
+      {
+        "text": "ich",
+        "start": 100.059,
+        "end": 100.159
+      },
+      {
+        "text": "bin",
+        "start": 100.199,
+        "end": 100.339
+      },
+      {
+        "text": "zurückgekommen,",
+        "start": 100.399,
+        "end": 100.94
+      },
+      {
+        "text": "um",
+        "start": 100.98,
+        "end": 101.08
+      },
+      {
+        "text": "euch",
+        "start": 101.1,
+        "end": 101.32
+      },
+      {
+        "text": "nackt",
+        "start": 101.34,
+        "end": 101.5
+      },
+      {
+        "text": "in",
+        "start": 101.64,
+        "end": 101.72
+      },
+      {
+        "text": "Strümpfen",
+        "start": 101.74,
+        "end": 102.201
+      },
+      {
+        "text": "zu",
+        "start": 102.241,
+        "end": 102.321
+      },
+      {
+        "text": "sehen.",
+        "start": 102.401,
+        "end": 102.941
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Nicht mal im Traum!",
+    "start": 102.981,
+    "end": 104.062,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 102.981,
+        "end": 103.221
+      },
+      {
+        "text": "mal",
+        "start": 103.241,
+        "end": 103.421
+      },
+      {
+        "text": "im",
+        "start": 103.461,
+        "end": 103.562
+      },
+      {
+        "text": "Traum!",
+        "start": 103.582,
+        "end": 104.062
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Die pralle Schenkelkraft!",
+    "start": 104.082,
+    "end": 105.883,
+    "words": [
+      {
+        "text": "Die",
+        "start": 104.082,
+        "end": 104.302
+      },
+      {
+        "text": "pralle",
+        "start": 104.362,
+        "end": 104.702
+      },
+      {
+        "text": "Schenkelkraft!",
+        "start": 104.722,
+        "end": 105.883
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Mit ihr kann man Männer manipulieren, die von Oberschenkeln besessen sind.",
+    "start": 105.903,
+    "end": 108.985,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 105.903,
+        "end": 106.043
+      },
+      {
+        "text": "ihr",
+        "start": 106.083,
+        "end": 106.243
+      },
+      {
+        "text": "kann",
+        "start": 106.263,
+        "end": 106.404
+      },
+      {
+        "text": "man",
+        "start": 106.424,
+        "end": 106.584
+      },
+      {
+        "text": "Männer",
+        "start": 106.604,
+        "end": 106.864
+      },
+      {
+        "text": "manipulieren,",
+        "start": 106.904,
+        "end": 107.464
+      },
+      {
+        "text": "die",
+        "start": 107.484,
+        "end": 107.584
+      },
+      {
+        "text": "von",
+        "start": 107.604,
+        "end": 107.785
+      },
+      {
+        "text": "Oberschenkeln",
+        "start": 107.825,
+        "end": 108.425
+      },
+      {
+        "text": "besessen",
+        "start": 108.445,
+        "end": 108.845
+      },
+      {
+        "text": "sind.",
+        "start": 108.885,
+        "end": 108.985
+      }
+    ]
+  }
+]

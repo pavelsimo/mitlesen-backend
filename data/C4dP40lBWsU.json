@@ -1,0 +1,1209 @@
+[
+  {
+    "id": 0,
+    "text": " Ich bin stolz auf dich, dass du es überhaupt hierher geschafft hast, zukünftiges Oberhaupt.",
+    "start": 1.666,
+    "end": 6.689,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 1.666,
+        "end": 1.766
+      },
+      {
+        "text": "bin",
+        "start": 1.786,
+        "end": 1.926
+      },
+      {
+        "text": "stolz",
+        "start": 1.986,
+        "end": 2.226
+      },
+      {
+        "text": "auf",
+        "start": 2.286,
+        "end": 2.386
+      },
+      {
+        "text": "dich,",
+        "start": 2.406,
+        "end": 3.027
+      },
+      {
+        "text": "dass",
+        "start": 3.067,
+        "end": 3.227
+      },
+      {
+        "text": "du",
+        "start": 3.247,
+        "end": 3.327
+      },
+      {
+        "text": "es",
+        "start": 3.347,
+        "end": 3.487
+      },
+      {
+        "text": "überhaupt",
+        "start": 3.527,
+        "end": 3.847
+      },
+      {
+        "text": "hierher",
+        "start": 3.887,
+        "end": 4.248
+      },
+      {
+        "text": "geschafft",
+        "start": 4.288,
+        "end": 4.628
+      },
+      {
+        "text": "hast,",
+        "start": 4.668,
+        "end": 4.928
+      },
+      {
+        "text": "zukünftiges",
+        "start": 4.948,
+        "end": 5.588
+      },
+      {
+        "text": "Oberhaupt.",
+        "start": 5.688,
+        "end": 6.689
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das Manju gehört dir nicht.",
+    "start": 6.709,
+    "end": 8.09,
+    "words": [
+      {
+        "text": "Das",
+        "start": 6.709,
+        "end": 6.949
+      },
+      {
+        "text": "Manju",
+        "start": 6.989,
+        "end": 7.289
+      },
+      {
+        "text": "gehört",
+        "start": 7.309,
+        "end": 7.67
+      },
+      {
+        "text": "dir",
+        "start": 7.69,
+        "end": 7.83
+      },
+      {
+        "text": "nicht.",
+        "start": 7.87,
+        "end": 8.09
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was?",
+    "start": 8.87,
+    "end": 9.991,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 8.87,
+        "end": 9.991
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Weiß nicht, was du meinst.",
+    "start": 10.031,
+    "end": 16.055,
+    "words": [
+      {
+        "text": "Weiß",
+        "start": 10.031,
+        "end": 10.291
+      },
+      {
+        "text": "nicht,",
+        "start": 10.311,
+        "end": 10.471
+      },
+      {
+        "text": "was",
+        "start": 10.531,
+        "end": 10.671
+      },
+      {
+        "text": "du",
+        "start": 10.711,
+        "end": 10.811
+      },
+      {
+        "text": "meinst.",
+        "start": 10.852,
+        "end": 16.055
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Scheiße.",
+    "start": 16.155,
+    "end": 16.595,
+    "words": [
+      {
+        "text": "Scheiße.",
+        "start": 16.155,
+        "end": 16.595
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Du Vollidiot.",
+    "start": 16.995,
+    "end": 18.236,
+    "words": [
+      {
+        "text": "Du",
+        "start": 16.995,
+        "end": 17.355
+      },
+      {
+        "text": "Vollidiot.",
+        "start": 17.395,
+        "end": 18.236
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Alles, was wir jetzt tun, zählt doch als Selbstverteidigung.",
+    "start": 18.276,
+    "end": 20.778,
+    "words": [
+      {
+        "text": "Alles,",
+        "start": 18.276,
+        "end": 18.536
+      },
+      {
+        "text": "was",
+        "start": 18.576,
+        "end": 18.696
+      },
+      {
+        "text": "wir",
+        "start": 18.716,
+        "end": 18.896
+      },
+      {
+        "text": "jetzt",
+        "start": 18.916,
+        "end": 19.117
+      },
+      {
+        "text": "tun,",
+        "start": 19.137,
+        "end": 19.297
+      },
+      {
+        "text": "zählt",
+        "start": 19.337,
+        "end": 19.517
+      },
+      {
+        "text": "doch",
+        "start": 19.537,
+        "end": 19.657
+      },
+      {
+        "text": "als",
+        "start": 19.697,
+        "end": 19.817
+      },
+      {
+        "text": "Selbstverteidigung.",
+        "start": 19.837,
+        "end": 20.778
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Immerhin hat er den Kampf ja angefangen.",
+    "start": 20.818,
+    "end": 22.579,
+    "words": [
+      {
+        "text": "Immerhin",
+        "start": 20.818,
+        "end": 21.198
+      },
+      {
+        "text": "hat",
+        "start": 21.218,
+        "end": 21.378
+      },
+      {
+        "text": "er",
+        "start": 21.418,
+        "end": 21.538
+      },
+      {
+        "text": "den",
+        "start": 21.558,
+        "end": 21.698
+      },
+      {
+        "text": "Kampf",
+        "start": 21.738,
+        "end": 21.978
+      },
+      {
+        "text": "ja",
+        "start": 22.018,
+        "end": 22.098
+      },
+      {
+        "text": "angefangen.",
+        "start": 22.138,
+        "end": 22.579
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Wir könnten einfach behaupten, er hatte seinen Anzug nicht unter Kontrolle und hat sich aus Versehen selbst umgebracht.",
+    "start": 22.599,
+    "end": 28.482,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 22.599,
+        "end": 22.719
+      },
+      {
+        "text": "könnten",
+        "start": 22.739,
+        "end": 23.079
+      },
+      {
+        "text": "einfach",
+        "start": 23.099,
+        "end": 23.399
+      },
+      {
+        "text": "behaupten,",
+        "start": 23.439,
+        "end": 23.719
+      },
+      {
+        "text": "er",
+        "start": 23.739,
+        "end": 23.799
+      },
+      {
+        "text": "hatte",
+        "start": 23.819,
+        "end": 24.019
+      },
+      {
+        "text": "seinen",
+        "start": 24.039,
+        "end": 24.26
+      },
+      {
+        "text": "Anzug",
+        "start": 24.28,
+        "end": 24.52
+      },
+      {
+        "text": "nicht",
+        "start": 24.54,
+        "end": 24.68
+      },
+      {
+        "text": "unter",
+        "start": 24.74,
+        "end": 24.96
+      },
+      {
+        "text": "Kontrolle",
+        "start": 25.0,
+        "end": 25.26
+      },
+      {
+        "text": "und",
+        "start": 25.28,
+        "end": 25.38
+      },
+      {
+        "text": "hat",
+        "start": 25.42,
+        "end": 25.52
+      },
+      {
+        "text": "sich",
+        "start": 25.56,
+        "end": 25.66
+      },
+      {
+        "text": "aus",
+        "start": 25.7,
+        "end": 25.821
+      },
+      {
+        "text": "Versehen",
+        "start": 25.861,
+        "end": 26.201
+      },
+      {
+        "text": "selbst",
+        "start": 26.221,
+        "end": 26.461
+      },
+      {
+        "text": "umgebracht.",
+        "start": 26.501,
+        "end": 28.482
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Endlich geschafft.",
+    "start": 28.522,
+    "end": 29.263,
+    "words": [
+      {
+        "text": "Endlich",
+        "start": 28.522,
+        "end": 28.862
+      },
+      {
+        "text": "geschafft.",
+        "start": 28.882,
+        "end": 29.263
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Wirklich gut gemacht.",
+    "start": 30.8,
+    "end": 31.622,
+    "words": [
+      {
+        "text": "Wirklich",
+        "start": 30.8,
+        "end": 31.081
+      },
+      {
+        "text": "gut",
+        "start": 31.101,
+        "end": 31.301
+      },
+      {
+        "text": "gemacht.",
+        "start": 31.341,
+        "end": 31.622
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Tut ganz schön weh, mit so einem Ninja-Anzug getreten zu werden, oder?",
+    "start": 37.57,
+    "end": 42.777,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 37.57,
+        "end": 37.83
+      },
+      {
+        "text": "ganz",
+        "start": 37.85,
+        "end": 38.03
+      },
+      {
+        "text": "schön",
+        "start": 38.05,
+        "end": 38.351
+      },
+      {
+        "text": "weh,",
+        "start": 38.371,
+        "end": 38.832
+      },
+      {
+        "text": "mit",
+        "start": 38.852,
+        "end": 38.992
+      },
+      {
+        "text": "so",
+        "start": 39.012,
+        "end": 39.112
+      },
+      {
+        "text": "einem",
+        "start": 39.132,
+        "end": 39.292
+      },
+      {
+        "text": "Ninja-Anzug",
+        "start": 39.312,
+        "end": 39.953
+      },
+      {
+        "text": "getreten",
+        "start": 39.973,
+        "end": 40.253
+      },
+      {
+        "text": "zu",
+        "start": 40.273,
+        "end": 40.434
+      },
+      {
+        "text": "werden,",
+        "start": 40.474,
+        "end": 40.774
+      },
+      {
+        "text": "oder?",
+        "start": 40.814,
+        "end": 42.777
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Da schön aufpassen, du Wicht.",
+    "start": 42.817,
+    "end": 44.319,
+    "words": [
+      {
+        "text": "Da",
+        "start": 42.817,
+        "end": 42.937
+      },
+      {
+        "text": "schön",
+        "start": 43.117,
+        "end": 43.418
+      },
+      {
+        "text": "aufpassen,",
+        "start": 43.458,
+        "end": 43.959
+      },
+      {
+        "text": "du",
+        "start": 43.999,
+        "end": 44.139
+      },
+      {
+        "text": "Wicht.",
+        "start": 44.179,
+        "end": 44.319
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Das war's für dich.",
+    "start": 48.614,
+    "end": 49.554,
+    "words": [
+      {
+        "text": "Das",
+        "start": 48.614,
+        "end": 49.014
+      },
+      {
+        "text": "war's",
+        "start": 49.054,
+        "end": 49.214
+      },
+      {
+        "text": "für",
+        "start": 49.234,
+        "end": 49.334
+      },
+      {
+        "text": "dich.",
+        "start": 49.374,
+        "end": 49.554
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Ich sterbe.",
+    "start": 76.663,
+    "end": 77.863,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 76.663,
+        "end": 77.223
+      },
+      {
+        "text": "sterbe.",
+        "start": 77.243,
+        "end": 77.863
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Das ist genug.",
+    "start": 77.883,
+    "end": 81.845,
+    "words": [
+      {
+        "text": "Das",
+        "start": 77.883,
+        "end": 78.083
+      },
+      {
+        "text": "ist",
+        "start": 78.143,
+        "end": 78.283
+      },
+      {
+        "text": "genug.",
+        "start": 78.323,
+        "end": 81.845
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Er hat als erstes angegriffen.",
+    "start": 81.905,
+    "end": 85.245,
+    "words": [
+      {
+        "text": "Er",
+        "start": 81.905,
+        "end": 82.025
+      },
+      {
+        "text": "hat",
+        "start": 82.045,
+        "end": 82.185
+      },
+      {
+        "text": "als",
+        "start": 82.225,
+        "end": 82.445
+      },
+      {
+        "text": "erstes",
+        "start": 82.485,
+        "end": 82.785
+      },
+      {
+        "text": "angegriffen.",
+        "start": 82.825,
+        "end": 85.245
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Gut, dann muss ich wohl beide Seiten bestrafen.",
+    "start": 85.286,
+    "end": 93.768,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 85.286,
+        "end": 86.066
+      },
+      {
+        "text": "dann",
+        "start": 86.106,
+        "end": 86.306
+      },
+      {
+        "text": "muss",
+        "start": 86.326,
+        "end": 86.466
+      },
+      {
+        "text": "ich",
+        "start": 86.526,
+        "end": 86.626
+      },
+      {
+        "text": "wohl",
+        "start": 86.646,
+        "end": 86.846
+      },
+      {
+        "text": "beide",
+        "start": 86.886,
+        "end": 87.166
+      },
+      {
+        "text": "Seiten",
+        "start": 87.206,
+        "end": 87.506
+      },
+      {
+        "text": "bestrafen.",
+        "start": 87.546,
+        "end": 93.768
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Möchtest du zur Krankenschwester?",
+    "start": 93.808,
+    "end": 97.129,
+    "words": [
+      {
+        "text": "Möchtest",
+        "start": 93.808,
+        "end": 94.248
+      },
+      {
+        "text": "du",
+        "start": 94.268,
+        "end": 94.428
+      },
+      {
+        "text": "zur",
+        "start": 94.448,
+        "end": 94.588
+      },
+      {
+        "text": "Krankenschwester?",
+        "start": 94.628,
+        "end": 97.129
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Danke, aber nein.",
+    "start": 97.169,
+    "end": 99.37,
+    "words": [
+      {
+        "text": "Danke,",
+        "start": 97.169,
+        "end": 97.709
+      },
+      {
+        "text": "aber",
+        "start": 97.769,
+        "end": 98.609
+      },
+      {
+        "text": "nein.",
+        "start": 98.669,
+        "end": 99.37
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ach so.",
+    "start": 99.43,
+    "end": 100.25,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 99.43,
+        "end": 99.53
+      },
+      {
+        "text": "so.",
+        "start": 99.57,
+        "end": 100.25
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Übrigens, ich hab die Manju fast alle aufgegessen, also lass dir nicht mehr zu viel Zeit.",
+    "start": 100.29,
+    "end": 103.991,
+    "words": [
+      {
+        "text": "Übrigens,",
+        "start": 100.29,
+        "end": 100.83
+      },
+      {
+        "text": "ich",
+        "start": 100.87,
+        "end": 100.95
+      },
+      {
+        "text": "hab",
+        "start": 100.97,
+        "end": 101.11
+      },
+      {
+        "text": "die",
+        "start": 101.15,
+        "end": 101.25
+      },
+      {
+        "text": "Manju",
+        "start": 101.29,
+        "end": 101.59
+      },
+      {
+        "text": "fast",
+        "start": 101.63,
+        "end": 101.83
+      },
+      {
+        "text": "alle",
+        "start": 101.85,
+        "end": 102.05
+      },
+      {
+        "text": "aufgegessen,",
+        "start": 102.09,
+        "end": 102.651
+      },
+      {
+        "text": "also",
+        "start": 102.691,
+        "end": 102.871
+      },
+      {
+        "text": "lass",
+        "start": 102.891,
+        "end": 103.031
+      },
+      {
+        "text": "dir",
+        "start": 103.051,
+        "end": 103.191
+      },
+      {
+        "text": "nicht",
+        "start": 103.211,
+        "end": 103.351
+      },
+      {
+        "text": "mehr",
+        "start": 103.371,
+        "end": 103.511
+      },
+      {
+        "text": "zu",
+        "start": 103.551,
+        "end": 103.631
+      },
+      {
+        "text": "viel",
+        "start": 103.671,
+        "end": 103.831
+      },
+      {
+        "text": "Zeit.",
+        "start": 103.851,
+        "end": 103.991
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Hier.",
+    "start": 111.49,
+    "end": 111.61,
+    "words": [
+      {
+        "text": "Hier.",
+        "start": 111.49,
+        "end": 111.61
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Das kann ich doch nicht annehmen.",
+    "start": 114.432,
+    "end": 116.773,
+    "words": [
+      {
+        "text": "Das",
+        "start": 114.432,
+        "end": 114.572
+      },
+      {
+        "text": "kann",
+        "start": 114.592,
+        "end": 114.732
+      },
+      {
+        "text": "ich",
+        "start": 114.752,
+        "end": 114.852
+      },
+      {
+        "text": "doch",
+        "start": 114.872,
+        "end": 114.992
+      },
+      {
+        "text": "nicht",
+        "start": 115.012,
+        "end": 115.172
+      },
+      {
+        "text": "annehmen.",
+        "start": 115.212,
+        "end": 116.773
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Mir gehört es nicht.",
+    "start": 116.793,
+    "end": 117.574,
+    "words": [
+      {
+        "text": "Mir",
+        "start": 116.793,
+        "end": 116.933
+      },
+      {
+        "text": "gehört",
+        "start": 116.953,
+        "end": 117.194
+      },
+      {
+        "text": "es",
+        "start": 117.234,
+        "end": 117.374
+      },
+      {
+        "text": "nicht.",
+        "start": 117.414,
+        "end": 117.574
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Was?",
+    "start": 119.775,
+    "end": 120.435,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 119.775,
+        "end": 120.435
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Wo?",
+    "start": 120.496,
+    "end": 121.016,
+    "words": [
+      {
+        "text": "Wo?",
+        "start": 120.496,
+        "end": 121.016
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Was hast du denn?",
+    "start": 121.056,
+    "end": 122.016,
+    "words": [
+      {
+        "text": "Was",
+        "start": 121.056,
+        "end": 121.236
+      },
+      {
+        "text": "hast",
+        "start": 121.276,
+        "end": 121.476
+      },
+      {
+        "text": "du",
+        "start": 121.496,
+        "end": 121.636
+      },
+      {
+        "text": "denn?",
+        "start": 121.676,
+        "end": 122.016
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Scheinbar musst du von vorne anfangen.",
+    "start": 122.056,
+    "end": 123.577,
+    "words": [
+      {
+        "text": "Scheinbar",
+        "start": 122.056,
+        "end": 122.397
+      },
+      {
+        "text": "musst",
+        "start": 122.417,
+        "end": 122.557
+      },
+      {
+        "text": "du",
+        "start": 122.577,
+        "end": 122.657
+      },
+      {
+        "text": "von",
+        "start": 122.697,
+        "end": 122.837
+      },
+      {
+        "text": "vorne",
+        "start": 122.857,
+        "end": 123.137
+      },
+      {
+        "text": "anfangen.",
+        "start": 123.177,
+        "end": 123.577
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Hey ihr beiden!",
+    "start": 123.617,
+    "end": 125.919,
+    "words": [
+      {
+        "text": "Hey",
+        "start": 123.617,
+        "end": 125.018
+      },
+      {
+        "text": "ihr",
+        "start": 125.078,
+        "end": 125.238
+      },
+      {
+        "text": "beiden!",
+        "start": 125.278,
+        "end": 125.919
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Sagt bloß ihr habt... Dieser kleine... Du hinterhältiges Arschloch!",
+    "start": 125.959,
+    "end": 138.547,
+    "words": [
+      {
+        "text": "Sagt",
+        "start": 125.959,
+        "end": 126.159
+      },
+      {
+        "text": "bloß",
+        "start": 126.179,
+        "end": 126.459
+      },
+      {
+        "text": "ihr",
+        "start": 126.499,
+        "end": 126.639
+      },
+      {
+        "text": "habt...",
+        "start": 126.679,
+        "end": 131.022
+      },
+      {
+        "text": "Dieser",
+        "start": 131.082,
+        "end": 132.563
+      },
+      {
+        "text": "kleine...",
+        "start": 132.603,
+        "end": 132.943
+      },
+      {
+        "text": "Du",
+        "start": 132.963,
+        "end": 133.163
+      },
+      {
+        "text": "hinterhältiges",
+        "start": 133.203,
+        "end": 133.964
+      },
+      {
+        "text": "Arschloch!",
+        "start": 134.064,
+        "end": 138.547
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Dieses beschämende Benehmen endet jetzt.",
+    "start": 138.567,
+    "end": 140.528,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 138.567,
+        "end": 138.847
+      },
+      {
+        "text": "beschämende",
+        "start": 138.887,
+        "end": 139.407
+      },
+      {
+        "text": "Benehmen",
+        "start": 139.467,
+        "end": 139.887
+      },
+      {
+        "text": "endet",
+        "start": 139.947,
+        "end": 140.248
+      },
+      {
+        "text": "jetzt.",
+        "start": 140.288,
+        "end": 140.528
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": " Das war ziemlich gefährlich und unvorsichtig von dir.",
+    "start": 143.006,
+    "end": 145.549,
+    "words": [
+      {
+        "text": "Das",
+        "start": 143.006,
+        "end": 143.086
+      },
+      {
+        "text": "war",
+        "start": 143.106,
+        "end": 143.247
+      },
+      {
+        "text": "ziemlich",
+        "start": 143.267,
+        "end": 143.607
+      },
+      {
+        "text": "gefährlich",
+        "start": 143.627,
+        "end": 144.007
+      },
+      {
+        "text": "und",
+        "start": 144.047,
+        "end": 144.188
+      },
+      {
+        "text": "unvorsichtig",
+        "start": 144.228,
+        "end": 144.808
+      },
+      {
+        "text": "von",
+        "start": 144.828,
+        "end": 144.989
+      },
+      {
+        "text": "dir.",
+        "start": 145.009,
+        "end": 145.549
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Man soll sich nur nicht erwischen lassen, oder?",
+    "start": 145.589,
+    "end": 147.331,
+    "words": [
+      {
+        "text": "Man",
+        "start": 145.589,
+        "end": 145.729
+      },
+      {
+        "text": "soll",
+        "start": 145.749,
+        "end": 145.87
+      },
+      {
+        "text": "sich",
+        "start": 145.91,
+        "end": 146.01
+      },
+      {
+        "text": "nur",
+        "start": 146.07,
+        "end": 146.23
+      },
+      {
+        "text": "nicht",
+        "start": 146.25,
+        "end": 146.37
+      },
+      {
+        "text": "erwischen",
+        "start": 146.41,
+        "end": 146.751
+      },
+      {
+        "text": "lassen,",
+        "start": 146.791,
+        "end": 147.151
+      },
+      {
+        "text": "oder?",
+        "start": 147.211,
+        "end": 147.331
+      }
+    ]
+  }
+]

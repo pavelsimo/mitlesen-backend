@@ -1,0 +1,1363 @@
+[
+  {
+    "id": 0,
+    "text": " Damit hätten wir unsere Aufgabe hier erledigt.",
+    "start": 0.311,
+    "end": 2.992,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 0.311,
+        "end": 0.771
+      },
+      {
+        "text": "hätten",
+        "start": 0.791,
+        "end": 1.011
+      },
+      {
+        "text": "wir",
+        "start": 1.031,
+        "end": 1.151
+      },
+      {
+        "text": "unsere",
+        "start": 1.172,
+        "end": 1.392
+      },
+      {
+        "text": "Aufgabe",
+        "start": 1.432,
+        "end": 1.812
+      },
+      {
+        "text": "hier",
+        "start": 1.852,
+        "end": 1.972
+      },
+      {
+        "text": "erledigt.",
+        "start": 2.012,
+        "end": 2.992
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Den Rest müssen wir den anderen überlassen.",
+    "start": 3.032,
+    "end": 4.753,
+    "words": [
+      {
+        "text": "Den",
+        "start": 3.032,
+        "end": 3.172
+      },
+      {
+        "text": "Rest",
+        "start": 3.212,
+        "end": 3.412
+      },
+      {
+        "text": "müssen",
+        "start": 3.433,
+        "end": 3.613
+      },
+      {
+        "text": "wir",
+        "start": 3.653,
+        "end": 3.793
+      },
+      {
+        "text": "den",
+        "start": 3.813,
+        "end": 3.933
+      },
+      {
+        "text": "anderen",
+        "start": 3.973,
+        "end": 4.293
+      },
+      {
+        "text": "überlassen.",
+        "start": 4.333,
+        "end": 4.753
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hm?",
+    "start": 6.354,
+    "end": 7.114,
+    "words": [
+      {
+        "text": "Hm?",
+        "start": 6.354,
+        "end": 7.114
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Was ist denn los?",
+    "start": 7.154,
+    "end": 8.095,
+    "words": [
+      {
+        "text": "Was",
+        "start": 7.154,
+        "end": 7.294
+      },
+      {
+        "text": "ist",
+        "start": 7.334,
+        "end": 7.474
+      },
+      {
+        "text": "denn",
+        "start": 7.494,
+        "end": 7.654
+      },
+      {
+        "text": "los?",
+        "start": 7.694,
+        "end": 8.095
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Du guckst, als hättest du noch nicht genug gerettet.",
+    "start": 8.115,
+    "end": 10.316,
+    "words": [
+      {
+        "text": "Du",
+        "start": 8.115,
+        "end": 8.235
+      },
+      {
+        "text": "guckst,",
+        "start": 8.275,
+        "end": 8.455
+      },
+      {
+        "text": "als",
+        "start": 8.495,
+        "end": 8.635
+      },
+      {
+        "text": "hättest",
+        "start": 8.655,
+        "end": 8.875
+      },
+      {
+        "text": "du",
+        "start": 8.895,
+        "end": 8.975
+      },
+      {
+        "text": "noch",
+        "start": 9.015,
+        "end": 9.115
+      },
+      {
+        "text": "nicht",
+        "start": 9.135,
+        "end": 9.315
+      },
+      {
+        "text": "genug",
+        "start": 9.335,
+        "end": 9.575
+      },
+      {
+        "text": "gerettet.",
+        "start": 9.595,
+        "end": 10.316
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Als ob ich noch nicht genug gerettet hätte?",
+    "start": 10.376,
+    "end": 14.898,
+    "words": [
+      {
+        "text": "Als",
+        "start": 10.376,
+        "end": 10.596
+      },
+      {
+        "text": "ob",
+        "start": 10.656,
+        "end": 10.756
+      },
+      {
+        "text": "ich",
+        "start": 10.796,
+        "end": 10.876
+      },
+      {
+        "text": "noch",
+        "start": 10.916,
+        "end": 11.036
+      },
+      {
+        "text": "nicht",
+        "start": 11.056,
+        "end": 11.216
+      },
+      {
+        "text": "genug",
+        "start": 11.256,
+        "end": 11.496
+      },
+      {
+        "text": "gerettet",
+        "start": 11.516,
+        "end": 11.896
+      },
+      {
+        "text": "hätte?",
+        "start": 11.936,
+        "end": 14.898
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich weiß nicht mal, ob ich sagen darf, dass ich überhaupt jemanden gerettet habe.",
+    "start": 14.938,
+    "end": 20.64,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.938,
+        "end": 15.438
+      },
+      {
+        "text": "weiß",
+        "start": 15.498,
+        "end": 15.778
+      },
+      {
+        "text": "nicht",
+        "start": 15.798,
+        "end": 15.918
+      },
+      {
+        "text": "mal,",
+        "start": 15.998,
+        "end": 16.138
+      },
+      {
+        "text": "ob",
+        "start": 16.158,
+        "end": 16.258
+      },
+      {
+        "text": "ich",
+        "start": 16.298,
+        "end": 16.398
+      },
+      {
+        "text": "sagen",
+        "start": 16.438,
+        "end": 16.638
+      },
+      {
+        "text": "darf,",
+        "start": 16.658,
+        "end": 16.818
+      },
+      {
+        "text": "dass",
+        "start": 16.838,
+        "end": 16.958
+      },
+      {
+        "text": "ich",
+        "start": 16.998,
+        "end": 17.139
+      },
+      {
+        "text": "überhaupt",
+        "start": 17.159,
+        "end": 17.479
+      },
+      {
+        "text": "jemanden",
+        "start": 17.519,
+        "end": 17.859
+      },
+      {
+        "text": "gerettet",
+        "start": 17.899,
+        "end": 18.259
+      },
+      {
+        "text": "habe.",
+        "start": 18.299,
+        "end": 20.64
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ist das nicht Spirits aus Russland?",
+    "start": 20.92,
+    "end": 22.541,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 20.92,
+        "end": 21.06
+      },
+      {
+        "text": "das",
+        "start": 21.08,
+        "end": 21.3
+      },
+      {
+        "text": "nicht",
+        "start": 21.32,
+        "end": 21.46
+      },
+      {
+        "text": "Spirits",
+        "start": 21.5,
+        "end": 22.041
+      },
+      {
+        "text": "aus",
+        "start": 22.121,
+        "end": 22.241
+      },
+      {
+        "text": "Russland?",
+        "start": 22.281,
+        "end": 22.541
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Was machst du denn hier in Japan?",
+    "start": 22.561,
+    "end": 24.402,
+    "words": [
+      {
+        "text": "Was",
+        "start": 22.561,
+        "end": 22.681
+      },
+      {
+        "text": "machst",
+        "start": 22.701,
+        "end": 22.861
+      },
+      {
+        "text": "du",
+        "start": 22.881,
+        "end": 22.981
+      },
+      {
+        "text": "denn",
+        "start": 23.001,
+        "end": 23.081
+      },
+      {
+        "text": "hier",
+        "start": 23.121,
+        "end": 23.301
+      },
+      {
+        "text": "in",
+        "start": 23.361,
+        "end": 23.401
+      },
+      {
+        "text": "Japan?",
+        "start": 23.421,
+        "end": 24.402
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Bitte gib mir ein Autogramm.",
+    "start": 24.442,
+    "end": 26.103,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 24.442,
+        "end": 24.682
+      },
+      {
+        "text": "gib",
+        "start": 24.702,
+        "end": 24.842
+      },
+      {
+        "text": "mir",
+        "start": 24.862,
+        "end": 24.962
+      },
+      {
+        "text": "ein",
+        "start": 25.002,
+        "end": 25.102
+      },
+      {
+        "text": "Autogramm.",
+        "start": 25.122,
+        "end": 26.103
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Oh nein!",
+    "start": 26.203,
+    "end": 26.523,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 26.203,
+        "end": 26.303
+      },
+      {
+        "text": "nein!",
+        "start": 26.363,
+        "end": 26.523
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Sie ist wirklich unglaublich beliebt.",
+    "start": 26.543,
+    "end": 29.064,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 26.543,
+        "end": 26.703
+      },
+      {
+        "text": "ist",
+        "start": 26.823,
+        "end": 27.883
+      },
+      {
+        "text": "wirklich",
+        "start": 27.923,
+        "end": 28.243
+      },
+      {
+        "text": "unglaublich",
+        "start": 28.283,
+        "end": 28.564
+      },
+      {
+        "text": "beliebt.",
+        "start": 28.584,
+        "end": 29.064
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Chai!",
+    "start": 31.681,
+    "end": 33.962,
+    "words": [
+      {
+        "text": "Chai!",
+        "start": 31.681,
+        "end": 33.962
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich wollte mich für vorhin bedanken.",
+    "start": 34.002,
+    "end": 35.722,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 34.002,
+        "end": 34.122
+      },
+      {
+        "text": "wollte",
+        "start": 34.142,
+        "end": 34.382
+      },
+      {
+        "text": "mich",
+        "start": 34.422,
+        "end": 34.562
+      },
+      {
+        "text": "für",
+        "start": 34.582,
+        "end": 34.722
+      },
+      {
+        "text": "vorhin",
+        "start": 34.762,
+        "end": 35.022
+      },
+      {
+        "text": "bedanken.",
+        "start": 35.042,
+        "end": 35.722
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Und auch noch für damals im Vergnügungspark.",
+    "start": 35.742,
+    "end": 39.604,
+    "words": [
+      {
+        "text": "Und",
+        "start": 35.742,
+        "end": 35.882
+      },
+      {
+        "text": "auch",
+        "start": 35.902,
+        "end": 36.022
+      },
+      {
+        "text": "noch",
+        "start": 36.042,
+        "end": 36.183
+      },
+      {
+        "text": "für",
+        "start": 36.203,
+        "end": 36.303
+      },
+      {
+        "text": "damals",
+        "start": 36.343,
+        "end": 36.703
+      },
+      {
+        "text": "im",
+        "start": 36.743,
+        "end": 36.823
+      },
+      {
+        "text": "Vergnügungspark.",
+        "start": 36.843,
+        "end": 39.604
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Was?",
+    "start": 39.664,
+    "end": 39.884,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 39.664,
+        "end": 39.884
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Sag bloß, du bist... Also, damals, da konnte ich nicht... Meine Schwester wurde auch schon aus der Klinik entlassen.",
+    "start": 39.924,
+    "end": 49.807,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 39.924,
+        "end": 40.124
+      },
+      {
+        "text": "bloß,",
+        "start": 40.144,
+        "end": 40.384
+      },
+      {
+        "text": "du",
+        "start": 40.404,
+        "end": 40.544
+      },
+      {
+        "text": "bist...",
+        "start": 40.564,
+        "end": 40.724
+      },
+      {
+        "text": "Also,",
+        "start": 40.764,
+        "end": 44.645
+      },
+      {
+        "text": "damals,",
+        "start": 44.665,
+        "end": 45.926
+      },
+      {
+        "text": "da",
+        "start": 45.946,
+        "end": 46.146
+      },
+      {
+        "text": "konnte",
+        "start": 46.166,
+        "end": 46.406
+      },
+      {
+        "text": "ich",
+        "start": 46.446,
+        "end": 46.546
+      },
+      {
+        "text": "nicht...",
+        "start": 46.606,
+        "end": 46.746
+      },
+      {
+        "text": "Meine",
+        "start": 46.786,
+        "end": 47.006
+      },
+      {
+        "text": "Schwester",
+        "start": 47.026,
+        "end": 47.386
+      },
+      {
+        "text": "wurde",
+        "start": 47.406,
+        "end": 47.606
+      },
+      {
+        "text": "auch",
+        "start": 47.626,
+        "end": 47.746
+      },
+      {
+        "text": "schon",
+        "start": 47.786,
+        "end": 47.966
+      },
+      {
+        "text": "aus",
+        "start": 48.006,
+        "end": 48.107
+      },
+      {
+        "text": "der",
+        "start": 48.147,
+        "end": 48.227
+      },
+      {
+        "text": "Klinik",
+        "start": 48.267,
+        "end": 48.587
+      },
+      {
+        "text": "entlassen.",
+        "start": 48.627,
+        "end": 49.807
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Sie wird also ganz bald wieder in die Schule gehen können.",
+    "start": 49.847,
+    "end": 52.908,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 49.847,
+        "end": 49.947
+      },
+      {
+        "text": "wird",
+        "start": 49.967,
+        "end": 50.167
+      },
+      {
+        "text": "also",
+        "start": 50.187,
+        "end": 50.407
+      },
+      {
+        "text": "ganz",
+        "start": 50.447,
+        "end": 50.687
+      },
+      {
+        "text": "bald",
+        "start": 50.727,
+        "end": 50.967
+      },
+      {
+        "text": "wieder",
+        "start": 50.987,
+        "end": 51.148
+      },
+      {
+        "text": "in",
+        "start": 51.168,
+        "end": 51.248
+      },
+      {
+        "text": "die",
+        "start": 51.288,
+        "end": 51.388
+      },
+      {
+        "text": "Schule",
+        "start": 51.408,
+        "end": 51.708
+      },
+      {
+        "text": "gehen",
+        "start": 51.748,
+        "end": 51.948
+      },
+      {
+        "text": "können.",
+        "start": 51.988,
+        "end": 52.908
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Darum wollte ich Danke sagen.",
+    "start": 52.948,
+    "end": 54.649,
+    "words": [
+      {
+        "text": "Darum",
+        "start": 52.948,
+        "end": 53.188
+      },
+      {
+        "text": "wollte",
+        "start": 53.208,
+        "end": 53.388
+      },
+      {
+        "text": "ich",
+        "start": 53.428,
+        "end": 53.568
+      },
+      {
+        "text": "Danke",
+        "start": 53.608,
+        "end": 53.888
+      },
+      {
+        "text": "sagen.",
+        "start": 53.928,
+        "end": 54.649
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Dafür, dass du mich, meine Schwester und auch alle anderen gerettet hast.",
+    "start": 54.669,
+    "end": 58.27,
+    "words": [
+      {
+        "text": "Dafür,",
+        "start": 54.669,
+        "end": 54.929
+      },
+      {
+        "text": "dass",
+        "start": 54.949,
+        "end": 55.069
+      },
+      {
+        "text": "du",
+        "start": 55.109,
+        "end": 55.209
+      },
+      {
+        "text": "mich,",
+        "start": 55.249,
+        "end": 55.569
+      },
+      {
+        "text": "meine",
+        "start": 55.609,
+        "end": 55.809
+      },
+      {
+        "text": "Schwester",
+        "start": 55.829,
+        "end": 56.609
+      },
+      {
+        "text": "und",
+        "start": 56.649,
+        "end": 56.769
+      },
+      {
+        "text": "auch",
+        "start": 56.789,
+        "end": 57.029
+      },
+      {
+        "text": "alle",
+        "start": 57.049,
+        "end": 57.25
+      },
+      {
+        "text": "anderen",
+        "start": 57.29,
+        "end": 57.61
+      },
+      {
+        "text": "gerettet",
+        "start": 57.65,
+        "end": 58.05
+      },
+      {
+        "text": "hast.",
+        "start": 58.09,
+        "end": 58.27
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Hab ich sie wirklich alle retten können?",
+    "start": 60.798,
+    "end": 67.384,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 60.798,
+        "end": 64.922
+      },
+      {
+        "text": "ich",
+        "start": 64.962,
+        "end": 65.082
+      },
+      {
+        "text": "sie",
+        "start": 65.102,
+        "end": 65.262
+      },
+      {
+        "text": "wirklich",
+        "start": 65.302,
+        "end": 65.642
+      },
+      {
+        "text": "alle",
+        "start": 65.702,
+        "end": 65.943
+      },
+      {
+        "text": "retten",
+        "start": 66.003,
+        "end": 66.283
+      },
+      {
+        "text": "können?",
+        "start": 66.343,
+        "end": 67.384
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Heißt das, dass ich vielleicht ein kleines bisschen stolz sein kann?",
+    "start": 67.424,
+    "end": 72.608,
+    "words": [
+      {
+        "text": "Heißt",
+        "start": 67.424,
+        "end": 67.664
+      },
+      {
+        "text": "das,",
+        "start": 67.684,
+        "end": 68.405
+      },
+      {
+        "text": "dass",
+        "start": 68.425,
+        "end": 68.565
+      },
+      {
+        "text": "ich",
+        "start": 68.625,
+        "end": 68.725
+      },
+      {
+        "text": "vielleicht",
+        "start": 68.765,
+        "end": 69.085
+      },
+      {
+        "text": "ein",
+        "start": 69.105,
+        "end": 69.266
+      },
+      {
+        "text": "kleines",
+        "start": 69.306,
+        "end": 69.666
+      },
+      {
+        "text": "bisschen",
+        "start": 69.706,
+        "end": 70.046
+      },
+      {
+        "text": "stolz",
+        "start": 70.086,
+        "end": 70.386
+      },
+      {
+        "text": "sein",
+        "start": 70.427,
+        "end": 70.667
+      },
+      {
+        "text": "kann?",
+        "start": 70.707,
+        "end": 72.608
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Terufatz!",
+    "start": 72.628,
+    "end": 74.911,
+    "words": [
+      {
+        "text": "Terufatz!",
+        "start": 72.628,
+        "end": 74.911
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Du hast mich vielleicht erschreckt.",
+    "start": 74.951,
+    "end": 76.492,
+    "words": [
+      {
+        "text": "Du",
+        "start": 74.951,
+        "end": 75.091
+      },
+      {
+        "text": "hast",
+        "start": 75.191,
+        "end": 75.471
+      },
+      {
+        "text": "mich",
+        "start": 75.491,
+        "end": 75.651
+      },
+      {
+        "text": "vielleicht",
+        "start": 75.671,
+        "end": 75.991
+      },
+      {
+        "text": "erschreckt.",
+        "start": 76.052,
+        "end": 76.492
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Hey, ich hab vorhin bei den Sanitätern zufällig was aufgeschnappt.",
+    "start": 76.912,
+    "end": 81.216,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 76.912,
+        "end": 77.513
+      },
+      {
+        "text": "ich",
+        "start": 77.553,
+        "end": 77.633
+      },
+      {
+        "text": "hab",
+        "start": 77.653,
+        "end": 77.773
+      },
+      {
+        "text": "vorhin",
+        "start": 77.793,
+        "end": 78.053
+      },
+      {
+        "text": "bei",
+        "start": 78.073,
+        "end": 78.173
+      },
+      {
+        "text": "den",
+        "start": 78.193,
+        "end": 78.294
+      },
+      {
+        "text": "Sanitätern",
+        "start": 78.334,
+        "end": 78.934
+      },
+      {
+        "text": "zufällig",
+        "start": 78.954,
+        "end": 79.294
+      },
+      {
+        "text": "was",
+        "start": 79.354,
+        "end": 79.475
+      },
+      {
+        "text": "aufgeschnappt.",
+        "start": 79.515,
+        "end": 81.216
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Weißt du noch die Mutter mit dem Baby, die du vorhin gerettet hast?",
+    "start": 81.256,
+    "end": 85.44,
+    "words": [
+      {
+        "text": "Weißt",
+        "start": 81.256,
+        "end": 81.456
+      },
+      {
+        "text": "du",
+        "start": 81.496,
+        "end": 81.596
+      },
+      {
+        "text": "noch",
+        "start": 81.616,
+        "end": 81.777
+      },
+      {
+        "text": "die",
+        "start": 81.797,
+        "end": 81.917
+      },
+      {
+        "text": "Mutter",
+        "start": 81.937,
+        "end": 82.177
+      },
+      {
+        "text": "mit",
+        "start": 82.217,
+        "end": 82.297
+      },
+      {
+        "text": "dem",
+        "start": 82.337,
+        "end": 82.457
+      },
+      {
+        "text": "Baby,",
+        "start": 82.477,
+        "end": 82.717
+      },
+      {
+        "text": "die",
+        "start": 82.737,
+        "end": 82.818
+      },
+      {
+        "text": "du",
+        "start": 82.838,
+        "end": 82.958
+      },
+      {
+        "text": "vorhin",
+        "start": 82.978,
+        "end": 83.258
+      },
+      {
+        "text": "gerettet",
+        "start": 83.298,
+        "end": 83.678
+      },
+      {
+        "text": "hast?",
+        "start": 83.718,
+        "end": 85.44
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Sie hat ihr Bewusstsein wieder erlangt und ist stabil.",
+    "start": 85.46,
+    "end": 87.642,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 85.46,
+        "end": 85.58
+      },
+      {
+        "text": "hat",
+        "start": 85.6,
+        "end": 85.76
+      },
+      {
+        "text": "ihr",
+        "start": 85.8,
+        "end": 85.9
+      },
+      {
+        "text": "Bewusstsein",
+        "start": 85.94,
+        "end": 86.421
+      },
+      {
+        "text": "wieder",
+        "start": 86.461,
+        "end": 86.641
+      },
+      {
+        "text": "erlangt",
+        "start": 86.661,
+        "end": 86.941
+      },
+      {
+        "text": "und",
+        "start": 86.961,
+        "end": 87.081
+      },
+      {
+        "text": "ist",
+        "start": 87.121,
+        "end": 87.301
+      },
+      {
+        "text": "stabil.",
+        "start": 87.342,
+        "end": 87.642
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": " Ganz egal, was andere sagen.",
+    "start": 90.48,
+    "end": 91.983,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 90.48,
+        "end": 90.621
+      },
+      {
+        "text": "egal,",
+        "start": 90.681,
+        "end": 90.841
+      },
+      {
+        "text": "was",
+        "start": 90.921,
+        "end": 91.041
+      },
+      {
+        "text": "andere",
+        "start": 91.081,
+        "end": 91.402
+      },
+      {
+        "text": "sagen.",
+        "start": 91.442,
+        "end": 91.983
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Dass sie noch am Leben ist, hat sie allein dir zu verdanken.",
+    "start": 92.003,
+    "end": 96.129,
+    "words": [
+      {
+        "text": "Dass",
+        "start": 92.003,
+        "end": 92.143
+      },
+      {
+        "text": "sie",
+        "start": 92.163,
+        "end": 92.263
+      },
+      {
+        "text": "noch",
+        "start": 92.283,
+        "end": 92.403
+      },
+      {
+        "text": "am",
+        "start": 92.443,
+        "end": 92.584
+      },
+      {
+        "text": "Leben",
+        "start": 92.604,
+        "end": 92.824
+      },
+      {
+        "text": "ist,",
+        "start": 92.864,
+        "end": 93.024
+      },
+      {
+        "text": "hat",
+        "start": 93.044,
+        "end": 93.165
+      },
+      {
+        "text": "sie",
+        "start": 93.205,
+        "end": 93.305
+      },
+      {
+        "text": "allein",
+        "start": 93.345,
+        "end": 93.645
+      },
+      {
+        "text": "dir",
+        "start": 93.685,
+        "end": 93.906
+      },
+      {
+        "text": "zu",
+        "start": 93.926,
+        "end": 94.066
+      },
+      {
+        "text": "verdanken.",
+        "start": 94.086,
+        "end": 96.129
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Das siehst du mit Sicherheit genauso wie ich, oder?",
+    "start": 96.149,
+    "end": 98.332,
+    "words": [
+      {
+        "text": "Das",
+        "start": 96.149,
+        "end": 96.309
+      },
+      {
+        "text": "siehst",
+        "start": 96.349,
+        "end": 96.53
+      },
+      {
+        "text": "du",
+        "start": 96.55,
+        "end": 96.69
+      },
+      {
+        "text": "mit",
+        "start": 96.71,
+        "end": 96.85
+      },
+      {
+        "text": "Sicherheit",
+        "start": 96.89,
+        "end": 97.311
+      },
+      {
+        "text": "genauso",
+        "start": 97.331,
+        "end": 97.731
+      },
+      {
+        "text": "wie",
+        "start": 97.751,
+        "end": 97.872
+      },
+      {
+        "text": "ich,",
+        "start": 97.912,
+        "end": 98.072
+      },
+      {
+        "text": "oder?",
+        "start": 98.132,
+        "end": 98.332
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ja.",
+    "start": 98.713,
+    "end": 99.013,
+    "words": [
+      {
+        "text": "Ja.",
+        "start": 98.713,
+        "end": 99.013
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Ja!",
+    "start": 99.053,
+    "end": 99.113,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 99.053,
+        "end": 99.113
+      }
+    ]
+  }
+]

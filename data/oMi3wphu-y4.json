@@ -1,0 +1,1396 @@
+[
+  {
+    "id": 0,
+    "text": " Ich habe den Eindruck, es ist dir von großer Bedeutung, diesen Jungen zu retten.",
+    "start": 0.491,
+    "end": 4.533,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.491,
+        "end": 0.571
+      },
+      {
+        "text": "habe",
+        "start": 0.611,
+        "end": 0.851
+      },
+      {
+        "text": "den",
+        "start": 0.871,
+        "end": 1.071
+      },
+      {
+        "text": "Eindruck,",
+        "start": 1.111,
+        "end": 1.452
+      },
+      {
+        "text": "es",
+        "start": 1.492,
+        "end": 1.632
+      },
+      {
+        "text": "ist",
+        "start": 1.672,
+        "end": 1.812
+      },
+      {
+        "text": "dir",
+        "start": 1.832,
+        "end": 1.972
+      },
+      {
+        "text": "von",
+        "start": 2.012,
+        "end": 2.192
+      },
+      {
+        "text": "großer",
+        "start": 2.232,
+        "end": 2.592
+      },
+      {
+        "text": "Bedeutung,",
+        "start": 2.632,
+        "end": 3.172
+      },
+      {
+        "text": "diesen",
+        "start": 3.192,
+        "end": 3.432
+      },
+      {
+        "text": "Jungen",
+        "start": 3.472,
+        "end": 3.793
+      },
+      {
+        "text": "zu",
+        "start": 3.833,
+        "end": 3.953
+      },
+      {
+        "text": "retten.",
+        "start": 3.993,
+        "end": 4.533
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Würdest du mir sagen, wer das ist?",
+    "start": 4.573,
+    "end": 5.954,
+    "words": [
+      {
+        "text": "Würdest",
+        "start": 4.573,
+        "end": 4.813
+      },
+      {
+        "text": "du",
+        "start": 4.853,
+        "end": 4.953
+      },
+      {
+        "text": "mir",
+        "start": 4.973,
+        "end": 5.133
+      },
+      {
+        "text": "sagen,",
+        "start": 5.173,
+        "end": 5.393
+      },
+      {
+        "text": "wer",
+        "start": 5.433,
+        "end": 5.593
+      },
+      {
+        "text": "das",
+        "start": 5.633,
+        "end": 5.793
+      },
+      {
+        "text": "ist?",
+        "start": 5.833,
+        "end": 5.954
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Er ist ein Kindheitsfreund.",
+    "start": 9.675,
+    "end": 11.596,
+    "words": [
+      {
+        "text": "Er",
+        "start": 9.675,
+        "end": 9.775
+      },
+      {
+        "text": "ist",
+        "start": 9.815,
+        "end": 9.955
+      },
+      {
+        "text": "ein",
+        "start": 10.015,
+        "end": 10.195
+      },
+      {
+        "text": "Kindheitsfreund.",
+        "start": 10.235,
+        "end": 11.596
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Als Illya noch klein war, wurde sein Dorf von Dämonen angegriffen.",
+    "start": 11.636,
+    "end": 16.978,
+    "words": [
+      {
+        "text": "Als",
+        "start": 11.636,
+        "end": 11.836
+      },
+      {
+        "text": "Illya",
+        "start": 11.896,
+        "end": 12.256
+      },
+      {
+        "text": "noch",
+        "start": 12.296,
+        "end": 12.516
+      },
+      {
+        "text": "klein",
+        "start": 12.556,
+        "end": 12.876
+      },
+      {
+        "text": "war,",
+        "start": 12.916,
+        "end": 13.497
+      },
+      {
+        "text": "wurde",
+        "start": 13.517,
+        "end": 13.757
+      },
+      {
+        "text": "sein",
+        "start": 13.797,
+        "end": 13.977
+      },
+      {
+        "text": "Dorf",
+        "start": 14.017,
+        "end": 14.217
+      },
+      {
+        "text": "von",
+        "start": 14.237,
+        "end": 14.397
+      },
+      {
+        "text": "Dämonen",
+        "start": 14.417,
+        "end": 14.917
+      },
+      {
+        "text": "angegriffen.",
+        "start": 14.957,
+        "end": 16.978
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Doch jemand hat ihn gerettet und seitdem lernt er, wie man sich verteidigt.",
+    "start": 17.018,
+    "end": 21.58,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 17.018,
+        "end": 17.278
+      },
+      {
+        "text": "jemand",
+        "start": 17.298,
+        "end": 17.598
+      },
+      {
+        "text": "hat",
+        "start": 17.638,
+        "end": 17.759
+      },
+      {
+        "text": "ihn",
+        "start": 17.799,
+        "end": 17.959
+      },
+      {
+        "text": "gerettet",
+        "start": 17.979,
+        "end": 18.479
+      },
+      {
+        "text": "und",
+        "start": 18.519,
+        "end": 18.679
+      },
+      {
+        "text": "seitdem",
+        "start": 18.699,
+        "end": 19.079
+      },
+      {
+        "text": "lernt",
+        "start": 19.119,
+        "end": 19.339
+      },
+      {
+        "text": "er,",
+        "start": 19.399,
+        "end": 19.639
+      },
+      {
+        "text": "wie",
+        "start": 19.659,
+        "end": 19.759
+      },
+      {
+        "text": "man",
+        "start": 19.779,
+        "end": 19.919
+      },
+      {
+        "text": "sich",
+        "start": 19.959,
+        "end": 20.12
+      },
+      {
+        "text": "verteidigt.",
+        "start": 20.16,
+        "end": 21.58
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Und eines Tages... Das tut weh!",
+    "start": 21.62,
+    "end": 24.821,
+    "words": [
+      {
+        "text": "Und",
+        "start": 21.62,
+        "end": 21.86
+      },
+      {
+        "text": "eines",
+        "start": 21.92,
+        "end": 22.22
+      },
+      {
+        "text": "Tages...",
+        "start": 22.28,
+        "end": 24.041
+      },
+      {
+        "text": "Das",
+        "start": 24.081,
+        "end": 24.361
+      },
+      {
+        "text": "tut",
+        "start": 24.381,
+        "end": 24.581
+      },
+      {
+        "text": "weh!",
+        "start": 24.661,
+        "end": 24.821
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Sag mal, was glotzt du so?",
+    "start": 29.333,
+    "end": 31.014,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 29.333,
+        "end": 29.453
+      },
+      {
+        "text": "mal,",
+        "start": 29.513,
+        "end": 29.693
+      },
+      {
+        "text": "was",
+        "start": 29.733,
+        "end": 29.854
+      },
+      {
+        "text": "glotzt",
+        "start": 29.874,
+        "end": 30.214
+      },
+      {
+        "text": "du",
+        "start": 30.254,
+        "end": 30.414
+      },
+      {
+        "text": "so?",
+        "start": 30.434,
+        "end": 31.014
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Und versteck dich nicht immer, das ist komisch.",
+    "start": 31.054,
+    "end": 35.198,
+    "words": [
+      {
+        "text": "Und",
+        "start": 31.054,
+        "end": 31.215
+      },
+      {
+        "text": "versteck",
+        "start": 31.235,
+        "end": 31.635
+      },
+      {
+        "text": "dich",
+        "start": 31.655,
+        "end": 31.795
+      },
+      {
+        "text": "nicht",
+        "start": 31.815,
+        "end": 32.015
+      },
+      {
+        "text": "immer,",
+        "start": 32.055,
+        "end": 32.295
+      },
+      {
+        "text": "das",
+        "start": 32.315,
+        "end": 32.456
+      },
+      {
+        "text": "ist",
+        "start": 32.496,
+        "end": 32.676
+      },
+      {
+        "text": "komisch.",
+        "start": 32.696,
+        "end": 35.198
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Au!",
+    "start": 35.338,
+    "end": 36.078,
+    "words": [
+      {
+        "text": "Au!",
+        "start": 35.338,
+        "end": 36.078
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Hast du sie noch alle?",
+    "start": 36.118,
+    "end": 37.96,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 36.118,
+        "end": 36.318
+      },
+      {
+        "text": "du",
+        "start": 36.358,
+        "end": 36.499
+      },
+      {
+        "text": "sie",
+        "start": 36.519,
+        "end": 36.639
+      },
+      {
+        "text": "noch",
+        "start": 36.679,
+        "end": 36.839
+      },
+      {
+        "text": "alle?",
+        "start": 36.859,
+        "end": 37.96
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Heilkraut?",
+    "start": 37.98,
+    "end": 43.684,
+    "words": [
+      {
+        "text": "Heilkraut?",
+        "start": 37.98,
+        "end": 43.684
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Gegen Wunden.",
+    "start": 43.704,
+    "end": 45.846,
+    "words": [
+      {
+        "text": "Gegen",
+        "start": 43.704,
+        "end": 44.004
+      },
+      {
+        "text": "Wunden.",
+        "start": 44.044,
+        "end": 45.846
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du tust dir doch so oft weh.",
+    "start": 45.866,
+    "end": 47.086,
+    "words": [
+      {
+        "text": "Du",
+        "start": 45.866,
+        "end": 46.026
+      },
+      {
+        "text": "tust",
+        "start": 46.086,
+        "end": 46.266
+      },
+      {
+        "text": "dir",
+        "start": 46.286,
+        "end": 46.406
+      },
+      {
+        "text": "doch",
+        "start": 46.426,
+        "end": 46.566
+      },
+      {
+        "text": "so",
+        "start": 46.606,
+        "end": 46.686
+      },
+      {
+        "text": "oft",
+        "start": 46.726,
+        "end": 46.926
+      },
+      {
+        "text": "weh.",
+        "start": 46.966,
+        "end": 47.086
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Ah, das ist okay, denn so lerne ich, wie man ein Krieger wird.",
+    "start": 48.537,
+    "end": 51.979,
+    "words": [
+      {
+        "text": "Ah,",
+        "start": 48.537,
+        "end": 49.017
+      },
+      {
+        "text": "das",
+        "start": 49.037,
+        "end": 49.197
+      },
+      {
+        "text": "ist",
+        "start": 49.237,
+        "end": 49.358
+      },
+      {
+        "text": "okay,",
+        "start": 49.398,
+        "end": 49.738
+      },
+      {
+        "text": "denn",
+        "start": 49.778,
+        "end": 49.938
+      },
+      {
+        "text": "so",
+        "start": 49.958,
+        "end": 50.058
+      },
+      {
+        "text": "lerne",
+        "start": 50.098,
+        "end": 50.318
+      },
+      {
+        "text": "ich,",
+        "start": 50.358,
+        "end": 50.478
+      },
+      {
+        "text": "wie",
+        "start": 50.498,
+        "end": 50.618
+      },
+      {
+        "text": "man",
+        "start": 50.658,
+        "end": 50.778
+      },
+      {
+        "text": "ein",
+        "start": 50.818,
+        "end": 50.938
+      },
+      {
+        "text": "Krieger",
+        "start": 50.958,
+        "end": 51.298
+      },
+      {
+        "text": "wird.",
+        "start": 51.318,
+        "end": 51.979
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Das passiert beim Training.",
+    "start": 52.019,
+    "end": 53.479,
+    "words": [
+      {
+        "text": "Das",
+        "start": 52.019,
+        "end": 52.259
+      },
+      {
+        "text": "passiert",
+        "start": 52.279,
+        "end": 52.659
+      },
+      {
+        "text": "beim",
+        "start": 52.679,
+        "end": 52.859
+      },
+      {
+        "text": "Training.",
+        "start": 52.879,
+        "end": 53.479
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Beim Training?",
+    "start": 54.16,
+    "end": 55.46,
+    "words": [
+      {
+        "text": "Beim",
+        "start": 54.16,
+        "end": 54.32
+      },
+      {
+        "text": "Training?",
+        "start": 54.34,
+        "end": 55.46
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ja, und ich werde mal so stark, dass ich alle besiegen kann.",
+    "start": 55.48,
+    "end": 59.862,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 55.48,
+        "end": 55.681
+      },
+      {
+        "text": "und",
+        "start": 55.721,
+        "end": 55.861
+      },
+      {
+        "text": "ich",
+        "start": 55.901,
+        "end": 56.001
+      },
+      {
+        "text": "werde",
+        "start": 56.021,
+        "end": 56.281
+      },
+      {
+        "text": "mal",
+        "start": 56.401,
+        "end": 56.681
+      },
+      {
+        "text": "so",
+        "start": 57.201,
+        "end": 57.381
+      },
+      {
+        "text": "stark,",
+        "start": 57.421,
+        "end": 57.721
+      },
+      {
+        "text": "dass",
+        "start": 57.741,
+        "end": 57.882
+      },
+      {
+        "text": "ich",
+        "start": 57.922,
+        "end": 58.082
+      },
+      {
+        "text": "alle",
+        "start": 58.122,
+        "end": 58.342
+      },
+      {
+        "text": "besiegen",
+        "start": 58.362,
+        "end": 58.742
+      },
+      {
+        "text": "kann.",
+        "start": 58.782,
+        "end": 59.862
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Also, wenn du Probleme hast, ruf einfach nach mir.",
+    "start": 59.923,
+    "end": 64.605,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 59.923,
+        "end": 60.143
+      },
+      {
+        "text": "wenn",
+        "start": 60.203,
+        "end": 60.323
+      },
+      {
+        "text": "du",
+        "start": 60.363,
+        "end": 60.463
+      },
+      {
+        "text": "Probleme",
+        "start": 60.483,
+        "end": 60.883
+      },
+      {
+        "text": "hast,",
+        "start": 60.903,
+        "end": 61.103
+      },
+      {
+        "text": "ruf",
+        "start": 61.143,
+        "end": 61.383
+      },
+      {
+        "text": "einfach",
+        "start": 61.403,
+        "end": 61.703
+      },
+      {
+        "text": "nach",
+        "start": 61.743,
+        "end": 61.923
+      },
+      {
+        "text": "mir.",
+        "start": 61.963,
+        "end": 64.605
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Wenn ich groß bin, kann ich dich vor allem beschützen.",
+    "start": 64.645,
+    "end": 67.466,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 64.645,
+        "end": 64.785
+      },
+      {
+        "text": "ich",
+        "start": 64.805,
+        "end": 64.925
+      },
+      {
+        "text": "groß",
+        "start": 64.945,
+        "end": 65.185
+      },
+      {
+        "text": "bin,",
+        "start": 65.205,
+        "end": 65.365
+      },
+      {
+        "text": "kann",
+        "start": 65.385,
+        "end": 65.525
+      },
+      {
+        "text": "ich",
+        "start": 65.545,
+        "end": 65.645
+      },
+      {
+        "text": "dich",
+        "start": 65.685,
+        "end": 65.825
+      },
+      {
+        "text": "vor",
+        "start": 65.845,
+        "end": 65.965
+      },
+      {
+        "text": "allem",
+        "start": 65.985,
+        "end": 66.226
+      },
+      {
+        "text": "beschützen.",
+        "start": 66.246,
+        "end": 67.466
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Sogar vor hinterhältigen Dämonen.",
+    "start": 67.506,
+    "end": 69.107,
+    "words": [
+      {
+        "text": "Sogar",
+        "start": 67.506,
+        "end": 67.826
+      },
+      {
+        "text": "vor",
+        "start": 67.866,
+        "end": 67.986
+      },
+      {
+        "text": "hinterhältigen",
+        "start": 68.026,
+        "end": 68.627
+      },
+      {
+        "text": "Dämonen.",
+        "start": 68.667,
+        "end": 69.107
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Harry B., ich hab dir ne Kleinigkeit mitgebracht.",
+    "start": 72.053,
+    "end": 75.916,
+    "words": [
+      {
+        "text": "Harry",
+        "start": 72.053,
+        "end": 73.054
+      },
+      {
+        "text": "B.,",
+        "start": 73.074,
+        "end": 73.094
+      },
+      {
+        "text": "ich",
+        "start": 73.114,
+        "end": 73.214
+      },
+      {
+        "text": "hab",
+        "start": 73.234,
+        "end": 73.394
+      },
+      {
+        "text": "dir",
+        "start": 73.414,
+        "end": 73.554
+      },
+      {
+        "text": "ne",
+        "start": 73.574,
+        "end": 73.734
+      },
+      {
+        "text": "Kleinigkeit",
+        "start": 73.754,
+        "end": 74.315
+      },
+      {
+        "text": "mitgebracht.",
+        "start": 74.335,
+        "end": 75.916
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Ich hab ihm nie von der Sache mit meinen Eltern und der Opferung erzählt.",
+    "start": 75.976,
+    "end": 79.499,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 75.976,
+        "end": 76.076
+      },
+      {
+        "text": "hab",
+        "start": 76.096,
+        "end": 76.256
+      },
+      {
+        "text": "ihm",
+        "start": 76.296,
+        "end": 76.476
+      },
+      {
+        "text": "nie",
+        "start": 76.496,
+        "end": 76.697
+      },
+      {
+        "text": "von",
+        "start": 76.717,
+        "end": 76.877
+      },
+      {
+        "text": "der",
+        "start": 76.897,
+        "end": 77.057
+      },
+      {
+        "text": "Sache",
+        "start": 77.097,
+        "end": 77.417
+      },
+      {
+        "text": "mit",
+        "start": 77.437,
+        "end": 77.597
+      },
+      {
+        "text": "meinen",
+        "start": 77.617,
+        "end": 77.857
+      },
+      {
+        "text": "Eltern",
+        "start": 77.897,
+        "end": 78.198
+      },
+      {
+        "text": "und",
+        "start": 78.238,
+        "end": 78.358
+      },
+      {
+        "text": "der",
+        "start": 78.378,
+        "end": 78.458
+      },
+      {
+        "text": "Opferung",
+        "start": 78.498,
+        "end": 78.938
+      },
+      {
+        "text": "erzählt.",
+        "start": 78.998,
+        "end": 79.499
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Er hätte mich sicher gern beschützt und deshalb ist er jetzt hier.",
+    "start": 79.979,
+    "end": 86.584,
+    "words": [
+      {
+        "text": "Er",
+        "start": 79.979,
+        "end": 80.199
+      },
+      {
+        "text": "hätte",
+        "start": 80.219,
+        "end": 81.06
+      },
+      {
+        "text": "mich",
+        "start": 81.08,
+        "end": 81.28
+      },
+      {
+        "text": "sicher",
+        "start": 81.32,
+        "end": 81.62
+      },
+      {
+        "text": "gern",
+        "start": 81.66,
+        "end": 81.88
+      },
+      {
+        "text": "beschützt",
+        "start": 81.9,
+        "end": 82.381
+      },
+      {
+        "text": "und",
+        "start": 82.421,
+        "end": 82.661
+      },
+      {
+        "text": "deshalb",
+        "start": 82.701,
+        "end": 83.001
+      },
+      {
+        "text": "ist",
+        "start": 83.041,
+        "end": 83.161
+      },
+      {
+        "text": "er",
+        "start": 83.201,
+        "end": 83.342
+      },
+      {
+        "text": "jetzt",
+        "start": 83.362,
+        "end": 83.682
+      },
+      {
+        "text": "hier.",
+        "start": 83.722,
+        "end": 86.584
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Dass er in der Klemme steckt, ist allein meine Schuld.",
+    "start": 86.604,
+    "end": 89.186,
+    "words": [
+      {
+        "text": "Dass",
+        "start": 86.604,
+        "end": 86.764
+      },
+      {
+        "text": "er",
+        "start": 86.784,
+        "end": 86.824
+      },
+      {
+        "text": "in",
+        "start": 86.864,
+        "end": 86.924
+      },
+      {
+        "text": "der",
+        "start": 86.944,
+        "end": 87.124
+      },
+      {
+        "text": "Klemme",
+        "start": 87.164,
+        "end": 87.485
+      },
+      {
+        "text": "steckt,",
+        "start": 87.505,
+        "end": 87.725
+      },
+      {
+        "text": "ist",
+        "start": 87.785,
+        "end": 87.945
+      },
+      {
+        "text": "allein",
+        "start": 87.985,
+        "end": 88.305
+      },
+      {
+        "text": "meine",
+        "start": 88.345,
+        "end": 88.565
+      },
+      {
+        "text": "Schuld.",
+        "start": 88.625,
+        "end": 89.186
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Darum wollte ich helfen.",
+    "start": 89.226,
+    "end": 91.328,
+    "words": [
+      {
+        "text": "Darum",
+        "start": 89.226,
+        "end": 89.566
+      },
+      {
+        "text": "wollte",
+        "start": 89.586,
+        "end": 89.806
+      },
+      {
+        "text": "ich",
+        "start": 89.846,
+        "end": 89.987
+      },
+      {
+        "text": "helfen.",
+        "start": 90.027,
+        "end": 91.328
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ich habe das Gefühl, dass bin ich ihm schuldig.",
+    "start": 91.368,
+    "end": 93.669,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 91.368,
+        "end": 91.488
+      },
+      {
+        "text": "habe",
+        "start": 91.548,
+        "end": 91.808
+      },
+      {
+        "text": "das",
+        "start": 91.828,
+        "end": 92.028
+      },
+      {
+        "text": "Gefühl,",
+        "start": 92.048,
+        "end": 92.368
+      },
+      {
+        "text": "dass",
+        "start": 92.408,
+        "end": 92.568
+      },
+      {
+        "text": "bin",
+        "start": 92.588,
+        "end": 92.709
+      },
+      {
+        "text": "ich",
+        "start": 92.749,
+        "end": 92.829
+      },
+      {
+        "text": "ihm",
+        "start": 92.869,
+        "end": 92.989
+      },
+      {
+        "text": "schuldig.",
+        "start": 93.009,
+        "end": 93.669
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Sicher, dass das alles ist?",
+    "start": 93.689,
+    "end": 98.753,
+    "words": [
+      {
+        "text": "Sicher,",
+        "start": 93.689,
+        "end": 94.15
+      },
+      {
+        "text": "dass",
+        "start": 94.17,
+        "end": 94.33
+      },
+      {
+        "text": "das",
+        "start": 94.37,
+        "end": 94.57
+      },
+      {
+        "text": "alles",
+        "start": 94.61,
+        "end": 94.89
+      },
+      {
+        "text": "ist?",
+        "start": 94.93,
+        "end": 98.753
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Was meinst du damit?",
+    "start": 98.813,
+    "end": 99.694,
+    "words": [
+      {
+        "text": "Was",
+        "start": 98.813,
+        "end": 99.013
+      },
+      {
+        "text": "meinst",
+        "start": 99.033,
+        "end": 99.274
+      },
+      {
+        "text": "du",
+        "start": 99.314,
+        "end": 99.434
+      },
+      {
+        "text": "damit?",
+        "start": 99.454,
+        "end": 99.694
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Ach nichts, ich hab nur gefragt.",
+    "start": 103.065,
+    "end": 104.607,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 103.065,
+        "end": 103.166
+      },
+      {
+        "text": "nichts,",
+        "start": 103.186,
+        "end": 103.466
+      },
+      {
+        "text": "ich",
+        "start": 103.486,
+        "end": 103.566
+      },
+      {
+        "text": "hab",
+        "start": 103.586,
+        "end": 103.766
+      },
+      {
+        "text": "nur",
+        "start": 103.786,
+        "end": 103.926
+      },
+      {
+        "text": "gefragt.",
+        "start": 103.946,
+        "end": 104.607
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Jetzt geh schon, ihr habt euch sicher viel zu erzählen.",
+    "start": 104.627,
+    "end": 106.789,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 104.627,
+        "end": 104.847
+      },
+      {
+        "text": "geh",
+        "start": 104.867,
+        "end": 105.047
+      },
+      {
+        "text": "schon,",
+        "start": 105.068,
+        "end": 105.228
+      },
+      {
+        "text": "ihr",
+        "start": 105.288,
+        "end": 105.348
+      },
+      {
+        "text": "habt",
+        "start": 105.368,
+        "end": 105.488
+      },
+      {
+        "text": "euch",
+        "start": 105.508,
+        "end": 105.668
+      },
+      {
+        "text": "sicher",
+        "start": 105.708,
+        "end": 105.988
+      },
+      {
+        "text": "viel",
+        "start": 106.008,
+        "end": 106.189
+      },
+      {
+        "text": "zu",
+        "start": 106.209,
+        "end": 106.329
+      },
+      {
+        "text": "erzählen.",
+        "start": 106.369,
+        "end": 106.789
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Okay.",
+    "start": 108.251,
+    "end": 111.594,
+    "words": [
+      {
+        "text": "Okay.",
+        "start": 108.251,
+        "end": 111.594
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Vielen Dank!",
+    "start": 111.654,
+    "end": 112.675,
+    "words": [
+      {
+        "text": "Vielen",
+        "start": 111.654,
+        "end": 111.995
+      },
+      {
+        "text": "Dank!",
+        "start": 112.035,
+        "end": 112.675
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Bis später!",
+    "start": 112.695,
+    "end": 113.296,
+    "words": [
+      {
+        "text": "Bis",
+        "start": 112.695,
+        "end": 112.896
+      },
+      {
+        "text": "später!",
+        "start": 112.916,
+        "end": 113.296
+      }
+    ]
+  }
+]

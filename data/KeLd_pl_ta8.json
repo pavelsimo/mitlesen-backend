@@ -1,0 +1,1410 @@
+[
+  {
+    "id": 0,
+    "text": " Ich habe eine Bitte.",
+    "start": 0.511,
+    "end": 2.013,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.511,
+        "end": 0.672
+      },
+      {
+        "text": "habe",
+        "start": 0.732,
+        "end": 0.952
+      },
+      {
+        "text": "eine",
+        "start": 0.992,
+        "end": 1.172
+      },
+      {
+        "text": "Bitte.",
+        "start": 1.212,
+        "end": 2.013
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich würde furchtbar gerne die Menschen sehen, die du getroffen hast.",
+    "start": 2.053,
+    "end": 6.616,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.053,
+        "end": 2.173
+      },
+      {
+        "text": "würde",
+        "start": 2.213,
+        "end": 2.493
+      },
+      {
+        "text": "furchtbar",
+        "start": 2.533,
+        "end": 2.993
+      },
+      {
+        "text": "gerne",
+        "start": 3.013,
+        "end": 3.354
+      },
+      {
+        "text": "die",
+        "start": 3.374,
+        "end": 3.494
+      },
+      {
+        "text": "Menschen",
+        "start": 3.534,
+        "end": 3.914
+      },
+      {
+        "text": "sehen,",
+        "start": 3.954,
+        "end": 5.015
+      },
+      {
+        "text": "die",
+        "start": 5.035,
+        "end": 5.135
+      },
+      {
+        "text": "du",
+        "start": 5.175,
+        "end": 5.295
+      },
+      {
+        "text": "getroffen",
+        "start": 5.335,
+        "end": 5.816
+      },
+      {
+        "text": "hast.",
+        "start": 5.876,
+        "end": 6.616
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wieso?",
+    "start": 6.636,
+    "end": 7.917,
+    "words": [
+      {
+        "text": "Wieso?",
+        "start": 6.636,
+        "end": 7.917
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Das ist ein Wunsch einer egoistischen Sterbende.",
+    "start": 7.937,
+    "end": 11.08,
+    "words": [
+      {
+        "text": "Das",
+        "start": 7.937,
+        "end": 8.097
+      },
+      {
+        "text": "ist",
+        "start": 8.137,
+        "end": 8.258
+      },
+      {
+        "text": "ein",
+        "start": 8.318,
+        "end": 8.478
+      },
+      {
+        "text": "Wunsch",
+        "start": 8.518,
+        "end": 8.778
+      },
+      {
+        "text": "einer",
+        "start": 8.818,
+        "end": 9.018
+      },
+      {
+        "text": "egoistischen",
+        "start": 9.058,
+        "end": 9.719
+      },
+      {
+        "text": "Sterbende.",
+        "start": 9.759,
+        "end": 11.08
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wärst du so lieb?",
+    "start": 11.1,
+    "end": 12.201,
+    "words": [
+      {
+        "text": "Wärst",
+        "start": 11.1,
+        "end": 11.28
+      },
+      {
+        "text": "du",
+        "start": 11.32,
+        "end": 11.44
+      },
+      {
+        "text": "so",
+        "start": 11.48,
+        "end": 11.58
+      },
+      {
+        "text": "lieb?",
+        "start": 11.62,
+        "end": 12.201
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ist gut.",
+    "start": 12.261,
+    "end": 13.462,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 12.261,
+        "end": 12.461
+      },
+      {
+        "text": "gut.",
+        "start": 12.481,
+        "end": 13.462
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Bitte erschreckt euch nicht.",
+    "start": 13.482,
+    "end": 16.304,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 13.482,
+        "end": 13.742
+      },
+      {
+        "text": "erschreckt",
+        "start": 13.782,
+        "end": 14.122
+      },
+      {
+        "text": "euch",
+        "start": 14.162,
+        "end": 14.322
+      },
+      {
+        "text": "nicht.",
+        "start": 14.382,
+        "end": 16.304
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Zuallererst traf ich ihn.",
+    "start": 16.324,
+    "end": 19.306,
+    "words": [
+      {
+        "text": "Zuallererst",
+        "start": 16.324,
+        "end": 18.225
+      },
+      {
+        "text": "traf",
+        "start": 18.265,
+        "end": 18.486
+      },
+      {
+        "text": "ich",
+        "start": 18.526,
+        "end": 18.666
+      },
+      {
+        "text": "ihn.",
+        "start": 18.726,
+        "end": 19.306
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Er war noch sehr jung, wie ihr seht.",
+    "start": 19.366,
+    "end": 21.708,
+    "words": [
+      {
+        "text": "Er",
+        "start": 19.366,
+        "end": 19.486
+      },
+      {
+        "text": "war",
+        "start": 19.526,
+        "end": 19.647
+      },
+      {
+        "text": "noch",
+        "start": 19.687,
+        "end": 19.867
+      },
+      {
+        "text": "sehr",
+        "start": 19.887,
+        "end": 20.107
+      },
+      {
+        "text": "jung,",
+        "start": 20.127,
+        "end": 20.327
+      },
+      {
+        "text": "wie",
+        "start": 20.367,
+        "end": 20.487
+      },
+      {
+        "text": "ihr",
+        "start": 20.527,
+        "end": 20.647
+      },
+      {
+        "text": "seht.",
+        "start": 20.687,
+        "end": 21.708
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Seinen Namen kenne ich nicht.",
+    "start": 21.748,
+    "end": 23.349,
+    "words": [
+      {
+        "text": "Seinen",
+        "start": 21.748,
+        "end": 21.948
+      },
+      {
+        "text": "Namen",
+        "start": 21.988,
+        "end": 22.249
+      },
+      {
+        "text": "kenne",
+        "start": 22.289,
+        "end": 22.549
+      },
+      {
+        "text": "ich",
+        "start": 22.609,
+        "end": 22.749
+      },
+      {
+        "text": "nicht.",
+        "start": 22.789,
+        "end": 23.349
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Er ist wortwörtlich entschlafen, weil ich ihm nicht geholfen habe.",
+    "start": 23.389,
+    "end": 26.492,
+    "words": [
+      {
+        "text": "Er",
+        "start": 23.389,
+        "end": 23.45
+      },
+      {
+        "text": "ist",
+        "start": 23.47,
+        "end": 23.63
+      },
+      {
+        "text": "wortwörtlich",
+        "start": 23.67,
+        "end": 24.21
+      },
+      {
+        "text": "entschlafen,",
+        "start": 24.25,
+        "end": 25.251
+      },
+      {
+        "text": "weil",
+        "start": 25.271,
+        "end": 25.431
+      },
+      {
+        "text": "ich",
+        "start": 25.451,
+        "end": 25.551
+      },
+      {
+        "text": "ihm",
+        "start": 25.591,
+        "end": 25.711
+      },
+      {
+        "text": "nicht",
+        "start": 25.751,
+        "end": 25.891
+      },
+      {
+        "text": "geholfen",
+        "start": 25.931,
+        "end": 26.292
+      },
+      {
+        "text": "habe.",
+        "start": 26.332,
+        "end": 26.492
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Als nächstes traf ich das Mädchen Maaj.",
+    "start": 29.097,
+    "end": 30.898,
+    "words": [
+      {
+        "text": "Als",
+        "start": 29.097,
+        "end": 29.197
+      },
+      {
+        "text": "nächstes",
+        "start": 29.217,
+        "end": 29.537
+      },
+      {
+        "text": "traf",
+        "start": 29.577,
+        "end": 29.757
+      },
+      {
+        "text": "ich",
+        "start": 29.777,
+        "end": 29.877
+      },
+      {
+        "text": "das",
+        "start": 29.897,
+        "end": 30.117
+      },
+      {
+        "text": "Mädchen",
+        "start": 30.138,
+        "end": 30.458
+      },
+      {
+        "text": "Maaj.",
+        "start": 30.478,
+        "end": 30.898
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Sie kümmerte sich um mich, als ich noch nichts allein tun konnte.",
+    "start": 31.198,
+    "end": 34.919,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 31.198,
+        "end": 31.338
+      },
+      {
+        "text": "kümmerte",
+        "start": 31.378,
+        "end": 31.818
+      },
+      {
+        "text": "sich",
+        "start": 31.838,
+        "end": 31.958
+      },
+      {
+        "text": "um",
+        "start": 31.978,
+        "end": 32.118
+      },
+      {
+        "text": "mich,",
+        "start": 32.138,
+        "end": 32.298
+      },
+      {
+        "text": "als",
+        "start": 32.338,
+        "end": 32.458
+      },
+      {
+        "text": "ich",
+        "start": 32.518,
+        "end": 32.618
+      },
+      {
+        "text": "noch",
+        "start": 32.638,
+        "end": 32.759
+      },
+      {
+        "text": "nichts",
+        "start": 32.799,
+        "end": 32.999
+      },
+      {
+        "text": "allein",
+        "start": 33.039,
+        "end": 33.299
+      },
+      {
+        "text": "tun",
+        "start": 33.339,
+        "end": 33.539
+      },
+      {
+        "text": "konnte.",
+        "start": 33.579,
+        "end": 34.919
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Haruna hier wollte Maaj um jeden Preis beschützen.",
+    "start": 34.959,
+    "end": 38.001,
+    "words": [
+      {
+        "text": "Haruna",
+        "start": 34.959,
+        "end": 35.44
+      },
+      {
+        "text": "hier",
+        "start": 35.48,
+        "end": 35.62
+      },
+      {
+        "text": "wollte",
+        "start": 35.66,
+        "end": 35.92
+      },
+      {
+        "text": "Maaj",
+        "start": 35.96,
+        "end": 36.24
+      },
+      {
+        "text": "um",
+        "start": 36.26,
+        "end": 36.38
+      },
+      {
+        "text": "jeden",
+        "start": 36.42,
+        "end": 36.6
+      },
+      {
+        "text": "Preis",
+        "start": 36.64,
+        "end": 36.94
+      },
+      {
+        "text": "beschützen.",
+        "start": 36.98,
+        "end": 38.001
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Doch dann wurden die beiden von Hayase getötet.",
+    "start": 38.041,
+    "end": 42.442,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 38.041,
+        "end": 38.221
+      },
+      {
+        "text": "dann",
+        "start": 38.261,
+        "end": 38.461
+      },
+      {
+        "text": "wurden",
+        "start": 38.501,
+        "end": 38.801
+      },
+      {
+        "text": "die",
+        "start": 38.821,
+        "end": 38.921
+      },
+      {
+        "text": "beiden",
+        "start": 38.961,
+        "end": 39.281
+      },
+      {
+        "text": "von",
+        "start": 39.321,
+        "end": 39.481
+      },
+      {
+        "text": "Hayase",
+        "start": 39.521,
+        "end": 40.061
+      },
+      {
+        "text": "getötet.",
+        "start": 40.101,
+        "end": 42.442
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "In Takunaha traf ich Gugu.",
+    "start": 42.502,
+    "end": 44.823,
+    "words": [
+      {
+        "text": "In",
+        "start": 42.502,
+        "end": 42.642
+      },
+      {
+        "text": "Takunaha",
+        "start": 42.702,
+        "end": 43.423
+      },
+      {
+        "text": "traf",
+        "start": 43.443,
+        "end": 43.703
+      },
+      {
+        "text": "ich",
+        "start": 43.743,
+        "end": 43.883
+      },
+      {
+        "text": "Gugu.",
+        "start": 43.923,
+        "end": 44.823
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Er kämpfte für mich gegen die Klopfer.",
+    "start": 44.863,
+    "end": 47.524,
+    "words": [
+      {
+        "text": "Er",
+        "start": 44.863,
+        "end": 44.983
+      },
+      {
+        "text": "kämpfte",
+        "start": 45.023,
+        "end": 45.443
+      },
+      {
+        "text": "für",
+        "start": 45.483,
+        "end": 45.624
+      },
+      {
+        "text": "mich",
+        "start": 45.644,
+        "end": 45.844
+      },
+      {
+        "text": "gegen",
+        "start": 45.884,
+        "end": 46.144
+      },
+      {
+        "text": "die",
+        "start": 46.164,
+        "end": 46.304
+      },
+      {
+        "text": "Klopfer.",
+        "start": 46.344,
+        "end": 47.524
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Doch dadurch... ...nahm ich seinem großen Bruderschen Gugu weg.",
+    "start": 47.564,
+    "end": 51.306,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 47.564,
+        "end": 47.804
+      },
+      {
+        "text": "dadurch...",
+        "start": 47.844,
+        "end": 48.245
+      },
+      {
+        "text": "...nahm",
+        "start": 49.125,
+        "end": 49.285
+      },
+      {
+        "text": "ich",
+        "start": 49.325,
+        "end": 49.465
+      },
+      {
+        "text": "seinem",
+        "start": 49.485,
+        "end": 49.705
+      },
+      {
+        "text": "großen",
+        "start": 49.725,
+        "end": 50.005
+      },
+      {
+        "text": "Bruderschen",
+        "start": 50.025,
+        "end": 50.605
+      },
+      {
+        "text": "Gugu",
+        "start": 50.625,
+        "end": 50.966
+      },
+      {
+        "text": "weg.",
+        "start": 51.006,
+        "end": 51.306
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Das hat mir das Herz gebrochen.",
+    "start": 51.326,
+    "end": 52.526,
+    "words": [
+      {
+        "text": "Das",
+        "start": 51.326,
+        "end": 51.446
+      },
+      {
+        "text": "hat",
+        "start": 51.466,
+        "end": 51.626
+      },
+      {
+        "text": "mir",
+        "start": 51.646,
+        "end": 51.766
+      },
+      {
+        "text": "das",
+        "start": 51.786,
+        "end": 51.926
+      },
+      {
+        "text": "Herz",
+        "start": 51.946,
+        "end": 52.166
+      },
+      {
+        "text": "gebrochen.",
+        "start": 52.186,
+        "end": 52.526
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Gugu hatte noch mehr Familie.",
+    "start": 54.587,
+    "end": 56.668,
+    "words": [
+      {
+        "text": "Gugu",
+        "start": 54.587,
+        "end": 55.527
+      },
+      {
+        "text": "hatte",
+        "start": 55.567,
+        "end": 55.848
+      },
+      {
+        "text": "noch",
+        "start": 55.868,
+        "end": 56.008
+      },
+      {
+        "text": "mehr",
+        "start": 56.048,
+        "end": 56.228
+      },
+      {
+        "text": "Familie.",
+        "start": 56.248,
+        "end": 56.668
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Knaps-Opa.",
+    "start": 57.997,
+    "end": 59.358,
+    "words": [
+      {
+        "text": "Knaps-Opa.",
+        "start": 57.997,
+        "end": 59.358
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Und danach... Lin!",
+    "start": 59.418,
+    "end": 65.2,
+    "words": [
+      {
+        "text": "Und",
+        "start": 59.418,
+        "end": 59.558
+      },
+      {
+        "text": "danach...",
+        "start": 59.618,
+        "end": 60.298
+      },
+      {
+        "text": "Lin!",
+        "start": 60.338,
+        "end": 65.2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Übernimm dich bitte nicht.",
+    "start": 65.24,
+    "end": 67.04,
+    "words": [
+      {
+        "text": "Übernimm",
+        "start": 65.24,
+        "end": 65.68
+      },
+      {
+        "text": "dich",
+        "start": 65.7,
+        "end": 65.86
+      },
+      {
+        "text": "bitte",
+        "start": 65.9,
+        "end": 66.12
+      },
+      {
+        "text": "nicht.",
+        "start": 66.16,
+        "end": 67.04
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Danach verschlug es mich nach Jananda.",
+    "start": 67.101,
+    "end": 70.542,
+    "words": [
+      {
+        "text": "Danach",
+        "start": 67.101,
+        "end": 68.141
+      },
+      {
+        "text": "verschlug",
+        "start": 68.181,
+        "end": 68.481
+      },
+      {
+        "text": "es",
+        "start": 68.521,
+        "end": 68.641
+      },
+      {
+        "text": "mich",
+        "start": 68.681,
+        "end": 68.841
+      },
+      {
+        "text": "nach",
+        "start": 68.881,
+        "end": 69.021
+      },
+      {
+        "text": "Jananda.",
+        "start": 69.061,
+        "end": 70.542
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Als ich dort war, kämpfte ich gegen einen starken Kerl namens Nandu.",
+    "start": 70.602,
+    "end": 74.463,
+    "words": [
+      {
+        "text": "Als",
+        "start": 70.602,
+        "end": 70.762
+      },
+      {
+        "text": "ich",
+        "start": 70.842,
+        "end": 71.002
+      },
+      {
+        "text": "dort",
+        "start": 71.042,
+        "end": 71.262
+      },
+      {
+        "text": "war,",
+        "start": 71.282,
+        "end": 71.742
+      },
+      {
+        "text": "kämpfte",
+        "start": 71.782,
+        "end": 72.042
+      },
+      {
+        "text": "ich",
+        "start": 72.082,
+        "end": 72.182
+      },
+      {
+        "text": "gegen",
+        "start": 72.202,
+        "end": 72.383
+      },
+      {
+        "text": "einen",
+        "start": 72.423,
+        "end": 72.603
+      },
+      {
+        "text": "starken",
+        "start": 72.643,
+        "end": 72.983
+      },
+      {
+        "text": "Kerl",
+        "start": 73.023,
+        "end": 73.223
+      },
+      {
+        "text": "namens",
+        "start": 73.243,
+        "end": 73.503
+      },
+      {
+        "text": "Nandu.",
+        "start": 73.563,
+        "end": 74.463
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Er war ein stolzer Mann, der für seinen kleinen Bruder sein Leben aufs Spiel setzte.",
+    "start": 74.503,
+    "end": 78.125,
+    "words": [
+      {
+        "text": "Er",
+        "start": 74.503,
+        "end": 74.603
+      },
+      {
+        "text": "war",
+        "start": 74.643,
+        "end": 74.783
+      },
+      {
+        "text": "ein",
+        "start": 74.803,
+        "end": 74.964
+      },
+      {
+        "text": "stolzer",
+        "start": 74.984,
+        "end": 75.384
+      },
+      {
+        "text": "Mann,",
+        "start": 75.404,
+        "end": 75.524
+      },
+      {
+        "text": "der",
+        "start": 75.564,
+        "end": 75.664
+      },
+      {
+        "text": "für",
+        "start": 75.704,
+        "end": 75.804
+      },
+      {
+        "text": "seinen",
+        "start": 75.824,
+        "end": 76.004
+      },
+      {
+        "text": "kleinen",
+        "start": 76.044,
+        "end": 76.304
+      },
+      {
+        "text": "Bruder",
+        "start": 76.324,
+        "end": 76.604
+      },
+      {
+        "text": "sein",
+        "start": 76.644,
+        "end": 76.824
+      },
+      {
+        "text": "Leben",
+        "start": 76.864,
+        "end": 77.064
+      },
+      {
+        "text": "aufs",
+        "start": 77.104,
+        "end": 77.244
+      },
+      {
+        "text": "Spiel",
+        "start": 77.264,
+        "end": 77.485
+      },
+      {
+        "text": "setzte.",
+        "start": 77.525,
+        "end": 78.125
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Er hätte alles getan.",
+    "start": 78.185,
+    "end": 80.206,
+    "words": [
+      {
+        "text": "Er",
+        "start": 78.185,
+        "end": 78.305
+      },
+      {
+        "text": "hätte",
+        "start": 78.325,
+        "end": 78.685
+      },
+      {
+        "text": "alles",
+        "start": 78.725,
+        "end": 79.045
+      },
+      {
+        "text": "getan.",
+        "start": 79.085,
+        "end": 80.206
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Aus diesem Grund wollte auch ich die Leute von Jananda retten.",
+    "start": 80.266,
+    "end": 83.707,
+    "words": [
+      {
+        "text": "Aus",
+        "start": 80.266,
+        "end": 80.506
+      },
+      {
+        "text": "diesem",
+        "start": 80.546,
+        "end": 80.906
+      },
+      {
+        "text": "Grund",
+        "start": 80.966,
+        "end": 81.526
+      },
+      {
+        "text": "wollte",
+        "start": 81.566,
+        "end": 81.906
+      },
+      {
+        "text": "auch",
+        "start": 81.946,
+        "end": 82.146
+      },
+      {
+        "text": "ich",
+        "start": 82.186,
+        "end": 82.346
+      },
+      {
+        "text": "die",
+        "start": 82.366,
+        "end": 82.466
+      },
+      {
+        "text": "Leute",
+        "start": 82.486,
+        "end": 82.747
+      },
+      {
+        "text": "von",
+        "start": 82.767,
+        "end": 82.867
+      },
+      {
+        "text": "Jananda",
+        "start": 82.947,
+        "end": 83.447
+      },
+      {
+        "text": "retten.",
+        "start": 83.487,
+        "end": 83.707
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Es gab noch mehr, die sehr tapfer unter Einsatz ihres Lebens kämpften.",
+    "start": 85.507,
+    "end": 89.892,
+    "words": [
+      {
+        "text": "Es",
+        "start": 85.507,
+        "end": 85.567
+      },
+      {
+        "text": "gab",
+        "start": 85.607,
+        "end": 85.788
+      },
+      {
+        "text": "noch",
+        "start": 85.828,
+        "end": 86.008
+      },
+      {
+        "text": "mehr,",
+        "start": 86.048,
+        "end": 86.488
+      },
+      {
+        "text": "die",
+        "start": 86.528,
+        "end": 86.668
+      },
+      {
+        "text": "sehr",
+        "start": 86.708,
+        "end": 86.909
+      },
+      {
+        "text": "tapfer",
+        "start": 86.969,
+        "end": 87.289
+      },
+      {
+        "text": "unter",
+        "start": 87.309,
+        "end": 87.529
+      },
+      {
+        "text": "Einsatz",
+        "start": 87.549,
+        "end": 87.89
+      },
+      {
+        "text": "ihres",
+        "start": 87.93,
+        "end": 88.15
+      },
+      {
+        "text": "Lebens",
+        "start": 88.21,
+        "end": 88.49
+      },
+      {
+        "text": "kämpften.",
+        "start": 88.53,
+        "end": 89.892
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Wie Urui.",
+    "start": 89.912,
+    "end": 91.794,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 89.912,
+        "end": 90.132
+      },
+      {
+        "text": "Urui.",
+        "start": 90.232,
+        "end": 91.794
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Oder Mia.",
+    "start": 91.874,
+    "end": 93.756,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 91.874,
+        "end": 92.154
+      },
+      {
+        "text": "Mia.",
+        "start": 92.194,
+        "end": 93.756
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Und auch Oopa.",
+    "start": 93.816,
+    "end": 94.937,
+    "words": [
+      {
+        "text": "Und",
+        "start": 93.816,
+        "end": 93.996
+      },
+      {
+        "text": "auch",
+        "start": 94.056,
+        "end": 94.196
+      },
+      {
+        "text": "Oopa.",
+        "start": 94.216,
+        "end": 94.937
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Und dann gab's noch Sandal und Tonari.",
+    "start": 94.997,
+    "end": 102.044,
+    "words": [
+      {
+        "text": "Und",
+        "start": 94.997,
+        "end": 95.157
+      },
+      {
+        "text": "dann",
+        "start": 95.177,
+        "end": 95.377
+      },
+      {
+        "text": "gab's",
+        "start": 95.417,
+        "end": 95.718
+      },
+      {
+        "text": "noch",
+        "start": 95.738,
+        "end": 96.699
+      },
+      {
+        "text": "Sandal",
+        "start": 96.739,
+        "end": 97.5
+      },
+      {
+        "text": "und",
+        "start": 97.58,
+        "end": 97.74
+      },
+      {
+        "text": "Tonari.",
+        "start": 97.78,
+        "end": 102.044
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Ich hab mich nicht verwandelt.",
+    "start": 102.104,
+    "end": 103.225,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 102.104,
+        "end": 102.204
+      },
+      {
+        "text": "hab",
+        "start": 102.244,
+        "end": 102.385
+      },
+      {
+        "text": "mich",
+        "start": 102.405,
+        "end": 102.525
+      },
+      {
+        "text": "nicht",
+        "start": 102.545,
+        "end": 102.725
+      },
+      {
+        "text": "verwandelt.",
+        "start": 102.765,
+        "end": 103.225
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Die beiden leben also noch!",
+    "start": 103.246,
+    "end": 107.63,
+    "words": [
+      {
+        "text": "Die",
+        "start": 103.246,
+        "end": 104.567
+      },
+      {
+        "text": "beiden",
+        "start": 104.587,
+        "end": 104.907
+      },
+      {
+        "text": "leben",
+        "start": 104.927,
+        "end": 105.127
+      },
+      {
+        "text": "also",
+        "start": 105.188,
+        "end": 105.448
+      },
+      {
+        "text": "noch!",
+        "start": 105.488,
+        "end": 107.63
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Das freut mich zu hören.",
+    "start": 107.65,
+    "end": 108.571,
+    "words": [
+      {
+        "text": "Das",
+        "start": 107.65,
+        "end": 107.87
+      },
+      {
+        "text": "freut",
+        "start": 107.91,
+        "end": 108.131
+      },
+      {
+        "text": "mich",
+        "start": 108.151,
+        "end": 108.311
+      },
+      {
+        "text": "zu",
+        "start": 108.351,
+        "end": 108.411
+      },
+      {
+        "text": "hören.",
+        "start": 108.431,
+        "end": 108.571
+      }
+    ]
+  }
+]

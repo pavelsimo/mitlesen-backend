@@ -1,0 +1,764 @@
+[
+  {
+    "id": 0,
+    "text": " Das war Typ A. Das ist die grundlegendste Begrüßung.",
+    "start": 6.84,
+    "end": 12.165,
+    "words": [
+      {
+        "text": "Das",
+        "start": 6.84,
+        "end": 8.001
+      },
+      {
+        "text": "war",
+        "start": 8.021,
+        "end": 8.562
+      },
+      {
+        "text": "Typ",
+        "start": 8.822,
+        "end": 9.102
+      },
+      {
+        "text": "A.",
+        "start": 9.182,
+        "end": 9.522
+      },
+      {
+        "text": "Das",
+        "start": 9.563,
+        "end": 9.703
+      },
+      {
+        "text": "ist",
+        "start": 9.743,
+        "end": 9.863
+      },
+      {
+        "text": "die",
+        "start": 9.883,
+        "end": 9.983
+      },
+      {
+        "text": "grundlegendste",
+        "start": 10.023,
+        "end": 10.844
+      },
+      {
+        "text": "Begrüßung.",
+        "start": 10.884,
+        "end": 12.165
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das ist eine heftige Begrüßung.",
+    "start": 12.205,
+    "end": 13.726,
+    "words": [
+      {
+        "text": "Das",
+        "start": 12.205,
+        "end": 12.325
+      },
+      {
+        "text": "ist",
+        "start": 12.365,
+        "end": 12.465
+      },
+      {
+        "text": "eine",
+        "start": 12.505,
+        "end": 12.645
+      },
+      {
+        "text": "heftige",
+        "start": 12.985,
+        "end": 13.326
+      },
+      {
+        "text": "Begrüßung.",
+        "start": 13.366,
+        "end": 13.726
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Das ist Körperkontakt, in dem viel Freundschaft steckt.",
+    "start": 15.747,
+    "end": 18.85,
+    "words": [
+      {
+        "text": "Das",
+        "start": 15.747,
+        "end": 16.188
+      },
+      {
+        "text": "ist",
+        "start": 16.228,
+        "end": 16.328
+      },
+      {
+        "text": "Körperkontakt,",
+        "start": 16.348,
+        "end": 17.009
+      },
+      {
+        "text": "in",
+        "start": 17.049,
+        "end": 17.129
+      },
+      {
+        "text": "dem",
+        "start": 17.149,
+        "end": 17.369
+      },
+      {
+        "text": "viel",
+        "start": 17.609,
+        "end": 17.849
+      },
+      {
+        "text": "Freundschaft",
+        "start": 17.869,
+        "end": 18.31
+      },
+      {
+        "text": "steckt.",
+        "start": 18.37,
+        "end": 18.85
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Jetzt kommt Typ B. Muss das sein?",
+    "start": 18.87,
+    "end": 19.631,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 18.87,
+        "end": 18.99
+      },
+      {
+        "text": "kommt",
+        "start": 19.03,
+        "end": 19.13
+      },
+      {
+        "text": "Typ",
+        "start": 19.15,
+        "end": 19.21
+      },
+      {
+        "text": "B.",
+        "start": 19.23,
+        "end": 19.27
+      },
+      {
+        "text": "Muss",
+        "start": 19.31,
+        "end": 19.43
+      },
+      {
+        "text": "das",
+        "start": 19.47,
+        "end": 19.531
+      },
+      {
+        "text": "sein?",
+        "start": 19.551,
+        "end": 19.631
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ist das dein Ernst?",
+    "start": 19.691,
+    "end": 20.591,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 19.691,
+        "end": 20.031
+      },
+      {
+        "text": "das",
+        "start": 20.051,
+        "end": 20.191
+      },
+      {
+        "text": "dein",
+        "start": 20.231,
+        "end": 20.411
+      },
+      {
+        "text": "Ernst?",
+        "start": 20.451,
+        "end": 20.591
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wir ziehen das durch.",
+    "start": 20.611,
+    "end": 21.612,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 20.611,
+        "end": 20.832
+      },
+      {
+        "text": "ziehen",
+        "start": 20.852,
+        "end": 20.972
+      },
+      {
+        "text": "das",
+        "start": 21.032,
+        "end": 21.452
+      },
+      {
+        "text": "durch.",
+        "start": 21.492,
+        "end": 21.612
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Mann, gibt es denn gar keine normalen Begrüßungen?",
+    "start": 37.565,
+    "end": 39.807,
+    "words": [
+      {
+        "text": "Mann,",
+        "start": 37.565,
+        "end": 37.805
+      },
+      {
+        "text": "gibt",
+        "start": 37.825,
+        "end": 37.946
+      },
+      {
+        "text": "es",
+        "start": 37.986,
+        "end": 38.066
+      },
+      {
+        "text": "denn",
+        "start": 38.086,
+        "end": 38.226
+      },
+      {
+        "text": "gar",
+        "start": 38.246,
+        "end": 38.366
+      },
+      {
+        "text": "keine",
+        "start": 38.406,
+        "end": 38.606
+      },
+      {
+        "text": "normalen",
+        "start": 38.626,
+        "end": 38.966
+      },
+      {
+        "text": "Begrüßungen?",
+        "start": 39.046,
+        "end": 39.807
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Keine Chance, normale Begrüßungen kannst du bei Oberschülerin sowas von vergessen.",
+    "start": 39.827,
+    "end": 43.59,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 39.827,
+        "end": 40.047
+      },
+      {
+        "text": "Chance,",
+        "start": 40.087,
+        "end": 40.308
+      },
+      {
+        "text": "normale",
+        "start": 40.328,
+        "end": 40.648
+      },
+      {
+        "text": "Begrüßungen",
+        "start": 40.668,
+        "end": 41.128
+      },
+      {
+        "text": "kannst",
+        "start": 41.168,
+        "end": 41.328
+      },
+      {
+        "text": "du",
+        "start": 41.348,
+        "end": 41.388
+      },
+      {
+        "text": "bei",
+        "start": 41.408,
+        "end": 41.529
+      },
+      {
+        "text": "Oberschülerin",
+        "start": 41.569,
+        "end": 42.189
+      },
+      {
+        "text": "sowas",
+        "start": 42.229,
+        "end": 42.509
+      },
+      {
+        "text": "von",
+        "start": 42.549,
+        "end": 42.71
+      },
+      {
+        "text": "vergessen.",
+        "start": 42.75,
+        "end": 43.59
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Meinst du das ernst?",
+    "start": 43.61,
+    "end": 44.831,
+    "words": [
+      {
+        "text": "Meinst",
+        "start": 43.61,
+        "end": 43.79
+      },
+      {
+        "text": "du",
+        "start": 43.811,
+        "end": 43.911
+      },
+      {
+        "text": "das",
+        "start": 43.931,
+        "end": 44.131
+      },
+      {
+        "text": "ernst?",
+        "start": 44.311,
+        "end": 44.831
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Okay, hier kommt die letzte.",
+    "start": 44.891,
+    "end": 46.193,
+    "words": [
+      {
+        "text": "Okay,",
+        "start": 44.891,
+        "end": 45.252
+      },
+      {
+        "text": "hier",
+        "start": 45.272,
+        "end": 45.432
+      },
+      {
+        "text": "kommt",
+        "start": 45.472,
+        "end": 45.592
+      },
+      {
+        "text": "die",
+        "start": 45.612,
+        "end": 45.732
+      },
+      {
+        "text": "letzte.",
+        "start": 45.752,
+        "end": 46.193
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Mach dich auf was gefasst.",
+    "start": 46.233,
+    "end": 47.293,
+    "words": [
+      {
+        "text": "Mach",
+        "start": 46.233,
+        "end": 46.393
+      },
+      {
+        "text": "dich",
+        "start": 46.413,
+        "end": 46.513
+      },
+      {
+        "text": "auf",
+        "start": 46.553,
+        "end": 46.653
+      },
+      {
+        "text": "was",
+        "start": 46.693,
+        "end": 46.873
+      },
+      {
+        "text": "gefasst.",
+        "start": 46.913,
+        "end": 47.293
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Die ist nämlich was ganz Besonderes.",
+    "start": 47.313,
+    "end": 48.915,
+    "words": [
+      {
+        "text": "Die",
+        "start": 47.313,
+        "end": 47.574
+      },
+      {
+        "text": "ist",
+        "start": 47.634,
+        "end": 47.754
+      },
+      {
+        "text": "nämlich",
+        "start": 47.794,
+        "end": 48.014
+      },
+      {
+        "text": "was",
+        "start": 48.054,
+        "end": 48.214
+      },
+      {
+        "text": "ganz",
+        "start": 48.234,
+        "end": 48.454
+      },
+      {
+        "text": "Besonderes.",
+        "start": 48.474,
+        "end": 48.915
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "start": 48.935,
+    "end": 59.684,
+    "words": [
+      {
+        "text": "Seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "start": 48.935,
+        "end": 59.684
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Na, wie fühlt sich das an, mein großer Senpai?",
+    "start": 63.483,
+    "end": 66.127,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 63.483,
+        "end": 63.644
+      },
+      {
+        "text": "wie",
+        "start": 63.684,
+        "end": 63.804
+      },
+      {
+        "text": "fühlt",
+        "start": 63.844,
+        "end": 63.964
+      },
+      {
+        "text": "sich",
+        "start": 63.984,
+        "end": 64.104
+      },
+      {
+        "text": "das",
+        "start": 64.144,
+        "end": 64.304
+      },
+      {
+        "text": "an,",
+        "start": 64.345,
+        "end": 64.445
+      },
+      {
+        "text": "mein",
+        "start": 64.505,
+        "end": 64.645
+      },
+      {
+        "text": "großer",
+        "start": 64.665,
+        "end": 64.965
+      },
+      {
+        "text": "Senpai?",
+        "start": 64.985,
+        "end": 66.127
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ähm, du... du... bist... viel zu nah an mir dran.",
+    "start": 66.227,
+    "end": 71.033,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 66.227,
+        "end": 66.828
+      },
+      {
+        "text": "du...",
+        "start": 66.868,
+        "end": 67.669
+      },
+      {
+        "text": "du...",
+        "start": 67.709,
+        "end": 67.829
+      },
+      {
+        "text": "bist...",
+        "start": 67.869,
+        "end": 68.67
+      },
+      {
+        "text": "viel",
+        "start": 68.73,
+        "end": 68.95
+      },
+      {
+        "text": "zu",
+        "start": 68.97,
+        "end": 69.111
+      },
+      {
+        "text": "nah",
+        "start": 69.131,
+        "end": 69.251
+      },
+      {
+        "text": "an",
+        "start": 69.271,
+        "end": 69.491
+      },
+      {
+        "text": "mir",
+        "start": 69.531,
+        "end": 69.691
+      },
+      {
+        "text": "dran.",
+        "start": 69.711,
+        "end": 71.033
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Jaja, daran solltest du dich lieber gewöhnen, denn so machen das Oberschülerinnen.",
+    "start": 71.193,
+    "end": 74.818,
+    "words": [
+      {
+        "text": "Jaja,",
+        "start": 71.193,
+        "end": 71.594
+      },
+      {
+        "text": "daran",
+        "start": 71.614,
+        "end": 71.794
+      },
+      {
+        "text": "solltest",
+        "start": 71.834,
+        "end": 72.115
+      },
+      {
+        "text": "du",
+        "start": 72.135,
+        "end": 72.215
+      },
+      {
+        "text": "dich",
+        "start": 72.235,
+        "end": 72.355
+      },
+      {
+        "text": "lieber",
+        "start": 72.375,
+        "end": 72.595
+      },
+      {
+        "text": "gewöhnen,",
+        "start": 72.635,
+        "end": 72.956
+      },
+      {
+        "text": "denn",
+        "start": 72.976,
+        "end": 73.156
+      },
+      {
+        "text": "so",
+        "start": 73.176,
+        "end": 73.276
+      },
+      {
+        "text": "machen",
+        "start": 73.316,
+        "end": 73.536
+      },
+      {
+        "text": "das",
+        "start": 73.556,
+        "end": 73.697
+      },
+      {
+        "text": "Oberschülerinnen.",
+        "start": 73.757,
+        "end": 74.818
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Als ob, das glaub ich nicht.",
+    "start": 74.878,
+    "end": 77.381,
+    "words": [
+      {
+        "text": "Als",
+        "start": 74.878,
+        "end": 75.058
+      },
+      {
+        "text": "ob,",
+        "start": 75.118,
+        "end": 75.259
+      },
+      {
+        "text": "das",
+        "start": 75.339,
+        "end": 75.499
+      },
+      {
+        "text": "glaub",
+        "start": 75.519,
+        "end": 75.719
+      },
+      {
+        "text": "ich",
+        "start": 75.759,
+        "end": 75.859
+      },
+      {
+        "text": "nicht.",
+        "start": 75.899,
+        "end": 77.381
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "So ein Quatsch.",
+    "start": 77.441,
+    "end": 78.663,
+    "words": [
+      {
+        "text": "So",
+        "start": 77.441,
+        "end": 77.622
+      },
+      {
+        "text": "ein",
+        "start": 77.702,
+        "end": 77.762
+      },
+      {
+        "text": "Quatsch.",
+        "start": 77.782,
+        "end": 78.663
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Die verarscht mich doch total.",
+    "start": 78.703,
+    "end": 80.045,
+    "words": [
+      {
+        "text": "Die",
+        "start": 78.703,
+        "end": 78.863
+      },
+      {
+        "text": "verarscht",
+        "start": 78.883,
+        "end": 79.264
+      },
+      {
+        "text": "mich",
+        "start": 79.284,
+        "end": 79.464
+      },
+      {
+        "text": "doch",
+        "start": 79.504,
+        "end": 79.664
+      },
+      {
+        "text": "total.",
+        "start": 79.684,
+        "end": 80.045
+      }
+    ]
+  }
+]

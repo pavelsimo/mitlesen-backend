@@ -1,0 +1,758 @@
+[
+  {
+    "id": 0,
+    "text": " Ja, hallo?",
+    "start": 0.2,
+    "end": 4.282,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 0.2,
+        "end": 0.34
+      },
+      {
+        "text": "hallo?",
+        "start": 2.581,
+        "end": 4.282
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Akari, bist du da dran?",
+    "start": 4.342,
+    "end": 5.503,
+    "words": [
+      {
+        "text": "Akari,",
+        "start": 4.342,
+        "end": 4.782
+      },
+      {
+        "text": "bist",
+        "start": 4.822,
+        "end": 4.942
+      },
+      {
+        "text": "du",
+        "start": 5.002,
+        "end": 5.102
+      },
+      {
+        "text": "da",
+        "start": 5.122,
+        "end": 5.243
+      },
+      {
+        "text": "dran?",
+        "start": 5.283,
+        "end": 5.503
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Jiro!",
+    "start": 10.965,
+    "end": 13.567,
+    "words": [
+      {
+        "text": "Jiro!",
+        "start": 10.965,
+        "end": 13.567
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Was ist los?",
+    "start": 13.587,
+    "end": 14.447,
+    "words": [
+      {
+        "text": "Was",
+        "start": 13.587,
+        "end": 13.727
+      },
+      {
+        "text": "ist",
+        "start": 13.787,
+        "end": 13.907
+      },
+      {
+        "text": "los?",
+        "start": 13.967,
+        "end": 14.447
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich hätte doch nicht... Wo bist du gerade?",
+    "start": 14.507,
+    "end": 27.534,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.507,
+        "end": 14.667
+      },
+      {
+        "text": "hätte",
+        "start": 14.707,
+        "end": 14.987
+      },
+      {
+        "text": "doch",
+        "start": 15.007,
+        "end": 15.208
+      },
+      {
+        "text": "nicht...",
+        "start": 15.248,
+        "end": 25.633
+      },
+      {
+        "text": "Wo",
+        "start": 25.653,
+        "end": 25.793
+      },
+      {
+        "text": "bist",
+        "start": 25.813,
+        "end": 25.973
+      },
+      {
+        "text": "du",
+        "start": 25.993,
+        "end": 26.073
+      },
+      {
+        "text": "gerade?",
+        "start": 26.093,
+        "end": 27.534
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wo bist du?",
+    "start": 27.554,
+    "end": 28.394,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 27.554,
+        "end": 27.694
+      },
+      {
+        "text": "bist",
+        "start": 27.714,
+        "end": 27.874
+      },
+      {
+        "text": "du?",
+        "start": 27.894,
+        "end": 28.394
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich bin gleich bei dir.",
+    "start": 28.434,
+    "end": 29.615,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 28.434,
+        "end": 28.554
+      },
+      {
+        "text": "bin",
+        "start": 28.594,
+        "end": 29.034
+      },
+      {
+        "text": "gleich",
+        "start": 29.075,
+        "end": 29.295
+      },
+      {
+        "text": "bei",
+        "start": 29.335,
+        "end": 29.455
+      },
+      {
+        "text": "dir.",
+        "start": 29.475,
+        "end": 29.615
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Jiro, es tut mir leid.",
+    "start": 31.132,
+    "end": 36.733,
+    "words": [
+      {
+        "text": "Jiro,",
+        "start": 31.132,
+        "end": 32.632
+      },
+      {
+        "text": "es",
+        "start": 32.692,
+        "end": 32.812
+      },
+      {
+        "text": "tut",
+        "start": 32.852,
+        "end": 33.092
+      },
+      {
+        "text": "mir",
+        "start": 33.112,
+        "end": 33.272
+      },
+      {
+        "text": "leid.",
+        "start": 33.312,
+        "end": 36.733
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Jiro!",
+    "start": 36.993,
+    "end": 38.394,
+    "words": [
+      {
+        "text": "Jiro!",
+        "start": 36.993,
+        "end": 38.394
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Alles wird gut.",
+    "start": 38.434,
+    "end": 39.574,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 38.434,
+        "end": 38.714
+      },
+      {
+        "text": "wird",
+        "start": 38.754,
+        "end": 38.974
+      },
+      {
+        "text": "gut.",
+        "start": 39.014,
+        "end": 39.574
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich beeil mich.",
+    "start": 39.614,
+    "end": 41.354,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 39.614,
+        "end": 39.754
+      },
+      {
+        "text": "beeil",
+        "start": 39.774,
+        "end": 40.074
+      },
+      {
+        "text": "mich.",
+        "start": 40.094,
+        "end": 41.354
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Sag schon, wo bist du?",
+    "start": 41.394,
+    "end": 42.435,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 41.394,
+        "end": 41.574
+      },
+      {
+        "text": "schon,",
+        "start": 41.594,
+        "end": 41.834
+      },
+      {
+        "text": "wo",
+        "start": 41.854,
+        "end": 41.994
+      },
+      {
+        "text": "bist",
+        "start": 42.034,
+        "end": 42.215
+      },
+      {
+        "text": "du?",
+        "start": 42.235,
+        "end": 42.435
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Hä?",
+    "start": 43.295,
+    "end": 43.915,
+    "words": [
+      {
+        "text": "Hä?",
+        "start": 43.295,
+        "end": 43.915
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Warum hat sie aufgelegt?",
+    "start": 43.935,
+    "end": 45.875,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 43.935,
+        "end": 44.155
+      },
+      {
+        "text": "hat",
+        "start": 44.175,
+        "end": 44.315
+      },
+      {
+        "text": "sie",
+        "start": 44.355,
+        "end": 44.475
+      },
+      {
+        "text": "aufgelegt?",
+        "start": 44.515,
+        "end": 45.875
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Hey, jetzt warte mal!",
+    "start": 45.915,
+    "end": 46.936,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 45.915,
+        "end": 46.115
+      },
+      {
+        "text": "jetzt",
+        "start": 46.135,
+        "end": 46.335
+      },
+      {
+        "text": "warte",
+        "start": 46.375,
+        "end": 46.596
+      },
+      {
+        "text": "mal!",
+        "start": 46.656,
+        "end": 46.936
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Gib mir doch ne Sekunde!",
+    "start": 46.956,
+    "end": 51.937,
+    "words": [
+      {
+        "text": "Gib",
+        "start": 46.956,
+        "end": 47.116
+      },
+      {
+        "text": "mir",
+        "start": 47.156,
+        "end": 47.236
+      },
+      {
+        "text": "doch",
+        "start": 47.256,
+        "end": 47.376
+      },
+      {
+        "text": "ne",
+        "start": 47.456,
+        "end": 47.536
+      },
+      {
+        "text": "Sekunde!",
+        "start": 47.576,
+        "end": 51.937
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Geh schon ran!",
+    "start": 51.957,
+    "end": 52.577,
+    "words": [
+      {
+        "text": "Geh",
+        "start": 51.957,
+        "end": 52.137
+      },
+      {
+        "text": "schon",
+        "start": 52.157,
+        "end": 52.357
+      },
+      {
+        "text": "ran!",
+        "start": 52.417,
+        "end": 52.577
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Tut mir leid.",
+    "start": 64.198,
+    "end": 65.118,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 64.198,
+        "end": 64.318
+      },
+      {
+        "text": "mir",
+        "start": 64.478,
+        "end": 64.938
+      },
+      {
+        "text": "leid.",
+        "start": 64.978,
+        "end": 65.118
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ich bin schon nach Hause gegangen.",
+    "start": 65.158,
+    "end": 67.619,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 65.158,
+        "end": 65.299
+      },
+      {
+        "text": "bin",
+        "start": 65.359,
+        "end": 65.979
+      },
+      {
+        "text": "schon",
+        "start": 66.019,
+        "end": 66.199
+      },
+      {
+        "text": "nach",
+        "start": 66.219,
+        "end": 66.339
+      },
+      {
+        "text": "Hause",
+        "start": 66.379,
+        "end": 66.679
+      },
+      {
+        "text": "gegangen.",
+        "start": 66.699,
+        "end": 67.619
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Dabei hast du mir extra mit dem Yukata.",
+    "start": 68.1,
+    "end": 72.001,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 68.1,
+        "end": 69.12
+      },
+      {
+        "text": "hast",
+        "start": 69.2,
+        "end": 69.38
+      },
+      {
+        "text": "du",
+        "start": 69.4,
+        "end": 69.52
+      },
+      {
+        "text": "mir",
+        "start": 69.56,
+        "end": 70.46
+      },
+      {
+        "text": "extra",
+        "start": 70.5,
+        "end": 70.801
+      },
+      {
+        "text": "mit",
+        "start": 70.821,
+        "end": 70.981
+      },
+      {
+        "text": "dem",
+        "start": 71.001,
+        "end": 71.121
+      },
+      {
+        "text": "Yukata.",
+        "start": 71.181,
+        "end": 72.001
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Tut mir leid.",
+    "start": 73.522,
+    "end": 78.283,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 73.522,
+        "end": 73.842
+      },
+      {
+        "text": "mir",
+        "start": 73.862,
+        "end": 74.022
+      },
+      {
+        "text": "leid.",
+        "start": 75.502,
+        "end": 78.283
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Alle haben sich solche Mühe für mich gegeben.",
+    "start": 78.343,
+    "end": 82.925,
+    "words": [
+      {
+        "text": "Alle",
+        "start": 78.343,
+        "end": 78.623
+      },
+      {
+        "text": "haben",
+        "start": 78.663,
+        "end": 79.744
+      },
+      {
+        "text": "sich",
+        "start": 79.764,
+        "end": 79.924
+      },
+      {
+        "text": "solche",
+        "start": 79.944,
+        "end": 80.344
+      },
+      {
+        "text": "Mühe",
+        "start": 80.384,
+        "end": 80.624
+      },
+      {
+        "text": "für",
+        "start": 80.664,
+        "end": 80.784
+      },
+      {
+        "text": "mich",
+        "start": 80.824,
+        "end": 81.004
+      },
+      {
+        "text": "gegeben.",
+        "start": 81.024,
+        "end": 82.925
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Tut mir leid, Mädels.",
+    "start": 82.985,
+    "end": 85.286,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 82.985,
+        "end": 83.205
+      },
+      {
+        "text": "mir",
+        "start": 83.225,
+        "end": 83.365
+      },
+      {
+        "text": "leid,",
+        "start": 83.385,
+        "end": 83.705
+      },
+      {
+        "text": "Mädels.",
+        "start": 83.725,
+        "end": 85.286
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Es tut mir so leid.",
+    "start": 85.366,
+    "end": 88.347,
+    "words": [
+      {
+        "text": "Es",
+        "start": 85.366,
+        "end": 86.867
+      },
+      {
+        "text": "tut",
+        "start": 87.107,
+        "end": 87.307
+      },
+      {
+        "text": "mir",
+        "start": 87.347,
+        "end": 87.527
+      },
+      {
+        "text": "so",
+        "start": 87.547,
+        "end": 87.767
+      },
+      {
+        "text": "leid.",
+        "start": 87.787,
+        "end": 88.347
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Willkommen zurück.",
+    "start": 99.235,
+    "end": 102.498,
+    "words": [
+      {
+        "text": "Willkommen",
+        "start": 99.235,
+        "end": 99.636
+      },
+      {
+        "text": "zurück.",
+        "start": 99.656,
+        "end": 102.498
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Willkommen zurück, Valkyrie.",
+    "start": 102.538,
+    "end": 104.28,
+    "words": [
+      {
+        "text": "Willkommen",
+        "start": 102.538,
+        "end": 103.019
+      },
+      {
+        "text": "zurück,",
+        "start": 103.059,
+        "end": 103.92
+      },
+      {
+        "text": "Valkyrie.",
+        "start": 103.94,
+        "end": 104.28
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ich bin wieder da, Jiro.",
+    "start": 104.34,
+    "end": 106.342,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 104.34,
+        "end": 104.58
+      },
+      {
+        "text": "bin",
+        "start": 104.62,
+        "end": 105.361
+      },
+      {
+        "text": "wieder",
+        "start": 105.481,
+        "end": 105.841
+      },
+      {
+        "text": "da,",
+        "start": 105.881,
+        "end": 106.142
+      },
+      {
+        "text": "Jiro.",
+        "start": 106.182,
+        "end": 106.342
+      }
+    ]
+  }
+]

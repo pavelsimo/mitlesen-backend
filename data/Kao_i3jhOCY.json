@@ -1,0 +1,1594 @@
+[
+  {
+    "id": 0,
+    "text": " Also gut, wo muss ich denn lang zur Aula?",
+    "start": 0.131,
+    "end": 4.793,
+    "words": [
+      {
+        "text": "Also",
+        "start": 0.131,
+        "end": 1.812
+      },
+      {
+        "text": "gut,",
+        "start": 1.852,
+        "end": 3.193
+      },
+      {
+        "text": "wo",
+        "start": 3.213,
+        "end": 3.373
+      },
+      {
+        "text": "muss",
+        "start": 3.393,
+        "end": 3.533
+      },
+      {
+        "text": "ich",
+        "start": 3.593,
+        "end": 3.713
+      },
+      {
+        "text": "denn",
+        "start": 3.733,
+        "end": 3.913
+      },
+      {
+        "text": "lang",
+        "start": 3.933,
+        "end": 4.153
+      },
+      {
+        "text": "zur",
+        "start": 4.173,
+        "end": 4.353
+      },
+      {
+        "text": "Aula?",
+        "start": 4.413,
+        "end": 4.793
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Verzeih mir, Lady.",
+    "start": 4.833,
+    "end": 5.674,
+    "words": [
+      {
+        "text": "Verzeih",
+        "start": 4.833,
+        "end": 5.134
+      },
+      {
+        "text": "mir,",
+        "start": 5.154,
+        "end": 5.354
+      },
+      {
+        "text": "Lady.",
+        "start": 5.394,
+        "end": 5.674
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": " Schon gut.",
+    "start": 13.767,
+    "end": 13.967,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 13.767,
+        "end": 13.867
+      },
+      {
+        "text": "gut.",
+        "start": 13.907,
+        "end": 13.967
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Passt schon.",
+    "start": 13.987,
+    "end": 17.029,
+    "words": [
+      {
+        "text": "Passt",
+        "start": 13.987,
+        "end": 16.009
+      },
+      {
+        "text": "schon.",
+        "start": 16.189,
+        "end": 17.029
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Aber ich bin mir nicht sicher, ob es so eine gute Idee ist, einfach mitten auf dem Weg stehen zu bleiben.",
+    "start": 17.089,
+    "end": 21.152,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 17.089,
+        "end": 17.29
+      },
+      {
+        "text": "ich",
+        "start": 17.33,
+        "end": 17.43
+      },
+      {
+        "text": "bin",
+        "start": 17.45,
+        "end": 17.57
+      },
+      {
+        "text": "mir",
+        "start": 17.59,
+        "end": 17.71
+      },
+      {
+        "text": "nicht",
+        "start": 17.75,
+        "end": 17.93
+      },
+      {
+        "text": "sicher,",
+        "start": 17.95,
+        "end": 18.13
+      },
+      {
+        "text": "ob",
+        "start": 18.15,
+        "end": 18.27
+      },
+      {
+        "text": "es",
+        "start": 18.31,
+        "end": 18.43
+      },
+      {
+        "text": "so",
+        "start": 18.45,
+        "end": 18.591
+      },
+      {
+        "text": "eine",
+        "start": 18.651,
+        "end": 18.791
+      },
+      {
+        "text": "gute",
+        "start": 18.811,
+        "end": 19.051
+      },
+      {
+        "text": "Idee",
+        "start": 19.091,
+        "end": 19.291
+      },
+      {
+        "text": "ist,",
+        "start": 19.311,
+        "end": 19.451
+      },
+      {
+        "text": "einfach",
+        "start": 19.471,
+        "end": 19.731
+      },
+      {
+        "text": "mitten",
+        "start": 19.771,
+        "end": 20.012
+      },
+      {
+        "text": "auf",
+        "start": 20.032,
+        "end": 20.132
+      },
+      {
+        "text": "dem",
+        "start": 20.152,
+        "end": 20.252
+      },
+      {
+        "text": "Weg",
+        "start": 20.292,
+        "end": 20.432
+      },
+      {
+        "text": "stehen",
+        "start": 20.472,
+        "end": 20.772
+      },
+      {
+        "text": "zu",
+        "start": 20.792,
+        "end": 20.872
+      },
+      {
+        "text": "bleiben.",
+        "start": 20.912,
+        "end": 21.152
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Bitte verzeih mir.",
+    "start": 21.172,
+    "end": 22.373,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 21.172,
+        "end": 21.433
+      },
+      {
+        "text": "verzeih",
+        "start": 21.453,
+        "end": 21.913
+      },
+      {
+        "text": "mir.",
+        "start": 21.953,
+        "end": 22.373
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich bin eben erst angekommen.",
+    "start": 22.413,
+    "end": 23.754,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 22.413,
+        "end": 22.493
+      },
+      {
+        "text": "bin",
+        "start": 22.533,
+        "end": 22.674
+      },
+      {
+        "text": "eben",
+        "start": 22.694,
+        "end": 22.834
+      },
+      {
+        "text": "erst",
+        "start": 22.894,
+        "end": 23.074
+      },
+      {
+        "text": "angekommen.",
+        "start": 23.114,
+        "end": 23.754
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Was?",
+    "start": 23.794,
+    "end": 24.375,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 23.794,
+        "end": 24.375
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Aber ich hab gedacht, dass all die neuen Schüler schon seit zwei Tagen hier sind.",
+    "start": 24.435,
+    "end": 27.257,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 24.435,
+        "end": 24.595
+      },
+      {
+        "text": "ich",
+        "start": 24.635,
+        "end": 24.695
+      },
+      {
+        "text": "hab",
+        "start": 24.715,
+        "end": 24.875
+      },
+      {
+        "text": "gedacht,",
+        "start": 24.895,
+        "end": 25.115
+      },
+      {
+        "text": "dass",
+        "start": 25.155,
+        "end": 25.295
+      },
+      {
+        "text": "all",
+        "start": 25.315,
+        "end": 25.416
+      },
+      {
+        "text": "die",
+        "start": 25.436,
+        "end": 25.516
+      },
+      {
+        "text": "neuen",
+        "start": 25.556,
+        "end": 25.716
+      },
+      {
+        "text": "Schüler",
+        "start": 25.756,
+        "end": 25.996
+      },
+      {
+        "text": "schon",
+        "start": 26.036,
+        "end": 26.216
+      },
+      {
+        "text": "seit",
+        "start": 26.236,
+        "end": 26.376
+      },
+      {
+        "text": "zwei",
+        "start": 26.416,
+        "end": 26.556
+      },
+      {
+        "text": "Tagen",
+        "start": 26.576,
+        "end": 26.817
+      },
+      {
+        "text": "hier",
+        "start": 26.857,
+        "end": 27.097
+      },
+      {
+        "text": "sind.",
+        "start": 27.117,
+        "end": 27.257
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ich hab da was gehört.",
+    "start": 28.678,
+    "end": 30.159,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 28.678,
+        "end": 28.798
+      },
+      {
+        "text": "hab",
+        "start": 28.818,
+        "end": 28.978
+      },
+      {
+        "text": "da",
+        "start": 28.998,
+        "end": 29.158
+      },
+      {
+        "text": "was",
+        "start": 29.198,
+        "end": 29.358
+      },
+      {
+        "text": "gehört.",
+        "start": 29.399,
+        "end": 30.159
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Einer von den Neulingen soll erst zur Eintrittszeremonie ankommen.",
+    "start": 30.219,
+    "end": 33.181,
+    "words": [
+      {
+        "text": "Einer",
+        "start": 30.219,
+        "end": 30.459
+      },
+      {
+        "text": "von",
+        "start": 30.479,
+        "end": 30.579
+      },
+      {
+        "text": "den",
+        "start": 30.599,
+        "end": 30.719
+      },
+      {
+        "text": "Neulingen",
+        "start": 30.76,
+        "end": 31.1
+      },
+      {
+        "text": "soll",
+        "start": 31.14,
+        "end": 31.28
+      },
+      {
+        "text": "erst",
+        "start": 31.32,
+        "end": 31.48
+      },
+      {
+        "text": "zur",
+        "start": 31.5,
+        "end": 31.6
+      },
+      {
+        "text": "Eintrittszeremonie",
+        "start": 31.64,
+        "end": 32.521
+      },
+      {
+        "text": "ankommen.",
+        "start": 32.561,
+        "end": 33.181
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Der soll aus keiner Adels- oder Zaubererfamilie sein, sondern aus einer einfachen bürgerlichen.",
+    "start": 33.201,
+    "end": 37.685,
+    "words": [
+      {
+        "text": "Der",
+        "start": 33.201,
+        "end": 33.341
+      },
+      {
+        "text": "soll",
+        "start": 33.361,
+        "end": 33.522
+      },
+      {
+        "text": "aus",
+        "start": 33.562,
+        "end": 33.702
+      },
+      {
+        "text": "keiner",
+        "start": 33.722,
+        "end": 33.922
+      },
+      {
+        "text": "Adels-",
+        "start": 33.962,
+        "end": 34.242
+      },
+      {
+        "text": "oder",
+        "start": 34.262,
+        "end": 34.482
+      },
+      {
+        "text": "Zaubererfamilie",
+        "start": 34.522,
+        "end": 35.363
+      },
+      {
+        "text": "sein,",
+        "start": 35.383,
+        "end": 35.863
+      },
+      {
+        "text": "sondern",
+        "start": 35.883,
+        "end": 36.163
+      },
+      {
+        "text": "aus",
+        "start": 36.183,
+        "end": 36.344
+      },
+      {
+        "text": "einer",
+        "start": 36.384,
+        "end": 36.624
+      },
+      {
+        "text": "einfachen",
+        "start": 36.684,
+        "end": 37.124
+      },
+      {
+        "text": "bürgerlichen.",
+        "start": 37.164,
+        "end": 37.685
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ordinary!",
+    "start": 38.525,
+    "end": 39.106,
+    "words": [
+      {
+        "text": "Ordinary!",
+        "start": 38.525,
+        "end": 39.106
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Ich kann nicht glauben, dass mich ein Ordinary berührt hat.",
+    "start": 42.595,
+    "end": 49.02,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 42.595,
+        "end": 45.978
+      },
+      {
+        "text": "kann",
+        "start": 46.018,
+        "end": 46.158
+      },
+      {
+        "text": "nicht",
+        "start": 46.178,
+        "end": 46.318
+      },
+      {
+        "text": "glauben,",
+        "start": 46.358,
+        "end": 46.638
+      },
+      {
+        "text": "dass",
+        "start": 46.658,
+        "end": 46.838
+      },
+      {
+        "text": "mich",
+        "start": 46.858,
+        "end": 46.978
+      },
+      {
+        "text": "ein",
+        "start": 47.038,
+        "end": 47.158
+      },
+      {
+        "text": "Ordinary",
+        "start": 47.218,
+        "end": 47.799
+      },
+      {
+        "text": "berührt",
+        "start": 47.839,
+        "end": 48.299
+      },
+      {
+        "text": "hat.",
+        "start": 48.319,
+        "end": 49.02
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wanda!",
+    "start": 49.06,
+    "end": 49.58,
+    "words": [
+      {
+        "text": "Wanda!",
+        "start": 49.06,
+        "end": 49.58
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wanda!",
+    "start": 49.62,
+    "end": 50.28,
+    "words": [
+      {
+        "text": "Wanda!",
+        "start": 49.62,
+        "end": 50.28
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Reiß dich zusammen.",
+    "start": 50.34,
+    "end": 51.241,
+    "words": [
+      {
+        "text": "Reiß",
+        "start": 50.34,
+        "end": 50.561
+      },
+      {
+        "text": "dich",
+        "start": 50.601,
+        "end": 50.781
+      },
+      {
+        "text": "zusammen.",
+        "start": 50.801,
+        "end": 51.241
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Alles okay.",
+    "start": 51.301,
+    "end": 52.142,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 51.301,
+        "end": 51.541
+      },
+      {
+        "text": "okay.",
+        "start": 51.601,
+        "end": 52.142
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Mir geht's gut.",
+    "start": 52.182,
+    "end": 53.523,
+    "words": [
+      {
+        "text": "Mir",
+        "start": 52.182,
+        "end": 52.322
+      },
+      {
+        "text": "geht's",
+        "start": 52.342,
+        "end": 53.042
+      },
+      {
+        "text": "gut.",
+        "start": 53.082,
+        "end": 53.523
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du bist also Ray White.",
+    "start": 53.543,
+    "end": 56.485,
+    "words": [
+      {
+        "text": "Du",
+        "start": 53.543,
+        "end": 53.623
+      },
+      {
+        "text": "bist",
+        "start": 53.643,
+        "end": 53.783
+      },
+      {
+        "text": "also",
+        "start": 53.863,
+        "end": 54.103
+      },
+      {
+        "text": "Ray",
+        "start": 54.163,
+        "end": 54.383
+      },
+      {
+        "text": "White.",
+        "start": 54.463,
+        "end": 56.485
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Und du?",
+    "start": 56.565,
+    "end": 57.185,
+    "words": [
+      {
+        "text": "Und",
+        "start": 56.565,
+        "end": 56.785
+      },
+      {
+        "text": "du?",
+        "start": 56.845,
+        "end": 57.185
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Mein Name ist Albert Allium.",
+    "start": 57.205,
+    "end": 59.486,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 57.205,
+        "end": 57.405
+      },
+      {
+        "text": "Name",
+        "start": 57.445,
+        "end": 57.725
+      },
+      {
+        "text": "ist",
+        "start": 57.765,
+        "end": 57.945
+      },
+      {
+        "text": "Albert",
+        "start": 58.005,
+        "end": 58.286
+      },
+      {
+        "text": "Allium.",
+        "start": 58.326,
+        "end": 59.486
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Mein Name ist Ray White.",
+    "start": 59.526,
+    "end": 61.228,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 59.526,
+        "end": 59.687
+      },
+      {
+        "text": "Name",
+        "start": 59.707,
+        "end": 59.907
+      },
+      {
+        "text": "ist",
+        "start": 59.947,
+        "end": 60.027
+      },
+      {
+        "text": "Ray",
+        "start": 60.127,
+        "end": 60.327
+      },
+      {
+        "text": "White.",
+        "start": 60.367,
+        "end": 61.228
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Soll ich dich lieber beim Nachnamen nennen?",
+    "start": 61.268,
+    "end": 62.649,
+    "words": [
+      {
+        "text": "Soll",
+        "start": 61.268,
+        "end": 61.408
+      },
+      {
+        "text": "ich",
+        "start": 61.428,
+        "end": 61.508
+      },
+      {
+        "text": "dich",
+        "start": 61.548,
+        "end": 61.648
+      },
+      {
+        "text": "lieber",
+        "start": 61.668,
+        "end": 61.868
+      },
+      {
+        "text": "beim",
+        "start": 61.908,
+        "end": 62.068
+      },
+      {
+        "text": "Nachnamen",
+        "start": 62.108,
+        "end": 62.448
+      },
+      {
+        "text": "nennen?",
+        "start": 62.488,
+        "end": 62.649
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Sonst dürfen nur adlige Leute diese Schule besuchen.",
+    "start": 63.63,
+    "end": 66.332,
+    "words": [
+      {
+        "text": "Sonst",
+        "start": 63.63,
+        "end": 63.85
+      },
+      {
+        "text": "dürfen",
+        "start": 63.89,
+        "end": 64.15
+      },
+      {
+        "text": "nur",
+        "start": 64.17,
+        "end": 64.31
+      },
+      {
+        "text": "adlige",
+        "start": 64.35,
+        "end": 64.691
+      },
+      {
+        "text": "Leute",
+        "start": 64.731,
+        "end": 64.991
+      },
+      {
+        "text": "diese",
+        "start": 65.011,
+        "end": 65.211
+      },
+      {
+        "text": "Schule",
+        "start": 65.251,
+        "end": 65.531
+      },
+      {
+        "text": "besuchen.",
+        "start": 65.571,
+        "end": 66.332
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Oder im schlimmsten Fall welche, die wenigstens noch von großen Zauberern abstammen.",
+    "start": 66.352,
+    "end": 70.073,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 66.352,
+        "end": 66.512
+      },
+      {
+        "text": "im",
+        "start": 66.532,
+        "end": 66.612
+      },
+      {
+        "text": "schlimmsten",
+        "start": 66.652,
+        "end": 67.092
+      },
+      {
+        "text": "Fall",
+        "start": 67.132,
+        "end": 67.352
+      },
+      {
+        "text": "welche,",
+        "start": 67.372,
+        "end": 67.632
+      },
+      {
+        "text": "die",
+        "start": 67.672,
+        "end": 67.772
+      },
+      {
+        "text": "wenigstens",
+        "start": 67.792,
+        "end": 68.172
+      },
+      {
+        "text": "noch",
+        "start": 68.193,
+        "end": 68.313
+      },
+      {
+        "text": "von",
+        "start": 68.353,
+        "end": 68.493
+      },
+      {
+        "text": "großen",
+        "start": 68.513,
+        "end": 68.793
+      },
+      {
+        "text": "Zauberern",
+        "start": 68.833,
+        "end": 69.273
+      },
+      {
+        "text": "abstammen.",
+        "start": 69.313,
+        "end": 70.073
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Das liegt daran, dass unsere Zauberakademie uralte und ehrenvolle Ursprünge als Schule für Adlige hat.",
+    "start": 70.114,
+    "end": 75.516,
+    "words": [
+      {
+        "text": "Das",
+        "start": 70.114,
+        "end": 70.274
+      },
+      {
+        "text": "liegt",
+        "start": 70.314,
+        "end": 70.514
+      },
+      {
+        "text": "daran,",
+        "start": 70.534,
+        "end": 70.814
+      },
+      {
+        "text": "dass",
+        "start": 70.834,
+        "end": 71.054
+      },
+      {
+        "text": "unsere",
+        "start": 71.094,
+        "end": 71.354
+      },
+      {
+        "text": "Zauberakademie",
+        "start": 71.394,
+        "end": 72.455
+      },
+      {
+        "text": "uralte",
+        "start": 72.495,
+        "end": 73.015
+      },
+      {
+        "text": "und",
+        "start": 73.035,
+        "end": 73.215
+      },
+      {
+        "text": "ehrenvolle",
+        "start": 73.235,
+        "end": 73.755
+      },
+      {
+        "text": "Ursprünge",
+        "start": 73.815,
+        "end": 74.296
+      },
+      {
+        "text": "als",
+        "start": 74.336,
+        "end": 74.476
+      },
+      {
+        "text": "Schule",
+        "start": 74.496,
+        "end": 74.796
+      },
+      {
+        "text": "für",
+        "start": 74.816,
+        "end": 74.936
+      },
+      {
+        "text": "Adlige",
+        "start": 74.976,
+        "end": 75.296
+      },
+      {
+        "text": "hat.",
+        "start": 75.336,
+        "end": 75.516
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Aha, auf seine Worte erspricht nämlich die Wahrheit.",
+    "start": 75.656,
+    "end": 78.238,
+    "words": [
+      {
+        "text": "Aha,",
+        "start": 75.656,
+        "end": 76.117
+      },
+      {
+        "text": "auf",
+        "start": 76.157,
+        "end": 76.317
+      },
+      {
+        "text": "seine",
+        "start": 76.357,
+        "end": 76.557
+      },
+      {
+        "text": "Worte",
+        "start": 76.577,
+        "end": 76.757
+      },
+      {
+        "text": "erspricht",
+        "start": 76.797,
+        "end": 77.137
+      },
+      {
+        "text": "nämlich",
+        "start": 77.157,
+        "end": 77.457
+      },
+      {
+        "text": "die",
+        "start": 77.497,
+        "end": 77.557
+      },
+      {
+        "text": "Wahrheit.",
+        "start": 77.577,
+        "end": 78.238
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ich weiß nicht, welche Fäden du gezogen hast, um herzukommen, aber diese Schule hier ist sicherlich kein Platz für einen einfachen Ordinary, wie du es bist.",
+    "start": 78.278,
+    "end": 84.581,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 78.278,
+        "end": 78.378
+      },
+      {
+        "text": "weiß",
+        "start": 78.418,
+        "end": 78.618
+      },
+      {
+        "text": "nicht,",
+        "start": 78.638,
+        "end": 78.778
+      },
+      {
+        "text": "welche",
+        "start": 78.818,
+        "end": 79.058
+      },
+      {
+        "text": "Fäden",
+        "start": 79.098,
+        "end": 79.278
+      },
+      {
+        "text": "du",
+        "start": 79.298,
+        "end": 79.438
+      },
+      {
+        "text": "gezogen",
+        "start": 79.458,
+        "end": 79.819
+      },
+      {
+        "text": "hast,",
+        "start": 79.839,
+        "end": 79.999
+      },
+      {
+        "text": "um",
+        "start": 80.059,
+        "end": 80.179
+      },
+      {
+        "text": "herzukommen,",
+        "start": 80.199,
+        "end": 80.799
+      },
+      {
+        "text": "aber",
+        "start": 80.839,
+        "end": 81.039
+      },
+      {
+        "text": "diese",
+        "start": 81.079,
+        "end": 81.279
+      },
+      {
+        "text": "Schule",
+        "start": 81.319,
+        "end": 81.58
+      },
+      {
+        "text": "hier",
+        "start": 81.62,
+        "end": 81.72
+      },
+      {
+        "text": "ist",
+        "start": 81.76,
+        "end": 81.94
+      },
+      {
+        "text": "sicherlich",
+        "start": 81.96,
+        "end": 82.36
+      },
+      {
+        "text": "kein",
+        "start": 82.38,
+        "end": 82.56
+      },
+      {
+        "text": "Platz",
+        "start": 82.58,
+        "end": 82.8
+      },
+      {
+        "text": "für",
+        "start": 82.82,
+        "end": 82.92
+      },
+      {
+        "text": "einen",
+        "start": 82.96,
+        "end": 83.12
+      },
+      {
+        "text": "einfachen",
+        "start": 83.14,
+        "end": 83.541
+      },
+      {
+        "text": "Ordinary,",
+        "start": 83.581,
+        "end": 83.961
+      },
+      {
+        "text": "wie",
+        "start": 84.001,
+        "end": 84.121
+      },
+      {
+        "text": "du",
+        "start": 84.161,
+        "end": 84.221
+      },
+      {
+        "text": "es",
+        "start": 84.261,
+        "end": 84.381
+      },
+      {
+        "text": "bist.",
+        "start": 84.401,
+        "end": 84.581
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Na los, Albert, zeig's ihm!",
+    "start": 84.621,
+    "end": 86.042,
+    "words": [
+      {
+        "text": "Na",
+        "start": 84.621,
+        "end": 84.781
+      },
+      {
+        "text": "los,",
+        "start": 84.821,
+        "end": 85.061
+      },
+      {
+        "text": "Albert,",
+        "start": 85.121,
+        "end": 85.582
+      },
+      {
+        "text": "zeig's",
+        "start": 85.602,
+        "end": 85.842
+      },
+      {
+        "text": "ihm!",
+        "start": 85.922,
+        "end": 86.042
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": " Wie bedauerlich.",
+    "start": 86.482,
+    "end": 87.783,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 86.482,
+        "end": 86.602
+      },
+      {
+        "text": "bedauerlich.",
+        "start": 86.702,
+        "end": 87.783
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Dabei gibt es so viele Dinge, die ich an dieser Akademie lernen möchte.",
+    "start": 87.803,
+    "end": 91.245,
+    "words": [
+      {
+        "text": "Dabei",
+        "start": 87.803,
+        "end": 88.043
+      },
+      {
+        "text": "gibt",
+        "start": 88.063,
+        "end": 88.203
+      },
+      {
+        "text": "es",
+        "start": 88.243,
+        "end": 88.363
+      },
+      {
+        "text": "so",
+        "start": 88.383,
+        "end": 88.503
+      },
+      {
+        "text": "viele",
+        "start": 88.543,
+        "end": 88.783
+      },
+      {
+        "text": "Dinge,",
+        "start": 88.823,
+        "end": 89.024
+      },
+      {
+        "text": "die",
+        "start": 89.064,
+        "end": 89.124
+      },
+      {
+        "text": "ich",
+        "start": 89.164,
+        "end": 89.264
+      },
+      {
+        "text": "an",
+        "start": 89.304,
+        "end": 89.404
+      },
+      {
+        "text": "dieser",
+        "start": 89.424,
+        "end": 89.624
+      },
+      {
+        "text": "Akademie",
+        "start": 89.684,
+        "end": 90.104
+      },
+      {
+        "text": "lernen",
+        "start": 90.144,
+        "end": 90.404
+      },
+      {
+        "text": "möchte.",
+        "start": 90.424,
+        "end": 91.245
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Wie kannst du es wagen?",
+    "start": 91.265,
+    "end": 92.425,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 91.265,
+        "end": 91.545
+      },
+      {
+        "text": "kannst",
+        "start": 91.565,
+        "end": 91.805
+      },
+      {
+        "text": "du",
+        "start": 91.825,
+        "end": 91.925
+      },
+      {
+        "text": "es",
+        "start": 91.945,
+        "end": 92.085
+      },
+      {
+        "text": "wagen?",
+        "start": 92.125,
+        "end": 92.425
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Du bist für mich nur wertloser Abschaum!",
+    "start": 94.747,
+    "end": 96.788,
+    "words": [
+      {
+        "text": "Du",
+        "start": 94.747,
+        "end": 94.907
+      },
+      {
+        "text": "bist",
+        "start": 94.947,
+        "end": 95.147
+      },
+      {
+        "text": "für",
+        "start": 95.187,
+        "end": 95.307
+      },
+      {
+        "text": "mich",
+        "start": 95.347,
+        "end": 95.487
+      },
+      {
+        "text": "nur",
+        "start": 95.527,
+        "end": 95.727
+      },
+      {
+        "text": "wertloser",
+        "start": 95.747,
+        "end": 96.328
+      },
+      {
+        "text": "Abschaum!",
+        "start": 96.368,
+        "end": 96.788
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Hör damit auf!",
+    "start": 96.828,
+    "end": 98.789,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 96.828,
+        "end": 96.968
+      },
+      {
+        "text": "damit",
+        "start": 97.008,
+        "end": 97.348
+      },
+      {
+        "text": "auf!",
+        "start": 97.448,
+        "end": 98.789
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Wow, das ist doch... Von den drei großen Familien!",
+    "start": 99.73,
+    "end": 108.114,
+    "words": [
+      {
+        "text": "Wow,",
+        "start": 99.73,
+        "end": 104.172
+      },
+      {
+        "text": "das",
+        "start": 104.392,
+        "end": 104.612
+      },
+      {
+        "text": "ist",
+        "start": 104.672,
+        "end": 104.792
+      },
+      {
+        "text": "doch...",
+        "start": 104.853,
+        "end": 105.073
+      },
+      {
+        "text": "Von",
+        "start": 105.093,
+        "end": 106.253
+      },
+      {
+        "text": "den",
+        "start": 106.273,
+        "end": 106.493
+      },
+      {
+        "text": "drei",
+        "start": 106.513,
+        "end": 106.674
+      },
+      {
+        "text": "großen",
+        "start": 106.694,
+        "end": 107.094
+      },
+      {
+        "text": "Familien!",
+        "start": 107.114,
+        "end": 108.114
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Herbert, hör auf sie!",
+    "start": 108.294,
+    "end": 110.756,
+    "words": [
+      {
+        "text": "Herbert,",
+        "start": 108.294,
+        "end": 108.995
+      },
+      {
+        "text": "hör",
+        "start": 109.055,
+        "end": 109.255
+      },
+      {
+        "text": "auf",
+        "start": 109.315,
+        "end": 109.555
+      },
+      {
+        "text": "sie!",
+        "start": 109.595,
+        "end": 110.756
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Fräulein Rose!",
+    "start": 110.776,
+    "end": 113.237,
+    "words": [
+      {
+        "text": "Fräulein",
+        "start": 110.776,
+        "end": 111.196
+      },
+      {
+        "text": "Rose!",
+        "start": 111.276,
+        "end": 113.237
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Was für ein Anblick!",
+    "start": 113.257,
+    "end": 114.378,
+    "words": [
+      {
+        "text": "Was",
+        "start": 113.257,
+        "end": 113.437
+      },
+      {
+        "text": "für",
+        "start": 113.477,
+        "end": 113.597
+      },
+      {
+        "text": "ein",
+        "start": 113.657,
+        "end": 113.878
+      },
+      {
+        "text": "Anblick!",
+        "start": 113.938,
+        "end": 114.378
+      }
+    ]
+  }
+]

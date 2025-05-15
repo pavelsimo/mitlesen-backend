@@ -1,0 +1,620 @@
+[
+  {
+    "id": 0,
+    "text": " Sieh dir das an.",
+    "start": 3.839,
+    "end": 5.139,
+    "words": [
+      {
+        "text": "Sieh",
+        "start": 3.839,
+        "end": 3.999
+      },
+      {
+        "text": "dir",
+        "start": 4.039,
+        "end": 4.199
+      },
+      {
+        "text": "das",
+        "start": 4.239,
+        "end": 4.419
+      },
+      {
+        "text": "an.",
+        "start": 4.479,
+        "end": 5.139
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was ist denn mit den schönen Kürbissen passiert?",
+    "start": 5.179,
+    "end": 8.34,
+    "words": [
+      {
+        "text": "Was",
+        "start": 5.179,
+        "end": 5.319
+      },
+      {
+        "text": "ist",
+        "start": 5.359,
+        "end": 5.46
+      },
+      {
+        "text": "denn",
+        "start": 5.48,
+        "end": 5.62
+      },
+      {
+        "text": "mit",
+        "start": 5.64,
+        "end": 5.76
+      },
+      {
+        "text": "den",
+        "start": 5.78,
+        "end": 5.9
+      },
+      {
+        "text": "schönen",
+        "start": 5.94,
+        "end": 6.3
+      },
+      {
+        "text": "Kürbissen",
+        "start": 6.32,
+        "end": 6.78
+      },
+      {
+        "text": "passiert?",
+        "start": 6.8,
+        "end": 8.34
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich schätze, die kann ich so wohl nicht mehr verkaufen.",
+    "start": 8.38,
+    "end": 10.341,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 8.38,
+        "end": 8.48
+      },
+      {
+        "text": "schätze,",
+        "start": 8.5,
+        "end": 8.801
+      },
+      {
+        "text": "die",
+        "start": 8.841,
+        "end": 8.961
+      },
+      {
+        "text": "kann",
+        "start": 9.001,
+        "end": 9.121
+      },
+      {
+        "text": "ich",
+        "start": 9.141,
+        "end": 9.221
+      },
+      {
+        "text": "so",
+        "start": 9.241,
+        "end": 9.381
+      },
+      {
+        "text": "wohl",
+        "start": 9.421,
+        "end": 9.561
+      },
+      {
+        "text": "nicht",
+        "start": 9.581,
+        "end": 9.721
+      },
+      {
+        "text": "mehr",
+        "start": 9.741,
+        "end": 9.901
+      },
+      {
+        "text": "verkaufen.",
+        "start": 9.941,
+        "end": 10.341
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wir sind hier!",
+    "start": 11.461,
+    "end": 21.344,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 11.461,
+        "end": 12.782
+      },
+      {
+        "text": "sind",
+        "start": 12.822,
+        "end": 13.082
+      },
+      {
+        "text": "hier!",
+        "start": 13.142,
+        "end": 21.344
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Was zum... Aber wir sind doch außerhalb des Dungeons!",
+    "start": 21.764,
+    "end": 24.825,
+    "words": [
+      {
+        "text": "Was",
+        "start": 21.764,
+        "end": 22.104
+      },
+      {
+        "text": "zum...",
+        "start": 22.144,
+        "end": 22.665
+      },
+      {
+        "text": "Aber",
+        "start": 22.725,
+        "end": 22.925
+      },
+      {
+        "text": "wir",
+        "start": 22.945,
+        "end": 23.045
+      },
+      {
+        "text": "sind",
+        "start": 23.065,
+        "end": 23.205
+      },
+      {
+        "text": "doch",
+        "start": 23.225,
+        "end": 23.345
+      },
+      {
+        "text": "außerhalb",
+        "start": 23.385,
+        "end": 23.745
+      },
+      {
+        "text": "des",
+        "start": 23.785,
+        "end": 23.905
+      },
+      {
+        "text": "Dungeons!",
+        "start": 23.925,
+        "end": 24.825
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Es ergibt alles Sinn.",
+    "start": 24.885,
+    "end": 26.046,
+    "words": [
+      {
+        "text": "Es",
+        "start": 24.885,
+        "end": 25.025
+      },
+      {
+        "text": "ergibt",
+        "start": 25.085,
+        "end": 25.425
+      },
+      {
+        "text": "alles",
+        "start": 25.445,
+        "end": 25.745
+      },
+      {
+        "text": "Sinn.",
+        "start": 25.785,
+        "end": 26.046
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich verstehe, was meine Bestimmung in diesem Leben ist.",
+    "start": 26.106,
+    "end": 28.746,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 26.106,
+        "end": 26.266
+      },
+      {
+        "text": "verstehe,",
+        "start": 26.306,
+        "end": 26.646
+      },
+      {
+        "text": "was",
+        "start": 26.686,
+        "end": 26.806
+      },
+      {
+        "text": "meine",
+        "start": 26.826,
+        "end": 27.126
+      },
+      {
+        "text": "Bestimmung",
+        "start": 27.166,
+        "end": 27.586
+      },
+      {
+        "text": "in",
+        "start": 27.626,
+        "end": 27.726
+      },
+      {
+        "text": "diesem",
+        "start": 27.746,
+        "end": 27.946
+      },
+      {
+        "text": "Leben",
+        "start": 27.966,
+        "end": 28.226
+      },
+      {
+        "text": "ist.",
+        "start": 28.286,
+        "end": 28.746
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Was schwafelst du da für ein wirres Zeug?",
+    "start": 28.786,
+    "end": 30.687,
+    "words": [
+      {
+        "text": "Was",
+        "start": 28.786,
+        "end": 28.966
+      },
+      {
+        "text": "schwafelst",
+        "start": 29.006,
+        "end": 29.487
+      },
+      {
+        "text": "du",
+        "start": 29.507,
+        "end": 29.647
+      },
+      {
+        "text": "da",
+        "start": 29.667,
+        "end": 29.787
+      },
+      {
+        "text": "für",
+        "start": 29.807,
+        "end": 29.887
+      },
+      {
+        "text": "ein",
+        "start": 29.927,
+        "end": 30.027
+      },
+      {
+        "text": "wirres",
+        "start": 30.047,
+        "end": 30.407
+      },
+      {
+        "text": "Zeug?",
+        "start": 30.447,
+        "end": 30.687
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Ich tue es ja!",
+    "start": 39.952,
+    "end": 50.354,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 39.952,
+        "end": 43.593
+      },
+      {
+        "text": "tue",
+        "start": 43.613,
+        "end": 49.194
+      },
+      {
+        "text": "es",
+        "start": 49.254,
+        "end": 49.854
+      },
+      {
+        "text": "ja!",
+        "start": 49.894,
+        "end": 50.354
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ich erledige alle Krakalas live today!",
+    "start": 50.414,
+    "end": 57.096,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 50.414,
+        "end": 50.534
+      },
+      {
+        "text": "erledige",
+        "start": 50.594,
+        "end": 51.134
+      },
+      {
+        "text": "alle",
+        "start": 51.174,
+        "end": 51.334
+      },
+      {
+        "text": "Krakalas",
+        "start": 51.374,
+        "end": 51.875
+      },
+      {
+        "text": "live",
+        "start": 51.915,
+        "end": 52.455
+      },
+      {
+        "text": "today!",
+        "start": 53.035,
+        "end": 57.096
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Zieh mir zurück!",
+    "start": 57.396,
+    "end": 59.316,
+    "words": [
+      {
+        "text": "Zieh",
+        "start": 57.396,
+        "end": 57.916
+      },
+      {
+        "text": "mir",
+        "start": 57.956,
+        "end": 58.136
+      },
+      {
+        "text": "zurück!",
+        "start": 58.176,
+        "end": 59.316
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich will meine Emily sofort zurück haben!",
+    "start": 59.376,
+    "end": 66.778,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 59.376,
+        "end": 59.456
+      },
+      {
+        "text": "will",
+        "start": 59.496,
+        "end": 59.676
+      },
+      {
+        "text": "meine",
+        "start": 59.696,
+        "end": 59.996
+      },
+      {
+        "text": "Emily",
+        "start": 60.036,
+        "end": 60.396
+      },
+      {
+        "text": "sofort",
+        "start": 60.436,
+        "end": 60.876
+      },
+      {
+        "text": "zurück",
+        "start": 60.896,
+        "end": 61.456
+      },
+      {
+        "text": "haben!",
+        "start": 61.496,
+        "end": 66.778
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Fertig.",
+    "start": 66.838,
+    "end": 67.698,
+    "words": [
+      {
+        "text": "Fertig.",
+        "start": 66.838,
+        "end": 67.698
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich habe alle erledigt.",
+    "start": 67.738,
+    "end": 68.698,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 67.738,
+        "end": 67.838
+      },
+      {
+        "text": "habe",
+        "start": 67.858,
+        "end": 68.018
+      },
+      {
+        "text": "alle",
+        "start": 68.078,
+        "end": 68.278
+      },
+      {
+        "text": "erledigt.",
+        "start": 68.318,
+        "end": 68.698
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Bitte verzeih mir, Yoda.",
+    "start": 69.486,
+    "end": 71.191,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 69.486,
+        "end": 69.646
+      },
+      {
+        "text": "verzeih",
+        "start": 69.686,
+        "end": 70.007
+      },
+      {
+        "text": "mir,",
+        "start": 70.028,
+        "end": 70.148
+      },
+      {
+        "text": "Yoda.",
+        "start": 70.188,
+        "end": 71.191
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Aber wenn ich diese Dinger sehe, verliere ich sofort die Kontrolle über meinen Körper.",
+    "start": 71.231,
+    "end": 74.962,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 71.231,
+        "end": 71.452
+      },
+      {
+        "text": "wenn",
+        "start": 71.492,
+        "end": 71.632
+      },
+      {
+        "text": "ich",
+        "start": 71.672,
+        "end": 71.813
+      },
+      {
+        "text": "diese",
+        "start": 71.853,
+        "end": 72.074
+      },
+      {
+        "text": "Dinger",
+        "start": 72.114,
+        "end": 72.395
+      },
+      {
+        "text": "sehe,",
+        "start": 72.435,
+        "end": 72.695
+      },
+      {
+        "text": "verliere",
+        "start": 72.736,
+        "end": 73.057
+      },
+      {
+        "text": "ich",
+        "start": 73.097,
+        "end": 73.197
+      },
+      {
+        "text": "sofort",
+        "start": 73.217,
+        "end": 73.538
+      },
+      {
+        "text": "die",
+        "start": 73.558,
+        "end": 73.698
+      },
+      {
+        "text": "Kontrolle",
+        "start": 73.718,
+        "end": 74.16
+      },
+      {
+        "text": "über",
+        "start": 74.2,
+        "end": 74.36
+      },
+      {
+        "text": "meinen",
+        "start": 74.4,
+        "end": 74.621
+      },
+      {
+        "text": "Körper.",
+        "start": 74.681,
+        "end": 74.962
+      }
+    ]
+  }
+]

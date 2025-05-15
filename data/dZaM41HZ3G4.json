@@ -1,0 +1,485 @@
+[
+  {
+    "id": 0,
+    "text": " Wow, Wahnsinn!",
+    "start": 0.233,
+    "end": 8.421,
+    "words": [
+      {
+        "text": "Wow,",
+        "start": 0.233,
+        "end": 7.921
+      },
+      {
+        "text": "Wahnsinn!",
+        "start": 7.961,
+        "end": 8.421
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was für ein prächtiger Rettich!",
+    "start": 8.441,
+    "end": 10.163,
+    "words": [
+      {
+        "text": "Was",
+        "start": 8.441,
+        "end": 8.602
+      },
+      {
+        "text": "für",
+        "start": 8.642,
+        "end": 8.782
+      },
+      {
+        "text": "ein",
+        "start": 8.802,
+        "end": 8.962
+      },
+      {
+        "text": "prächtiger",
+        "start": 8.982,
+        "end": 9.583
+      },
+      {
+        "text": "Rettich!",
+        "start": 9.623,
+        "end": 10.163
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Er hat einfach die perfekte Form.",
+    "start": 10.203,
+    "end": 12.906,
+    "words": [
+      {
+        "text": "Er",
+        "start": 10.203,
+        "end": 10.283
+      },
+      {
+        "text": "hat",
+        "start": 10.303,
+        "end": 10.463
+      },
+      {
+        "text": "einfach",
+        "start": 10.483,
+        "end": 10.764
+      },
+      {
+        "text": "die",
+        "start": 10.804,
+        "end": 10.924
+      },
+      {
+        "text": "perfekte",
+        "start": 10.944,
+        "end": 11.585
+      },
+      {
+        "text": "Form.",
+        "start": 11.625,
+        "end": 12.906
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Von nun an heißt du Catherine.",
+    "start": 12.926,
+    "end": 15.288,
+    "words": [
+      {
+        "text": "Von",
+        "start": 12.926,
+        "end": 13.186
+      },
+      {
+        "text": "nun",
+        "start": 13.226,
+        "end": 13.446
+      },
+      {
+        "text": "an",
+        "start": 13.487,
+        "end": 13.627
+      },
+      {
+        "text": "heißt",
+        "start": 13.667,
+        "end": 13.867
+      },
+      {
+        "text": "du",
+        "start": 13.887,
+        "end": 14.067
+      },
+      {
+        "text": "Catherine.",
+        "start": 14.107,
+        "end": 15.288
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Dann wollen wir dich mal schön hübsch machen.",
+    "start": 15.308,
+    "end": 17.31,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 15.308,
+        "end": 15.529
+      },
+      {
+        "text": "wollen",
+        "start": 15.569,
+        "end": 15.769
+      },
+      {
+        "text": "wir",
+        "start": 15.809,
+        "end": 15.949
+      },
+      {
+        "text": "dich",
+        "start": 15.969,
+        "end": 16.089
+      },
+      {
+        "text": "mal",
+        "start": 16.149,
+        "end": 16.269
+      },
+      {
+        "text": "schön",
+        "start": 16.309,
+        "end": 16.61
+      },
+      {
+        "text": "hübsch",
+        "start": 16.65,
+        "end": 16.99
+      },
+      {
+        "text": "machen.",
+        "start": 17.05,
+        "end": 17.31
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Tokka, was treibst du da?",
+    "start": 21.475,
+    "end": 22.996,
+    "words": [
+      {
+        "text": "Tokka,",
+        "start": 21.475,
+        "end": 22.275
+      },
+      {
+        "text": "was",
+        "start": 22.296,
+        "end": 22.436
+      },
+      {
+        "text": "treibst",
+        "start": 22.476,
+        "end": 22.776
+      },
+      {
+        "text": "du",
+        "start": 22.816,
+        "end": 22.916
+      },
+      {
+        "text": "da?",
+        "start": 22.936,
+        "end": 22.996
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " J-Juna?",
+    "start": 26.457,
+    "end": 28.339,
+    "words": [
+      {
+        "text": "J-Juna?",
+        "start": 26.457,
+        "end": 28.339
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich hab doch nur den Rettich geerntet, sonst nichts.",
+    "start": 28.38,
+    "end": 30.442,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 28.38,
+        "end": 28.44
+      },
+      {
+        "text": "hab",
+        "start": 28.48,
+        "end": 28.64
+      },
+      {
+        "text": "doch",
+        "start": 28.66,
+        "end": 28.8
+      },
+      {
+        "text": "nur",
+        "start": 28.82,
+        "end": 28.9
+      },
+      {
+        "text": "den",
+        "start": 28.94,
+        "end": 29.06
+      },
+      {
+        "text": "Rettich",
+        "start": 29.08,
+        "end": 29.361
+      },
+      {
+        "text": "geerntet,",
+        "start": 29.381,
+        "end": 29.841
+      },
+      {
+        "text": "sonst",
+        "start": 29.881,
+        "end": 30.162
+      },
+      {
+        "text": "nichts.",
+        "start": 30.202,
+        "end": 30.442
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Und warum zur Hölle ziehst du ihm einen Strumpf über?",
+    "start": 30.482,
+    "end": 33.666,
+    "words": [
+      {
+        "text": "Und",
+        "start": 30.482,
+        "end": 30.683
+      },
+      {
+        "text": "warum",
+        "start": 30.723,
+        "end": 31.063
+      },
+      {
+        "text": "zur",
+        "start": 31.103,
+        "end": 31.263
+      },
+      {
+        "text": "Hölle",
+        "start": 31.283,
+        "end": 31.504
+      },
+      {
+        "text": "ziehst",
+        "start": 31.524,
+        "end": 31.684
+      },
+      {
+        "text": "du",
+        "start": 31.704,
+        "end": 31.744
+      },
+      {
+        "text": "ihm",
+        "start": 31.764,
+        "end": 31.904
+      },
+      {
+        "text": "einen",
+        "start": 31.964,
+        "end": 32.104
+      },
+      {
+        "text": "Strumpf",
+        "start": 32.144,
+        "end": 32.545
+      },
+      {
+        "text": "über?",
+        "start": 32.605,
+        "end": 33.666
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Jedermann würde beim Anblick eines Rettichs in der Form eines perfekten Oberschenkels den Drang haben, einen Strumpf drüber zu ziehen.",
+    "start": 33.706,
+    "end": 39.314,
+    "words": [
+      {
+        "text": "Jedermann",
+        "start": 33.706,
+        "end": 34.107
+      },
+      {
+        "text": "würde",
+        "start": 34.127,
+        "end": 34.307
+      },
+      {
+        "text": "beim",
+        "start": 34.347,
+        "end": 34.507
+      },
+      {
+        "text": "Anblick",
+        "start": 34.528,
+        "end": 34.828
+      },
+      {
+        "text": "eines",
+        "start": 34.848,
+        "end": 35.068
+      },
+      {
+        "text": "Rettichs",
+        "start": 35.128,
+        "end": 35.389
+      },
+      {
+        "text": "in",
+        "start": 35.409,
+        "end": 35.489
+      },
+      {
+        "text": "der",
+        "start": 35.509,
+        "end": 35.609
+      },
+      {
+        "text": "Form",
+        "start": 35.649,
+        "end": 35.849
+      },
+      {
+        "text": "eines",
+        "start": 35.889,
+        "end": 36.07
+      },
+      {
+        "text": "perfekten",
+        "start": 36.11,
+        "end": 36.63
+      },
+      {
+        "text": "Oberschenkels",
+        "start": 36.69,
+        "end": 37.291
+      },
+      {
+        "text": "den",
+        "start": 37.311,
+        "end": 37.431
+      },
+      {
+        "text": "Drang",
+        "start": 37.451,
+        "end": 37.672
+      },
+      {
+        "text": "haben,",
+        "start": 37.692,
+        "end": 37.932
+      },
+      {
+        "text": "einen",
+        "start": 37.952,
+        "end": 38.112
+      },
+      {
+        "text": "Strumpf",
+        "start": 38.132,
+        "end": 38.433
+      },
+      {
+        "text": "drüber",
+        "start": 38.453,
+        "end": 38.773
+      },
+      {
+        "text": "zu",
+        "start": 38.813,
+        "end": 38.913
+      },
+      {
+        "text": "ziehen.",
+        "start": 38.953,
+        "end": 39.314
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Nein, nur du bist so pervers, Tuka!",
+    "start": 39.354,
+    "end": 41.056,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 39.354,
+        "end": 39.674
+      },
+      {
+        "text": "nur",
+        "start": 39.694,
+        "end": 39.814
+      },
+      {
+        "text": "du",
+        "start": 39.854,
+        "end": 39.955
+      },
+      {
+        "text": "bist",
+        "start": 40.035,
+        "end": 40.135
+      },
+      {
+        "text": "so",
+        "start": 40.175,
+        "end": 40.295
+      },
+      {
+        "text": "pervers,",
+        "start": 40.315,
+        "end": 40.716
+      },
+      {
+        "text": "Tuka!",
+        "start": 40.736,
+        "end": 41.056
+      }
+    ]
+  }
+]

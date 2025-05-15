@@ -1,0 +1,772 @@
+[
+  {
+    "id": 0,
+    "text": " Findet ihr... Findet ihr, dass ich in Wahrheit einfach nur lästig bin für euch?",
+    "start": 0.817,
+    "end": 4.998,
+    "words": [
+      {
+        "text": "Findet",
+        "start": 0.817,
+        "end": 1.177
+      },
+      {
+        "text": "ihr...",
+        "start": 1.237,
+        "end": 2.098
+      },
+      {
+        "text": "Findet",
+        "start": 2.138,
+        "end": 2.438
+      },
+      {
+        "text": "ihr,",
+        "start": 2.478,
+        "end": 2.578
+      },
+      {
+        "text": "dass",
+        "start": 2.598,
+        "end": 2.738
+      },
+      {
+        "text": "ich",
+        "start": 2.798,
+        "end": 2.878
+      },
+      {
+        "text": "in",
+        "start": 2.918,
+        "end": 2.998
+      },
+      {
+        "text": "Wahrheit",
+        "start": 3.018,
+        "end": 3.298
+      },
+      {
+        "text": "einfach",
+        "start": 3.318,
+        "end": 3.558
+      },
+      {
+        "text": "nur",
+        "start": 3.598,
+        "end": 3.718
+      },
+      {
+        "text": "lästig",
+        "start": 3.738,
+        "end": 4.078
+      },
+      {
+        "text": "bin",
+        "start": 4.118,
+        "end": 4.278
+      },
+      {
+        "text": "für",
+        "start": 4.298,
+        "end": 4.398
+      },
+      {
+        "text": "euch?",
+        "start": 4.478,
+        "end": 4.998
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Was sollen diese deprimierenden Fragen?",
+    "start": 5.039,
+    "end": 9.08,
+    "words": [
+      {
+        "text": "Was",
+        "start": 5.039,
+        "end": 5.179
+      },
+      {
+        "text": "sollen",
+        "start": 5.199,
+        "end": 5.459
+      },
+      {
+        "text": "diese",
+        "start": 5.499,
+        "end": 5.679
+      },
+      {
+        "text": "deprimierenden",
+        "start": 5.719,
+        "end": 6.399
+      },
+      {
+        "text": "Fragen?",
+        "start": 6.439,
+        "end": 9.08
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Dann stelle ich eine andere.",
+    "start": 9.1,
+    "end": 11.061,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 9.1,
+        "end": 9.28
+      },
+      {
+        "text": "stelle",
+        "start": 9.32,
+        "end": 9.56
+      },
+      {
+        "text": "ich",
+        "start": 9.58,
+        "end": 9.66
+      },
+      {
+        "text": "eine",
+        "start": 9.7,
+        "end": 9.98
+      },
+      {
+        "text": "andere.",
+        "start": 10.04,
+        "end": 11.061
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Findet ihr, dass ich in Wahrheit für euch einfach nur nutzlos bin?",
+    "start": 11.101,
+    "end": 14.182,
+    "words": [
+      {
+        "text": "Findet",
+        "start": 11.101,
+        "end": 11.361
+      },
+      {
+        "text": "ihr,",
+        "start": 11.401,
+        "end": 11.501
+      },
+      {
+        "text": "dass",
+        "start": 11.521,
+        "end": 11.661
+      },
+      {
+        "text": "ich",
+        "start": 11.721,
+        "end": 11.801
+      },
+      {
+        "text": "in",
+        "start": 11.841,
+        "end": 11.961
+      },
+      {
+        "text": "Wahrheit",
+        "start": 11.981,
+        "end": 12.301
+      },
+      {
+        "text": "für",
+        "start": 12.341,
+        "end": 12.441
+      },
+      {
+        "text": "euch",
+        "start": 12.481,
+        "end": 12.661
+      },
+      {
+        "text": "einfach",
+        "start": 12.701,
+        "end": 12.981
+      },
+      {
+        "text": "nur",
+        "start": 13.021,
+        "end": 13.161
+      },
+      {
+        "text": "nutzlos",
+        "start": 13.181,
+        "end": 13.621
+      },
+      {
+        "text": "bin?",
+        "start": 13.641,
+        "end": 14.182
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Die ist nicht besser!",
+    "start": 14.202,
+    "end": 16.222,
+    "words": [
+      {
+        "text": "Die",
+        "start": 14.202,
+        "end": 14.382
+      },
+      {
+        "text": "ist",
+        "start": 14.422,
+        "end": 14.522
+      },
+      {
+        "text": "nicht",
+        "start": 14.562,
+        "end": 14.802
+      },
+      {
+        "text": "besser!",
+        "start": 14.842,
+        "end": 16.222
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wenn ihr mich für nutzlos haltet, wird ja.",
+    "start": 16.242,
+    "end": 18.603,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 16.242,
+        "end": 16.362
+      },
+      {
+        "text": "ihr",
+        "start": 16.422,
+        "end": 16.522
+      },
+      {
+        "text": "mich",
+        "start": 16.542,
+        "end": 16.682
+      },
+      {
+        "text": "für",
+        "start": 16.722,
+        "end": 16.822
+      },
+      {
+        "text": "nutzlos",
+        "start": 16.842,
+        "end": 17.223
+      },
+      {
+        "text": "haltet,",
+        "start": 17.263,
+        "end": 17.563
+      },
+      {
+        "text": "wird",
+        "start": 17.603,
+        "end": 17.823
+      },
+      {
+        "text": "ja.",
+        "start": 17.843,
+        "end": 18.603
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Und wenn ihr mich braucht, wird bitte nein.",
+    "start": 18.643,
+    "end": 20.424,
+    "words": [
+      {
+        "text": "Und",
+        "start": 18.643,
+        "end": 18.743
+      },
+      {
+        "text": "wenn",
+        "start": 18.763,
+        "end": 18.903
+      },
+      {
+        "text": "ihr",
+        "start": 18.963,
+        "end": 19.023
+      },
+      {
+        "text": "mich",
+        "start": 19.043,
+        "end": 19.203
+      },
+      {
+        "text": "braucht,",
+        "start": 19.243,
+        "end": 19.603
+      },
+      {
+        "text": "wird",
+        "start": 19.623,
+        "end": 19.783
+      },
+      {
+        "text": "bitte",
+        "start": 19.823,
+        "end": 20.104
+      },
+      {
+        "text": "nein.",
+        "start": 20.124,
+        "end": 20.424
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wie viele halten Miku für nutzlos?",
+    "start": 20.824,
+    "end": 26.586,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 20.824,
+        "end": 21.584
+      },
+      {
+        "text": "viele",
+        "start": 21.624,
+        "end": 22.124
+      },
+      {
+        "text": "halten",
+        "start": 22.164,
+        "end": 22.984
+      },
+      {
+        "text": "Miku",
+        "start": 23.025,
+        "end": 23.545
+      },
+      {
+        "text": "für",
+        "start": 23.745,
+        "end": 23.885
+      },
+      {
+        "text": "nutzlos?",
+        "start": 24.005,
+        "end": 26.586
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Niemand!",
+    "start": 26.706,
+    "end": 28.746,
+    "words": [
+      {
+        "text": "Niemand!",
+        "start": 26.706,
+        "end": 28.746
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Siehst du, Miku, niemand von uns allen hier hält dich für nutzlos.",
+    "start": 32.146,
+    "end": 35.189,
+    "words": [
+      {
+        "text": "Siehst",
+        "start": 32.146,
+        "end": 32.366
+      },
+      {
+        "text": "du,",
+        "start": 32.406,
+        "end": 32.526
+      },
+      {
+        "text": "Miku,",
+        "start": 32.546,
+        "end": 32.827
+      },
+      {
+        "text": "niemand",
+        "start": 32.847,
+        "end": 33.107
+      },
+      {
+        "text": "von",
+        "start": 33.127,
+        "end": 33.247
+      },
+      {
+        "text": "uns",
+        "start": 33.307,
+        "end": 33.467
+      },
+      {
+        "text": "allen",
+        "start": 33.487,
+        "end": 33.667
+      },
+      {
+        "text": "hier",
+        "start": 33.687,
+        "end": 33.767
+      },
+      {
+        "text": "hält",
+        "start": 33.788,
+        "end": 33.988
+      },
+      {
+        "text": "dich",
+        "start": 34.008,
+        "end": 34.108
+      },
+      {
+        "text": "für",
+        "start": 34.148,
+        "end": 34.328
+      },
+      {
+        "text": "nutzlos.",
+        "start": 34.348,
+        "end": 35.189
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Das will ich für dich aber auch hoffen.",
+    "start": 35.229,
+    "end": 36.83,
+    "words": [
+      {
+        "text": "Das",
+        "start": 35.229,
+        "end": 35.409
+      },
+      {
+        "text": "will",
+        "start": 35.449,
+        "end": 35.589
+      },
+      {
+        "text": "ich",
+        "start": 35.629,
+        "end": 35.729
+      },
+      {
+        "text": "für",
+        "start": 35.749,
+        "end": 35.869
+      },
+      {
+        "text": "dich",
+        "start": 35.889,
+        "end": 36.089
+      },
+      {
+        "text": "aber",
+        "start": 36.13,
+        "end": 36.31
+      },
+      {
+        "text": "auch",
+        "start": 36.35,
+        "end": 36.53
+      },
+      {
+        "text": "hoffen.",
+        "start": 36.57,
+        "end": 36.83
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Stimmt, ganz genau.",
+    "start": 38.572,
+    "end": 39.993,
+    "words": [
+      {
+        "text": "Stimmt,",
+        "start": 38.572,
+        "end": 38.952
+      },
+      {
+        "text": "ganz",
+        "start": 38.972,
+        "end": 39.192
+      },
+      {
+        "text": "genau.",
+        "start": 39.212,
+        "end": 39.993
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wir brauchen dich.",
+    "start": 40.013,
+    "end": 41.354,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 40.013,
+        "end": 40.173
+      },
+      {
+        "text": "brauchen",
+        "start": 40.213,
+        "end": 40.633
+      },
+      {
+        "text": "dich.",
+        "start": 40.693,
+        "end": 41.354
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ja, schätze schon.",
+    "start": 41.414,
+    "end": 43.776,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 41.414,
+        "end": 42.575
+      },
+      {
+        "text": "schätze",
+        "start": 42.855,
+        "end": 43.276
+      },
+      {
+        "text": "schon.",
+        "start": 43.316,
+        "end": 43.776
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Siehst du?",
+    "start": 43.816,
+    "end": 44.677,
+    "words": [
+      {
+        "text": "Siehst",
+        "start": 43.816,
+        "end": 44.116
+      },
+      {
+        "text": "du?",
+        "start": 44.156,
+        "end": 44.677
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ohne dich sind wir aufgeschmissen.",
+    "start": 44.757,
+    "end": 46.138,
+    "words": [
+      {
+        "text": "Ohne",
+        "start": 44.757,
+        "end": 44.957
+      },
+      {
+        "text": "dich",
+        "start": 44.977,
+        "end": 45.097
+      },
+      {
+        "text": "sind",
+        "start": 45.137,
+        "end": 45.277
+      },
+      {
+        "text": "wir",
+        "start": 45.297,
+        "end": 45.397
+      },
+      {
+        "text": "aufgeschmissen.",
+        "start": 45.457,
+        "end": 46.138
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Du bist für uns unersetzlich, Miku.",
+    "start": 46.158,
+    "end": 48.34,
+    "words": [
+      {
+        "text": "Du",
+        "start": 46.158,
+        "end": 46.318
+      },
+      {
+        "text": "bist",
+        "start": 46.338,
+        "end": 46.518
+      },
+      {
+        "text": "für",
+        "start": 46.558,
+        "end": 46.678
+      },
+      {
+        "text": "uns",
+        "start": 46.699,
+        "end": 46.879
+      },
+      {
+        "text": "unersetzlich,",
+        "start": 46.919,
+        "end": 47.579
+      },
+      {
+        "text": "Miku.",
+        "start": 47.619,
+        "end": 48.34
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ganz meine Rede.",
+    "start": 48.38,
+    "end": 52.704,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 48.38,
+        "end": 48.72
+      },
+      {
+        "text": "meine",
+        "start": 48.74,
+        "end": 48.92
+      },
+      {
+        "text": "Rede.",
+        "start": 48.94,
+        "end": 52.704
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Halt dich von Gokons und Hostclubs fern.",
+    "start": 52.744,
+    "end": 54.906,
+    "words": [
+      {
+        "text": "Halt",
+        "start": 52.744,
+        "end": 52.904
+      },
+      {
+        "text": "dich",
+        "start": 52.924,
+        "end": 53.064
+      },
+      {
+        "text": "von",
+        "start": 53.104,
+        "end": 53.244
+      },
+      {
+        "text": "Gokons",
+        "start": 53.284,
+        "end": 53.725
+      },
+      {
+        "text": "und",
+        "start": 53.765,
+        "end": 53.945
+      },
+      {
+        "text": "Hostclubs",
+        "start": 54.005,
+        "end": 54.545
+      },
+      {
+        "text": "fern.",
+        "start": 54.605,
+        "end": 54.906
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Die fressen dich mit Haut und Haaren.",
+    "start": 54.926,
+    "end": 56.407,
+    "words": [
+      {
+        "text": "Die",
+        "start": 54.926,
+        "end": 55.066
+      },
+      {
+        "text": "fressen",
+        "start": 55.106,
+        "end": 55.346
+      },
+      {
+        "text": "dich",
+        "start": 55.366,
+        "end": 55.506
+      },
+      {
+        "text": "mit",
+        "start": 55.526,
+        "end": 55.746
+      },
+      {
+        "text": "Haut",
+        "start": 55.766,
+        "end": 55.986
+      },
+      {
+        "text": "und",
+        "start": 56.006,
+        "end": 56.167
+      },
+      {
+        "text": "Haaren.",
+        "start": 56.207,
+        "end": 56.407
+      }
+    ]
+  }
+]

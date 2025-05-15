@@ -1,0 +1,977 @@
+[
+  {
+    "id": 0,
+    "text": " Dein Name war Lantervelt?",
+    "start": 2.933,
+    "end": 5.634,
+    "words": [
+      {
+        "text": "Dein",
+        "start": 2.933,
+        "end": 3.033
+      },
+      {
+        "text": "Name",
+        "start": 3.053,
+        "end": 3.193
+      },
+      {
+        "text": "war",
+        "start": 3.233,
+        "end": 3.413
+      },
+      {
+        "text": "Lantervelt?",
+        "start": 3.433,
+        "end": 5.634
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich will dich etwas fragen.",
+    "start": 5.674,
+    "end": 7.254,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 5.674,
+        "end": 5.774
+      },
+      {
+        "text": "will",
+        "start": 5.794,
+        "end": 5.954
+      },
+      {
+        "text": "dich",
+        "start": 5.974,
+        "end": 6.134
+      },
+      {
+        "text": "etwas",
+        "start": 6.174,
+        "end": 6.414
+      },
+      {
+        "text": "fragen.",
+        "start": 6.454,
+        "end": 7.254
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ja, nur raus damit.",
+    "start": 7.314,
+    "end": 9.215,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 7.314,
+        "end": 7.494
+      },
+      {
+        "text": "nur",
+        "start": 7.534,
+        "end": 7.654
+      },
+      {
+        "text": "raus",
+        "start": 7.734,
+        "end": 7.934
+      },
+      {
+        "text": "damit.",
+        "start": 7.954,
+        "end": 9.215
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Bist du stolz, eine Hyäne zu sein?",
+    "start": 9.235,
+    "end": 11.435,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 9.235,
+        "end": 9.415
+      },
+      {
+        "text": "du",
+        "start": 9.435,
+        "end": 9.595
+      },
+      {
+        "text": "stolz,",
+        "start": 9.615,
+        "end": 9.955
+      },
+      {
+        "text": "eine",
+        "start": 9.995,
+        "end": 10.175
+      },
+      {
+        "text": "Hyäne",
+        "start": 10.215,
+        "end": 10.655
+      },
+      {
+        "text": "zu",
+        "start": 10.695,
+        "end": 10.815
+      },
+      {
+        "text": "sein?",
+        "start": 10.855,
+        "end": 11.435
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Oder beschämt dich dein Blut?",
+    "start": 11.475,
+    "end": 15.536,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 11.475,
+        "end": 11.695
+      },
+      {
+        "text": "beschämt",
+        "start": 11.735,
+        "end": 12.075
+      },
+      {
+        "text": "dich",
+        "start": 12.095,
+        "end": 12.275
+      },
+      {
+        "text": "dein",
+        "start": 12.295,
+        "end": 12.475
+      },
+      {
+        "text": "Blut?",
+        "start": 12.515,
+        "end": 15.536
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wieso fragst du?",
+    "start": 15.576,
+    "end": 16.976,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 15.576,
+        "end": 15.916
+      },
+      {
+        "text": "fragst",
+        "start": 15.936,
+        "end": 16.236
+      },
+      {
+        "text": "du?",
+        "start": 16.256,
+        "end": 16.976
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Willst du mich testen oder so?",
+    "start": 17.016,
+    "end": 19.117,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 17.016,
+        "end": 17.177
+      },
+      {
+        "text": "du",
+        "start": 17.197,
+        "end": 17.297
+      },
+      {
+        "text": "mich",
+        "start": 17.337,
+        "end": 17.517
+      },
+      {
+        "text": "testen",
+        "start": 17.557,
+        "end": 17.857
+      },
+      {
+        "text": "oder",
+        "start": 17.917,
+        "end": 18.137
+      },
+      {
+        "text": "so?",
+        "start": 18.177,
+        "end": 19.117
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Tut mir ja leid, aber ich bin verdammt stolz, eine Hyäne zu sein.",
+    "start": 19.157,
+    "end": 24.298,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 19.157,
+        "end": 19.317
+      },
+      {
+        "text": "mir",
+        "start": 19.357,
+        "end": 19.457
+      },
+      {
+        "text": "ja",
+        "start": 19.477,
+        "end": 19.617
+      },
+      {
+        "text": "leid,",
+        "start": 19.677,
+        "end": 20.337
+      },
+      {
+        "text": "aber",
+        "start": 20.357,
+        "end": 20.497
+      },
+      {
+        "text": "ich",
+        "start": 20.537,
+        "end": 20.617
+      },
+      {
+        "text": "bin",
+        "start": 20.657,
+        "end": 20.777
+      },
+      {
+        "text": "verdammt",
+        "start": 20.797,
+        "end": 21.177
+      },
+      {
+        "text": "stolz,",
+        "start": 21.218,
+        "end": 21.558
+      },
+      {
+        "text": "eine",
+        "start": 21.578,
+        "end": 21.718
+      },
+      {
+        "text": "Hyäne",
+        "start": 21.758,
+        "end": 22.278
+      },
+      {
+        "text": "zu",
+        "start": 22.298,
+        "end": 22.438
+      },
+      {
+        "text": "sein.",
+        "start": 22.478,
+        "end": 24.298
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Keiner kommt freiwillig auf die Idee, sich zu hassen.",
+    "start": 24.318,
+    "end": 27.579,
+    "words": [
+      {
+        "text": "Keiner",
+        "start": 24.318,
+        "end": 24.618
+      },
+      {
+        "text": "kommt",
+        "start": 24.658,
+        "end": 24.938
+      },
+      {
+        "text": "freiwillig",
+        "start": 24.978,
+        "end": 25.459
+      },
+      {
+        "text": "auf",
+        "start": 25.479,
+        "end": 25.599
+      },
+      {
+        "text": "die",
+        "start": 25.639,
+        "end": 25.739
+      },
+      {
+        "text": "Idee,",
+        "start": 25.779,
+        "end": 26.019
+      },
+      {
+        "text": "sich",
+        "start": 26.039,
+        "end": 26.239
+      },
+      {
+        "text": "zu",
+        "start": 26.259,
+        "end": 26.359
+      },
+      {
+        "text": "hassen.",
+        "start": 26.399,
+        "end": 27.579
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das passiert nur, wenn man zu sehr auf die Kritik der anderen hört.",
+    "start": 27.599,
+    "end": 31.28,
+    "words": [
+      {
+        "text": "Das",
+        "start": 27.599,
+        "end": 27.799
+      },
+      {
+        "text": "passiert",
+        "start": 27.839,
+        "end": 28.259
+      },
+      {
+        "text": "nur,",
+        "start": 28.279,
+        "end": 28.999
+      },
+      {
+        "text": "wenn",
+        "start": 29.019,
+        "end": 29.159
+      },
+      {
+        "text": "man",
+        "start": 29.179,
+        "end": 29.379
+      },
+      {
+        "text": "zu",
+        "start": 29.419,
+        "end": 29.58
+      },
+      {
+        "text": "sehr",
+        "start": 29.62,
+        "end": 29.76
+      },
+      {
+        "text": "auf",
+        "start": 29.8,
+        "end": 29.92
+      },
+      {
+        "text": "die",
+        "start": 29.94,
+        "end": 30.06
+      },
+      {
+        "text": "Kritik",
+        "start": 30.08,
+        "end": 30.48
+      },
+      {
+        "text": "der",
+        "start": 30.5,
+        "end": 30.66
+      },
+      {
+        "text": "anderen",
+        "start": 30.7,
+        "end": 31.06
+      },
+      {
+        "text": "hört.",
+        "start": 31.12,
+        "end": 31.28
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Wenn du mich nicht leiden kannst, ist das deine Sache.",
+    "start": 32.786,
+    "end": 35.568,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 32.786,
+        "end": 32.926
+      },
+      {
+        "text": "du",
+        "start": 32.966,
+        "end": 33.066
+      },
+      {
+        "text": "mich",
+        "start": 33.086,
+        "end": 33.186
+      },
+      {
+        "text": "nicht",
+        "start": 33.207,
+        "end": 33.347
+      },
+      {
+        "text": "leiden",
+        "start": 33.387,
+        "end": 33.567
+      },
+      {
+        "text": "kannst,",
+        "start": 33.607,
+        "end": 33.827
+      },
+      {
+        "text": "ist",
+        "start": 33.867,
+        "end": 34.027
+      },
+      {
+        "text": "das",
+        "start": 34.047,
+        "end": 34.187
+      },
+      {
+        "text": "deine",
+        "start": 34.227,
+        "end": 34.528
+      },
+      {
+        "text": "Sache.",
+        "start": 34.568,
+        "end": 35.568
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich bin stolz.",
+    "start": 35.628,
+    "end": 36.809,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 35.628,
+        "end": 35.728
+      },
+      {
+        "text": "bin",
+        "start": 35.749,
+        "end": 35.869
+      },
+      {
+        "text": "stolz.",
+        "start": 35.909,
+        "end": 36.809
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Auch wenn das dem Adel nicht passen sollte.",
+    "start": 36.869,
+    "end": 41.033,
+    "words": [
+      {
+        "text": "Auch",
+        "start": 36.869,
+        "end": 37.009
+      },
+      {
+        "text": "wenn",
+        "start": 37.03,
+        "end": 37.15
+      },
+      {
+        "text": "das",
+        "start": 37.17,
+        "end": 37.31
+      },
+      {
+        "text": "dem",
+        "start": 37.35,
+        "end": 37.45
+      },
+      {
+        "text": "Adel",
+        "start": 37.51,
+        "end": 37.73
+      },
+      {
+        "text": "nicht",
+        "start": 37.77,
+        "end": 37.93
+      },
+      {
+        "text": "passen",
+        "start": 37.95,
+        "end": 38.27
+      },
+      {
+        "text": "sollte.",
+        "start": 38.311,
+        "end": 41.033
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Selbst auf deinen Befehl wird sich nichts verändern.",
+    "start": 41.053,
+    "end": 44.135,
+    "words": [
+      {
+        "text": "Selbst",
+        "start": 41.053,
+        "end": 41.293
+      },
+      {
+        "text": "auf",
+        "start": 41.333,
+        "end": 41.453
+      },
+      {
+        "text": "deinen",
+        "start": 41.493,
+        "end": 41.753
+      },
+      {
+        "text": "Befehl",
+        "start": 41.793,
+        "end": 42.134
+      },
+      {
+        "text": "wird",
+        "start": 42.154,
+        "end": 42.334
+      },
+      {
+        "text": "sich",
+        "start": 42.354,
+        "end": 42.534
+      },
+      {
+        "text": "nichts",
+        "start": 42.554,
+        "end": 42.774
+      },
+      {
+        "text": "verändern.",
+        "start": 42.794,
+        "end": 44.135
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Denn ich tanze nicht nach deiner Pfeife.",
+    "start": 44.155,
+    "end": 46.337,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 44.155,
+        "end": 44.315
+      },
+      {
+        "text": "ich",
+        "start": 44.355,
+        "end": 44.455
+      },
+      {
+        "text": "tanze",
+        "start": 44.495,
+        "end": 44.736
+      },
+      {
+        "text": "nicht",
+        "start": 44.756,
+        "end": 44.916
+      },
+      {
+        "text": "nach",
+        "start": 44.956,
+        "end": 45.096
+      },
+      {
+        "text": "deiner",
+        "start": 45.116,
+        "end": 45.416
+      },
+      {
+        "text": "Pfeife.",
+        "start": 45.436,
+        "end": 46.337
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich gehorche nur der Königin.",
+    "start": 46.377,
+    "end": 47.638,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 46.377,
+        "end": 46.517
+      },
+      {
+        "text": "gehorche",
+        "start": 46.537,
+        "end": 46.917
+      },
+      {
+        "text": "nur",
+        "start": 46.937,
+        "end": 47.057
+      },
+      {
+        "text": "der",
+        "start": 47.077,
+        "end": 47.198
+      },
+      {
+        "text": "Königin.",
+        "start": 47.238,
+        "end": 47.638
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Genau das wollte ich hören.",
+    "start": 52.201,
+    "end": 53.983,
+    "words": [
+      {
+        "text": "Genau",
+        "start": 52.201,
+        "end": 52.602
+      },
+      {
+        "text": "das",
+        "start": 52.642,
+        "end": 53.242
+      },
+      {
+        "text": "wollte",
+        "start": 53.282,
+        "end": 53.542
+      },
+      {
+        "text": "ich",
+        "start": 53.603,
+        "end": 53.703
+      },
+      {
+        "text": "hören.",
+        "start": 53.743,
+        "end": 53.983
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Hiermit genehmige ich deinen Posten als Leibwachenführer der Stellvertreterkönigin.",
+    "start": 55.297,
+    "end": 60.54,
+    "words": [
+      {
+        "text": "Hiermit",
+        "start": 55.297,
+        "end": 55.617
+      },
+      {
+        "text": "genehmige",
+        "start": 55.637,
+        "end": 56.158
+      },
+      {
+        "text": "ich",
+        "start": 56.198,
+        "end": 56.338
+      },
+      {
+        "text": "deinen",
+        "start": 56.378,
+        "end": 56.658
+      },
+      {
+        "text": "Posten",
+        "start": 56.698,
+        "end": 57.098
+      },
+      {
+        "text": "als",
+        "start": 57.118,
+        "end": 57.258
+      },
+      {
+        "text": "Leibwachenführer",
+        "start": 57.338,
+        "end": 58.199
+      },
+      {
+        "text": "der",
+        "start": 58.219,
+        "end": 58.359
+      },
+      {
+        "text": "Stellvertreterkönigin.",
+        "start": 58.379,
+        "end": 60.54
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Dieser Titel ist wie ein schützender Schild.",
+    "start": 60.56,
+    "end": 63.742,
+    "words": [
+      {
+        "text": "Dieser",
+        "start": 60.56,
+        "end": 60.94
+      },
+      {
+        "text": "Titel",
+        "start": 60.96,
+        "end": 61.801
+      },
+      {
+        "text": "ist",
+        "start": 61.861,
+        "end": 62.001
+      },
+      {
+        "text": "wie",
+        "start": 62.021,
+        "end": 62.141
+      },
+      {
+        "text": "ein",
+        "start": 62.181,
+        "end": 62.321
+      },
+      {
+        "text": "schützender",
+        "start": 62.341,
+        "end": 62.841
+      },
+      {
+        "text": "Schild.",
+        "start": 62.881,
+        "end": 63.742
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du bist der Ritter, auf den die Königin zählt.",
+    "start": 63.762,
+    "end": 67.503,
+    "words": [
+      {
+        "text": "Du",
+        "start": 63.762,
+        "end": 63.962
+      },
+      {
+        "text": "bist",
+        "start": 63.982,
+        "end": 64.142
+      },
+      {
+        "text": "der",
+        "start": 64.182,
+        "end": 64.302
+      },
+      {
+        "text": "Ritter,",
+        "start": 64.382,
+        "end": 64.662
+      },
+      {
+        "text": "auf",
+        "start": 64.702,
+        "end": 64.822
+      },
+      {
+        "text": "den",
+        "start": 64.842,
+        "end": 65.002
+      },
+      {
+        "text": "die",
+        "start": 65.042,
+        "end": 65.182
+      },
+      {
+        "text": "Königin",
+        "start": 65.202,
+        "end": 65.743
+      },
+      {
+        "text": "zählt.",
+        "start": 65.783,
+        "end": 67.503
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Und jetzt geht.",
+    "start": 67.584,
+    "end": 68.684,
+    "words": [
+      {
+        "text": "Und",
+        "start": 67.584,
+        "end": 67.744
+      },
+      {
+        "text": "jetzt",
+        "start": 67.764,
+        "end": 67.964
+      },
+      {
+        "text": "geht.",
+        "start": 67.984,
+        "end": 68.684
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Jawohl.",
+    "start": 68.764,
+    "end": 78.429,
+    "words": [
+      {
+        "text": "Jawohl.",
+        "start": 68.764,
+        "end": 78.429
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Landewelt der Ritter.",
+    "start": 81.291,
+    "end": 82.511,
+    "words": [
+      {
+        "text": "Landewelt",
+        "start": 81.291,
+        "end": 82.011
+      },
+      {
+        "text": "der",
+        "start": 82.051,
+        "end": 82.231
+      },
+      {
+        "text": "Ritter.",
+        "start": 82.271,
+        "end": 82.511
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Na gut, warum auch nicht?",
+    "start": 90.297,
+    "end": 94.39,
+    "words": [
+      {
+        "text": "Na",
+        "start": 90.297,
+        "end": 90.457
+      },
+      {
+        "text": "gut,",
+        "start": 90.477,
+        "end": 91.942
+      },
+      {
+        "text": "warum",
+        "start": 91.962,
+        "end": 92.223
+      },
+      {
+        "text": "auch",
+        "start": 92.263,
+        "end": 92.404
+      },
+      {
+        "text": "nicht?",
+        "start": 92.444,
+        "end": 94.39
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Gehen wir's an.",
+    "start": 94.43,
+    "end": 95.133,
+    "words": [
+      {
+        "text": "Gehen",
+        "start": 94.43,
+        "end": 94.671
+      },
+      {
+        "text": "wir's",
+        "start": 94.691,
+        "end": 94.992
+      },
+      {
+        "text": "an.",
+        "start": 95.052,
+        "end": 95.133
+      }
+    ]
+  }
+]

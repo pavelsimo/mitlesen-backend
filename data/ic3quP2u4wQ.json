@@ -1,0 +1,839 @@
+[
+  {
+    "id": 0,
+    "text": " Diese Antwort musst du dir schon selbst geben.",
+    "start": 1.98,
+    "end": 5.463,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 1.98,
+        "end": 2.2
+      },
+      {
+        "text": "Antwort",
+        "start": 2.24,
+        "end": 3.261
+      },
+      {
+        "text": "musst",
+        "start": 3.301,
+        "end": 3.481
+      },
+      {
+        "text": "du",
+        "start": 3.501,
+        "end": 3.601
+      },
+      {
+        "text": "dir",
+        "start": 3.621,
+        "end": 3.801
+      },
+      {
+        "text": "schon",
+        "start": 3.821,
+        "end": 4.062
+      },
+      {
+        "text": "selbst",
+        "start": 4.082,
+        "end": 4.362
+      },
+      {
+        "text": "geben.",
+        "start": 4.402,
+        "end": 5.463
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Weißt du, was geschehen ist, ist geschehen.",
+    "start": 5.483,
+    "end": 7.904,
+    "words": [
+      {
+        "text": "Weißt",
+        "start": 5.483,
+        "end": 5.743
+      },
+      {
+        "text": "du,",
+        "start": 5.783,
+        "end": 6.363
+      },
+      {
+        "text": "was",
+        "start": 6.403,
+        "end": 6.603
+      },
+      {
+        "text": "geschehen",
+        "start": 6.623,
+        "end": 6.964
+      },
+      {
+        "text": "ist,",
+        "start": 7.004,
+        "end": 7.164
+      },
+      {
+        "text": "ist",
+        "start": 7.204,
+        "end": 7.364
+      },
+      {
+        "text": "geschehen.",
+        "start": 7.404,
+        "end": 7.904
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Das kann man nicht ändern.",
+    "start": 7.944,
+    "end": 10.006,
+    "words": [
+      {
+        "text": "Das",
+        "start": 7.944,
+        "end": 8.084
+      },
+      {
+        "text": "kann",
+        "start": 8.104,
+        "end": 8.244
+      },
+      {
+        "text": "man",
+        "start": 8.264,
+        "end": 8.385
+      },
+      {
+        "text": "nicht",
+        "start": 8.425,
+        "end": 8.605
+      },
+      {
+        "text": "ändern.",
+        "start": 8.645,
+        "end": 10.006
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Aber ab jetzt darfst du ganz allein bestimmen, was du tun willst, wo deine Grenzen sind und was andere für dich tun sollen.",
+    "start": 10.046,
+    "end": 20.773,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 10.046,
+        "end": 10.986
+      },
+      {
+        "text": "ab",
+        "start": 11.046,
+        "end": 11.246
+      },
+      {
+        "text": "jetzt",
+        "start": 11.286,
+        "end": 11.587
+      },
+      {
+        "text": "darfst",
+        "start": 11.607,
+        "end": 11.847
+      },
+      {
+        "text": "du",
+        "start": 11.867,
+        "end": 12.047
+      },
+      {
+        "text": "ganz",
+        "start": 12.067,
+        "end": 12.307
+      },
+      {
+        "text": "allein",
+        "start": 12.327,
+        "end": 12.667
+      },
+      {
+        "text": "bestimmen,",
+        "start": 12.687,
+        "end": 13.608
+      },
+      {
+        "text": "was",
+        "start": 13.648,
+        "end": 13.828
+      },
+      {
+        "text": "du",
+        "start": 13.848,
+        "end": 13.988
+      },
+      {
+        "text": "tun",
+        "start": 14.028,
+        "end": 14.208
+      },
+      {
+        "text": "willst,",
+        "start": 14.228,
+        "end": 15.089
+      },
+      {
+        "text": "wo",
+        "start": 15.109,
+        "end": 15.229
+      },
+      {
+        "text": "deine",
+        "start": 15.269,
+        "end": 15.529
+      },
+      {
+        "text": "Grenzen",
+        "start": 15.549,
+        "end": 15.93
+      },
+      {
+        "text": "sind",
+        "start": 15.97,
+        "end": 16.55
+      },
+      {
+        "text": "und",
+        "start": 16.61,
+        "end": 16.79
+      },
+      {
+        "text": "was",
+        "start": 16.81,
+        "end": 17.01
+      },
+      {
+        "text": "andere",
+        "start": 17.05,
+        "end": 17.35
+      },
+      {
+        "text": "für",
+        "start": 17.39,
+        "end": 17.511
+      },
+      {
+        "text": "dich",
+        "start": 17.551,
+        "end": 17.751
+      },
+      {
+        "text": "tun",
+        "start": 17.791,
+        "end": 18.011
+      },
+      {
+        "text": "sollen.",
+        "start": 18.051,
+        "end": 20.773
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Erst dann können Menschen, die dir helfen wollen, dich bestmöglich unterstützen.",
+    "start": 20.833,
+    "end": 27.437,
+    "words": [
+      {
+        "text": "Erst",
+        "start": 20.833,
+        "end": 21.093
+      },
+      {
+        "text": "dann",
+        "start": 21.133,
+        "end": 23.294
+      },
+      {
+        "text": "können",
+        "start": 23.314,
+        "end": 23.655
+      },
+      {
+        "text": "Menschen,",
+        "start": 23.675,
+        "end": 23.955
+      },
+      {
+        "text": "die",
+        "start": 23.975,
+        "end": 24.095
+      },
+      {
+        "text": "dir",
+        "start": 24.135,
+        "end": 24.295
+      },
+      {
+        "text": "helfen",
+        "start": 24.335,
+        "end": 24.655
+      },
+      {
+        "text": "wollen,",
+        "start": 24.695,
+        "end": 25.896
+      },
+      {
+        "text": "dich",
+        "start": 25.936,
+        "end": 26.216
+      },
+      {
+        "text": "bestmöglich",
+        "start": 26.256,
+        "end": 26.837
+      },
+      {
+        "text": "unterstützen.",
+        "start": 26.877,
+        "end": 27.437
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Ich hab keinem der Stimme helfen kann!",
+    "start": 31.303,
+    "end": 33.544,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 31.303,
+        "end": 31.383
+      },
+      {
+        "text": "hab",
+        "start": 31.663,
+        "end": 31.743
+      },
+      {
+        "text": "keinem",
+        "start": 31.763,
+        "end": 31.883
+      },
+      {
+        "text": "der",
+        "start": 31.903,
+        "end": 31.983
+      },
+      {
+        "text": "Stimme",
+        "start": 32.003,
+        "end": 32.143
+      },
+      {
+        "text": "helfen",
+        "start": 32.163,
+        "end": 33.143
+      },
+      {
+        "text": "kann!",
+        "start": 33.163,
+        "end": 33.544
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Das ist doch egal!",
+    "start": 33.584,
+    "end": 36.464,
+    "words": [
+      {
+        "text": "Das",
+        "start": 33.584,
+        "end": 33.744
+      },
+      {
+        "text": "ist",
+        "start": 33.784,
+        "end": 33.904
+      },
+      {
+        "text": "doch",
+        "start": 33.924,
+        "end": 34.104
+      },
+      {
+        "text": "egal!",
+        "start": 34.164,
+        "end": 36.464
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Trotzdem will ich, dass du laut wirst, wenn deine Grenzen überschritten werden.",
+    "start": 36.504,
+    "end": 40.865,
+    "words": [
+      {
+        "text": "Trotzdem",
+        "start": 36.504,
+        "end": 36.924
+      },
+      {
+        "text": "will",
+        "start": 36.964,
+        "end": 37.104
+      },
+      {
+        "text": "ich,",
+        "start": 37.124,
+        "end": 37.244
+      },
+      {
+        "text": "dass",
+        "start": 37.264,
+        "end": 37.444
+      },
+      {
+        "text": "du",
+        "start": 37.464,
+        "end": 37.544
+      },
+      {
+        "text": "laut",
+        "start": 37.665,
+        "end": 37.945
+      },
+      {
+        "text": "wirst,",
+        "start": 37.985,
+        "end": 38.205
+      },
+      {
+        "text": "wenn",
+        "start": 38.225,
+        "end": 38.365
+      },
+      {
+        "text": "deine",
+        "start": 38.405,
+        "end": 38.645
+      },
+      {
+        "text": "Grenzen",
+        "start": 38.685,
+        "end": 39.145
+      },
+      {
+        "text": "überschritten",
+        "start": 39.185,
+        "end": 39.745
+      },
+      {
+        "text": "werden.",
+        "start": 39.785,
+        "end": 40.865
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich wünsche mir auch sehr oft, dass man Hilfe kriegt, ohne dass man schreien oder weinen muss.",
+    "start": 40.925,
+    "end": 46.807,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 40.925,
+        "end": 41.045
+      },
+      {
+        "text": "wünsche",
+        "start": 41.085,
+        "end": 41.405
+      },
+      {
+        "text": "mir",
+        "start": 41.445,
+        "end": 41.585
+      },
+      {
+        "text": "auch",
+        "start": 41.625,
+        "end": 41.866
+      },
+      {
+        "text": "sehr",
+        "start": 41.886,
+        "end": 42.106
+      },
+      {
+        "text": "oft,",
+        "start": 42.186,
+        "end": 42.906
+      },
+      {
+        "text": "dass",
+        "start": 42.926,
+        "end": 43.126
+      },
+      {
+        "text": "man",
+        "start": 43.166,
+        "end": 43.366
+      },
+      {
+        "text": "Hilfe",
+        "start": 43.406,
+        "end": 43.686
+      },
+      {
+        "text": "kriegt,",
+        "start": 43.726,
+        "end": 44.946
+      },
+      {
+        "text": "ohne",
+        "start": 44.986,
+        "end": 45.206
+      },
+      {
+        "text": "dass",
+        "start": 45.226,
+        "end": 45.406
+      },
+      {
+        "text": "man",
+        "start": 45.446,
+        "end": 45.586
+      },
+      {
+        "text": "schreien",
+        "start": 45.626,
+        "end": 45.926
+      },
+      {
+        "text": "oder",
+        "start": 45.946,
+        "end": 46.187
+      },
+      {
+        "text": "weinen",
+        "start": 46.207,
+        "end": 46.467
+      },
+      {
+        "text": "muss.",
+        "start": 46.507,
+        "end": 46.807
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Aber leider funktioniert die Welt da draußen ein wenig anders.",
+    "start": 49.327,
+    "end": 54.469,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 49.327,
+        "end": 49.787
+      },
+      {
+        "text": "leider",
+        "start": 49.827,
+        "end": 51.008
+      },
+      {
+        "text": "funktioniert",
+        "start": 51.048,
+        "end": 51.528
+      },
+      {
+        "text": "die",
+        "start": 51.548,
+        "end": 51.648
+      },
+      {
+        "text": "Welt",
+        "start": 51.668,
+        "end": 51.828
+      },
+      {
+        "text": "da",
+        "start": 51.848,
+        "end": 51.948
+      },
+      {
+        "text": "draußen",
+        "start": 51.968,
+        "end": 52.228
+      },
+      {
+        "text": "ein",
+        "start": 52.268,
+        "end": 52.428
+      },
+      {
+        "text": "wenig",
+        "start": 52.448,
+        "end": 52.728
+      },
+      {
+        "text": "anders.",
+        "start": 52.768,
+        "end": 54.469
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "In diesem Durcheinander von Freunden und Feinden musst du nun mal laut schreien, wenn du etwas haben willst.",
+    "start": 54.529,
+    "end": 60.13,
+    "words": [
+      {
+        "text": "In",
+        "start": 54.529,
+        "end": 54.629
+      },
+      {
+        "text": "diesem",
+        "start": 54.669,
+        "end": 54.929
+      },
+      {
+        "text": "Durcheinander",
+        "start": 54.949,
+        "end": 55.589
+      },
+      {
+        "text": "von",
+        "start": 55.609,
+        "end": 55.729
+      },
+      {
+        "text": "Freunden",
+        "start": 55.769,
+        "end": 56.169
+      },
+      {
+        "text": "und",
+        "start": 56.189,
+        "end": 56.349
+      },
+      {
+        "text": "Feinden",
+        "start": 56.409,
+        "end": 57.729
+      },
+      {
+        "text": "musst",
+        "start": 57.749,
+        "end": 57.949
+      },
+      {
+        "text": "du",
+        "start": 57.969,
+        "end": 58.069
+      },
+      {
+        "text": "nun",
+        "start": 58.089,
+        "end": 58.269
+      },
+      {
+        "text": "mal",
+        "start": 58.309,
+        "end": 58.429
+      },
+      {
+        "text": "laut",
+        "start": 58.469,
+        "end": 58.609
+      },
+      {
+        "text": "schreien,",
+        "start": 58.63,
+        "end": 58.97
+      },
+      {
+        "text": "wenn",
+        "start": 59.01,
+        "end": 59.13
+      },
+      {
+        "text": "du",
+        "start": 59.15,
+        "end": 59.21
+      },
+      {
+        "text": "etwas",
+        "start": 59.23,
+        "end": 59.59
+      },
+      {
+        "text": "haben",
+        "start": 59.61,
+        "end": 59.87
+      },
+      {
+        "text": "willst.",
+        "start": 59.91,
+        "end": 60.13
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Und weißt du schon, was du haben willst?",
+    "start": 62.624,
+    "end": 65.125,
+    "words": [
+      {
+        "text": "Und",
+        "start": 62.624,
+        "end": 62.744
+      },
+      {
+        "text": "weißt",
+        "start": 62.764,
+        "end": 62.924
+      },
+      {
+        "text": "du",
+        "start": 62.944,
+        "end": 63.044
+      },
+      {
+        "text": "schon,",
+        "start": 63.064,
+        "end": 63.244
+      },
+      {
+        "text": "was",
+        "start": 63.304,
+        "end": 63.404
+      },
+      {
+        "text": "du",
+        "start": 63.424,
+        "end": 63.544
+      },
+      {
+        "text": "haben",
+        "start": 63.564,
+        "end": 63.804
+      },
+      {
+        "text": "willst?",
+        "start": 63.824,
+        "end": 65.125
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Hast du vielleicht einen Wunsch?",
+    "start": 65.145,
+    "end": 69.906,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 65.145,
+        "end": 65.345
+      },
+      {
+        "text": "du",
+        "start": 65.365,
+        "end": 65.465
+      },
+      {
+        "text": "vielleicht",
+        "start": 65.505,
+        "end": 65.825
+      },
+      {
+        "text": "einen",
+        "start": 65.865,
+        "end": 66.025
+      },
+      {
+        "text": "Wunsch?",
+        "start": 66.045,
+        "end": 69.906
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich... Ich... Bist du dir sicher, dass du das willst?",
+    "start": 69.986,
+    "end": 91.952,
+    "words": [
+      {
+        "text": "Ich...",
+        "start": 69.986,
+        "end": 70.846
+      },
+      {
+        "text": "Ich...",
+        "start": 70.926,
+        "end": 84.55
+      },
+      {
+        "text": "Bist",
+        "start": 84.57,
+        "end": 90.271
+      },
+      {
+        "text": "du",
+        "start": 90.291,
+        "end": 90.412
+      },
+      {
+        "text": "dir",
+        "start": 90.452,
+        "end": 90.652
+      },
+      {
+        "text": "sicher,",
+        "start": 90.672,
+        "end": 90.972
+      },
+      {
+        "text": "dass",
+        "start": 91.012,
+        "end": 91.152
+      },
+      {
+        "text": "du",
+        "start": 91.172,
+        "end": 91.292
+      },
+      {
+        "text": "das",
+        "start": 91.332,
+        "end": 91.572
+      },
+      {
+        "text": "willst?",
+        "start": 91.612,
+        "end": 91.952
+      }
+    ]
+  }
+]

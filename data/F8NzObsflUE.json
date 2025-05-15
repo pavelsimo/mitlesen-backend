@@ -1,0 +1,1675 @@
+[
+  {
+    "id": 0,
+    "text": " Rey, wo... Oh, ich schätze, er ist noch gar nicht hier.",
+    "start": 2.494,
+    "end": 4.955,
+    "words": [
+      {
+        "text": "Rey,",
+        "start": 2.494,
+        "end": 2.754
+      },
+      {
+        "text": "wo...",
+        "start": 2.794,
+        "end": 3.154
+      },
+      {
+        "text": "Oh,",
+        "start": 3.274,
+        "end": 3.414
+      },
+      {
+        "text": "ich",
+        "start": 3.454,
+        "end": 3.555
+      },
+      {
+        "text": "schätze,",
+        "start": 3.595,
+        "end": 3.815
+      },
+      {
+        "text": "er",
+        "start": 3.855,
+        "end": 3.895
+      },
+      {
+        "text": "ist",
+        "start": 3.935,
+        "end": 4.035
+      },
+      {
+        "text": "noch",
+        "start": 4.075,
+        "end": 4.175
+      },
+      {
+        "text": "gar",
+        "start": 4.215,
+        "end": 4.335
+      },
+      {
+        "text": "nicht",
+        "start": 4.355,
+        "end": 4.535
+      },
+      {
+        "text": "hier.",
+        "start": 4.555,
+        "end": 4.955
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Guten Morgen, Emilia.",
+    "start": 4.995,
+    "end": 12.118,
+    "words": [
+      {
+        "text": "Guten",
+        "start": 4.995,
+        "end": 5.235
+      },
+      {
+        "text": "Morgen,",
+        "start": 5.255,
+        "end": 5.615
+      },
+      {
+        "text": "Emilia.",
+        "start": 5.735,
+        "end": 12.118
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was soll die Maske?",
+    "start": 12.178,
+    "end": 12.918,
+    "words": [
+      {
+        "text": "Was",
+        "start": 12.178,
+        "end": 12.298
+      },
+      {
+        "text": "soll",
+        "start": 12.338,
+        "end": 12.478
+      },
+      {
+        "text": "die",
+        "start": 12.498,
+        "end": 12.638
+      },
+      {
+        "text": "Maske?",
+        "start": 12.658,
+        "end": 12.918
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich hätte dich fast nicht erkannt.",
+    "start": 12.938,
+    "end": 14.139,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 12.938,
+        "end": 13.038
+      },
+      {
+        "text": "hätte",
+        "start": 13.058,
+        "end": 13.238
+      },
+      {
+        "text": "dich",
+        "start": 13.258,
+        "end": 13.378
+      },
+      {
+        "text": "fast",
+        "start": 13.418,
+        "end": 13.558
+      },
+      {
+        "text": "nicht",
+        "start": 13.578,
+        "end": 13.718
+      },
+      {
+        "text": "erkannt.",
+        "start": 13.778,
+        "end": 14.139
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ab jetzt nennst du mich Meister White.",
+    "start": 14.199,
+    "end": 17.44,
+    "words": [
+      {
+        "text": "Ab",
+        "start": 14.199,
+        "end": 14.459
+      },
+      {
+        "text": "jetzt",
+        "start": 14.499,
+        "end": 14.659
+      },
+      {
+        "text": "nennst",
+        "start": 14.719,
+        "end": 14.919
+      },
+      {
+        "text": "du",
+        "start": 14.939,
+        "end": 15.059
+      },
+      {
+        "text": "mich",
+        "start": 15.079,
+        "end": 15.239
+      },
+      {
+        "text": "Meister",
+        "start": 15.259,
+        "end": 15.659
+      },
+      {
+        "text": "White.",
+        "start": 15.719,
+        "end": 17.44
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Solange du ein Soldat in meiner Ausbildung bist, wirst du mich nur noch mit Meister ansprechen, ist das klar?",
+    "start": 17.48,
+    "end": 21.942,
+    "words": [
+      {
+        "text": "Solange",
+        "start": 17.48,
+        "end": 17.82
+      },
+      {
+        "text": "du",
+        "start": 17.86,
+        "end": 17.96
+      },
+      {
+        "text": "ein",
+        "start": 17.98,
+        "end": 18.1
+      },
+      {
+        "text": "Soldat",
+        "start": 18.12,
+        "end": 18.48
+      },
+      {
+        "text": "in",
+        "start": 18.52,
+        "end": 18.62
+      },
+      {
+        "text": "meiner",
+        "start": 18.66,
+        "end": 18.88
+      },
+      {
+        "text": "Ausbildung",
+        "start": 18.92,
+        "end": 19.361
+      },
+      {
+        "text": "bist,",
+        "start": 19.401,
+        "end": 19.581
+      },
+      {
+        "text": "wirst",
+        "start": 19.621,
+        "end": 19.761
+      },
+      {
+        "text": "du",
+        "start": 19.781,
+        "end": 19.861
+      },
+      {
+        "text": "mich",
+        "start": 19.881,
+        "end": 20.021
+      },
+      {
+        "text": "nur",
+        "start": 20.041,
+        "end": 20.141
+      },
+      {
+        "text": "noch",
+        "start": 20.161,
+        "end": 20.281
+      },
+      {
+        "text": "mit",
+        "start": 20.341,
+        "end": 20.481
+      },
+      {
+        "text": "Meister",
+        "start": 20.501,
+        "end": 20.761
+      },
+      {
+        "text": "ansprechen,",
+        "start": 20.801,
+        "end": 21.301
+      },
+      {
+        "text": "ist",
+        "start": 21.341,
+        "end": 21.461
+      },
+      {
+        "text": "das",
+        "start": 21.501,
+        "end": 21.662
+      },
+      {
+        "text": "klar?",
+        "start": 21.682,
+        "end": 21.942
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Und du antwortest nur mit Ranger.",
+    "start": 21.962,
+    "end": 23.482,
+    "words": [
+      {
+        "text": "Und",
+        "start": 21.962,
+        "end": 22.082
+      },
+      {
+        "text": "du",
+        "start": 22.102,
+        "end": 22.222
+      },
+      {
+        "text": "antwortest",
+        "start": 22.262,
+        "end": 22.642
+      },
+      {
+        "text": "nur",
+        "start": 22.682,
+        "end": 22.802
+      },
+      {
+        "text": "mit",
+        "start": 22.822,
+        "end": 22.942
+      },
+      {
+        "text": "Ranger.",
+        "start": 23.022,
+        "end": 23.482
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Hast du verstanden?",
+    "start": 23.522,
+    "end": 24.263,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 23.522,
+        "end": 23.662
+      },
+      {
+        "text": "du",
+        "start": 23.682,
+        "end": 23.802
+      },
+      {
+        "text": "verstanden?",
+        "start": 23.822,
+        "end": 24.263
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Hä?",
+    "start": 25.243,
+    "end": 26.023,
+    "words": [
+      {
+        "text": "Hä?",
+        "start": 25.243,
+        "end": 26.023
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Warum das denn?",
+    "start": 26.063,
+    "end": 27.024,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 26.063,
+        "end": 26.403
+      },
+      {
+        "text": "das",
+        "start": 26.443,
+        "end": 26.643
+      },
+      {
+        "text": "denn?",
+        "start": 26.683,
+        "end": 27.024
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Bist du schwerhörig?",
+    "start": 27.064,
+    "end": 27.944,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 27.064,
+        "end": 27.224
+      },
+      {
+        "text": "du",
+        "start": 27.244,
+        "end": 27.364
+      },
+      {
+        "text": "schwerhörig?",
+        "start": 27.384,
+        "end": 27.944
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Rikku, du sollst nur noch mit Ranger antworten!",
+    "start": 27.984,
+    "end": 29.865,
+    "words": [
+      {
+        "text": "Rikku,",
+        "start": 27.984,
+        "end": 28.244
+      },
+      {
+        "text": "du",
+        "start": 28.264,
+        "end": 28.424
+      },
+      {
+        "text": "sollst",
+        "start": 28.444,
+        "end": 28.664
+      },
+      {
+        "text": "nur",
+        "start": 28.704,
+        "end": 28.804
+      },
+      {
+        "text": "noch",
+        "start": 28.844,
+        "end": 28.964
+      },
+      {
+        "text": "mit",
+        "start": 28.984,
+        "end": 29.084
+      },
+      {
+        "text": "Ranger",
+        "start": 29.144,
+        "end": 29.465
+      },
+      {
+        "text": "antworten!",
+        "start": 29.505,
+        "end": 29.865
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Zum Aufwärmen läufst du eine Runde um das Akademiegelände, dann in den Kafka-Wald und kommst wieder zurück.",
+    "start": 31.22,
+    "end": 35.787,
+    "words": [
+      {
+        "text": "Zum",
+        "start": 31.22,
+        "end": 31.381
+      },
+      {
+        "text": "Aufwärmen",
+        "start": 31.421,
+        "end": 31.721
+      },
+      {
+        "text": "läufst",
+        "start": 31.761,
+        "end": 31.941
+      },
+      {
+        "text": "du",
+        "start": 31.981,
+        "end": 32.102
+      },
+      {
+        "text": "eine",
+        "start": 32.142,
+        "end": 32.302
+      },
+      {
+        "text": "Runde",
+        "start": 32.362,
+        "end": 32.562
+      },
+      {
+        "text": "um",
+        "start": 32.602,
+        "end": 32.722
+      },
+      {
+        "text": "das",
+        "start": 32.742,
+        "end": 32.883
+      },
+      {
+        "text": "Akademiegelände,",
+        "start": 32.943,
+        "end": 33.744
+      },
+      {
+        "text": "dann",
+        "start": 33.764,
+        "end": 33.944
+      },
+      {
+        "text": "in",
+        "start": 33.964,
+        "end": 34.044
+      },
+      {
+        "text": "den",
+        "start": 34.064,
+        "end": 34.164
+      },
+      {
+        "text": "Kafka-Wald",
+        "start": 34.204,
+        "end": 34.725
+      },
+      {
+        "text": "und",
+        "start": 34.765,
+        "end": 34.885
+      },
+      {
+        "text": "kommst",
+        "start": 34.905,
+        "end": 35.146
+      },
+      {
+        "text": "wieder",
+        "start": 35.186,
+        "end": 35.386
+      },
+      {
+        "text": "zurück.",
+        "start": 35.406,
+        "end": 35.787
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und da wir hier von einem simplen 20-Kilometer-Lauf reden, sind Körperverstärker dabei verboten.",
+    "start": 35.827,
+    "end": 39.992,
+    "words": [
+      {
+        "text": "Und",
+        "start": 35.827,
+        "end": 35.927
+      },
+      {
+        "text": "da",
+        "start": 35.947,
+        "end": 36.107
+      },
+      {
+        "text": "wir",
+        "start": 36.127,
+        "end": 36.187
+      },
+      {
+        "text": "hier",
+        "start": 36.207,
+        "end": 36.327
+      },
+      {
+        "text": "von",
+        "start": 36.347,
+        "end": 36.427
+      },
+      {
+        "text": "einem",
+        "start": 36.447,
+        "end": 36.548
+      },
+      {
+        "text": "simplen",
+        "start": 36.608,
+        "end": 37.309
+      },
+      {
+        "text": "20-Kilometer-Lauf",
+        "start": 37.329,
+        "end": 38.01
+      },
+      {
+        "text": "reden,",
+        "start": 38.05,
+        "end": 38.25
+      },
+      {
+        "text": "sind",
+        "start": 38.27,
+        "end": 38.43
+      },
+      {
+        "text": "Körperverstärker",
+        "start": 38.47,
+        "end": 39.111
+      },
+      {
+        "text": "dabei",
+        "start": 39.191,
+        "end": 39.432
+      },
+      {
+        "text": "verboten.",
+        "start": 39.452,
+        "end": 39.992
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ist das angekommen?",
+    "start": 40.032,
+    "end": 40.974,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 40.032,
+        "end": 40.153
+      },
+      {
+        "text": "das",
+        "start": 40.193,
+        "end": 40.373
+      },
+      {
+        "text": "angekommen?",
+        "start": 40.413,
+        "end": 40.974
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich soll 20 Kilometer ohne Körperverstärker laufen?",
+    "start": 41.034,
+    "end": 43.437,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 41.034,
+        "end": 41.154
+      },
+      {
+        "text": "soll",
+        "start": 41.174,
+        "end": 41.374
+      },
+      {
+        "text": "Kilometer",
+        "start": 41.775,
+        "end": 42.215
+      },
+      {
+        "text": "ohne",
+        "start": 42.255,
+        "end": 42.436
+      },
+      {
+        "text": "Körperverstärker",
+        "start": 42.476,
+        "end": 43.257
+      },
+      {
+        "text": "laufen?",
+        "start": 43.297,
+        "end": 43.437
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wie bitte?",
+    "start": 43.457,
+    "end": 44.779,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 43.457,
+        "end": 43.637
+      },
+      {
+        "text": "bitte?",
+        "start": 43.657,
+        "end": 44.779
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Bitte verzeihe, ich hab ja verstanden, Ranger.",
+    "start": 44.799,
+    "end": 46.702,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 44.799,
+        "end": 45.079
+      },
+      {
+        "text": "verzeihe,",
+        "start": 45.119,
+        "end": 45.46
+      },
+      {
+        "text": "ich",
+        "start": 45.48,
+        "end": 45.58
+      },
+      {
+        "text": "hab",
+        "start": 45.62,
+        "end": 45.72
+      },
+      {
+        "text": "ja",
+        "start": 45.74,
+        "end": 45.9
+      },
+      {
+        "text": "verstanden,",
+        "start": 45.92,
+        "end": 46.361
+      },
+      {
+        "text": "Ranger.",
+        "start": 46.421,
+        "end": 46.702
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Die meisten Magier verlassen sich blind auf magische Körperverstärkung.",
+    "start": 50.186,
+    "end": 53.729,
+    "words": [
+      {
+        "text": "Die",
+        "start": 50.186,
+        "end": 50.306
+      },
+      {
+        "text": "meisten",
+        "start": 50.326,
+        "end": 50.546
+      },
+      {
+        "text": "Magier",
+        "start": 50.586,
+        "end": 50.827
+      },
+      {
+        "text": "verlassen",
+        "start": 50.867,
+        "end": 51.167
+      },
+      {
+        "text": "sich",
+        "start": 51.207,
+        "end": 51.347
+      },
+      {
+        "text": "blind",
+        "start": 51.367,
+        "end": 51.587
+      },
+      {
+        "text": "auf",
+        "start": 51.607,
+        "end": 51.807
+      },
+      {
+        "text": "magische",
+        "start": 51.827,
+        "end": 52.268
+      },
+      {
+        "text": "Körperverstärkung.",
+        "start": 52.308,
+        "end": 53.729
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Doch das einzige, worauf du dich wirklich verlassen kannst, ist dein eigener Körper.",
+    "start": 53.769,
+    "end": 57.731,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 53.769,
+        "end": 53.909
+      },
+      {
+        "text": "das",
+        "start": 53.949,
+        "end": 54.129
+      },
+      {
+        "text": "einzige,",
+        "start": 54.169,
+        "end": 54.489
+      },
+      {
+        "text": "worauf",
+        "start": 54.509,
+        "end": 54.729
+      },
+      {
+        "text": "du",
+        "start": 54.749,
+        "end": 54.829
+      },
+      {
+        "text": "dich",
+        "start": 54.849,
+        "end": 55.029
+      },
+      {
+        "text": "wirklich",
+        "start": 55.069,
+        "end": 55.35
+      },
+      {
+        "text": "verlassen",
+        "start": 55.39,
+        "end": 55.75
+      },
+      {
+        "text": "kannst,",
+        "start": 55.77,
+        "end": 56.09
+      },
+      {
+        "text": "ist",
+        "start": 56.13,
+        "end": 56.27
+      },
+      {
+        "text": "dein",
+        "start": 56.29,
+        "end": 56.47
+      },
+      {
+        "text": "eigener",
+        "start": 56.51,
+        "end": 56.871
+      },
+      {
+        "text": "Körper.",
+        "start": 56.911,
+        "end": 57.731
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Es ist völlig egal, wie stark dein Wille auch sein mag.",
+    "start": 57.771,
+    "end": 59.812,
+    "words": [
+      {
+        "text": "Es",
+        "start": 57.771,
+        "end": 57.851
+      },
+      {
+        "text": "ist",
+        "start": 57.891,
+        "end": 58.011
+      },
+      {
+        "text": "völlig",
+        "start": 58.051,
+        "end": 58.271
+      },
+      {
+        "text": "egal,",
+        "start": 58.312,
+        "end": 58.532
+      },
+      {
+        "text": "wie",
+        "start": 58.552,
+        "end": 58.672
+      },
+      {
+        "text": "stark",
+        "start": 58.692,
+        "end": 58.892
+      },
+      {
+        "text": "dein",
+        "start": 58.912,
+        "end": 59.052
+      },
+      {
+        "text": "Wille",
+        "start": 59.072,
+        "end": 59.232
+      },
+      {
+        "text": "auch",
+        "start": 59.272,
+        "end": 59.432
+      },
+      {
+        "text": "sein",
+        "start": 59.452,
+        "end": 59.612
+      },
+      {
+        "text": "mag.",
+        "start": 59.632,
+        "end": 59.812
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Er bringt dir rein gar nichts, wenn dein Körper nicht mithält.",
+    "start": 59.853,
+    "end": 61.874,
+    "words": [
+      {
+        "text": "Er",
+        "start": 59.853,
+        "end": 59.933
+      },
+      {
+        "text": "bringt",
+        "start": 59.953,
+        "end": 60.113
+      },
+      {
+        "text": "dir",
+        "start": 60.153,
+        "end": 60.253
+      },
+      {
+        "text": "rein",
+        "start": 60.273,
+        "end": 60.413
+      },
+      {
+        "text": "gar",
+        "start": 60.433,
+        "end": 60.573
+      },
+      {
+        "text": "nichts,",
+        "start": 60.593,
+        "end": 60.733
+      },
+      {
+        "text": "wenn",
+        "start": 60.773,
+        "end": 60.913
+      },
+      {
+        "text": "dein",
+        "start": 60.933,
+        "end": 61.073
+      },
+      {
+        "text": "Körper",
+        "start": 61.093,
+        "end": 61.353
+      },
+      {
+        "text": "nicht",
+        "start": 61.374,
+        "end": 61.514
+      },
+      {
+        "text": "mithält.",
+        "start": 61.554,
+        "end": 61.874
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Also gut, das mag jetzt vielleicht einfach gewesen sein, aber für morgen erwartet dich ein viel härteres Training.",
+    "start": 61.954,
+    "end": 68.478,
+    "words": [
+      {
+        "text": "Also",
+        "start": 61.954,
+        "end": 64.155
+      },
+      {
+        "text": "gut,",
+        "start": 64.175,
+        "end": 64.335
+      },
+      {
+        "text": "das",
+        "start": 64.355,
+        "end": 64.496
+      },
+      {
+        "text": "mag",
+        "start": 64.536,
+        "end": 64.676
+      },
+      {
+        "text": "jetzt",
+        "start": 64.696,
+        "end": 64.836
+      },
+      {
+        "text": "vielleicht",
+        "start": 64.856,
+        "end": 65.176
+      },
+      {
+        "text": "einfach",
+        "start": 65.196,
+        "end": 65.476
+      },
+      {
+        "text": "gewesen",
+        "start": 65.516,
+        "end": 65.876
+      },
+      {
+        "text": "sein,",
+        "start": 65.896,
+        "end": 66.097
+      },
+      {
+        "text": "aber",
+        "start": 66.117,
+        "end": 66.317
+      },
+      {
+        "text": "für",
+        "start": 66.337,
+        "end": 66.477
+      },
+      {
+        "text": "morgen",
+        "start": 66.497,
+        "end": 66.737
+      },
+      {
+        "text": "erwartet",
+        "start": 66.777,
+        "end": 67.137
+      },
+      {
+        "text": "dich",
+        "start": 67.157,
+        "end": 67.297
+      },
+      {
+        "text": "ein",
+        "start": 67.317,
+        "end": 67.477
+      },
+      {
+        "text": "viel",
+        "start": 67.497,
+        "end": 67.658
+      },
+      {
+        "text": "härteres",
+        "start": 67.678,
+        "end": 68.058
+      },
+      {
+        "text": "Training.",
+        "start": 68.098,
+        "end": 68.478
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Was?",
+    "start": 68.678,
+    "end": 69.119,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 68.678,
+        "end": 69.119
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Das heute soll ein einfaches Training gewesen sein?",
+    "start": 69.139,
+    "end": 71.2,
+    "words": [
+      {
+        "text": "Das",
+        "start": 69.139,
+        "end": 69.319
+      },
+      {
+        "text": "heute",
+        "start": 69.339,
+        "end": 69.579
+      },
+      {
+        "text": "soll",
+        "start": 69.599,
+        "end": 69.699
+      },
+      {
+        "text": "ein",
+        "start": 69.719,
+        "end": 69.859
+      },
+      {
+        "text": "einfaches",
+        "start": 69.879,
+        "end": 70.239
+      },
+      {
+        "text": "Training",
+        "start": 70.279,
+        "end": 70.559
+      },
+      {
+        "text": "gewesen",
+        "start": 70.6,
+        "end": 70.88
+      },
+      {
+        "text": "sein?",
+        "start": 70.92,
+        "end": 71.2
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Hast du schon wieder vergessen, wie du mir antworten sollst?",
+    "start": 71.22,
+    "end": 75.102,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 71.22,
+        "end": 71.36
+      },
+      {
+        "text": "du",
+        "start": 71.38,
+        "end": 71.46
+      },
+      {
+        "text": "schon",
+        "start": 71.48,
+        "end": 71.64
+      },
+      {
+        "text": "wieder",
+        "start": 71.66,
+        "end": 71.84
+      },
+      {
+        "text": "vergessen,",
+        "start": 71.86,
+        "end": 72.201
+      },
+      {
+        "text": "wie",
+        "start": 72.221,
+        "end": 72.301
+      },
+      {
+        "text": "du",
+        "start": 72.321,
+        "end": 72.421
+      },
+      {
+        "text": "mir",
+        "start": 72.441,
+        "end": 72.561
+      },
+      {
+        "text": "antworten",
+        "start": 72.581,
+        "end": 72.961
+      },
+      {
+        "text": "sollst?",
+        "start": 72.981,
+        "end": 75.102
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ist ja gut, Ranger!",
+    "start": 75.162,
+    "end": 76.844,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 75.162,
+        "end": 75.283
+      },
+      {
+        "text": "ja",
+        "start": 75.403,
+        "end": 75.563
+      },
+      {
+        "text": "gut,",
+        "start": 75.583,
+        "end": 75.923
+      },
+      {
+        "text": "Ranger!",
+        "start": 75.983,
+        "end": 76.844
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Gut?",
+    "start": 76.884,
+    "end": 77.024,
+    "words": [
+      {
+        "text": "Gut?",
+        "start": 76.884,
+        "end": 77.024
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Was ist denn mit Emilia los?",
+    "start": 82.527,
+    "end": 83.788,
+    "words": [
+      {
+        "text": "Was",
+        "start": 82.527,
+        "end": 82.647
+      },
+      {
+        "text": "ist",
+        "start": 82.667,
+        "end": 82.767
+      },
+      {
+        "text": "denn",
+        "start": 82.787,
+        "end": 82.907
+      },
+      {
+        "text": "mit",
+        "start": 82.927,
+        "end": 83.047
+      },
+      {
+        "text": "Emilia",
+        "start": 83.087,
+        "end": 83.568
+      },
+      {
+        "text": "los?",
+        "start": 83.608,
+        "end": 83.788
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Geht's ihr gut?",
+    "start": 83.808,
+    "end": 85.008,
+    "words": [
+      {
+        "text": "Geht's",
+        "start": 83.808,
+        "end": 83.988
+      },
+      {
+        "text": "ihr",
+        "start": 84.028,
+        "end": 84.168
+      },
+      {
+        "text": "gut?",
+        "start": 84.208,
+        "end": 85.008
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Sie bekommt im Moment ein Spezialtraining von Ray.",
+    "start": 85.028,
+    "end": 87.429,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 85.028,
+        "end": 85.148
+      },
+      {
+        "text": "bekommt",
+        "start": 85.168,
+        "end": 85.528
+      },
+      {
+        "text": "im",
+        "start": 85.548,
+        "end": 85.629
+      },
+      {
+        "text": "Moment",
+        "start": 85.649,
+        "end": 85.869
+      },
+      {
+        "text": "ein",
+        "start": 85.889,
+        "end": 85.969
+      },
+      {
+        "text": "Spezialtraining",
+        "start": 86.009,
+        "end": 86.829
+      },
+      {
+        "text": "von",
+        "start": 86.869,
+        "end": 86.969
+      },
+      {
+        "text": "Ray.",
+        "start": 86.989,
+        "end": 87.429
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Die beiden sind ununterbrochen am Trainieren und sie muss sich von morgens bis abends anstrengen.",
+    "start": 87.449,
+    "end": 91.871,
+    "words": [
+      {
+        "text": "Die",
+        "start": 87.449,
+        "end": 87.569
+      },
+      {
+        "text": "beiden",
+        "start": 87.609,
+        "end": 87.809
+      },
+      {
+        "text": "sind",
+        "start": 87.849,
+        "end": 88.05
+      },
+      {
+        "text": "ununterbrochen",
+        "start": 88.07,
+        "end": 88.69
+      },
+      {
+        "text": "am",
+        "start": 88.73,
+        "end": 88.83
+      },
+      {
+        "text": "Trainieren",
+        "start": 88.87,
+        "end": 89.31
+      },
+      {
+        "text": "und",
+        "start": 89.37,
+        "end": 89.51
+      },
+      {
+        "text": "sie",
+        "start": 89.53,
+        "end": 89.63
+      },
+      {
+        "text": "muss",
+        "start": 89.65,
+        "end": 89.77
+      },
+      {
+        "text": "sich",
+        "start": 89.81,
+        "end": 89.91
+      },
+      {
+        "text": "von",
+        "start": 89.99,
+        "end": 90.13
+      },
+      {
+        "text": "morgens",
+        "start": 90.15,
+        "end": 90.451
+      },
+      {
+        "text": "bis",
+        "start": 90.471,
+        "end": 90.611
+      },
+      {
+        "text": "abends",
+        "start": 90.651,
+        "end": 90.931
+      },
+      {
+        "text": "anstrengen.",
+        "start": 90.991,
+        "end": 91.871
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Jetzt verstehe ich auch, warum dieser Vogel jeden Morgen so eine bescheuerte Maske aufzieht.",
+    "start": 91.891,
+    "end": 95.473,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 91.891,
+        "end": 92.111
+      },
+      {
+        "text": "verstehe",
+        "start": 92.151,
+        "end": 92.431
+      },
+      {
+        "text": "ich",
+        "start": 92.471,
+        "end": 92.571
+      },
+      {
+        "text": "auch,",
+        "start": 92.591,
+        "end": 92.751
+      },
+      {
+        "text": "warum",
+        "start": 92.791,
+        "end": 93.032
+      },
+      {
+        "text": "dieser",
+        "start": 93.072,
+        "end": 93.272
+      },
+      {
+        "text": "Vogel",
+        "start": 93.292,
+        "end": 93.612
+      },
+      {
+        "text": "jeden",
+        "start": 93.632,
+        "end": 93.832
+      },
+      {
+        "text": "Morgen",
+        "start": 93.852,
+        "end": 94.072
+      },
+      {
+        "text": "so",
+        "start": 94.092,
+        "end": 94.192
+      },
+      {
+        "text": "eine",
+        "start": 94.212,
+        "end": 94.332
+      },
+      {
+        "text": "bescheuerte",
+        "start": 94.352,
+        "end": 94.852
+      },
+      {
+        "text": "Maske",
+        "start": 94.872,
+        "end": 95.152
+      },
+      {
+        "text": "aufzieht.",
+        "start": 95.192,
+        "end": 95.473
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Eine Maske?",
+    "start": 95.493,
+    "end": 96.293,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 95.493,
+        "end": 95.713
+      },
+      {
+        "text": "Maske?",
+        "start": 95.753,
+        "end": 96.293
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich hab mich schon gewundert, wozu er beim Joggen morgens bitte eine Maske braucht, aber jetzt ergibt alles Sinn.",
+    "start": 96.313,
+    "end": 100.495,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 96.313,
+        "end": 96.393
+      },
+      {
+        "text": "hab",
+        "start": 96.433,
+        "end": 96.533
+      },
+      {
+        "text": "mich",
+        "start": 96.553,
+        "end": 96.653
+      },
+      {
+        "text": "schon",
+        "start": 96.693,
+        "end": 96.853
+      },
+      {
+        "text": "gewundert,",
+        "start": 96.873,
+        "end": 97.193
+      },
+      {
+        "text": "wozu",
+        "start": 97.213,
+        "end": 97.453
+      },
+      {
+        "text": "er",
+        "start": 97.473,
+        "end": 97.553
+      },
+      {
+        "text": "beim",
+        "start": 97.573,
+        "end": 97.754
+      },
+      {
+        "text": "Joggen",
+        "start": 97.774,
+        "end": 98.014
+      },
+      {
+        "text": "morgens",
+        "start": 98.034,
+        "end": 98.314
+      },
+      {
+        "text": "bitte",
+        "start": 98.354,
+        "end": 98.554
+      },
+      {
+        "text": "eine",
+        "start": 98.614,
+        "end": 98.714
+      },
+      {
+        "text": "Maske",
+        "start": 98.734,
+        "end": 98.974
+      },
+      {
+        "text": "braucht,",
+        "start": 99.014,
+        "end": 99.414
+      },
+      {
+        "text": "aber",
+        "start": 99.454,
+        "end": 99.694
+      },
+      {
+        "text": "jetzt",
+        "start": 99.714,
+        "end": 99.854
+      },
+      {
+        "text": "ergibt",
+        "start": 99.894,
+        "end": 100.115
+      },
+      {
+        "text": "alles",
+        "start": 100.135,
+        "end": 100.315
+      },
+      {
+        "text": "Sinn.",
+        "start": 100.335,
+        "end": 100.495
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Gutes Dach?",
+    "start": 100.515,
+    "end": 100.955,
+    "words": [
+      {
+        "text": "Gutes",
+        "start": 100.515,
+        "end": 100.815
+      },
+      {
+        "text": "Dach?",
+        "start": 100.855,
+        "end": 100.955
+      }
+    ]
+  }
+]

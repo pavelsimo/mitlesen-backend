@@ -1,0 +1,634 @@
+[
+  {
+    "id": 0,
+    "text": " Beim diesjährigen Sportfest wird die gesamte Schule in ein rotes und in ein weißes Team aufgeteilt.",
+    "start": 0.331,
+    "end": 6.453,
+    "words": [
+      {
+        "text": "Beim",
+        "start": 0.331,
+        "end": 0.571
+      },
+      {
+        "text": "diesjährigen",
+        "start": 0.591,
+        "end": 1.151
+      },
+      {
+        "text": "Sportfest",
+        "start": 1.191,
+        "end": 1.852
+      },
+      {
+        "text": "wird",
+        "start": 1.872,
+        "end": 2.032
+      },
+      {
+        "text": "die",
+        "start": 2.052,
+        "end": 2.152
+      },
+      {
+        "text": "gesamte",
+        "start": 2.172,
+        "end": 2.532
+      },
+      {
+        "text": "Schule",
+        "start": 2.572,
+        "end": 2.872
+      },
+      {
+        "text": "in",
+        "start": 2.912,
+        "end": 3.012
+      },
+      {
+        "text": "ein",
+        "start": 3.032,
+        "end": 3.192
+      },
+      {
+        "text": "rotes",
+        "start": 3.252,
+        "end": 3.732
+      },
+      {
+        "text": "und",
+        "start": 3.752,
+        "end": 3.892
+      },
+      {
+        "text": "in",
+        "start": 3.932,
+        "end": 4.012
+      },
+      {
+        "text": "ein",
+        "start": 4.052,
+        "end": 4.232
+      },
+      {
+        "text": "weißes",
+        "start": 4.272,
+        "end": 4.732
+      },
+      {
+        "text": "Team",
+        "start": 4.772,
+        "end": 5.093
+      },
+      {
+        "text": "aufgeteilt.",
+        "start": 5.133,
+        "end": 6.453
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Die Klasse D bildet zusammen mit der Klasse A das rote Team.",
+    "start": 6.493,
+    "end": 10.494,
+    "words": [
+      {
+        "text": "Die",
+        "start": 6.493,
+        "end": 6.593
+      },
+      {
+        "text": "Klasse",
+        "start": 6.633,
+        "end": 6.993
+      },
+      {
+        "text": "D",
+        "start": 7.053,
+        "end": 7.673
+      },
+      {
+        "text": "bildet",
+        "start": 7.713,
+        "end": 8.073
+      },
+      {
+        "text": "zusammen",
+        "start": 8.113,
+        "end": 8.454
+      },
+      {
+        "text": "mit",
+        "start": 8.494,
+        "end": 8.594
+      },
+      {
+        "text": "der",
+        "start": 8.614,
+        "end": 8.714
+      },
+      {
+        "text": "Klasse",
+        "start": 8.754,
+        "end": 9.114
+      },
+      {
+        "text": "A",
+        "start": 9.174,
+        "end": 9.594
+      },
+      {
+        "text": "das",
+        "start": 9.634,
+        "end": 9.814
+      },
+      {
+        "text": "rote",
+        "start": 9.874,
+        "end": 10.194
+      },
+      {
+        "text": "Team.",
+        "start": 10.234,
+        "end": 10.494
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was?",
+    "start": 10.874,
+    "end": 11.094,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 10.874,
+        "end": 11.094
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "In einem Team mit Klasse A?",
+    "start": 11.134,
+    "end": 12.855,
+    "words": [
+      {
+        "text": "In",
+        "start": 11.134,
+        "end": 11.294
+      },
+      {
+        "text": "einem",
+        "start": 11.334,
+        "end": 11.534
+      },
+      {
+        "text": "Team",
+        "start": 11.575,
+        "end": 11.715
+      },
+      {
+        "text": "mit",
+        "start": 11.735,
+        "end": 11.855
+      },
+      {
+        "text": "Klasse",
+        "start": 11.875,
+        "end": 12.155
+      },
+      {
+        "text": "A?",
+        "start": 12.235,
+        "end": 12.855
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Mit den Jahrgängen 2 und 3.",
+    "start": 12.895,
+    "end": 14.455,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 12.895,
+        "end": 13.015
+      },
+      {
+        "text": "den",
+        "start": 13.035,
+        "end": 13.175
+      },
+      {
+        "text": "Jahrgängen",
+        "start": 13.215,
+        "end": 13.775
+      },
+      {
+        "text": "und",
+        "start": 14.035,
+        "end": 14.455
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Oh Mann, ist das ätzend.",
+    "start": 14.535,
+    "end": 17.056,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 14.535,
+        "end": 14.876
+      },
+      {
+        "text": "Mann,",
+        "start": 14.896,
+        "end": 15.116
+      },
+      {
+        "text": "ist",
+        "start": 15.156,
+        "end": 15.296
+      },
+      {
+        "text": "das",
+        "start": 15.336,
+        "end": 15.536
+      },
+      {
+        "text": "ätzend.",
+        "start": 15.616,
+        "end": 17.056
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich kenn Zulu, werde das rote Team zum Sieg führen.",
+    "start": 17.096,
+    "end": 21.077,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 17.096,
+        "end": 17.216
+      },
+      {
+        "text": "kenn",
+        "start": 17.256,
+        "end": 17.476
+      },
+      {
+        "text": "Zulu,",
+        "start": 17.516,
+        "end": 17.776
+      },
+      {
+        "text": "werde",
+        "start": 17.796,
+        "end": 18.036
+      },
+      {
+        "text": "das",
+        "start": 18.056,
+        "end": 18.177
+      },
+      {
+        "text": "rote",
+        "start": 18.237,
+        "end": 18.457
+      },
+      {
+        "text": "Team",
+        "start": 18.497,
+        "end": 18.677
+      },
+      {
+        "text": "zum",
+        "start": 18.697,
+        "end": 18.917
+      },
+      {
+        "text": "Sieg",
+        "start": 18.957,
+        "end": 19.157
+      },
+      {
+        "text": "führen.",
+        "start": 19.197,
+        "end": 21.077
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Bitte meldet euch.",
+    "start": 21.117,
+    "end": 22.078,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 21.117,
+        "end": 21.357
+      },
+      {
+        "text": "meldet",
+        "start": 21.418,
+        "end": 21.698
+      },
+      {
+        "text": "euch.",
+        "start": 21.738,
+        "end": 22.078
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Leute, so versteht man nichts.",
+    "start": 22.118,
+    "end": 23.798,
+    "words": [
+      {
+        "text": "Leute,",
+        "start": 22.118,
+        "end": 22.378
+      },
+      {
+        "text": "so",
+        "start": 22.418,
+        "end": 22.538
+      },
+      {
+        "text": "versteht",
+        "start": 22.578,
+        "end": 22.958
+      },
+      {
+        "text": "man",
+        "start": 22.978,
+        "end": 23.118
+      },
+      {
+        "text": "nichts.",
+        "start": 23.158,
+        "end": 23.798
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Kommt schon Leute, beruhigt euch doch mal endlich.",
+    "start": 23.838,
+    "end": 25.959,
+    "words": [
+      {
+        "text": "Kommt",
+        "start": 23.838,
+        "end": 24.018
+      },
+      {
+        "text": "schon",
+        "start": 24.038,
+        "end": 24.298
+      },
+      {
+        "text": "Leute,",
+        "start": 24.318,
+        "end": 24.538
+      },
+      {
+        "text": "beruhigt",
+        "start": 24.578,
+        "end": 24.939
+      },
+      {
+        "text": "euch",
+        "start": 24.979,
+        "end": 25.179
+      },
+      {
+        "text": "doch",
+        "start": 25.219,
+        "end": 25.299
+      },
+      {
+        "text": "mal",
+        "start": 25.419,
+        "end": 25.579
+      },
+      {
+        "text": "endlich.",
+        "start": 25.619,
+        "end": 25.959
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Denkst du etwa darüber nach, dass du ihm endlich begegnen könntest, oder was soll der Gesichtsausdruck bedeuten?",
+    "start": 28.276,
+    "end": 33.399,
+    "words": [
+      {
+        "text": "Denkst",
+        "start": 28.276,
+        "end": 28.436
+      },
+      {
+        "text": "du",
+        "start": 28.476,
+        "end": 28.556
+      },
+      {
+        "text": "etwa",
+        "start": 28.576,
+        "end": 28.796
+      },
+      {
+        "text": "darüber",
+        "start": 28.816,
+        "end": 29.117
+      },
+      {
+        "text": "nach,",
+        "start": 29.137,
+        "end": 29.337
+      },
+      {
+        "text": "dass",
+        "start": 29.357,
+        "end": 29.517
+      },
+      {
+        "text": "du",
+        "start": 29.557,
+        "end": 29.657
+      },
+      {
+        "text": "ihm",
+        "start": 29.677,
+        "end": 29.837
+      },
+      {
+        "text": "endlich",
+        "start": 29.857,
+        "end": 30.137
+      },
+      {
+        "text": "begegnen",
+        "start": 30.157,
+        "end": 30.637
+      },
+      {
+        "text": "könntest,",
+        "start": 30.657,
+        "end": 31.058
+      },
+      {
+        "text": "oder",
+        "start": 31.078,
+        "end": 31.258
+      },
+      {
+        "text": "was",
+        "start": 31.298,
+        "end": 31.418
+      },
+      {
+        "text": "soll",
+        "start": 31.438,
+        "end": 31.598
+      },
+      {
+        "text": "der",
+        "start": 31.618,
+        "end": 31.738
+      },
+      {
+        "text": "Gesichtsausdruck",
+        "start": 31.758,
+        "end": 32.378
+      },
+      {
+        "text": "bedeuten?",
+        "start": 32.418,
+        "end": 33.399
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Diese Sache hat dir überhaupt nichts verloren, klar?",
+    "start": 33.419,
+    "end": 35.36,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 33.419,
+        "end": 33.619
+      },
+      {
+        "text": "Sache",
+        "start": 33.679,
+        "end": 33.879
+      },
+      {
+        "text": "hat",
+        "start": 33.899,
+        "end": 34.019
+      },
+      {
+        "text": "dir",
+        "start": 34.039,
+        "end": 34.179
+      },
+      {
+        "text": "überhaupt",
+        "start": 34.219,
+        "end": 34.479
+      },
+      {
+        "text": "nichts",
+        "start": 34.499,
+        "end": 34.7
+      },
+      {
+        "text": "verloren,",
+        "start": 34.74,
+        "end": 35.16
+      },
+      {
+        "text": "klar?",
+        "start": 35.18,
+        "end": 35.36
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich werde es dir kein zweites Mal sagen.",
+    "start": 35.92,
+    "end": 37.561,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 35.92,
+        "end": 36.16
+      },
+      {
+        "text": "werde",
+        "start": 36.2,
+        "end": 36.601
+      },
+      {
+        "text": "es",
+        "start": 36.621,
+        "end": 36.721
+      },
+      {
+        "text": "dir",
+        "start": 36.741,
+        "end": 36.821
+      },
+      {
+        "text": "kein",
+        "start": 36.841,
+        "end": 36.921
+      },
+      {
+        "text": "zweites",
+        "start": 36.941,
+        "end": 37.121
+      },
+      {
+        "text": "Mal",
+        "start": 37.141,
+        "end": 37.221
+      },
+      {
+        "text": "sagen.",
+        "start": 37.241,
+        "end": 37.561
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Oh.",
+    "start": 37.601,
+    "end": 37.661,
+    "words": [
+      {
+        "text": "Oh.",
+        "start": 37.601,
+        "end": 37.661
+      }
+    ]
+  }
+]

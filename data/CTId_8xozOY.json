@@ -1,0 +1,1693 @@
+[
+  {
+    "id": 0,
+    "text": " Agnes, Josephine, hört mir bitte zu.",
+    "start": 1.546,
+    "end": 4.868,
+    "words": [
+      {
+        "text": "Agnes,",
+        "start": 1.546,
+        "end": 2.447
+      },
+      {
+        "text": "Josephine,",
+        "start": 2.487,
+        "end": 3.608
+      },
+      {
+        "text": "hört",
+        "start": 3.648,
+        "end": 3.828
+      },
+      {
+        "text": "mir",
+        "start": 3.848,
+        "end": 3.968
+      },
+      {
+        "text": "bitte",
+        "start": 4.008,
+        "end": 4.248
+      },
+      {
+        "text": "zu.",
+        "start": 4.288,
+        "end": 4.868
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich möchte, dass Pace die Weihe begeht.",
+    "start": 4.908,
+    "end": 8.451,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.908,
+        "end": 5.048
+      },
+      {
+        "text": "möchte,",
+        "start": 5.088,
+        "end": 5.369
+      },
+      {
+        "text": "dass",
+        "start": 5.409,
+        "end": 5.569
+      },
+      {
+        "text": "Pace",
+        "start": 5.609,
+        "end": 5.809
+      },
+      {
+        "text": "die",
+        "start": 5.829,
+        "end": 5.949
+      },
+      {
+        "text": "Weihe",
+        "start": 5.989,
+        "end": 6.209
+      },
+      {
+        "text": "begeht.",
+        "start": 6.249,
+        "end": 8.451
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Liebling, denkst du nicht, dass es noch etwas zu früh für unseren Pace ist?",
+    "start": 8.491,
+    "end": 12.013,
+    "words": [
+      {
+        "text": "Liebling,",
+        "start": 8.491,
+        "end": 8.831
+      },
+      {
+        "text": "denkst",
+        "start": 8.851,
+        "end": 9.051
+      },
+      {
+        "text": "du",
+        "start": 9.071,
+        "end": 9.151
+      },
+      {
+        "text": "nicht,",
+        "start": 9.171,
+        "end": 9.291
+      },
+      {
+        "text": "dass",
+        "start": 9.331,
+        "end": 9.451
+      },
+      {
+        "text": "es",
+        "start": 9.491,
+        "end": 9.611
+      },
+      {
+        "text": "noch",
+        "start": 9.631,
+        "end": 9.771
+      },
+      {
+        "text": "etwas",
+        "start": 9.811,
+        "end": 10.052
+      },
+      {
+        "text": "zu",
+        "start": 10.072,
+        "end": 10.192
+      },
+      {
+        "text": "früh",
+        "start": 10.232,
+        "end": 10.432
+      },
+      {
+        "text": "für",
+        "start": 10.452,
+        "end": 10.572
+      },
+      {
+        "text": "unseren",
+        "start": 10.612,
+        "end": 10.892
+      },
+      {
+        "text": "Pace",
+        "start": 10.932,
+        "end": 11.232
+      },
+      {
+        "text": "ist?",
+        "start": 11.272,
+        "end": 12.013
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wir wissen beide, wie brillant unser Junge ist.",
+    "start": 12.053,
+    "end": 14.675,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 12.053,
+        "end": 12.193
+      },
+      {
+        "text": "wissen",
+        "start": 12.213,
+        "end": 12.453
+      },
+      {
+        "text": "beide,",
+        "start": 12.473,
+        "end": 12.773
+      },
+      {
+        "text": "wie",
+        "start": 12.793,
+        "end": 12.893
+      },
+      {
+        "text": "brillant",
+        "start": 12.934,
+        "end": 13.354
+      },
+      {
+        "text": "unser",
+        "start": 13.394,
+        "end": 13.634
+      },
+      {
+        "text": "Junge",
+        "start": 13.654,
+        "end": 13.914
+      },
+      {
+        "text": "ist.",
+        "start": 13.974,
+        "end": 14.675
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Und er kann das Schwert so gut wie kein anderer in seinem Alter führen.",
+    "start": 14.695,
+    "end": 18.977,
+    "words": [
+      {
+        "text": "Und",
+        "start": 14.695,
+        "end": 14.835
+      },
+      {
+        "text": "er",
+        "start": 14.875,
+        "end": 14.955
+      },
+      {
+        "text": "kann",
+        "start": 14.975,
+        "end": 15.135
+      },
+      {
+        "text": "das",
+        "start": 15.155,
+        "end": 15.255
+      },
+      {
+        "text": "Schwert",
+        "start": 15.275,
+        "end": 15.475
+      },
+      {
+        "text": "so",
+        "start": 15.515,
+        "end": 15.615
+      },
+      {
+        "text": "gut",
+        "start": 15.635,
+        "end": 15.775
+      },
+      {
+        "text": "wie",
+        "start": 15.815,
+        "end": 15.915
+      },
+      {
+        "text": "kein",
+        "start": 15.935,
+        "end": 16.136
+      },
+      {
+        "text": "anderer",
+        "start": 16.156,
+        "end": 16.356
+      },
+      {
+        "text": "in",
+        "start": 16.376,
+        "end": 16.456
+      },
+      {
+        "text": "seinem",
+        "start": 16.476,
+        "end": 16.696
+      },
+      {
+        "text": "Alter",
+        "start": 16.736,
+        "end": 16.996
+      },
+      {
+        "text": "führen.",
+        "start": 17.036,
+        "end": 18.977
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Aber... Ich halte den Jungen für erwachsen.",
+    "start": 19.037,
+    "end": 21.679,
+    "words": [
+      {
+        "text": "Aber...",
+        "start": 19.037,
+        "end": 19.958
+      },
+      {
+        "text": "Ich",
+        "start": 19.978,
+        "end": 20.078
+      },
+      {
+        "text": "halte",
+        "start": 20.118,
+        "end": 20.398
+      },
+      {
+        "text": "den",
+        "start": 20.418,
+        "end": 20.558
+      },
+      {
+        "text": "Jungen",
+        "start": 20.578,
+        "end": 20.819
+      },
+      {
+        "text": "für",
+        "start": 20.859,
+        "end": 20.939
+      },
+      {
+        "text": "erwachsen.",
+        "start": 20.999,
+        "end": 21.679
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Er weiß bereits, was es heißt, ein Fürst zu sein.",
+    "start": 21.719,
+    "end": 24.081,
+    "words": [
+      {
+        "text": "Er",
+        "start": 21.719,
+        "end": 21.839
+      },
+      {
+        "text": "weiß",
+        "start": 21.859,
+        "end": 22.079
+      },
+      {
+        "text": "bereits,",
+        "start": 22.119,
+        "end": 22.4
+      },
+      {
+        "text": "was",
+        "start": 22.44,
+        "end": 22.54
+      },
+      {
+        "text": "es",
+        "start": 22.6,
+        "end": 22.68
+      },
+      {
+        "text": "heißt,",
+        "start": 22.7,
+        "end": 22.94
+      },
+      {
+        "text": "ein",
+        "start": 22.98,
+        "end": 23.08
+      },
+      {
+        "text": "Fürst",
+        "start": 23.12,
+        "end": 23.36
+      },
+      {
+        "text": "zu",
+        "start": 23.4,
+        "end": 23.5
+      },
+      {
+        "text": "sein.",
+        "start": 23.54,
+        "end": 24.081
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Die Weihe zu begehen ist in dieser Welt eine Zeremonie des Erwachsenwerdens.",
+    "start": 24.101,
+    "end": 28.684,
+    "words": [
+      {
+        "text": "Die",
+        "start": 24.101,
+        "end": 24.261
+      },
+      {
+        "text": "Weihe",
+        "start": 24.301,
+        "end": 24.641
+      },
+      {
+        "text": "zu",
+        "start": 24.661,
+        "end": 24.761
+      },
+      {
+        "text": "begehen",
+        "start": 24.801,
+        "end": 25.161
+      },
+      {
+        "text": "ist",
+        "start": 25.221,
+        "end": 25.341
+      },
+      {
+        "text": "in",
+        "start": 25.402,
+        "end": 25.542
+      },
+      {
+        "text": "dieser",
+        "start": 25.562,
+        "end": 25.762
+      },
+      {
+        "text": "Welt",
+        "start": 25.802,
+        "end": 26.022
+      },
+      {
+        "text": "eine",
+        "start": 26.062,
+        "end": 26.242
+      },
+      {
+        "text": "Zeremonie",
+        "start": 26.282,
+        "end": 26.782
+      },
+      {
+        "text": "des",
+        "start": 26.802,
+        "end": 26.963
+      },
+      {
+        "text": "Erwachsenwerdens.",
+        "start": 27.003,
+        "end": 28.684
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sicher, mit neun bin ich noch sehr jung.",
+    "start": 28.724,
+    "end": 30.685,
+    "words": [
+      {
+        "text": "Sicher,",
+        "start": 28.724,
+        "end": 29.444
+      },
+      {
+        "text": "mit",
+        "start": 29.484,
+        "end": 29.684
+      },
+      {
+        "text": "neun",
+        "start": 29.704,
+        "end": 29.944
+      },
+      {
+        "text": "bin",
+        "start": 29.964,
+        "end": 30.064
+      },
+      {
+        "text": "ich",
+        "start": 30.105,
+        "end": 30.205
+      },
+      {
+        "text": "noch",
+        "start": 30.245,
+        "end": 30.365
+      },
+      {
+        "text": "sehr",
+        "start": 30.385,
+        "end": 30.505
+      },
+      {
+        "text": "jung.",
+        "start": 30.565,
+        "end": 30.685
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Aber es kommt mir sehr gelegen.",
+    "start": 31.848,
+    "end": 34.151,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 31.848,
+        "end": 32.028
+      },
+      {
+        "text": "es",
+        "start": 32.068,
+        "end": 32.128
+      },
+      {
+        "text": "kommt",
+        "start": 32.149,
+        "end": 32.309
+      },
+      {
+        "text": "mir",
+        "start": 32.329,
+        "end": 32.449
+      },
+      {
+        "text": "sehr",
+        "start": 32.469,
+        "end": 32.609
+      },
+      {
+        "text": "gelegen.",
+        "start": 32.629,
+        "end": 34.151
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Meine Mutter ist allerdings geschockt.",
+    "start": 34.191,
+    "end": 35.913,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 34.191,
+        "end": 34.411
+      },
+      {
+        "text": "Mutter",
+        "start": 34.451,
+        "end": 34.691
+      },
+      {
+        "text": "ist",
+        "start": 34.731,
+        "end": 34.891
+      },
+      {
+        "text": "allerdings",
+        "start": 34.912,
+        "end": 35.372
+      },
+      {
+        "text": "geschockt.",
+        "start": 35.412,
+        "end": 35.913
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Die Weihe wird normalerweise im Alter von 13 bis 15 begangen.",
+    "start": 35.953,
+    "end": 39.757,
+    "words": [
+      {
+        "text": "Die",
+        "start": 35.953,
+        "end": 36.373
+      },
+      {
+        "text": "Weihe",
+        "start": 36.553,
+        "end": 37.314
+      },
+      {
+        "text": "wird",
+        "start": 37.815,
+        "end": 37.995
+      },
+      {
+        "text": "normalerweise",
+        "start": 38.035,
+        "end": 38.776
+      },
+      {
+        "text": "im",
+        "start": 38.816,
+        "end": 38.896
+      },
+      {
+        "text": "Alter",
+        "start": 38.936,
+        "end": 39.176
+      },
+      {
+        "text": "von",
+        "start": 39.216,
+        "end": 39.356
+      },
+      {
+        "text": "bis",
+        "start": 39.416,
+        "end": 39.537
+      },
+      {
+        "text": "begangen.",
+        "start": 39.577,
+        "end": 39.757
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wir werden in drei Tagen aufbrechen.",
+    "start": 39.777,
+    "end": 41.699,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 39.777,
+        "end": 40.017
+      },
+      {
+        "text": "werden",
+        "start": 40.037,
+        "end": 40.357
+      },
+      {
+        "text": "in",
+        "start": 40.397,
+        "end": 40.438
+      },
+      {
+        "text": "drei",
+        "start": 40.478,
+        "end": 40.558
+      },
+      {
+        "text": "Tagen",
+        "start": 40.598,
+        "end": 40.798
+      },
+      {
+        "text": "aufbrechen.",
+        "start": 40.878,
+        "end": 41.699
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Bereite bitte alles vor.",
+    "start": 41.719,
+    "end": 42.98,
+    "words": [
+      {
+        "text": "Bereite",
+        "start": 41.719,
+        "end": 42.139
+      },
+      {
+        "text": "bitte",
+        "start": 42.159,
+        "end": 42.32
+      },
+      {
+        "text": "alles",
+        "start": 42.34,
+        "end": 42.82
+      },
+      {
+        "text": "vor.",
+        "start": 42.84,
+        "end": 42.98
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ja!",
+    "start": 43.0,
+    "end": 43.04,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 43.0,
+        "end": 43.04
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Josie, meine Liebe, wirst du mir bitte dabei helfen?",
+    "start": 50.437,
+    "end": 53.358,
+    "words": [
+      {
+        "text": "Josie,",
+        "start": 50.437,
+        "end": 51.337
+      },
+      {
+        "text": "meine",
+        "start": 51.377,
+        "end": 51.617
+      },
+      {
+        "text": "Liebe,",
+        "start": 51.637,
+        "end": 51.898
+      },
+      {
+        "text": "wirst",
+        "start": 51.938,
+        "end": 52.078
+      },
+      {
+        "text": "du",
+        "start": 52.098,
+        "end": 52.178
+      },
+      {
+        "text": "mir",
+        "start": 52.218,
+        "end": 52.378
+      },
+      {
+        "text": "bitte",
+        "start": 52.398,
+        "end": 52.658
+      },
+      {
+        "text": "dabei",
+        "start": 52.698,
+        "end": 52.938
+      },
+      {
+        "text": "helfen?",
+        "start": 52.978,
+        "end": 53.358
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ja, das mach ich doch gerne, Mutter.",
+    "start": 53.378,
+    "end": 55.079,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 53.378,
+        "end": 53.538
+      },
+      {
+        "text": "das",
+        "start": 53.578,
+        "end": 53.758
+      },
+      {
+        "text": "mach",
+        "start": 53.798,
+        "end": 53.978
+      },
+      {
+        "text": "ich",
+        "start": 54.018,
+        "end": 54.118
+      },
+      {
+        "text": "doch",
+        "start": 54.138,
+        "end": 54.318
+      },
+      {
+        "text": "gerne,",
+        "start": 54.358,
+        "end": 54.639
+      },
+      {
+        "text": "Mutter.",
+        "start": 54.659,
+        "end": 55.079
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Schließlich wird er unsere Familie repräsentieren.",
+    "start": 55.119,
+    "end": 57.66,
+    "words": [
+      {
+        "text": "Schließlich",
+        "start": 55.119,
+        "end": 55.639
+      },
+      {
+        "text": "wird",
+        "start": 55.659,
+        "end": 55.839
+      },
+      {
+        "text": "er",
+        "start": 55.899,
+        "end": 56.059
+      },
+      {
+        "text": "unsere",
+        "start": 56.099,
+        "end": 56.439
+      },
+      {
+        "text": "Familie",
+        "start": 56.459,
+        "end": 56.959
+      },
+      {
+        "text": "repräsentieren.",
+        "start": 56.999,
+        "end": 57.66
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Da wollen wir doch nichts dem Zufall überlassen, oder?",
+    "start": 57.7,
+    "end": 59.981,
+    "words": [
+      {
+        "text": "Da",
+        "start": 57.7,
+        "end": 57.82
+      },
+      {
+        "text": "wollen",
+        "start": 57.84,
+        "end": 58.02
+      },
+      {
+        "text": "wir",
+        "start": 58.04,
+        "end": 58.16
+      },
+      {
+        "text": "doch",
+        "start": 58.2,
+        "end": 58.34
+      },
+      {
+        "text": "nichts",
+        "start": 58.38,
+        "end": 58.54
+      },
+      {
+        "text": "dem",
+        "start": 58.56,
+        "end": 58.72
+      },
+      {
+        "text": "Zufall",
+        "start": 58.76,
+        "end": 59.14
+      },
+      {
+        "text": "überlassen,",
+        "start": 59.18,
+        "end": 59.62
+      },
+      {
+        "text": "oder?",
+        "start": 59.661,
+        "end": 59.981
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Vielleicht sollten wir mit seiner Garderobe beginnen.",
+    "start": 60.001,
+    "end": 62.722,
+    "words": [
+      {
+        "text": "Vielleicht",
+        "start": 60.001,
+        "end": 60.521
+      },
+      {
+        "text": "sollten",
+        "start": 60.561,
+        "end": 60.941
+      },
+      {
+        "text": "wir",
+        "start": 60.981,
+        "end": 61.241
+      },
+      {
+        "text": "mit",
+        "start": 61.261,
+        "end": 61.421
+      },
+      {
+        "text": "seiner",
+        "start": 61.441,
+        "end": 61.741
+      },
+      {
+        "text": "Garderobe",
+        "start": 61.761,
+        "end": 62.322
+      },
+      {
+        "text": "beginnen.",
+        "start": 62.342,
+        "end": 62.722
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Oh nein, wenn sie so lächeln, führen sie was im Schilde.",
+    "start": 63.682,
+    "end": 67.043,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 63.682,
+        "end": 64.022
+      },
+      {
+        "text": "nein,",
+        "start": 64.042,
+        "end": 64.482
+      },
+      {
+        "text": "wenn",
+        "start": 64.542,
+        "end": 65.183
+      },
+      {
+        "text": "sie",
+        "start": 65.223,
+        "end": 65.343
+      },
+      {
+        "text": "so",
+        "start": 65.363,
+        "end": 65.483
+      },
+      {
+        "text": "lächeln,",
+        "start": 65.563,
+        "end": 65.863
+      },
+      {
+        "text": "führen",
+        "start": 65.903,
+        "end": 66.083
+      },
+      {
+        "text": "sie",
+        "start": 66.103,
+        "end": 66.183
+      },
+      {
+        "text": "was",
+        "start": 66.223,
+        "end": 66.343
+      },
+      {
+        "text": "im",
+        "start": 66.383,
+        "end": 66.463
+      },
+      {
+        "text": "Schilde.",
+        "start": 66.503,
+        "end": 67.043
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Vater, tu doch was!",
+    "start": 67.063,
+    "end": 68.264,
+    "words": [
+      {
+        "text": "Vater,",
+        "start": 67.063,
+        "end": 67.503
+      },
+      {
+        "text": "tu",
+        "start": 67.523,
+        "end": 67.684
+      },
+      {
+        "text": "doch",
+        "start": 67.704,
+        "end": 67.884
+      },
+      {
+        "text": "was!",
+        "start": 67.924,
+        "end": 68.264
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Guten Appetit.",
+    "start": 68.304,
+    "end": 69.204,
+    "words": [
+      {
+        "text": "Guten",
+        "start": 68.304,
+        "end": 68.644
+      },
+      {
+        "text": "Appetit.",
+        "start": 68.704,
+        "end": 69.204
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Vater!",
+    "start": 69.944,
+    "end": 72.605,
+    "words": [
+      {
+        "text": "Vater!",
+        "start": 69.944,
+        "end": 72.605
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wie niedlich!",
+    "start": 72.645,
+    "end": 73.786,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 72.645,
+        "end": 73.006
+      },
+      {
+        "text": "niedlich!",
+        "start": 73.066,
+        "end": 73.786
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": " Jetzt wartet aber mal, findet ihr das nicht total übertrieben?",
+    "start": 75.552,
+    "end": 79.253,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 75.552,
+        "end": 75.752
+      },
+      {
+        "text": "wartet",
+        "start": 75.832,
+        "end": 76.192
+      },
+      {
+        "text": "aber",
+        "start": 76.212,
+        "end": 76.392
+      },
+      {
+        "text": "mal,",
+        "start": 76.492,
+        "end": 76.872
+      },
+      {
+        "text": "findet",
+        "start": 76.913,
+        "end": 77.193
+      },
+      {
+        "text": "ihr",
+        "start": 77.233,
+        "end": 77.333
+      },
+      {
+        "text": "das",
+        "start": 77.353,
+        "end": 77.493
+      },
+      {
+        "text": "nicht",
+        "start": 77.533,
+        "end": 77.693
+      },
+      {
+        "text": "total",
+        "start": 77.733,
+        "end": 78.113
+      },
+      {
+        "text": "übertrieben?",
+        "start": 78.173,
+        "end": 79.253
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ich finde, es steht dir ausgezeichnet, Pace.",
+    "start": 79.293,
+    "end": 81.514,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 79.293,
+        "end": 79.453
+      },
+      {
+        "text": "finde,",
+        "start": 79.493,
+        "end": 79.773
+      },
+      {
+        "text": "es",
+        "start": 79.793,
+        "end": 79.893
+      },
+      {
+        "text": "steht",
+        "start": 79.913,
+        "end": 80.133
+      },
+      {
+        "text": "dir",
+        "start": 80.173,
+        "end": 80.334
+      },
+      {
+        "text": "ausgezeichnet,",
+        "start": 80.374,
+        "end": 81.094
+      },
+      {
+        "text": "Pace.",
+        "start": 81.134,
+        "end": 81.514
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Und diese Schuhe hier würden wunderbar dazu passen.",
+    "start": 81.574,
+    "end": 84.335,
+    "words": [
+      {
+        "text": "Und",
+        "start": 81.574,
+        "end": 81.694
+      },
+      {
+        "text": "diese",
+        "start": 81.714,
+        "end": 82.054
+      },
+      {
+        "text": "Schuhe",
+        "start": 82.094,
+        "end": 82.394
+      },
+      {
+        "text": "hier",
+        "start": 82.414,
+        "end": 82.574
+      },
+      {
+        "text": "würden",
+        "start": 82.614,
+        "end": 82.874
+      },
+      {
+        "text": "wunderbar",
+        "start": 82.914,
+        "end": 83.314
+      },
+      {
+        "text": "dazu",
+        "start": 83.354,
+        "end": 83.614
+      },
+      {
+        "text": "passen.",
+        "start": 83.654,
+        "end": 84.335
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Aber sind das nicht deine Lieblingsschuhe, Josefine?",
+    "start": 84.395,
+    "end": 86.795,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 84.395,
+        "end": 84.855
+      },
+      {
+        "text": "sind",
+        "start": 84.875,
+        "end": 85.035
+      },
+      {
+        "text": "das",
+        "start": 85.055,
+        "end": 85.195
+      },
+      {
+        "text": "nicht",
+        "start": 85.215,
+        "end": 85.355
+      },
+      {
+        "text": "deine",
+        "start": 85.395,
+        "end": 85.595
+      },
+      {
+        "text": "Lieblingsschuhe,",
+        "start": 85.615,
+        "end": 86.315
+      },
+      {
+        "text": "Josefine?",
+        "start": 86.375,
+        "end": 86.795
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Das ist schon in Ordnung, nur das allerbeste für meinen süßen Bruder.",
+    "start": 86.815,
+    "end": 89.796,
+    "words": [
+      {
+        "text": "Das",
+        "start": 86.815,
+        "end": 86.915
+      },
+      {
+        "text": "ist",
+        "start": 86.975,
+        "end": 87.095
+      },
+      {
+        "text": "schon",
+        "start": 87.135,
+        "end": 87.296
+      },
+      {
+        "text": "in",
+        "start": 87.336,
+        "end": 87.436
+      },
+      {
+        "text": "Ordnung,",
+        "start": 87.496,
+        "end": 87.776
+      },
+      {
+        "text": "nur",
+        "start": 87.816,
+        "end": 87.936
+      },
+      {
+        "text": "das",
+        "start": 87.956,
+        "end": 88.116
+      },
+      {
+        "text": "allerbeste",
+        "start": 88.156,
+        "end": 88.676
+      },
+      {
+        "text": "für",
+        "start": 88.696,
+        "end": 88.836
+      },
+      {
+        "text": "meinen",
+        "start": 88.876,
+        "end": 89.076
+      },
+      {
+        "text": "süßen",
+        "start": 89.136,
+        "end": 89.456
+      },
+      {
+        "text": "Bruder.",
+        "start": 89.496,
+        "end": 89.796
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Na gut, dann werden wir ihn also schminken.",
+    "start": 89.816,
+    "end": 92.897,
+    "words": [
+      {
+        "text": "Na",
+        "start": 89.816,
+        "end": 89.936
+      },
+      {
+        "text": "gut,",
+        "start": 89.976,
+        "end": 90.116
+      },
+      {
+        "text": "dann",
+        "start": 90.136,
+        "end": 90.276
+      },
+      {
+        "text": "werden",
+        "start": 90.296,
+        "end": 91.037
+      },
+      {
+        "text": "wir",
+        "start": 91.057,
+        "end": 91.177
+      },
+      {
+        "text": "ihn",
+        "start": 91.237,
+        "end": 91.357
+      },
+      {
+        "text": "also",
+        "start": 91.417,
+        "end": 91.697
+      },
+      {
+        "text": "schminken.",
+        "start": 91.757,
+        "end": 92.897
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Mit Farbe sieht deine Haut bezaubernd aus.",
+    "start": 92.957,
+    "end": 95.518,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 92.957,
+        "end": 93.137
+      },
+      {
+        "text": "Farbe",
+        "start": 93.177,
+        "end": 93.437
+      },
+      {
+        "text": "sieht",
+        "start": 93.457,
+        "end": 93.577
+      },
+      {
+        "text": "deine",
+        "start": 93.597,
+        "end": 93.877
+      },
+      {
+        "text": "Haut",
+        "start": 93.897,
+        "end": 94.038
+      },
+      {
+        "text": "bezaubernd",
+        "start": 94.058,
+        "end": 94.698
+      },
+      {
+        "text": "aus.",
+        "start": 94.738,
+        "end": 95.518
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Womit hab ich das verdient?",
+    "start": 95.558,
+    "end": 96.778,
+    "words": [
+      {
+        "text": "Womit",
+        "start": 95.558,
+        "end": 95.798
+      },
+      {
+        "text": "hab",
+        "start": 95.818,
+        "end": 95.958
+      },
+      {
+        "text": "ich",
+        "start": 96.018,
+        "end": 96.138
+      },
+      {
+        "text": "das",
+        "start": 96.158,
+        "end": 96.378
+      },
+      {
+        "text": "verdient?",
+        "start": 96.418,
+        "end": 96.778
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Seit Ewigkeiten werde ich von meiner Mutter und meinen Schwestern wie eine Anzipuppe behandelt.",
+    "start": 97.278,
+    "end": 102.44,
+    "words": [
+      {
+        "text": "Seit",
+        "start": 97.278,
+        "end": 98.039
+      },
+      {
+        "text": "Ewigkeiten",
+        "start": 98.159,
+        "end": 98.839
+      },
+      {
+        "text": "werde",
+        "start": 98.879,
+        "end": 99.119
+      },
+      {
+        "text": "ich",
+        "start": 99.139,
+        "end": 99.239
+      },
+      {
+        "text": "von",
+        "start": 99.259,
+        "end": 99.379
+      },
+      {
+        "text": "meiner",
+        "start": 99.419,
+        "end": 99.639
+      },
+      {
+        "text": "Mutter",
+        "start": 99.659,
+        "end": 99.919
+      },
+      {
+        "text": "und",
+        "start": 99.939,
+        "end": 100.179
+      },
+      {
+        "text": "meinen",
+        "start": 100.199,
+        "end": 100.379
+      },
+      {
+        "text": "Schwestern",
+        "start": 100.399,
+        "end": 100.819
+      },
+      {
+        "text": "wie",
+        "start": 100.839,
+        "end": 101.08
+      },
+      {
+        "text": "eine",
+        "start": 101.12,
+        "end": 101.34
+      },
+      {
+        "text": "Anzipuppe",
+        "start": 101.38,
+        "end": 101.86
+      },
+      {
+        "text": "behandelt.",
+        "start": 101.9,
+        "end": 102.44
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": " Mit meinen älteren Schwestern war es aber noch sehr viel schlimmer.",
+    "start": 104.652,
+    "end": 109.435,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 104.652,
+        "end": 104.772
+      },
+      {
+        "text": "meinen",
+        "start": 104.792,
+        "end": 105.032
+      },
+      {
+        "text": "älteren",
+        "start": 105.072,
+        "end": 105.433
+      },
+      {
+        "text": "Schwestern",
+        "start": 105.453,
+        "end": 105.893
+      },
+      {
+        "text": "war",
+        "start": 105.953,
+        "end": 106.073
+      },
+      {
+        "text": "es",
+        "start": 106.093,
+        "end": 106.313
+      },
+      {
+        "text": "aber",
+        "start": 106.353,
+        "end": 107.014
+      },
+      {
+        "text": "noch",
+        "start": 107.034,
+        "end": 107.334
+      },
+      {
+        "text": "sehr",
+        "start": 107.354,
+        "end": 107.614
+      },
+      {
+        "text": "viel",
+        "start": 107.654,
+        "end": 107.834
+      },
+      {
+        "text": "schlimmer.",
+        "start": 107.874,
+        "end": 109.435
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Ihm steht es einfach am besten in unserer Familie.",
+    "start": 109.496,
+    "end": 111.917,
+    "words": [
+      {
+        "text": "Ihm",
+        "start": 109.496,
+        "end": 109.636
+      },
+      {
+        "text": "steht",
+        "start": 109.696,
+        "end": 109.896
+      },
+      {
+        "text": "es",
+        "start": 109.936,
+        "end": 110.096
+      },
+      {
+        "text": "einfach",
+        "start": 110.136,
+        "end": 110.416
+      },
+      {
+        "text": "am",
+        "start": 110.456,
+        "end": 110.576
+      },
+      {
+        "text": "besten",
+        "start": 110.616,
+        "end": 110.957
+      },
+      {
+        "text": "in",
+        "start": 110.997,
+        "end": 111.117
+      },
+      {
+        "text": "unserer",
+        "start": 111.137,
+        "end": 111.377
+      },
+      {
+        "text": "Familie.",
+        "start": 111.417,
+        "end": 111.917
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Vater, ich will schleunigst erwachsen werden.",
+    "start": 112.297,
+    "end": 115.019,
+    "words": [
+      {
+        "text": "Vater,",
+        "start": 112.297,
+        "end": 113.098
+      },
+      {
+        "text": "ich",
+        "start": 113.158,
+        "end": 113.318
+      },
+      {
+        "text": "will",
+        "start": 113.358,
+        "end": 113.498
+      },
+      {
+        "text": "schleunigst",
+        "start": 113.538,
+        "end": 114.159
+      },
+      {
+        "text": "erwachsen",
+        "start": 114.199,
+        "end": 114.719
+      },
+      {
+        "text": "werden.",
+        "start": 114.759,
+        "end": 115.019
+      }
+    ]
+  }
+]

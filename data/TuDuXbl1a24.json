@@ -1,0 +1,694 @@
+[
+  {
+    "id": 0,
+    "text": " Nicht abgeschlossen?",
+    "start": 2.107,
+    "end": 5.729,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 2.107,
+        "end": 2.267
+      },
+      {
+        "text": "abgeschlossen?",
+        "start": 2.307,
+        "end": 5.729
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hi, Saori, bist du zu Hause?",
+    "start": 5.789,
+    "end": 8.25,
+    "words": [
+      {
+        "text": "Hi,",
+        "start": 5.789,
+        "end": 6.329
+      },
+      {
+        "text": "Saori,",
+        "start": 6.389,
+        "end": 6.889
+      },
+      {
+        "text": "bist",
+        "start": 6.909,
+        "end": 7.029
+      },
+      {
+        "text": "du",
+        "start": 7.069,
+        "end": 7.23
+      },
+      {
+        "text": "zu",
+        "start": 7.25,
+        "end": 7.35
+      },
+      {
+        "text": "Hause?",
+        "start": 7.39,
+        "end": 8.25
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Geht es dir gut?",
+    "start": 8.27,
+    "end": 14.253,
+    "words": [
+      {
+        "text": "Geht",
+        "start": 8.27,
+        "end": 8.47
+      },
+      {
+        "text": "es",
+        "start": 8.51,
+        "end": 8.65
+      },
+      {
+        "text": "dir",
+        "start": 8.67,
+        "end": 8.85
+      },
+      {
+        "text": "gut?",
+        "start": 8.87,
+        "end": 14.253
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ach, du Scheiße.",
+    "start": 14.313,
+    "end": 23.998,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 14.313,
+        "end": 16.314
+      },
+      {
+        "text": "du",
+        "start": 16.354,
+        "end": 16.494
+      },
+      {
+        "text": "Scheiße.",
+        "start": 16.514,
+        "end": 23.998
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Hören Sie mich an.",
+    "start": 24.038,
+    "end": 25.578,
+    "words": [
+      {
+        "text": "Hören",
+        "start": 24.038,
+        "end": 24.258
+      },
+      {
+        "text": "Sie",
+        "start": 24.298,
+        "end": 24.418
+      },
+      {
+        "text": "mich",
+        "start": 24.438,
+        "end": 24.598
+      },
+      {
+        "text": "an.",
+        "start": 24.638,
+        "end": 25.578
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich muss Ihnen etwas Wichtiges mitteilen.",
+    "start": 25.618,
+    "end": 28.16,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 25.618,
+        "end": 25.738
+      },
+      {
+        "text": "muss",
+        "start": 25.778,
+        "end": 25.959
+      },
+      {
+        "text": "Ihnen",
+        "start": 25.979,
+        "end": 26.159
+      },
+      {
+        "text": "etwas",
+        "start": 26.199,
+        "end": 26.479
+      },
+      {
+        "text": "Wichtiges",
+        "start": 26.499,
+        "end": 26.939
+      },
+      {
+        "text": "mitteilen.",
+        "start": 26.959,
+        "end": 28.16
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Haben Sie einen Augenblick Zeit?",
+    "start": 28.2,
+    "end": 29.28,
+    "words": [
+      {
+        "text": "Haben",
+        "start": 28.2,
+        "end": 28.4
+      },
+      {
+        "text": "Sie",
+        "start": 28.44,
+        "end": 28.56
+      },
+      {
+        "text": "einen",
+        "start": 28.6,
+        "end": 28.7
+      },
+      {
+        "text": "Augenblick",
+        "start": 28.74,
+        "end": 29.1
+      },
+      {
+        "text": "Zeit?",
+        "start": 29.14,
+        "end": 29.28
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Die ständige Überarbeitung hat mich vergessen lassen, was es bedeutet, ein Mensch zu sein.",
+    "start": 31.988,
+    "end": 36.711,
+    "words": [
+      {
+        "text": "Die",
+        "start": 31.988,
+        "end": 32.228
+      },
+      {
+        "text": "ständige",
+        "start": 32.248,
+        "end": 32.669
+      },
+      {
+        "text": "Überarbeitung",
+        "start": 32.709,
+        "end": 33.329
+      },
+      {
+        "text": "hat",
+        "start": 33.349,
+        "end": 33.489
+      },
+      {
+        "text": "mich",
+        "start": 33.509,
+        "end": 33.649
+      },
+      {
+        "text": "vergessen",
+        "start": 33.689,
+        "end": 34.07
+      },
+      {
+        "text": "lassen,",
+        "start": 34.09,
+        "end": 34.33
+      },
+      {
+        "text": "was",
+        "start": 34.37,
+        "end": 34.47
+      },
+      {
+        "text": "es",
+        "start": 34.53,
+        "end": 34.65
+      },
+      {
+        "text": "bedeutet,",
+        "start": 34.67,
+        "end": 35.07
+      },
+      {
+        "text": "ein",
+        "start": 35.09,
+        "end": 35.25
+      },
+      {
+        "text": "Mensch",
+        "start": 35.27,
+        "end": 35.551
+      },
+      {
+        "text": "zu",
+        "start": 35.571,
+        "end": 35.691
+      },
+      {
+        "text": "sein.",
+        "start": 35.711,
+        "end": 36.711
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich wusste nicht mehr, wofür ich überhaupt arbeite.",
+    "start": 36.751,
+    "end": 41.114,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 36.751,
+        "end": 36.852
+      },
+      {
+        "text": "wusste",
+        "start": 36.892,
+        "end": 37.212
+      },
+      {
+        "text": "nicht",
+        "start": 37.232,
+        "end": 37.372
+      },
+      {
+        "text": "mehr,",
+        "start": 37.412,
+        "end": 37.592
+      },
+      {
+        "text": "wofür",
+        "start": 37.612,
+        "end": 37.972
+      },
+      {
+        "text": "ich",
+        "start": 38.012,
+        "end": 38.132
+      },
+      {
+        "text": "überhaupt",
+        "start": 38.172,
+        "end": 38.553
+      },
+      {
+        "text": "arbeite.",
+        "start": 38.593,
+        "end": 41.114
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Aus diesem Grund, so außerordentlich leid es mir auch tut, muss ich den Weg zurück zu mir selbst finden.",
+    "start": 41.154,
+    "end": 47.939,
+    "words": [
+      {
+        "text": "Aus",
+        "start": 41.154,
+        "end": 41.355
+      },
+      {
+        "text": "diesem",
+        "start": 41.375,
+        "end": 41.615
+      },
+      {
+        "text": "Grund,",
+        "start": 41.655,
+        "end": 42.355
+      },
+      {
+        "text": "so",
+        "start": 42.375,
+        "end": 42.535
+      },
+      {
+        "text": "außerordentlich",
+        "start": 42.575,
+        "end": 43.216
+      },
+      {
+        "text": "leid",
+        "start": 43.256,
+        "end": 43.416
+      },
+      {
+        "text": "es",
+        "start": 43.456,
+        "end": 43.576
+      },
+      {
+        "text": "mir",
+        "start": 43.596,
+        "end": 43.696
+      },
+      {
+        "text": "auch",
+        "start": 43.736,
+        "end": 43.916
+      },
+      {
+        "text": "tut,",
+        "start": 43.936,
+        "end": 44.997
+      },
+      {
+        "text": "muss",
+        "start": 45.037,
+        "end": 45.197
+      },
+      {
+        "text": "ich",
+        "start": 45.237,
+        "end": 45.377
+      },
+      {
+        "text": "den",
+        "start": 45.417,
+        "end": 45.578
+      },
+      {
+        "text": "Weg",
+        "start": 45.618,
+        "end": 45.798
+      },
+      {
+        "text": "zurück",
+        "start": 45.838,
+        "end": 46.158
+      },
+      {
+        "text": "zu",
+        "start": 46.198,
+        "end": 46.318
+      },
+      {
+        "text": "mir",
+        "start": 46.338,
+        "end": 46.518
+      },
+      {
+        "text": "selbst",
+        "start": 46.558,
+        "end": 46.838
+      },
+      {
+        "text": "finden.",
+        "start": 46.898,
+        "end": 47.939
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich spreche mit sofortiger Wirkung meine Kündigung aus!",
+    "start": 47.999,
+    "end": 51.602,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 47.999,
+        "end": 48.119
+      },
+      {
+        "text": "spreche",
+        "start": 48.159,
+        "end": 48.5
+      },
+      {
+        "text": "mit",
+        "start": 48.54,
+        "end": 48.66
+      },
+      {
+        "text": "sofortiger",
+        "start": 48.68,
+        "end": 49.24
+      },
+      {
+        "text": "Wirkung",
+        "start": 49.28,
+        "end": 49.66
+      },
+      {
+        "text": "meine",
+        "start": 49.68,
+        "end": 49.941
+      },
+      {
+        "text": "Kündigung",
+        "start": 49.981,
+        "end": 51.181
+      },
+      {
+        "text": "aus!",
+        "start": 51.241,
+        "end": 51.602
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Dafür, dass Sie mich trotz meiner Unerfahrenheit eingestellt und mir eine Chance gegeben haben, möchte ich mich nachträglich bedanken!",
+    "start": 51.642,
+    "end": 57.546,
+    "words": [
+      {
+        "text": "Dafür,",
+        "start": 51.642,
+        "end": 51.962
+      },
+      {
+        "text": "dass",
+        "start": 51.982,
+        "end": 52.142
+      },
+      {
+        "text": "Sie",
+        "start": 52.162,
+        "end": 52.262
+      },
+      {
+        "text": "mich",
+        "start": 52.282,
+        "end": 52.462
+      },
+      {
+        "text": "trotz",
+        "start": 52.482,
+        "end": 52.662
+      },
+      {
+        "text": "meiner",
+        "start": 52.742,
+        "end": 53.003
+      },
+      {
+        "text": "Unerfahrenheit",
+        "start": 53.023,
+        "end": 53.703
+      },
+      {
+        "text": "eingestellt",
+        "start": 53.743,
+        "end": 54.223
+      },
+      {
+        "text": "und",
+        "start": 54.304,
+        "end": 54.484
+      },
+      {
+        "text": "mir",
+        "start": 54.504,
+        "end": 54.644
+      },
+      {
+        "text": "eine",
+        "start": 54.684,
+        "end": 54.824
+      },
+      {
+        "text": "Chance",
+        "start": 54.864,
+        "end": 55.084
+      },
+      {
+        "text": "gegeben",
+        "start": 55.104,
+        "end": 55.404
+      },
+      {
+        "text": "haben,",
+        "start": 55.424,
+        "end": 55.945
+      },
+      {
+        "text": "möchte",
+        "start": 55.965,
+        "end": 56.225
+      },
+      {
+        "text": "ich",
+        "start": 56.265,
+        "end": 56.405
+      },
+      {
+        "text": "mich",
+        "start": 56.425,
+        "end": 56.585
+      },
+      {
+        "text": "nachträglich",
+        "start": 56.645,
+        "end": 57.185
+      },
+      {
+        "text": "bedanken!",
+        "start": 57.205,
+        "end": 57.546
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Mir ist sehr wohl bewusst, dass das egoistisch ist.",
+    "start": 59.279,
+    "end": 62.583,
+    "words": [
+      {
+        "text": "Mir",
+        "start": 59.279,
+        "end": 59.599
+      },
+      {
+        "text": "ist",
+        "start": 59.639,
+        "end": 59.76
+      },
+      {
+        "text": "sehr",
+        "start": 59.8,
+        "end": 59.92
+      },
+      {
+        "text": "wohl",
+        "start": 59.94,
+        "end": 60.1
+      },
+      {
+        "text": "bewusst,",
+        "start": 60.14,
+        "end": 60.46
+      },
+      {
+        "text": "dass",
+        "start": 60.48,
+        "end": 60.641
+      },
+      {
+        "text": "das",
+        "start": 60.681,
+        "end": 60.861
+      },
+      {
+        "text": "egoistisch",
+        "start": 60.921,
+        "end": 61.562
+      },
+      {
+        "text": "ist.",
+        "start": 61.602,
+        "end": 62.583
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Aber ich hoffe, dass sie meine Kündigung... genau... akzeptiert!",
+    "start": 62.643,
+    "end": 68.97,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 62.643,
+        "end": 62.863
+      },
+      {
+        "text": "ich",
+        "start": 62.923,
+        "end": 63.063
+      },
+      {
+        "text": "hoffe,",
+        "start": 63.103,
+        "end": 63.444
+      },
+      {
+        "text": "dass",
+        "start": 63.464,
+        "end": 63.644
+      },
+      {
+        "text": "sie",
+        "start": 63.684,
+        "end": 63.824
+      },
+      {
+        "text": "meine",
+        "start": 63.844,
+        "end": 64.145
+      },
+      {
+        "text": "Kündigung...",
+        "start": 64.185,
+        "end": 65.646
+      },
+      {
+        "text": "genau...",
+        "start": 65.666,
+        "end": 66.888
+      },
+      {
+        "text": "akzeptiert!",
+        "start": 67.028,
+        "end": 68.97
+      }
+    ]
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "id": 0,
+    "text": " Bist du unversehrt, Lumiere?",
+    "start": 6.55,
+    "end": 7.691,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 6.55,
+        "end": 6.65
+      },
+      {
+        "text": "du",
+        "start": 6.67,
+        "end": 6.75
+      },
+      {
+        "text": "unversehrt,",
+        "start": 6.77,
+        "end": 7.11
+      },
+      {
+        "text": "Lumiere?",
+        "start": 7.15,
+        "end": 7.691
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ja!",
+    "start": 7.751,
+    "end": 8.571,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 7.751,
+        "end": 8.571
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "O große Schöpfer, gebe in meine Hand ein großes Schwert.",
+    "start": 13.734,
+    "end": 25.66,
+    "words": [
+      {
+        "text": "O",
+        "start": 13.734,
+        "end": 13.894
+      },
+      {
+        "text": "große",
+        "start": 13.934,
+        "end": 14.254
+      },
+      {
+        "text": "Schöpfer,",
+        "start": 14.274,
+        "end": 15.575
+      },
+      {
+        "text": "gebe",
+        "start": 15.615,
+        "end": 15.935
+      },
+      {
+        "text": "in",
+        "start": 15.975,
+        "end": 16.075
+      },
+      {
+        "text": "meine",
+        "start": 16.095,
+        "end": 16.235
+      },
+      {
+        "text": "Hand",
+        "start": 16.275,
+        "end": 17.195
+      },
+      {
+        "text": "ein",
+        "start": 17.256,
+        "end": 17.476
+      },
+      {
+        "text": "großes",
+        "start": 17.536,
+        "end": 17.836
+      },
+      {
+        "text": "Schwert.",
+        "start": 17.896,
+        "end": 25.66
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ist das etwa Alchemie?",
+    "start": 25.74,
+    "end": 27.541,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 25.74,
+        "end": 25.88
+      },
+      {
+        "text": "das",
+        "start": 25.92,
+        "end": 26.1
+      },
+      {
+        "text": "etwa",
+        "start": 26.16,
+        "end": 26.66
+      },
+      {
+        "text": "Alchemie?",
+        "start": 26.74,
+        "end": 27.541
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Jetzt will auch noch das Magierkorps bei uns mitspielen.",
+    "start": 27.561,
+    "end": 30.442,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 27.561,
+        "end": 27.721
+      },
+      {
+        "text": "will",
+        "start": 27.741,
+        "end": 27.881
+      },
+      {
+        "text": "auch",
+        "start": 27.921,
+        "end": 28.041
+      },
+      {
+        "text": "noch",
+        "start": 28.081,
+        "end": 28.201
+      },
+      {
+        "text": "das",
+        "start": 28.221,
+        "end": 28.381
+      },
+      {
+        "text": "Magierkorps",
+        "start": 28.401,
+        "end": 28.961
+      },
+      {
+        "text": "bei",
+        "start": 28.981,
+        "end": 29.121
+      },
+      {
+        "text": "uns",
+        "start": 29.161,
+        "end": 29.322
+      },
+      {
+        "text": "mitspielen.",
+        "start": 29.362,
+        "end": 30.442
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Silberner Eiswolf, hülle dich in einen Schneesturm und greife an!",
+    "start": 30.482,
+    "end": 33.604,
+    "words": [
+      {
+        "text": "Silberner",
+        "start": 30.482,
+        "end": 30.962
+      },
+      {
+        "text": "Eiswolf,",
+        "start": 31.002,
+        "end": 31.603
+      },
+      {
+        "text": "hülle",
+        "start": 31.643,
+        "end": 31.863
+      },
+      {
+        "text": "dich",
+        "start": 31.883,
+        "end": 32.023
+      },
+      {
+        "text": "in",
+        "start": 32.063,
+        "end": 32.143
+      },
+      {
+        "text": "einen",
+        "start": 32.183,
+        "end": 32.343
+      },
+      {
+        "text": "Schneesturm",
+        "start": 32.363,
+        "end": 33.043
+      },
+      {
+        "text": "und",
+        "start": 33.083,
+        "end": 33.243
+      },
+      {
+        "text": "greife",
+        "start": 33.283,
+        "end": 33.524
+      },
+      {
+        "text": "an!",
+        "start": 33.564,
+        "end": 33.604
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Das wird nicht reichen, Glenn.",
+    "start": 35.35,
+    "end": 37.491,
+    "words": [
+      {
+        "text": "Das",
+        "start": 35.35,
+        "end": 35.77
+      },
+      {
+        "text": "wird",
+        "start": 35.81,
+        "end": 35.93
+      },
+      {
+        "text": "nicht",
+        "start": 35.95,
+        "end": 36.09
+      },
+      {
+        "text": "reichen,",
+        "start": 36.15,
+        "end": 36.43
+      },
+      {
+        "text": "Glenn.",
+        "start": 36.45,
+        "end": 37.491
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Mach dich bereit.",
+    "start": 37.511,
+    "end": 40.811,
+    "words": [
+      {
+        "text": "Mach",
+        "start": 37.511,
+        "end": 37.711
+      },
+      {
+        "text": "dich",
+        "start": 37.731,
+        "end": 37.891
+      },
+      {
+        "text": "bereit.",
+        "start": 37.911,
+        "end": 40.811
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Die benutzen Alchemie für den Nahkampf und Magie für den Fernkampf.",
+    "start": 40.831,
+    "end": 45.252,
+    "words": [
+      {
+        "text": "Die",
+        "start": 40.831,
+        "end": 40.951
+      },
+      {
+        "text": "benutzen",
+        "start": 40.971,
+        "end": 41.351
+      },
+      {
+        "text": "Alchemie",
+        "start": 41.371,
+        "end": 41.772
+      },
+      {
+        "text": "für",
+        "start": 41.812,
+        "end": 41.912
+      },
+      {
+        "text": "den",
+        "start": 41.952,
+        "end": 42.052
+      },
+      {
+        "text": "Nahkampf",
+        "start": 42.072,
+        "end": 42.752
+      },
+      {
+        "text": "und",
+        "start": 42.792,
+        "end": 42.952
+      },
+      {
+        "text": "Magie",
+        "start": 42.972,
+        "end": 43.272
+      },
+      {
+        "text": "für",
+        "start": 43.312,
+        "end": 43.392
+      },
+      {
+        "text": "den",
+        "start": 43.412,
+        "end": 43.572
+      },
+      {
+        "text": "Fernkampf.",
+        "start": 43.612,
+        "end": 45.252
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Verdammt!",
+    "start": 45.272,
+    "end": 45.953,
+    "words": [
+      {
+        "text": "Verdammt!",
+        "start": 45.272,
+        "end": 45.953
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich kann nicht ausweichen!",
+    "start": 46.033,
+    "end": 60.336,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 46.033,
+        "end": 46.193
+      },
+      {
+        "text": "kann",
+        "start": 46.213,
+        "end": 46.333
+      },
+      {
+        "text": "nicht",
+        "start": 46.353,
+        "end": 46.493
+      },
+      {
+        "text": "ausweichen!",
+        "start": 46.533,
+        "end": 60.336
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Lange nicht gesehen, Glenn.",
+    "start": 60.356,
+    "end": 62.436,
+    "words": [
+      {
+        "text": "Lange",
+        "start": 60.356,
+        "end": 60.616
+      },
+      {
+        "text": "nicht",
+        "start": 60.636,
+        "end": 60.816
+      },
+      {
+        "text": "gesehen,",
+        "start": 60.836,
+        "end": 62.136
+      },
+      {
+        "text": "Glenn.",
+        "start": 62.176,
+        "end": 62.436
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Albert?",
+    "start": 63.057,
+    "end": 64.837,
+    "words": [
+      {
+        "text": "Albert?",
+        "start": 63.057,
+        "end": 64.837
+      }
+    ]
+  }
+]

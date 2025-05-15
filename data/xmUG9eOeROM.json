@@ -1,0 +1,859 @@
+[
+  {
+    "id": 0,
+    "text": " Das war ein Missverständnis.",
+    "start": 8.408,
+    "end": 11.969,
+    "words": [
+      {
+        "text": "Das",
+        "start": 8.408,
+        "end": 8.548
+      },
+      {
+        "text": "war",
+        "start": 8.588,
+        "end": 8.688
+      },
+      {
+        "text": "ein",
+        "start": 8.708,
+        "end": 8.868
+      },
+      {
+        "text": "Missverständnis.",
+        "start": 8.888,
+        "end": 11.969
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Aber, da lag doch eben so ein süßes Mädchen in deinem Bett.",
+    "start": 12.009,
+    "end": 16.15,
+    "words": [
+      {
+        "text": "Aber,",
+        "start": 12.009,
+        "end": 12.789
+      },
+      {
+        "text": "da",
+        "start": 12.829,
+        "end": 13.03
+      },
+      {
+        "text": "lag",
+        "start": 13.07,
+        "end": 13.25
+      },
+      {
+        "text": "doch",
+        "start": 13.29,
+        "end": 13.43
+      },
+      {
+        "text": "eben",
+        "start": 13.47,
+        "end": 13.69
+      },
+      {
+        "text": "so",
+        "start": 13.71,
+        "end": 13.81
+      },
+      {
+        "text": "ein",
+        "start": 13.83,
+        "end": 13.97
+      },
+      {
+        "text": "süßes",
+        "start": 13.99,
+        "end": 14.31
+      },
+      {
+        "text": "Mädchen",
+        "start": 14.35,
+        "end": 14.75
+      },
+      {
+        "text": "in",
+        "start": 14.77,
+        "end": 14.91
+      },
+      {
+        "text": "deinem",
+        "start": 14.93,
+        "end": 15.21
+      },
+      {
+        "text": "Bett.",
+        "start": 15.25,
+        "end": 16.15
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Sie muss sich im Halbschlaf ins falsche Bett gelegt haben.",
+    "start": 16.19,
+    "end": 19.031,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 16.19,
+        "end": 16.311
+      },
+      {
+        "text": "muss",
+        "start": 16.351,
+        "end": 16.491
+      },
+      {
+        "text": "sich",
+        "start": 16.531,
+        "end": 16.631
+      },
+      {
+        "text": "im",
+        "start": 16.671,
+        "end": 16.751
+      },
+      {
+        "text": "Halbschlaf",
+        "start": 16.791,
+        "end": 17.131
+      },
+      {
+        "text": "ins",
+        "start": 17.171,
+        "end": 17.331
+      },
+      {
+        "text": "falsche",
+        "start": 17.351,
+        "end": 17.611
+      },
+      {
+        "text": "Bett",
+        "start": 17.651,
+        "end": 17.791
+      },
+      {
+        "text": "gelegt",
+        "start": 17.831,
+        "end": 18.111
+      },
+      {
+        "text": "haben.",
+        "start": 18.151,
+        "end": 19.031
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Aber, Lilio hat gesagt, dass Männer sich nur Sklaven enthalten, damit sie ihnen abendlich dienen.",
+    "start": 19.071,
+    "end": 24.693,
+    "words": [
+      {
+        "text": "Aber,",
+        "start": 19.071,
+        "end": 19.812
+      },
+      {
+        "text": "Lilio",
+        "start": 19.852,
+        "end": 20.192
+      },
+      {
+        "text": "hat",
+        "start": 20.212,
+        "end": 20.452
+      },
+      {
+        "text": "gesagt,",
+        "start": 20.472,
+        "end": 20.772
+      },
+      {
+        "text": "dass",
+        "start": 20.792,
+        "end": 20.992
+      },
+      {
+        "text": "Männer",
+        "start": 21.032,
+        "end": 21.272
+      },
+      {
+        "text": "sich",
+        "start": 21.292,
+        "end": 21.472
+      },
+      {
+        "text": "nur",
+        "start": 21.512,
+        "end": 21.612
+      },
+      {
+        "text": "Sklaven",
+        "start": 21.672,
+        "end": 22.052
+      },
+      {
+        "text": "enthalten,",
+        "start": 22.092,
+        "end": 22.512
+      },
+      {
+        "text": "damit",
+        "start": 22.532,
+        "end": 22.813
+      },
+      {
+        "text": "sie",
+        "start": 22.853,
+        "end": 22.933
+      },
+      {
+        "text": "ihnen",
+        "start": 22.953,
+        "end": 23.193
+      },
+      {
+        "text": "abendlich",
+        "start": 23.233,
+        "end": 23.693
+      },
+      {
+        "text": "dienen.",
+        "start": 23.733,
+        "end": 24.693
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Verdammte Lilio.",
+    "start": 24.733,
+    "end": 26.234,
+    "words": [
+      {
+        "text": "Verdammte",
+        "start": 24.733,
+        "end": 25.173
+      },
+      {
+        "text": "Lilio.",
+        "start": 25.193,
+        "end": 26.234
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Jede Hand hat das unterschiedlich.",
+    "start": 26.274,
+    "end": 27.934,
+    "words": [
+      {
+        "text": "Jede",
+        "start": 26.274,
+        "end": 26.494
+      },
+      {
+        "text": "Hand",
+        "start": 26.534,
+        "end": 26.654
+      },
+      {
+        "text": "hat",
+        "start": 26.694,
+        "end": 26.834
+      },
+      {
+        "text": "das",
+        "start": 26.874,
+        "end": 27.054
+      },
+      {
+        "text": "unterschiedlich.",
+        "start": 27.094,
+        "end": 27.934
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich will einfach nur, dass sie mir bei Dingen des alltäglichen Lebens helfen.",
+    "start": 27.974,
+    "end": 30.795,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.974,
+        "end": 28.054
+      },
+      {
+        "text": "will",
+        "start": 28.074,
+        "end": 28.234
+      },
+      {
+        "text": "einfach",
+        "start": 28.254,
+        "end": 28.514
+      },
+      {
+        "text": "nur,",
+        "start": 28.534,
+        "end": 28.634
+      },
+      {
+        "text": "dass",
+        "start": 28.654,
+        "end": 28.754
+      },
+      {
+        "text": "sie",
+        "start": 28.774,
+        "end": 28.874
+      },
+      {
+        "text": "mir",
+        "start": 28.894,
+        "end": 29.014
+      },
+      {
+        "text": "bei",
+        "start": 29.034,
+        "end": 29.155
+      },
+      {
+        "text": "Dingen",
+        "start": 29.195,
+        "end": 29.375
+      },
+      {
+        "text": "des",
+        "start": 29.395,
+        "end": 29.515
+      },
+      {
+        "text": "alltäglichen",
+        "start": 29.555,
+        "end": 30.075
+      },
+      {
+        "text": "Lebens",
+        "start": 30.115,
+        "end": 30.375
+      },
+      {
+        "text": "helfen.",
+        "start": 30.395,
+        "end": 30.795
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Verstehst du?",
+    "start": 30.815,
+    "end": 31.355,
+    "words": [
+      {
+        "text": "Verstehst",
+        "start": 30.815,
+        "end": 31.215
+      },
+      {
+        "text": "du?",
+        "start": 31.235,
+        "end": 31.355
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ach ja, ist das wirklich so?",
+    "start": 31.415,
+    "end": 33.536,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 31.415,
+        "end": 32.316
+      },
+      {
+        "text": "ja,",
+        "start": 32.376,
+        "end": 32.576
+      },
+      {
+        "text": "ist",
+        "start": 32.616,
+        "end": 32.756
+      },
+      {
+        "text": "das",
+        "start": 32.796,
+        "end": 33.016
+      },
+      {
+        "text": "wirklich",
+        "start": 33.056,
+        "end": 33.436
+      },
+      {
+        "text": "so?",
+        "start": 33.476,
+        "end": 33.536
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Du trägst heute ja schon wieder andere Kleider.",
+    "start": 36.25,
+    "end": 39.053,
+    "words": [
+      {
+        "text": "Du",
+        "start": 36.25,
+        "end": 36.33
+      },
+      {
+        "text": "trägst",
+        "start": 36.35,
+        "end": 36.571
+      },
+      {
+        "text": "heute",
+        "start": 36.591,
+        "end": 36.731
+      },
+      {
+        "text": "ja",
+        "start": 36.751,
+        "end": 36.851
+      },
+      {
+        "text": "schon",
+        "start": 36.891,
+        "end": 37.031
+      },
+      {
+        "text": "wieder",
+        "start": 37.051,
+        "end": 37.231
+      },
+      {
+        "text": "andere",
+        "start": 37.251,
+        "end": 37.511
+      },
+      {
+        "text": "Kleider.",
+        "start": 37.531,
+        "end": 39.053
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Die Rüschchen sind ein richtiger Blickfang an dir, muss ich sagen.",
+    "start": 39.073,
+    "end": 42.716,
+    "words": [
+      {
+        "text": "Die",
+        "start": 39.073,
+        "end": 39.233
+      },
+      {
+        "text": "Rüschchen",
+        "start": 39.273,
+        "end": 39.633
+      },
+      {
+        "text": "sind",
+        "start": 39.653,
+        "end": 39.793
+      },
+      {
+        "text": "ein",
+        "start": 39.833,
+        "end": 39.953
+      },
+      {
+        "text": "richtiger",
+        "start": 39.993,
+        "end": 40.334
+      },
+      {
+        "text": "Blickfang",
+        "start": 40.354,
+        "end": 40.734
+      },
+      {
+        "text": "an",
+        "start": 40.754,
+        "end": 40.854
+      },
+      {
+        "text": "dir,",
+        "start": 40.894,
+        "end": 41.114
+      },
+      {
+        "text": "muss",
+        "start": 41.134,
+        "end": 41.295
+      },
+      {
+        "text": "ich",
+        "start": 41.355,
+        "end": 41.475
+      },
+      {
+        "text": "sagen.",
+        "start": 41.515,
+        "end": 42.716
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Sie betonen deinen natürlichen Charme, Sena.",
+    "start": 42.736,
+    "end": 45.758,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 42.736,
+        "end": 42.896
+      },
+      {
+        "text": "betonen",
+        "start": 42.936,
+        "end": 43.276
+      },
+      {
+        "text": "deinen",
+        "start": 43.296,
+        "end": 43.516
+      },
+      {
+        "text": "natürlichen",
+        "start": 43.536,
+        "end": 43.977
+      },
+      {
+        "text": "Charme,",
+        "start": 44.037,
+        "end": 44.337
+      },
+      {
+        "text": "Sena.",
+        "start": 44.357,
+        "end": 45.758
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Mit ein paar Komplimenten sollte sich die Sache schnell erledigt haben.",
+    "start": 45.798,
+    "end": 48.621,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 45.798,
+        "end": 45.918
+      },
+      {
+        "text": "ein",
+        "start": 45.959,
+        "end": 46.079
+      },
+      {
+        "text": "paar",
+        "start": 46.119,
+        "end": 46.299
+      },
+      {
+        "text": "Komplimenten",
+        "start": 46.319,
+        "end": 46.899
+      },
+      {
+        "text": "sollte",
+        "start": 46.919,
+        "end": 47.18
+      },
+      {
+        "text": "sich",
+        "start": 47.22,
+        "end": 47.38
+      },
+      {
+        "text": "die",
+        "start": 47.4,
+        "end": 47.5
+      },
+      {
+        "text": "Sache",
+        "start": 47.54,
+        "end": 47.76
+      },
+      {
+        "text": "schnell",
+        "start": 47.78,
+        "end": 48.02
+      },
+      {
+        "text": "erledigt",
+        "start": 48.06,
+        "end": 48.421
+      },
+      {
+        "text": "haben.",
+        "start": 48.441,
+        "end": 48.621
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ach, weißt du, das sind nur Kleider.",
+    "start": 48.861,
+    "end": 51.984,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 48.861,
+        "end": 49.081
+      },
+      {
+        "text": "weißt",
+        "start": 49.121,
+        "end": 49.381
+      },
+      {
+        "text": "du,",
+        "start": 49.421,
+        "end": 50.282
+      },
+      {
+        "text": "das",
+        "start": 50.302,
+        "end": 50.462
+      },
+      {
+        "text": "sind",
+        "start": 50.482,
+        "end": 50.622
+      },
+      {
+        "text": "nur",
+        "start": 50.703,
+        "end": 50.883
+      },
+      {
+        "text": "Kleider.",
+        "start": 50.923,
+        "end": 51.984
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Übrigens, ich hab ein Geschäft gesehen, in dem sie wunderschöne Schals verkaufen.",
+    "start": 52.064,
+    "end": 56.187,
+    "words": [
+      {
+        "text": "Übrigens,",
+        "start": 52.064,
+        "end": 53.045
+      },
+      {
+        "text": "ich",
+        "start": 53.065,
+        "end": 53.165
+      },
+      {
+        "text": "hab",
+        "start": 53.185,
+        "end": 53.325
+      },
+      {
+        "text": "ein",
+        "start": 53.345,
+        "end": 53.485
+      },
+      {
+        "text": "Geschäft",
+        "start": 53.505,
+        "end": 53.805
+      },
+      {
+        "text": "gesehen,",
+        "start": 53.845,
+        "end": 54.105
+      },
+      {
+        "text": "in",
+        "start": 54.145,
+        "end": 54.185
+      },
+      {
+        "text": "dem",
+        "start": 54.226,
+        "end": 54.366
+      },
+      {
+        "text": "sie",
+        "start": 54.386,
+        "end": 54.526
+      },
+      {
+        "text": "wunderschöne",
+        "start": 54.546,
+        "end": 55.026
+      },
+      {
+        "text": "Schals",
+        "start": 55.066,
+        "end": 55.346
+      },
+      {
+        "text": "verkaufen.",
+        "start": 55.366,
+        "end": 56.187
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Sollen wir zusammen hingehen?",
+    "start": 56.207,
+    "end": 57.969,
+    "words": [
+      {
+        "text": "Sollen",
+        "start": 56.207,
+        "end": 56.387
+      },
+      {
+        "text": "wir",
+        "start": 56.427,
+        "end": 56.567
+      },
+      {
+        "text": "zusammen",
+        "start": 56.608,
+        "end": 56.868
+      },
+      {
+        "text": "hingehen?",
+        "start": 56.908,
+        "end": 57.969
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Sie haben sicher einen, der dir gut steht.",
+    "start": 57.989,
+    "end": 59.97,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 57.989,
+        "end": 58.089
+      },
+      {
+        "text": "haben",
+        "start": 58.109,
+        "end": 58.329
+      },
+      {
+        "text": "sicher",
+        "start": 58.349,
+        "end": 58.589
+      },
+      {
+        "text": "einen,",
+        "start": 58.609,
+        "end": 58.729
+      },
+      {
+        "text": "der",
+        "start": 58.749,
+        "end": 58.869
+      },
+      {
+        "text": "dir",
+        "start": 58.889,
+        "end": 59.05
+      },
+      {
+        "text": "gut",
+        "start": 59.07,
+        "end": 59.25
+      },
+      {
+        "text": "steht.",
+        "start": 59.29,
+        "end": 59.97
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Was, wirklich?",
+    "start": 60.03,
+    "end": 61.352,
+    "words": [
+      {
+        "text": "Was,",
+        "start": 60.03,
+        "end": 60.291
+      },
+      {
+        "text": "wirklich?",
+        "start": 60.351,
+        "end": 61.352
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Lass uns gehen!",
+    "start": 61.432,
+    "end": 62.633,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 61.432,
+        "end": 61.572
+      },
+      {
+        "text": "uns",
+        "start": 61.672,
+        "end": 61.812
+      },
+      {
+        "text": "gehen!",
+        "start": 61.852,
+        "end": 62.633
+      }
+    ]
+  }
+]

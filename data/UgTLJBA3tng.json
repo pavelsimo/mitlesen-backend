@@ -1,0 +1,655 @@
+[
+  {
+    "id": 0,
+    "text": " Dinge, die außerhalb passieren, übersteigen unsere aller Kompetenzen.",
+    "start": 1.58,
+    "end": 5.583,
+    "words": [
+      {
+        "text": "Dinge,",
+        "start": 1.58,
+        "end": 1.8
+      },
+      {
+        "text": "die",
+        "start": 1.84,
+        "end": 2.221
+      },
+      {
+        "text": "außerhalb",
+        "start": 2.261,
+        "end": 2.701
+      },
+      {
+        "text": "passieren,",
+        "start": 2.741,
+        "end": 3.161
+      },
+      {
+        "text": "übersteigen",
+        "start": 3.201,
+        "end": 3.742
+      },
+      {
+        "text": "unsere",
+        "start": 3.762,
+        "end": 4.002
+      },
+      {
+        "text": "aller",
+        "start": 4.042,
+        "end": 4.302
+      },
+      {
+        "text": "Kompetenzen.",
+        "start": 4.322,
+        "end": 5.583
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wir sollten also tun, was wir können, bis Dietz' Urteil verkündet wird.",
+    "start": 5.623,
+    "end": 9.565,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 5.623,
+        "end": 5.723
+      },
+      {
+        "text": "sollten",
+        "start": 5.743,
+        "end": 6.043
+      },
+      {
+        "text": "also",
+        "start": 6.083,
+        "end": 6.303
+      },
+      {
+        "text": "tun,",
+        "start": 6.343,
+        "end": 6.543
+      },
+      {
+        "text": "was",
+        "start": 6.563,
+        "end": 6.703
+      },
+      {
+        "text": "wir",
+        "start": 6.744,
+        "end": 6.884
+      },
+      {
+        "text": "können,",
+        "start": 6.924,
+        "end": 7.144
+      },
+      {
+        "text": "bis",
+        "start": 7.184,
+        "end": 7.364
+      },
+      {
+        "text": "Dietz'",
+        "start": 7.384,
+        "end": 7.644
+      },
+      {
+        "text": "Urteil",
+        "start": 7.684,
+        "end": 8.104
+      },
+      {
+        "text": "verkündet",
+        "start": 8.144,
+        "end": 8.705
+      },
+      {
+        "text": "wird.",
+        "start": 8.745,
+        "end": 9.565
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wir drei müssen alles daran setzen, den Adel zu beschwichtigen.",
+    "start": 9.605,
+    "end": 14.008,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 9.605,
+        "end": 9.805
+      },
+      {
+        "text": "drei",
+        "start": 9.825,
+        "end": 10.166
+      },
+      {
+        "text": "müssen",
+        "start": 10.186,
+        "end": 10.526
+      },
+      {
+        "text": "alles",
+        "start": 10.546,
+        "end": 10.806
+      },
+      {
+        "text": "daran",
+        "start": 10.826,
+        "end": 11.126
+      },
+      {
+        "text": "setzen,",
+        "start": 11.166,
+        "end": 11.707
+      },
+      {
+        "text": "den",
+        "start": 11.747,
+        "end": 11.927
+      },
+      {
+        "text": "Adel",
+        "start": 11.987,
+        "end": 12.347
+      },
+      {
+        "text": "zu",
+        "start": 12.367,
+        "end": 12.447
+      },
+      {
+        "text": "beschwichtigen.",
+        "start": 12.487,
+        "end": 14.008
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und ihr beiden müsst losziehen und versuchen, die bürgerlichen Schüler irgendwie zu beruhigen.",
+    "start": 14.048,
+    "end": 18.051,
+    "words": [
+      {
+        "text": "Und",
+        "start": 14.048,
+        "end": 14.248
+      },
+      {
+        "text": "ihr",
+        "start": 14.268,
+        "end": 14.428
+      },
+      {
+        "text": "beiden",
+        "start": 14.468,
+        "end": 14.729
+      },
+      {
+        "text": "müsst",
+        "start": 14.749,
+        "end": 14.969
+      },
+      {
+        "text": "losziehen",
+        "start": 15.009,
+        "end": 15.449
+      },
+      {
+        "text": "und",
+        "start": 15.469,
+        "end": 15.649
+      },
+      {
+        "text": "versuchen,",
+        "start": 15.689,
+        "end": 16.049
+      },
+      {
+        "text": "die",
+        "start": 16.07,
+        "end": 16.19
+      },
+      {
+        "text": "bürgerlichen",
+        "start": 16.21,
+        "end": 16.75
+      },
+      {
+        "text": "Schüler",
+        "start": 16.77,
+        "end": 17.11
+      },
+      {
+        "text": "irgendwie",
+        "start": 17.15,
+        "end": 17.53
+      },
+      {
+        "text": "zu",
+        "start": 17.57,
+        "end": 17.651
+      },
+      {
+        "text": "beruhigen.",
+        "start": 17.691,
+        "end": 18.051
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": " Aus welchem Grund siehst du denn jetzt so ein Gesicht?",
+    "start": 19.171,
+    "end": 21.615,
+    "words": [
+      {
+        "text": "Aus",
+        "start": 19.171,
+        "end": 19.271
+      },
+      {
+        "text": "welchem",
+        "start": 19.352,
+        "end": 19.612
+      },
+      {
+        "text": "Grund",
+        "start": 19.632,
+        "end": 19.832
+      },
+      {
+        "text": "siehst",
+        "start": 19.852,
+        "end": 20.053
+      },
+      {
+        "text": "du",
+        "start": 20.073,
+        "end": 20.173
+      },
+      {
+        "text": "denn",
+        "start": 20.193,
+        "end": 20.333
+      },
+      {
+        "text": "jetzt",
+        "start": 20.373,
+        "end": 20.593
+      },
+      {
+        "text": "so",
+        "start": 20.633,
+        "end": 20.753
+      },
+      {
+        "text": "ein",
+        "start": 20.794,
+        "end": 20.934
+      },
+      {
+        "text": "Gesicht?",
+        "start": 20.974,
+        "end": 21.615
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich kann das nicht.",
+    "start": 21.655,
+    "end": 22.716,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 21.655,
+        "end": 21.755
+      },
+      {
+        "text": "kann",
+        "start": 21.795,
+        "end": 21.995
+      },
+      {
+        "text": "das",
+        "start": 22.035,
+        "end": 22.236
+      },
+      {
+        "text": "nicht.",
+        "start": 22.256,
+        "end": 22.716
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Dieses ganze politische Gedöns liegt mir überhaupt nicht.",
+    "start": 22.736,
+    "end": 26.181,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 22.736,
+        "end": 23.077
+      },
+      {
+        "text": "ganze",
+        "start": 23.097,
+        "end": 23.377
+      },
+      {
+        "text": "politische",
+        "start": 23.417,
+        "end": 23.898
+      },
+      {
+        "text": "Gedöns",
+        "start": 23.918,
+        "end": 24.298
+      },
+      {
+        "text": "liegt",
+        "start": 24.318,
+        "end": 24.479
+      },
+      {
+        "text": "mir",
+        "start": 24.519,
+        "end": 24.619
+      },
+      {
+        "text": "überhaupt",
+        "start": 24.659,
+        "end": 25.16
+      },
+      {
+        "text": "nicht.",
+        "start": 25.2,
+        "end": 26.181
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wenn ihr mir den Kopf tätscheln würdet, könnte ich mich überwinden.",
+    "start": 26.221,
+    "end": 29.586,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 26.221,
+        "end": 26.341
+      },
+      {
+        "text": "ihr",
+        "start": 26.401,
+        "end": 26.501
+      },
+      {
+        "text": "mir",
+        "start": 26.541,
+        "end": 26.662
+      },
+      {
+        "text": "den",
+        "start": 26.682,
+        "end": 26.802
+      },
+      {
+        "text": "Kopf",
+        "start": 26.822,
+        "end": 27.062
+      },
+      {
+        "text": "tätscheln",
+        "start": 27.082,
+        "end": 27.503
+      },
+      {
+        "text": "würdet,",
+        "start": 27.523,
+        "end": 27.903
+      },
+      {
+        "text": "könnte",
+        "start": 27.923,
+        "end": 28.144
+      },
+      {
+        "text": "ich",
+        "start": 28.184,
+        "end": 28.264
+      },
+      {
+        "text": "mich",
+        "start": 28.324,
+        "end": 28.484
+      },
+      {
+        "text": "überwinden.",
+        "start": 28.524,
+        "end": 29.586
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Bitte?",
+    "start": 29.626,
+    "end": 29.946,
+    "words": [
+      {
+        "text": "Bitte?",
+        "start": 29.626,
+        "end": 29.946
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Das würde mir bestimmt die nötige Kraft geben.",
+    "start": 29.966,
+    "end": 32.83,
+    "words": [
+      {
+        "text": "Das",
+        "start": 29.966,
+        "end": 30.126
+      },
+      {
+        "text": "würde",
+        "start": 30.166,
+        "end": 30.407
+      },
+      {
+        "text": "mir",
+        "start": 30.427,
+        "end": 30.587
+      },
+      {
+        "text": "bestimmt",
+        "start": 30.607,
+        "end": 30.987
+      },
+      {
+        "text": "die",
+        "start": 31.028,
+        "end": 31.128
+      },
+      {
+        "text": "nötige",
+        "start": 31.148,
+        "end": 31.548
+      },
+      {
+        "text": "Kraft",
+        "start": 31.568,
+        "end": 31.909
+      },
+      {
+        "text": "geben.",
+        "start": 31.949,
+        "end": 32.83
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Claire.",
+    "start": 32.97,
+    "end": 33.751,
+    "words": [
+      {
+        "text": "Claire.",
+        "start": 32.97,
+        "end": 33.751
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Bitte streng dich für uns an.",
+    "start": 39.542,
+    "end": 41.043,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 39.542,
+        "end": 39.722
+      },
+      {
+        "text": "streng",
+        "start": 39.742,
+        "end": 40.123
+      },
+      {
+        "text": "dich",
+        "start": 40.143,
+        "end": 40.303
+      },
+      {
+        "text": "für",
+        "start": 40.343,
+        "end": 40.483
+      },
+      {
+        "text": "uns",
+        "start": 40.503,
+        "end": 40.663
+      },
+      {
+        "text": "an.",
+        "start": 40.723,
+        "end": 41.043
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Das geht besser.",
+    "start": 42.384,
+    "end": 46.927,
+    "words": [
+      {
+        "text": "Das",
+        "start": 42.384,
+        "end": 42.524
+      },
+      {
+        "text": "geht",
+        "start": 42.544,
+        "end": 42.744
+      },
+      {
+        "text": "besser.",
+        "start": 42.764,
+        "end": 46.927
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Verdammt!",
+    "start": 46.947,
+    "end": 48.428,
+    "words": [
+      {
+        "text": "Verdammt!",
+        "start": 46.947,
+        "end": 48.428
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Bis zur Urteilsverkündung müssen wir die Wogen glätten.",
+    "start": 48.468,
+    "end": 51.409,
+    "words": [
+      {
+        "text": "Bis",
+        "start": 48.468,
+        "end": 48.688
+      },
+      {
+        "text": "zur",
+        "start": 48.728,
+        "end": 48.908
+      },
+      {
+        "text": "Urteilsverkündung",
+        "start": 48.948,
+        "end": 50.149
+      },
+      {
+        "text": "müssen",
+        "start": 50.169,
+        "end": 50.429
+      },
+      {
+        "text": "wir",
+        "start": 50.449,
+        "end": 50.569
+      },
+      {
+        "text": "die",
+        "start": 50.609,
+        "end": 50.709
+      },
+      {
+        "text": "Wogen",
+        "start": 50.729,
+        "end": 51.069
+      },
+      {
+        "text": "glätten.",
+        "start": 51.109,
+        "end": 51.409
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Jawohl!",
+    "start": 51.83,
+    "end": 52.13,
+    "words": [
+      {
+        "text": "Jawohl!",
+        "start": 51.83,
+        "end": 52.13
+      }
+    ]
+  }
+]

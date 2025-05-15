@@ -1,0 +1,1423 @@
+[
+  {
+    "id": 0,
+    "text": " Du bist gestern erst hierher gezogen, hab ich recht?",
+    "start": 8.626,
+    "end": 13.973,
+    "words": [
+      {
+        "text": "Du",
+        "start": 8.626,
+        "end": 11.53
+      },
+      {
+        "text": "bist",
+        "start": 11.69,
+        "end": 11.85
+      },
+      {
+        "text": "gestern",
+        "start": 11.89,
+        "end": 12.231
+      },
+      {
+        "text": "erst",
+        "start": 12.251,
+        "end": 12.391
+      },
+      {
+        "text": "hierher",
+        "start": 12.431,
+        "end": 12.691
+      },
+      {
+        "text": "gezogen,",
+        "start": 12.711,
+        "end": 13.132
+      },
+      {
+        "text": "hab",
+        "start": 13.152,
+        "end": 13.292
+      },
+      {
+        "text": "ich",
+        "start": 13.332,
+        "end": 13.432
+      },
+      {
+        "text": "recht?",
+        "start": 13.492,
+        "end": 13.973
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Und wo hast du vorher gewohnt?",
+    "start": 14.013,
+    "end": 15.415,
+    "words": [
+      {
+        "text": "Und",
+        "start": 14.013,
+        "end": 14.173
+      },
+      {
+        "text": "wo",
+        "start": 14.213,
+        "end": 14.313
+      },
+      {
+        "text": "hast",
+        "start": 14.333,
+        "end": 14.473
+      },
+      {
+        "text": "du",
+        "start": 14.493,
+        "end": 14.614
+      },
+      {
+        "text": "vorher",
+        "start": 14.654,
+        "end": 14.974
+      },
+      {
+        "text": "gewohnt?",
+        "start": 15.014,
+        "end": 15.415
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": " Ich bin aus Tokio.",
+    "start": 16.637,
+    "end": 17.417,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 16.637,
+        "end": 16.737
+      },
+      {
+        "text": "bin",
+        "start": 16.777,
+        "end": 16.877
+      },
+      {
+        "text": "aus",
+        "start": 16.897,
+        "end": 17.057
+      },
+      {
+        "text": "Tokio.",
+        "start": 17.077,
+        "end": 17.417
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Was, in Tokio?",
+    "start": 17.457,
+    "end": 18.518,
+    "words": [
+      {
+        "text": "Was,",
+        "start": 17.457,
+        "end": 17.677
+      },
+      {
+        "text": "in",
+        "start": 17.737,
+        "end": 17.897
+      },
+      {
+        "text": "Tokio?",
+        "start": 17.937,
+        "end": 18.518
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Da gibt es doch diese riesigen Gebäude und alle leben ganz weit oben mit der krassesten Aussicht.",
+    "start": 18.558,
+    "end": 23.759,
+    "words": [
+      {
+        "text": "Da",
+        "start": 18.558,
+        "end": 18.698
+      },
+      {
+        "text": "gibt",
+        "start": 18.718,
+        "end": 18.838
+      },
+      {
+        "text": "es",
+        "start": 18.898,
+        "end": 18.978
+      },
+      {
+        "text": "doch",
+        "start": 18.998,
+        "end": 19.138
+      },
+      {
+        "text": "diese",
+        "start": 19.178,
+        "end": 19.478
+      },
+      {
+        "text": "riesigen",
+        "start": 19.518,
+        "end": 20.018
+      },
+      {
+        "text": "Gebäude",
+        "start": 20.158,
+        "end": 20.638
+      },
+      {
+        "text": "und",
+        "start": 20.678,
+        "end": 20.818
+      },
+      {
+        "text": "alle",
+        "start": 20.858,
+        "end": 21.058
+      },
+      {
+        "text": "leben",
+        "start": 21.098,
+        "end": 21.318
+      },
+      {
+        "text": "ganz",
+        "start": 21.359,
+        "end": 21.579
+      },
+      {
+        "text": "weit",
+        "start": 21.599,
+        "end": 21.879
+      },
+      {
+        "text": "oben",
+        "start": 21.919,
+        "end": 22.099
+      },
+      {
+        "text": "mit",
+        "start": 22.119,
+        "end": 22.259
+      },
+      {
+        "text": "der",
+        "start": 22.279,
+        "end": 22.439
+      },
+      {
+        "text": "krassesten",
+        "start": 22.459,
+        "end": 22.939
+      },
+      {
+        "text": "Aussicht.",
+        "start": 22.999,
+        "end": 23.759
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Hattest du die auch?",
+    "start": 23.799,
+    "end": 25.42,
+    "words": [
+      {
+        "text": "Hattest",
+        "start": 23.799,
+        "end": 24.059
+      },
+      {
+        "text": "du",
+        "start": 24.079,
+        "end": 24.199
+      },
+      {
+        "text": "die",
+        "start": 24.239,
+        "end": 24.399
+      },
+      {
+        "text": "auch?",
+        "start": 24.459,
+        "end": 25.42
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ja, ich denke schon.",
+    "start": 25.46,
+    "end": 26.78,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 25.46,
+        "end": 25.68
+      },
+      {
+        "text": "ich",
+        "start": 25.72,
+        "end": 25.84
+      },
+      {
+        "text": "denke",
+        "start": 25.86,
+        "end": 26.08
+      },
+      {
+        "text": "schon.",
+        "start": 26.12,
+        "end": 26.78
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Das ist so cool.",
+    "start": 26.82,
+    "end": 28.521,
+    "words": [
+      {
+        "text": "Das",
+        "start": 26.82,
+        "end": 27.0
+      },
+      {
+        "text": "ist",
+        "start": 27.06,
+        "end": 27.26
+      },
+      {
+        "text": "so",
+        "start": 27.3,
+        "end": 27.54
+      },
+      {
+        "text": "cool.",
+        "start": 27.56,
+        "end": 28.521
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Und die Autostores sollen alle durch den Himmel fliegen und es sollen sogar Roboter rumlaufen.",
+    "start": 28.581,
+    "end": 33.862,
+    "words": [
+      {
+        "text": "Und",
+        "start": 28.581,
+        "end": 28.741
+      },
+      {
+        "text": "die",
+        "start": 28.761,
+        "end": 28.901
+      },
+      {
+        "text": "Autostores",
+        "start": 28.941,
+        "end": 29.421
+      },
+      {
+        "text": "sollen",
+        "start": 29.461,
+        "end": 29.681
+      },
+      {
+        "text": "alle",
+        "start": 29.741,
+        "end": 29.941
+      },
+      {
+        "text": "durch",
+        "start": 29.961,
+        "end": 30.121
+      },
+      {
+        "text": "den",
+        "start": 30.141,
+        "end": 30.281
+      },
+      {
+        "text": "Himmel",
+        "start": 30.301,
+        "end": 30.601
+      },
+      {
+        "text": "fliegen",
+        "start": 30.621,
+        "end": 30.921
+      },
+      {
+        "text": "und",
+        "start": 30.981,
+        "end": 31.121
+      },
+      {
+        "text": "es",
+        "start": 31.181,
+        "end": 31.262
+      },
+      {
+        "text": "sollen",
+        "start": 31.302,
+        "end": 31.602
+      },
+      {
+        "text": "sogar",
+        "start": 31.622,
+        "end": 31.802
+      },
+      {
+        "text": "Roboter",
+        "start": 31.842,
+        "end": 32.322
+      },
+      {
+        "text": "rumlaufen.",
+        "start": 32.362,
+        "end": 33.862
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ja, genau.",
+    "start": 33.882,
+    "end": 35.023,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 33.882,
+        "end": 34.342
+      },
+      {
+        "text": "genau.",
+        "start": 34.362,
+        "end": 35.023
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Das ist ja voll krass.",
+    "start": 35.063,
+    "end": 36.163,
+    "words": [
+      {
+        "text": "Das",
+        "start": 35.063,
+        "end": 35.223
+      },
+      {
+        "text": "ist",
+        "start": 35.283,
+        "end": 35.403
+      },
+      {
+        "text": "ja",
+        "start": 35.423,
+        "end": 35.583
+      },
+      {
+        "text": "voll",
+        "start": 35.623,
+        "end": 35.903
+      },
+      {
+        "text": "krass.",
+        "start": 35.923,
+        "end": 36.163
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Einfach der Hammer.",
+    "start": 36.203,
+    "end": 38.064,
+    "words": [
+      {
+        "text": "Einfach",
+        "start": 36.203,
+        "end": 36.523
+      },
+      {
+        "text": "der",
+        "start": 36.543,
+        "end": 36.703
+      },
+      {
+        "text": "Hammer.",
+        "start": 36.723,
+        "end": 38.064
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du, macht das Spaß?",
+    "start": 38.104,
+    "end": 42.005,
+    "words": [
+      {
+        "text": "Du,",
+        "start": 38.104,
+        "end": 38.584
+      },
+      {
+        "text": "macht",
+        "start": 38.604,
+        "end": 38.764
+      },
+      {
+        "text": "das",
+        "start": 38.784,
+        "end": 38.924
+      },
+      {
+        "text": "Spaß?",
+        "start": 38.964,
+        "end": 42.005
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich hab mit sowas noch nie gespielt.",
+    "start": 42.045,
+    "end": 43.685,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 42.045,
+        "end": 42.125
+      },
+      {
+        "text": "hab",
+        "start": 42.165,
+        "end": 42.285
+      },
+      {
+        "text": "mit",
+        "start": 42.325,
+        "end": 42.385
+      },
+      {
+        "text": "sowas",
+        "start": 42.405,
+        "end": 42.705
+      },
+      {
+        "text": "noch",
+        "start": 42.725,
+        "end": 42.825
+      },
+      {
+        "text": "nie",
+        "start": 42.925,
+        "end": 43.045
+      },
+      {
+        "text": "gespielt.",
+        "start": 43.065,
+        "end": 43.685
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Lass uns das auch mal ran.",
+    "start": 43.725,
+    "end": 44.866,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 43.725,
+        "end": 43.865
+      },
+      {
+        "text": "uns",
+        "start": 43.925,
+        "end": 44.005
+      },
+      {
+        "text": "das",
+        "start": 44.045,
+        "end": 44.185
+      },
+      {
+        "text": "auch",
+        "start": 44.225,
+        "end": 44.426
+      },
+      {
+        "text": "mal",
+        "start": 44.466,
+        "end": 44.586
+      },
+      {
+        "text": "ran.",
+        "start": 44.606,
+        "end": 44.866
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Hey, was ist los?",
+    "start": 44.906,
+    "end": 45.646,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 44.906,
+        "end": 45.106
+      },
+      {
+        "text": "was",
+        "start": 45.146,
+        "end": 45.386
+      },
+      {
+        "text": "ist",
+        "start": 45.466,
+        "end": 45.546
+      },
+      {
+        "text": "los?",
+        "start": 45.566,
+        "end": 45.646
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Meine Eltern werden mich umbringen.",
+    "start": 47.855,
+    "end": 49.436,
+    "words": [
+      {
+        "text": "Meine",
+        "start": 47.855,
+        "end": 48.275
+      },
+      {
+        "text": "Eltern",
+        "start": 48.315,
+        "end": 48.535
+      },
+      {
+        "text": "werden",
+        "start": 48.575,
+        "end": 48.775
+      },
+      {
+        "text": "mich",
+        "start": 48.795,
+        "end": 48.916
+      },
+      {
+        "text": "umbringen.",
+        "start": 48.976,
+        "end": 49.436
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Das ist mir echt wichtig.",
+    "start": 49.456,
+    "end": 50.556,
+    "words": [
+      {
+        "text": "Das",
+        "start": 49.456,
+        "end": 49.616
+      },
+      {
+        "text": "ist",
+        "start": 49.696,
+        "end": 49.776
+      },
+      {
+        "text": "mir",
+        "start": 49.796,
+        "end": 49.976
+      },
+      {
+        "text": "echt",
+        "start": 50.056,
+        "end": 50.256
+      },
+      {
+        "text": "wichtig.",
+        "start": 50.276,
+        "end": 50.556
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Nicht, dass du ihn kaputt machst.",
+    "start": 50.596,
+    "end": 51.897,
+    "words": [
+      {
+        "text": "Nicht,",
+        "start": 50.596,
+        "end": 50.817
+      },
+      {
+        "text": "dass",
+        "start": 50.837,
+        "end": 50.977
+      },
+      {
+        "text": "du",
+        "start": 50.997,
+        "end": 51.117
+      },
+      {
+        "text": "ihn",
+        "start": 51.137,
+        "end": 51.217
+      },
+      {
+        "text": "kaputt",
+        "start": 51.237,
+        "end": 51.597
+      },
+      {
+        "text": "machst.",
+        "start": 51.637,
+        "end": 51.897
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das ist doch Quatsch mit Soße.",
+    "start": 51.937,
+    "end": 58.321,
+    "words": [
+      {
+        "text": "Das",
+        "start": 51.937,
+        "end": 52.057
+      },
+      {
+        "text": "ist",
+        "start": 52.097,
+        "end": 52.197
+      },
+      {
+        "text": "doch",
+        "start": 52.237,
+        "end": 52.417
+      },
+      {
+        "text": "Quatsch",
+        "start": 52.437,
+        "end": 52.638
+      },
+      {
+        "text": "mit",
+        "start": 52.658,
+        "end": 52.838
+      },
+      {
+        "text": "Soße.",
+        "start": 52.878,
+        "end": 58.321
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Bist du irre?",
+    "start": 58.361,
+    "end": 58.841,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 58.361,
+        "end": 58.521
+      },
+      {
+        "text": "du",
+        "start": 58.561,
+        "end": 58.681
+      },
+      {
+        "text": "irre?",
+        "start": 58.721,
+        "end": 58.841
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Wie ist das denn passiert?",
+    "start": 58.861,
+    "end": 60.061,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 58.861,
+        "end": 58.981
+      },
+      {
+        "text": "ist",
+        "start": 59.041,
+        "end": 59.261
+      },
+      {
+        "text": "das",
+        "start": 59.301,
+        "end": 59.481
+      },
+      {
+        "text": "denn",
+        "start": 59.501,
+        "end": 59.701
+      },
+      {
+        "text": "passiert?",
+        "start": 59.741,
+        "end": 60.061
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Äh, entschuldige bitte.",
+    "start": 60.121,
+    "end": 61.642,
+    "words": [
+      {
+        "text": "Äh,",
+        "start": 60.121,
+        "end": 60.802
+      },
+      {
+        "text": "entschuldige",
+        "start": 60.862,
+        "end": 61.382
+      },
+      {
+        "text": "bitte.",
+        "start": 61.422,
+        "end": 61.642
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ist man etwas mit dir durch... Was hab ich da nur getan?",
+    "start": 61.682,
+    "end": 73.649,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 61.682,
+        "end": 61.762
+      },
+      {
+        "text": "man",
+        "start": 61.782,
+        "end": 61.902
+      },
+      {
+        "text": "etwas",
+        "start": 61.942,
+        "end": 62.183
+      },
+      {
+        "text": "mit",
+        "start": 62.263,
+        "end": 62.463
+      },
+      {
+        "text": "dir",
+        "start": 62.483,
+        "end": 63.003
+      },
+      {
+        "text": "durch...",
+        "start": 63.263,
+        "end": 70.107
+      },
+      {
+        "text": "Was",
+        "start": 70.167,
+        "end": 70.327
+      },
+      {
+        "text": "hab",
+        "start": 70.347,
+        "end": 70.547
+      },
+      {
+        "text": "ich",
+        "start": 70.627,
+        "end": 71.547
+      },
+      {
+        "text": "da",
+        "start": 71.587,
+        "end": 71.728
+      },
+      {
+        "text": "nur",
+        "start": 71.768,
+        "end": 71.888
+      },
+      {
+        "text": "getan?",
+        "start": 71.908,
+        "end": 73.649
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ich hab noch viel mehr als nur das verdient.",
+    "start": 73.709,
+    "end": 75.69,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 73.709,
+        "end": 73.809
+      },
+      {
+        "text": "hab",
+        "start": 73.829,
+        "end": 74.009
+      },
+      {
+        "text": "noch",
+        "start": 74.049,
+        "end": 74.229
+      },
+      {
+        "text": "viel",
+        "start": 74.269,
+        "end": 74.489
+      },
+      {
+        "text": "mehr",
+        "start": 74.509,
+        "end": 74.669
+      },
+      {
+        "text": "als",
+        "start": 74.729,
+        "end": 74.929
+      },
+      {
+        "text": "nur",
+        "start": 74.949,
+        "end": 75.089
+      },
+      {
+        "text": "das",
+        "start": 75.129,
+        "end": 75.289
+      },
+      {
+        "text": "verdient.",
+        "start": 75.309,
+        "end": 75.69
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": " Immerhin habe ich etwas kaputt gemacht, was dir viel bedeutet hat.",
+    "start": 77.437,
+    "end": 80.839,
+    "words": [
+      {
+        "text": "Immerhin",
+        "start": 77.437,
+        "end": 77.757
+      },
+      {
+        "text": "habe",
+        "start": 77.777,
+        "end": 77.877
+      },
+      {
+        "text": "ich",
+        "start": 77.897,
+        "end": 78.017
+      },
+      {
+        "text": "etwas",
+        "start": 78.037,
+        "end": 78.217
+      },
+      {
+        "text": "kaputt",
+        "start": 78.258,
+        "end": 78.578
+      },
+      {
+        "text": "gemacht,",
+        "start": 78.598,
+        "end": 78.878
+      },
+      {
+        "text": "was",
+        "start": 78.918,
+        "end": 79.018
+      },
+      {
+        "text": "dir",
+        "start": 79.038,
+        "end": 79.198
+      },
+      {
+        "text": "viel",
+        "start": 79.218,
+        "end": 79.398
+      },
+      {
+        "text": "bedeutet",
+        "start": 79.438,
+        "end": 79.858
+      },
+      {
+        "text": "hat.",
+        "start": 79.898,
+        "end": 80.839
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Du musst mich noch hundertmal mehr schlagen!",
+    "start": 80.859,
+    "end": 83.06,
+    "words": [
+      {
+        "text": "Du",
+        "start": 80.859,
+        "end": 81.019
+      },
+      {
+        "text": "musst",
+        "start": 81.039,
+        "end": 81.219
+      },
+      {
+        "text": "mich",
+        "start": 81.239,
+        "end": 81.379
+      },
+      {
+        "text": "noch",
+        "start": 81.419,
+        "end": 81.539
+      },
+      {
+        "text": "hundertmal",
+        "start": 81.559,
+        "end": 82.119
+      },
+      {
+        "text": "mehr",
+        "start": 82.139,
+        "end": 82.36
+      },
+      {
+        "text": "schlagen!",
+        "start": 82.38,
+        "end": 83.06
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Wenn du das nicht tust, muss ich auf ewig mit dieser Schuld leben!",
+    "start": 83.1,
+    "end": 85.701,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 83.1,
+        "end": 83.24
+      },
+      {
+        "text": "du",
+        "start": 83.26,
+        "end": 83.36
+      },
+      {
+        "text": "das",
+        "start": 83.38,
+        "end": 83.6
+      },
+      {
+        "text": "nicht",
+        "start": 83.62,
+        "end": 83.76
+      },
+      {
+        "text": "tust,",
+        "start": 83.84,
+        "end": 84.22
+      },
+      {
+        "text": "muss",
+        "start": 84.24,
+        "end": 84.36
+      },
+      {
+        "text": "ich",
+        "start": 84.4,
+        "end": 84.481
+      },
+      {
+        "text": "auf",
+        "start": 84.541,
+        "end": 84.621
+      },
+      {
+        "text": "ewig",
+        "start": 84.641,
+        "end": 84.761
+      },
+      {
+        "text": "mit",
+        "start": 84.781,
+        "end": 84.921
+      },
+      {
+        "text": "dieser",
+        "start": 84.941,
+        "end": 85.141
+      },
+      {
+        "text": "Schuld",
+        "start": 85.161,
+        "end": 85.401
+      },
+      {
+        "text": "leben!",
+        "start": 85.421,
+        "end": 85.701
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Nein, das ist schon in Ordnung.",
+    "start": 85.741,
+    "end": 88.142,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 85.741,
+        "end": 86.782
+      },
+      {
+        "text": "das",
+        "start": 86.822,
+        "end": 87.062
+      },
+      {
+        "text": "ist",
+        "start": 87.102,
+        "end": 87.222
+      },
+      {
+        "text": "schon",
+        "start": 87.262,
+        "end": 87.462
+      },
+      {
+        "text": "in",
+        "start": 87.502,
+        "end": 87.642
+      },
+      {
+        "text": "Ordnung.",
+        "start": 87.702,
+        "end": 88.142
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ist dir ein einziger Schlag wirklich genug?",
+    "start": 88.182,
+    "end": 90.243,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 88.182,
+        "end": 88.322
+      },
+      {
+        "text": "dir",
+        "start": 88.362,
+        "end": 88.462
+      },
+      {
+        "text": "ein",
+        "start": 88.482,
+        "end": 88.623
+      },
+      {
+        "text": "einziger",
+        "start": 88.663,
+        "end": 89.023
+      },
+      {
+        "text": "Schlag",
+        "start": 89.063,
+        "end": 89.363
+      },
+      {
+        "text": "wirklich",
+        "start": 89.403,
+        "end": 89.723
+      },
+      {
+        "text": "genug?",
+        "start": 89.763,
+        "end": 90.243
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Auf jeden Fall!",
+    "start": 90.303,
+    "end": 92.504,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 90.303,
+        "end": 90.503
+      },
+      {
+        "text": "jeden",
+        "start": 90.523,
+        "end": 90.804
+      },
+      {
+        "text": "Fall!",
+        "start": 90.844,
+        "end": 92.504
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Jetzt bin ich dir wohl was schuldig.",
+    "start": 92.524,
+    "end": 94.265,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 92.524,
+        "end": 92.705
+      },
+      {
+        "text": "bin",
+        "start": 92.725,
+        "end": 92.845
+      },
+      {
+        "text": "ich",
+        "start": 92.865,
+        "end": 92.965
+      },
+      {
+        "text": "dir",
+        "start": 92.985,
+        "end": 93.105
+      },
+      {
+        "text": "wohl",
+        "start": 93.145,
+        "end": 93.305
+      },
+      {
+        "text": "was",
+        "start": 93.325,
+        "end": 93.465
+      },
+      {
+        "text": "schuldig.",
+        "start": 93.485,
+        "end": 94.265
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ich heiße Tomo.",
+    "start": 94.305,
+    "end": 95.626,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 94.305,
+        "end": 94.405
+      },
+      {
+        "text": "heiße",
+        "start": 94.425,
+        "end": 94.746
+      },
+      {
+        "text": "Tomo.",
+        "start": 94.806,
+        "end": 95.626
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Würdest du mir auch sagen, wie du heißt?",
+    "start": 95.666,
+    "end": 97.247,
+    "words": [
+      {
+        "text": "Würdest",
+        "start": 95.666,
+        "end": 95.906
+      },
+      {
+        "text": "du",
+        "start": 95.946,
+        "end": 96.046
+      },
+      {
+        "text": "mir",
+        "start": 96.066,
+        "end": 96.206
+      },
+      {
+        "text": "auch",
+        "start": 96.246,
+        "end": 96.366
+      },
+      {
+        "text": "sagen,",
+        "start": 96.406,
+        "end": 96.646
+      },
+      {
+        "text": "wie",
+        "start": 96.666,
+        "end": 96.787
+      },
+      {
+        "text": "du",
+        "start": 96.827,
+        "end": 96.987
+      },
+      {
+        "text": "heißt?",
+        "start": 97.027,
+        "end": 97.247
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ah, Junichiro Kubota.",
+    "start": 98.007,
+    "end": 100.088,
+    "words": [
+      {
+        "text": "Ah,",
+        "start": 98.007,
+        "end": 98.227
+      },
+      {
+        "text": "Junichiro",
+        "start": 98.287,
+        "end": 99.308
+      },
+      {
+        "text": "Kubota.",
+        "start": 99.348,
+        "end": 100.088
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Alles klar.",
+    "start": 100.188,
+    "end": 102.489,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 100.188,
+        "end": 100.588
+      },
+      {
+        "text": "klar.",
+        "start": 100.628,
+        "end": 102.489
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Dein Name gefällt mir.",
+    "start": 102.529,
+    "end": 103.61,
+    "words": [
+      {
+        "text": "Dein",
+        "start": 102.529,
+        "end": 102.729
+      },
+      {
+        "text": "Name",
+        "start": 102.749,
+        "end": 103.03
+      },
+      {
+        "text": "gefällt",
+        "start": 103.05,
+        "end": 103.47
+      },
+      {
+        "text": "mir.",
+        "start": 103.49,
+        "end": 103.61
+      }
+    ]
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "id": 0,
+    "text": " Gut, das hat funktioniert.",
+    "start": 4.739,
+    "end": 7.18,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 4.739,
+        "end": 5.539
+      },
+      {
+        "text": "das",
+        "start": 5.559,
+        "end": 5.679
+      },
+      {
+        "text": "hat",
+        "start": 5.699,
+        "end": 5.899
+      },
+      {
+        "text": "funktioniert.",
+        "start": 5.939,
+        "end": 7.18
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich habe die Seele vom eigentlichen Polker an dieses süße Stofftier hier übertragen.",
+    "start": 7.24,
+    "end": 10.981,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 7.24,
+        "end": 7.34
+      },
+      {
+        "text": "habe",
+        "start": 7.38,
+        "end": 7.62
+      },
+      {
+        "text": "die",
+        "start": 7.64,
+        "end": 7.72
+      },
+      {
+        "text": "Seele",
+        "start": 7.74,
+        "end": 7.98
+      },
+      {
+        "text": "vom",
+        "start": 8.0,
+        "end": 8.2
+      },
+      {
+        "text": "eigentlichen",
+        "start": 8.24,
+        "end": 8.74
+      },
+      {
+        "text": "Polker",
+        "start": 8.78,
+        "end": 9.04
+      },
+      {
+        "text": "an",
+        "start": 9.06,
+        "end": 9.22
+      },
+      {
+        "text": "dieses",
+        "start": 9.24,
+        "end": 9.461
+      },
+      {
+        "text": "süße",
+        "start": 9.501,
+        "end": 9.821
+      },
+      {
+        "text": "Stofftier",
+        "start": 9.841,
+        "end": 10.261
+      },
+      {
+        "text": "hier",
+        "start": 10.281,
+        "end": 10.461
+      },
+      {
+        "text": "übertragen.",
+        "start": 10.501,
+        "end": 10.981
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hier, die Drohne kannst du jetzt wieder haben.",
+    "start": 11.561,
+    "end": 13.122,
+    "words": [
+      {
+        "text": "Hier,",
+        "start": 11.561,
+        "end": 11.921
+      },
+      {
+        "text": "die",
+        "start": 11.941,
+        "end": 12.041
+      },
+      {
+        "text": "Drohne",
+        "start": 12.061,
+        "end": 12.281
+      },
+      {
+        "text": "kannst",
+        "start": 12.321,
+        "end": 12.482
+      },
+      {
+        "text": "du",
+        "start": 12.502,
+        "end": 12.582
+      },
+      {
+        "text": "jetzt",
+        "start": 12.602,
+        "end": 12.742
+      },
+      {
+        "text": "wieder",
+        "start": 12.762,
+        "end": 12.922
+      },
+      {
+        "text": "haben.",
+        "start": 12.942,
+        "end": 13.122
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Willkommen zurück, mein kleines Dröhnchen!",
+    "start": 13.922,
+    "end": 16.463,
+    "words": [
+      {
+        "text": "Willkommen",
+        "start": 13.922,
+        "end": 14.382
+      },
+      {
+        "text": "zurück,",
+        "start": 14.422,
+        "end": 14.722
+      },
+      {
+        "text": "mein",
+        "start": 14.742,
+        "end": 14.842
+      },
+      {
+        "text": "kleines",
+        "start": 14.862,
+        "end": 15.362
+      },
+      {
+        "text": "Dröhnchen!",
+        "start": 15.402,
+        "end": 16.463
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich hab dich ja so sehr vermisst!",
+    "start": 16.523,
+    "end": 20.044,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 16.523,
+        "end": 16.623
+      },
+      {
+        "text": "hab",
+        "start": 16.643,
+        "end": 16.823
+      },
+      {
+        "text": "dich",
+        "start": 16.843,
+        "end": 16.943
+      },
+      {
+        "text": "ja",
+        "start": 16.983,
+        "end": 17.143
+      },
+      {
+        "text": "so",
+        "start": 17.163,
+        "end": 17.303
+      },
+      {
+        "text": "sehr",
+        "start": 17.463,
+        "end": 18.003
+      },
+      {
+        "text": "vermisst!",
+        "start": 18.023,
+        "end": 20.044
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich hoffe, du als richtiger Polker kannst mir verzeihen, wenn ich mir deinen Namen und deine Identität noch ein wenig länger ausleihe.",
+    "start": 20.084,
+    "end": 27.666,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 20.084,
+        "end": 20.184
+      },
+      {
+        "text": "hoffe,",
+        "start": 20.224,
+        "end": 20.484
+      },
+      {
+        "text": "du",
+        "start": 20.504,
+        "end": 20.644
+      },
+      {
+        "text": "als",
+        "start": 20.664,
+        "end": 20.884
+      },
+      {
+        "text": "richtiger",
+        "start": 20.924,
+        "end": 21.284
+      },
+      {
+        "text": "Polker",
+        "start": 21.324,
+        "end": 21.664
+      },
+      {
+        "text": "kannst",
+        "start": 21.704,
+        "end": 21.905
+      },
+      {
+        "text": "mir",
+        "start": 21.925,
+        "end": 22.065
+      },
+      {
+        "text": "verzeihen,",
+        "start": 22.105,
+        "end": 22.505
+      },
+      {
+        "text": "wenn",
+        "start": 22.525,
+        "end": 22.665
+      },
+      {
+        "text": "ich",
+        "start": 22.705,
+        "end": 22.825
+      },
+      {
+        "text": "mir",
+        "start": 22.845,
+        "end": 22.985
+      },
+      {
+        "text": "deinen",
+        "start": 23.005,
+        "end": 23.305
+      },
+      {
+        "text": "Namen",
+        "start": 23.345,
+        "end": 24.305
+      },
+      {
+        "text": "und",
+        "start": 24.365,
+        "end": 24.585
+      },
+      {
+        "text": "deine",
+        "start": 24.625,
+        "end": 25.246
+      },
+      {
+        "text": "Identität",
+        "start": 25.286,
+        "end": 25.806
+      },
+      {
+        "text": "noch",
+        "start": 25.846,
+        "end": 25.986
+      },
+      {
+        "text": "ein",
+        "start": 26.026,
+        "end": 26.166
+      },
+      {
+        "text": "wenig",
+        "start": 26.186,
+        "end": 26.426
+      },
+      {
+        "text": "länger",
+        "start": 26.466,
+        "end": 26.666
+      },
+      {
+        "text": "ausleihe.",
+        "start": 26.686,
+        "end": 27.666
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich werd's wieder gut machen, versprochen.",
+    "start": 27.706,
+    "end": 29.187,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.706,
+        "end": 27.786
+      },
+      {
+        "text": "werd's",
+        "start": 27.826,
+        "end": 28.007
+      },
+      {
+        "text": "wieder",
+        "start": 28.027,
+        "end": 28.247
+      },
+      {
+        "text": "gut",
+        "start": 28.267,
+        "end": 28.427
+      },
+      {
+        "text": "machen,",
+        "start": 28.447,
+        "end": 28.767
+      },
+      {
+        "text": "versprochen.",
+        "start": 28.787,
+        "end": 29.187
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Liebes Bisschen, wie süß ist der denn?",
+    "start": 32.887,
+    "end": 34.949,
+    "words": [
+      {
+        "text": "Liebes",
+        "start": 32.887,
+        "end": 33.447
+      },
+      {
+        "text": "Bisschen,",
+        "start": 33.467,
+        "end": 33.748
+      },
+      {
+        "text": "wie",
+        "start": 33.768,
+        "end": 33.908
+      },
+      {
+        "text": "süß",
+        "start": 33.928,
+        "end": 34.048
+      },
+      {
+        "text": "ist",
+        "start": 34.108,
+        "end": 34.228
+      },
+      {
+        "text": "der",
+        "start": 34.248,
+        "end": 34.448
+      },
+      {
+        "text": "denn?",
+        "start": 34.468,
+        "end": 34.949
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Hast du den gekauft, Polka?",
+    "start": 34.989,
+    "end": 36.169,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 34.989,
+        "end": 35.149
+      },
+      {
+        "text": "du",
+        "start": 35.169,
+        "end": 35.329
+      },
+      {
+        "text": "den",
+        "start": 35.349,
+        "end": 35.429
+      },
+      {
+        "text": "gekauft,",
+        "start": 35.449,
+        "end": 35.829
+      },
+      {
+        "text": "Polka?",
+        "start": 35.849,
+        "end": 36.169
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Oh, jetzt ist der rot geworden.",
+    "start": 36.25,
+    "end": 39.532,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 36.25,
+        "end": 38.131
+      },
+      {
+        "text": "jetzt",
+        "start": 38.171,
+        "end": 38.311
+      },
+      {
+        "text": "ist",
+        "start": 38.371,
+        "end": 38.511
+      },
+      {
+        "text": "der",
+        "start": 38.531,
+        "end": 38.651
+      },
+      {
+        "text": "rot",
+        "start": 38.691,
+        "end": 38.952
+      },
+      {
+        "text": "geworden.",
+        "start": 38.992,
+        "end": 39.532
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Unglaublich.",
+    "start": 39.592,
+    "end": 40.673,
+    "words": [
+      {
+        "text": "Unglaublich.",
+        "start": 39.592,
+        "end": 40.673
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Wird er selbst bei seiner Mörderin noch wuschig?",
+    "start": 40.693,
+    "end": 43.155,
+    "words": [
+      {
+        "text": "Wird",
+        "start": 40.693,
+        "end": 40.833
+      },
+      {
+        "text": "er",
+        "start": 40.893,
+        "end": 40.973
+      },
+      {
+        "text": "selbst",
+        "start": 41.013,
+        "end": 41.193
+      },
+      {
+        "text": "bei",
+        "start": 41.233,
+        "end": 41.353
+      },
+      {
+        "text": "seiner",
+        "start": 41.373,
+        "end": 41.634
+      },
+      {
+        "text": "Mörderin",
+        "start": 41.654,
+        "end": 42.054
+      },
+      {
+        "text": "noch",
+        "start": 42.094,
+        "end": 42.194
+      },
+      {
+        "text": "wuschig?",
+        "start": 42.234,
+        "end": 43.155
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Also war der echte Polka auch ein Weirdo?",
+    "start": 43.195,
+    "end": 44.996,
+    "words": [
+      {
+        "text": "Also",
+        "start": 43.195,
+        "end": 43.435
+      },
+      {
+        "text": "war",
+        "start": 43.455,
+        "end": 43.595
+      },
+      {
+        "text": "der",
+        "start": 43.615,
+        "end": 43.735
+      },
+      {
+        "text": "echte",
+        "start": 43.795,
+        "end": 44.035
+      },
+      {
+        "text": "Polka",
+        "start": 44.055,
+        "end": 44.376
+      },
+      {
+        "text": "auch",
+        "start": 44.416,
+        "end": 44.516
+      },
+      {
+        "text": "ein",
+        "start": 44.536,
+        "end": 44.676
+      },
+      {
+        "text": "Weirdo?",
+        "start": 44.716,
+        "end": 44.996
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Hey, ich hab echt keine Ahnung, was du von mir willst.",
+    "start": 45.036,
+    "end": 49.279,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 45.036,
+        "end": 47.218
+      },
+      {
+        "text": "ich",
+        "start": 47.278,
+        "end": 47.378
+      },
+      {
+        "text": "hab",
+        "start": 47.398,
+        "end": 47.618
+      },
+      {
+        "text": "echt",
+        "start": 47.658,
+        "end": 47.798
+      },
+      {
+        "text": "keine",
+        "start": 47.838,
+        "end": 48.039
+      },
+      {
+        "text": "Ahnung,",
+        "start": 48.099,
+        "end": 48.359
+      },
+      {
+        "text": "was",
+        "start": 48.379,
+        "end": 48.519
+      },
+      {
+        "text": "du",
+        "start": 48.539,
+        "end": 48.639
+      },
+      {
+        "text": "von",
+        "start": 48.659,
+        "end": 48.779
+      },
+      {
+        "text": "mir",
+        "start": 48.799,
+        "end": 48.939
+      },
+      {
+        "text": "willst.",
+        "start": 48.959,
+        "end": 49.279
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wenn du möchtest, kann ich ihn auch reden lassen.",
+    "start": 49.299,
+    "end": 51.081,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 49.299,
+        "end": 49.46
+      },
+      {
+        "text": "du",
+        "start": 49.48,
+        "end": 49.6
+      },
+      {
+        "text": "möchtest,",
+        "start": 49.64,
+        "end": 50.02
+      },
+      {
+        "text": "kann",
+        "start": 50.04,
+        "end": 50.2
+      },
+      {
+        "text": "ich",
+        "start": 50.22,
+        "end": 50.3
+      },
+      {
+        "text": "ihn",
+        "start": 50.32,
+        "end": 50.42
+      },
+      {
+        "text": "auch",
+        "start": 50.46,
+        "end": 50.54
+      },
+      {
+        "text": "reden",
+        "start": 50.58,
+        "end": 50.781
+      },
+      {
+        "text": "lassen.",
+        "start": 50.821,
+        "end": 51.081
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ja, dazu brauche ich nur frische Stimmbänder.",
+    "start": 52.262,
+    "end": 54.503,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 52.262,
+        "end": 52.602
+      },
+      {
+        "text": "dazu",
+        "start": 52.642,
+        "end": 52.902
+      },
+      {
+        "text": "brauche",
+        "start": 52.922,
+        "end": 53.182
+      },
+      {
+        "text": "ich",
+        "start": 53.222,
+        "end": 53.363
+      },
+      {
+        "text": "nur",
+        "start": 53.423,
+        "end": 53.563
+      },
+      {
+        "text": "frische",
+        "start": 53.603,
+        "end": 53.903
+      },
+      {
+        "text": "Stimmbänder.",
+        "start": 53.943,
+        "end": 54.503
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Und wo willst du die hernehmen?",
+    "start": 54.964,
+    "end": 56.545,
+    "words": [
+      {
+        "text": "Und",
+        "start": 54.964,
+        "end": 55.164
+      },
+      {
+        "text": "wo",
+        "start": 55.204,
+        "end": 55.344
+      },
+      {
+        "text": "willst",
+        "start": 55.364,
+        "end": 55.524
+      },
+      {
+        "text": "du",
+        "start": 55.564,
+        "end": 55.644
+      },
+      {
+        "text": "die",
+        "start": 55.664,
+        "end": 55.844
+      },
+      {
+        "text": "hernehmen?",
+        "start": 55.884,
+        "end": 56.545
+      }
+    ]
+  }
+]

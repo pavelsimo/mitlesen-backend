@@ -1,0 +1,1113 @@
+[
+  {
+    "id": 0,
+    "text": " Mama!",
+    "start": 0.588,
+    "end": 1.809,
+    "words": [
+      {
+        "text": "Mama!",
+        "start": 0.588,
+        "end": 1.809
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hier steht geschlossen, aber die Tür war offen.",
+    "start": 1.849,
+    "end": 4.431,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 1.849,
+        "end": 1.989
+      },
+      {
+        "text": "steht",
+        "start": 2.029,
+        "end": 2.309
+      },
+      {
+        "text": "geschlossen,",
+        "start": 2.329,
+        "end": 2.91
+      },
+      {
+        "text": "aber",
+        "start": 2.95,
+        "end": 3.15
+      },
+      {
+        "text": "die",
+        "start": 3.17,
+        "end": 3.29
+      },
+      {
+        "text": "Tür",
+        "start": 3.31,
+        "end": 3.47
+      },
+      {
+        "text": "war",
+        "start": 3.49,
+        "end": 3.63
+      },
+      {
+        "text": "offen.",
+        "start": 3.67,
+        "end": 4.431
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Oh, Hana.",
+    "start": 4.571,
+    "end": 5.632,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 4.571,
+        "end": 4.811
+      },
+      {
+        "text": "Hana.",
+        "start": 4.851,
+        "end": 5.632
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Du siehst aber süß aus.",
+    "start": 5.692,
+    "end": 7.073,
+    "words": [
+      {
+        "text": "Du",
+        "start": 5.692,
+        "end": 5.872
+      },
+      {
+        "text": "siehst",
+        "start": 5.892,
+        "end": 6.172
+      },
+      {
+        "text": "aber",
+        "start": 6.212,
+        "end": 6.432
+      },
+      {
+        "text": "süß",
+        "start": 6.472,
+        "end": 6.812
+      },
+      {
+        "text": "aus.",
+        "start": 6.893,
+        "end": 7.073
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Die Mutter!",
+    "start": 7.113,
+    "end": 8.093,
+    "words": [
+      {
+        "text": "Die",
+        "start": 7.113,
+        "end": 7.293
+      },
+      {
+        "text": "Mutter!",
+        "start": 7.313,
+        "end": 8.093
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ja?",
+    "start": 8.153,
+    "end": 8.994,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 8.153,
+        "end": 8.994
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Schnell, Mama, lauf weg!",
+    "start": 9.034,
+    "end": 10.835,
+    "words": [
+      {
+        "text": "Schnell,",
+        "start": 9.034,
+        "end": 9.314
+      },
+      {
+        "text": "Mama,",
+        "start": 9.334,
+        "end": 9.775
+      },
+      {
+        "text": "lauf",
+        "start": 9.795,
+        "end": 9.975
+      },
+      {
+        "text": "weg!",
+        "start": 10.015,
+        "end": 10.835
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Möchten Sie einen Job?",
+    "start": 10.875,
+    "end": 11.776,
+    "words": [
+      {
+        "text": "Möchten",
+        "start": 10.875,
+        "end": 11.196
+      },
+      {
+        "text": "Sie",
+        "start": 11.216,
+        "end": 11.316
+      },
+      {
+        "text": "einen",
+        "start": 11.356,
+        "end": 11.516
+      },
+      {
+        "text": "Job?",
+        "start": 11.576,
+        "end": 11.776
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "An sofort?",
+    "start": 11.816,
+    "end": 13.277,
+    "words": [
+      {
+        "text": "An",
+        "start": 11.816,
+        "end": 11.956
+      },
+      {
+        "text": "sofort?",
+        "start": 11.976,
+        "end": 13.277
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wie bitte?",
+    "start": 13.317,
+    "end": 14.218,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 13.317,
+        "end": 13.457
+      },
+      {
+        "text": "bitte?",
+        "start": 13.497,
+        "end": 14.218
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Sie müssen nur eins dieser Kostüme anziehen.",
+    "start": 14.458,
+    "end": 16.379,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 14.458,
+        "end": 14.578
+      },
+      {
+        "text": "müssen",
+        "start": 14.618,
+        "end": 14.858
+      },
+      {
+        "text": "nur",
+        "start": 14.878,
+        "end": 15.038
+      },
+      {
+        "text": "eins",
+        "start": 15.078,
+        "end": 15.279
+      },
+      {
+        "text": "dieser",
+        "start": 15.299,
+        "end": 15.479
+      },
+      {
+        "text": "Kostüme",
+        "start": 15.519,
+        "end": 15.979
+      },
+      {
+        "text": "anziehen.",
+        "start": 16.019,
+        "end": 16.379
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Das kommt nicht in Frage.",
+    "start": 16.8,
+    "end": 18.381,
+    "words": [
+      {
+        "text": "Das",
+        "start": 16.8,
+        "end": 17.02
+      },
+      {
+        "text": "kommt",
+        "start": 17.04,
+        "end": 17.24
+      },
+      {
+        "text": "nicht",
+        "start": 17.26,
+        "end": 17.44
+      },
+      {
+        "text": "in",
+        "start": 17.5,
+        "end": 17.6
+      },
+      {
+        "text": "Frage.",
+        "start": 17.62,
+        "end": 18.381
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich frag mich, wie jemand so offen mit seinen Gelüsten sein kann.",
+    "start": 18.421,
+    "end": 21.503,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 18.421,
+        "end": 18.621
+      },
+      {
+        "text": "frag",
+        "start": 18.641,
+        "end": 18.821
+      },
+      {
+        "text": "mich,",
+        "start": 18.841,
+        "end": 18.981
+      },
+      {
+        "text": "wie",
+        "start": 19.001,
+        "end": 19.141
+      },
+      {
+        "text": "jemand",
+        "start": 19.161,
+        "end": 19.402
+      },
+      {
+        "text": "so",
+        "start": 19.422,
+        "end": 19.542
+      },
+      {
+        "text": "offen",
+        "start": 19.562,
+        "end": 19.742
+      },
+      {
+        "text": "mit",
+        "start": 19.762,
+        "end": 19.882
+      },
+      {
+        "text": "seinen",
+        "start": 19.922,
+        "end": 20.082
+      },
+      {
+        "text": "Gelüsten",
+        "start": 20.122,
+        "end": 20.582
+      },
+      {
+        "text": "sein",
+        "start": 20.622,
+        "end": 20.883
+      },
+      {
+        "text": "kann.",
+        "start": 20.923,
+        "end": 21.503
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ist doch klar.",
+    "start": 21.543,
+    "end": 22.284,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 21.543,
+        "end": 21.683
+      },
+      {
+        "text": "doch",
+        "start": 21.703,
+        "end": 21.863
+      },
+      {
+        "text": "klar.",
+        "start": 21.903,
+        "end": 22.284
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Aber einen bestimmten Punkt gibt es kein Zurück mehr.",
+    "start": 22.324,
+    "end": 24.465,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 22.324,
+        "end": 22.464
+      },
+      {
+        "text": "einen",
+        "start": 22.504,
+        "end": 22.624
+      },
+      {
+        "text": "bestimmten",
+        "start": 22.664,
+        "end": 23.104
+      },
+      {
+        "text": "Punkt",
+        "start": 23.124,
+        "end": 23.324
+      },
+      {
+        "text": "gibt",
+        "start": 23.364,
+        "end": 23.464
+      },
+      {
+        "text": "es",
+        "start": 23.504,
+        "end": 23.605
+      },
+      {
+        "text": "kein",
+        "start": 23.645,
+        "end": 23.845
+      },
+      {
+        "text": "Zurück",
+        "start": 23.885,
+        "end": 24.165
+      },
+      {
+        "text": "mehr.",
+        "start": 24.185,
+        "end": 24.465
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Keine Angst, die werden Ihnen sicher stehen.",
+    "start": 24.485,
+    "end": 26.046,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 24.485,
+        "end": 24.685
+      },
+      {
+        "text": "Angst,",
+        "start": 24.725,
+        "end": 24.885
+      },
+      {
+        "text": "die",
+        "start": 24.905,
+        "end": 25.006
+      },
+      {
+        "text": "werden",
+        "start": 25.026,
+        "end": 25.246
+      },
+      {
+        "text": "Ihnen",
+        "start": 25.266,
+        "end": 25.426
+      },
+      {
+        "text": "sicher",
+        "start": 25.446,
+        "end": 25.686
+      },
+      {
+        "text": "stehen.",
+        "start": 25.726,
+        "end": 26.046
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ich hab schon lange ein Auge auf Sie geworfen.",
+    "start": 26.086,
+    "end": 27.788,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 26.086,
+        "end": 26.146
+      },
+      {
+        "text": "hab",
+        "start": 26.186,
+        "end": 26.306
+      },
+      {
+        "text": "schon",
+        "start": 26.326,
+        "end": 26.527
+      },
+      {
+        "text": "lange",
+        "start": 26.547,
+        "end": 26.747
+      },
+      {
+        "text": "ein",
+        "start": 26.767,
+        "end": 26.907
+      },
+      {
+        "text": "Auge",
+        "start": 26.947,
+        "end": 27.107
+      },
+      {
+        "text": "auf",
+        "start": 27.147,
+        "end": 27.287
+      },
+      {
+        "text": "Sie",
+        "start": 27.307,
+        "end": 27.407
+      },
+      {
+        "text": "geworfen.",
+        "start": 27.427,
+        "end": 27.788
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Wird das jetzt ein Liebesgeständnis?",
+    "start": 27.808,
+    "end": 29.449,
+    "words": [
+      {
+        "text": "Wird",
+        "start": 27.808,
+        "end": 27.908
+      },
+      {
+        "text": "das",
+        "start": 27.948,
+        "end": 28.088
+      },
+      {
+        "text": "jetzt",
+        "start": 28.108,
+        "end": 28.288
+      },
+      {
+        "text": "ein",
+        "start": 28.328,
+        "end": 28.568
+      },
+      {
+        "text": "Liebesgeständnis?",
+        "start": 28.588,
+        "end": 29.449
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Aber wenn Sie sich nicht verkleiden wollen, geht auch etwas Normales, etwas Schlichtes, etwas Weißes.",
+    "start": 30.468,
+    "end": 34.35,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 30.468,
+        "end": 30.628
+      },
+      {
+        "text": "wenn",
+        "start": 30.668,
+        "end": 30.788
+      },
+      {
+        "text": "Sie",
+        "start": 30.828,
+        "end": 30.908
+      },
+      {
+        "text": "sich",
+        "start": 30.928,
+        "end": 31.068
+      },
+      {
+        "text": "nicht",
+        "start": 31.088,
+        "end": 31.248
+      },
+      {
+        "text": "verkleiden",
+        "start": 31.288,
+        "end": 31.649
+      },
+      {
+        "text": "wollen,",
+        "start": 31.689,
+        "end": 31.869
+      },
+      {
+        "text": "geht",
+        "start": 31.889,
+        "end": 32.029
+      },
+      {
+        "text": "auch",
+        "start": 32.069,
+        "end": 32.189
+      },
+      {
+        "text": "etwas",
+        "start": 32.229,
+        "end": 32.469
+      },
+      {
+        "text": "Normales,",
+        "start": 32.489,
+        "end": 32.949
+      },
+      {
+        "text": "etwas",
+        "start": 32.989,
+        "end": 33.169
+      },
+      {
+        "text": "Schlichtes,",
+        "start": 33.209,
+        "end": 33.61
+      },
+      {
+        "text": "etwas",
+        "start": 33.65,
+        "end": 33.91
+      },
+      {
+        "text": "Weißes.",
+        "start": 33.97,
+        "end": 34.35
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ja, ganz genau, ein weißes T-Shirt.",
+    "start": 34.49,
+    "end": 36.171,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 34.49,
+        "end": 34.61
+      },
+      {
+        "text": "ganz",
+        "start": 34.63,
+        "end": 34.85
+      },
+      {
+        "text": "genau,",
+        "start": 34.87,
+        "end": 35.09
+      },
+      {
+        "text": "ein",
+        "start": 35.13,
+        "end": 35.25
+      },
+      {
+        "text": "weißes",
+        "start": 35.27,
+        "end": 35.55
+      },
+      {
+        "text": "T-Shirt.",
+        "start": 35.59,
+        "end": 36.171
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Und darunter ein Badeanzug.",
+    "start": 36.211,
+    "end": 37.531,
+    "words": [
+      {
+        "text": "Und",
+        "start": 36.211,
+        "end": 36.331
+      },
+      {
+        "text": "darunter",
+        "start": 36.371,
+        "end": 36.751
+      },
+      {
+        "text": "ein",
+        "start": 36.791,
+        "end": 36.931
+      },
+      {
+        "text": "Badeanzug.",
+        "start": 36.971,
+        "end": 37.531
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Nein, wissen Sie was?",
+    "start": 37.551,
+    "end": 38.372,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 37.551,
+        "end": 37.771
+      },
+      {
+        "text": "wissen",
+        "start": 37.791,
+        "end": 38.052
+      },
+      {
+        "text": "Sie",
+        "start": 38.092,
+        "end": 38.192
+      },
+      {
+        "text": "was?",
+        "start": 38.232,
+        "end": 38.372
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Vergessen Sie den Badeanzug.",
+    "start": 38.412,
+    "end": 39.532,
+    "words": [
+      {
+        "text": "Vergessen",
+        "start": 38.412,
+        "end": 38.752
+      },
+      {
+        "text": "Sie",
+        "start": 38.772,
+        "end": 38.872
+      },
+      {
+        "text": "den",
+        "start": 38.892,
+        "end": 38.992
+      },
+      {
+        "text": "Badeanzug.",
+        "start": 39.012,
+        "end": 39.532
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Nur Shirt und Unterwäsche.",
+    "start": 39.572,
+    "end": 40.713,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 39.572,
+        "end": 39.712
+      },
+      {
+        "text": "Shirt",
+        "start": 39.732,
+        "end": 39.972
+      },
+      {
+        "text": "und",
+        "start": 39.992,
+        "end": 40.132
+      },
+      {
+        "text": "Unterwäsche.",
+        "start": 40.193,
+        "end": 40.713
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Und für Hana das Gleiche.",
+    "start": 40.753,
+    "end": 42.253,
+    "words": [
+      {
+        "text": "Und",
+        "start": 40.753,
+        "end": 40.853
+      },
+      {
+        "text": "für",
+        "start": 40.893,
+        "end": 41.013
+      },
+      {
+        "text": "Hana",
+        "start": 41.033,
+        "end": 41.313
+      },
+      {
+        "text": "das",
+        "start": 41.353,
+        "end": 41.493
+      },
+      {
+        "text": "Gleiche.",
+        "start": 41.533,
+        "end": 42.253
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Mutter und Tochter zusammen.",
+    "start": 42.273,
+    "end": 43.834,
+    "words": [
+      {
+        "text": "Mutter",
+        "start": 42.273,
+        "end": 42.594
+      },
+      {
+        "text": "und",
+        "start": 42.614,
+        "end": 42.694
+      },
+      {
+        "text": "Tochter",
+        "start": 42.754,
+        "end": 43.134
+      },
+      {
+        "text": "zusammen.",
+        "start": 43.154,
+        "end": 43.834
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Und dann stelle ich genau hier eine Bühne mit Go-Go-Stange auf, an der ihr beide tanzen und euch regeln könnt.",
+    "start": 43.874,
+    "end": 48.116,
+    "words": [
+      {
+        "text": "Und",
+        "start": 43.874,
+        "end": 43.974
+      },
+      {
+        "text": "dann",
+        "start": 43.994,
+        "end": 44.154
+      },
+      {
+        "text": "stelle",
+        "start": 44.174,
+        "end": 44.414
+      },
+      {
+        "text": "ich",
+        "start": 44.454,
+        "end": 44.555
+      },
+      {
+        "text": "genau",
+        "start": 44.595,
+        "end": 44.895
+      },
+      {
+        "text": "hier",
+        "start": 44.935,
+        "end": 45.115
+      },
+      {
+        "text": "eine",
+        "start": 45.135,
+        "end": 45.275
+      },
+      {
+        "text": "Bühne",
+        "start": 45.315,
+        "end": 45.535
+      },
+      {
+        "text": "mit",
+        "start": 45.555,
+        "end": 45.655
+      },
+      {
+        "text": "Go-Go-Stange",
+        "start": 45.675,
+        "end": 46.255
+      },
+      {
+        "text": "auf,",
+        "start": 46.295,
+        "end": 46.415
+      },
+      {
+        "text": "an",
+        "start": 46.455,
+        "end": 46.535
+      },
+      {
+        "text": "der",
+        "start": 46.555,
+        "end": 46.655
+      },
+      {
+        "text": "ihr",
+        "start": 46.695,
+        "end": 46.796
+      },
+      {
+        "text": "beide",
+        "start": 46.816,
+        "end": 47.056
+      },
+      {
+        "text": "tanzen",
+        "start": 47.076,
+        "end": 47.356
+      },
+      {
+        "text": "und",
+        "start": 47.396,
+        "end": 47.516
+      },
+      {
+        "text": "euch",
+        "start": 47.556,
+        "end": 47.656
+      },
+      {
+        "text": "regeln",
+        "start": 47.676,
+        "end": 47.936
+      },
+      {
+        "text": "könnt.",
+        "start": 47.956,
+        "end": 48.116
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ach so.",
+    "start": 48.196,
+    "end": 48.576,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 48.196,
+        "end": 48.256
+      },
+      {
+        "text": "so.",
+        "start": 48.276,
+        "end": 48.576
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ja, und dann... Und dann was?",
+    "start": 48.596,
+    "end": 50.097,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 48.596,
+        "end": 48.816
+      },
+      {
+        "text": "und",
+        "start": 48.856,
+        "end": 48.997
+      },
+      {
+        "text": "dann...",
+        "start": 49.037,
+        "end": 49.297
+      },
+      {
+        "text": "Und",
+        "start": 49.377,
+        "end": 49.477
+      },
+      {
+        "text": "dann",
+        "start": 49.497,
+        "end": 49.717
+      },
+      {
+        "text": "was?",
+        "start": 49.757,
+        "end": 50.097
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Wir spritzen.",
+    "start": 50.117,
+    "end": 50.957,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 50.117,
+        "end": 50.237
+      },
+      {
+        "text": "spritzen.",
+        "start": 50.277,
+        "end": 50.957
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ich euch mit einer Wasserpistole.",
+    "start": 51.017,
+    "end": 52.418,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 51.017,
+        "end": 51.138
+      },
+      {
+        "text": "euch",
+        "start": 51.178,
+        "end": 51.398
+      },
+      {
+        "text": "mit",
+        "start": 51.438,
+        "end": 51.538
+      },
+      {
+        "text": "einer",
+        "start": 51.558,
+        "end": 51.778
+      },
+      {
+        "text": "Wasserpistole.",
+        "start": 51.818,
+        "end": 52.418
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Klingt aufregend.",
+    "start": 52.438,
+    "end": 53.298,
+    "words": [
+      {
+        "text": "Klingt",
+        "start": 52.438,
+        "end": 52.678
+      },
+      {
+        "text": "aufregend.",
+        "start": 52.878,
+        "end": 53.298
+      }
+    ]
+  }
+]

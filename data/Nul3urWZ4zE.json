@@ -1,0 +1,727 @@
+[
+  {
+    "id": 0,
+    "text": " Hast du dir jemals gewünscht, einem Gott zu begegnen?",
+    "start": 3.052,
+    "end": 14.38,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 3.052,
+        "end": 3.572
+      },
+      {
+        "text": "du",
+        "start": 3.592,
+        "end": 3.732
+      },
+      {
+        "text": "dir",
+        "start": 3.813,
+        "end": 5.334
+      },
+      {
+        "text": "jemals",
+        "start": 5.374,
+        "end": 6.014
+      },
+      {
+        "text": "gewünscht,",
+        "start": 6.054,
+        "end": 6.755
+      },
+      {
+        "text": "einem",
+        "start": 6.815,
+        "end": 7.015
+      },
+      {
+        "text": "Gott",
+        "start": 7.055,
+        "end": 7.255
+      },
+      {
+        "text": "zu",
+        "start": 7.295,
+        "end": 7.415
+      },
+      {
+        "text": "begegnen?",
+        "start": 7.455,
+        "end": 14.38
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Vash.",
+    "start": 14.44,
+    "end": 16.502,
+    "words": [
+      {
+        "text": "Vash.",
+        "start": 14.44,
+        "end": 16.502
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Es ist lang her.",
+    "start": 16.562,
+    "end": 22.386,
+    "words": [
+      {
+        "text": "Es",
+        "start": 16.562,
+        "end": 16.682
+      },
+      {
+        "text": "ist",
+        "start": 16.742,
+        "end": 16.922
+      },
+      {
+        "text": "lang",
+        "start": 16.982,
+        "end": 17.422
+      },
+      {
+        "text": "her.",
+        "start": 17.462,
+        "end": 22.386
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wieso bist du hier?",
+    "start": 22.426,
+    "end": 25.348,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 22.426,
+        "end": 22.726
+      },
+      {
+        "text": "bist",
+        "start": 22.746,
+        "end": 22.946
+      },
+      {
+        "text": "du",
+        "start": 22.966,
+        "end": 23.126
+      },
+      {
+        "text": "hier?",
+        "start": 23.166,
+        "end": 25.348
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wegen dem Plant?",
+    "start": 25.408,
+    "end": 27.189,
+    "words": [
+      {
+        "text": "Wegen",
+        "start": 25.408,
+        "end": 25.688
+      },
+      {
+        "text": "dem",
+        "start": 25.728,
+        "end": 25.888
+      },
+      {
+        "text": "Plant?",
+        "start": 25.928,
+        "end": 27.189
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich hole mir nur wieder, was mir gehört.",
+    "start": 27.229,
+    "end": 29.471,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.229,
+        "end": 27.309
+      },
+      {
+        "text": "hole",
+        "start": 27.349,
+        "end": 27.589
+      },
+      {
+        "text": "mir",
+        "start": 27.609,
+        "end": 27.79
+      },
+      {
+        "text": "nur",
+        "start": 27.83,
+        "end": 28.03
+      },
+      {
+        "text": "wieder,",
+        "start": 28.07,
+        "end": 28.31
+      },
+      {
+        "text": "was",
+        "start": 28.37,
+        "end": 28.55
+      },
+      {
+        "text": "mir",
+        "start": 28.59,
+        "end": 28.89
+      },
+      {
+        "text": "gehört.",
+        "start": 28.91,
+        "end": 29.471
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Oder eher, was uns gehört.",
+    "start": 30.534,
+    "end": 33.915,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 30.534,
+        "end": 30.854
+      },
+      {
+        "text": "eher,",
+        "start": 30.934,
+        "end": 31.855
+      },
+      {
+        "text": "was",
+        "start": 31.875,
+        "end": 32.335
+      },
+      {
+        "text": "uns",
+        "start": 32.395,
+        "end": 32.755
+      },
+      {
+        "text": "gehört.",
+        "start": 32.795,
+        "end": 33.915
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Das werde ich nicht zulassen!",
+    "start": 33.935,
+    "end": 35.396,
+    "words": [
+      {
+        "text": "Das",
+        "start": 33.935,
+        "end": 34.095
+      },
+      {
+        "text": "werde",
+        "start": 34.115,
+        "end": 34.275
+      },
+      {
+        "text": "ich",
+        "start": 34.315,
+        "end": 34.415
+      },
+      {
+        "text": "nicht",
+        "start": 34.455,
+        "end": 34.615
+      },
+      {
+        "text": "zulassen!",
+        "start": 34.635,
+        "end": 35.396
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ohne das Plan können die Bewohner dieser Stadt nicht überleben!",
+    "start": 35.436,
+    "end": 37.956,
+    "words": [
+      {
+        "text": "Ohne",
+        "start": 35.436,
+        "end": 35.636
+      },
+      {
+        "text": "das",
+        "start": 35.656,
+        "end": 35.836
+      },
+      {
+        "text": "Plan",
+        "start": 35.876,
+        "end": 36.136
+      },
+      {
+        "text": "können",
+        "start": 36.156,
+        "end": 36.356
+      },
+      {
+        "text": "die",
+        "start": 36.376,
+        "end": 36.456
+      },
+      {
+        "text": "Bewohner",
+        "start": 36.476,
+        "end": 36.836
+      },
+      {
+        "text": "dieser",
+        "start": 36.856,
+        "end": 37.056
+      },
+      {
+        "text": "Stadt",
+        "start": 37.076,
+        "end": 37.316
+      },
+      {
+        "text": "nicht",
+        "start": 37.336,
+        "end": 37.536
+      },
+      {
+        "text": "überleben!",
+        "start": 37.576,
+        "end": 37.956
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Du lässt das nicht zu?",
+    "start": 40.477,
+    "end": 42.258,
+    "words": [
+      {
+        "text": "Du",
+        "start": 40.477,
+        "end": 40.697
+      },
+      {
+        "text": "lässt",
+        "start": 40.717,
+        "end": 40.897
+      },
+      {
+        "text": "das",
+        "start": 40.937,
+        "end": 41.177
+      },
+      {
+        "text": "nicht",
+        "start": 41.197,
+        "end": 41.478
+      },
+      {
+        "text": "zu?",
+        "start": 41.518,
+        "end": 42.258
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Auf wessen Seite stehst du eigentlich?",
+    "start": 42.318,
+    "end": 45.979,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 42.318,
+        "end": 42.478
+      },
+      {
+        "text": "wessen",
+        "start": 42.518,
+        "end": 42.818
+      },
+      {
+        "text": "Seite",
+        "start": 42.858,
+        "end": 43.138
+      },
+      {
+        "text": "stehst",
+        "start": 43.178,
+        "end": 43.418
+      },
+      {
+        "text": "du",
+        "start": 43.458,
+        "end": 43.558
+      },
+      {
+        "text": "eigentlich?",
+        "start": 43.618,
+        "end": 45.979
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Es ist ja schön, deine heldenhaften Aktionen, diese Menschen zu retten und ihren Dank zu ernten.",
+    "start": 46.039,
+    "end": 52.321,
+    "words": [
+      {
+        "text": "Es",
+        "start": 46.039,
+        "end": 46.179
+      },
+      {
+        "text": "ist",
+        "start": 46.219,
+        "end": 46.359
+      },
+      {
+        "text": "ja",
+        "start": 46.399,
+        "end": 46.559
+      },
+      {
+        "text": "schön,",
+        "start": 46.579,
+        "end": 47.679
+      },
+      {
+        "text": "deine",
+        "start": 47.72,
+        "end": 48.02
+      },
+      {
+        "text": "heldenhaften",
+        "start": 48.06,
+        "end": 48.76
+      },
+      {
+        "text": "Aktionen,",
+        "start": 48.82,
+        "end": 49.32
+      },
+      {
+        "text": "diese",
+        "start": 49.34,
+        "end": 49.6
+      },
+      {
+        "text": "Menschen",
+        "start": 49.62,
+        "end": 50.0
+      },
+      {
+        "text": "zu",
+        "start": 50.04,
+        "end": 50.24
+      },
+      {
+        "text": "retten",
+        "start": 50.3,
+        "end": 50.54
+      },
+      {
+        "text": "und",
+        "start": 50.56,
+        "end": 50.62
+      },
+      {
+        "text": "ihren",
+        "start": 50.68,
+        "end": 50.981
+      },
+      {
+        "text": "Dank",
+        "start": 51.001,
+        "end": 51.261
+      },
+      {
+        "text": "zu",
+        "start": 51.301,
+        "end": 51.341
+      },
+      {
+        "text": "ernten.",
+        "start": 51.381,
+        "end": 52.321
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Nur ein Mittel gegen deine Einsamkeit.",
+    "start": 52.361,
+    "end": 55.182,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 52.361,
+        "end": 52.681
+      },
+      {
+        "text": "ein",
+        "start": 52.721,
+        "end": 52.921
+      },
+      {
+        "text": "Mittel",
+        "start": 52.961,
+        "end": 53.341
+      },
+      {
+        "text": "gegen",
+        "start": 53.361,
+        "end": 53.621
+      },
+      {
+        "text": "deine",
+        "start": 53.641,
+        "end": 54.021
+      },
+      {
+        "text": "Einsamkeit.",
+        "start": 54.082,
+        "end": 55.182
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Lass das sein!",
+    "start": 55.202,
+    "end": 56.482,
+    "words": [
+      {
+        "text": "Lass",
+        "start": 55.202,
+        "end": 55.402
+      },
+      {
+        "text": "das",
+        "start": 55.442,
+        "end": 55.662
+      },
+      {
+        "text": "sein!",
+        "start": 55.682,
+        "end": 56.482
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Du hast dich wirklich kein Stück verändert!",
+    "start": 56.522,
+    "end": 58.443,
+    "words": [
+      {
+        "text": "Du",
+        "start": 56.522,
+        "end": 56.662
+      },
+      {
+        "text": "hast",
+        "start": 56.702,
+        "end": 56.862
+      },
+      {
+        "text": "dich",
+        "start": 56.882,
+        "end": 57.042
+      },
+      {
+        "text": "wirklich",
+        "start": 57.082,
+        "end": 57.403
+      },
+      {
+        "text": "kein",
+        "start": 57.423,
+        "end": 57.623
+      },
+      {
+        "text": "Stück",
+        "start": 57.663,
+        "end": 57.923
+      },
+      {
+        "text": "verändert!",
+        "start": 57.943,
+        "end": 58.443
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Das Gleiche... ...könnte ich auch über dich sagen.",
+    "start": 60.688,
+    "end": 66.653,
+    "words": [
+      {
+        "text": "Das",
+        "start": 60.688,
+        "end": 60.848
+      },
+      {
+        "text": "Gleiche...",
+        "start": 60.888,
+        "end": 64.792
+      },
+      {
+        "text": "...könnte",
+        "start": 64.852,
+        "end": 65.092
+      },
+      {
+        "text": "ich",
+        "start": 65.172,
+        "end": 65.392
+      },
+      {
+        "text": "auch",
+        "start": 65.432,
+        "end": 65.592
+      },
+      {
+        "text": "über",
+        "start": 65.632,
+        "end": 65.772
+      },
+      {
+        "text": "dich",
+        "start": 65.913,
+        "end": 66.273
+      },
+      {
+        "text": "sagen.",
+        "start": 66.313,
+        "end": 66.653
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Du kannst dein Geld immer noch nicht kontrollieren?",
+    "start": 78.563,
+    "end": 81.686,
+    "words": [
+      {
+        "text": "Du",
+        "start": 78.563,
+        "end": 78.743
+      },
+      {
+        "text": "kannst",
+        "start": 78.763,
+        "end": 79.004
+      },
+      {
+        "text": "dein",
+        "start": 79.024,
+        "end": 79.244
+      },
+      {
+        "text": "Geld",
+        "start": 79.264,
+        "end": 79.524
+      },
+      {
+        "text": "immer",
+        "start": 79.564,
+        "end": 79.764
+      },
+      {
+        "text": "noch",
+        "start": 79.784,
+        "end": 79.904
+      },
+      {
+        "text": "nicht",
+        "start": 79.964,
+        "end": 80.205
+      },
+      {
+        "text": "kontrollieren?",
+        "start": 80.225,
+        "end": 81.686
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Nein.",
+    "start": 81.726,
+    "end": 83.567,
+    "words": [
+      {
+        "text": "Nein.",
+        "start": 81.726,
+        "end": 83.567
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Nein!",
+    "start": 83.607,
+    "end": 85.629,
+    "words": [
+      {
+        "text": "Nein!",
+        "start": 83.607,
+        "end": 85.629
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Man sieht sich.",
+    "start": 85.669,
+    "end": 86.41,
+    "words": [
+      {
+        "text": "Man",
+        "start": 85.669,
+        "end": 85.889
+      },
+      {
+        "text": "sieht",
+        "start": 85.929,
+        "end": 86.21
+      },
+      {
+        "text": "sich.",
+        "start": 86.25,
+        "end": 86.41
+      }
+    ]
+  }
+]

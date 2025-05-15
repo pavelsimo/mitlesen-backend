@@ -1,0 +1,917 @@
+[
+  {
+    "id": 0,
+    "text": " Herzlich willkommen.",
+    "start": 2.199,
+    "end": 4.142,
+    "words": [
+      {
+        "text": "Herzlich",
+        "start": 2.199,
+        "end": 2.56
+      },
+      {
+        "text": "willkommen.",
+        "start": 2.6,
+        "end": 4.142
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Kobayashi, in so einem Laden wird keiner wieder anfangen zu schmollen.",
+    "start": 4.182,
+    "end": 8.088,
+    "words": [
+      {
+        "text": "Kobayashi,",
+        "start": 4.182,
+        "end": 5.143
+      },
+      {
+        "text": "in",
+        "start": 5.183,
+        "end": 5.304
+      },
+      {
+        "text": "so",
+        "start": 5.344,
+        "end": 5.384
+      },
+      {
+        "text": "einem",
+        "start": 5.404,
+        "end": 5.564
+      },
+      {
+        "text": "Laden",
+        "start": 5.604,
+        "end": 5.804
+      },
+      {
+        "text": "wird",
+        "start": 5.844,
+        "end": 6.005
+      },
+      {
+        "text": "keiner",
+        "start": 6.025,
+        "end": 6.285
+      },
+      {
+        "text": "wieder",
+        "start": 6.305,
+        "end": 6.485
+      },
+      {
+        "text": "anfangen",
+        "start": 6.525,
+        "end": 6.886
+      },
+      {
+        "text": "zu",
+        "start": 6.926,
+        "end": 7.026
+      },
+      {
+        "text": "schmollen.",
+        "start": 7.066,
+        "end": 8.088
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Der Laden wurde von der Schule vorgegeben.",
+    "start": 8.108,
+    "end": 10.151,
+    "words": [
+      {
+        "text": "Der",
+        "start": 8.108,
+        "end": 8.308
+      },
+      {
+        "text": "Laden",
+        "start": 8.348,
+        "end": 8.568
+      },
+      {
+        "text": "wurde",
+        "start": 8.588,
+        "end": 8.829
+      },
+      {
+        "text": "von",
+        "start": 8.849,
+        "end": 8.949
+      },
+      {
+        "text": "der",
+        "start": 8.989,
+        "end": 9.089
+      },
+      {
+        "text": "Schule",
+        "start": 9.109,
+        "end": 9.43
+      },
+      {
+        "text": "vorgegeben.",
+        "start": 9.47,
+        "end": 10.151
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wir haben also keine andere Wahl.",
+    "start": 10.191,
+    "end": 12.193,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 10.191,
+        "end": 10.291
+      },
+      {
+        "text": "haben",
+        "start": 10.311,
+        "end": 10.511
+      },
+      {
+        "text": "also",
+        "start": 10.551,
+        "end": 10.691
+      },
+      {
+        "text": "keine",
+        "start": 10.731,
+        "end": 10.932
+      },
+      {
+        "text": "andere",
+        "start": 10.972,
+        "end": 11.292
+      },
+      {
+        "text": "Wahl.",
+        "start": 11.332,
+        "end": 12.193
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Also doch eine Verschwörung.",
+    "start": 12.234,
+    "end": 13.676,
+    "words": [
+      {
+        "text": "Also",
+        "start": 12.234,
+        "end": 12.514
+      },
+      {
+        "text": "doch",
+        "start": 12.554,
+        "end": 12.654
+      },
+      {
+        "text": "eine",
+        "start": 12.674,
+        "end": 12.854
+      },
+      {
+        "text": "Verschwörung.",
+        "start": 12.894,
+        "end": 13.676
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Jetzt hör mal auf.",
+    "start": 13.716,
+    "end": 17.221,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 13.716,
+        "end": 13.896
+      },
+      {
+        "text": "hör",
+        "start": 13.936,
+        "end": 14.076
+      },
+      {
+        "text": "mal",
+        "start": 14.116,
+        "end": 14.236
+      },
+      {
+        "text": "auf.",
+        "start": 14.296,
+        "end": 17.221
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich glaube, das sind die Richtigen.",
+    "start": 17.261,
+    "end": 18.563,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 17.261,
+        "end": 17.361
+      },
+      {
+        "text": "glaube,",
+        "start": 17.401,
+        "end": 17.701
+      },
+      {
+        "text": "das",
+        "start": 17.741,
+        "end": 17.902
+      },
+      {
+        "text": "sind",
+        "start": 17.922,
+        "end": 18.082
+      },
+      {
+        "text": "die",
+        "start": 18.102,
+        "end": 18.202
+      },
+      {
+        "text": "Richtigen.",
+        "start": 18.242,
+        "end": 18.563
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Die sehen irgendwie alle gleich aus.",
+    "start": 20.322,
+    "end": 22.083,
+    "words": [
+      {
+        "text": "Die",
+        "start": 20.322,
+        "end": 20.442
+      },
+      {
+        "text": "sehen",
+        "start": 20.462,
+        "end": 20.622
+      },
+      {
+        "text": "irgendwie",
+        "start": 20.642,
+        "end": 20.962
+      },
+      {
+        "text": "alle",
+        "start": 21.002,
+        "end": 21.182
+      },
+      {
+        "text": "gleich",
+        "start": 21.222,
+        "end": 21.562
+      },
+      {
+        "text": "aus.",
+        "start": 21.622,
+        "end": 22.083
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Das soll so sein.",
+    "start": 22.103,
+    "end": 23.363,
+    "words": [
+      {
+        "text": "Das",
+        "start": 22.103,
+        "end": 22.283
+      },
+      {
+        "text": "soll",
+        "start": 22.303,
+        "end": 22.523
+      },
+      {
+        "text": "so",
+        "start": 22.543,
+        "end": 22.683
+      },
+      {
+        "text": "sein.",
+        "start": 22.723,
+        "end": 23.363
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Laut Schulordnung sollen alle Schüler die gleichen Schuhe tragen.",
+    "start": 23.423,
+    "end": 26.484,
+    "words": [
+      {
+        "text": "Laut",
+        "start": 23.423,
+        "end": 23.623
+      },
+      {
+        "text": "Schulordnung",
+        "start": 23.663,
+        "end": 24.323
+      },
+      {
+        "text": "sollen",
+        "start": 24.343,
+        "end": 24.623
+      },
+      {
+        "text": "alle",
+        "start": 24.643,
+        "end": 24.823
+      },
+      {
+        "text": "Schüler",
+        "start": 24.863,
+        "end": 25.163
+      },
+      {
+        "text": "die",
+        "start": 25.183,
+        "end": 25.283
+      },
+      {
+        "text": "gleichen",
+        "start": 25.303,
+        "end": 25.624
+      },
+      {
+        "text": "Schuhe",
+        "start": 25.644,
+        "end": 25.924
+      },
+      {
+        "text": "tragen.",
+        "start": 25.944,
+        "end": 26.484
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Und warum bitte?",
+    "start": 26.524,
+    "end": 29.365,
+    "words": [
+      {
+        "text": "Und",
+        "start": 26.524,
+        "end": 26.704
+      },
+      {
+        "text": "warum",
+        "start": 26.744,
+        "end": 27.044
+      },
+      {
+        "text": "bitte?",
+        "start": 27.064,
+        "end": 29.365
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Um Differenzen zu beseitigen.",
+    "start": 29.405,
+    "end": 31.545,
+    "words": [
+      {
+        "text": "Um",
+        "start": 29.405,
+        "end": 29.605
+      },
+      {
+        "text": "Differenzen",
+        "start": 29.625,
+        "end": 30.245
+      },
+      {
+        "text": "zu",
+        "start": 30.265,
+        "end": 30.385
+      },
+      {
+        "text": "beseitigen.",
+        "start": 30.425,
+        "end": 31.545
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Egal ob Junge, Mädchen, Japaner oder Ausländer, alle sollen gleich sein.",
+    "start": 31.605,
+    "end": 36.626,
+    "words": [
+      {
+        "text": "Egal",
+        "start": 31.605,
+        "end": 31.885
+      },
+      {
+        "text": "ob",
+        "start": 31.925,
+        "end": 32.065
+      },
+      {
+        "text": "Junge,",
+        "start": 32.105,
+        "end": 32.485
+      },
+      {
+        "text": "Mädchen,",
+        "start": 32.525,
+        "end": 33.006
+      },
+      {
+        "text": "Japaner",
+        "start": 33.046,
+        "end": 33.626
+      },
+      {
+        "text": "oder",
+        "start": 33.666,
+        "end": 33.866
+      },
+      {
+        "text": "Ausländer,",
+        "start": 33.906,
+        "end": 34.686
+      },
+      {
+        "text": "alle",
+        "start": 34.726,
+        "end": 34.946
+      },
+      {
+        "text": "sollen",
+        "start": 34.986,
+        "end": 35.246
+      },
+      {
+        "text": "gleich",
+        "start": 35.266,
+        "end": 35.566
+      },
+      {
+        "text": "sein.",
+        "start": 35.586,
+        "end": 36.626
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Darum geht's.",
+    "start": 36.666,
+    "end": 37.907,
+    "words": [
+      {
+        "text": "Darum",
+        "start": 36.666,
+        "end": 36.947
+      },
+      {
+        "text": "geht's.",
+        "start": 36.967,
+        "end": 37.907
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Und was passiert, wenn man anders als die anderen ist?",
+    "start": 37.947,
+    "end": 41.188,
+    "words": [
+      {
+        "text": "Und",
+        "start": 37.947,
+        "end": 38.107
+      },
+      {
+        "text": "was",
+        "start": 38.167,
+        "end": 38.347
+      },
+      {
+        "text": "passiert,",
+        "start": 38.387,
+        "end": 38.767
+      },
+      {
+        "text": "wenn",
+        "start": 38.787,
+        "end": 38.947
+      },
+      {
+        "text": "man",
+        "start": 38.987,
+        "end": 39.167
+      },
+      {
+        "text": "anders",
+        "start": 39.187,
+        "end": 39.427
+      },
+      {
+        "text": "als",
+        "start": 39.467,
+        "end": 39.627
+      },
+      {
+        "text": "die",
+        "start": 39.667,
+        "end": 39.767
+      },
+      {
+        "text": "anderen",
+        "start": 39.807,
+        "end": 40.087
+      },
+      {
+        "text": "ist?",
+        "start": 40.147,
+        "end": 41.188
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Manchmal wird man dann ausgegrenzt.",
+    "start": 41.208,
+    "end": 45.009,
+    "words": [
+      {
+        "text": "Manchmal",
+        "start": 41.208,
+        "end": 41.608
+      },
+      {
+        "text": "wird",
+        "start": 41.628,
+        "end": 41.788
+      },
+      {
+        "text": "man",
+        "start": 41.828,
+        "end": 41.968
+      },
+      {
+        "text": "dann",
+        "start": 41.988,
+        "end": 42.908
+      },
+      {
+        "text": "ausgegrenzt.",
+        "start": 42.948,
+        "end": 45.009
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Vielleicht ist das bei Drachen nicht der Fall.",
+    "start": 45.049,
+    "end": 47.429,
+    "words": [
+      {
+        "text": "Vielleicht",
+        "start": 45.049,
+        "end": 45.389
+      },
+      {
+        "text": "ist",
+        "start": 45.429,
+        "end": 45.529
+      },
+      {
+        "text": "das",
+        "start": 45.569,
+        "end": 45.709
+      },
+      {
+        "text": "bei",
+        "start": 45.729,
+        "end": 45.869
+      },
+      {
+        "text": "Drachen",
+        "start": 45.889,
+        "end": 46.249
+      },
+      {
+        "text": "nicht",
+        "start": 46.269,
+        "end": 46.449
+      },
+      {
+        "text": "der",
+        "start": 46.489,
+        "end": 46.589
+      },
+      {
+        "text": "Fall.",
+        "start": 46.629,
+        "end": 47.429
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Aber Menschen können da sehr grausam sein.",
+    "start": 47.449,
+    "end": 49.37,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 47.449,
+        "end": 47.709
+      },
+      {
+        "text": "Menschen",
+        "start": 47.749,
+        "end": 48.11
+      },
+      {
+        "text": "können",
+        "start": 48.13,
+        "end": 48.31
+      },
+      {
+        "text": "da",
+        "start": 48.35,
+        "end": 48.55
+      },
+      {
+        "text": "sehr",
+        "start": 48.59,
+        "end": 48.73
+      },
+      {
+        "text": "grausam",
+        "start": 48.77,
+        "end": 49.21
+      },
+      {
+        "text": "sein.",
+        "start": 49.25,
+        "end": 49.37
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Ganz schön einfältig.",
+    "start": 51.439,
+    "end": 53.301,
+    "words": [
+      {
+        "text": "Ganz",
+        "start": 51.439,
+        "end": 52.42
+      },
+      {
+        "text": "schön",
+        "start": 52.46,
+        "end": 52.66
+      },
+      {
+        "text": "einfältig.",
+        "start": 52.7,
+        "end": 53.301
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ja, ich finde das auch extrem dumm.",
+    "start": 54.002,
+    "end": 57.165,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 54.002,
+        "end": 54.762
+      },
+      {
+        "text": "ich",
+        "start": 54.802,
+        "end": 54.922
+      },
+      {
+        "text": "finde",
+        "start": 54.962,
+        "end": 55.223
+      },
+      {
+        "text": "das",
+        "start": 55.243,
+        "end": 55.443
+      },
+      {
+        "text": "auch",
+        "start": 55.483,
+        "end": 55.683
+      },
+      {
+        "text": "extrem",
+        "start": 55.723,
+        "end": 56.104
+      },
+      {
+        "text": "dumm.",
+        "start": 56.144,
+        "end": 57.165
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Aber viele Menschen fürchten sich eben, wenn etwas von der Norm abweicht.",
+    "start": 57.205,
+    "end": 69.536,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 57.205,
+        "end": 57.485
+      },
+      {
+        "text": "viele",
+        "start": 57.525,
+        "end": 57.805
+      },
+      {
+        "text": "Menschen",
+        "start": 57.845,
+        "end": 58.225
+      },
+      {
+        "text": "fürchten",
+        "start": 58.246,
+        "end": 58.646
+      },
+      {
+        "text": "sich",
+        "start": 58.666,
+        "end": 58.886
+      },
+      {
+        "text": "eben,",
+        "start": 58.946,
+        "end": 59.627
+      },
+      {
+        "text": "wenn",
+        "start": 59.667,
+        "end": 59.827
+      },
+      {
+        "text": "etwas",
+        "start": 59.867,
+        "end": 60.207
+      },
+      {
+        "text": "von",
+        "start": 60.227,
+        "end": 60.347
+      },
+      {
+        "text": "der",
+        "start": 60.387,
+        "end": 60.488
+      },
+      {
+        "text": "Norm",
+        "start": 60.528,
+        "end": 60.768
+      },
+      {
+        "text": "abweicht.",
+        "start": 60.808,
+        "end": 69.536
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Irgendwie verständlich.",
+    "start": 69.576,
+    "end": 70.577,
+    "words": [
+      {
+        "text": "Irgendwie",
+        "start": 69.576,
+        "end": 69.996
+      },
+      {
+        "text": "verständlich.",
+        "start": 70.036,
+        "end": 70.577
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Entschuldige.",
+    "start": 79.916,
+    "end": 80.999,
+    "words": [
+      {
+        "text": "Entschuldige.",
+        "start": 79.916,
+        "end": 80.999
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "So war das nicht geplant.",
+    "start": 81.039,
+    "end": 82.644,
+    "words": [
+      {
+        "text": "So",
+        "start": 81.039,
+        "end": 81.16
+      },
+      {
+        "text": "war",
+        "start": 81.2,
+        "end": 81.34
+      },
+      {
+        "text": "das",
+        "start": 81.36,
+        "end": 81.521
+      },
+      {
+        "text": "nicht",
+        "start": 81.541,
+        "end": 81.721
+      },
+      {
+        "text": "geplant.",
+        "start": 81.762,
+        "end": 82.644
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Nett, dass du mitdenkst.",
+    "start": 82.685,
+    "end": 83.587,
+    "words": [
+      {
+        "text": "Nett,",
+        "start": 82.685,
+        "end": 82.825
+      },
+      {
+        "text": "dass",
+        "start": 82.845,
+        "end": 82.986
+      },
+      {
+        "text": "du",
+        "start": 83.026,
+        "end": 83.146
+      },
+      {
+        "text": "mitdenkst.",
+        "start": 83.166,
+        "end": 83.587
+      }
+    ]
+  }
+]

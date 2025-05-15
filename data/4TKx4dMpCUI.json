@@ -1,0 +1,1879 @@
+[
+  {
+    "id": 0,
+    "text": " Oh!",
+    "start": 0.471,
+    "end": 1.032,
+    "words": [
+      {
+        "text": "Oh!",
+        "start": 0.471,
+        "end": 1.032
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Susanne!",
+    "start": 1.052,
+    "end": 2.472,
+    "words": [
+      {
+        "text": "Susanne!",
+        "start": 1.052,
+        "end": 2.472
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Was für ein Zufall, oder?",
+    "start": 2.492,
+    "end": 3.773,
+    "words": [
+      {
+        "text": "Was",
+        "start": 2.492,
+        "end": 2.633
+      },
+      {
+        "text": "für",
+        "start": 2.653,
+        "end": 2.753
+      },
+      {
+        "text": "ein",
+        "start": 2.793,
+        "end": 2.933
+      },
+      {
+        "text": "Zufall,",
+        "start": 2.953,
+        "end": 3.333
+      },
+      {
+        "text": "oder?",
+        "start": 3.373,
+        "end": 3.773
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Oh Mann, wie schön euch beide zu treffen!",
+    "start": 3.833,
+    "end": 5.794,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 3.833,
+        "end": 3.973
+      },
+      {
+        "text": "Mann,",
+        "start": 3.993,
+        "end": 4.113
+      },
+      {
+        "text": "wie",
+        "start": 4.153,
+        "end": 4.274
+      },
+      {
+        "text": "schön",
+        "start": 4.294,
+        "end": 4.474
+      },
+      {
+        "text": "euch",
+        "start": 4.494,
+        "end": 4.654
+      },
+      {
+        "text": "beide",
+        "start": 4.674,
+        "end": 4.954
+      },
+      {
+        "text": "zu",
+        "start": 4.974,
+        "end": 5.054
+      },
+      {
+        "text": "treffen!",
+        "start": 5.094,
+        "end": 5.794
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Seid ihr beiden denn öfter hier, um abzuhängen?",
+    "start": 5.835,
+    "end": 8.276,
+    "words": [
+      {
+        "text": "Seid",
+        "start": 5.835,
+        "end": 5.995
+      },
+      {
+        "text": "ihr",
+        "start": 6.055,
+        "end": 6.155
+      },
+      {
+        "text": "beiden",
+        "start": 6.175,
+        "end": 6.395
+      },
+      {
+        "text": "denn",
+        "start": 6.435,
+        "end": 6.615
+      },
+      {
+        "text": "öfter",
+        "start": 6.695,
+        "end": 6.975
+      },
+      {
+        "text": "hier,",
+        "start": 7.015,
+        "end": 7.155
+      },
+      {
+        "text": "um",
+        "start": 7.195,
+        "end": 7.335
+      },
+      {
+        "text": "abzuhängen?",
+        "start": 7.375,
+        "end": 8.276
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Heute zum ersten Mal.",
+    "start": 8.316,
+    "end": 10.137,
+    "words": [
+      {
+        "text": "Heute",
+        "start": 8.316,
+        "end": 8.596
+      },
+      {
+        "text": "zum",
+        "start": 8.636,
+        "end": 8.756
+      },
+      {
+        "text": "ersten",
+        "start": 8.796,
+        "end": 9.036
+      },
+      {
+        "text": "Mal.",
+        "start": 9.096,
+        "end": 10.137
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Und wie findet ihr es?",
+    "start": 10.197,
+    "end": 11.318,
+    "words": [
+      {
+        "text": "Und",
+        "start": 10.197,
+        "end": 10.397
+      },
+      {
+        "text": "wie",
+        "start": 10.417,
+        "end": 10.557
+      },
+      {
+        "text": "findet",
+        "start": 10.597,
+        "end": 10.898
+      },
+      {
+        "text": "ihr",
+        "start": 10.938,
+        "end": 11.018
+      },
+      {
+        "text": "es?",
+        "start": 11.058,
+        "end": 11.318
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ein voll schönes Café, oder?",
+    "start": 11.358,
+    "end": 12.659,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 11.358,
+        "end": 11.518
+      },
+      {
+        "text": "voll",
+        "start": 11.558,
+        "end": 11.718
+      },
+      {
+        "text": "schönes",
+        "start": 11.738,
+        "end": 12.078
+      },
+      {
+        "text": "Café,",
+        "start": 12.118,
+        "end": 12.499
+      },
+      {
+        "text": "oder?",
+        "start": 12.539,
+        "end": 12.659
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich gehe wieder.",
+    "start": 12.679,
+    "end": 13.079,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 12.679,
+        "end": 12.739
+      },
+      {
+        "text": "gehe",
+        "start": 12.759,
+        "end": 12.859
+      },
+      {
+        "text": "wieder.",
+        "start": 12.899,
+        "end": 13.079
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Hey, warte.",
+    "start": 14.36,
+    "end": 15.18,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 14.36,
+        "end": 14.68
+      },
+      {
+        "text": "warte.",
+        "start": 14.7,
+        "end": 15.18
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Warum willst du denn auf einmal gehen?",
+    "start": 15.22,
+    "end": 16.961,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 15.22,
+        "end": 15.44
+      },
+      {
+        "text": "willst",
+        "start": 15.46,
+        "end": 15.68
+      },
+      {
+        "text": "du",
+        "start": 15.7,
+        "end": 15.741
+      },
+      {
+        "text": "denn",
+        "start": 15.761,
+        "end": 15.921
+      },
+      {
+        "text": "auf",
+        "start": 15.961,
+        "end": 16.061
+      },
+      {
+        "text": "einmal",
+        "start": 16.101,
+        "end": 16.321
+      },
+      {
+        "text": "gehen?",
+        "start": 16.341,
+        "end": 16.961
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ich bin doch jetzt überflüssig.",
+    "start": 17.001,
+    "end": 18.462,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 17.001,
+        "end": 17.081
+      },
+      {
+        "text": "bin",
+        "start": 17.101,
+        "end": 17.241
+      },
+      {
+        "text": "doch",
+        "start": 17.281,
+        "end": 17.402
+      },
+      {
+        "text": "jetzt",
+        "start": 17.442,
+        "end": 17.662
+      },
+      {
+        "text": "überflüssig.",
+        "start": 17.702,
+        "end": 18.462
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Kikyo wird dir weiter Gesellschaft leisten.",
+    "start": 18.502,
+    "end": 20.283,
+    "words": [
+      {
+        "text": "Kikyo",
+        "start": 18.502,
+        "end": 18.902
+      },
+      {
+        "text": "wird",
+        "start": 18.922,
+        "end": 19.063
+      },
+      {
+        "text": "dir",
+        "start": 19.083,
+        "end": 19.223
+      },
+      {
+        "text": "weiter",
+        "start": 19.243,
+        "end": 19.463
+      },
+      {
+        "text": "Gesellschaft",
+        "start": 19.503,
+        "end": 19.943
+      },
+      {
+        "text": "leisten.",
+        "start": 20.003,
+        "end": 20.283
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Naja, weißt du... Kikyo ist bloß eine Klassenkameradin.",
+    "start": 20.523,
+    "end": 24.706,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 20.523,
+        "end": 21.024
+      },
+      {
+        "text": "weißt",
+        "start": 21.064,
+        "end": 21.224
+      },
+      {
+        "text": "du...",
+        "start": 21.244,
+        "end": 22.144
+      },
+      {
+        "text": "Kikyo",
+        "start": 22.184,
+        "end": 22.485
+      },
+      {
+        "text": "ist",
+        "start": 22.525,
+        "end": 22.665
+      },
+      {
+        "text": "bloß",
+        "start": 22.685,
+        "end": 22.865
+      },
+      {
+        "text": "eine",
+        "start": 22.905,
+        "end": 23.065
+      },
+      {
+        "text": "Klassenkameradin.",
+        "start": 23.105,
+        "end": 24.706
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Was willst du damit sagen?",
+    "start": 24.726,
+    "end": 25.586,
+    "words": [
+      {
+        "text": "Was",
+        "start": 24.726,
+        "end": 24.826
+      },
+      {
+        "text": "willst",
+        "start": 24.846,
+        "end": 25.006
+      },
+      {
+        "text": "du",
+        "start": 25.026,
+        "end": 25.106
+      },
+      {
+        "text": "damit",
+        "start": 25.126,
+        "end": 25.346
+      },
+      {
+        "text": "sagen?",
+        "start": 25.386,
+        "end": 25.586
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wir haben auch kein anderes Verhältnis.",
+    "start": 25.626,
+    "end": 27.408,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 25.626,
+        "end": 25.707
+      },
+      {
+        "text": "haben",
+        "start": 25.747,
+        "end": 25.927
+      },
+      {
+        "text": "auch",
+        "start": 25.967,
+        "end": 26.087
+      },
+      {
+        "text": "kein",
+        "start": 26.107,
+        "end": 26.267
+      },
+      {
+        "text": "anderes",
+        "start": 26.307,
+        "end": 26.567
+      },
+      {
+        "text": "Verhältnis.",
+        "start": 26.607,
+        "end": 27.408
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Und überhaupt.",
+    "start": 27.448,
+    "end": 28.028,
+    "words": [
+      {
+        "text": "Und",
+        "start": 27.448,
+        "end": 27.628
+      },
+      {
+        "text": "überhaupt.",
+        "start": 27.668,
+        "end": 28.028
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Was machst du auf einmal hier?",
+    "start": 29.4,
+    "end": 31.001,
+    "words": [
+      {
+        "text": "Was",
+        "start": 29.4,
+        "end": 29.58
+      },
+      {
+        "text": "machst",
+        "start": 29.6,
+        "end": 29.72
+      },
+      {
+        "text": "du",
+        "start": 29.74,
+        "end": 29.88
+      },
+      {
+        "text": "auf",
+        "start": 29.92,
+        "end": 30.041
+      },
+      {
+        "text": "einmal",
+        "start": 30.081,
+        "end": 30.361
+      },
+      {
+        "text": "hier?",
+        "start": 30.381,
+        "end": 31.001
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ich trau dir nicht über den Weg.",
+    "start": 31.041,
+    "end": 32.062,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 31.041,
+        "end": 31.121
+      },
+      {
+        "text": "trau",
+        "start": 31.181,
+        "end": 31.321
+      },
+      {
+        "text": "dir",
+        "start": 31.341,
+        "end": 31.421
+      },
+      {
+        "text": "nicht",
+        "start": 31.441,
+        "end": 31.581
+      },
+      {
+        "text": "über",
+        "start": 31.621,
+        "end": 31.761
+      },
+      {
+        "text": "den",
+        "start": 31.781,
+        "end": 31.902
+      },
+      {
+        "text": "Weg.",
+        "start": 31.942,
+        "end": 32.062
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ach, ähm, komm schon.",
+    "start": 32.762,
+    "end": 34.463,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 32.762,
+        "end": 33.242
+      },
+      {
+        "text": "ähm,",
+        "start": 33.302,
+        "end": 33.522
+      },
+      {
+        "text": "komm",
+        "start": 33.542,
+        "end": 33.723
+      },
+      {
+        "text": "schon.",
+        "start": 33.763,
+        "end": 34.463
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich bin nur zufällig hier.",
+    "start": 34.523,
+    "end": 36.164,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 34.523,
+        "end": 34.623
+      },
+      {
+        "text": "bin",
+        "start": 34.663,
+        "end": 34.783
+      },
+      {
+        "text": "nur",
+        "start": 34.803,
+        "end": 34.963
+      },
+      {
+        "text": "zufällig",
+        "start": 34.983,
+        "end": 35.464
+      },
+      {
+        "text": "hier.",
+        "start": 35.484,
+        "end": 36.164
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Oh Mann, wieso tut sie nicht so, als würde sie nicht verstehen, was die Frage soll?",
+    "start": 36.244,
+    "end": 40.606,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 36.244,
+        "end": 36.544
+      },
+      {
+        "text": "Mann,",
+        "start": 36.584,
+        "end": 36.984
+      },
+      {
+        "text": "wieso",
+        "start": 37.004,
+        "end": 37.265
+      },
+      {
+        "text": "tut",
+        "start": 37.285,
+        "end": 37.425
+      },
+      {
+        "text": "sie",
+        "start": 37.445,
+        "end": 37.585
+      },
+      {
+        "text": "nicht",
+        "start": 37.605,
+        "end": 37.745
+      },
+      {
+        "text": "so,",
+        "start": 37.765,
+        "end": 37.845
+      },
+      {
+        "text": "als",
+        "start": 37.885,
+        "end": 38.005
+      },
+      {
+        "text": "würde",
+        "start": 38.045,
+        "end": 38.225
+      },
+      {
+        "text": "sie",
+        "start": 38.245,
+        "end": 38.345
+      },
+      {
+        "text": "nicht",
+        "start": 38.385,
+        "end": 38.545
+      },
+      {
+        "text": "verstehen,",
+        "start": 38.565,
+        "end": 38.926
+      },
+      {
+        "text": "was",
+        "start": 38.966,
+        "end": 39.126
+      },
+      {
+        "text": "die",
+        "start": 39.166,
+        "end": 39.246
+      },
+      {
+        "text": "Frage",
+        "start": 39.286,
+        "end": 39.586
+      },
+      {
+        "text": "soll?",
+        "start": 39.626,
+        "end": 40.606
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Die zwei, die bis eben hier saßen und auch die beiden da drüben am Nachbartisch, das waren alles Klassenkameraden von uns.",
+    "start": 40.627,
+    "end": 47.15,
+    "words": [
+      {
+        "text": "Die",
+        "start": 40.627,
+        "end": 40.787
+      },
+      {
+        "text": "zwei,",
+        "start": 40.807,
+        "end": 40.967
+      },
+      {
+        "text": "die",
+        "start": 40.987,
+        "end": 41.067
+      },
+      {
+        "text": "bis",
+        "start": 41.127,
+        "end": 41.267
+      },
+      {
+        "text": "eben",
+        "start": 41.307,
+        "end": 41.467
+      },
+      {
+        "text": "hier",
+        "start": 41.507,
+        "end": 41.647
+      },
+      {
+        "text": "saßen",
+        "start": 41.667,
+        "end": 41.947
+      },
+      {
+        "text": "und",
+        "start": 41.967,
+        "end": 42.167
+      },
+      {
+        "text": "auch",
+        "start": 42.207,
+        "end": 42.788
+      },
+      {
+        "text": "die",
+        "start": 42.808,
+        "end": 42.928
+      },
+      {
+        "text": "beiden",
+        "start": 42.948,
+        "end": 43.188
+      },
+      {
+        "text": "da",
+        "start": 43.208,
+        "end": 43.308
+      },
+      {
+        "text": "drüben",
+        "start": 43.348,
+        "end": 43.568
+      },
+      {
+        "text": "am",
+        "start": 43.628,
+        "end": 43.768
+      },
+      {
+        "text": "Nachbartisch,",
+        "start": 43.808,
+        "end": 44.569
+      },
+      {
+        "text": "das",
+        "start": 44.609,
+        "end": 44.729
+      },
+      {
+        "text": "waren",
+        "start": 44.749,
+        "end": 44.989
+      },
+      {
+        "text": "alles",
+        "start": 45.009,
+        "end": 45.189
+      },
+      {
+        "text": "Klassenkameraden",
+        "start": 45.209,
+        "end": 46.03
+      },
+      {
+        "text": "von",
+        "start": 46.07,
+        "end": 46.23
+      },
+      {
+        "text": "uns.",
+        "start": 46.27,
+        "end": 47.15
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ein Zufall?",
+    "start": 47.17,
+    "end": 48.471,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 47.17,
+        "end": 47.35
+      },
+      {
+        "text": "Zufall?",
+        "start": 47.39,
+        "end": 48.471
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Das hab ich überhaupt nicht gesehen.",
+    "start": 48.491,
+    "end": 50.132,
+    "words": [
+      {
+        "text": "Das",
+        "start": 48.491,
+        "end": 48.651
+      },
+      {
+        "text": "hab",
+        "start": 48.671,
+        "end": 48.811
+      },
+      {
+        "text": "ich",
+        "start": 48.851,
+        "end": 48.991
+      },
+      {
+        "text": "überhaupt",
+        "start": 49.031,
+        "end": 49.351
+      },
+      {
+        "text": "nicht",
+        "start": 49.371,
+        "end": 49.572
+      },
+      {
+        "text": "gesehen.",
+        "start": 49.612,
+        "end": 50.132
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Bemerkenswert, was dir so alles auffällt.",
+    "start": 50.152,
+    "end": 51.813,
+    "words": [
+      {
+        "text": "Bemerkenswert,",
+        "start": 50.152,
+        "end": 50.812
+      },
+      {
+        "text": "was",
+        "start": 50.872,
+        "end": 50.972
+      },
+      {
+        "text": "dir",
+        "start": 50.992,
+        "end": 51.112
+      },
+      {
+        "text": "so",
+        "start": 51.132,
+        "end": 51.213
+      },
+      {
+        "text": "alles",
+        "start": 51.253,
+        "end": 51.493
+      },
+      {
+        "text": "auffällt.",
+        "start": 51.533,
+        "end": 51.813
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": " Wir sind beide direkt nach dem Unterricht in dieses Café gekommen.",
+    "start": 52.394,
+    "end": 55.676,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 52.394,
+        "end": 52.794
+      },
+      {
+        "text": "sind",
+        "start": 52.834,
+        "end": 52.934
+      },
+      {
+        "text": "beide",
+        "start": 52.954,
+        "end": 53.114
+      },
+      {
+        "text": "direkt",
+        "start": 53.154,
+        "end": 53.414
+      },
+      {
+        "text": "nach",
+        "start": 53.434,
+        "end": 53.555
+      },
+      {
+        "text": "dem",
+        "start": 53.595,
+        "end": 53.715
+      },
+      {
+        "text": "Unterricht",
+        "start": 53.755,
+        "end": 54.155
+      },
+      {
+        "text": "in",
+        "start": 54.175,
+        "end": 54.275
+      },
+      {
+        "text": "dieses",
+        "start": 54.295,
+        "end": 54.515
+      },
+      {
+        "text": "Café",
+        "start": 54.555,
+        "end": 54.875
+      },
+      {
+        "text": "gekommen.",
+        "start": 54.915,
+        "end": 55.676
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Und das bedeutet, die Mädchen müssen nur wenige Minuten am Nachbartisch verbracht haben.",
+    "start": 55.716,
+    "end": 60.818,
+    "words": [
+      {
+        "text": "Und",
+        "start": 55.716,
+        "end": 55.856
+      },
+      {
+        "text": "das",
+        "start": 55.876,
+        "end": 56.056
+      },
+      {
+        "text": "bedeutet,",
+        "start": 56.076,
+        "end": 56.776
+      },
+      {
+        "text": "die",
+        "start": 56.796,
+        "end": 56.896
+      },
+      {
+        "text": "Mädchen",
+        "start": 56.916,
+        "end": 57.216
+      },
+      {
+        "text": "müssen",
+        "start": 57.256,
+        "end": 57.536
+      },
+      {
+        "text": "nur",
+        "start": 57.576,
+        "end": 57.797
+      },
+      {
+        "text": "wenige",
+        "start": 57.837,
+        "end": 58.177
+      },
+      {
+        "text": "Minuten",
+        "start": 58.197,
+        "end": 58.577
+      },
+      {
+        "text": "am",
+        "start": 58.637,
+        "end": 58.797
+      },
+      {
+        "text": "Nachbartisch",
+        "start": 58.817,
+        "end": 59.377
+      },
+      {
+        "text": "verbracht",
+        "start": 59.397,
+        "end": 59.778
+      },
+      {
+        "text": "haben.",
+        "start": 59.798,
+        "end": 60.818
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Sie haben das Café zu schnell verlassen.",
+    "start": 60.838,
+    "end": 62.399,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 60.838,
+        "end": 60.938
+      },
+      {
+        "text": "haben",
+        "start": 60.958,
+        "end": 61.138
+      },
+      {
+        "text": "das",
+        "start": 61.178,
+        "end": 61.298
+      },
+      {
+        "text": "Café",
+        "start": 61.318,
+        "end": 61.658
+      },
+      {
+        "text": "zu",
+        "start": 61.678,
+        "end": 61.778
+      },
+      {
+        "text": "schnell",
+        "start": 61.798,
+        "end": 62.039
+      },
+      {
+        "text": "verlassen.",
+        "start": 62.079,
+        "end": 62.399
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ja, aber... Es tut mir leid.",
+    "start": 64.0,
+    "end": 69.062,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 64.0,
+        "end": 64.58
+      },
+      {
+        "text": "aber...",
+        "start": 64.68,
+        "end": 67.981
+      },
+      {
+        "text": "Es",
+        "start": 68.041,
+        "end": 68.181
+      },
+      {
+        "text": "tut",
+        "start": 68.201,
+        "end": 68.362
+      },
+      {
+        "text": "mir",
+        "start": 68.402,
+        "end": 68.542
+      },
+      {
+        "text": "leid.",
+        "start": 68.582,
+        "end": 69.062
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Es war alles abgesprochen.",
+    "start": 69.122,
+    "end": 70.983,
+    "words": [
+      {
+        "text": "Es",
+        "start": 69.122,
+        "end": 69.242
+      },
+      {
+        "text": "war",
+        "start": 69.282,
+        "end": 69.442
+      },
+      {
+        "text": "alles",
+        "start": 69.482,
+        "end": 69.782
+      },
+      {
+        "text": "abgesprochen.",
+        "start": 69.822,
+        "end": 70.983
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Das ist offensichtlich.",
+    "start": 71.023,
+    "end": 71.903,
+    "words": [
+      {
+        "text": "Das",
+        "start": 71.023,
+        "end": 71.163
+      },
+      {
+        "text": "ist",
+        "start": 71.203,
+        "end": 71.363
+      },
+      {
+        "text": "offensichtlich.",
+        "start": 71.403,
+        "end": 71.903
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Susanne!",
+    "start": 72.724,
+    "end": 73.204,
+    "words": [
+      {
+        "text": "Susanne!",
+        "start": 72.724,
+        "end": 73.204
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Komm, wir könnten doch einfach Freunde sein!",
+    "start": 74.204,
+    "end": 76.866,
+    "words": [
+      {
+        "text": "Komm,",
+        "start": 74.204,
+        "end": 74.424
+      },
+      {
+        "text": "wir",
+        "start": 74.444,
+        "end": 74.545
+      },
+      {
+        "text": "könnten",
+        "start": 74.565,
+        "end": 74.885
+      },
+      {
+        "text": "doch",
+        "start": 74.905,
+        "end": 75.065
+      },
+      {
+        "text": "einfach",
+        "start": 75.105,
+        "end": 75.425
+      },
+      {
+        "text": "Freunde",
+        "start": 75.465,
+        "end": 75.865
+      },
+      {
+        "text": "sein!",
+        "start": 75.905,
+        "end": 76.866
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ich möchte von dir nicht weiter belästigt werden, verstanden?",
+    "start": 76.906,
+    "end": 79.587,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 76.906,
+        "end": 76.986
+      },
+      {
+        "text": "möchte",
+        "start": 77.026,
+        "end": 77.246
+      },
+      {
+        "text": "von",
+        "start": 77.286,
+        "end": 77.366
+      },
+      {
+        "text": "dir",
+        "start": 77.386,
+        "end": 77.526
+      },
+      {
+        "text": "nicht",
+        "start": 77.546,
+        "end": 77.666
+      },
+      {
+        "text": "weiter",
+        "start": 77.706,
+        "end": 77.926
+      },
+      {
+        "text": "belästigt",
+        "start": 77.966,
+        "end": 78.386
+      },
+      {
+        "text": "werden,",
+        "start": 78.406,
+        "end": 78.666
+      },
+      {
+        "text": "verstanden?",
+        "start": 78.706,
+        "end": 79.587
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Und ich hab nicht vor, euch Schwierigkeiten zu machen.",
+    "start": 79.607,
+    "end": 81.488,
+    "words": [
+      {
+        "text": "Und",
+        "start": 79.607,
+        "end": 79.727
+      },
+      {
+        "text": "ich",
+        "start": 79.767,
+        "end": 79.847
+      },
+      {
+        "text": "hab",
+        "start": 79.867,
+        "end": 80.007
+      },
+      {
+        "text": "nicht",
+        "start": 80.027,
+        "end": 80.207
+      },
+      {
+        "text": "vor,",
+        "start": 80.227,
+        "end": 80.327
+      },
+      {
+        "text": "euch",
+        "start": 80.367,
+        "end": 80.547
+      },
+      {
+        "text": "Schwierigkeiten",
+        "start": 80.567,
+        "end": 81.148
+      },
+      {
+        "text": "zu",
+        "start": 81.188,
+        "end": 81.268
+      },
+      {
+        "text": "machen.",
+        "start": 81.308,
+        "end": 81.488
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": " Aber wenn du immer nur allein bist, wirst du auf Dauer vereinsam.",
+    "start": 83.797,
+    "end": 87.199,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 83.797,
+        "end": 84.037
+      },
+      {
+        "text": "wenn",
+        "start": 84.057,
+        "end": 84.217
+      },
+      {
+        "text": "du",
+        "start": 84.238,
+        "end": 84.338
+      },
+      {
+        "text": "immer",
+        "start": 84.358,
+        "end": 84.558
+      },
+      {
+        "text": "nur",
+        "start": 84.598,
+        "end": 84.698
+      },
+      {
+        "text": "allein",
+        "start": 84.738,
+        "end": 85.038
+      },
+      {
+        "text": "bist,",
+        "start": 85.058,
+        "end": 85.278
+      },
+      {
+        "text": "wirst",
+        "start": 85.298,
+        "end": 85.458
+      },
+      {
+        "text": "du",
+        "start": 85.478,
+        "end": 85.598
+      },
+      {
+        "text": "auf",
+        "start": 85.638,
+        "end": 85.778
+      },
+      {
+        "text": "Dauer",
+        "start": 85.798,
+        "end": 86.039
+      },
+      {
+        "text": "vereinsam.",
+        "start": 86.059,
+        "end": 87.199
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Ich habe noch nie in meinem Leben Einsamkeit vernommen.",
+    "start": 87.219,
+    "end": 90.461,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 87.219,
+        "end": 87.339
+      },
+      {
+        "text": "habe",
+        "start": 87.359,
+        "end": 87.66
+      },
+      {
+        "text": "noch",
+        "start": 87.68,
+        "end": 87.86
+      },
+      {
+        "text": "nie",
+        "start": 87.88,
+        "end": 88.06
+      },
+      {
+        "text": "in",
+        "start": 88.1,
+        "end": 88.2
+      },
+      {
+        "text": "meinem",
+        "start": 88.24,
+        "end": 88.48
+      },
+      {
+        "text": "Leben",
+        "start": 88.52,
+        "end": 88.82
+      },
+      {
+        "text": "Einsamkeit",
+        "start": 88.86,
+        "end": 89.461
+      },
+      {
+        "text": "vernommen.",
+        "start": 89.481,
+        "end": 90.461
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Ich... Wir verschwenden hier nur Zeit.",
+    "start": 90.501,
+    "end": 92.883,
+    "words": [
+      {
+        "text": "Ich...",
+        "start": 90.501,
+        "end": 91.242
+      },
+      {
+        "text": "Wir",
+        "start": 91.262,
+        "end": 91.402
+      },
+      {
+        "text": "verschwenden",
+        "start": 91.442,
+        "end": 91.802
+      },
+      {
+        "text": "hier",
+        "start": 91.822,
+        "end": 91.942
+      },
+      {
+        "text": "nur",
+        "start": 91.982,
+        "end": 92.162
+      },
+      {
+        "text": "Zeit.",
+        "start": 92.182,
+        "end": 92.883
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Alles, was du möchtest, ist mir absolut zuwider.",
+    "start": 92.903,
+    "end": 95.624,
+    "words": [
+      {
+        "text": "Alles,",
+        "start": 92.903,
+        "end": 93.123
+      },
+      {
+        "text": "was",
+        "start": 93.183,
+        "end": 93.303
+      },
+      {
+        "text": "du",
+        "start": 93.343,
+        "end": 93.463
+      },
+      {
+        "text": "möchtest,",
+        "start": 93.503,
+        "end": 93.883
+      },
+      {
+        "text": "ist",
+        "start": 93.923,
+        "end": 94.083
+      },
+      {
+        "text": "mir",
+        "start": 94.103,
+        "end": 94.323
+      },
+      {
+        "text": "absolut",
+        "start": 94.344,
+        "end": 94.724
+      },
+      {
+        "text": "zuwider.",
+        "start": 94.764,
+        "end": 95.624
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Hey, ist es für dich wirklich kein Problem, wenn du überhaupt keine Freunde hast und weiter nur für dich bist?",
+    "start": 95.664,
+    "end": 101.148,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 95.664,
+        "end": 96.285
+      },
+      {
+        "text": "ist",
+        "start": 96.325,
+        "end": 96.425
+      },
+      {
+        "text": "es",
+        "start": 96.485,
+        "end": 96.565
+      },
+      {
+        "text": "für",
+        "start": 96.585,
+        "end": 96.705
+      },
+      {
+        "text": "dich",
+        "start": 96.725,
+        "end": 96.825
+      },
+      {
+        "text": "wirklich",
+        "start": 96.865,
+        "end": 97.085
+      },
+      {
+        "text": "kein",
+        "start": 97.125,
+        "end": 97.265
+      },
+      {
+        "text": "Problem,",
+        "start": 97.285,
+        "end": 98.126
+      },
+      {
+        "text": "wenn",
+        "start": 98.166,
+        "end": 98.306
+      },
+      {
+        "text": "du",
+        "start": 98.326,
+        "end": 98.506
+      },
+      {
+        "text": "überhaupt",
+        "start": 98.526,
+        "end": 98.886
+      },
+      {
+        "text": "keine",
+        "start": 98.926,
+        "end": 99.106
+      },
+      {
+        "text": "Freunde",
+        "start": 99.146,
+        "end": 99.447
+      },
+      {
+        "text": "hast",
+        "start": 99.467,
+        "end": 99.687
+      },
+      {
+        "text": "und",
+        "start": 99.707,
+        "end": 99.847
+      },
+      {
+        "text": "weiter",
+        "start": 99.887,
+        "end": 100.087
+      },
+      {
+        "text": "nur",
+        "start": 100.107,
+        "end": 100.207
+      },
+      {
+        "text": "für",
+        "start": 100.227,
+        "end": 100.347
+      },
+      {
+        "text": "dich",
+        "start": 100.367,
+        "end": 100.567
+      },
+      {
+        "text": "bist?",
+        "start": 100.587,
+        "end": 101.148
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Meinst du, als Außenseiterin kommst du weiter?",
+    "start": 101.208,
+    "end": 103.769,
+    "words": [
+      {
+        "text": "Meinst",
+        "start": 101.208,
+        "end": 101.428
+      },
+      {
+        "text": "du,",
+        "start": 101.448,
+        "end": 101.548
+      },
+      {
+        "text": "als",
+        "start": 101.568,
+        "end": 101.788
+      },
+      {
+        "text": "Außenseiterin",
+        "start": 101.808,
+        "end": 102.528
+      },
+      {
+        "text": "kommst",
+        "start": 102.548,
+        "end": 102.768
+      },
+      {
+        "text": "du",
+        "start": 102.789,
+        "end": 102.929
+      },
+      {
+        "text": "weiter?",
+        "start": 102.949,
+        "end": 103.769
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Das ist überhaupt kein Problem, so lebe ich schon seit neun Jahren.",
+    "start": 103.809,
+    "end": 106.711,
+    "words": [
+      {
+        "text": "Das",
+        "start": 103.809,
+        "end": 103.949
+      },
+      {
+        "text": "ist",
+        "start": 103.989,
+        "end": 104.169
+      },
+      {
+        "text": "überhaupt",
+        "start": 104.189,
+        "end": 104.59
+      },
+      {
+        "text": "kein",
+        "start": 104.61,
+        "end": 104.79
+      },
+      {
+        "text": "Problem,",
+        "start": 104.81,
+        "end": 105.19
+      },
+      {
+        "text": "so",
+        "start": 105.21,
+        "end": 105.31
+      },
+      {
+        "text": "lebe",
+        "start": 105.33,
+        "end": 105.45
+      },
+      {
+        "text": "ich",
+        "start": 105.49,
+        "end": 105.55
+      },
+      {
+        "text": "schon",
+        "start": 105.57,
+        "end": 105.75
+      },
+      {
+        "text": "seit",
+        "start": 105.77,
+        "end": 105.93
+      },
+      {
+        "text": "neun",
+        "start": 105.97,
+        "end": 106.151
+      },
+      {
+        "text": "Jahren.",
+        "start": 106.171,
+        "end": 106.711
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Wenn man den Kindergarten mitzählt, sogar länger.",
+    "start": 106.731,
+    "end": 108.652,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 106.731,
+        "end": 106.891
+      },
+      {
+        "text": "man",
+        "start": 106.911,
+        "end": 107.031
+      },
+      {
+        "text": "den",
+        "start": 107.051,
+        "end": 107.171
+      },
+      {
+        "text": "Kindergarten",
+        "start": 107.211,
+        "end": 107.671
+      },
+      {
+        "text": "mitzählt,",
+        "start": 107.691,
+        "end": 108.092
+      },
+      {
+        "text": "sogar",
+        "start": 108.112,
+        "end": 108.312
+      },
+      {
+        "text": "länger.",
+        "start": 108.332,
+        "end": 108.652
+      }
+    ]
+  }
+]

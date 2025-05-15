@@ -1,0 +1,896 @@
+[
+  {
+    "id": 0,
+    "text": " Guten Appetit!",
+    "start": 0.419,
+    "end": 2.88,
+    "words": [
+      {
+        "text": "Guten",
+        "start": 0.419,
+        "end": 0.959
+      },
+      {
+        "text": "Appetit!",
+        "start": 0.999,
+        "end": 2.88
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wir haben noch sehr viel mehr Omelette!",
+    "start": 2.9,
+    "end": 4.62,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 2.9,
+        "end": 3.06
+      },
+      {
+        "text": "haben",
+        "start": 3.08,
+        "end": 3.28
+      },
+      {
+        "text": "noch",
+        "start": 3.32,
+        "end": 3.44
+      },
+      {
+        "text": "sehr",
+        "start": 3.46,
+        "end": 3.62
+      },
+      {
+        "text": "viel",
+        "start": 3.64,
+        "end": 3.8
+      },
+      {
+        "text": "mehr",
+        "start": 3.82,
+        "end": 4.02
+      },
+      {
+        "text": "Omelette!",
+        "start": 4.08,
+        "end": 4.62
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Nachschlag!",
+    "start": 4.72,
+    "end": 5.48,
+    "words": [
+      {
+        "text": "Nachschlag!",
+        "start": 4.72,
+        "end": 5.48
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Reg dich ab, Mann!",
+    "start": 5.52,
+    "end": 6.441,
+    "words": [
+      {
+        "text": "Reg",
+        "start": 5.52,
+        "end": 5.72
+      },
+      {
+        "text": "dich",
+        "start": 5.74,
+        "end": 5.92
+      },
+      {
+        "text": "ab,",
+        "start": 5.98,
+        "end": 6.12
+      },
+      {
+        "text": "Mann!",
+        "start": 6.16,
+        "end": 6.441
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ach, hör doch auf!",
+    "start": 6.501,
+    "end": 7.221,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 6.501,
+        "end": 6.681
+      },
+      {
+        "text": "hör",
+        "start": 6.701,
+        "end": 6.841
+      },
+      {
+        "text": "doch",
+        "start": 6.861,
+        "end": 7.021
+      },
+      {
+        "text": "auf!",
+        "start": 7.061,
+        "end": 7.221
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Kannst du's nicht einfach nur genießen?",
+    "start": 7.241,
+    "end": 8.801,
+    "words": [
+      {
+        "text": "Kannst",
+        "start": 7.241,
+        "end": 7.421
+      },
+      {
+        "text": "du's",
+        "start": 7.441,
+        "end": 7.561
+      },
+      {
+        "text": "nicht",
+        "start": 7.581,
+        "end": 7.721
+      },
+      {
+        "text": "einfach",
+        "start": 7.761,
+        "end": 7.981
+      },
+      {
+        "text": "nur",
+        "start": 8.001,
+        "end": 8.101
+      },
+      {
+        "text": "genießen?",
+        "start": 8.141,
+        "end": 8.801
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Schmeckt's, Kuro?",
+    "start": 8.841,
+    "end": 10.822,
+    "words": [
+      {
+        "text": "Schmeckt's,",
+        "start": 8.841,
+        "end": 9.221
+      },
+      {
+        "text": "Kuro?",
+        "start": 9.261,
+        "end": 10.822
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Hey!",
+    "start": 10.862,
+    "end": 11.642,
+    "words": [
+      {
+        "text": "Hey!",
+        "start": 10.862,
+        "end": 11.642
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Äh, ja.",
+    "start": 11.702,
+    "end": 11.922,
+    "words": [
+      {
+        "text": "Äh,",
+        "start": 11.702,
+        "end": 11.782
+      },
+      {
+        "text": "ja.",
+        "start": 11.822,
+        "end": 11.922
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Guck dir mal das da drüben an.",
+    "start": 11.942,
+    "end": 13.222,
+    "words": [
+      {
+        "text": "Guck",
+        "start": 11.942,
+        "end": 12.122
+      },
+      {
+        "text": "dir",
+        "start": 12.142,
+        "end": 12.262
+      },
+      {
+        "text": "mal",
+        "start": 12.282,
+        "end": 12.402
+      },
+      {
+        "text": "das",
+        "start": 12.422,
+        "end": 12.562
+      },
+      {
+        "text": "da",
+        "start": 12.602,
+        "end": 12.702
+      },
+      {
+        "text": "drüben",
+        "start": 12.722,
+        "end": 13.062
+      },
+      {
+        "text": "an.",
+        "start": 13.102,
+        "end": 13.222
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Unser Händler ist verrückt geworden, nicht wahr?",
+    "start": 13.282,
+    "end": 15.643,
+    "words": [
+      {
+        "text": "Unser",
+        "start": 13.282,
+        "end": 13.442
+      },
+      {
+        "text": "Händler",
+        "start": 13.482,
+        "end": 13.822
+      },
+      {
+        "text": "ist",
+        "start": 13.862,
+        "end": 14.042
+      },
+      {
+        "text": "verrückt",
+        "start": 14.082,
+        "end": 14.363
+      },
+      {
+        "text": "geworden,",
+        "start": 14.403,
+        "end": 14.743
+      },
+      {
+        "text": "nicht",
+        "start": 14.783,
+        "end": 14.963
+      },
+      {
+        "text": "wahr?",
+        "start": 15.003,
+        "end": 15.643
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Komplett durchgeknallt.",
+    "start": 15.663,
+    "end": 16.663,
+    "words": [
+      {
+        "text": "Komplett",
+        "start": 15.663,
+        "end": 16.043
+      },
+      {
+        "text": "durchgeknallt.",
+        "start": 16.083,
+        "end": 16.663
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Während des gestrigen Gefechts.",
+    "start": 16.683,
+    "end": 18.544,
+    "words": [
+      {
+        "text": "Während",
+        "start": 16.683,
+        "end": 16.963
+      },
+      {
+        "text": "des",
+        "start": 17.003,
+        "end": 17.163
+      },
+      {
+        "text": "gestrigen",
+        "start": 17.203,
+        "end": 17.663
+      },
+      {
+        "text": "Gefechts.",
+        "start": 17.703,
+        "end": 18.544
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Mit dem ist es aus und vorbei.",
+    "start": 18.584,
+    "end": 19.964,
+    "words": [
+      {
+        "text": "Mit",
+        "start": 18.584,
+        "end": 18.704
+      },
+      {
+        "text": "dem",
+        "start": 18.724,
+        "end": 18.904
+      },
+      {
+        "text": "ist",
+        "start": 18.944,
+        "end": 19.064
+      },
+      {
+        "text": "es",
+        "start": 19.124,
+        "end": 19.264
+      },
+      {
+        "text": "aus",
+        "start": 19.304,
+        "end": 19.484
+      },
+      {
+        "text": "und",
+        "start": 19.524,
+        "end": 19.664
+      },
+      {
+        "text": "vorbei.",
+        "start": 19.704,
+        "end": 19.964
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Wisst ihr, ich hab das übrigens ganz genau gehört.",
+    "start": 20.584,
+    "end": 23.386,
+    "words": [
+      {
+        "text": "Wisst",
+        "start": 20.584,
+        "end": 20.764
+      },
+      {
+        "text": "ihr,",
+        "start": 20.844,
+        "end": 21.104
+      },
+      {
+        "text": "ich",
+        "start": 21.144,
+        "end": 21.224
+      },
+      {
+        "text": "hab",
+        "start": 21.244,
+        "end": 21.405
+      },
+      {
+        "text": "das",
+        "start": 21.425,
+        "end": 21.605
+      },
+      {
+        "text": "übrigens",
+        "start": 21.645,
+        "end": 21.965
+      },
+      {
+        "text": "ganz",
+        "start": 22.005,
+        "end": 22.225
+      },
+      {
+        "text": "genau",
+        "start": 22.245,
+        "end": 22.565
+      },
+      {
+        "text": "gehört.",
+        "start": 22.585,
+        "end": 23.386
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Hör damit auf und verschwinde, verschwinde!",
+    "start": 23.426,
+    "end": 25.707,
+    "words": [
+      {
+        "text": "Hör",
+        "start": 23.426,
+        "end": 23.586
+      },
+      {
+        "text": "damit",
+        "start": 23.626,
+        "end": 23.926
+      },
+      {
+        "text": "auf",
+        "start": 23.966,
+        "end": 24.186
+      },
+      {
+        "text": "und",
+        "start": 24.246,
+        "end": 24.386
+      },
+      {
+        "text": "verschwinde,",
+        "start": 24.406,
+        "end": 25.146
+      },
+      {
+        "text": "verschwinde!",
+        "start": 25.186,
+        "end": 25.707
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ja!",
+    "start": 25.747,
+    "end": 26.647,
+    "words": [
+      {
+        "text": "Ja!",
+        "start": 25.747,
+        "end": 26.647
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Hey, hör auf damit, ja?",
+    "start": 26.787,
+    "end": 30.829,
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 26.787,
+        "end": 27.107
+      },
+      {
+        "text": "hör",
+        "start": 27.127,
+        "end": 29.008
+      },
+      {
+        "text": "auf",
+        "start": 29.088,
+        "end": 29.288
+      },
+      {
+        "text": "damit,",
+        "start": 29.488,
+        "end": 30.349
+      },
+      {
+        "text": "ja?",
+        "start": 30.389,
+        "end": 30.829
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Die sind eben immer so, diese weißen Schweine.",
+    "start": 30.849,
+    "end": 34.411,
+    "words": [
+      {
+        "text": "Die",
+        "start": 30.849,
+        "end": 31.029
+      },
+      {
+        "text": "sind",
+        "start": 31.069,
+        "end": 31.189
+      },
+      {
+        "text": "eben",
+        "start": 31.269,
+        "end": 31.509
+      },
+      {
+        "text": "immer",
+        "start": 31.549,
+        "end": 31.81
+      },
+      {
+        "text": "so,",
+        "start": 31.85,
+        "end": 32.05
+      },
+      {
+        "text": "diese",
+        "start": 32.09,
+        "end": 32.75
+      },
+      {
+        "text": "weißen",
+        "start": 32.79,
+        "end": 33.17
+      },
+      {
+        "text": "Schweine.",
+        "start": 33.23,
+        "end": 34.411
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Egal, wen die als nächstes schicken, das wird wieder passieren.",
+    "start": 34.471,
+    "end": 37.092,
+    "words": [
+      {
+        "text": "Egal,",
+        "start": 34.471,
+        "end": 34.731
+      },
+      {
+        "text": "wen",
+        "start": 34.771,
+        "end": 34.891
+      },
+      {
+        "text": "die",
+        "start": 34.911,
+        "end": 35.011
+      },
+      {
+        "text": "als",
+        "start": 35.031,
+        "end": 35.171
+      },
+      {
+        "text": "nächstes",
+        "start": 35.211,
+        "end": 35.491
+      },
+      {
+        "text": "schicken,",
+        "start": 35.531,
+        "end": 36.032
+      },
+      {
+        "text": "das",
+        "start": 36.052,
+        "end": 36.192
+      },
+      {
+        "text": "wird",
+        "start": 36.212,
+        "end": 36.412
+      },
+      {
+        "text": "wieder",
+        "start": 36.452,
+        "end": 36.692
+      },
+      {
+        "text": "passieren.",
+        "start": 36.712,
+        "end": 37.092
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Nicht wahr?",
+    "start": 38.233,
+    "end": 39.433,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 38.233,
+        "end": 38.373
+      },
+      {
+        "text": "wahr?",
+        "start": 38.413,
+        "end": 39.433
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Aber gestern konnte wenigstens jeder in Würde gehen, oder?",
+    "start": 39.473,
+    "end": 43.435,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 39.473,
+        "end": 39.713
+      },
+      {
+        "text": "gestern",
+        "start": 39.753,
+        "end": 40.834
+      },
+      {
+        "text": "konnte",
+        "start": 40.854,
+        "end": 41.114
+      },
+      {
+        "text": "wenigstens",
+        "start": 41.154,
+        "end": 41.634
+      },
+      {
+        "text": "jeder",
+        "start": 41.654,
+        "end": 41.855
+      },
+      {
+        "text": "in",
+        "start": 41.895,
+        "end": 41.995
+      },
+      {
+        "text": "Würde",
+        "start": 42.035,
+        "end": 42.275
+      },
+      {
+        "text": "gehen,",
+        "start": 42.315,
+        "end": 42.635
+      },
+      {
+        "text": "oder?",
+        "start": 42.675,
+        "end": 43.435
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Shin?",
+    "start": 43.475,
+    "end": 44.916,
+    "words": [
+      {
+        "text": "Shin?",
+        "start": 43.475,
+        "end": 44.916
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ja.",
+    "start": 44.956,
+    "end": 46.177,
+    "words": [
+      {
+        "text": "Ja.",
+        "start": 44.956,
+        "end": 46.177
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Macht ihr keine Sorgen.",
+    "start": 46.197,
+    "end": 46.937,
+    "words": [
+      {
+        "text": "Macht",
+        "start": 46.197,
+        "end": 46.337
+      },
+      {
+        "text": "ihr",
+        "start": 46.397,
+        "end": 46.477
+      },
+      {
+        "text": "keine",
+        "start": 46.497,
+        "end": 46.697
+      },
+      {
+        "text": "Sorgen.",
+        "start": 46.717,
+        "end": 46.937
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": " Wenn wir schon sterben, dann ist es besser von unserem Gott des Todes angeführt zu werden, was?",
+    "start": 50.943,
+    "end": 55.987,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 50.943,
+        "end": 51.103
+      },
+      {
+        "text": "wir",
+        "start": 51.123,
+        "end": 51.263
+      },
+      {
+        "text": "schon",
+        "start": 51.283,
+        "end": 51.464
+      },
+      {
+        "text": "sterben,",
+        "start": 51.504,
+        "end": 51.964
+      },
+      {
+        "text": "dann",
+        "start": 52.004,
+        "end": 52.144
+      },
+      {
+        "text": "ist",
+        "start": 52.184,
+        "end": 52.304
+      },
+      {
+        "text": "es",
+        "start": 52.364,
+        "end": 52.524
+      },
+      {
+        "text": "besser",
+        "start": 52.544,
+        "end": 52.804
+      },
+      {
+        "text": "von",
+        "start": 52.825,
+        "end": 52.985
+      },
+      {
+        "text": "unserem",
+        "start": 53.025,
+        "end": 53.425
+      },
+      {
+        "text": "Gott",
+        "start": 53.465,
+        "end": 53.705
+      },
+      {
+        "text": "des",
+        "start": 53.745,
+        "end": 53.965
+      },
+      {
+        "text": "Todes",
+        "start": 54.005,
+        "end": 54.446
+      },
+      {
+        "text": "angeführt",
+        "start": 54.466,
+        "end": 54.906
+      },
+      {
+        "text": "zu",
+        "start": 54.946,
+        "end": 55.046
+      },
+      {
+        "text": "werden,",
+        "start": 55.066,
+        "end": 55.346
+      },
+      {
+        "text": "was?",
+        "start": 55.406,
+        "end": 55.987
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Was hast du denn?",
+    "start": 59.91,
+    "end": 62.211,
+    "words": [
+      {
+        "text": "Was",
+        "start": 59.91,
+        "end": 60.05
+      },
+      {
+        "text": "hast",
+        "start": 60.09,
+        "end": 60.27
+      },
+      {
+        "text": "du",
+        "start": 60.29,
+        "end": 60.37
+      },
+      {
+        "text": "denn?",
+        "start": 60.41,
+        "end": 62.211
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Hier!",
+    "start": 62.251,
+    "end": 62.531,
+    "words": [
+      {
+        "text": "Hier!",
+        "start": 62.251,
+        "end": 62.531
+      }
+    ]
+  }
+]

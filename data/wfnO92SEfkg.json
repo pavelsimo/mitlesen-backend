@@ -1,0 +1,877 @@
+[
+  {
+    "id": 0,
+    "text": " Ein Aushilfslehrer an der Magieakademie?",
+    "start": 3.21,
+    "end": 5.713,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 3.21,
+        "end": 3.39
+      },
+      {
+        "text": "Aushilfslehrer",
+        "start": 3.43,
+        "end": 4.171
+      },
+      {
+        "text": "an",
+        "start": 4.231,
+        "end": 4.331
+      },
+      {
+        "text": "der",
+        "start": 4.371,
+        "end": 4.471
+      },
+      {
+        "text": "Magieakademie?",
+        "start": 4.512,
+        "end": 5.713
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ja, aber nur bis wir einen neuen Lehrer gefunden haben.",
+    "start": 5.753,
+    "end": 9.357,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 5.753,
+        "end": 6.093
+      },
+      {
+        "text": "aber",
+        "start": 6.133,
+        "end": 6.293
+      },
+      {
+        "text": "nur",
+        "start": 6.313,
+        "end": 6.434
+      },
+      {
+        "text": "bis",
+        "start": 6.454,
+        "end": 6.594
+      },
+      {
+        "text": "wir",
+        "start": 6.614,
+        "end": 6.734
+      },
+      {
+        "text": "einen",
+        "start": 6.754,
+        "end": 6.894
+      },
+      {
+        "text": "neuen",
+        "start": 6.934,
+        "end": 7.094
+      },
+      {
+        "text": "Lehrer",
+        "start": 7.114,
+        "end": 7.375
+      },
+      {
+        "text": "gefunden",
+        "start": 7.415,
+        "end": 7.815
+      },
+      {
+        "text": "haben.",
+        "start": 7.855,
+        "end": 9.357
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Daraus wird wohl nichts.",
+    "start": 9.377,
+    "end": 10.698,
+    "words": [
+      {
+        "text": "Daraus",
+        "start": 9.377,
+        "end": 9.697
+      },
+      {
+        "text": "wird",
+        "start": 9.737,
+        "end": 9.877
+      },
+      {
+        "text": "wohl",
+        "start": 9.897,
+        "end": 10.077
+      },
+      {
+        "text": "nichts.",
+        "start": 10.118,
+        "end": 10.698
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Daraus wird nichts?",
+    "start": 10.738,
+    "end": 11.939,
+    "words": [
+      {
+        "text": "Daraus",
+        "start": 10.738,
+        "end": 11.059
+      },
+      {
+        "text": "wird",
+        "start": 11.119,
+        "end": 11.339
+      },
+      {
+        "text": "nichts?",
+        "start": 11.359,
+        "end": 11.939
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Aber wieso denn, Glen?",
+    "start": 11.98,
+    "end": 13.201,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 11.98,
+        "end": 12.16
+      },
+      {
+        "text": "wieso",
+        "start": 12.18,
+        "end": 12.44
+      },
+      {
+        "text": "denn,",
+        "start": 12.46,
+        "end": 12.66
+      },
+      {
+        "text": "Glen?",
+        "start": 12.7,
+        "end": 13.201
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ist doch offensichtlich.",
+    "start": 13.261,
+    "end": 14.502,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 13.261,
+        "end": 13.401
+      },
+      {
+        "text": "doch",
+        "start": 13.421,
+        "end": 13.561
+      },
+      {
+        "text": "offensichtlich.",
+        "start": 13.601,
+        "end": 14.502
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ich bin nicht dazu qualifiziert, jemandem etwas beizubringen.",
+    "start": 14.542,
+    "end": 16.825,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 14.542,
+        "end": 14.622
+      },
+      {
+        "text": "bin",
+        "start": 14.642,
+        "end": 14.722
+      },
+      {
+        "text": "nicht",
+        "start": 14.742,
+        "end": 14.863
+      },
+      {
+        "text": "dazu",
+        "start": 14.903,
+        "end": 15.103
+      },
+      {
+        "text": "qualifiziert,",
+        "start": 15.123,
+        "end": 15.683
+      },
+      {
+        "text": "jemandem",
+        "start": 15.703,
+        "end": 16.064
+      },
+      {
+        "text": "etwas",
+        "start": 16.084,
+        "end": 16.284
+      },
+      {
+        "text": "beizubringen.",
+        "start": 16.304,
+        "end": 16.825
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Das ist durchaus wahr.",
+    "start": 17.373,
+    "end": 18.194,
+    "words": [
+      {
+        "text": "Das",
+        "start": 17.373,
+        "end": 17.473
+      },
+      {
+        "text": "ist",
+        "start": 17.513,
+        "end": 17.614
+      },
+      {
+        "text": "durchaus",
+        "start": 17.634,
+        "end": 17.934
+      },
+      {
+        "text": "wahr.",
+        "start": 18.014,
+        "end": 18.194
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Du hast in der Tat keine Lehrerlizenz.",
+    "start": 18.214,
+    "end": 20.017,
+    "words": [
+      {
+        "text": "Du",
+        "start": 18.214,
+        "end": 18.314
+      },
+      {
+        "text": "hast",
+        "start": 18.354,
+        "end": 18.535
+      },
+      {
+        "text": "in",
+        "start": 18.575,
+        "end": 18.655
+      },
+      {
+        "text": "der",
+        "start": 18.695,
+        "end": 18.775
+      },
+      {
+        "text": "Tat",
+        "start": 18.815,
+        "end": 19.015
+      },
+      {
+        "text": "keine",
+        "start": 19.055,
+        "end": 19.236
+      },
+      {
+        "text": "Lehrerlizenz.",
+        "start": 19.256,
+        "end": 20.017
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ach los, komm schon.",
+    "start": 20.077,
+    "end": 21.198,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 20.077,
+        "end": 20.297
+      },
+      {
+        "text": "los,",
+        "start": 20.337,
+        "end": 20.617
+      },
+      {
+        "text": "komm",
+        "start": 20.677,
+        "end": 20.898
+      },
+      {
+        "text": "schon.",
+        "start": 20.918,
+        "end": 21.198
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Jetzt nimm den Leuten, die lässig rüberkommen wollen, doch nicht den Wind aus den Segeln.",
+    "start": 21.238,
+    "end": 24.482,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 21.238,
+        "end": 21.398
+      },
+      {
+        "text": "nimm",
+        "start": 21.418,
+        "end": 21.559
+      },
+      {
+        "text": "den",
+        "start": 21.599,
+        "end": 21.679
+      },
+      {
+        "text": "Leuten,",
+        "start": 21.719,
+        "end": 21.939
+      },
+      {
+        "text": "die",
+        "start": 21.959,
+        "end": 22.039
+      },
+      {
+        "text": "lässig",
+        "start": 22.079,
+        "end": 22.34
+      },
+      {
+        "text": "rüberkommen",
+        "start": 22.4,
+        "end": 22.84
+      },
+      {
+        "text": "wollen,",
+        "start": 22.86,
+        "end": 23.061
+      },
+      {
+        "text": "doch",
+        "start": 23.081,
+        "end": 23.221
+      },
+      {
+        "text": "nicht",
+        "start": 23.241,
+        "end": 23.361
+      },
+      {
+        "text": "den",
+        "start": 23.401,
+        "end": 23.501
+      },
+      {
+        "text": "Wind",
+        "start": 23.541,
+        "end": 23.721
+      },
+      {
+        "text": "aus",
+        "start": 23.741,
+        "end": 23.862
+      },
+      {
+        "text": "den",
+        "start": 23.882,
+        "end": 24.022
+      },
+      {
+        "text": "Segeln.",
+        "start": 24.062,
+        "end": 24.482
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Außerdem sollte ich erwähnen, dass du das Angebot nicht ablehnen kannst.",
+    "start": 24.522,
+    "end": 27.566,
+    "words": [
+      {
+        "text": "Außerdem",
+        "start": 24.522,
+        "end": 24.863
+      },
+      {
+        "text": "sollte",
+        "start": 24.883,
+        "end": 25.103
+      },
+      {
+        "text": "ich",
+        "start": 25.143,
+        "end": 25.243
+      },
+      {
+        "text": "erwähnen,",
+        "start": 25.283,
+        "end": 25.544
+      },
+      {
+        "text": "dass",
+        "start": 25.564,
+        "end": 25.684
+      },
+      {
+        "text": "du",
+        "start": 25.704,
+        "end": 25.804
+      },
+      {
+        "text": "das",
+        "start": 25.844,
+        "end": 25.944
+      },
+      {
+        "text": "Angebot",
+        "start": 25.984,
+        "end": 26.365
+      },
+      {
+        "text": "nicht",
+        "start": 26.385,
+        "end": 26.545
+      },
+      {
+        "text": "ablehnen",
+        "start": 26.585,
+        "end": 26.946
+      },
+      {
+        "text": "kannst.",
+        "start": 26.986,
+        "end": 27.566
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ach.",
+    "start": 27.646,
+    "end": 28.387,
+    "words": [
+      {
+        "text": "Ach.",
+        "start": 27.646,
+        "end": 28.387
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und wenn ich es doch tue?",
+    "start": 28.427,
+    "end": 29.929,
+    "words": [
+      {
+        "text": "Und",
+        "start": 28.427,
+        "end": 28.548
+      },
+      {
+        "text": "wenn",
+        "start": 28.568,
+        "end": 28.708
+      },
+      {
+        "text": "ich",
+        "start": 28.728,
+        "end": 28.828
+      },
+      {
+        "text": "es",
+        "start": 28.848,
+        "end": 28.988
+      },
+      {
+        "text": "doch",
+        "start": 29.028,
+        "end": 29.228
+      },
+      {
+        "text": "tue?",
+        "start": 29.289,
+        "end": 29.929
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Möchtest du vom Blitz getroffen werden?",
+    "start": 29.969,
+    "end": 31.832,
+    "words": [
+      {
+        "text": "Möchtest",
+        "start": 29.969,
+        "end": 30.27
+      },
+      {
+        "text": "du",
+        "start": 30.31,
+        "end": 30.39
+      },
+      {
+        "text": "vom",
+        "start": 30.41,
+        "end": 30.55
+      },
+      {
+        "text": "Blitz",
+        "start": 30.57,
+        "end": 30.77
+      },
+      {
+        "text": "getroffen",
+        "start": 30.811,
+        "end": 31.131
+      },
+      {
+        "text": "werden?",
+        "start": 31.171,
+        "end": 31.832
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Oder doch lieber im lodernden Feuer verbrennen?",
+    "start": 31.872,
+    "end": 34.355,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 31.872,
+        "end": 32.072
+      },
+      {
+        "text": "doch",
+        "start": 32.092,
+        "end": 32.252
+      },
+      {
+        "text": "lieber",
+        "start": 32.292,
+        "end": 32.473
+      },
+      {
+        "text": "im",
+        "start": 32.513,
+        "end": 32.613
+      },
+      {
+        "text": "lodernden",
+        "start": 32.653,
+        "end": 33.073
+      },
+      {
+        "text": "Feuer",
+        "start": 33.113,
+        "end": 33.414
+      },
+      {
+        "text": "verbrennen?",
+        "start": 33.434,
+        "end": 34.355
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Oder stehst du eher auf Einfrieren?",
+    "start": 34.395,
+    "end": 35.737,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 34.395,
+        "end": 34.575
+      },
+      {
+        "text": "stehst",
+        "start": 34.595,
+        "end": 34.796
+      },
+      {
+        "text": "du",
+        "start": 34.836,
+        "end": 34.916
+      },
+      {
+        "text": "eher",
+        "start": 34.956,
+        "end": 35.096
+      },
+      {
+        "text": "auf",
+        "start": 35.136,
+        "end": 35.276
+      },
+      {
+        "text": "Einfrieren?",
+        "start": 35.316,
+        "end": 35.737
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Oh komm schon bitte, du hast doch die Kohle, ich will auf gar keinen Fall arbeiten!",
+    "start": 40.289,
+    "end": 43.671,
+    "words": [
+      {
+        "text": "Oh",
+        "start": 40.289,
+        "end": 40.369
+      },
+      {
+        "text": "komm",
+        "start": 40.389,
+        "end": 40.549
+      },
+      {
+        "text": "schon",
+        "start": 40.569,
+        "end": 40.689
+      },
+      {
+        "text": "bitte,",
+        "start": 40.709,
+        "end": 40.909
+      },
+      {
+        "text": "du",
+        "start": 40.929,
+        "end": 40.989
+      },
+      {
+        "text": "hast",
+        "start": 41.049,
+        "end": 41.189
+      },
+      {
+        "text": "doch",
+        "start": 41.209,
+        "end": 41.31
+      },
+      {
+        "text": "die",
+        "start": 41.35,
+        "end": 41.41
+      },
+      {
+        "text": "Kohle,",
+        "start": 41.43,
+        "end": 41.65
+      },
+      {
+        "text": "ich",
+        "start": 41.67,
+        "end": 41.73
+      },
+      {
+        "text": "will",
+        "start": 41.75,
+        "end": 41.87
+      },
+      {
+        "text": "auf",
+        "start": 41.89,
+        "end": 41.97
+      },
+      {
+        "text": "gar",
+        "start": 41.99,
+        "end": 42.11
+      },
+      {
+        "text": "keinen",
+        "start": 42.15,
+        "end": 42.29
+      },
+      {
+        "text": "Fall",
+        "start": 42.31,
+        "end": 42.49
+      },
+      {
+        "text": "arbeiten!",
+        "start": 42.53,
+        "end": 43.671
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Werde zum Kreislauf der Voraussicht, die fünf Elemente zu Elementen und trenne die Verbindung zwischen Bildern und Wahrheit!",
+    "start": 43.691,
+    "end": 48.293,
+    "words": [
+      {
+        "text": "Werde",
+        "start": 43.691,
+        "end": 43.931
+      },
+      {
+        "text": "zum",
+        "start": 43.971,
+        "end": 44.071
+      },
+      {
+        "text": "Kreislauf",
+        "start": 44.111,
+        "end": 44.431
+      },
+      {
+        "text": "der",
+        "start": 44.471,
+        "end": 44.591
+      },
+      {
+        "text": "Voraussicht,",
+        "start": 44.611,
+        "end": 45.091
+      },
+      {
+        "text": "die",
+        "start": 45.131,
+        "end": 45.251
+      },
+      {
+        "text": "fünf",
+        "start": 45.271,
+        "end": 45.431
+      },
+      {
+        "text": "Elemente",
+        "start": 45.471,
+        "end": 45.851
+      },
+      {
+        "text": "zu",
+        "start": 45.871,
+        "end": 45.952
+      },
+      {
+        "text": "Elementen",
+        "start": 46.012,
+        "end": 46.412
+      },
+      {
+        "text": "und",
+        "start": 46.452,
+        "end": 46.532
+      },
+      {
+        "text": "trenne",
+        "start": 46.572,
+        "end": 46.792
+      },
+      {
+        "text": "die",
+        "start": 46.832,
+        "end": 46.932
+      },
+      {
+        "text": "Verbindung",
+        "start": 46.952,
+        "end": 47.312
+      },
+      {
+        "text": "zwischen",
+        "start": 47.332,
+        "end": 47.572
+      },
+      {
+        "text": "Bildern",
+        "start": 47.612,
+        "end": 47.812
+      },
+      {
+        "text": "und",
+        "start": 47.852,
+        "end": 47.992
+      },
+      {
+        "text": "Wahrheit!",
+        "start": 48.012,
+        "end": 48.293
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Nochmal geht ihr nicht daneben!",
+    "start": 57.076,
+    "end": 59.297,
+    "words": [
+      {
+        "text": "Nochmal",
+        "start": 57.076,
+        "end": 57.897
+      },
+      {
+        "text": "geht",
+        "start": 57.937,
+        "end": 58.117
+      },
+      {
+        "text": "ihr",
+        "start": 58.177,
+        "end": 58.257
+      },
+      {
+        "text": "nicht",
+        "start": 58.477,
+        "end": 58.757
+      },
+      {
+        "text": "daneben!",
+        "start": 58.797,
+        "end": 59.297
+      }
+    ]
+  }
+]

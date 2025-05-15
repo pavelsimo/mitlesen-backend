@@ -1,0 +1,802 @@
+[
+  {
+    "id": 0,
+    "text": " Ich verstehe.",
+    "start": 0.671,
+    "end": 1.911,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 0.671,
+        "end": 0.771
+      },
+      {
+        "text": "verstehe.",
+        "start": 0.811,
+        "end": 1.911
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Doch dafür benötige ich einen Moment, um mich zu sammeln.",
+    "start": 1.931,
+    "end": 4.672,
+    "words": [
+      {
+        "text": "Doch",
+        "start": 1.931,
+        "end": 2.132
+      },
+      {
+        "text": "dafür",
+        "start": 2.152,
+        "end": 2.432
+      },
+      {
+        "text": "benötige",
+        "start": 2.452,
+        "end": 2.952
+      },
+      {
+        "text": "ich",
+        "start": 2.992,
+        "end": 3.132
+      },
+      {
+        "text": "einen",
+        "start": 3.172,
+        "end": 3.332
+      },
+      {
+        "text": "Moment,",
+        "start": 3.352,
+        "end": 3.592
+      },
+      {
+        "text": "um",
+        "start": 3.632,
+        "end": 3.772
+      },
+      {
+        "text": "mich",
+        "start": 3.792,
+        "end": 3.972
+      },
+      {
+        "text": "zu",
+        "start": 4.012,
+        "end": 4.092
+      },
+      {
+        "text": "sammeln.",
+        "start": 4.112,
+        "end": 4.672
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich werde euch die Zeit verschaffen.",
+    "start": 4.732,
+    "end": 7.133,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.732,
+        "end": 4.832
+      },
+      {
+        "text": "werde",
+        "start": 4.872,
+        "end": 5.072
+      },
+      {
+        "text": "euch",
+        "start": 5.112,
+        "end": 5.292
+      },
+      {
+        "text": "die",
+        "start": 5.312,
+        "end": 5.412
+      },
+      {
+        "text": "Zeit",
+        "start": 5.452,
+        "end": 5.632
+      },
+      {
+        "text": "verschaffen.",
+        "start": 5.672,
+        "end": 7.133
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Du verlangst, dass ich dir vertraue?",
+    "start": 7.153,
+    "end": 10.033,
+    "words": [
+      {
+        "text": "Du",
+        "start": 7.153,
+        "end": 7.313
+      },
+      {
+        "text": "verlangst,",
+        "start": 7.333,
+        "end": 7.673
+      },
+      {
+        "text": "dass",
+        "start": 7.693,
+        "end": 7.853
+      },
+      {
+        "text": "ich",
+        "start": 7.913,
+        "end": 8.053
+      },
+      {
+        "text": "dir",
+        "start": 8.073,
+        "end": 8.213
+      },
+      {
+        "text": "vertraue?",
+        "start": 8.233,
+        "end": 10.033
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wenn möglich.",
+    "start": 10.053,
+    "end": 23.057,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 10.053,
+        "end": 10.234
+      },
+      {
+        "text": "möglich.",
+        "start": 10.254,
+        "end": 23.057
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Machst du dir Gedanken wegen Fräulein Claire?",
+    "start": 23.077,
+    "end": 25.797,
+    "words": [
+      {
+        "text": "Machst",
+        "start": 23.077,
+        "end": 23.277
+      },
+      {
+        "text": "du",
+        "start": 23.297,
+        "end": 23.397
+      },
+      {
+        "text": "dir",
+        "start": 23.417,
+        "end": 23.577
+      },
+      {
+        "text": "Gedanken",
+        "start": 23.597,
+        "end": 24.037
+      },
+      {
+        "text": "wegen",
+        "start": 24.077,
+        "end": 24.317
+      },
+      {
+        "text": "Fräulein",
+        "start": 24.337,
+        "end": 24.737
+      },
+      {
+        "text": "Claire?",
+        "start": 24.757,
+        "end": 25.797
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ja.",
+    "start": 25.977,
+    "end": 26.958,
+    "words": [
+      {
+        "text": "Ja.",
+        "start": 25.977,
+        "end": 26.958
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Aber das ist egal.",
+    "start": 26.998,
+    "end": 28.238,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 26.998,
+        "end": 27.238
+      },
+      {
+        "text": "das",
+        "start": 27.278,
+        "end": 27.778
+      },
+      {
+        "text": "ist",
+        "start": 27.818,
+        "end": 27.958
+      },
+      {
+        "text": "egal.",
+        "start": 28.058,
+        "end": 28.238
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Halt ruhig, blödes Vieh!",
+    "start": 38.866,
+    "end": 43.573,
+    "words": [
+      {
+        "text": "Halt",
+        "start": 38.866,
+        "end": 39.067
+      },
+      {
+        "text": "ruhig,",
+        "start": 39.267,
+        "end": 41.31
+      },
+      {
+        "text": "blödes",
+        "start": 41.49,
+        "end": 42.211
+      },
+      {
+        "text": "Vieh!",
+        "start": 42.672,
+        "end": 43.573
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Was tut sie?",
+    "start": 43.613,
+    "end": 44.915,
+    "words": [
+      {
+        "text": "Was",
+        "start": 43.613,
+        "end": 43.833
+      },
+      {
+        "text": "tut",
+        "start": 43.853,
+        "end": 44.093
+      },
+      {
+        "text": "sie?",
+        "start": 44.133,
+        "end": 44.915
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wo ist Träulein Clea?",
+    "start": 44.955,
+    "end": 45.836,
+    "words": [
+      {
+        "text": "Wo",
+        "start": 44.955,
+        "end": 45.095
+      },
+      {
+        "text": "ist",
+        "start": 45.135,
+        "end": 45.255
+      },
+      {
+        "text": "Träulein",
+        "start": 45.295,
+        "end": 45.656
+      },
+      {
+        "text": "Clea?",
+        "start": 45.676,
+        "end": 45.836
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Hier ist perfekt.",
+    "start": 77.335,
+    "end": 82.918,
+    "words": [
+      {
+        "text": "Hier",
+        "start": 77.335,
+        "end": 77.475
+      },
+      {
+        "text": "ist",
+        "start": 78.616,
+        "end": 78.856
+      },
+      {
+        "text": "perfekt.",
+        "start": 78.896,
+        "end": 82.918
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Gefriere!",
+    "start": 82.938,
+    "end": 86.22,
+    "words": [
+      {
+        "text": "Gefriere!",
+        "start": 82.938,
+        "end": 86.22
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Jetzt!",
+    "start": 86.24,
+    "end": 86.801,
+    "words": [
+      {
+        "text": "Jetzt!",
+        "start": 86.24,
+        "end": 86.801
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Fräulein Claire!",
+    "start": 86.821,
+    "end": 96.126,
+    "words": [
+      {
+        "text": "Fräulein",
+        "start": 86.821,
+        "end": 87.241
+      },
+      {
+        "text": "Claire!",
+        "start": 87.281,
+        "end": 96.126
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ist ja gut.",
+    "start": 96.186,
+    "end": 97.427,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 96.186,
+        "end": 96.366
+      },
+      {
+        "text": "ja",
+        "start": 96.426,
+        "end": 96.646
+      },
+      {
+        "text": "gut.",
+        "start": 96.686,
+        "end": 97.427
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Das ist leichter gesagt als getan.",
+    "start": 97.467,
+    "end": 99.668,
+    "words": [
+      {
+        "text": "Das",
+        "start": 97.467,
+        "end": 97.667
+      },
+      {
+        "text": "ist",
+        "start": 97.707,
+        "end": 97.847
+      },
+      {
+        "text": "leichter",
+        "start": 97.887,
+        "end": 98.327
+      },
+      {
+        "text": "gesagt",
+        "start": 98.367,
+        "end": 98.707
+      },
+      {
+        "text": "als",
+        "start": 98.787,
+        "end": 98.948
+      },
+      {
+        "text": "getan.",
+        "start": 98.968,
+        "end": 99.668
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich habe es sicherlich schon mal erwähnt, aber dies ist ein Zauber von gewaltiger Stärke.",
+    "start": 100.468,
+    "end": 106.292,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 100.468,
+        "end": 101.469
+      },
+      {
+        "text": "habe",
+        "start": 101.509,
+        "end": 101.749
+      },
+      {
+        "text": "es",
+        "start": 101.809,
+        "end": 101.909
+      },
+      {
+        "text": "sicherlich",
+        "start": 101.949,
+        "end": 102.41
+      },
+      {
+        "text": "schon",
+        "start": 102.43,
+        "end": 102.63
+      },
+      {
+        "text": "mal",
+        "start": 102.65,
+        "end": 102.81
+      },
+      {
+        "text": "erwähnt,",
+        "start": 102.85,
+        "end": 103.71
+      },
+      {
+        "text": "aber",
+        "start": 103.77,
+        "end": 104.031
+      },
+      {
+        "text": "dies",
+        "start": 104.051,
+        "end": 104.291
+      },
+      {
+        "text": "ist",
+        "start": 104.311,
+        "end": 104.511
+      },
+      {
+        "text": "ein",
+        "start": 104.551,
+        "end": 104.691
+      },
+      {
+        "text": "Zauber",
+        "start": 104.731,
+        "end": 105.111
+      },
+      {
+        "text": "von",
+        "start": 105.151,
+        "end": 105.291
+      },
+      {
+        "text": "gewaltiger",
+        "start": 105.311,
+        "end": 105.952
+      },
+      {
+        "text": "Stärke.",
+        "start": 105.992,
+        "end": 106.292
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Sollte mir ein Fehler unterlaufen, verglühst du zusammen mit dem Monster.",
+    "start": 108.375,
+    "end": 112.197,
+    "words": [
+      {
+        "text": "Sollte",
+        "start": 108.375,
+        "end": 108.655
+      },
+      {
+        "text": "mir",
+        "start": 108.675,
+        "end": 108.795
+      },
+      {
+        "text": "ein",
+        "start": 108.835,
+        "end": 108.975
+      },
+      {
+        "text": "Fehler",
+        "start": 108.996,
+        "end": 109.256
+      },
+      {
+        "text": "unterlaufen,",
+        "start": 109.276,
+        "end": 110.116
+      },
+      {
+        "text": "verglühst",
+        "start": 110.156,
+        "end": 110.576
+      },
+      {
+        "text": "du",
+        "start": 110.596,
+        "end": 110.817
+      },
+      {
+        "text": "zusammen",
+        "start": 110.837,
+        "end": 111.177
+      },
+      {
+        "text": "mit",
+        "start": 111.217,
+        "end": 111.377
+      },
+      {
+        "text": "dem",
+        "start": 111.417,
+        "end": 111.497
+      },
+      {
+        "text": "Monster.",
+        "start": 111.517,
+        "end": 112.197
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das glaube ich nicht.",
+    "start": 112.237,
+    "end": 114.058,
+    "words": [
+      {
+        "text": "Das",
+        "start": 112.237,
+        "end": 112.417
+      },
+      {
+        "text": "glaube",
+        "start": 112.437,
+        "end": 112.678
+      },
+      {
+        "text": "ich",
+        "start": 112.718,
+        "end": 112.858
+      },
+      {
+        "text": "nicht.",
+        "start": 112.918,
+        "end": 114.058
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ihr werdet nicht daneben schießen.",
+    "start": 114.098,
+    "end": 119.982,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 114.098,
+        "end": 114.238
+      },
+      {
+        "text": "werdet",
+        "start": 114.258,
+        "end": 114.619
+      },
+      {
+        "text": "nicht",
+        "start": 114.659,
+        "end": 114.839
+      },
+      {
+        "text": "daneben",
+        "start": 114.859,
+        "end": 115.259
+      },
+      {
+        "text": "schießen.",
+        "start": 115.299,
+        "end": 119.982
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Licht!",
+    "start": 120.022,
+    "end": 122.543,
+    "words": [
+      {
+        "text": "Licht!",
+        "start": 120.022,
+        "end": 122.543
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Los, Magie-Strahl!",
+    "start": 122.663,
+    "end": 123.624,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 122.663,
+        "end": 122.763
+      },
+      {
+        "text": "Magie-Strahl!",
+        "start": 122.783,
+        "end": 123.624
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Auch wenn ich nicht mehr an ihrer Seite sein kann.",
+    "start": 156.675,
+    "end": 158.798,
+    "words": [
+      {
+        "text": "Auch",
+        "start": 156.675,
+        "end": 156.855
+      },
+      {
+        "text": "wenn",
+        "start": 156.875,
+        "end": 157.036
+      },
+      {
+        "text": "ich",
+        "start": 157.076,
+        "end": 157.216
+      },
+      {
+        "text": "nicht",
+        "start": 157.256,
+        "end": 157.436
+      },
+      {
+        "text": "mehr",
+        "start": 157.476,
+        "end": 157.616
+      },
+      {
+        "text": "an",
+        "start": 157.656,
+        "end": 157.776
+      },
+      {
+        "text": "ihrer",
+        "start": 157.796,
+        "end": 157.997
+      },
+      {
+        "text": "Seite",
+        "start": 158.037,
+        "end": 158.337
+      },
+      {
+        "text": "sein",
+        "start": 158.377,
+        "end": 158.577
+      },
+      {
+        "text": "kann.",
+        "start": 158.617,
+        "end": 158.798
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Fraulein Claire wird nie wieder alleine sein.",
+    "start": 168.393,
+    "end": 170.706,
+    "words": [
+      {
+        "text": "Fraulein",
+        "start": 168.393,
+        "end": 168.876
+      },
+      {
+        "text": "Claire",
+        "start": 168.916,
+        "end": 169.097
+      },
+      {
+        "text": "wird",
+        "start": 169.137,
+        "end": 169.54
+      },
+      {
+        "text": "nie",
+        "start": 169.56,
+        "end": 169.781
+      },
+      {
+        "text": "wieder",
+        "start": 169.821,
+        "end": 170.042
+      },
+      {
+        "text": "alleine",
+        "start": 170.063,
+        "end": 170.505
+      },
+      {
+        "text": "sein.",
+        "start": 170.545,
+        "end": 170.706
+      }
+    ]
+  }
+]

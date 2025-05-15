@@ -1,0 +1,1522 @@
+[
+  {
+    "id": 0,
+    "text": " Jawohl!",
+    "start": 0.602,
+    "end": 1.983,
+    "words": [
+      {
+        "text": "Jawohl!",
+        "start": 0.602,
+        "end": 1.983
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich werde es in vollen Zügen genießen, mich für die Blamage von damals zu revanchieren.",
+    "start": 2.023,
+    "end": 7.007,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.023,
+        "end": 2.163
+      },
+      {
+        "text": "werde",
+        "start": 2.183,
+        "end": 2.424
+      },
+      {
+        "text": "es",
+        "start": 2.464,
+        "end": 2.624
+      },
+      {
+        "text": "in",
+        "start": 2.664,
+        "end": 2.804
+      },
+      {
+        "text": "vollen",
+        "start": 2.844,
+        "end": 3.104
+      },
+      {
+        "text": "Zügen",
+        "start": 3.144,
+        "end": 3.444
+      },
+      {
+        "text": "genießen,",
+        "start": 3.484,
+        "end": 4.105
+      },
+      {
+        "text": "mich",
+        "start": 4.145,
+        "end": 4.285
+      },
+      {
+        "text": "für",
+        "start": 4.325,
+        "end": 4.425
+      },
+      {
+        "text": "die",
+        "start": 4.465,
+        "end": 4.545
+      },
+      {
+        "text": "Blamage",
+        "start": 4.565,
+        "end": 5.025
+      },
+      {
+        "text": "von",
+        "start": 5.065,
+        "end": 5.266
+      },
+      {
+        "text": "damals",
+        "start": 5.286,
+        "end": 5.646
+      },
+      {
+        "text": "zu",
+        "start": 5.666,
+        "end": 5.746
+      },
+      {
+        "text": "revanchieren.",
+        "start": 5.806,
+        "end": 7.007
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Die ist aber echt ganz schön sauer.",
+    "start": 7.027,
+    "end": 9.528,
+    "words": [
+      {
+        "text": "Die",
+        "start": 7.027,
+        "end": 7.187
+      },
+      {
+        "text": "ist",
+        "start": 7.227,
+        "end": 7.427
+      },
+      {
+        "text": "aber",
+        "start": 7.487,
+        "end": 7.747
+      },
+      {
+        "text": "echt",
+        "start": 7.787,
+        "end": 8.047
+      },
+      {
+        "text": "ganz",
+        "start": 8.067,
+        "end": 8.268
+      },
+      {
+        "text": "schön",
+        "start": 8.288,
+        "end": 8.588
+      },
+      {
+        "text": "sauer.",
+        "start": 8.628,
+        "end": 9.528
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Hat sie vielleicht irgendeinen Hass auf Pete?",
+    "start": 9.568,
+    "end": 12.61,
+    "words": [
+      {
+        "text": "Hat",
+        "start": 9.568,
+        "end": 9.729
+      },
+      {
+        "text": "sie",
+        "start": 9.769,
+        "end": 9.869
+      },
+      {
+        "text": "vielleicht",
+        "start": 9.909,
+        "end": 10.229
+      },
+      {
+        "text": "irgendeinen",
+        "start": 10.269,
+        "end": 10.669
+      },
+      {
+        "text": "Hass",
+        "start": 10.709,
+        "end": 10.869
+      },
+      {
+        "text": "auf",
+        "start": 10.889,
+        "end": 11.049
+      },
+      {
+        "text": "Pete?",
+        "start": 11.089,
+        "end": 12.61
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Das Duell endet nicht nach dem ersten Treffer.",
+    "start": 12.651,
+    "end": 15.232,
+    "words": [
+      {
+        "text": "Das",
+        "start": 12.651,
+        "end": 12.811
+      },
+      {
+        "text": "Duell",
+        "start": 12.851,
+        "end": 13.171
+      },
+      {
+        "text": "endet",
+        "start": 13.211,
+        "end": 13.511
+      },
+      {
+        "text": "nicht",
+        "start": 13.551,
+        "end": 13.751
+      },
+      {
+        "text": "nach",
+        "start": 13.791,
+        "end": 13.931
+      },
+      {
+        "text": "dem",
+        "start": 13.971,
+        "end": 14.152
+      },
+      {
+        "text": "ersten",
+        "start": 14.192,
+        "end": 14.472
+      },
+      {
+        "text": "Treffer.",
+        "start": 14.512,
+        "end": 15.232
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Kämpft also so lange, bis die Zeit um ist.",
+    "start": 15.272,
+    "end": 17.474,
+    "words": [
+      {
+        "text": "Kämpft",
+        "start": 15.272,
+        "end": 15.512
+      },
+      {
+        "text": "also",
+        "start": 15.552,
+        "end": 15.773
+      },
+      {
+        "text": "so",
+        "start": 15.813,
+        "end": 15.933
+      },
+      {
+        "text": "lange,",
+        "start": 15.953,
+        "end": 16.173
+      },
+      {
+        "text": "bis",
+        "start": 16.193,
+        "end": 16.353
+      },
+      {
+        "text": "die",
+        "start": 16.373,
+        "end": 16.473
+      },
+      {
+        "text": "Zeit",
+        "start": 16.513,
+        "end": 16.713
+      },
+      {
+        "text": "um",
+        "start": 16.753,
+        "end": 16.873
+      },
+      {
+        "text": "ist.",
+        "start": 16.913,
+        "end": 17.474
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Bereit?",
+    "start": 17.514,
+    "end": 18.314,
+    "words": [
+      {
+        "text": "Bereit?",
+        "start": 17.514,
+        "end": 18.314
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Fangt an!",
+    "start": 18.354,
+    "end": 19.855,
+    "words": [
+      {
+        "text": "Fangt",
+        "start": 18.354,
+        "end": 18.575
+      },
+      {
+        "text": "an!",
+        "start": 18.655,
+        "end": 19.855
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Nichts überstürzen, Pete!",
+    "start": 19.895,
+    "end": 21.316,
+    "words": [
+      {
+        "text": "Nichts",
+        "start": 19.895,
+        "end": 20.136
+      },
+      {
+        "text": "überstürzen,",
+        "start": 20.176,
+        "end": 20.756
+      },
+      {
+        "text": "Pete!",
+        "start": 20.796,
+        "end": 21.316
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Versuch erstmal, einen Treffer zu landen!",
+    "start": 21.376,
+    "end": 24.419,
+    "words": [
+      {
+        "text": "Versuch",
+        "start": 21.376,
+        "end": 21.737
+      },
+      {
+        "text": "erstmal,",
+        "start": 21.757,
+        "end": 22.097
+      },
+      {
+        "text": "einen",
+        "start": 22.137,
+        "end": 22.337
+      },
+      {
+        "text": "Treffer",
+        "start": 22.397,
+        "end": 22.737
+      },
+      {
+        "text": "zu",
+        "start": 22.777,
+        "end": 22.877
+      },
+      {
+        "text": "landen!",
+        "start": 22.917,
+        "end": 24.419
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wie es aussieht, unterschätzen sie mich alle.",
+    "start": 24.439,
+    "end": 26.92,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 24.439,
+        "end": 24.539
+      },
+      {
+        "text": "es",
+        "start": 24.599,
+        "end": 24.759
+      },
+      {
+        "text": "aussieht,",
+        "start": 24.799,
+        "end": 25.159
+      },
+      {
+        "text": "unterschätzen",
+        "start": 25.179,
+        "end": 25.739
+      },
+      {
+        "text": "sie",
+        "start": 25.759,
+        "end": 25.88
+      },
+      {
+        "text": "mich",
+        "start": 25.92,
+        "end": 26.08
+      },
+      {
+        "text": "alle.",
+        "start": 26.12,
+        "end": 26.92
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Los, greif mich an, du Ex-Normalo!",
+    "start": 26.96,
+    "end": 29.182,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 26.96,
+        "end": 27.24
+      },
+      {
+        "text": "greif",
+        "start": 27.28,
+        "end": 27.601
+      },
+      {
+        "text": "mich",
+        "start": 27.641,
+        "end": 27.841
+      },
+      {
+        "text": "an,",
+        "start": 27.941,
+        "end": 28.121
+      },
+      {
+        "text": "du",
+        "start": 28.141,
+        "end": 28.361
+      },
+      {
+        "text": "Ex-Normalo!",
+        "start": 28.421,
+        "end": 29.182
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Steh sofort auf.",
+    "start": 33.518,
+    "end": 34.559,
+    "words": [
+      {
+        "text": "Steh",
+        "start": 33.518,
+        "end": 33.658
+      },
+      {
+        "text": "sofort",
+        "start": 33.678,
+        "end": 34.039
+      },
+      {
+        "text": "auf.",
+        "start": 34.079,
+        "end": 34.559
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Na los, unsere Zeit ist noch nicht vorbei.",
+    "start": 34.639,
+    "end": 36.461,
+    "words": [
+      {
+        "text": "Na",
+        "start": 34.639,
+        "end": 34.759
+      },
+      {
+        "text": "los,",
+        "start": 34.799,
+        "end": 35.04
+      },
+      {
+        "text": "unsere",
+        "start": 35.08,
+        "end": 35.32
+      },
+      {
+        "text": "Zeit",
+        "start": 35.36,
+        "end": 35.58
+      },
+      {
+        "text": "ist",
+        "start": 35.62,
+        "end": 35.74
+      },
+      {
+        "text": "noch",
+        "start": 35.76,
+        "end": 35.9
+      },
+      {
+        "text": "nicht",
+        "start": 35.94,
+        "end": 36.1
+      },
+      {
+        "text": "vorbei.",
+        "start": 36.14,
+        "end": 36.461
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Du besitzt echt keinen Funkenklasse.",
+    "start": 42.746,
+    "end": 44.748,
+    "words": [
+      {
+        "text": "Du",
+        "start": 42.746,
+        "end": 42.926
+      },
+      {
+        "text": "besitzt",
+        "start": 42.946,
+        "end": 43.287
+      },
+      {
+        "text": "echt",
+        "start": 43.327,
+        "end": 43.567
+      },
+      {
+        "text": "keinen",
+        "start": 43.587,
+        "end": 43.907
+      },
+      {
+        "text": "Funkenklasse.",
+        "start": 43.927,
+        "end": 44.748
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Pete, du musst ganz ruhig bleiben, ja?",
+    "start": 44.828,
+    "end": 46.669,
+    "words": [
+      {
+        "text": "Pete,",
+        "start": 44.828,
+        "end": 45.068
+      },
+      {
+        "text": "du",
+        "start": 45.088,
+        "end": 45.228
+      },
+      {
+        "text": "musst",
+        "start": 45.248,
+        "end": 45.428
+      },
+      {
+        "text": "ganz",
+        "start": 45.448,
+        "end": 45.669
+      },
+      {
+        "text": "ruhig",
+        "start": 45.689,
+        "end": 45.909
+      },
+      {
+        "text": "bleiben,",
+        "start": 45.929,
+        "end": 46.249
+      },
+      {
+        "text": "ja?",
+        "start": 46.269,
+        "end": 46.669
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Bei diesem Kampf kommt es auf Zaubersprüche an.",
+    "start": 46.709,
+    "end": 50.613,
+    "words": [
+      {
+        "text": "Bei",
+        "start": 46.709,
+        "end": 46.81
+      },
+      {
+        "text": "diesem",
+        "start": 46.83,
+        "end": 47.03
+      },
+      {
+        "text": "Kampf",
+        "start": 47.07,
+        "end": 47.25
+      },
+      {
+        "text": "kommt",
+        "start": 47.29,
+        "end": 47.43
+      },
+      {
+        "text": "es",
+        "start": 47.47,
+        "end": 47.57
+      },
+      {
+        "text": "auf",
+        "start": 47.59,
+        "end": 47.73
+      },
+      {
+        "text": "Zaubersprüche",
+        "start": 47.77,
+        "end": 48.291
+      },
+      {
+        "text": "an.",
+        "start": 48.371,
+        "end": 50.613
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Wie lächerlich.",
+    "start": 50.653,
+    "end": 51.934,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 50.653,
+        "end": 50.893
+      },
+      {
+        "text": "lächerlich.",
+        "start": 50.953,
+        "end": 51.934
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Als ob du mit Zaubersprüchen gewinnen könntest.",
+    "start": 51.994,
+    "end": 54.056,
+    "words": [
+      {
+        "text": "Als",
+        "start": 51.994,
+        "end": 52.154
+      },
+      {
+        "text": "ob",
+        "start": 52.174,
+        "end": 52.254
+      },
+      {
+        "text": "du",
+        "start": 52.274,
+        "end": 52.394
+      },
+      {
+        "text": "mit",
+        "start": 52.414,
+        "end": 52.554
+      },
+      {
+        "text": "Zaubersprüchen",
+        "start": 52.594,
+        "end": 53.255
+      },
+      {
+        "text": "gewinnen",
+        "start": 53.275,
+        "end": 53.635
+      },
+      {
+        "text": "könntest.",
+        "start": 53.655,
+        "end": 54.056
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Könnte Pete jetzt nicht vielleicht seine besondere Gabe aktivieren?",
+    "start": 59.843,
+    "end": 63.066,
+    "words": [
+      {
+        "text": "Könnte",
+        "start": 59.843,
+        "end": 60.103
+      },
+      {
+        "text": "Pete",
+        "start": 60.143,
+        "end": 60.264
+      },
+      {
+        "text": "jetzt",
+        "start": 60.284,
+        "end": 60.444
+      },
+      {
+        "text": "nicht",
+        "start": 60.484,
+        "end": 60.644
+      },
+      {
+        "text": "vielleicht",
+        "start": 60.684,
+        "end": 61.044
+      },
+      {
+        "text": "seine",
+        "start": 61.084,
+        "end": 61.725
+      },
+      {
+        "text": "besondere",
+        "start": 61.765,
+        "end": 62.185
+      },
+      {
+        "text": "Gabe",
+        "start": 62.225,
+        "end": 62.425
+      },
+      {
+        "text": "aktivieren?",
+        "start": 62.445,
+        "end": 63.066
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Unmöglich.",
+    "start": 63.106,
+    "end": 64.307,
+    "words": [
+      {
+        "text": "Unmöglich.",
+        "start": 63.106,
+        "end": 64.307
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "So weit ist er noch nicht.",
+    "start": 64.347,
+    "end": 67.51,
+    "words": [
+      {
+        "text": "So",
+        "start": 64.347,
+        "end": 64.447
+      },
+      {
+        "text": "weit",
+        "start": 64.467,
+        "end": 64.667
+      },
+      {
+        "text": "ist",
+        "start": 64.707,
+        "end": 64.847
+      },
+      {
+        "text": "er",
+        "start": 64.887,
+        "end": 64.987
+      },
+      {
+        "text": "noch",
+        "start": 65.028,
+        "end": 65.188
+      },
+      {
+        "text": "nicht.",
+        "start": 65.208,
+        "end": 67.51
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Damit hast du also vor, mich zu treffen?",
+    "start": 67.53,
+    "end": 69.111,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 67.53,
+        "end": 67.77
+      },
+      {
+        "text": "hast",
+        "start": 67.79,
+        "end": 67.93
+      },
+      {
+        "text": "du",
+        "start": 67.95,
+        "end": 68.03
+      },
+      {
+        "text": "also",
+        "start": 68.07,
+        "end": 68.29
+      },
+      {
+        "text": "vor,",
+        "start": 68.31,
+        "end": 68.45
+      },
+      {
+        "text": "mich",
+        "start": 68.47,
+        "end": 68.61
+      },
+      {
+        "text": "zu",
+        "start": 68.651,
+        "end": 68.771
+      },
+      {
+        "text": "treffen?",
+        "start": 68.831,
+        "end": 69.111
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Tonyton!",
+    "start": 69.892,
+    "end": 76.617,
+    "words": [
+      {
+        "text": "Tonyton!",
+        "start": 69.892,
+        "end": 76.617
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Hast du's jetzt kapiert?",
+    "start": 76.657,
+    "end": 78.279,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 76.657,
+        "end": 76.877
+      },
+      {
+        "text": "du's",
+        "start": 76.917,
+        "end": 77.118
+      },
+      {
+        "text": "jetzt",
+        "start": 77.158,
+        "end": 77.378
+      },
+      {
+        "text": "kapiert?",
+        "start": 77.418,
+        "end": 78.279
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ich bin viel stärker und talentierter als du.",
+    "start": 78.319,
+    "end": 80.981,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 78.319,
+        "end": 78.439
+      },
+      {
+        "text": "bin",
+        "start": 78.479,
+        "end": 78.739
+      },
+      {
+        "text": "viel",
+        "start": 78.759,
+        "end": 78.979
+      },
+      {
+        "text": "stärker",
+        "start": 79.019,
+        "end": 79.399
+      },
+      {
+        "text": "und",
+        "start": 79.439,
+        "end": 79.54
+      },
+      {
+        "text": "talentierter",
+        "start": 79.58,
+        "end": 80.3
+      },
+      {
+        "text": "als",
+        "start": 80.34,
+        "end": 80.52
+      },
+      {
+        "text": "du.",
+        "start": 80.54,
+        "end": 80.981
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Nur weil du dir ein bisschen Respekt verdient hast, solltest du dir nichts drauf einbilden.",
+    "start": 81.021,
+    "end": 86.645,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 81.021,
+        "end": 81.181
+      },
+      {
+        "text": "weil",
+        "start": 81.221,
+        "end": 81.341
+      },
+      {
+        "text": "du",
+        "start": 81.381,
+        "end": 81.461
+      },
+      {
+        "text": "dir",
+        "start": 81.501,
+        "end": 81.621
+      },
+      {
+        "text": "ein",
+        "start": 81.661,
+        "end": 81.781
+      },
+      {
+        "text": "bisschen",
+        "start": 81.801,
+        "end": 82.122
+      },
+      {
+        "text": "Respekt",
+        "start": 82.162,
+        "end": 82.542
+      },
+      {
+        "text": "verdient",
+        "start": 82.582,
+        "end": 82.962
+      },
+      {
+        "text": "hast,",
+        "start": 82.982,
+        "end": 83.223
+      },
+      {
+        "text": "solltest",
+        "start": 83.243,
+        "end": 83.583
+      },
+      {
+        "text": "du",
+        "start": 83.623,
+        "end": 83.723
+      },
+      {
+        "text": "dir",
+        "start": 83.743,
+        "end": 83.943
+      },
+      {
+        "text": "nichts",
+        "start": 83.963,
+        "end": 84.223
+      },
+      {
+        "text": "drauf",
+        "start": 84.243,
+        "end": 84.524
+      },
+      {
+        "text": "einbilden.",
+        "start": 84.584,
+        "end": 86.645
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Du hast also alle Bände gelesen?",
+    "start": 86.665,
+    "end": 88.367,
+    "words": [
+      {
+        "text": "Du",
+        "start": 86.665,
+        "end": 86.826
+      },
+      {
+        "text": "hast",
+        "start": 86.866,
+        "end": 87.106
+      },
+      {
+        "text": "also",
+        "start": 87.146,
+        "end": 87.406
+      },
+      {
+        "text": "alle",
+        "start": 87.426,
+        "end": 87.646
+      },
+      {
+        "text": "Bände",
+        "start": 87.686,
+        "end": 87.987
+      },
+      {
+        "text": "gelesen?",
+        "start": 88.007,
+        "end": 88.367
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": " Wie konnte er es wagen, mich vor den Augen von Onkel Theodor so zu blamieren?",
+    "start": 89.411,
+    "end": 96.235,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 89.411,
+        "end": 89.531
+      },
+      {
+        "text": "konnte",
+        "start": 89.571,
+        "end": 89.851
+      },
+      {
+        "text": "er",
+        "start": 89.891,
+        "end": 89.952
+      },
+      {
+        "text": "es",
+        "start": 89.972,
+        "end": 90.132
+      },
+      {
+        "text": "wagen,",
+        "start": 90.172,
+        "end": 90.472
+      },
+      {
+        "text": "mich",
+        "start": 90.512,
+        "end": 90.672
+      },
+      {
+        "text": "vor",
+        "start": 90.692,
+        "end": 90.832
+      },
+      {
+        "text": "den",
+        "start": 90.852,
+        "end": 91.012
+      },
+      {
+        "text": "Augen",
+        "start": 91.052,
+        "end": 91.292
+      },
+      {
+        "text": "von",
+        "start": 91.332,
+        "end": 91.472
+      },
+      {
+        "text": "Onkel",
+        "start": 91.512,
+        "end": 91.853
+      },
+      {
+        "text": "Theodor",
+        "start": 91.893,
+        "end": 92.393
+      },
+      {
+        "text": "so",
+        "start": 92.413,
+        "end": 92.593
+      },
+      {
+        "text": "zu",
+        "start": 92.633,
+        "end": 92.733
+      },
+      {
+        "text": "blamieren?",
+        "start": 92.753,
+        "end": 96.235
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Ich kann das alles nicht mehr mit ansehen.",
+    "start": 96.275,
+    "end": 98.297,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 96.275,
+        "end": 96.476
+      },
+      {
+        "text": "kann",
+        "start": 96.496,
+        "end": 96.616
+      },
+      {
+        "text": "das",
+        "start": 96.656,
+        "end": 96.776
+      },
+      {
+        "text": "alles",
+        "start": 96.836,
+        "end": 97.136
+      },
+      {
+        "text": "nicht",
+        "start": 97.156,
+        "end": 97.296
+      },
+      {
+        "text": "mehr",
+        "start": 97.336,
+        "end": 97.456
+      },
+      {
+        "text": "mit",
+        "start": 97.476,
+        "end": 97.656
+      },
+      {
+        "text": "ansehen.",
+        "start": 97.736,
+        "end": 98.297
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Wartet, noch hat Pete nicht aufgegeben.",
+    "start": 98.597,
+    "end": 101.199,
+    "words": [
+      {
+        "text": "Wartet,",
+        "start": 98.597,
+        "end": 99.297
+      },
+      {
+        "text": "noch",
+        "start": 99.337,
+        "end": 99.497
+      },
+      {
+        "text": "hat",
+        "start": 99.537,
+        "end": 99.678
+      },
+      {
+        "text": "Pete",
+        "start": 99.718,
+        "end": 99.938
+      },
+      {
+        "text": "nicht",
+        "start": 99.978,
+        "end": 100.198
+      },
+      {
+        "text": "aufgegeben.",
+        "start": 100.238,
+        "end": 101.199
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Das wird er ganz bestimmt nicht auf sich sitzen lassen.",
+    "start": 101.219,
+    "end": 104.761,
+    "words": [
+      {
+        "text": "Das",
+        "start": 101.219,
+        "end": 101.359
+      },
+      {
+        "text": "wird",
+        "start": 101.399,
+        "end": 101.559
+      },
+      {
+        "text": "er",
+        "start": 101.599,
+        "end": 101.719
+      },
+      {
+        "text": "ganz",
+        "start": 101.739,
+        "end": 101.899
+      },
+      {
+        "text": "bestimmt",
+        "start": 101.939,
+        "end": 102.299
+      },
+      {
+        "text": "nicht",
+        "start": 102.319,
+        "end": 102.459
+      },
+      {
+        "text": "auf",
+        "start": 102.499,
+        "end": 102.599
+      },
+      {
+        "text": "sich",
+        "start": 102.639,
+        "end": 102.779
+      },
+      {
+        "text": "sitzen",
+        "start": 102.82,
+        "end": 103.06
+      },
+      {
+        "text": "lassen.",
+        "start": 103.1,
+        "end": 104.761
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Miss Con Wallace unterschätzt ihn.",
+    "start": 104.801,
+    "end": 107.222,
+    "words": [
+      {
+        "text": "Miss",
+        "start": 104.801,
+        "end": 105.001
+      },
+      {
+        "text": "Con",
+        "start": 105.041,
+        "end": 105.281
+      },
+      {
+        "text": "Wallace",
+        "start": 105.321,
+        "end": 105.681
+      },
+      {
+        "text": "unterschätzt",
+        "start": 105.701,
+        "end": 106.262
+      },
+      {
+        "text": "ihn.",
+        "start": 106.322,
+        "end": 107.222
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Jetzt hat er die Chance zum Gegenschlag.",
+    "start": 107.242,
+    "end": 108.963,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 107.242,
+        "end": 107.482
+      },
+      {
+        "text": "hat",
+        "start": 107.502,
+        "end": 107.622
+      },
+      {
+        "text": "er",
+        "start": 107.663,
+        "end": 107.783
+      },
+      {
+        "text": "die",
+        "start": 107.803,
+        "end": 107.903
+      },
+      {
+        "text": "Chance",
+        "start": 107.943,
+        "end": 108.203
+      },
+      {
+        "text": "zum",
+        "start": 108.243,
+        "end": 108.423
+      },
+      {
+        "text": "Gegenschlag.",
+        "start": 108.443,
+        "end": 108.963
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Tornitron!",
+    "start": 112.185,
+    "end": 112.626,
+    "words": [
+      {
+        "text": "Tornitron!",
+        "start": 112.185,
+        "end": 112.626
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": " Die Zeit ist um!",
+    "start": 128.022,
+    "end": 128.663,
+    "words": [
+      {
+        "text": "Die",
+        "start": 128.022,
+        "end": 128.122
+      },
+      {
+        "text": "Zeit",
+        "start": 128.142,
+        "end": 128.283
+      },
+      {
+        "text": "ist",
+        "start": 128.303,
+        "end": 128.383
+      },
+      {
+        "text": "um!",
+        "start": 128.443,
+        "end": 128.663
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Der Kampf ist vorbei!",
+    "start": 128.683,
+    "end": 133.17,
+    "words": [
+      {
+        "text": "Der",
+        "start": 128.683,
+        "end": 128.783
+      },
+      {
+        "text": "Kampf",
+        "start": 128.824,
+        "end": 129.004
+      },
+      {
+        "text": "ist",
+        "start": 129.044,
+        "end": 129.144
+      },
+      {
+        "text": "vorbei!",
+        "start": 129.184,
+        "end": 133.17
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Verbeugt euch!",
+    "start": 133.19,
+    "end": 134.332,
+    "words": [
+      {
+        "text": "Verbeugt",
+        "start": 133.19,
+        "end": 133.611
+      },
+      {
+        "text": "euch!",
+        "start": 133.691,
+        "end": 134.332
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Die Nächsten!",
+    "start": 134.352,
+    "end": 140.882,
+    "words": [
+      {
+        "text": "Die",
+        "start": 134.352,
+        "end": 134.472
+      },
+      {
+        "text": "Nächsten!",
+        "start": 134.492,
+        "end": 140.882
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Du hast dein Bestes gegeben, Pete.",
+    "start": 140.922,
+    "end": 142.545,
+    "words": [
+      {
+        "text": "Du",
+        "start": 140.922,
+        "end": 141.023
+      },
+      {
+        "text": "hast",
+        "start": 141.063,
+        "end": 141.263
+      },
+      {
+        "text": "dein",
+        "start": 141.283,
+        "end": 141.443
+      },
+      {
+        "text": "Bestes",
+        "start": 141.463,
+        "end": 141.844
+      },
+      {
+        "text": "gegeben,",
+        "start": 141.884,
+        "end": 142.224
+      },
+      {
+        "text": "Pete.",
+        "start": 142.445,
+        "end": 142.545
+      }
+    ]
+  }
+]

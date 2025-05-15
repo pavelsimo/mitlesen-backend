@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 0,
+    "text": " Was gibt es, Rumelka?",
+    "start": 6.469,
+    "end": 10.151,
+    "words": [
+      {
+        "text": "Was",
+        "start": 6.469,
+        "end": 6.589
+      },
+      {
+        "text": "gibt",
+        "start": 6.609,
+        "end": 6.769
+      },
+      {
+        "text": "es,",
+        "start": 6.809,
+        "end": 7.129
+      },
+      {
+        "text": "Rumelka?",
+        "start": 7.189,
+        "end": 10.151
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Islis.",
+    "start": 10.271,
+    "end": 11.812,
+    "words": [
+      {
+        "text": "Islis.",
+        "start": 10.271,
+        "end": 11.812
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wieso starrst du denn die ganze Zeit aufs Meer hinaus?",
+    "start": 11.852,
+    "end": 14.973,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 11.852,
+        "end": 12.112
+      },
+      {
+        "text": "starrst",
+        "start": 12.132,
+        "end": 12.432
+      },
+      {
+        "text": "du",
+        "start": 12.452,
+        "end": 12.552
+      },
+      {
+        "text": "denn",
+        "start": 12.572,
+        "end": 12.752
+      },
+      {
+        "text": "die",
+        "start": 12.772,
+        "end": 12.872
+      },
+      {
+        "text": "ganze",
+        "start": 12.912,
+        "end": 13.152
+      },
+      {
+        "text": "Zeit",
+        "start": 13.192,
+        "end": 13.392
+      },
+      {
+        "text": "aufs",
+        "start": 13.412,
+        "end": 13.632
+      },
+      {
+        "text": "Meer",
+        "start": 13.652,
+        "end": 13.853
+      },
+      {
+        "text": "hinaus?",
+        "start": 13.893,
+        "end": 14.973
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich schwäge in alten Erinnerungen.",
+    "start": 15.013,
+    "end": 17.814,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 15.013,
+        "end": 15.133
+      },
+      {
+        "text": "schwäge",
+        "start": 15.153,
+        "end": 15.493
+      },
+      {
+        "text": "in",
+        "start": 15.533,
+        "end": 15.753
+      },
+      {
+        "text": "alten",
+        "start": 15.773,
+        "end": 16.053
+      },
+      {
+        "text": "Erinnerungen.",
+        "start": 16.094,
+        "end": 17.814
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Vor hundert Jahren ist das Imperium untergegangen.",
+    "start": 17.854,
+    "end": 20.676,
+    "words": [
+      {
+        "text": "Vor",
+        "start": 17.854,
+        "end": 18.014
+      },
+      {
+        "text": "hundert",
+        "start": 18.134,
+        "end": 18.455
+      },
+      {
+        "text": "Jahren",
+        "start": 18.495,
+        "end": 18.815
+      },
+      {
+        "text": "ist",
+        "start": 18.855,
+        "end": 18.995
+      },
+      {
+        "text": "das",
+        "start": 19.035,
+        "end": 19.215
+      },
+      {
+        "text": "Imperium",
+        "start": 19.235,
+        "end": 19.835
+      },
+      {
+        "text": "untergegangen.",
+        "start": 19.855,
+        "end": 20.676
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich denke daran, wie prächtig und gleichzeitig bemitleidenswert es war.",
+    "start": 20.716,
+    "end": 24.717,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 20.716,
+        "end": 20.856
+      },
+      {
+        "text": "denke",
+        "start": 20.896,
+        "end": 21.176
+      },
+      {
+        "text": "daran,",
+        "start": 21.196,
+        "end": 21.476
+      },
+      {
+        "text": "wie",
+        "start": 21.496,
+        "end": 21.636
+      },
+      {
+        "text": "prächtig",
+        "start": 21.676,
+        "end": 22.096
+      },
+      {
+        "text": "und",
+        "start": 22.136,
+        "end": 22.276
+      },
+      {
+        "text": "gleichzeitig",
+        "start": 22.316,
+        "end": 22.857
+      },
+      {
+        "text": "bemitleidenswert",
+        "start": 22.877,
+        "end": 23.757
+      },
+      {
+        "text": "es",
+        "start": 23.817,
+        "end": 23.897
+      },
+      {
+        "text": "war.",
+        "start": 23.957,
+        "end": 24.717
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ach, du musst mich doch nicht anlügen, Liebes.",
+    "start": 24.797,
+    "end": 26.678,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 24.797,
+        "end": 24.937
+      },
+      {
+        "text": "du",
+        "start": 24.958,
+        "end": 25.138
+      },
+      {
+        "text": "musst",
+        "start": 25.158,
+        "end": 25.358
+      },
+      {
+        "text": "mich",
+        "start": 25.378,
+        "end": 25.498
+      },
+      {
+        "text": "doch",
+        "start": 25.538,
+        "end": 25.658
+      },
+      {
+        "text": "nicht",
+        "start": 25.678,
+        "end": 25.858
+      },
+      {
+        "text": "anlügen,",
+        "start": 25.898,
+        "end": 26.318
+      },
+      {
+        "text": "Liebes.",
+        "start": 26.358,
+        "end": 26.678
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Das gehört sich nicht.",
+    "start": 26.698,
+    "end": 27.939,
+    "words": [
+      {
+        "text": "Das",
+        "start": 26.698,
+        "end": 26.858
+      },
+      {
+        "text": "gehört",
+        "start": 26.878,
+        "end": 27.179
+      },
+      {
+        "text": "sich",
+        "start": 27.199,
+        "end": 27.359
+      },
+      {
+        "text": "nicht.",
+        "start": 27.399,
+        "end": 27.939
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Deine Gedanken sind doch eigentlich bei unserem kleinen Leichengott, oder?",
+    "start": 27.959,
+    "end": 31.0,
+    "words": [
+      {
+        "text": "Deine",
+        "start": 27.959,
+        "end": 28.199
+      },
+      {
+        "text": "Gedanken",
+        "start": 28.219,
+        "end": 28.539
+      },
+      {
+        "text": "sind",
+        "start": 28.559,
+        "end": 28.699
+      },
+      {
+        "text": "doch",
+        "start": 28.719,
+        "end": 28.899
+      },
+      {
+        "text": "eigentlich",
+        "start": 28.919,
+        "end": 29.239
+      },
+      {
+        "text": "bei",
+        "start": 29.259,
+        "end": 29.359
+      },
+      {
+        "text": "unserem",
+        "start": 29.4,
+        "end": 29.68
+      },
+      {
+        "text": "kleinen",
+        "start": 29.7,
+        "end": 29.9
+      },
+      {
+        "text": "Leichengott,",
+        "start": 29.94,
+        "end": 30.5
+      },
+      {
+        "text": "oder?",
+        "start": 30.52,
+        "end": 31.0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ist doch das Gleiche.",
+    "start": 31.04,
+    "end": 31.921,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 31.04,
+        "end": 31.18
+      },
+      {
+        "text": "doch",
+        "start": 31.2,
+        "end": 31.38
+      },
+      {
+        "text": "das",
+        "start": 31.4,
+        "end": 31.58
+      },
+      {
+        "text": "Gleiche.",
+        "start": 31.621,
+        "end": 31.921
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Dass ich diesen Dummkopf herangezogen habe, war im Grunde das Einzige, was ich hier gemacht habe.",
+    "start": 33.21,
+    "end": 37.934,
+    "words": [
+      {
+        "text": "Dass",
+        "start": 33.21,
+        "end": 33.37
+      },
+      {
+        "text": "ich",
+        "start": 33.41,
+        "end": 33.51
+      },
+      {
+        "text": "diesen",
+        "start": 33.53,
+        "end": 33.691
+      },
+      {
+        "text": "Dummkopf",
+        "start": 33.731,
+        "end": 34.071
+      },
+      {
+        "text": "herangezogen",
+        "start": 34.111,
+        "end": 34.811
+      },
+      {
+        "text": "habe,",
+        "start": 34.851,
+        "end": 35.352
+      },
+      {
+        "text": "war",
+        "start": 35.392,
+        "end": 35.572
+      },
+      {
+        "text": "im",
+        "start": 35.612,
+        "end": 35.732
+      },
+      {
+        "text": "Grunde",
+        "start": 35.752,
+        "end": 36.052
+      },
+      {
+        "text": "das",
+        "start": 36.092,
+        "end": 36.352
+      },
+      {
+        "text": "Einzige,",
+        "start": 36.372,
+        "end": 36.893
+      },
+      {
+        "text": "was",
+        "start": 36.913,
+        "end": 37.033
+      },
+      {
+        "text": "ich",
+        "start": 37.093,
+        "end": 37.173
+      },
+      {
+        "text": "hier",
+        "start": 37.213,
+        "end": 37.373
+      },
+      {
+        "text": "gemacht",
+        "start": 37.413,
+        "end": 37.713
+      },
+      {
+        "text": "habe.",
+        "start": 37.753,
+        "end": 37.934
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Aber das ist doch hervorragend!",
+    "start": 38.354,
+    "end": 39.515,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 38.354,
+        "end": 38.554
+      },
+      {
+        "text": "das",
+        "start": 38.574,
+        "end": 38.714
+      },
+      {
+        "text": "ist",
+        "start": 38.754,
+        "end": 38.814
+      },
+      {
+        "text": "doch",
+        "start": 38.834,
+        "end": 38.954
+      },
+      {
+        "text": "hervorragend!",
+        "start": 38.974,
+        "end": 39.515
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du kannst stolz auf dich sein!",
+    "start": 39.535,
+    "end": 41.456,
+    "words": [
+      {
+        "text": "Du",
+        "start": 39.535,
+        "end": 39.655
+      },
+      {
+        "text": "kannst",
+        "start": 39.695,
+        "end": 39.915
+      },
+      {
+        "text": "stolz",
+        "start": 39.935,
+        "end": 40.175
+      },
+      {
+        "text": "auf",
+        "start": 40.215,
+        "end": 40.315
+      },
+      {
+        "text": "dich",
+        "start": 40.355,
+        "end": 40.575
+      },
+      {
+        "text": "sein!",
+        "start": 40.595,
+        "end": 41.456
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Schüler, die durch ihre Meister zu Hofmagiern werden, sind doch eine Rarität!",
+    "start": 41.496,
+    "end": 45.219,
+    "words": [
+      {
+        "text": "Schüler,",
+        "start": 41.496,
+        "end": 41.796
+      },
+      {
+        "text": "die",
+        "start": 41.816,
+        "end": 41.916
+      },
+      {
+        "text": "durch",
+        "start": 41.936,
+        "end": 42.097
+      },
+      {
+        "text": "ihre",
+        "start": 42.137,
+        "end": 42.297
+      },
+      {
+        "text": "Meister",
+        "start": 42.337,
+        "end": 42.597
+      },
+      {
+        "text": "zu",
+        "start": 42.617,
+        "end": 42.737
+      },
+      {
+        "text": "Hofmagiern",
+        "start": 42.777,
+        "end": 43.397
+      },
+      {
+        "text": "werden,",
+        "start": 43.437,
+        "end": 43.678
+      },
+      {
+        "text": "sind",
+        "start": 43.718,
+        "end": 43.838
+      },
+      {
+        "text": "doch",
+        "start": 43.878,
+        "end": 44.038
+      },
+      {
+        "text": "eine",
+        "start": 44.078,
+        "end": 44.218
+      },
+      {
+        "text": "Rarität!",
+        "start": 44.238,
+        "end": 45.219
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ich selbst habe das ja zum Beispiel erst geschafft, als mein Meister in den Ruhestand ging.",
+    "start": 45.239,
+    "end": 49.202,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 45.239,
+        "end": 45.379
+      },
+      {
+        "text": "selbst",
+        "start": 45.419,
+        "end": 45.639
+      },
+      {
+        "text": "habe",
+        "start": 45.659,
+        "end": 45.839
+      },
+      {
+        "text": "das",
+        "start": 45.859,
+        "end": 45.999
+      },
+      {
+        "text": "ja",
+        "start": 46.019,
+        "end": 46.139
+      },
+      {
+        "text": "zum",
+        "start": 46.179,
+        "end": 46.259
+      },
+      {
+        "text": "Beispiel",
+        "start": 46.279,
+        "end": 46.58
+      },
+      {
+        "text": "erst",
+        "start": 46.62,
+        "end": 46.78
+      },
+      {
+        "text": "geschafft,",
+        "start": 46.82,
+        "end": 47.1
+      },
+      {
+        "text": "als",
+        "start": 47.12,
+        "end": 47.3
+      },
+      {
+        "text": "mein",
+        "start": 47.34,
+        "end": 47.5
+      },
+      {
+        "text": "Meister",
+        "start": 47.52,
+        "end": 47.841
+      },
+      {
+        "text": "in",
+        "start": 47.881,
+        "end": 47.941
+      },
+      {
+        "text": "den",
+        "start": 47.981,
+        "end": 48.121
+      },
+      {
+        "text": "Ruhestand",
+        "start": 48.141,
+        "end": 48.621
+      },
+      {
+        "text": "ging.",
+        "start": 48.661,
+        "end": 49.202
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Darüber hinaus gehörte unser Leichengott damals sogar zu den besten fünf aller Hofmagier.",
+    "start": 49.222,
+    "end": 53.344,
+    "words": [
+      {
+        "text": "Darüber",
+        "start": 49.222,
+        "end": 49.622
+      },
+      {
+        "text": "hinaus",
+        "start": 49.682,
+        "end": 49.942
+      },
+      {
+        "text": "gehörte",
+        "start": 49.982,
+        "end": 50.282
+      },
+      {
+        "text": "unser",
+        "start": 50.322,
+        "end": 50.522
+      },
+      {
+        "text": "Leichengott",
+        "start": 50.542,
+        "end": 50.963
+      },
+      {
+        "text": "damals",
+        "start": 50.983,
+        "end": 51.263
+      },
+      {
+        "text": "sogar",
+        "start": 51.303,
+        "end": 51.523
+      },
+      {
+        "text": "zu",
+        "start": 51.563,
+        "end": 51.643
+      },
+      {
+        "text": "den",
+        "start": 51.663,
+        "end": 51.803
+      },
+      {
+        "text": "besten",
+        "start": 51.823,
+        "end": 52.184
+      },
+      {
+        "text": "fünf",
+        "start": 52.204,
+        "end": 52.424
+      },
+      {
+        "text": "aller",
+        "start": 52.484,
+        "end": 52.704
+      },
+      {
+        "text": "Hofmagier.",
+        "start": 52.724,
+        "end": 53.344
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Seine Nekromantie war auch irgendwie ganz anders als deine.",
+    "start": 53.384,
+    "end": 56.066,
+    "words": [
+      {
+        "text": "Seine",
+        "start": 53.384,
+        "end": 53.585
+      },
+      {
+        "text": "Nekromantie",
+        "start": 53.605,
+        "end": 54.145
+      },
+      {
+        "text": "war",
+        "start": 54.165,
+        "end": 54.285
+      },
+      {
+        "text": "auch",
+        "start": 54.305,
+        "end": 54.445
+      },
+      {
+        "text": "irgendwie",
+        "start": 54.485,
+        "end": 54.865
+      },
+      {
+        "text": "ganz",
+        "start": 54.886,
+        "end": 55.066
+      },
+      {
+        "text": "anders",
+        "start": 55.106,
+        "end": 55.346
+      },
+      {
+        "text": "als",
+        "start": 55.366,
+        "end": 55.566
+      },
+      {
+        "text": "deine.",
+        "start": 55.586,
+        "end": 56.066
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich fand das immer total aufregend, als wären du und er zwei Seiten einer Medaille gewesen.",
+    "start": 56.086,
+    "end": 59.569,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 56.086,
+        "end": 56.166
+      },
+      {
+        "text": "fand",
+        "start": 56.186,
+        "end": 56.327
+      },
+      {
+        "text": "das",
+        "start": 56.347,
+        "end": 56.447
+      },
+      {
+        "text": "immer",
+        "start": 56.487,
+        "end": 56.647
+      },
+      {
+        "text": "total",
+        "start": 56.687,
+        "end": 56.967
+      },
+      {
+        "text": "aufregend,",
+        "start": 56.987,
+        "end": 57.327
+      },
+      {
+        "text": "als",
+        "start": 57.367,
+        "end": 57.507
+      },
+      {
+        "text": "wären",
+        "start": 57.527,
+        "end": 57.748
+      },
+      {
+        "text": "du",
+        "start": 57.768,
+        "end": 57.848
+      },
+      {
+        "text": "und",
+        "start": 57.888,
+        "end": 57.988
+      },
+      {
+        "text": "er",
+        "start": 58.028,
+        "end": 58.168
+      },
+      {
+        "text": "zwei",
+        "start": 58.208,
+        "end": 58.368
+      },
+      {
+        "text": "Seiten",
+        "start": 58.408,
+        "end": 58.648
+      },
+      {
+        "text": "einer",
+        "start": 58.668,
+        "end": 58.848
+      },
+      {
+        "text": "Medaille",
+        "start": 58.868,
+        "end": 59.169
+      },
+      {
+        "text": "gewesen.",
+        "start": 59.189,
+        "end": 59.569
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Da strömte jedes Mal so viel magische Kraft durch meine Blätteradern, dass ich...",
+    "start": 59.589,
+    "end": 62.311,
+    "words": [
+      {
+        "text": "Da",
+        "start": 59.589,
+        "end": 59.689
+      },
+      {
+        "text": "strömte",
+        "start": 59.709,
+        "end": 59.989
+      },
+      {
+        "text": "jedes",
+        "start": 60.029,
+        "end": 60.189
+      },
+      {
+        "text": "Mal",
+        "start": 60.249,
+        "end": 60.329
+      },
+      {
+        "text": "so",
+        "start": 60.349,
+        "end": 60.429
+      },
+      {
+        "text": "viel",
+        "start": 60.469,
+        "end": 60.59
+      },
+      {
+        "text": "magische",
+        "start": 60.61,
+        "end": 60.91
+      },
+      {
+        "text": "Kraft",
+        "start": 60.93,
+        "end": 61.11
+      },
+      {
+        "text": "durch",
+        "start": 61.13,
+        "end": 61.29
+      },
+      {
+        "text": "meine",
+        "start": 61.35,
+        "end": 61.49
+      },
+      {
+        "text": "Blätteradern,",
+        "start": 61.51,
+        "end": 62.031
+      },
+      {
+        "text": "dass",
+        "start": 62.051,
+        "end": 62.191
+      },
+      {
+        "text": "ich...",
+        "start": 62.231,
+        "end": 62.311
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Selbst nach hundert Jahren schnatterst du ohne Punkt und Komma vor dich hin.",
+    "start": 63.452,
+    "end": 67.754,
+    "words": [
+      {
+        "text": "Selbst",
+        "start": 63.452,
+        "end": 63.692
+      },
+      {
+        "text": "nach",
+        "start": 63.732,
+        "end": 63.892
+      },
+      {
+        "text": "hundert",
+        "start": 64.012,
+        "end": 64.332
+      },
+      {
+        "text": "Jahren",
+        "start": 64.372,
+        "end": 64.692
+      },
+      {
+        "text": "schnatterst",
+        "start": 64.732,
+        "end": 65.133
+      },
+      {
+        "text": "du",
+        "start": 65.173,
+        "end": 65.333
+      },
+      {
+        "text": "ohne",
+        "start": 65.393,
+        "end": 65.673
+      },
+      {
+        "text": "Punkt",
+        "start": 65.713,
+        "end": 65.953
+      },
+      {
+        "text": "und",
+        "start": 65.993,
+        "end": 66.153
+      },
+      {
+        "text": "Komma",
+        "start": 66.173,
+        "end": 66.513
+      },
+      {
+        "text": "vor",
+        "start": 66.533,
+        "end": 66.734
+      },
+      {
+        "text": "dich",
+        "start": 66.754,
+        "end": 66.894
+      },
+      {
+        "text": "hin.",
+        "start": 66.934,
+        "end": 67.754
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Wenn man sein Leben verlängert, verlangsamt sich anscheinend auch die eigene Entwicklung.",
+    "start": 67.774,
+    "end": 74.899,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 67.774,
+        "end": 67.974
+      },
+      {
+        "text": "man",
+        "start": 67.994,
+        "end": 68.175
+      },
+      {
+        "text": "sein",
+        "start": 68.195,
+        "end": 68.415
+      },
+      {
+        "text": "Leben",
+        "start": 68.435,
+        "end": 68.755
+      },
+      {
+        "text": "verlängert,",
+        "start": 68.775,
+        "end": 69.295
+      },
+      {
+        "text": "verlangsamt",
+        "start": 69.335,
+        "end": 69.896
+      },
+      {
+        "text": "sich",
+        "start": 69.916,
+        "end": 70.096
+      },
+      {
+        "text": "anscheinend",
+        "start": 70.116,
+        "end": 70.556
+      },
+      {
+        "text": "auch",
+        "start": 70.596,
+        "end": 70.776
+      },
+      {
+        "text": "die",
+        "start": 70.816,
+        "end": 70.956
+      },
+      {
+        "text": "eigene",
+        "start": 70.996,
+        "end": 71.377
+      },
+      {
+        "text": "Entwicklung.",
+        "start": 71.417,
+        "end": 74.899
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "So gesehen war mein dummer Schüler vielleicht sogar bis zuletzt ein kleines Kind.",
+    "start": 74.939,
+    "end": 79.542,
+    "words": [
+      {
+        "text": "So",
+        "start": 74.939,
+        "end": 75.119
+      },
+      {
+        "text": "gesehen",
+        "start": 75.159,
+        "end": 75.659
+      },
+      {
+        "text": "war",
+        "start": 75.699,
+        "end": 75.859
+      },
+      {
+        "text": "mein",
+        "start": 75.9,
+        "end": 76.08
+      },
+      {
+        "text": "dummer",
+        "start": 76.12,
+        "end": 76.44
+      },
+      {
+        "text": "Schüler",
+        "start": 76.48,
+        "end": 76.92
+      },
+      {
+        "text": "vielleicht",
+        "start": 76.96,
+        "end": 77.34
+      },
+      {
+        "text": "sogar",
+        "start": 77.36,
+        "end": 77.661
+      },
+      {
+        "text": "bis",
+        "start": 77.681,
+        "end": 77.941
+      },
+      {
+        "text": "zuletzt",
+        "start": 77.981,
+        "end": 78.581
+      },
+      {
+        "text": "ein",
+        "start": 78.621,
+        "end": 78.781
+      },
+      {
+        "text": "kleines",
+        "start": 78.821,
+        "end": 79.282
+      },
+      {
+        "text": "Kind.",
+        "start": 79.342,
+        "end": 79.542
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Selbst wenn, es ist doch nichts falsch daran jung zu bleiben.",
+    "start": 80.865,
+    "end": 83.926,
+    "words": [
+      {
+        "text": "Selbst",
+        "start": 80.865,
+        "end": 81.025
+      },
+      {
+        "text": "wenn,",
+        "start": 81.045,
+        "end": 81.565
+      },
+      {
+        "text": "es",
+        "start": 81.605,
+        "end": 81.685
+      },
+      {
+        "text": "ist",
+        "start": 81.725,
+        "end": 81.825
+      },
+      {
+        "text": "doch",
+        "start": 81.845,
+        "end": 81.965
+      },
+      {
+        "text": "nichts",
+        "start": 82.005,
+        "end": 82.185
+      },
+      {
+        "text": "falsch",
+        "start": 82.225,
+        "end": 82.466
+      },
+      {
+        "text": "daran",
+        "start": 82.486,
+        "end": 82.746
+      },
+      {
+        "text": "jung",
+        "start": 82.786,
+        "end": 82.986
+      },
+      {
+        "text": "zu",
+        "start": 83.026,
+        "end": 83.126
+      },
+      {
+        "text": "bleiben.",
+        "start": 83.166,
+        "end": 83.926
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Soweit ich mich erinnern kann, ist er immer ein lieber Junge gewesen.",
+    "start": 83.966,
+    "end": 87.447,
+    "words": [
+      {
+        "text": "Soweit",
+        "start": 83.966,
+        "end": 84.226
+      },
+      {
+        "text": "ich",
+        "start": 84.266,
+        "end": 84.346
+      },
+      {
+        "text": "mich",
+        "start": 84.386,
+        "end": 84.526
+      },
+      {
+        "text": "erinnern",
+        "start": 84.566,
+        "end": 84.906
+      },
+      {
+        "text": "kann,",
+        "start": 84.926,
+        "end": 85.326
+      },
+      {
+        "text": "ist",
+        "start": 85.366,
+        "end": 85.466
+      },
+      {
+        "text": "er",
+        "start": 85.526,
+        "end": 85.706
+      },
+      {
+        "text": "immer",
+        "start": 85.746,
+        "end": 85.946
+      },
+      {
+        "text": "ein",
+        "start": 85.966,
+        "end": 86.126
+      },
+      {
+        "text": "lieber",
+        "start": 86.146,
+        "end": 86.427
+      },
+      {
+        "text": "Junge",
+        "start": 86.467,
+        "end": 86.727
+      },
+      {
+        "text": "gewesen.",
+        "start": 86.747,
+        "end": 87.447
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Auf dem Schlachtfeld aber wirkte er jedes Mal wie ausgewechselt.",
+    "start": 87.467,
+    "end": 90.928,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 87.467,
+        "end": 87.587
+      },
+      {
+        "text": "dem",
+        "start": 87.607,
+        "end": 87.787
+      },
+      {
+        "text": "Schlachtfeld",
+        "start": 87.807,
+        "end": 88.307
+      },
+      {
+        "text": "aber",
+        "start": 88.347,
+        "end": 88.527
+      },
+      {
+        "text": "wirkte",
+        "start": 88.567,
+        "end": 88.827
+      },
+      {
+        "text": "er",
+        "start": 88.847,
+        "end": 89.007
+      },
+      {
+        "text": "jedes",
+        "start": 89.047,
+        "end": 89.267
+      },
+      {
+        "text": "Mal",
+        "start": 89.347,
+        "end": 89.507
+      },
+      {
+        "text": "wie",
+        "start": 89.527,
+        "end": 89.747
+      },
+      {
+        "text": "ausgewechselt.",
+        "start": 89.767,
+        "end": 90.928
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Wirklich?",
+    "start": 90.968,
+    "end": 92.088,
+    "words": [
+      {
+        "text": "Wirklich?",
+        "start": 90.968,
+        "end": 92.088
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Er?",
+    "start": 92.188,
+    "end": 93.268,
+    "words": [
+      {
+        "text": "Er?",
+        "start": 92.188,
+        "end": 93.268
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Ein lieber Junge?",
+    "start": 93.328,
+    "end": 95.229,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 93.328,
+        "end": 93.608
+      },
+      {
+        "text": "lieber",
+        "start": 93.648,
+        "end": 94.049
+      },
+      {
+        "text": "Junge?",
+        "start": 94.089,
+        "end": 95.229
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Da irrst du dich.",
+    "start": 95.249,
+    "end": 96.709,
+    "words": [
+      {
+        "text": "Da",
+        "start": 95.249,
+        "end": 95.529
+      },
+      {
+        "text": "irrst",
+        "start": 95.569,
+        "end": 95.829
+      },
+      {
+        "text": "du",
+        "start": 95.869,
+        "end": 95.969
+      },
+      {
+        "text": "dich.",
+        "start": 95.989,
+        "end": 96.709
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Und zwar gewaltig.",
+    "start": 96.749,
+    "end": 98.33,
+    "words": [
+      {
+        "text": "Und",
+        "start": 96.749,
+        "end": 96.929
+      },
+      {
+        "text": "zwar",
+        "start": 96.969,
+        "end": 97.129
+      },
+      {
+        "text": "gewaltig.",
+        "start": 97.169,
+        "end": 98.33
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ach ja?",
+    "start": 98.37,
+    "end": 99.09,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 98.37,
+        "end": 98.55
+      },
+      {
+        "text": "ja?",
+        "start": 98.59,
+        "end": 99.09
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Nun aber in einer Sache ist er mir weit voraus, nämlich...",
+    "start": 99.13,
+    "end": 102.671,
+    "words": [
+      {
+        "text": "Nun",
+        "start": 99.13,
+        "end": 99.49
+      },
+      {
+        "text": "aber",
+        "start": 99.53,
+        "end": 99.77
+      },
+      {
+        "text": "in",
+        "start": 99.81,
+        "end": 100.01
+      },
+      {
+        "text": "einer",
+        "start": 100.07,
+        "end": 100.33
+      },
+      {
+        "text": "Sache",
+        "start": 100.39,
+        "end": 100.73
+      },
+      {
+        "text": "ist",
+        "start": 100.77,
+        "end": 100.89
+      },
+      {
+        "text": "er",
+        "start": 100.93,
+        "end": 101.03
+      },
+      {
+        "text": "mir",
+        "start": 101.07,
+        "end": 101.21
+      },
+      {
+        "text": "weit",
+        "start": 101.25,
+        "end": 101.531
+      },
+      {
+        "text": "voraus,",
+        "start": 101.551,
+        "end": 102.271
+      },
+      {
+        "text": "nämlich...",
+        "start": 102.311,
+        "end": 102.671
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": " Empathie.",
+    "start": 104.12,
+    "end": 105.381,
+    "words": [
+      {
+        "text": "Empathie.",
+        "start": 104.12,
+        "end": 105.381
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Was?",
+    "start": 105.441,
+    "end": 105.741,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 105.441,
+        "end": 105.741
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Empathie?",
+    "start": 105.761,
+    "end": 106.801,
+    "words": [
+      {
+        "text": "Empathie?",
+        "start": 105.761,
+        "end": 106.801
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Ihm selbst war das gar nicht so bewusst.",
+    "start": 106.861,
+    "end": 109.042,
+    "words": [
+      {
+        "text": "Ihm",
+        "start": 106.861,
+        "end": 107.101
+      },
+      {
+        "text": "selbst",
+        "start": 107.141,
+        "end": 107.441
+      },
+      {
+        "text": "war",
+        "start": 107.481,
+        "end": 107.621
+      },
+      {
+        "text": "das",
+        "start": 107.641,
+        "end": 107.821
+      },
+      {
+        "text": "gar",
+        "start": 107.862,
+        "end": 108.022
+      },
+      {
+        "text": "nicht",
+        "start": 108.042,
+        "end": 108.222
+      },
+      {
+        "text": "so",
+        "start": 108.242,
+        "end": 108.382
+      },
+      {
+        "text": "bewusst.",
+        "start": 108.422,
+        "end": 109.042
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Aber er hat das Wohl anderer immer über sein eigenes gestellt.",
+    "start": 109.102,
+    "end": 112.363,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 109.102,
+        "end": 109.242
+      },
+      {
+        "text": "er",
+        "start": 109.282,
+        "end": 109.382
+      },
+      {
+        "text": "hat",
+        "start": 109.422,
+        "end": 109.542
+      },
+      {
+        "text": "das",
+        "start": 109.562,
+        "end": 109.742
+      },
+      {
+        "text": "Wohl",
+        "start": 109.762,
+        "end": 109.982
+      },
+      {
+        "text": "anderer",
+        "start": 110.002,
+        "end": 110.402
+      },
+      {
+        "text": "immer",
+        "start": 110.442,
+        "end": 110.723
+      },
+      {
+        "text": "über",
+        "start": 110.763,
+        "end": 110.963
+      },
+      {
+        "text": "sein",
+        "start": 110.983,
+        "end": 111.203
+      },
+      {
+        "text": "eigenes",
+        "start": 111.243,
+        "end": 111.683
+      },
+      {
+        "text": "gestellt.",
+        "start": 111.723,
+        "end": 112.363
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Wenn er sich zu jemandem zugehörig fühlt, dann tut er einfach alles für denjenigen.",
+    "start": 112.383,
+    "end": 116.625,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 112.383,
+        "end": 112.543
+      },
+      {
+        "text": "er",
+        "start": 112.583,
+        "end": 112.723
+      },
+      {
+        "text": "sich",
+        "start": 112.743,
+        "end": 112.903
+      },
+      {
+        "text": "zu",
+        "start": 112.943,
+        "end": 113.043
+      },
+      {
+        "text": "jemandem",
+        "start": 113.084,
+        "end": 113.564
+      },
+      {
+        "text": "zugehörig",
+        "start": 113.584,
+        "end": 114.184
+      },
+      {
+        "text": "fühlt,",
+        "start": 114.224,
+        "end": 114.464
+      },
+      {
+        "text": "dann",
+        "start": 114.484,
+        "end": 114.664
+      },
+      {
+        "text": "tut",
+        "start": 114.684,
+        "end": 114.844
+      },
+      {
+        "text": "er",
+        "start": 114.904,
+        "end": 115.044
+      },
+      {
+        "text": "einfach",
+        "start": 115.084,
+        "end": 115.524
+      },
+      {
+        "text": "alles",
+        "start": 115.544,
+        "end": 115.925
+      },
+      {
+        "text": "für",
+        "start": 115.945,
+        "end": 116.085
+      },
+      {
+        "text": "denjenigen.",
+        "start": 116.125,
+        "end": 116.625
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": " Und dadurch ist er deutlich besser als ich, was die Synchronisation mit Geistern angeht.",
+    "start": 117.877,
+    "end": 123.323,
+    "words": [
+      {
+        "text": "Und",
+        "start": 117.877,
+        "end": 118.057
+      },
+      {
+        "text": "dadurch",
+        "start": 118.077,
+        "end": 118.398
+      },
+      {
+        "text": "ist",
+        "start": 118.438,
+        "end": 118.578
+      },
+      {
+        "text": "er",
+        "start": 118.638,
+        "end": 118.778
+      },
+      {
+        "text": "deutlich",
+        "start": 118.798,
+        "end": 119.219
+      },
+      {
+        "text": "besser",
+        "start": 119.239,
+        "end": 119.479
+      },
+      {
+        "text": "als",
+        "start": 119.519,
+        "end": 119.719
+      },
+      {
+        "text": "ich,",
+        "start": 119.759,
+        "end": 119.939
+      },
+      {
+        "text": "was",
+        "start": 119.979,
+        "end": 120.119
+      },
+      {
+        "text": "die",
+        "start": 120.16,
+        "end": 120.26
+      },
+      {
+        "text": "Synchronisation",
+        "start": 120.28,
+        "end": 121.201
+      },
+      {
+        "text": "mit",
+        "start": 121.221,
+        "end": 121.381
+      },
+      {
+        "text": "Geistern",
+        "start": 121.421,
+        "end": 121.921
+      },
+      {
+        "text": "angeht.",
+        "start": 121.981,
+        "end": 123.323
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Und ich nehme an, dass das wohl auch der Grund ist, dass es ihm überhaupt nichts ausmacht, wenn er selbst zu Schaden kommt.",
+    "start": 123.363,
+    "end": 131.131,
+    "words": [
+      {
+        "text": "Und",
+        "start": 123.363,
+        "end": 123.563
+      },
+      {
+        "text": "ich",
+        "start": 123.623,
+        "end": 123.743
+      },
+      {
+        "text": "nehme",
+        "start": 123.783,
+        "end": 124.124
+      },
+      {
+        "text": "an,",
+        "start": 124.164,
+        "end": 124.944
+      },
+      {
+        "text": "dass",
+        "start": 124.964,
+        "end": 125.225
+      },
+      {
+        "text": "das",
+        "start": 125.245,
+        "end": 125.465
+      },
+      {
+        "text": "wohl",
+        "start": 125.485,
+        "end": 125.665
+      },
+      {
+        "text": "auch",
+        "start": 125.685,
+        "end": 125.885
+      },
+      {
+        "text": "der",
+        "start": 125.905,
+        "end": 126.046
+      },
+      {
+        "text": "Grund",
+        "start": 126.086,
+        "end": 126.406
+      },
+      {
+        "text": "ist,",
+        "start": 126.446,
+        "end": 127.107
+      },
+      {
+        "text": "dass",
+        "start": 127.147,
+        "end": 127.327
+      },
+      {
+        "text": "es",
+        "start": 127.387,
+        "end": 127.507
+      },
+      {
+        "text": "ihm",
+        "start": 127.547,
+        "end": 127.727
+      },
+      {
+        "text": "überhaupt",
+        "start": 127.747,
+        "end": 128.188
+      },
+      {
+        "text": "nichts",
+        "start": 128.208,
+        "end": 128.488
+      },
+      {
+        "text": "ausmacht,",
+        "start": 128.528,
+        "end": 129.009
+      },
+      {
+        "text": "wenn",
+        "start": 129.029,
+        "end": 129.209
+      },
+      {
+        "text": "er",
+        "start": 129.229,
+        "end": 129.389
+      },
+      {
+        "text": "selbst",
+        "start": 129.409,
+        "end": 129.709
+      },
+      {
+        "text": "zu",
+        "start": 129.749,
+        "end": 129.849
+      },
+      {
+        "text": "Schaden",
+        "start": 129.889,
+        "end": 130.27
+      },
+      {
+        "text": "kommt.",
+        "start": 130.31,
+        "end": 131.131
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Aber wenn seine Familie angegriffen wird, dann ist er, unser Leichengott, nicht mehr aufzuhalten.",
+    "start": 131.191,
+    "end": 139.099,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 131.191,
+        "end": 131.451
+      },
+      {
+        "text": "wenn",
+        "start": 131.471,
+        "end": 131.751
+      },
+      {
+        "text": "seine",
+        "start": 131.791,
+        "end": 132.092
+      },
+      {
+        "text": "Familie",
+        "start": 132.152,
+        "end": 132.772
+      },
+      {
+        "text": "angegriffen",
+        "start": 132.812,
+        "end": 133.473
+      },
+      {
+        "text": "wird,",
+        "start": 133.513,
+        "end": 134.534
+      },
+      {
+        "text": "dann",
+        "start": 134.574,
+        "end": 134.794
+      },
+      {
+        "text": "ist",
+        "start": 134.835,
+        "end": 135.075
+      },
+      {
+        "text": "er,",
+        "start": 135.155,
+        "end": 135.695
+      },
+      {
+        "text": "unser",
+        "start": 135.755,
+        "end": 136.096
+      },
+      {
+        "text": "Leichengott,",
+        "start": 136.156,
+        "end": 137.457
+      },
+      {
+        "text": "nicht",
+        "start": 137.497,
+        "end": 137.858
+      },
+      {
+        "text": "mehr",
+        "start": 137.898,
+        "end": 138.258
+      },
+      {
+        "text": "aufzuhalten.",
+        "start": 138.338,
+        "end": 139.099
+      }
+    ]
+  }
+]

@@ -1,0 +1,815 @@
+[
+  {
+    "id": 0,
+    "text": " Echt ein übler Traum, selbst für meine Verhältnisse.",
+    "start": 0.071,
+    "end": 4.394,
+    "words": [
+      {
+        "text": "Echt",
+        "start": 0.071,
+        "end": 0.852
+      },
+      {
+        "text": "ein",
+        "start": 0.912,
+        "end": 1.092
+      },
+      {
+        "text": "übler",
+        "start": 1.132,
+        "end": 1.452
+      },
+      {
+        "text": "Traum,",
+        "start": 1.492,
+        "end": 1.872
+      },
+      {
+        "text": "selbst",
+        "start": 1.932,
+        "end": 2.192
+      },
+      {
+        "text": "für",
+        "start": 2.212,
+        "end": 2.393
+      },
+      {
+        "text": "meine",
+        "start": 2.433,
+        "end": 2.713
+      },
+      {
+        "text": "Verhältnisse.",
+        "start": 2.753,
+        "end": 4.394
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Bitteschön, Senpai.",
+    "start": 4.414,
+    "end": 5.675,
+    "words": [
+      {
+        "text": "Bitteschön,",
+        "start": 4.414,
+        "end": 4.994
+      },
+      {
+        "text": "Senpai.",
+        "start": 5.014,
+        "end": 5.675
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich hab dir was ganz Leckeres gemacht.",
+    "start": 5.735,
+    "end": 7.216,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 5.735,
+        "end": 5.815
+      },
+      {
+        "text": "hab",
+        "start": 5.835,
+        "end": 5.955
+      },
+      {
+        "text": "dir",
+        "start": 5.975,
+        "end": 6.115
+      },
+      {
+        "text": "was",
+        "start": 6.135,
+        "end": 6.255
+      },
+      {
+        "text": "ganz",
+        "start": 6.275,
+        "end": 6.495
+      },
+      {
+        "text": "Leckeres",
+        "start": 6.515,
+        "end": 6.936
+      },
+      {
+        "text": "gemacht.",
+        "start": 6.956,
+        "end": 7.216
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Okay.",
+    "start": 7.816,
+    "end": 12.299,
+    "words": [
+      {
+        "text": "Okay.",
+        "start": 7.816,
+        "end": 12.299
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Sag.",
+    "start": 12.359,
+    "end": 13.26,
+    "words": [
+      {
+        "text": "Sag.",
+        "start": 12.359,
+        "end": 13.26
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ah!",
+    "start": 13.34,
+    "end": 19.304,
+    "words": [
+      {
+        "text": "Ah!",
+        "start": 13.34,
+        "end": 19.304
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Na los, sag schon.",
+    "start": 19.364,
+    "end": 20.325,
+    "words": [
+      {
+        "text": "Na",
+        "start": 19.364,
+        "end": 19.524
+      },
+      {
+        "text": "los,",
+        "start": 19.564,
+        "end": 19.784
+      },
+      {
+        "text": "sag",
+        "start": 19.824,
+        "end": 20.044
+      },
+      {
+        "text": "schon.",
+        "start": 20.064,
+        "end": 20.325
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Schmeckt es dir?",
+    "start": 20.365,
+    "end": 21.545,
+    "words": [
+      {
+        "text": "Schmeckt",
+        "start": 20.365,
+        "end": 20.665
+      },
+      {
+        "text": "es",
+        "start": 20.725,
+        "end": 20.825
+      },
+      {
+        "text": "dir?",
+        "start": 20.865,
+        "end": 21.545
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ja, sehr lecker.",
+    "start": 21.605,
+    "end": 22.926,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 21.605,
+        "end": 21.966
+      },
+      {
+        "text": "sehr",
+        "start": 22.006,
+        "end": 22.186
+      },
+      {
+        "text": "lecker.",
+        "start": 22.226,
+        "end": 22.926
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Nicht wahr?",
+    "start": 23.026,
+    "end": 24.007,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 23.026,
+        "end": 23.327
+      },
+      {
+        "text": "wahr?",
+        "start": 23.407,
+        "end": 24.007
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Bedank dich bei deiner Ehefrau.",
+    "start": 24.027,
+    "end": 26.108,
+    "words": [
+      {
+        "text": "Bedank",
+        "start": 24.027,
+        "end": 24.387
+      },
+      {
+        "text": "dich",
+        "start": 24.407,
+        "end": 24.527
+      },
+      {
+        "text": "bei",
+        "start": 24.547,
+        "end": 24.667
+      },
+      {
+        "text": "deiner",
+        "start": 24.687,
+        "end": 24.948
+      },
+      {
+        "text": "Ehefrau.",
+        "start": 25.008,
+        "end": 26.108
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Die für dich ganz lieb gekocht hat.",
+    "start": 26.128,
+    "end": 27.789,
+    "words": [
+      {
+        "text": "Die",
+        "start": 26.128,
+        "end": 26.288
+      },
+      {
+        "text": "für",
+        "start": 26.309,
+        "end": 26.409
+      },
+      {
+        "text": "dich",
+        "start": 26.429,
+        "end": 26.569
+      },
+      {
+        "text": "ganz",
+        "start": 26.589,
+        "end": 26.949
+      },
+      {
+        "text": "lieb",
+        "start": 26.989,
+        "end": 27.209
+      },
+      {
+        "text": "gekocht",
+        "start": 27.249,
+        "end": 27.589
+      },
+      {
+        "text": "hat.",
+        "start": 27.629,
+        "end": 27.789
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ja.",
+    "start": 27.81,
+    "end": 27.89,
+    "words": [
+      {
+        "text": "Ja.",
+        "start": 27.81,
+        "end": 27.89
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Hab vielen lieben Dank, Hayase.",
+    "start": 30.17,
+    "end": 45.983,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 30.17,
+        "end": 30.45
+      },
+      {
+        "text": "vielen",
+        "start": 30.49,
+        "end": 30.75
+      },
+      {
+        "text": "lieben",
+        "start": 30.771,
+        "end": 31.031
+      },
+      {
+        "text": "Dank,",
+        "start": 31.051,
+        "end": 31.851
+      },
+      {
+        "text": "Hayase.",
+        "start": 31.911,
+        "end": 45.983
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Na, wie war das gerade?",
+    "start": 46.123,
+    "end": 53.089,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 46.123,
+        "end": 51.788
+      },
+      {
+        "text": "wie",
+        "start": 51.828,
+        "end": 51.988
+      },
+      {
+        "text": "war",
+        "start": 52.028,
+        "end": 52.148
+      },
+      {
+        "text": "das",
+        "start": 52.168,
+        "end": 52.369
+      },
+      {
+        "text": "gerade?",
+        "start": 52.429,
+        "end": 53.089
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wie war das?",
+    "start": 53.149,
+    "end": 58.334,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 53.149,
+        "end": 53.309
+      },
+      {
+        "text": "war",
+        "start": 53.349,
+        "end": 53.53
+      },
+      {
+        "text": "das?",
+        "start": 53.57,
+        "end": 58.334
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Shit.",
+    "start": 58.374,
+    "end": 58.634,
+    "words": [
+      {
+        "text": "Shit.",
+        "start": 58.374,
+        "end": 58.634
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Na, wie war das?",
+    "start": 67.504,
+    "end": 68.684,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 67.504,
+        "end": 67.744
+      },
+      {
+        "text": "wie",
+        "start": 67.764,
+        "end": 67.864
+      },
+      {
+        "text": "war",
+        "start": 67.904,
+        "end": 68.084
+      },
+      {
+        "text": "das?",
+        "start": 68.124,
+        "end": 68.684
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Was hast du gerade eben zu mir gesagt?",
+    "start": 68.724,
+    "end": 70.245,
+    "words": [
+      {
+        "text": "Was",
+        "start": 68.724,
+        "end": 68.844
+      },
+      {
+        "text": "hast",
+        "start": 68.884,
+        "end": 69.005
+      },
+      {
+        "text": "du",
+        "start": 69.025,
+        "end": 69.105
+      },
+      {
+        "text": "gerade",
+        "start": 69.125,
+        "end": 69.425
+      },
+      {
+        "text": "eben",
+        "start": 69.465,
+        "end": 69.665
+      },
+      {
+        "text": "zu",
+        "start": 69.685,
+        "end": 69.785
+      },
+      {
+        "text": "mir",
+        "start": 69.805,
+        "end": 69.925
+      },
+      {
+        "text": "gesagt?",
+        "start": 69.965,
+        "end": 70.245
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Wiederhol's doch mal.",
+    "start": 70.265,
+    "end": 80.348,
+    "words": [
+      {
+        "text": "Wiederhol's",
+        "start": 70.265,
+        "end": 70.685
+      },
+      {
+        "text": "doch",
+        "start": 70.705,
+        "end": 70.885
+      },
+      {
+        "text": "mal.",
+        "start": 70.905,
+        "end": 80.348
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich find's wirklich schön, wenn du es nochmal sagen würdest.",
+    "start": 80.408,
+    "end": 84.649,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 80.408,
+        "end": 80.488
+      },
+      {
+        "text": "find's",
+        "start": 80.528,
+        "end": 80.788
+      },
+      {
+        "text": "wirklich",
+        "start": 80.828,
+        "end": 81.128
+      },
+      {
+        "text": "schön,",
+        "start": 81.168,
+        "end": 81.428
+      },
+      {
+        "text": "wenn",
+        "start": 81.448,
+        "end": 81.588
+      },
+      {
+        "text": "du",
+        "start": 81.608,
+        "end": 81.688
+      },
+      {
+        "text": "es",
+        "start": 81.728,
+        "end": 81.788
+      },
+      {
+        "text": "nochmal",
+        "start": 81.828,
+        "end": 82.248
+      },
+      {
+        "text": "sagen",
+        "start": 82.288,
+        "end": 82.548
+      },
+      {
+        "text": "würdest.",
+        "start": 82.588,
+        "end": 84.649
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Denn wenn du dich nur totstellst, geb ich dir vielleicht ja ein Küsschen.",
+    "start": 84.669,
+    "end": 91.471,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 84.669,
+        "end": 84.889
+      },
+      {
+        "text": "wenn",
+        "start": 84.909,
+        "end": 85.029
+      },
+      {
+        "text": "du",
+        "start": 85.069,
+        "end": 85.129
+      },
+      {
+        "text": "dich",
+        "start": 85.169,
+        "end": 85.349
+      },
+      {
+        "text": "nur",
+        "start": 85.369,
+        "end": 85.549
+      },
+      {
+        "text": "totstellst,",
+        "start": 85.609,
+        "end": 89.19
+      },
+      {
+        "text": "geb",
+        "start": 89.23,
+        "end": 89.39
+      },
+      {
+        "text": "ich",
+        "start": 89.41,
+        "end": 89.53
+      },
+      {
+        "text": "dir",
+        "start": 89.65,
+        "end": 90.271
+      },
+      {
+        "text": "vielleicht",
+        "start": 90.311,
+        "end": 90.671
+      },
+      {
+        "text": "ja",
+        "start": 90.691,
+        "end": 90.771
+      },
+      {
+        "text": "ein",
+        "start": 90.791,
+        "end": 90.971
+      },
+      {
+        "text": "Küsschen.",
+        "start": 91.031,
+        "end": 91.471
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Ja?",
+    "start": 93.552,
+    "end": 94.352,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 93.552,
+        "end": 94.352
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ja?",
+    "start": 94.432,
+    "end": 95.153,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 94.432,
+        "end": 95.153
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ja?",
+    "start": 95.213,
+    "end": 95.693,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 95.213,
+        "end": 95.693
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Soll ich's mal machen?",
+    "start": 95.733,
+    "end": 96.693,
+    "words": [
+      {
+        "text": "Soll",
+        "start": 95.733,
+        "end": 95.893
+      },
+      {
+        "text": "ich's",
+        "start": 95.913,
+        "end": 96.033
+      },
+      {
+        "text": "mal",
+        "start": 96.093,
+        "end": 96.313
+      },
+      {
+        "text": "machen?",
+        "start": 96.353,
+        "end": 96.693
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Sicher?",
+    "start": 96.733,
+    "end": 97.413,
+    "words": [
+      {
+        "text": "Sicher?",
+        "start": 96.733,
+        "end": 97.413
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Senpai?",
+    "start": 97.453,
+    "end": 105.916,
+    "words": [
+      {
+        "text": "Senpai?",
+        "start": 97.453,
+        "end": 105.916
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ja?",
+    "start": 105.956,
+    "end": 106.717,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 105.956,
+        "end": 106.717
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Soll ich?",
+    "start": 106.737,
+    "end": 108.957,
+    "words": [
+      {
+        "text": "Soll",
+        "start": 106.737,
+        "end": 106.977
+      },
+      {
+        "text": "ich?",
+        "start": 106.997,
+        "end": 108.957
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Ich bin wieder da!",
+    "start": 108.997,
+    "end": 109.537,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 108.997,
+        "end": 109.097
+      },
+      {
+        "text": "bin",
+        "start": 109.137,
+        "end": 109.277
+      },
+      {
+        "text": "wieder",
+        "start": 109.297,
+        "end": 109.457
+      },
+      {
+        "text": "da!",
+        "start": 109.497,
+        "end": 109.537
+      }
+    ]
+  }
+]

@@ -1,0 +1,1024 @@
+[
+  {
+    "id": 0,
+    "text": " Wir sollten so schnell wie möglich das Elixier finden und keine Zeit verlieren.",
+    "start": 0.251,
+    "end": 3.912,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 0.251,
+        "end": 0.331
+      },
+      {
+        "text": "sollten",
+        "start": 0.351,
+        "end": 0.611
+      },
+      {
+        "text": "so",
+        "start": 0.651,
+        "end": 0.711
+      },
+      {
+        "text": "schnell",
+        "start": 0.731,
+        "end": 0.971
+      },
+      {
+        "text": "wie",
+        "start": 1.011,
+        "end": 1.131
+      },
+      {
+        "text": "möglich",
+        "start": 1.151,
+        "end": 1.431
+      },
+      {
+        "text": "das",
+        "start": 1.451,
+        "end": 1.632
+      },
+      {
+        "text": "Elixier",
+        "start": 1.652,
+        "end": 2.152
+      },
+      {
+        "text": "finden",
+        "start": 2.172,
+        "end": 2.452
+      },
+      {
+        "text": "und",
+        "start": 2.492,
+        "end": 2.712
+      },
+      {
+        "text": "keine",
+        "start": 2.732,
+        "end": 2.992
+      },
+      {
+        "text": "Zeit",
+        "start": 3.032,
+        "end": 3.312
+      },
+      {
+        "text": "verlieren.",
+        "start": 3.352,
+        "end": 3.912
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Aber ohne Plan hier rumspazieren hat auch keinen Sinn.",
+    "start": 3.952,
+    "end": 6.733,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 3.952,
+        "end": 4.132
+      },
+      {
+        "text": "ohne",
+        "start": 4.172,
+        "end": 4.393
+      },
+      {
+        "text": "Plan",
+        "start": 4.433,
+        "end": 4.653
+      },
+      {
+        "text": "hier",
+        "start": 4.693,
+        "end": 4.773
+      },
+      {
+        "text": "rumspazieren",
+        "start": 4.833,
+        "end": 5.453
+      },
+      {
+        "text": "hat",
+        "start": 5.473,
+        "end": 5.633
+      },
+      {
+        "text": "auch",
+        "start": 5.653,
+        "end": 5.813
+      },
+      {
+        "text": "keinen",
+        "start": 5.853,
+        "end": 6.033
+      },
+      {
+        "text": "Sinn.",
+        "start": 6.073,
+        "end": 6.733
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Hast du nicht noch groß getönt, dass du enttäuscht von mir bist?",
+    "start": 6.753,
+    "end": 9.514,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 6.753,
+        "end": 6.953
+      },
+      {
+        "text": "du",
+        "start": 6.973,
+        "end": 7.093
+      },
+      {
+        "text": "nicht",
+        "start": 7.113,
+        "end": 7.253
+      },
+      {
+        "text": "noch",
+        "start": 7.294,
+        "end": 7.414
+      },
+      {
+        "text": "groß",
+        "start": 7.434,
+        "end": 7.614
+      },
+      {
+        "text": "getönt,",
+        "start": 7.654,
+        "end": 7.954
+      },
+      {
+        "text": "dass",
+        "start": 7.974,
+        "end": 8.094
+      },
+      {
+        "text": "du",
+        "start": 8.134,
+        "end": 8.234
+      },
+      {
+        "text": "enttäuscht",
+        "start": 8.274,
+        "end": 8.614
+      },
+      {
+        "text": "von",
+        "start": 8.634,
+        "end": 8.774
+      },
+      {
+        "text": "mir",
+        "start": 8.814,
+        "end": 8.914
+      },
+      {
+        "text": "bist?",
+        "start": 8.954,
+        "end": 9.514
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ach echt?",
+    "start": 9.594,
+    "end": 10.595,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 9.594,
+        "end": 9.794
+      },
+      {
+        "text": "echt?",
+        "start": 10.054,
+        "end": 10.595
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Daran kann ich mich gar nicht mehr erinnern.",
+    "start": 10.635,
+    "end": 12.215,
+    "words": [
+      {
+        "text": "Daran",
+        "start": 10.635,
+        "end": 10.895
+      },
+      {
+        "text": "kann",
+        "start": 10.935,
+        "end": 11.075
+      },
+      {
+        "text": "ich",
+        "start": 11.095,
+        "end": 11.195
+      },
+      {
+        "text": "mich",
+        "start": 11.215,
+        "end": 11.335
+      },
+      {
+        "text": "gar",
+        "start": 11.375,
+        "end": 11.495
+      },
+      {
+        "text": "nicht",
+        "start": 11.515,
+        "end": 11.635
+      },
+      {
+        "text": "mehr",
+        "start": 11.675,
+        "end": 11.815
+      },
+      {
+        "text": "erinnern.",
+        "start": 11.855,
+        "end": 12.215
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Naja, wenn alle Anwesenden damit einverstanden sind, sollte das kein Problem darstellen.",
+    "start": 12.895,
+    "end": 17.137,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 12.895,
+        "end": 13.536
+      },
+      {
+        "text": "wenn",
+        "start": 13.556,
+        "end": 13.756
+      },
+      {
+        "text": "alle",
+        "start": 13.776,
+        "end": 13.976
+      },
+      {
+        "text": "Anwesenden",
+        "start": 13.996,
+        "end": 14.456
+      },
+      {
+        "text": "damit",
+        "start": 14.476,
+        "end": 14.716
+      },
+      {
+        "text": "einverstanden",
+        "start": 14.736,
+        "end": 15.336
+      },
+      {
+        "text": "sind,",
+        "start": 15.376,
+        "end": 15.796
+      },
+      {
+        "text": "sollte",
+        "start": 15.816,
+        "end": 16.057
+      },
+      {
+        "text": "das",
+        "start": 16.077,
+        "end": 16.237
+      },
+      {
+        "text": "kein",
+        "start": 16.257,
+        "end": 16.397
+      },
+      {
+        "text": "Problem",
+        "start": 16.437,
+        "end": 16.717
+      },
+      {
+        "text": "darstellen.",
+        "start": 16.757,
+        "end": 17.137
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Das finde ich auch!",
+    "start": 17.677,
+    "end": 18.617,
+    "words": [
+      {
+        "text": "Das",
+        "start": 17.677,
+        "end": 17.857
+      },
+      {
+        "text": "finde",
+        "start": 17.897,
+        "end": 18.057
+      },
+      {
+        "text": "ich",
+        "start": 18.097,
+        "end": 18.237
+      },
+      {
+        "text": "auch!",
+        "start": 18.277,
+        "end": 18.617
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich hab dich so lieb, Gabi!",
+    "start": 18.657,
+    "end": 19.798,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 18.657,
+        "end": 18.737
+      },
+      {
+        "text": "hab",
+        "start": 18.757,
+        "end": 18.918
+      },
+      {
+        "text": "dich",
+        "start": 18.938,
+        "end": 19.098
+      },
+      {
+        "text": "so",
+        "start": 19.138,
+        "end": 19.218
+      },
+      {
+        "text": "lieb,",
+        "start": 19.318,
+        "end": 19.498
+      },
+      {
+        "text": "Gabi!",
+        "start": 19.518,
+        "end": 19.798
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Aua, aua, was soll das denn wieder?",
+    "start": 19.898,
+    "end": 21.779,
+    "words": [
+      {
+        "text": "Aua,",
+        "start": 19.898,
+        "end": 20.238
+      },
+      {
+        "text": "aua,",
+        "start": 20.298,
+        "end": 20.498
+      },
+      {
+        "text": "was",
+        "start": 20.518,
+        "end": 20.678
+      },
+      {
+        "text": "soll",
+        "start": 20.698,
+        "end": 20.858
+      },
+      {
+        "text": "das",
+        "start": 20.898,
+        "end": 21.138
+      },
+      {
+        "text": "denn",
+        "start": 21.158,
+        "end": 21.358
+      },
+      {
+        "text": "wieder?",
+        "start": 21.398,
+        "end": 21.779
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Aua, aua!",
+    "start": 21.839,
+    "end": 22.419,
+    "words": [
+      {
+        "text": "Aua,",
+        "start": 21.839,
+        "end": 22.099
+      },
+      {
+        "text": "aua!",
+        "start": 22.159,
+        "end": 22.419
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich hab noch nicht zugestimmt.",
+    "start": 22.499,
+    "end": 23.799,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 22.499,
+        "end": 22.619
+      },
+      {
+        "text": "hab",
+        "start": 22.639,
+        "end": 22.799
+      },
+      {
+        "text": "noch",
+        "start": 22.819,
+        "end": 22.999
+      },
+      {
+        "text": "nicht",
+        "start": 23.019,
+        "end": 23.199
+      },
+      {
+        "text": "zugestimmt.",
+        "start": 23.219,
+        "end": 23.799
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Als würde ich jemandem wie dir blind vertrauen.",
+    "start": 23.839,
+    "end": 25.56,
+    "words": [
+      {
+        "text": "Als",
+        "start": 23.839,
+        "end": 23.979
+      },
+      {
+        "text": "würde",
+        "start": 24.019,
+        "end": 24.119
+      },
+      {
+        "text": "ich",
+        "start": 24.139,
+        "end": 24.219
+      },
+      {
+        "text": "jemandem",
+        "start": 24.259,
+        "end": 24.639
+      },
+      {
+        "text": "wie",
+        "start": 24.659,
+        "end": 24.78
+      },
+      {
+        "text": "dir",
+        "start": 24.8,
+        "end": 24.92
+      },
+      {
+        "text": "blind",
+        "start": 24.94,
+        "end": 25.2
+      },
+      {
+        "text": "vertrauen.",
+        "start": 25.22,
+        "end": 25.56
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": " Als ob es hierbei um sowas wie Vertrauen geht.",
+    "start": 26.853,
+    "end": 28.934,
+    "words": [
+      {
+        "text": "Als",
+        "start": 26.853,
+        "end": 26.973
+      },
+      {
+        "text": "ob",
+        "start": 27.013,
+        "end": 27.093
+      },
+      {
+        "text": "es",
+        "start": 27.133,
+        "end": 27.213
+      },
+      {
+        "text": "hierbei",
+        "start": 27.233,
+        "end": 27.453
+      },
+      {
+        "text": "um",
+        "start": 27.514,
+        "end": 27.594
+      },
+      {
+        "text": "sowas",
+        "start": 27.614,
+        "end": 27.874
+      },
+      {
+        "text": "wie",
+        "start": 27.894,
+        "end": 28.054
+      },
+      {
+        "text": "Vertrauen",
+        "start": 28.094,
+        "end": 28.514
+      },
+      {
+        "text": "geht.",
+        "start": 28.554,
+        "end": 28.934
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Wir sind doch keine Kinder mehr.",
+    "start": 28.974,
+    "end": 34.778,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 28.974,
+        "end": 29.094
+      },
+      {
+        "text": "sind",
+        "start": 29.114,
+        "end": 29.255
+      },
+      {
+        "text": "doch",
+        "start": 29.295,
+        "end": 29.475
+      },
+      {
+        "text": "keine",
+        "start": 29.495,
+        "end": 29.775
+      },
+      {
+        "text": "Kinder",
+        "start": 29.815,
+        "end": 30.095
+      },
+      {
+        "text": "mehr.",
+        "start": 30.255,
+        "end": 34.778
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wir alle können uns jederzeit hintergehen.",
+    "start": 34.818,
+    "end": 37.64,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 34.818,
+        "end": 34.938
+      },
+      {
+        "text": "alle",
+        "start": 35.018,
+        "end": 35.458
+      },
+      {
+        "text": "können",
+        "start": 35.478,
+        "end": 35.679
+      },
+      {
+        "text": "uns",
+        "start": 35.719,
+        "end": 35.819
+      },
+      {
+        "text": "jederzeit",
+        "start": 35.839,
+        "end": 36.319
+      },
+      {
+        "text": "hintergehen.",
+        "start": 36.359,
+        "end": 37.64
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Es kann doch sowieso nur eine Person das Elixier finden und begnadigt werden.",
+    "start": 37.7,
+    "end": 41.402,
+    "words": [
+      {
+        "text": "Es",
+        "start": 37.7,
+        "end": 37.76
+      },
+      {
+        "text": "kann",
+        "start": 37.78,
+        "end": 37.92
+      },
+      {
+        "text": "doch",
+        "start": 37.94,
+        "end": 38.06
+      },
+      {
+        "text": "sowieso",
+        "start": 38.1,
+        "end": 38.44
+      },
+      {
+        "text": "nur",
+        "start": 38.48,
+        "end": 38.64
+      },
+      {
+        "text": "eine",
+        "start": 38.68,
+        "end": 38.881
+      },
+      {
+        "text": "Person",
+        "start": 38.901,
+        "end": 39.141
+      },
+      {
+        "text": "das",
+        "start": 39.161,
+        "end": 39.281
+      },
+      {
+        "text": "Elixier",
+        "start": 39.301,
+        "end": 39.761
+      },
+      {
+        "text": "finden",
+        "start": 39.781,
+        "end": 39.981
+      },
+      {
+        "text": "und",
+        "start": 40.021,
+        "end": 40.181
+      },
+      {
+        "text": "begnadigt",
+        "start": 40.201,
+        "end": 40.662
+      },
+      {
+        "text": "werden.",
+        "start": 40.682,
+        "end": 41.402
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Also schlag ich vor, dass wir einander ausnutzen, solange es geht.",
+    "start": 41.442,
+    "end": 44.864,
+    "words": [
+      {
+        "text": "Also",
+        "start": 41.442,
+        "end": 41.622
+      },
+      {
+        "text": "schlag",
+        "start": 41.642,
+        "end": 41.862
+      },
+      {
+        "text": "ich",
+        "start": 41.902,
+        "end": 41.982
+      },
+      {
+        "text": "vor,",
+        "start": 42.042,
+        "end": 42.163
+      },
+      {
+        "text": "dass",
+        "start": 42.183,
+        "end": 42.303
+      },
+      {
+        "text": "wir",
+        "start": 42.343,
+        "end": 42.443
+      },
+      {
+        "text": "einander",
+        "start": 42.463,
+        "end": 42.863
+      },
+      {
+        "text": "ausnutzen,",
+        "start": 42.883,
+        "end": 43.403
+      },
+      {
+        "text": "solange",
+        "start": 43.443,
+        "end": 43.864
+      },
+      {
+        "text": "es",
+        "start": 43.904,
+        "end": 43.984
+      },
+      {
+        "text": "geht.",
+        "start": 44.024,
+        "end": 44.864
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Oder hast du etwa Angst vor mir?",
+    "start": 44.924,
+    "end": 46.405,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 44.924,
+        "end": 45.124
+      },
+      {
+        "text": "hast",
+        "start": 45.144,
+        "end": 45.304
+      },
+      {
+        "text": "du",
+        "start": 45.324,
+        "end": 45.465
+      },
+      {
+        "text": "etwa",
+        "start": 45.485,
+        "end": 45.725
+      },
+      {
+        "text": "Angst",
+        "start": 45.765,
+        "end": 46.025
+      },
+      {
+        "text": "vor",
+        "start": 46.065,
+        "end": 46.205
+      },
+      {
+        "text": "mir?",
+        "start": 46.245,
+        "end": 46.405
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Bist du schüchtern?",
+    "start": 46.445,
+    "end": 48.106,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 46.445,
+        "end": 46.585
+      },
+      {
+        "text": "du",
+        "start": 46.605,
+        "end": 46.765
+      },
+      {
+        "text": "schüchtern?",
+        "start": 46.785,
+        "end": 48.106
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Du bist so unschuldig.",
+    "start": 48.126,
+    "end": 49.127,
+    "words": [
+      {
+        "text": "Du",
+        "start": 48.126,
+        "end": 48.266
+      },
+      {
+        "text": "bist",
+        "start": 48.286,
+        "end": 48.466
+      },
+      {
+        "text": "so",
+        "start": 48.506,
+        "end": 48.647
+      },
+      {
+        "text": "unschuldig.",
+        "start": 48.687,
+        "end": 49.127
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": " Na komm schon, Gabi, bitte.",
+    "start": 52.613,
+    "end": 54.095,
+    "words": [
+      {
+        "text": "Na",
+        "start": 52.613,
+        "end": 52.713
+      },
+      {
+        "text": "komm",
+        "start": 52.733,
+        "end": 52.893
+      },
+      {
+        "text": "schon,",
+        "start": 52.913,
+        "end": 53.113
+      },
+      {
+        "text": "Gabi,",
+        "start": 53.133,
+        "end": 53.414
+      },
+      {
+        "text": "bitte.",
+        "start": 53.474,
+        "end": 54.095
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Hilfst du diesem notleidenden armen Mädchen.",
+    "start": 54.135,
+    "end": 56.458,
+    "words": [
+      {
+        "text": "Hilfst",
+        "start": 54.135,
+        "end": 54.295
+      },
+      {
+        "text": "du",
+        "start": 54.335,
+        "end": 54.455
+      },
+      {
+        "text": "diesem",
+        "start": 54.495,
+        "end": 54.735
+      },
+      {
+        "text": "notleidenden",
+        "start": 54.756,
+        "end": 55.376
+      },
+      {
+        "text": "armen",
+        "start": 55.436,
+        "end": 55.637
+      },
+      {
+        "text": "Mädchen.",
+        "start": 55.657,
+        "end": 56.458
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Das Getue ist reine Zeitverschwendung.",
+    "start": 56.498,
+    "end": 58.601,
+    "words": [
+      {
+        "text": "Das",
+        "start": 56.498,
+        "end": 56.658
+      },
+      {
+        "text": "Getue",
+        "start": 56.678,
+        "end": 56.979
+      },
+      {
+        "text": "ist",
+        "start": 57.019,
+        "end": 57.119
+      },
+      {
+        "text": "reine",
+        "start": 57.179,
+        "end": 57.459
+      },
+      {
+        "text": "Zeitverschwendung.",
+        "start": 57.499,
+        "end": 58.601
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ist das so?",
+    "start": 58.661,
+    "end": 59.202,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 58.661,
+        "end": 58.841
+      },
+      {
+        "text": "das",
+        "start": 58.881,
+        "end": 59.101
+      },
+      {
+        "text": "so?",
+        "start": 59.142,
+        "end": 59.202
+      }
+    ]
+  }
+]

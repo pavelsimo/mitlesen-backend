@@ -1,0 +1,657 @@
+[
+  {
+    "id": 0,
+    "text": " Wirklich?",
+    "start": 0.992,
+    "end": 1.833,
+    "words": [
+      {
+        "text": "Wirklich?",
+        "start": 0.992,
+        "end": 1.833
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Das klingt ja äußerst interessant.",
+    "start": 1.873,
+    "end": 5.894,
+    "words": [
+      {
+        "text": "Das",
+        "start": 1.873,
+        "end": 2.093
+      },
+      {
+        "text": "klingt",
+        "start": 2.133,
+        "end": 2.433
+      },
+      {
+        "text": "ja",
+        "start": 2.473,
+        "end": 3.793
+      },
+      {
+        "text": "äußerst",
+        "start": 3.874,
+        "end": 5.074
+      },
+      {
+        "text": "interessant.",
+        "start": 5.114,
+        "end": 5.894
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Elender Wolf im Schafspelz.",
+    "start": 7.395,
+    "end": 12.918,
+    "words": [
+      {
+        "text": "Elender",
+        "start": 7.395,
+        "end": 7.955
+      },
+      {
+        "text": "Wolf",
+        "start": 7.975,
+        "end": 8.156
+      },
+      {
+        "text": "im",
+        "start": 8.196,
+        "end": 8.316
+      },
+      {
+        "text": "Schafspelz.",
+        "start": 8.356,
+        "end": 12.918
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wärt ihr bereit, mir zu erzählen, was dieser Deal beinhaltet?",
+    "start": 12.958,
+    "end": 17.74,
+    "words": [
+      {
+        "text": "Wärt",
+        "start": 12.958,
+        "end": 13.198
+      },
+      {
+        "text": "ihr",
+        "start": 13.238,
+        "end": 13.378
+      },
+      {
+        "text": "bereit,",
+        "start": 13.398,
+        "end": 13.758
+      },
+      {
+        "text": "mir",
+        "start": 13.778,
+        "end": 13.998
+      },
+      {
+        "text": "zu",
+        "start": 14.018,
+        "end": 14.138
+      },
+      {
+        "text": "erzählen,",
+        "start": 14.198,
+        "end": 15.919
+      },
+      {
+        "text": "was",
+        "start": 15.939,
+        "end": 16.339
+      },
+      {
+        "text": "dieser",
+        "start": 16.379,
+        "end": 16.64
+      },
+      {
+        "text": "Deal",
+        "start": 16.66,
+        "end": 16.98
+      },
+      {
+        "text": "beinhaltet?",
+        "start": 17.02,
+        "end": 17.74
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Er hat angebissen.",
+    "start": 18.28,
+    "end": 19.421,
+    "words": [
+      {
+        "text": "Er",
+        "start": 18.28,
+        "end": 18.521
+      },
+      {
+        "text": "hat",
+        "start": 18.541,
+        "end": 18.901
+      },
+      {
+        "text": "angebissen.",
+        "start": 18.941,
+        "end": 19.421
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Sehr gut.",
+    "start": 19.501,
+    "end": 20.121,
+    "words": [
+      {
+        "text": "Sehr",
+        "start": 19.501,
+        "end": 19.941
+      },
+      {
+        "text": "gut.",
+        "start": 19.981,
+        "end": 20.121
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Liliana!",
+    "start": 20.141,
+    "end": 20.441,
+    "words": [
+      {
+        "text": "Liliana!",
+        "start": 20.141,
+        "end": 20.441
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": " Ausgerechnet jetzt hörst du auf?",
+    "start": 26.844,
+    "end": 28.646,
+    "words": [
+      {
+        "text": "Ausgerechnet",
+        "start": 26.844,
+        "end": 27.505
+      },
+      {
+        "text": "jetzt",
+        "start": 27.525,
+        "end": 27.725
+      },
+      {
+        "text": "hörst",
+        "start": 27.765,
+        "end": 28.005
+      },
+      {
+        "text": "du",
+        "start": 28.025,
+        "end": 28.165
+      },
+      {
+        "text": "auf?",
+        "start": 28.205,
+        "end": 28.646
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Wie oft willst du mir noch in die Quere kommen?",
+    "start": 28.666,
+    "end": 32.148,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 28.666,
+        "end": 28.766
+      },
+      {
+        "text": "oft",
+        "start": 28.826,
+        "end": 28.926
+      },
+      {
+        "text": "willst",
+        "start": 28.966,
+        "end": 29.146
+      },
+      {
+        "text": "du",
+        "start": 29.166,
+        "end": 29.266
+      },
+      {
+        "text": "mir",
+        "start": 29.306,
+        "end": 29.406
+      },
+      {
+        "text": "noch",
+        "start": 29.426,
+        "end": 29.526
+      },
+      {
+        "text": "in",
+        "start": 29.566,
+        "end": 29.646
+      },
+      {
+        "text": "die",
+        "start": 29.666,
+        "end": 29.786
+      },
+      {
+        "text": "Quere",
+        "start": 29.826,
+        "end": 30.146
+      },
+      {
+        "text": "kommen?",
+        "start": 30.187,
+        "end": 32.148
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Was mache ich denn jetzt?",
+    "start": 32.188,
+    "end": 35.27,
+    "words": [
+      {
+        "text": "Was",
+        "start": 32.188,
+        "end": 32.388
+      },
+      {
+        "text": "mache",
+        "start": 32.428,
+        "end": 32.668
+      },
+      {
+        "text": "ich",
+        "start": 32.708,
+        "end": 32.808
+      },
+      {
+        "text": "denn",
+        "start": 32.828,
+        "end": 33.048
+      },
+      {
+        "text": "jetzt?",
+        "start": 33.068,
+        "end": 35.27
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Soll ich auf die nächste Gelegenheit warten?",
+    "start": 35.31,
+    "end": 36.971,
+    "words": [
+      {
+        "text": "Soll",
+        "start": 35.31,
+        "end": 35.47
+      },
+      {
+        "text": "ich",
+        "start": 35.49,
+        "end": 35.59
+      },
+      {
+        "text": "auf",
+        "start": 35.63,
+        "end": 35.73
+      },
+      {
+        "text": "die",
+        "start": 35.75,
+        "end": 35.85
+      },
+      {
+        "text": "nächste",
+        "start": 35.89,
+        "end": 36.21
+      },
+      {
+        "text": "Gelegenheit",
+        "start": 36.23,
+        "end": 36.711
+      },
+      {
+        "text": "warten?",
+        "start": 36.751,
+        "end": 36.971
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Nein.",
+    "start": 39.252,
+    "end": 40.293,
+    "words": [
+      {
+        "text": "Nein.",
+        "start": 39.252,
+        "end": 40.293
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Vielleicht ist das meine letzte Chance.",
+    "start": 40.313,
+    "end": 41.954,
+    "words": [
+      {
+        "text": "Vielleicht",
+        "start": 40.313,
+        "end": 40.693
+      },
+      {
+        "text": "ist",
+        "start": 40.733,
+        "end": 40.873
+      },
+      {
+        "text": "das",
+        "start": 40.893,
+        "end": 41.073
+      },
+      {
+        "text": "meine",
+        "start": 41.093,
+        "end": 41.333
+      },
+      {
+        "text": "letzte",
+        "start": 41.354,
+        "end": 41.674
+      },
+      {
+        "text": "Chance.",
+        "start": 41.754,
+        "end": 41.954
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Tja, wie es aussieht, ist es nicht möglich, es noch länger zu verbergen.",
+    "start": 49.55,
+    "end": 53.974,
+    "words": [
+      {
+        "text": "Tja,",
+        "start": 49.55,
+        "end": 50.891
+      },
+      {
+        "text": "wie",
+        "start": 50.931,
+        "end": 51.051
+      },
+      {
+        "text": "es",
+        "start": 51.092,
+        "end": 51.232
+      },
+      {
+        "text": "aussieht,",
+        "start": 51.272,
+        "end": 51.572
+      },
+      {
+        "text": "ist",
+        "start": 51.632,
+        "end": 51.752
+      },
+      {
+        "text": "es",
+        "start": 51.812,
+        "end": 51.992
+      },
+      {
+        "text": "nicht",
+        "start": 52.012,
+        "end": 52.232
+      },
+      {
+        "text": "möglich,",
+        "start": 52.272,
+        "end": 52.613
+      },
+      {
+        "text": "es",
+        "start": 52.653,
+        "end": 52.793
+      },
+      {
+        "text": "noch",
+        "start": 52.833,
+        "end": 52.973
+      },
+      {
+        "text": "länger",
+        "start": 53.013,
+        "end": 53.333
+      },
+      {
+        "text": "zu",
+        "start": 53.373,
+        "end": 53.513
+      },
+      {
+        "text": "verbergen.",
+        "start": 53.553,
+        "end": 53.974
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Lord Brooks, ich bitte um Verzeihung.",
+    "start": 55.895,
+    "end": 57.857,
+    "words": [
+      {
+        "text": "Lord",
+        "start": 55.895,
+        "end": 56.115
+      },
+      {
+        "text": "Brooks,",
+        "start": 56.155,
+        "end": 56.836
+      },
+      {
+        "text": "ich",
+        "start": 56.876,
+        "end": 56.996
+      },
+      {
+        "text": "bitte",
+        "start": 57.036,
+        "end": 57.236
+      },
+      {
+        "text": "um",
+        "start": 57.276,
+        "end": 57.396
+      },
+      {
+        "text": "Verzeihung.",
+        "start": 57.416,
+        "end": 57.857
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wofür denn?",
+    "start": 59.278,
+    "end": 62.26,
+    "words": [
+      {
+        "text": "Wofür",
+        "start": 59.278,
+        "end": 59.658
+      },
+      {
+        "text": "denn?",
+        "start": 59.698,
+        "end": 62.26
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Naja, es ist so.",
+    "start": 62.36,
+    "end": 64.021,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 62.36,
+        "end": 62.84
+      },
+      {
+        "text": "es",
+        "start": 62.9,
+        "end": 63.001
+      },
+      {
+        "text": "ist",
+        "start": 63.041,
+        "end": 63.281
+      },
+      {
+        "text": "so.",
+        "start": 63.321,
+        "end": 64.021
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Duke Windknight und ich, wir beide, haben uns unsterblich ineinander verliebt.",
+    "start": 64.061,
+    "end": 68.245,
+    "words": [
+      {
+        "text": "Duke",
+        "start": 64.061,
+        "end": 64.342
+      },
+      {
+        "text": "Windknight",
+        "start": 64.402,
+        "end": 64.862
+      },
+      {
+        "text": "und",
+        "start": 64.882,
+        "end": 65.082
+      },
+      {
+        "text": "ich,",
+        "start": 65.142,
+        "end": 65.402
+      },
+      {
+        "text": "wir",
+        "start": 65.442,
+        "end": 65.663
+      },
+      {
+        "text": "beide,",
+        "start": 65.683,
+        "end": 66.263
+      },
+      {
+        "text": "haben",
+        "start": 66.303,
+        "end": 66.543
+      },
+      {
+        "text": "uns",
+        "start": 66.563,
+        "end": 66.763
+      },
+      {
+        "text": "unsterblich",
+        "start": 66.803,
+        "end": 67.364
+      },
+      {
+        "text": "ineinander",
+        "start": 67.404,
+        "end": 67.904
+      },
+      {
+        "text": "verliebt.",
+        "start": 67.964,
+        "end": 68.245
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Was?",
+    "start": 68.285,
+    "end": 68.365,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 68.285,
+        "end": 68.365
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Nur daran?",
+    "start": 92.118,
+    "end": 92.482,
+    "words": [
+      {
+        "text": "Nur",
+        "start": 92.118,
+        "end": 92.199
+      },
+      {
+        "text": "daran?",
+        "start": 92.239,
+        "end": 92.482
+      }
+    ]
+  }
+]

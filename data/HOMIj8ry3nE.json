@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 0,
+    "text": " Sag mir, welche Gestalt ich annehmen soll.",
+    "start": 0.031,
+    "end": 2.913,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 0.031,
+        "end": 0.631
+      },
+      {
+        "text": "mir,",
+        "start": 0.672,
+        "end": 0.772
+      },
+      {
+        "text": "welche",
+        "start": 0.812,
+        "end": 1.132
+      },
+      {
+        "text": "Gestalt",
+        "start": 1.172,
+        "end": 1.572
+      },
+      {
+        "text": "ich",
+        "start": 1.612,
+        "end": 1.752
+      },
+      {
+        "text": "annehmen",
+        "start": 1.792,
+        "end": 2.333
+      },
+      {
+        "text": "soll.",
+        "start": 2.353,
+        "end": 2.913
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Oder nimm meine an, wenn du willst.",
+    "start": 2.973,
+    "end": 5.115,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 2.973,
+        "end": 3.214
+      },
+      {
+        "text": "nimm",
+        "start": 3.234,
+        "end": 3.414
+      },
+      {
+        "text": "meine",
+        "start": 3.434,
+        "end": 3.814
+      },
+      {
+        "text": "an,",
+        "start": 3.854,
+        "end": 3.994
+      },
+      {
+        "text": "wenn",
+        "start": 4.014,
+        "end": 4.154
+      },
+      {
+        "text": "du",
+        "start": 4.174,
+        "end": 4.295
+      },
+      {
+        "text": "willst.",
+        "start": 4.335,
+        "end": 5.115
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Oder binde mich an meinen eigenen Körper an.",
+    "start": 5.195,
+    "end": 8.498,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 5.195,
+        "end": 5.576
+      },
+      {
+        "text": "binde",
+        "start": 5.616,
+        "end": 5.996
+      },
+      {
+        "text": "mich",
+        "start": 6.016,
+        "end": 6.196
+      },
+      {
+        "text": "an",
+        "start": 6.236,
+        "end": 6.356
+      },
+      {
+        "text": "meinen",
+        "start": 6.376,
+        "end": 6.697
+      },
+      {
+        "text": "eigenen",
+        "start": 6.737,
+        "end": 7.177
+      },
+      {
+        "text": "Körper",
+        "start": 7.237,
+        "end": 7.597
+      },
+      {
+        "text": "an.",
+        "start": 8.398,
+        "end": 8.498
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Sag es einfach.",
+    "start": 8.518,
+    "end": 14.283,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 8.518,
+        "end": 8.698
+      },
+      {
+        "text": "es",
+        "start": 8.778,
+        "end": 8.898
+      },
+      {
+        "text": "einfach.",
+        "start": 8.978,
+        "end": 14.283
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Chissi, will eine alte Gottheit dir einen Wunsch erfüllen, darfst du ihn auf keinen Fall ausschlagen.",
+    "start": 14.343,
+    "end": 20.928,
+    "words": [
+      {
+        "text": "Chissi,",
+        "start": 14.343,
+        "end": 15.564
+      },
+      {
+        "text": "will",
+        "start": 15.584,
+        "end": 15.804
+      },
+      {
+        "text": "eine",
+        "start": 15.824,
+        "end": 16.004
+      },
+      {
+        "text": "alte",
+        "start": 16.044,
+        "end": 16.264
+      },
+      {
+        "text": "Gottheit",
+        "start": 16.305,
+        "end": 16.625
+      },
+      {
+        "text": "dir",
+        "start": 16.645,
+        "end": 16.765
+      },
+      {
+        "text": "einen",
+        "start": 16.785,
+        "end": 17.005
+      },
+      {
+        "text": "Wunsch",
+        "start": 17.045,
+        "end": 17.265
+      },
+      {
+        "text": "erfüllen,",
+        "start": 17.305,
+        "end": 18.126
+      },
+      {
+        "text": "darfst",
+        "start": 18.166,
+        "end": 18.286
+      },
+      {
+        "text": "du",
+        "start": 18.346,
+        "end": 18.426
+      },
+      {
+        "text": "ihn",
+        "start": 18.446,
+        "end": 18.566
+      },
+      {
+        "text": "auf",
+        "start": 18.606,
+        "end": 18.727
+      },
+      {
+        "text": "keinen",
+        "start": 18.767,
+        "end": 19.007
+      },
+      {
+        "text": "Fall",
+        "start": 19.047,
+        "end": 19.247
+      },
+      {
+        "text": "ausschlagen.",
+        "start": 19.287,
+        "end": 20.928
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Auch wenn erst hinterher klar ist, ob er dir hilft oder nicht.",
+    "start": 20.988,
+    "end": 24.711,
+    "words": [
+      {
+        "text": "Auch",
+        "start": 20.988,
+        "end": 21.189
+      },
+      {
+        "text": "wenn",
+        "start": 21.209,
+        "end": 21.409
+      },
+      {
+        "text": "erst",
+        "start": 21.429,
+        "end": 21.629
+      },
+      {
+        "text": "hinterher",
+        "start": 21.669,
+        "end": 22.129
+      },
+      {
+        "text": "klar",
+        "start": 22.149,
+        "end": 22.37
+      },
+      {
+        "text": "ist,",
+        "start": 22.41,
+        "end": 22.59
+      },
+      {
+        "text": "ob",
+        "start": 22.63,
+        "end": 22.69
+      },
+      {
+        "text": "er",
+        "start": 22.71,
+        "end": 22.81
+      },
+      {
+        "text": "dir",
+        "start": 22.85,
+        "end": 23.03
+      },
+      {
+        "text": "hilft",
+        "start": 23.07,
+        "end": 23.811
+      },
+      {
+        "text": "oder",
+        "start": 23.851,
+        "end": 24.091
+      },
+      {
+        "text": "nicht.",
+        "start": 24.131,
+        "end": 24.711
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Dann wird es Zeit, mir etwas zu wünschen.",
+    "start": 24.731,
+    "end": 27.234,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 24.731,
+        "end": 24.932
+      },
+      {
+        "text": "wird",
+        "start": 24.952,
+        "end": 25.112
+      },
+      {
+        "text": "es",
+        "start": 25.172,
+        "end": 25.332
+      },
+      {
+        "text": "Zeit,",
+        "start": 25.392,
+        "end": 25.632
+      },
+      {
+        "text": "mir",
+        "start": 25.652,
+        "end": 25.812
+      },
+      {
+        "text": "etwas",
+        "start": 25.852,
+        "end": 26.153
+      },
+      {
+        "text": "zu",
+        "start": 26.173,
+        "end": 26.353
+      },
+      {
+        "text": "wünschen.",
+        "start": 26.373,
+        "end": 27.234
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wir sehen dann, wie es weitergeht.",
+    "start": 27.254,
+    "end": 28.655,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 27.254,
+        "end": 27.434
+      },
+      {
+        "text": "sehen",
+        "start": 27.474,
+        "end": 27.694
+      },
+      {
+        "text": "dann,",
+        "start": 27.734,
+        "end": 27.894
+      },
+      {
+        "text": "wie",
+        "start": 27.914,
+        "end": 28.034
+      },
+      {
+        "text": "es",
+        "start": 28.054,
+        "end": 28.194
+      },
+      {
+        "text": "weitergeht.",
+        "start": 28.234,
+        "end": 28.655
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Nichts anderes habe ich von dir erwartet.",
+    "start": 29.583,
+    "end": 32.725,
+    "words": [
+      {
+        "text": "Nichts",
+        "start": 29.583,
+        "end": 29.903
+      },
+      {
+        "text": "anderes",
+        "start": 29.943,
+        "end": 30.364
+      },
+      {
+        "text": "habe",
+        "start": 30.384,
+        "end": 30.524
+      },
+      {
+        "text": "ich",
+        "start": 30.544,
+        "end": 30.644
+      },
+      {
+        "text": "von",
+        "start": 30.664,
+        "end": 30.804
+      },
+      {
+        "text": "dir",
+        "start": 30.824,
+        "end": 30.964
+      },
+      {
+        "text": "erwartet.",
+        "start": 31.004,
+        "end": 32.725
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Sprich mir nach.",
+    "start": 32.765,
+    "end": 35.626,
+    "words": [
+      {
+        "text": "Sprich",
+        "start": 32.765,
+        "end": 33.125
+      },
+      {
+        "text": "mir",
+        "start": 33.145,
+        "end": 33.325
+      },
+      {
+        "text": "nach.",
+        "start": 33.365,
+        "end": 35.626
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Da du gerufen wurdest, solltest du ihren Namen kennen.",
+    "start": 35.646,
+    "end": 42.03,
+    "words": [
+      {
+        "text": "Da",
+        "start": 35.646,
+        "end": 35.826
+      },
+      {
+        "text": "du",
+        "start": 35.846,
+        "end": 35.987
+      },
+      {
+        "text": "gerufen",
+        "start": 36.007,
+        "end": 36.467
+      },
+      {
+        "text": "wurdest,",
+        "start": 36.487,
+        "end": 37.067
+      },
+      {
+        "text": "solltest",
+        "start": 37.087,
+        "end": 37.387
+      },
+      {
+        "text": "du",
+        "start": 37.407,
+        "end": 37.527
+      },
+      {
+        "text": "ihren",
+        "start": 37.567,
+        "end": 37.768
+      },
+      {
+        "text": "Namen",
+        "start": 37.808,
+        "end": 38.108
+      },
+      {
+        "text": "kennen.",
+        "start": 38.148,
+        "end": 42.03
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Schön ist das Schlachtfeld.",
+    "start": 42.05,
+    "end": 44.231,
+    "words": [
+      {
+        "text": "Schön",
+        "start": 42.05,
+        "end": 42.43
+      },
+      {
+        "text": "ist",
+        "start": 42.47,
+        "end": 42.63
+      },
+      {
+        "text": "das",
+        "start": 42.65,
+        "end": 42.81
+      },
+      {
+        "text": "Schlachtfeld.",
+        "start": 42.83,
+        "end": 44.231
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Schön der Himmel getaucht in Blut.",
+    "start": 44.271,
+    "end": 46.112,
+    "words": [
+      {
+        "text": "Schön",
+        "start": 44.271,
+        "end": 44.551
+      },
+      {
+        "text": "der",
+        "start": 44.571,
+        "end": 44.731
+      },
+      {
+        "text": "Himmel",
+        "start": 44.751,
+        "end": 45.091
+      },
+      {
+        "text": "getaucht",
+        "start": 45.131,
+        "end": 45.512
+      },
+      {
+        "text": "in",
+        "start": 45.572,
+        "end": 45.772
+      },
+      {
+        "text": "Blut.",
+        "start": 45.792,
+        "end": 46.112
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Schweigt sofort!",
+    "start": 46.132,
+    "end": 50.394,
+    "words": [
+      {
+        "text": "Schweigt",
+        "start": 46.132,
+        "end": 46.732
+      },
+      {
+        "text": "sofort!",
+        "start": 46.772,
+        "end": 50.394
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Sie ist eine Gottheit!",
+    "start": 50.414,
+    "end": 51.435,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 50.414,
+        "end": 50.534
+      },
+      {
+        "text": "ist",
+        "start": 50.574,
+        "end": 50.794
+      },
+      {
+        "text": "eine",
+        "start": 50.835,
+        "end": 51.015
+      },
+      {
+        "text": "Gottheit!",
+        "start": 51.035,
+        "end": 51.435
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Tötet sie, bevor man ihren Namen ruft!",
+    "start": 51.675,
+    "end": 55.637,
+    "words": [
+      {
+        "text": "Tötet",
+        "start": 51.675,
+        "end": 52.035
+      },
+      {
+        "text": "sie,",
+        "start": 52.075,
+        "end": 52.215
+      },
+      {
+        "text": "bevor",
+        "start": 52.255,
+        "end": 52.535
+      },
+      {
+        "text": "man",
+        "start": 52.575,
+        "end": 52.716
+      },
+      {
+        "text": "ihren",
+        "start": 52.756,
+        "end": 53.296
+      },
+      {
+        "text": "Namen",
+        "start": 53.336,
+        "end": 53.716
+      },
+      {
+        "text": "ruft!",
+        "start": 53.796,
+        "end": 55.637
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Das lasse ich nicht zu.",
+    "start": 55.677,
+    "end": 56.958,
+    "words": [
+      {
+        "text": "Das",
+        "start": 55.677,
+        "end": 55.897
+      },
+      {
+        "text": "lasse",
+        "start": 55.937,
+        "end": 56.297
+      },
+      {
+        "text": "ich",
+        "start": 56.337,
+        "end": 56.518
+      },
+      {
+        "text": "nicht",
+        "start": 56.558,
+        "end": 56.838
+      },
+      {
+        "text": "zu.",
+        "start": 56.878,
+        "end": 56.958
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Sing uns von deinem Kummer.",
+    "start": 58.137,
+    "end": 59.859,
+    "words": [
+      {
+        "text": "Sing",
+        "start": 58.137,
+        "end": 58.297
+      },
+      {
+        "text": "uns",
+        "start": 58.317,
+        "end": 58.418
+      },
+      {
+        "text": "von",
+        "start": 58.458,
+        "end": 58.518
+      },
+      {
+        "text": "deinem",
+        "start": 58.558,
+        "end": 58.858
+      },
+      {
+        "text": "Kummer.",
+        "start": 58.898,
+        "end": 59.859
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Wasche deine Rüstung rein, du lachende Königin der Albträume.",
+    "start": 59.879,
+    "end": 64.422,
+    "words": [
+      {
+        "text": "Wasche",
+        "start": 59.879,
+        "end": 60.199
+      },
+      {
+        "text": "deine",
+        "start": 60.219,
+        "end": 60.499
+      },
+      {
+        "text": "Rüstung",
+        "start": 60.539,
+        "end": 60.96
+      },
+      {
+        "text": "rein,",
+        "start": 61.08,
+        "end": 61.66
+      },
+      {
+        "text": "du",
+        "start": 61.7,
+        "end": 61.9
+      },
+      {
+        "text": "lachende",
+        "start": 61.94,
+        "end": 62.441
+      },
+      {
+        "text": "Königin",
+        "start": 62.481,
+        "end": 62.981
+      },
+      {
+        "text": "der",
+        "start": 63.001,
+        "end": 63.121
+      },
+      {
+        "text": "Albträume.",
+        "start": 63.181,
+        "end": 64.422
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Herrin aller Helden, Mutter der Krieger.",
+    "start": 64.463,
+    "end": 68.886,
+    "words": [
+      {
+        "text": "Herrin",
+        "start": 64.463,
+        "end": 64.963
+      },
+      {
+        "text": "aller",
+        "start": 64.983,
+        "end": 65.323
+      },
+      {
+        "text": "Helden,",
+        "start": 65.363,
+        "end": 66.264
+      },
+      {
+        "text": "Mutter",
+        "start": 66.304,
+        "end": 66.704
+      },
+      {
+        "text": "der",
+        "start": 66.724,
+        "end": 66.925
+      },
+      {
+        "text": "Krieger.",
+        "start": 66.965,
+        "end": 68.886
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Hilf der Dornenkrone.",
+    "start": 68.926,
+    "end": 71.068,
+    "words": [
+      {
+        "text": "Hilf",
+        "start": 68.926,
+        "end": 69.287
+      },
+      {
+        "text": "der",
+        "start": 69.327,
+        "end": 69.487
+      },
+      {
+        "text": "Dornenkrone.",
+        "start": 69.547,
+        "end": 71.068
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Verrate mir deinen Namen.",
+    "start": 71.108,
+    "end": 73.57,
+    "words": [
+      {
+        "text": "Verrate",
+        "start": 71.108,
+        "end": 71.628
+      },
+      {
+        "text": "mir",
+        "start": 71.648,
+        "end": 71.789
+      },
+      {
+        "text": "deinen",
+        "start": 71.809,
+        "end": 72.129
+      },
+      {
+        "text": "Namen.",
+        "start": 72.189,
+        "end": 73.57
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Verrate mir deinen Namen, Morrigan.",
+    "start": 73.61,
+    "end": 76.533,
+    "words": [
+      {
+        "text": "Verrate",
+        "start": 73.61,
+        "end": 74.271
+      },
+      {
+        "text": "mir",
+        "start": 74.311,
+        "end": 74.471
+      },
+      {
+        "text": "deinen",
+        "start": 74.511,
+        "end": 74.831
+      },
+      {
+        "text": "Namen,",
+        "start": 74.891,
+        "end": 76.052
+      },
+      {
+        "text": "Morrigan.",
+        "start": 76.112,
+        "end": 76.533
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Über Jahrtausende wurde ich um mein Volk und um meine Sprache und um mein Land gebracht.",
+    "start": 83.155,
+    "end": 90.94,
+    "words": [
+      {
+        "text": "Über",
+        "start": 83.155,
+        "end": 83.395
+      },
+      {
+        "text": "Jahrtausende",
+        "start": 83.435,
+        "end": 85.116
+      },
+      {
+        "text": "wurde",
+        "start": 85.156,
+        "end": 85.416
+      },
+      {
+        "text": "ich",
+        "start": 85.476,
+        "end": 85.617
+      },
+      {
+        "text": "um",
+        "start": 85.677,
+        "end": 85.877
+      },
+      {
+        "text": "mein",
+        "start": 85.897,
+        "end": 86.137
+      },
+      {
+        "text": "Volk",
+        "start": 86.197,
+        "end": 86.677
+      },
+      {
+        "text": "und",
+        "start": 86.717,
+        "end": 86.917
+      },
+      {
+        "text": "um",
+        "start": 86.937,
+        "end": 87.077
+      },
+      {
+        "text": "meine",
+        "start": 87.097,
+        "end": 87.338
+      },
+      {
+        "text": "Sprache",
+        "start": 87.378,
+        "end": 88.918
+      },
+      {
+        "text": "und",
+        "start": 88.958,
+        "end": 89.259
+      },
+      {
+        "text": "um",
+        "start": 89.299,
+        "end": 89.519
+      },
+      {
+        "text": "mein",
+        "start": 89.559,
+        "end": 89.799
+      },
+      {
+        "text": "Land",
+        "start": 89.879,
+        "end": 90.279
+      },
+      {
+        "text": "gebracht.",
+        "start": 90.319,
+        "end": 90.94
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Tausende Jahre später wurde ich angerufen, um Beistand zu leisten.",
+    "start": 92.3,
+    "end": 97.603,
+    "words": [
+      {
+        "text": "Tausende",
+        "start": 92.3,
+        "end": 92.901
+      },
+      {
+        "text": "Jahre",
+        "start": 92.921,
+        "end": 93.221
+      },
+      {
+        "text": "später",
+        "start": 93.261,
+        "end": 94.382
+      },
+      {
+        "text": "wurde",
+        "start": 94.422,
+        "end": 94.642
+      },
+      {
+        "text": "ich",
+        "start": 94.682,
+        "end": 94.922
+      },
+      {
+        "text": "angerufen,",
+        "start": 94.962,
+        "end": 95.682
+      },
+      {
+        "text": "um",
+        "start": 95.742,
+        "end": 96.023
+      },
+      {
+        "text": "Beistand",
+        "start": 96.043,
+        "end": 96.823
+      },
+      {
+        "text": "zu",
+        "start": 96.843,
+        "end": 97.003
+      },
+      {
+        "text": "leisten.",
+        "start": 97.063,
+        "end": 97.603
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Was sind das für Dinge?",
+    "start": 100.145,
+    "end": 101.466,
+    "words": [
+      {
+        "text": "Was",
+        "start": 100.145,
+        "end": 100.405
+      },
+      {
+        "text": "sind",
+        "start": 100.445,
+        "end": 100.585
+      },
+      {
+        "text": "das",
+        "start": 100.605,
+        "end": 100.745
+      },
+      {
+        "text": "für",
+        "start": 100.765,
+        "end": 100.905
+      },
+      {
+        "text": "Dinge?",
+        "start": 100.925,
+        "end": 101.466
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Erhebt euch, meine Krieger.",
+    "start": 101.546,
+    "end": 103.207,
+    "words": [
+      {
+        "text": "Erhebt",
+        "start": 101.546,
+        "end": 102.066
+      },
+      {
+        "text": "euch,",
+        "start": 102.166,
+        "end": 102.466
+      },
+      {
+        "text": "meine",
+        "start": 102.526,
+        "end": 102.807
+      },
+      {
+        "text": "Krieger.",
+        "start": 102.847,
+        "end": 103.207
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": " Das ist eure Schlacht.",
+    "start": 104.415,
+    "end": 106.656,
+    "words": [
+      {
+        "text": "Das",
+        "start": 104.415,
+        "end": 104.655
+      },
+      {
+        "text": "ist",
+        "start": 104.715,
+        "end": 104.995
+      },
+      {
+        "text": "eure",
+        "start": 105.056,
+        "end": 105.496
+      },
+      {
+        "text": "Schlacht.",
+        "start": 105.516,
+        "end": 106.656
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Reißt sie in Stücke.",
+    "start": 106.756,
+    "end": 108.557,
+    "words": [
+      {
+        "text": "Reißt",
+        "start": 106.756,
+        "end": 107.197
+      },
+      {
+        "text": "sie",
+        "start": 107.237,
+        "end": 107.377
+      },
+      {
+        "text": "in",
+        "start": 107.417,
+        "end": 107.637
+      },
+      {
+        "text": "Stücke.",
+        "start": 107.697,
+        "end": 108.557
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Durchbohrt ihr Fleisch.",
+    "start": 108.597,
+    "end": 110.678,
+    "words": [
+      {
+        "text": "Durchbohrt",
+        "start": 108.597,
+        "end": 109.358
+      },
+      {
+        "text": "ihr",
+        "start": 109.418,
+        "end": 109.578
+      },
+      {
+        "text": "Fleisch.",
+        "start": 109.598,
+        "end": 110.678
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Brecht ihre Knochen.",
+    "start": 110.698,
+    "end": 112.019,
+    "words": [
+      {
+        "text": "Brecht",
+        "start": 110.698,
+        "end": 111.179
+      },
+      {
+        "text": "ihre",
+        "start": 111.239,
+        "end": 111.479
+      },
+      {
+        "text": "Knochen.",
+        "start": 111.519,
+        "end": 112.019
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Tötet sie.",
+    "start": 112.219,
+    "end": 113.34,
+    "words": [
+      {
+        "text": "Tötet",
+        "start": 112.219,
+        "end": 112.719
+      },
+      {
+        "text": "sie.",
+        "start": 112.759,
+        "end": 113.34
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Kämpft mit Zuversicht.",
+    "start": 113.38,
+    "end": 115.381,
+    "words": [
+      {
+        "text": "Kämpft",
+        "start": 113.38,
+        "end": 113.74
+      },
+      {
+        "text": "mit",
+        "start": 113.78,
+        "end": 114.04
+      },
+      {
+        "text": "Zuversicht.",
+        "start": 114.08,
+        "end": 115.381
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Und lasst keine Gnade walten.",
+    "start": 115.421,
+    "end": 117.542,
+    "words": [
+      {
+        "text": "Und",
+        "start": 115.421,
+        "end": 115.581
+      },
+      {
+        "text": "lasst",
+        "start": 115.621,
+        "end": 115.921
+      },
+      {
+        "text": "keine",
+        "start": 115.961,
+        "end": 116.261
+      },
+      {
+        "text": "Gnade",
+        "start": 116.301,
+        "end": 116.741
+      },
+      {
+        "text": "walten.",
+        "start": 116.781,
+        "end": 117.542
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Flieht ihr, werdet ihr im Feuer sterben.",
+    "start": 117.602,
+    "end": 121.064,
+    "words": [
+      {
+        "text": "Flieht",
+        "start": 117.602,
+        "end": 117.922
+      },
+      {
+        "text": "ihr,",
+        "start": 118.022,
+        "end": 118.442
+      },
+      {
+        "text": "werdet",
+        "start": 118.482,
+        "end": 118.802
+      },
+      {
+        "text": "ihr",
+        "start": 118.862,
+        "end": 118.962
+      },
+      {
+        "text": "im",
+        "start": 119.023,
+        "end": 119.203
+      },
+      {
+        "text": "Feuer",
+        "start": 119.243,
+        "end": 119.623
+      },
+      {
+        "text": "sterben.",
+        "start": 119.683,
+        "end": 121.064
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Seid vor einer Sache gewarnt.",
+    "start": 121.124,
+    "end": 123.665,
+    "words": [
+      {
+        "text": "Seid",
+        "start": 121.124,
+        "end": 121.444
+      },
+      {
+        "text": "vor",
+        "start": 121.484,
+        "end": 121.764
+      },
+      {
+        "text": "einer",
+        "start": 121.824,
+        "end": 122.164
+      },
+      {
+        "text": "Sache",
+        "start": 122.204,
+        "end": 122.564
+      },
+      {
+        "text": "gewarnt.",
+        "start": 122.604,
+        "end": 123.665
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Niemand, der mit mir kämpft, ist in der Lage, Morrigans Schlachtfeld zu entkommen.",
+    "start": 123.725,
+    "end": 129.028,
+    "words": [
+      {
+        "text": "Niemand,",
+        "start": 123.725,
+        "end": 124.165
+      },
+      {
+        "text": "der",
+        "start": 124.205,
+        "end": 124.365
+      },
+      {
+        "text": "mit",
+        "start": 124.385,
+        "end": 124.565
+      },
+      {
+        "text": "mir",
+        "start": 124.585,
+        "end": 124.765
+      },
+      {
+        "text": "kämpft,",
+        "start": 124.825,
+        "end": 125.866
+      },
+      {
+        "text": "ist",
+        "start": 125.906,
+        "end": 126.106
+      },
+      {
+        "text": "in",
+        "start": 126.146,
+        "end": 126.266
+      },
+      {
+        "text": "der",
+        "start": 126.286,
+        "end": 126.386
+      },
+      {
+        "text": "Lage,",
+        "start": 126.426,
+        "end": 126.886
+      },
+      {
+        "text": "Morrigans",
+        "start": 126.926,
+        "end": 127.527
+      },
+      {
+        "text": "Schlachtfeld",
+        "start": 127.547,
+        "end": 128.227
+      },
+      {
+        "text": "zu",
+        "start": 128.247,
+        "end": 128.347
+      },
+      {
+        "text": "entkommen.",
+        "start": 128.407,
+        "end": 129.028
+      }
+    ]
+  }
+]

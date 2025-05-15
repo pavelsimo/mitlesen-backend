@@ -1,0 +1,1428 @@
+[
+  {
+    "id": 0,
+    "text": " Hab ich dich geweckt?",
+    "start": 7.372,
+    "end": 8.813,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 7.372,
+        "end": 7.732
+      },
+      {
+        "text": "ich",
+        "start": 7.772,
+        "end": 7.852
+      },
+      {
+        "text": "dich",
+        "start": 7.872,
+        "end": 7.972
+      },
+      {
+        "text": "geweckt?",
+        "start": 8.013,
+        "end": 8.813
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Nein, nein.",
+    "start": 8.873,
+    "end": 9.574,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 8.873,
+        "end": 9.053
+      },
+      {
+        "text": "nein.",
+        "start": 9.113,
+        "end": 9.574
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Soll ich dich ablösen, damit du dich etwas hinlegen kannst?",
+    "start": 9.614,
+    "end": 12.096,
+    "words": [
+      {
+        "text": "Soll",
+        "start": 9.614,
+        "end": 9.794
+      },
+      {
+        "text": "ich",
+        "start": 9.834,
+        "end": 9.954
+      },
+      {
+        "text": "dich",
+        "start": 9.994,
+        "end": 10.094
+      },
+      {
+        "text": "ablösen,",
+        "start": 10.114,
+        "end": 10.475
+      },
+      {
+        "text": "damit",
+        "start": 10.515,
+        "end": 10.755
+      },
+      {
+        "text": "du",
+        "start": 10.855,
+        "end": 10.915
+      },
+      {
+        "text": "dich",
+        "start": 10.935,
+        "end": 11.055
+      },
+      {
+        "text": "etwas",
+        "start": 11.095,
+        "end": 11.295
+      },
+      {
+        "text": "hinlegen",
+        "start": 11.335,
+        "end": 11.696
+      },
+      {
+        "text": "kannst?",
+        "start": 11.716,
+        "end": 12.096
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Nicht nötig.",
+    "start": 12.116,
+    "end": 13.257,
+    "words": [
+      {
+        "text": "Nicht",
+        "start": 12.116,
+        "end": 12.316
+      },
+      {
+        "text": "nötig.",
+        "start": 12.356,
+        "end": 13.257
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Schlaf ruhig weiter.",
+    "start": 13.297,
+    "end": 17.42,
+    "words": [
+      {
+        "text": "Schlaf",
+        "start": 13.297,
+        "end": 13.517
+      },
+      {
+        "text": "ruhig",
+        "start": 13.557,
+        "end": 13.777
+      },
+      {
+        "text": "weiter.",
+        "start": 13.817,
+        "end": 17.42
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Fast schon seltsam, die beiden mal so friedlich zu erleben.",
+    "start": 17.46,
+    "end": 19.582,
+    "words": [
+      {
+        "text": "Fast",
+        "start": 17.46,
+        "end": 17.62
+      },
+      {
+        "text": "schon",
+        "start": 17.66,
+        "end": 17.801
+      },
+      {
+        "text": "seltsam,",
+        "start": 17.841,
+        "end": 18.161
+      },
+      {
+        "text": "die",
+        "start": 18.181,
+        "end": 18.281
+      },
+      {
+        "text": "beiden",
+        "start": 18.301,
+        "end": 18.481
+      },
+      {
+        "text": "mal",
+        "start": 18.521,
+        "end": 18.641
+      },
+      {
+        "text": "so",
+        "start": 18.661,
+        "end": 18.761
+      },
+      {
+        "text": "friedlich",
+        "start": 18.781,
+        "end": 19.102
+      },
+      {
+        "text": "zu",
+        "start": 19.122,
+        "end": 19.202
+      },
+      {
+        "text": "erleben.",
+        "start": 19.242,
+        "end": 19.582
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Stimmt, so viel wie die beiden Toben ist das ein seltener Anblick.",
+    "start": 19.622,
+    "end": 22.444,
+    "words": [
+      {
+        "text": "Stimmt,",
+        "start": 19.622,
+        "end": 19.882
+      },
+      {
+        "text": "so",
+        "start": 19.922,
+        "end": 20.002
+      },
+      {
+        "text": "viel",
+        "start": 20.022,
+        "end": 20.182
+      },
+      {
+        "text": "wie",
+        "start": 20.202,
+        "end": 20.283
+      },
+      {
+        "text": "die",
+        "start": 20.323,
+        "end": 20.403
+      },
+      {
+        "text": "beiden",
+        "start": 20.423,
+        "end": 20.583
+      },
+      {
+        "text": "Toben",
+        "start": 20.643,
+        "end": 20.863
+      },
+      {
+        "text": "ist",
+        "start": 20.903,
+        "end": 21.023
+      },
+      {
+        "text": "das",
+        "start": 21.043,
+        "end": 21.163
+      },
+      {
+        "text": "ein",
+        "start": 21.183,
+        "end": 21.283
+      },
+      {
+        "text": "seltener",
+        "start": 21.303,
+        "end": 21.564
+      },
+      {
+        "text": "Anblick.",
+        "start": 21.604,
+        "end": 22.444
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ist dir gar nicht kalt?",
+    "start": 22.484,
+    "end": 24.046,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 22.484,
+        "end": 22.604
+      },
+      {
+        "text": "dir",
+        "start": 22.644,
+        "end": 22.765
+      },
+      {
+        "text": "gar",
+        "start": 22.785,
+        "end": 22.905
+      },
+      {
+        "text": "nicht",
+        "start": 22.925,
+        "end": 23.105
+      },
+      {
+        "text": "kalt?",
+        "start": 23.145,
+        "end": 24.046
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Nee, geht schon.",
+    "start": 24.066,
+    "end": 27.508,
+    "words": [
+      {
+        "text": "Nee,",
+        "start": 24.066,
+        "end": 24.246
+      },
+      {
+        "text": "geht",
+        "start": 24.266,
+        "end": 24.426
+      },
+      {
+        "text": "schon.",
+        "start": 24.446,
+        "end": 27.508
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Na, wir wollen doch nicht, dass du dich erkältest.",
+    "start": 27.548,
+    "end": 29.27,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 27.548,
+        "end": 27.709
+      },
+      {
+        "text": "wir",
+        "start": 27.729,
+        "end": 27.829
+      },
+      {
+        "text": "wollen",
+        "start": 27.869,
+        "end": 28.049
+      },
+      {
+        "text": "doch",
+        "start": 28.069,
+        "end": 28.189
+      },
+      {
+        "text": "nicht,",
+        "start": 28.229,
+        "end": 28.349
+      },
+      {
+        "text": "dass",
+        "start": 28.369,
+        "end": 28.509
+      },
+      {
+        "text": "du",
+        "start": 28.529,
+        "end": 28.609
+      },
+      {
+        "text": "dich",
+        "start": 28.629,
+        "end": 28.789
+      },
+      {
+        "text": "erkältest.",
+        "start": 28.83,
+        "end": 29.27
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Nanu, wo ist Mel hin?",
+    "start": 38.574,
+    "end": 51.862,
+    "words": [
+      {
+        "text": "Nanu,",
+        "start": 38.574,
+        "end": 39.175
+      },
+      {
+        "text": "wo",
+        "start": 39.215,
+        "end": 39.335
+      },
+      {
+        "text": "ist",
+        "start": 39.355,
+        "end": 39.495
+      },
+      {
+        "text": "Mel",
+        "start": 39.555,
+        "end": 39.735
+      },
+      {
+        "text": "hin?",
+        "start": 39.775,
+        "end": 51.862
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Hilo wird sie doch nicht.",
+    "start": 51.922,
+    "end": 52.843,
+    "words": [
+      {
+        "text": "Hilo",
+        "start": 51.922,
+        "end": 52.163
+      },
+      {
+        "text": "wird",
+        "start": 52.203,
+        "end": 52.343
+      },
+      {
+        "text": "sie",
+        "start": 52.363,
+        "end": 52.483
+      },
+      {
+        "text": "doch",
+        "start": 52.523,
+        "end": 52.663
+      },
+      {
+        "text": "nicht.",
+        "start": 52.703,
+        "end": 52.843
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Nein, das kann ich mir nicht vorstellen.",
+    "start": 53.764,
+    "end": 56.185,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 53.764,
+        "end": 53.964
+      },
+      {
+        "text": "das",
+        "start": 53.984,
+        "end": 54.384
+      },
+      {
+        "text": "kann",
+        "start": 54.404,
+        "end": 54.524
+      },
+      {
+        "text": "ich",
+        "start": 54.564,
+        "end": 54.644
+      },
+      {
+        "text": "mir",
+        "start": 54.664,
+        "end": 54.764
+      },
+      {
+        "text": "nicht",
+        "start": 54.784,
+        "end": 54.904
+      },
+      {
+        "text": "vorstellen.",
+        "start": 54.924,
+        "end": 56.185
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Genau, sowas würde sie nie tun.",
+    "start": 56.245,
+    "end": 57.906,
+    "words": [
+      {
+        "text": "Genau,",
+        "start": 56.245,
+        "end": 56.585
+      },
+      {
+        "text": "sowas",
+        "start": 56.605,
+        "end": 56.885
+      },
+      {
+        "text": "würde",
+        "start": 56.925,
+        "end": 57.166
+      },
+      {
+        "text": "sie",
+        "start": 57.186,
+        "end": 57.306
+      },
+      {
+        "text": "nie",
+        "start": 57.326,
+        "end": 57.486
+      },
+      {
+        "text": "tun.",
+        "start": 57.526,
+        "end": 57.906
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Aber sie hat schon mal darüber nachgedacht, ihre Artgenossen zu fressen.",
+    "start": 57.946,
+    "end": 60.568,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 57.946,
+        "end": 58.126
+      },
+      {
+        "text": "sie",
+        "start": 58.146,
+        "end": 58.226
+      },
+      {
+        "text": "hat",
+        "start": 58.246,
+        "end": 58.366
+      },
+      {
+        "text": "schon",
+        "start": 58.386,
+        "end": 58.506
+      },
+      {
+        "text": "mal",
+        "start": 58.586,
+        "end": 58.667
+      },
+      {
+        "text": "darüber",
+        "start": 58.687,
+        "end": 58.927
+      },
+      {
+        "text": "nachgedacht,",
+        "start": 58.967,
+        "end": 59.367
+      },
+      {
+        "text": "ihre",
+        "start": 59.407,
+        "end": 59.547
+      },
+      {
+        "text": "Artgenossen",
+        "start": 59.587,
+        "end": 60.127
+      },
+      {
+        "text": "zu",
+        "start": 60.167,
+        "end": 60.268
+      },
+      {
+        "text": "fressen.",
+        "start": 60.288,
+        "end": 60.568
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Schon, aber... Ophthalia?",
+    "start": 61.008,
+    "end": 65.231,
+    "words": [
+      {
+        "text": "Schon,",
+        "start": 61.008,
+        "end": 61.728
+      },
+      {
+        "text": "aber...",
+        "start": 61.768,
+        "end": 64.25
+      },
+      {
+        "text": "Ophthalia?",
+        "start": 64.31,
+        "end": 65.231
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ja?",
+    "start": 65.391,
+    "end": 65.451,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 65.391,
+        "end": 65.451
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Wir haben nichts gesehen, verstanden?",
+    "start": 67.208,
+    "end": 69.23,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 67.208,
+        "end": 67.268
+      },
+      {
+        "text": "haben",
+        "start": 67.308,
+        "end": 67.448
+      },
+      {
+        "text": "nichts",
+        "start": 67.468,
+        "end": 67.668
+      },
+      {
+        "text": "gesehen,",
+        "start": 67.688,
+        "end": 67.929
+      },
+      {
+        "text": "verstanden?",
+        "start": 67.949,
+        "end": 69.23
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Was?",
+    "start": 69.25,
+    "end": 69.71,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 69.25,
+        "end": 69.71
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Was redest du denn da?",
+    "start": 69.73,
+    "end": 71.131,
+    "words": [
+      {
+        "text": "Was",
+        "start": 69.73,
+        "end": 69.93
+      },
+      {
+        "text": "redest",
+        "start": 69.95,
+        "end": 70.251
+      },
+      {
+        "text": "du",
+        "start": 70.271,
+        "end": 70.371
+      },
+      {
+        "text": "denn",
+        "start": 70.411,
+        "end": 70.571
+      },
+      {
+        "text": "da?",
+        "start": 70.591,
+        "end": 71.131
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ja, wenn wir die Beweise verschwinden lassen, dann... Ist das etwa dein Ernst?",
+    "start": 71.152,
+    "end": 74.635,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 71.152,
+        "end": 71.352
+      },
+      {
+        "text": "wenn",
+        "start": 71.372,
+        "end": 71.492
+      },
+      {
+        "text": "wir",
+        "start": 71.532,
+        "end": 71.632
+      },
+      {
+        "text": "die",
+        "start": 71.652,
+        "end": 71.732
+      },
+      {
+        "text": "Beweise",
+        "start": 71.752,
+        "end": 72.132
+      },
+      {
+        "text": "verschwinden",
+        "start": 72.152,
+        "end": 72.533
+      },
+      {
+        "text": "lassen,",
+        "start": 72.573,
+        "end": 72.793
+      },
+      {
+        "text": "dann...",
+        "start": 72.833,
+        "end": 73.434
+      },
+      {
+        "text": "Ist",
+        "start": 73.494,
+        "end": 73.634
+      },
+      {
+        "text": "das",
+        "start": 73.654,
+        "end": 73.854
+      },
+      {
+        "text": "etwa",
+        "start": 73.894,
+        "end": 74.094
+      },
+      {
+        "text": "dein",
+        "start": 74.114,
+        "end": 74.314
+      },
+      {
+        "text": "Ernst?",
+        "start": 74.354,
+        "end": 74.635
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Wär's dir lieber, irgendeinem stinkreichen Adeligen zu erklären, dass Filo leider seine Tochter verspeist hat?",
+    "start": 74.655,
+    "end": 81.02,
+    "words": [
+      {
+        "text": "Wär's",
+        "start": 74.655,
+        "end": 74.815
+      },
+      {
+        "text": "dir",
+        "start": 74.855,
+        "end": 74.995
+      },
+      {
+        "text": "lieber,",
+        "start": 75.035,
+        "end": 75.195
+      },
+      {
+        "text": "irgendeinem",
+        "start": 75.235,
+        "end": 75.656
+      },
+      {
+        "text": "stinkreichen",
+        "start": 75.676,
+        "end": 76.136
+      },
+      {
+        "text": "Adeligen",
+        "start": 76.156,
+        "end": 76.436
+      },
+      {
+        "text": "zu",
+        "start": 76.476,
+        "end": 76.536
+      },
+      {
+        "text": "erklären,",
+        "start": 76.576,
+        "end": 76.837
+      },
+      {
+        "text": "dass",
+        "start": 76.857,
+        "end": 77.117
+      },
+      {
+        "text": "Filo",
+        "start": 77.137,
+        "end": 77.417
+      },
+      {
+        "text": "leider",
+        "start": 77.457,
+        "end": 77.697
+      },
+      {
+        "text": "seine",
+        "start": 77.737,
+        "end": 77.918
+      },
+      {
+        "text": "Tochter",
+        "start": 77.958,
+        "end": 78.278
+      },
+      {
+        "text": "verspeist",
+        "start": 78.298,
+        "end": 78.698
+      },
+      {
+        "text": "hat?",
+        "start": 78.738,
+        "end": 81.02
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Was ist denn los?",
+    "start": 81.04,
+    "end": 82.041,
+    "words": [
+      {
+        "text": "Was",
+        "start": 81.04,
+        "end": 81.261
+      },
+      {
+        "text": "ist",
+        "start": 81.321,
+        "end": 81.441
+      },
+      {
+        "text": "denn",
+        "start": 81.481,
+        "end": 81.661
+      },
+      {
+        "text": "los?",
+        "start": 81.681,
+        "end": 82.041
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Stimmt was nicht, Meister?",
+    "start": 82.061,
+    "end": 83.222,
+    "words": [
+      {
+        "text": "Stimmt",
+        "start": 82.061,
+        "end": 82.342
+      },
+      {
+        "text": "was",
+        "start": 82.362,
+        "end": 82.542
+      },
+      {
+        "text": "nicht,",
+        "start": 82.582,
+        "end": 82.742
+      },
+      {
+        "text": "Meister?",
+        "start": 82.802,
+        "end": 83.222
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Philo sag, was ist mit Mel passiert?",
+    "start": 84.765,
+    "end": 86.967,
+    "words": [
+      {
+        "text": "Philo",
+        "start": 84.765,
+        "end": 85.205
+      },
+      {
+        "text": "sag,",
+        "start": 85.225,
+        "end": 85.826
+      },
+      {
+        "text": "was",
+        "start": 85.866,
+        "end": 85.966
+      },
+      {
+        "text": "ist",
+        "start": 86.006,
+        "end": 86.146
+      },
+      {
+        "text": "mit",
+        "start": 86.166,
+        "end": 86.306
+      },
+      {
+        "text": "Mel",
+        "start": 86.346,
+        "end": 86.587
+      },
+      {
+        "text": "passiert?",
+        "start": 86.607,
+        "end": 86.967
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Was soll mit ihr sein?",
+    "start": 88.068,
+    "end": 89.189,
+    "words": [
+      {
+        "text": "Was",
+        "start": 88.068,
+        "end": 88.248
+      },
+      {
+        "text": "soll",
+        "start": 88.268,
+        "end": 88.448
+      },
+      {
+        "text": "mit",
+        "start": 88.488,
+        "end": 88.608
+      },
+      {
+        "text": "ihr",
+        "start": 88.648,
+        "end": 88.768
+      },
+      {
+        "text": "sein?",
+        "start": 88.788,
+        "end": 89.189
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Sie hat es sich über Nacht in meinem Federkleid gemütlich gemacht.",
+    "start": 89.229,
+    "end": 91.871,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 89.229,
+        "end": 89.349
+      },
+      {
+        "text": "hat",
+        "start": 89.369,
+        "end": 89.489
+      },
+      {
+        "text": "es",
+        "start": 89.529,
+        "end": 89.629
+      },
+      {
+        "text": "sich",
+        "start": 89.649,
+        "end": 89.809
+      },
+      {
+        "text": "über",
+        "start": 89.849,
+        "end": 89.989
+      },
+      {
+        "text": "Nacht",
+        "start": 90.029,
+        "end": 90.169
+      },
+      {
+        "text": "in",
+        "start": 90.229,
+        "end": 90.309
+      },
+      {
+        "text": "meinem",
+        "start": 90.349,
+        "end": 90.57
+      },
+      {
+        "text": "Federkleid",
+        "start": 90.59,
+        "end": 91.09
+      },
+      {
+        "text": "gemütlich",
+        "start": 91.13,
+        "end": 91.57
+      },
+      {
+        "text": "gemacht.",
+        "start": 91.61,
+        "end": 91.871
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Hey Mel, aufgewacht!",
+    "start": 93.152,
+    "end": 98.275,
+    "words": [
+      {
+        "text": "Hey",
+        "start": 93.152,
+        "end": 93.352
+      },
+      {
+        "text": "Mel,",
+        "start": 93.392,
+        "end": 93.752
+      },
+      {
+        "text": "aufgewacht!",
+        "start": 93.812,
+        "end": 98.275
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Stimmt was nicht?",
+    "start": 98.316,
+    "end": 100.317,
+    "words": [
+      {
+        "text": "Stimmt",
+        "start": 98.316,
+        "end": 98.636
+      },
+      {
+        "text": "was",
+        "start": 98.696,
+        "end": 98.936
+      },
+      {
+        "text": "nicht?",
+        "start": 98.976,
+        "end": 100.317
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Was treibst du denn da?",
+    "start": 100.377,
+    "end": 101.918,
+    "words": [
+      {
+        "text": "Was",
+        "start": 100.377,
+        "end": 100.537
+      },
+      {
+        "text": "treibst",
+        "start": 100.577,
+        "end": 100.877
+      },
+      {
+        "text": "du",
+        "start": 100.898,
+        "end": 100.998
+      },
+      {
+        "text": "denn",
+        "start": 101.018,
+        "end": 101.198
+      },
+      {
+        "text": "da?",
+        "start": 101.218,
+        "end": 101.918
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Philos Federkleid ist so weich und flauschig, dass ich nicht widerstehen konnte und eingeschlafen bin.",
+    "start": 101.958,
+    "end": 106.102,
+    "words": [
+      {
+        "text": "Philos",
+        "start": 101.958,
+        "end": 102.279
+      },
+      {
+        "text": "Federkleid",
+        "start": 102.299,
+        "end": 102.799
+      },
+      {
+        "text": "ist",
+        "start": 102.839,
+        "end": 102.959
+      },
+      {
+        "text": "so",
+        "start": 102.979,
+        "end": 103.059
+      },
+      {
+        "text": "weich",
+        "start": 103.099,
+        "end": 103.279
+      },
+      {
+        "text": "und",
+        "start": 103.319,
+        "end": 103.459
+      },
+      {
+        "text": "flauschig,",
+        "start": 103.479,
+        "end": 103.84
+      },
+      {
+        "text": "dass",
+        "start": 103.86,
+        "end": 104.0
+      },
+      {
+        "text": "ich",
+        "start": 104.04,
+        "end": 104.12
+      },
+      {
+        "text": "nicht",
+        "start": 104.16,
+        "end": 104.3
+      },
+      {
+        "text": "widerstehen",
+        "start": 104.32,
+        "end": 104.74
+      },
+      {
+        "text": "konnte",
+        "start": 104.78,
+        "end": 104.981
+      },
+      {
+        "text": "und",
+        "start": 105.021,
+        "end": 105.161
+      },
+      {
+        "text": "eingeschlafen",
+        "start": 105.201,
+        "end": 105.741
+      },
+      {
+        "text": "bin.",
+        "start": 105.781,
+        "end": 106.102
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Und deshalb hast du dich ausgezogen?",
+    "start": 106.142,
+    "end": 107.863,
+    "words": [
+      {
+        "text": "Und",
+        "start": 106.142,
+        "end": 106.502
+      },
+      {
+        "text": "deshalb",
+        "start": 106.542,
+        "end": 106.782
+      },
+      {
+        "text": "hast",
+        "start": 106.822,
+        "end": 106.982
+      },
+      {
+        "text": "du",
+        "start": 107.002,
+        "end": 107.122
+      },
+      {
+        "text": "dich",
+        "start": 107.142,
+        "end": 107.302
+      },
+      {
+        "text": "ausgezogen?",
+        "start": 107.342,
+        "end": 107.863
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Mhm.",
+    "start": 107.883,
+    "end": 109.724,
+    "words": [
+      {
+        "text": "Mhm.",
+        "start": 107.883,
+        "end": 109.724
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Aber wie bist du da reingekommen?",
+    "start": 109.764,
+    "end": 111.145,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 109.764,
+        "end": 109.984
+      },
+      {
+        "text": "wie",
+        "start": 110.005,
+        "end": 110.125
+      },
+      {
+        "text": "bist",
+        "start": 110.145,
+        "end": 110.305
+      },
+      {
+        "text": "du",
+        "start": 110.345,
+        "end": 110.425
+      },
+      {
+        "text": "da",
+        "start": 110.465,
+        "end": 110.545
+      },
+      {
+        "text": "reingekommen?",
+        "start": 110.565,
+        "end": 111.145
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": " Es ist so schön warm.",
+    "start": 114.815,
+    "end": 116.679,
+    "words": [
+      {
+        "text": "Es",
+        "start": 114.815,
+        "end": 114.896
+      },
+      {
+        "text": "ist",
+        "start": 114.936,
+        "end": 115.076
+      },
+      {
+        "text": "so",
+        "start": 115.096,
+        "end": 115.216
+      },
+      {
+        "text": "schön",
+        "start": 115.236,
+        "end": 115.456
+      },
+      {
+        "text": "warm.",
+        "start": 115.517,
+        "end": 116.679
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Das fühlt sich toll an.",
+    "start": 116.699,
+    "end": 123.79,
+    "words": [
+      {
+        "text": "Das",
+        "start": 116.699,
+        "end": 116.919
+      },
+      {
+        "text": "fühlt",
+        "start": 116.959,
+        "end": 117.139
+      },
+      {
+        "text": "sich",
+        "start": 117.179,
+        "end": 117.44
+      },
+      {
+        "text": "toll",
+        "start": 117.48,
+        "end": 117.72
+      },
+      {
+        "text": "an.",
+        "start": 117.78,
+        "end": 123.79
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Besitzen ihre Federn etwa einen hypnotischen Effekt oder so?",
+    "start": 123.811,
+    "end": 126.315,
+    "words": [
+      {
+        "text": "Besitzen",
+        "start": 123.811,
+        "end": 124.231
+      },
+      {
+        "text": "ihre",
+        "start": 124.271,
+        "end": 124.432
+      },
+      {
+        "text": "Federn",
+        "start": 124.472,
+        "end": 124.752
+      },
+      {
+        "text": "etwa",
+        "start": 124.792,
+        "end": 124.952
+      },
+      {
+        "text": "einen",
+        "start": 124.972,
+        "end": 125.093
+      },
+      {
+        "text": "hypnotischen",
+        "start": 125.113,
+        "end": 125.614
+      },
+      {
+        "text": "Effekt",
+        "start": 125.654,
+        "end": 125.974
+      },
+      {
+        "text": "oder",
+        "start": 126.014,
+        "end": 126.215
+      },
+      {
+        "text": "so?",
+        "start": 126.255,
+        "end": 126.315
+      }
+    ]
+  }
+]

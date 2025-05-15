@@ -1,0 +1,853 @@
+[
+  {
+    "id": 0,
+    "text": " Das ist die bittere Realität.",
+    "start": 0.391,
+    "end": 3.393,
+    "words": [
+      {
+        "text": "Das",
+        "start": 0.391,
+        "end": 0.491
+      },
+      {
+        "text": "ist",
+        "start": 0.531,
+        "end": 0.611
+      },
+      {
+        "text": "die",
+        "start": 0.631,
+        "end": 0.691
+      },
+      {
+        "text": "bittere",
+        "start": 0.732,
+        "end": 1.072
+      },
+      {
+        "text": "Realität.",
+        "start": 1.092,
+        "end": 3.393
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Tut mir leid fürs Warten.",
+    "start": 3.413,
+    "end": 4.594,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 3.413,
+        "end": 3.594
+      },
+      {
+        "text": "mir",
+        "start": 3.614,
+        "end": 3.714
+      },
+      {
+        "text": "leid",
+        "start": 3.754,
+        "end": 3.894
+      },
+      {
+        "text": "fürs",
+        "start": 3.914,
+        "end": 4.094
+      },
+      {
+        "text": "Warten.",
+        "start": 4.134,
+        "end": 4.594
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ähm, also... Wer bist du nochmal?",
+    "start": 4.694,
+    "end": 10.979,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 4.694,
+        "end": 5.655
+      },
+      {
+        "text": "also...",
+        "start": 5.695,
+        "end": 6.616
+      },
+      {
+        "text": "Wer",
+        "start": 6.636,
+        "end": 6.776
+      },
+      {
+        "text": "bist",
+        "start": 6.796,
+        "end": 6.896
+      },
+      {
+        "text": "du",
+        "start": 6.916,
+        "end": 7.016
+      },
+      {
+        "text": "nochmal?",
+        "start": 7.036,
+        "end": 10.979
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ach, die Stimme vom Vogel!",
+    "start": 11.059,
+    "end": 19.525,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 11.059,
+        "end": 11.92
+      },
+      {
+        "text": "die",
+        "start": 11.94,
+        "end": 12.06
+      },
+      {
+        "text": "Stimme",
+        "start": 12.1,
+        "end": 12.34
+      },
+      {
+        "text": "vom",
+        "start": 12.38,
+        "end": 12.56
+      },
+      {
+        "text": "Vogel!",
+        "start": 12.6,
+        "end": 19.525
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Ich hätte nicht gedacht, dass in Wahrheit eine Person hinter dem Vogel steckt.",
+    "start": 19.585,
+    "end": 25.489,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 19.585,
+        "end": 19.685
+      },
+      {
+        "text": "hätte",
+        "start": 19.705,
+        "end": 19.945
+      },
+      {
+        "text": "nicht",
+        "start": 19.965,
+        "end": 20.146
+      },
+      {
+        "text": "gedacht,",
+        "start": 20.166,
+        "end": 20.426
+      },
+      {
+        "text": "dass",
+        "start": 20.446,
+        "end": 20.606
+      },
+      {
+        "text": "in",
+        "start": 20.646,
+        "end": 20.766
+      },
+      {
+        "text": "Wahrheit",
+        "start": 20.786,
+        "end": 21.086
+      },
+      {
+        "text": "eine",
+        "start": 21.126,
+        "end": 21.286
+      },
+      {
+        "text": "Person",
+        "start": 21.326,
+        "end": 21.547
+      },
+      {
+        "text": "hinter",
+        "start": 21.667,
+        "end": 21.847
+      },
+      {
+        "text": "dem",
+        "start": 21.887,
+        "end": 22.027
+      },
+      {
+        "text": "Vogel",
+        "start": 22.067,
+        "end": 22.307
+      },
+      {
+        "text": "steckt.",
+        "start": 22.347,
+        "end": 25.489
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ich sagte, ich hätte nicht gedacht, dass in Wahrheit eine Person hinter dem Vogel steckt.",
+    "start": 25.53,
+    "end": 28.812,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 25.53,
+        "end": 25.65
+      },
+      {
+        "text": "sagte,",
+        "start": 25.69,
+        "end": 26.01
+      },
+      {
+        "text": "ich",
+        "start": 26.03,
+        "end": 26.11
+      },
+      {
+        "text": "hätte",
+        "start": 26.13,
+        "end": 26.35
+      },
+      {
+        "text": "nicht",
+        "start": 26.39,
+        "end": 26.55
+      },
+      {
+        "text": "gedacht,",
+        "start": 26.59,
+        "end": 26.79
+      },
+      {
+        "text": "dass",
+        "start": 26.83,
+        "end": 26.971
+      },
+      {
+        "text": "in",
+        "start": 27.031,
+        "end": 27.111
+      },
+      {
+        "text": "Wahrheit",
+        "start": 27.151,
+        "end": 27.431
+      },
+      {
+        "text": "eine",
+        "start": 27.471,
+        "end": 27.631
+      },
+      {
+        "text": "Person",
+        "start": 27.671,
+        "end": 27.931
+      },
+      {
+        "text": "hinter",
+        "start": 27.951,
+        "end": 28.151
+      },
+      {
+        "text": "dem",
+        "start": 28.191,
+        "end": 28.332
+      },
+      {
+        "text": "Vogel",
+        "start": 28.352,
+        "end": 28.592
+      },
+      {
+        "text": "steckt.",
+        "start": 28.612,
+        "end": 28.812
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Ich sagte, ich hätte nicht gedacht... Hey, sag mal, ist dein Gedächtnis kaputt oder was?",
+    "start": 32.859,
+    "end": 38.509,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 32.859,
+        "end": 33.06
+      },
+      {
+        "text": "sagte,",
+        "start": 33.1,
+        "end": 34.081
+      },
+      {
+        "text": "ich",
+        "start": 34.121,
+        "end": 34.242
+      },
+      {
+        "text": "hätte",
+        "start": 34.262,
+        "end": 34.502
+      },
+      {
+        "text": "nicht",
+        "start": 34.522,
+        "end": 34.702
+      },
+      {
+        "text": "gedacht...",
+        "start": 34.722,
+        "end": 34.963
+      },
+      {
+        "text": "Hey,",
+        "start": 35.023,
+        "end": 35.243
+      },
+      {
+        "text": "sag",
+        "start": 35.263,
+        "end": 35.364
+      },
+      {
+        "text": "mal,",
+        "start": 35.384,
+        "end": 35.464
+      },
+      {
+        "text": "ist",
+        "start": 35.504,
+        "end": 35.724
+      },
+      {
+        "text": "dein",
+        "start": 35.744,
+        "end": 35.884
+      },
+      {
+        "text": "Gedächtnis",
+        "start": 35.904,
+        "end": 36.345
+      },
+      {
+        "text": "kaputt",
+        "start": 36.385,
+        "end": 36.706
+      },
+      {
+        "text": "oder",
+        "start": 36.726,
+        "end": 36.926
+      },
+      {
+        "text": "was?",
+        "start": 36.986,
+        "end": 38.509
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Nun, sag mir, wer bist du überhaupt?",
+    "start": 38.549,
+    "end": 40.713,
+    "words": [
+      {
+        "text": "Nun,",
+        "start": 38.549,
+        "end": 39.41
+      },
+      {
+        "text": "sag",
+        "start": 39.491,
+        "end": 39.711
+      },
+      {
+        "text": "mir,",
+        "start": 39.731,
+        "end": 39.871
+      },
+      {
+        "text": "wer",
+        "start": 39.891,
+        "end": 40.031
+      },
+      {
+        "text": "bist",
+        "start": 40.051,
+        "end": 40.192
+      },
+      {
+        "text": "du",
+        "start": 40.232,
+        "end": 40.372
+      },
+      {
+        "text": "überhaupt?",
+        "start": 40.392,
+        "end": 40.713
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Ich bin Naomi Ortman.",
+    "start": 41.977,
+    "end": 43.298,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 41.977,
+        "end": 42.057
+      },
+      {
+        "text": "bin",
+        "start": 42.077,
+        "end": 42.177
+      },
+      {
+        "text": "Naomi",
+        "start": 42.197,
+        "end": 42.697
+      },
+      {
+        "text": "Ortman.",
+        "start": 42.758,
+        "end": 43.298
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Freut mich sehr.",
+    "start": 43.338,
+    "end": 43.998,
+    "words": [
+      {
+        "text": "Freut",
+        "start": 43.338,
+        "end": 43.578
+      },
+      {
+        "text": "mich",
+        "start": 43.598,
+        "end": 43.778
+      },
+      {
+        "text": "sehr.",
+        "start": 43.818,
+        "end": 43.998
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich werde dich unterstützen.",
+    "start": 44.018,
+    "end": 45.218,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 44.018,
+        "end": 44.158
+      },
+      {
+        "text": "werde",
+        "start": 44.178,
+        "end": 44.378
+      },
+      {
+        "text": "dich",
+        "start": 44.398,
+        "end": 44.598
+      },
+      {
+        "text": "unterstützen.",
+        "start": 44.618,
+        "end": 45.218
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Wir sind fort an ein Team.",
+    "start": 45.258,
+    "end": 46.719,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 45.258,
+        "end": 45.358
+      },
+      {
+        "text": "sind",
+        "start": 45.398,
+        "end": 45.599
+      },
+      {
+        "text": "fort",
+        "start": 45.639,
+        "end": 45.859
+      },
+      {
+        "text": "an",
+        "start": 45.899,
+        "end": 46.059
+      },
+      {
+        "text": "ein",
+        "start": 46.099,
+        "end": 46.299
+      },
+      {
+        "text": "Team.",
+        "start": 46.359,
+        "end": 46.719
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Das ist sehr lieb von dir.",
+    "start": 46.739,
+    "end": 48.64,
+    "words": [
+      {
+        "text": "Das",
+        "start": 46.739,
+        "end": 46.879
+      },
+      {
+        "text": "ist",
+        "start": 46.939,
+        "end": 47.139
+      },
+      {
+        "text": "sehr",
+        "start": 47.159,
+        "end": 47.339
+      },
+      {
+        "text": "lieb",
+        "start": 47.379,
+        "end": 47.579
+      },
+      {
+        "text": "von",
+        "start": 47.599,
+        "end": 47.779
+      },
+      {
+        "text": "dir.",
+        "start": 47.819,
+        "end": 48.64
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und mein Name lautet... Ich kenne dich.",
+    "start": 48.68,
+    "end": 51.18,
+    "words": [
+      {
+        "text": "Und",
+        "start": 48.68,
+        "end": 48.9
+      },
+      {
+        "text": "mein",
+        "start": 48.94,
+        "end": 49.1
+      },
+      {
+        "text": "Name",
+        "start": 49.14,
+        "end": 49.44
+      },
+      {
+        "text": "lautet...",
+        "start": 49.48,
+        "end": 49.68
+      },
+      {
+        "text": "Ich",
+        "start": 49.72,
+        "end": 49.82
+      },
+      {
+        "text": "kenne",
+        "start": 49.86,
+        "end": 50.12
+      },
+      {
+        "text": "dich.",
+        "start": 50.14,
+        "end": 51.18
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Das freut mich.",
+    "start": 51.22,
+    "end": 51.781,
+    "words": [
+      {
+        "text": "Das",
+        "start": 51.22,
+        "end": 51.34
+      },
+      {
+        "text": "freut",
+        "start": 51.381,
+        "end": 51.601
+      },
+      {
+        "text": "mich.",
+        "start": 51.641,
+        "end": 51.781
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Verzeihung!",
+    "start": 55.482,
+    "end": 56.862,
+    "words": [
+      {
+        "text": "Verzeihung!",
+        "start": 55.482,
+        "end": 56.862
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Eine große Portion Chahan, doppelt gekochtes Schweinefleisch, Mapo Tofu und Xinjiang.",
+    "start": 56.922,
+    "end": 62.804,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 56.922,
+        "end": 57.082
+      },
+      {
+        "text": "große",
+        "start": 57.102,
+        "end": 57.363
+      },
+      {
+        "text": "Portion",
+        "start": 57.403,
+        "end": 57.783
+      },
+      {
+        "text": "Chahan,",
+        "start": 57.803,
+        "end": 58.203
+      },
+      {
+        "text": "doppelt",
+        "start": 58.223,
+        "end": 58.483
+      },
+      {
+        "text": "gekochtes",
+        "start": 58.503,
+        "end": 58.923
+      },
+      {
+        "text": "Schweinefleisch,",
+        "start": 58.943,
+        "end": 59.543
+      },
+      {
+        "text": "Mapo",
+        "start": 59.563,
+        "end": 59.863
+      },
+      {
+        "text": "Tofu",
+        "start": 59.883,
+        "end": 60.264
+      },
+      {
+        "text": "und",
+        "start": 60.324,
+        "end": 60.424
+      },
+      {
+        "text": "Xinjiang.",
+        "start": 60.444,
+        "end": 62.804
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Sag mal, was ist mit dem Vogel?",
+    "start": 62.844,
+    "end": 64.985,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 62.844,
+        "end": 63.005
+      },
+      {
+        "text": "mal,",
+        "start": 63.085,
+        "end": 63.305
+      },
+      {
+        "text": "was",
+        "start": 63.345,
+        "end": 63.445
+      },
+      {
+        "text": "ist",
+        "start": 63.485,
+        "end": 63.605
+      },
+      {
+        "text": "mit",
+        "start": 63.625,
+        "end": 63.745
+      },
+      {
+        "text": "dem",
+        "start": 63.765,
+        "end": 63.925
+      },
+      {
+        "text": "Vogel?",
+        "start": 63.945,
+        "end": 64.985
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Der ist tot.",
+    "start": 65.045,
+    "end": 66.266,
+    "words": [
+      {
+        "text": "Der",
+        "start": 65.045,
+        "end": 65.165
+      },
+      {
+        "text": "ist",
+        "start": 65.225,
+        "end": 65.365
+      },
+      {
+        "text": "tot.",
+        "start": 65.385,
+        "end": 66.266
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Oh, das ist schade.",
+    "start": 66.346,
+    "end": 67.966,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 66.346,
+        "end": 66.686
+      },
+      {
+        "text": "das",
+        "start": 66.726,
+        "end": 66.846
+      },
+      {
+        "text": "ist",
+        "start": 66.886,
+        "end": 67.006
+      },
+      {
+        "text": "schade.",
+        "start": 67.046,
+        "end": 67.966
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Mein aufrichtiges Beileid.",
+    "start": 68.006,
+    "end": 69.087,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 68.006,
+        "end": 68.186
+      },
+      {
+        "text": "aufrichtiges",
+        "start": 68.206,
+        "end": 68.707
+      },
+      {
+        "text": "Beileid.",
+        "start": 68.747,
+        "end": 69.087
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Vielen Dank.",
+    "start": 69.527,
+    "end": 70.027,
+    "words": [
+      {
+        "text": "Vielen",
+        "start": 69.527,
+        "end": 69.767
+      },
+      {
+        "text": "Dank.",
+        "start": 69.847,
+        "end": 70.027
+      }
+    ]
+  }
+]

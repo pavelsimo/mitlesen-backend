@@ -1,0 +1,906 @@
+[
+  {
+    "id": 0,
+    "text": " Gut, hier lässt es sich bestens praktizieren.",
+    "start": 5.178,
+    "end": 7.921,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 5.178,
+        "end": 6.039
+      },
+      {
+        "text": "hier",
+        "start": 6.079,
+        "end": 6.239
+      },
+      {
+        "text": "lässt",
+        "start": 6.279,
+        "end": 6.439
+      },
+      {
+        "text": "es",
+        "start": 6.479,
+        "end": 6.579
+      },
+      {
+        "text": "sich",
+        "start": 6.619,
+        "end": 6.82
+      },
+      {
+        "text": "bestens",
+        "start": 6.84,
+        "end": 7.26
+      },
+      {
+        "text": "praktizieren.",
+        "start": 7.3,
+        "end": 7.921
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Aber Feimer, was sehe ich da?",
+    "start": 9.022,
+    "end": 10.443,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 9.022,
+        "end": 9.262
+      },
+      {
+        "text": "Feimer,",
+        "start": 9.282,
+        "end": 9.662
+      },
+      {
+        "text": "was",
+        "start": 9.682,
+        "end": 9.802
+      },
+      {
+        "text": "sehe",
+        "start": 9.822,
+        "end": 10.103
+      },
+      {
+        "text": "ich",
+        "start": 10.163,
+        "end": 10.283
+      },
+      {
+        "text": "da?",
+        "start": 10.303,
+        "end": 10.443
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Du hast ja deinen Stab überhaupt nicht dabei!",
+    "start": 10.463,
+    "end": 12.645,
+    "words": [
+      {
+        "text": "Du",
+        "start": 10.463,
+        "end": 10.623
+      },
+      {
+        "text": "hast",
+        "start": 10.643,
+        "end": 10.803
+      },
+      {
+        "text": "ja",
+        "start": 10.823,
+        "end": 10.983
+      },
+      {
+        "text": "deinen",
+        "start": 11.003,
+        "end": 11.144
+      },
+      {
+        "text": "Stab",
+        "start": 11.184,
+        "end": 11.484
+      },
+      {
+        "text": "überhaupt",
+        "start": 11.524,
+        "end": 11.844
+      },
+      {
+        "text": "nicht",
+        "start": 11.884,
+        "end": 12.064
+      },
+      {
+        "text": "dabei!",
+        "start": 12.084,
+        "end": 12.645
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Was für einen Stab?",
+    "start": 12.745,
+    "end": 14.286,
+    "words": [
+      {
+        "text": "Was",
+        "start": 12.745,
+        "end": 13.165
+      },
+      {
+        "text": "für",
+        "start": 13.205,
+        "end": 13.406
+      },
+      {
+        "text": "einen",
+        "start": 13.446,
+        "end": 13.586
+      },
+      {
+        "text": "Stab?",
+        "start": 13.626,
+        "end": 14.286
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Er verstärkt die Deos-Kraft und hilft sie unter Kontrolle zu bringen.",
+    "start": 14.346,
+    "end": 17.91,
+    "words": [
+      {
+        "text": "Er",
+        "start": 14.346,
+        "end": 14.527
+      },
+      {
+        "text": "verstärkt",
+        "start": 14.567,
+        "end": 14.987
+      },
+      {
+        "text": "die",
+        "start": 15.027,
+        "end": 15.147
+      },
+      {
+        "text": "Deos-Kraft",
+        "start": 15.187,
+        "end": 15.788
+      },
+      {
+        "text": "und",
+        "start": 15.828,
+        "end": 16.008
+      },
+      {
+        "text": "hilft",
+        "start": 16.028,
+        "end": 16.208
+      },
+      {
+        "text": "sie",
+        "start": 16.228,
+        "end": 16.368
+      },
+      {
+        "text": "unter",
+        "start": 16.388,
+        "end": 16.649
+      },
+      {
+        "text": "Kontrolle",
+        "start": 16.669,
+        "end": 17.149
+      },
+      {
+        "text": "zu",
+        "start": 17.189,
+        "end": 17.289
+      },
+      {
+        "text": "bringen.",
+        "start": 17.349,
+        "end": 17.91
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Wir nennen ihn Deos-Stab.",
+    "start": 17.95,
+    "end": 19.211,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 17.95,
+        "end": 18.11
+      },
+      {
+        "text": "nennen",
+        "start": 18.13,
+        "end": 18.35
+      },
+      {
+        "text": "ihn",
+        "start": 18.39,
+        "end": 18.51
+      },
+      {
+        "text": "Deos-Stab.",
+        "start": 18.55,
+        "end": 19.211
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ach, dafür ist also der Stab über meinem Bett.",
+    "start": 19.812,
+    "end": 23.775,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 19.812,
+        "end": 20.172
+      },
+      {
+        "text": "dafür",
+        "start": 20.232,
+        "end": 20.652
+      },
+      {
+        "text": "ist",
+        "start": 20.712,
+        "end": 20.973
+      },
+      {
+        "text": "also",
+        "start": 21.013,
+        "end": 21.713
+      },
+      {
+        "text": "der",
+        "start": 21.733,
+        "end": 21.913
+      },
+      {
+        "text": "Stab",
+        "start": 21.954,
+        "end": 22.294
+      },
+      {
+        "text": "über",
+        "start": 22.314,
+        "end": 22.534
+      },
+      {
+        "text": "meinem",
+        "start": 22.574,
+        "end": 22.814
+      },
+      {
+        "text": "Bett.",
+        "start": 22.854,
+        "end": 23.775
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Tut mir leid, das habe ich ja total vergessen.",
+    "start": 23.815,
+    "end": 25.797,
+    "words": [
+      {
+        "text": "Tut",
+        "start": 23.815,
+        "end": 24.035
+      },
+      {
+        "text": "mir",
+        "start": 24.055,
+        "end": 24.236
+      },
+      {
+        "text": "leid,",
+        "start": 24.276,
+        "end": 24.496
+      },
+      {
+        "text": "das",
+        "start": 24.536,
+        "end": 24.656
+      },
+      {
+        "text": "habe",
+        "start": 24.676,
+        "end": 24.796
+      },
+      {
+        "text": "ich",
+        "start": 24.816,
+        "end": 24.896
+      },
+      {
+        "text": "ja",
+        "start": 24.916,
+        "end": 25.056
+      },
+      {
+        "text": "total",
+        "start": 25.096,
+        "end": 25.417
+      },
+      {
+        "text": "vergessen.",
+        "start": 25.437,
+        "end": 25.797
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Dann leihe ich dir heute mal meinen Stab aus, richte ihn auf das Wasser und erschaffe einen Wassersperr.",
+    "start": 30.608,
+    "end": 36.19,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 30.608,
+        "end": 30.888
+      },
+      {
+        "text": "leihe",
+        "start": 30.908,
+        "end": 31.108
+      },
+      {
+        "text": "ich",
+        "start": 31.128,
+        "end": 31.208
+      },
+      {
+        "text": "dir",
+        "start": 31.248,
+        "end": 31.328
+      },
+      {
+        "text": "heute",
+        "start": 31.348,
+        "end": 31.528
+      },
+      {
+        "text": "mal",
+        "start": 31.548,
+        "end": 31.728
+      },
+      {
+        "text": "meinen",
+        "start": 31.748,
+        "end": 31.968
+      },
+      {
+        "text": "Stab",
+        "start": 31.988,
+        "end": 32.268
+      },
+      {
+        "text": "aus,",
+        "start": 32.309,
+        "end": 32.849
+      },
+      {
+        "text": "richte",
+        "start": 32.889,
+        "end": 33.109
+      },
+      {
+        "text": "ihn",
+        "start": 33.129,
+        "end": 33.269
+      },
+      {
+        "text": "auf",
+        "start": 33.309,
+        "end": 33.409
+      },
+      {
+        "text": "das",
+        "start": 33.429,
+        "end": 33.609
+      },
+      {
+        "text": "Wasser",
+        "start": 33.669,
+        "end": 34.249
+      },
+      {
+        "text": "und",
+        "start": 34.269,
+        "end": 34.409
+      },
+      {
+        "text": "erschaffe",
+        "start": 34.449,
+        "end": 34.849
+      },
+      {
+        "text": "einen",
+        "start": 34.869,
+        "end": 35.049
+      },
+      {
+        "text": "Wassersperr.",
+        "start": 35.069,
+        "end": 36.19
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Einen Wassersperr?",
+    "start": 36.27,
+    "end": 38.53,
+    "words": [
+      {
+        "text": "Einen",
+        "start": 36.27,
+        "end": 36.65
+      },
+      {
+        "text": "Wassersperr?",
+        "start": 36.71,
+        "end": 38.53
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Aje, das hast du also auch vergessen.",
+    "start": 38.55,
+    "end": 41.131,
+    "words": [
+      {
+        "text": "Aje,",
+        "start": 38.55,
+        "end": 38.73
+      },
+      {
+        "text": "das",
+        "start": 38.75,
+        "end": 38.93
+      },
+      {
+        "text": "hast",
+        "start": 38.97,
+        "end": 39.111
+      },
+      {
+        "text": "du",
+        "start": 39.131,
+        "end": 39.211
+      },
+      {
+        "text": "also",
+        "start": 39.251,
+        "end": 39.471
+      },
+      {
+        "text": "auch",
+        "start": 39.511,
+        "end": 39.691
+      },
+      {
+        "text": "vergessen.",
+        "start": 39.731,
+        "end": 41.131
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Dann sieh jetzt genau hin.",
+    "start": 41.171,
+    "end": 52.514,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 41.171,
+        "end": 41.351
+      },
+      {
+        "text": "sieh",
+        "start": 41.371,
+        "end": 41.491
+      },
+      {
+        "text": "jetzt",
+        "start": 41.511,
+        "end": 41.751
+      },
+      {
+        "text": "genau",
+        "start": 41.771,
+        "end": 42.091
+      },
+      {
+        "text": "hin.",
+        "start": 42.131,
+        "end": 52.514
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Wassersperr!",
+    "start": 52.995,
+    "end": 53.515,
+    "words": [
+      {
+        "text": "Wassersperr!",
+        "start": 52.995,
+        "end": 53.515
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Klasse, das hat ja wirklich wie ein Speer ausgesehen.",
+    "start": 63.038,
+    "end": 68.224,
+    "words": [
+      {
+        "text": "Klasse,",
+        "start": 63.038,
+        "end": 63.439
+      },
+      {
+        "text": "das",
+        "start": 63.459,
+        "end": 63.619
+      },
+      {
+        "text": "hat",
+        "start": 63.639,
+        "end": 63.779
+      },
+      {
+        "text": "ja",
+        "start": 63.819,
+        "end": 64.039
+      },
+      {
+        "text": "wirklich",
+        "start": 64.059,
+        "end": 64.42
+      },
+      {
+        "text": "wie",
+        "start": 64.46,
+        "end": 64.58
+      },
+      {
+        "text": "ein",
+        "start": 64.62,
+        "end": 64.72
+      },
+      {
+        "text": "Speer",
+        "start": 64.74,
+        "end": 64.98
+      },
+      {
+        "text": "ausgesehen.",
+        "start": 65.02,
+        "end": 68.224
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Das ist im Grunde genommen gar nicht mal so schwer.",
+    "start": 68.264,
+    "end": 70.466,
+    "words": [
+      {
+        "text": "Das",
+        "start": 68.264,
+        "end": 68.424
+      },
+      {
+        "text": "ist",
+        "start": 68.464,
+        "end": 68.584
+      },
+      {
+        "text": "im",
+        "start": 68.644,
+        "end": 68.764
+      },
+      {
+        "text": "Grunde",
+        "start": 68.784,
+        "end": 69.044
+      },
+      {
+        "text": "genommen",
+        "start": 69.084,
+        "end": 69.385
+      },
+      {
+        "text": "gar",
+        "start": 69.425,
+        "end": 69.585
+      },
+      {
+        "text": "nicht",
+        "start": 69.605,
+        "end": 69.725
+      },
+      {
+        "text": "mal",
+        "start": 69.785,
+        "end": 69.925
+      },
+      {
+        "text": "so",
+        "start": 69.945,
+        "end": 70.065
+      },
+      {
+        "text": "schwer.",
+        "start": 70.085,
+        "end": 70.466
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Du hast das auch schon öfters hinbekommen.",
+    "start": 70.486,
+    "end": 72.208,
+    "words": [
+      {
+        "text": "Du",
+        "start": 70.486,
+        "end": 70.606
+      },
+      {
+        "text": "hast",
+        "start": 70.626,
+        "end": 70.766
+      },
+      {
+        "text": "das",
+        "start": 70.786,
+        "end": 70.926
+      },
+      {
+        "text": "auch",
+        "start": 70.946,
+        "end": 71.086
+      },
+      {
+        "text": "schon",
+        "start": 71.106,
+        "end": 71.247
+      },
+      {
+        "text": "öfters",
+        "start": 71.287,
+        "end": 71.507
+      },
+      {
+        "text": "hinbekommen.",
+        "start": 71.527,
+        "end": 72.208
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Meinst du echt?",
+    "start": 72.268,
+    "end": 79.275,
+    "words": [
+      {
+        "text": "Meinst",
+        "start": 72.268,
+        "end": 72.528
+      },
+      {
+        "text": "du",
+        "start": 72.568,
+        "end": 72.688
+      },
+      {
+        "text": "echt?",
+        "start": 72.728,
+        "end": 79.275
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Stell dir genau die Form vor.",
+    "start": 79.315,
+    "end": 81.437,
+    "words": [
+      {
+        "text": "Stell",
+        "start": 79.315,
+        "end": 79.595
+      },
+      {
+        "text": "dir",
+        "start": 79.615,
+        "end": 79.755
+      },
+      {
+        "text": "genau",
+        "start": 79.795,
+        "end": 80.076
+      },
+      {
+        "text": "die",
+        "start": 80.096,
+        "end": 80.236
+      },
+      {
+        "text": "Form",
+        "start": 80.256,
+        "end": 80.596
+      },
+      {
+        "text": "vor.",
+        "start": 80.656,
+        "end": 81.437
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Und dann sagt die Beschwörungsformel, sie heißt Wasserspeer.",
+    "start": 81.477,
+    "end": 84.06,
+    "words": [
+      {
+        "text": "Und",
+        "start": 81.477,
+        "end": 81.637
+      },
+      {
+        "text": "dann",
+        "start": 81.657,
+        "end": 81.817
+      },
+      {
+        "text": "sagt",
+        "start": 81.857,
+        "end": 81.998
+      },
+      {
+        "text": "die",
+        "start": 82.018,
+        "end": 82.118
+      },
+      {
+        "text": "Beschwörungsformel,",
+        "start": 82.138,
+        "end": 83.059
+      },
+      {
+        "text": "sie",
+        "start": 83.099,
+        "end": 83.259
+      },
+      {
+        "text": "heißt",
+        "start": 83.279,
+        "end": 83.399
+      },
+      {
+        "text": "Wasserspeer.",
+        "start": 83.439,
+        "end": 84.06
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Unser Falmer ist verloren gegangen.",
+    "start": 126.063,
+    "end": 128.711,
+    "words": [
+      {
+        "text": "Unser",
+        "start": 126.063,
+        "end": 126.424
+      },
+      {
+        "text": "Falmer",
+        "start": 126.484,
+        "end": 127.467
+      },
+      {
+        "text": "ist",
+        "start": 127.528,
+        "end": 127.748
+      },
+      {
+        "text": "verloren",
+        "start": 127.768,
+        "end": 128.27
+      },
+      {
+        "text": "gegangen.",
+        "start": 128.31,
+        "end": 128.711
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Hä?",
+    "start": 129.012,
+    "end": 129.574,
+    "words": [
+      {
+        "text": "Hä?",
+        "start": 129.012,
+        "end": 129.574
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Verloren gegangen?",
+    "start": 129.614,
+    "end": 130.537,
+    "words": [
+      {
+        "text": "Verloren",
+        "start": 129.614,
+        "end": 130.096
+      },
+      {
+        "text": "gegangen?",
+        "start": 130.116,
+        "end": 130.537
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Wieso denn?",
+    "start": 130.577,
+    "end": 131.039,
+    "words": [
+      {
+        "text": "Wieso",
+        "start": 130.577,
+        "end": 130.838
+      },
+      {
+        "text": "denn?",
+        "start": 130.878,
+        "end": 131.039
+      }
+    ]
+  }
+]

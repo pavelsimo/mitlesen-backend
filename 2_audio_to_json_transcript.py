@@ -15,7 +15,7 @@ def transcribe(
 
     audio = whisperx.load_audio(audio_path)
     compute_type = "float16" if device.startswith("cuda") else "float32"
-    batch_size = 6
+    batch_size = 4
     model = whisperx.load_model(model_name, device, compute_type=compute_type, language=language)
     result = model.transcribe(audio, batch_size=batch_size)
 

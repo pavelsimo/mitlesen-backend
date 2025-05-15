@@ -1,0 +1,1317 @@
+[
+  {
+    "id": 0,
+    "text": " Ja?",
+    "start": 0.267,
+    "end": 0.407,
+    "words": [
+      {
+        "text": "Ja?",
+        "start": 0.267,
+        "end": 0.407
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hast du finden können, wonach du gesucht hast?",
+    "start": 3.269,
+    "end": 5.411,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 3.269,
+        "end": 3.45
+      },
+      {
+        "text": "du",
+        "start": 3.47,
+        "end": 3.59
+      },
+      {
+        "text": "finden",
+        "start": 3.63,
+        "end": 3.91
+      },
+      {
+        "text": "können,",
+        "start": 3.95,
+        "end": 4.17
+      },
+      {
+        "text": "wonach",
+        "start": 4.19,
+        "end": 4.47
+      },
+      {
+        "text": "du",
+        "start": 4.51,
+        "end": 4.61
+      },
+      {
+        "text": "gesucht",
+        "start": 4.651,
+        "end": 4.931
+      },
+      {
+        "text": "hast?",
+        "start": 4.971,
+        "end": 5.411
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Nein, irgendwie nicht.",
+    "start": 5.451,
+    "end": 6.892,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 5.451,
+        "end": 5.651
+      },
+      {
+        "text": "irgendwie",
+        "start": 5.691,
+        "end": 6.032
+      },
+      {
+        "text": "nicht.",
+        "start": 6.072,
+        "end": 6.892
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Es ist bereits spät und ihr hattet noch kein Mittagessen.",
+    "start": 6.952,
+    "end": 9.534,
+    "words": [
+      {
+        "text": "Es",
+        "start": 6.952,
+        "end": 7.012
+      },
+      {
+        "text": "ist",
+        "start": 7.052,
+        "end": 7.193
+      },
+      {
+        "text": "bereits",
+        "start": 7.233,
+        "end": 7.513
+      },
+      {
+        "text": "spät",
+        "start": 7.533,
+        "end": 7.813
+      },
+      {
+        "text": "und",
+        "start": 7.833,
+        "end": 7.933
+      },
+      {
+        "text": "ihr",
+        "start": 7.993,
+        "end": 8.073
+      },
+      {
+        "text": "hattet",
+        "start": 8.093,
+        "end": 8.313
+      },
+      {
+        "text": "noch",
+        "start": 8.333,
+        "end": 8.454
+      },
+      {
+        "text": "kein",
+        "start": 8.494,
+        "end": 8.634
+      },
+      {
+        "text": "Mittagessen.",
+        "start": 8.674,
+        "end": 9.534
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Warum kommt ihr nicht mit und ich koche euch etwas?",
+    "start": 9.574,
+    "end": 11.476,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 9.574,
+        "end": 9.775
+      },
+      {
+        "text": "kommt",
+        "start": 9.815,
+        "end": 9.975
+      },
+      {
+        "text": "ihr",
+        "start": 10.015,
+        "end": 10.115
+      },
+      {
+        "text": "nicht",
+        "start": 10.135,
+        "end": 10.295
+      },
+      {
+        "text": "mit",
+        "start": 10.315,
+        "end": 10.495
+      },
+      {
+        "text": "und",
+        "start": 10.535,
+        "end": 10.655
+      },
+      {
+        "text": "ich",
+        "start": 10.715,
+        "end": 10.795
+      },
+      {
+        "text": "koche",
+        "start": 10.835,
+        "end": 11.056
+      },
+      {
+        "text": "euch",
+        "start": 11.076,
+        "end": 11.216
+      },
+      {
+        "text": "etwas?",
+        "start": 11.256,
+        "end": 11.476
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "War das lecker!",
+    "start": 16.44,
+    "end": 17.601,
+    "words": [
+      {
+        "text": "War",
+        "start": 16.44,
+        "end": 16.6
+      },
+      {
+        "text": "das",
+        "start": 16.64,
+        "end": 16.9
+      },
+      {
+        "text": "lecker!",
+        "start": 16.94,
+        "end": 17.601
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Ja, das war wirklich gut.",
+    "start": 17.641,
+    "end": 19.322,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 17.641,
+        "end": 17.841
+      },
+      {
+        "text": "das",
+        "start": 17.881,
+        "end": 18.021
+      },
+      {
+        "text": "war",
+        "start": 18.061,
+        "end": 18.261
+      },
+      {
+        "text": "wirklich",
+        "start": 18.281,
+        "end": 18.622
+      },
+      {
+        "text": "gut.",
+        "start": 18.682,
+        "end": 19.322
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Herr Isaac, haben Sie zufällig ein Bier oder so?",
+    "start": 19.362,
+    "end": 21.664,
+    "words": [
+      {
+        "text": "Herr",
+        "start": 19.362,
+        "end": 19.522
+      },
+      {
+        "text": "Isaac,",
+        "start": 19.562,
+        "end": 19.963
+      },
+      {
+        "text": "haben",
+        "start": 20.003,
+        "end": 20.203
+      },
+      {
+        "text": "Sie",
+        "start": 20.243,
+        "end": 20.383
+      },
+      {
+        "text": "zufällig",
+        "start": 20.423,
+        "end": 20.823
+      },
+      {
+        "text": "ein",
+        "start": 20.843,
+        "end": 20.964
+      },
+      {
+        "text": "Bier",
+        "start": 21.004,
+        "end": 21.144
+      },
+      {
+        "text": "oder",
+        "start": 21.164,
+        "end": 21.404
+      },
+      {
+        "text": "so?",
+        "start": 21.444,
+        "end": 21.664
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Ich hätte gern eins.",
+    "start": 21.704,
+    "end": 22.485,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 21.704,
+        "end": 21.784
+      },
+      {
+        "text": "hätte",
+        "start": 21.824,
+        "end": 21.964
+      },
+      {
+        "text": "gern",
+        "start": 22.004,
+        "end": 22.245
+      },
+      {
+        "text": "eins.",
+        "start": 22.285,
+        "end": 22.485
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Ist das dein Ernst?",
+    "start": 23.592,
+    "end": 24.932,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 23.592,
+        "end": 23.692
+      },
+      {
+        "text": "das",
+        "start": 23.732,
+        "end": 23.852
+      },
+      {
+        "text": "dein",
+        "start": 23.872,
+        "end": 24.112
+      },
+      {
+        "text": "Ernst?",
+        "start": 24.152,
+        "end": 24.932
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Reiß dich doch mal ein bisschen zusammen, Pescher.",
+    "start": 24.972,
+    "end": 27.013,
+    "words": [
+      {
+        "text": "Reiß",
+        "start": 24.972,
+        "end": 25.192
+      },
+      {
+        "text": "dich",
+        "start": 25.212,
+        "end": 25.332
+      },
+      {
+        "text": "doch",
+        "start": 25.352,
+        "end": 25.452
+      },
+      {
+        "text": "mal",
+        "start": 25.533,
+        "end": 25.593
+      },
+      {
+        "text": "ein",
+        "start": 25.613,
+        "end": 25.693
+      },
+      {
+        "text": "bisschen",
+        "start": 25.713,
+        "end": 25.973
+      },
+      {
+        "text": "zusammen,",
+        "start": 26.013,
+        "end": 26.353
+      },
+      {
+        "text": "Pescher.",
+        "start": 26.373,
+        "end": 27.013
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Was?",
+    "start": 27.093,
+    "end": 28.733,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 27.093,
+        "end": 28.733
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Na, hübsches Fräulein.",
+    "start": 28.793,
+    "end": 30.394,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 28.793,
+        "end": 28.933
+      },
+      {
+        "text": "hübsches",
+        "start": 28.953,
+        "end": 29.393
+      },
+      {
+        "text": "Fräulein.",
+        "start": 29.413,
+        "end": 30.394
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ist es das hier, wonach du dich so sehr sehnst?",
+    "start": 30.434,
+    "end": 32.674,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 30.434,
+        "end": 30.554
+      },
+      {
+        "text": "es",
+        "start": 30.614,
+        "end": 30.774
+      },
+      {
+        "text": "das",
+        "start": 30.794,
+        "end": 31.014
+      },
+      {
+        "text": "hier,",
+        "start": 31.034,
+        "end": 31.194
+      },
+      {
+        "text": "wonach",
+        "start": 31.234,
+        "end": 31.494
+      },
+      {
+        "text": "du",
+        "start": 31.534,
+        "end": 31.614
+      },
+      {
+        "text": "dich",
+        "start": 31.634,
+        "end": 31.834
+      },
+      {
+        "text": "so",
+        "start": 31.874,
+        "end": 31.974
+      },
+      {
+        "text": "sehr",
+        "start": 31.994,
+        "end": 32.154
+      },
+      {
+        "text": "sehnst?",
+        "start": 32.194,
+        "end": 32.674
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Moment, diese Stimme, die alles zum Beben bringt, kenn ich doch.",
+    "start": 32.694,
+    "end": 35.575,
+    "words": [
+      {
+        "text": "Moment,",
+        "start": 32.694,
+        "end": 33.174
+      },
+      {
+        "text": "diese",
+        "start": 33.214,
+        "end": 33.394
+      },
+      {
+        "text": "Stimme,",
+        "start": 33.434,
+        "end": 33.714
+      },
+      {
+        "text": "die",
+        "start": 33.734,
+        "end": 33.834
+      },
+      {
+        "text": "alles",
+        "start": 33.874,
+        "end": 34.075
+      },
+      {
+        "text": "zum",
+        "start": 34.115,
+        "end": 34.235
+      },
+      {
+        "text": "Beben",
+        "start": 34.255,
+        "end": 34.455
+      },
+      {
+        "text": "bringt,",
+        "start": 34.475,
+        "end": 34.695
+      },
+      {
+        "text": "kenn",
+        "start": 34.735,
+        "end": 34.895
+      },
+      {
+        "text": "ich",
+        "start": 34.935,
+        "end": 35.035
+      },
+      {
+        "text": "doch.",
+        "start": 35.075,
+        "end": 35.575
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Du bist es, Natalia!",
+    "start": 35.595,
+    "end": 38.676,
+    "words": [
+      {
+        "text": "Du",
+        "start": 35.595,
+        "end": 35.755
+      },
+      {
+        "text": "bist",
+        "start": 35.775,
+        "end": 36.035
+      },
+      {
+        "text": "es,",
+        "start": 36.095,
+        "end": 36.255
+      },
+      {
+        "text": "Natalia!",
+        "start": 36.295,
+        "end": 38.676
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ist echt ne Ewigkeit her.",
+    "start": 38.736,
+    "end": 40.016,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 38.736,
+        "end": 38.856
+      },
+      {
+        "text": "echt",
+        "start": 38.916,
+        "end": 39.056
+      },
+      {
+        "text": "ne",
+        "start": 39.076,
+        "end": 39.196
+      },
+      {
+        "text": "Ewigkeit",
+        "start": 39.236,
+        "end": 39.696
+      },
+      {
+        "text": "her.",
+        "start": 39.716,
+        "end": 40.016
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Kann es sein, dass du wieder zugenommen hast?",
+    "start": 40.056,
+    "end": 41.816,
+    "words": [
+      {
+        "text": "Kann",
+        "start": 40.056,
+        "end": 40.176
+      },
+      {
+        "text": "es",
+        "start": 40.216,
+        "end": 40.296
+      },
+      {
+        "text": "sein,",
+        "start": 40.316,
+        "end": 40.456
+      },
+      {
+        "text": "dass",
+        "start": 40.476,
+        "end": 40.596
+      },
+      {
+        "text": "du",
+        "start": 40.636,
+        "end": 40.716
+      },
+      {
+        "text": "wieder",
+        "start": 40.756,
+        "end": 40.956
+      },
+      {
+        "text": "zugenommen",
+        "start": 40.996,
+        "end": 41.496
+      },
+      {
+        "text": "hast?",
+        "start": 41.536,
+        "end": 41.816
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Wie bitte?",
+    "start": 41.856,
+    "end": 42.617,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 41.856,
+        "end": 42.056
+      },
+      {
+        "text": "bitte?",
+        "start": 42.076,
+        "end": 42.617
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Werd nicht frech, sonst kannst du dir dein Bier aus dem Kopf schlagen.",
+    "start": 42.657,
+    "end": 45.077,
+    "words": [
+      {
+        "text": "Werd",
+        "start": 42.657,
+        "end": 42.837
+      },
+      {
+        "text": "nicht",
+        "start": 42.857,
+        "end": 42.977
+      },
+      {
+        "text": "frech,",
+        "start": 43.017,
+        "end": 43.297
+      },
+      {
+        "text": "sonst",
+        "start": 43.317,
+        "end": 43.497
+      },
+      {
+        "text": "kannst",
+        "start": 43.517,
+        "end": 43.697
+      },
+      {
+        "text": "du",
+        "start": 43.717,
+        "end": 43.777
+      },
+      {
+        "text": "dir",
+        "start": 43.797,
+        "end": 43.917
+      },
+      {
+        "text": "dein",
+        "start": 43.937,
+        "end": 44.037
+      },
+      {
+        "text": "Bier",
+        "start": 44.077,
+        "end": 44.177
+      },
+      {
+        "text": "aus",
+        "start": 44.197,
+        "end": 44.297
+      },
+      {
+        "text": "dem",
+        "start": 44.317,
+        "end": 44.437
+      },
+      {
+        "text": "Kopf",
+        "start": 44.457,
+        "end": 44.617
+      },
+      {
+        "text": "schlagen.",
+        "start": 44.637,
+        "end": 45.077
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Was?",
+    "start": 45.097,
+    "end": 45.497,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 45.097,
+        "end": 45.497
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Bitte nicht!",
+    "start": 45.517,
+    "end": 46.357,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 45.517,
+        "end": 45.857
+      },
+      {
+        "text": "nicht!",
+        "start": 45.997,
+        "end": 46.357
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Du bist natürlich die Schönste und Beste.",
+    "start": 46.377,
+    "end": 48.058,
+    "words": [
+      {
+        "text": "Du",
+        "start": 46.377,
+        "end": 46.477
+      },
+      {
+        "text": "bist",
+        "start": 46.497,
+        "end": 46.698
+      },
+      {
+        "text": "natürlich",
+        "start": 46.738,
+        "end": 47.098
+      },
+      {
+        "text": "die",
+        "start": 47.118,
+        "end": 47.198
+      },
+      {
+        "text": "Schönste",
+        "start": 47.218,
+        "end": 47.638
+      },
+      {
+        "text": "und",
+        "start": 47.678,
+        "end": 47.818
+      },
+      {
+        "text": "Beste.",
+        "start": 47.838,
+        "end": 48.058
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Ach ja, richtig.",
+    "start": 49.663,
+    "end": 50.403,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 49.663,
+        "end": 49.743
+      },
+      {
+        "text": "ja,",
+        "start": 49.783,
+        "end": 49.923
+      },
+      {
+        "text": "richtig.",
+        "start": 49.943,
+        "end": 50.403
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Darf ich dir Natalia vorstellen?",
+    "start": 50.443,
+    "end": 52.144,
+    "words": [
+      {
+        "text": "Darf",
+        "start": 50.443,
+        "end": 50.583
+      },
+      {
+        "text": "ich",
+        "start": 50.623,
+        "end": 50.723
+      },
+      {
+        "text": "dir",
+        "start": 50.763,
+        "end": 50.863
+      },
+      {
+        "text": "Natalia",
+        "start": 50.883,
+        "end": 51.344
+      },
+      {
+        "text": "vorstellen?",
+        "start": 51.364,
+        "end": 52.144
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Sie war bereits im Waisenhaus angestellt, als ich noch hier gewohnt hab.",
+    "start": 52.164,
+    "end": 55.245,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 52.164,
+        "end": 52.264
+      },
+      {
+        "text": "war",
+        "start": 52.304,
+        "end": 52.424
+      },
+      {
+        "text": "bereits",
+        "start": 52.444,
+        "end": 52.704
+      },
+      {
+        "text": "im",
+        "start": 52.744,
+        "end": 52.824
+      },
+      {
+        "text": "Waisenhaus",
+        "start": 52.844,
+        "end": 53.284
+      },
+      {
+        "text": "angestellt,",
+        "start": 53.324,
+        "end": 53.724
+      },
+      {
+        "text": "als",
+        "start": 53.784,
+        "end": 53.904
+      },
+      {
+        "text": "ich",
+        "start": 53.944,
+        "end": 54.064
+      },
+      {
+        "text": "noch",
+        "start": 54.084,
+        "end": 54.204
+      },
+      {
+        "text": "hier",
+        "start": 54.224,
+        "end": 54.344
+      },
+      {
+        "text": "gewohnt",
+        "start": 54.384,
+        "end": 54.644
+      },
+      {
+        "text": "hab.",
+        "start": 54.664,
+        "end": 55.245
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Du bist also das Mädchen, das aus Japan zu Besuch ist?",
+    "start": 55.285,
+    "end": 57.605,
+    "words": [
+      {
+        "text": "Du",
+        "start": 55.285,
+        "end": 55.405
+      },
+      {
+        "text": "bist",
+        "start": 55.425,
+        "end": 55.605
+      },
+      {
+        "text": "also",
+        "start": 55.645,
+        "end": 55.805
+      },
+      {
+        "text": "das",
+        "start": 55.845,
+        "end": 56.025
+      },
+      {
+        "text": "Mädchen,",
+        "start": 56.045,
+        "end": 56.305
+      },
+      {
+        "text": "das",
+        "start": 56.325,
+        "end": 56.445
+      },
+      {
+        "text": "aus",
+        "start": 56.485,
+        "end": 56.625
+      },
+      {
+        "text": "Japan",
+        "start": 56.645,
+        "end": 56.965
+      },
+      {
+        "text": "zu",
+        "start": 56.985,
+        "end": 57.105
+      },
+      {
+        "text": "Besuch",
+        "start": 57.125,
+        "end": 57.445
+      },
+      {
+        "text": "ist?",
+        "start": 57.505,
+        "end": 57.605
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Äh, ich heiße Teru Momijiyama.",
+    "start": 57.705,
+    "end": 60.326,
+    "words": [
+      {
+        "text": "Äh,",
+        "start": 57.705,
+        "end": 58.165
+      },
+      {
+        "text": "ich",
+        "start": 58.205,
+        "end": 58.325
+      },
+      {
+        "text": "heiße",
+        "start": 58.345,
+        "end": 58.626
+      },
+      {
+        "text": "Teru",
+        "start": 58.666,
+        "end": 58.986
+      },
+      {
+        "text": "Momijiyama.",
+        "start": 59.006,
+        "end": 60.326
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Nun, wir haben zwar nicht viel anzubieten, aber fühl dich wie zu Hause.",
+    "start": 60.366,
+    "end": 63.667,
+    "words": [
+      {
+        "text": "Nun,",
+        "start": 60.366,
+        "end": 60.566
+      },
+      {
+        "text": "wir",
+        "start": 60.586,
+        "end": 60.706
+      },
+      {
+        "text": "haben",
+        "start": 60.746,
+        "end": 60.966
+      },
+      {
+        "text": "zwar",
+        "start": 61.006,
+        "end": 61.166
+      },
+      {
+        "text": "nicht",
+        "start": 61.186,
+        "end": 61.326
+      },
+      {
+        "text": "viel",
+        "start": 61.366,
+        "end": 61.526
+      },
+      {
+        "text": "anzubieten,",
+        "start": 61.566,
+        "end": 62.247
+      },
+      {
+        "text": "aber",
+        "start": 62.307,
+        "end": 62.467
+      },
+      {
+        "text": "fühl",
+        "start": 62.507,
+        "end": 62.647
+      },
+      {
+        "text": "dich",
+        "start": 62.667,
+        "end": 62.787
+      },
+      {
+        "text": "wie",
+        "start": 62.827,
+        "end": 63.027
+      },
+      {
+        "text": "zu",
+        "start": 63.047,
+        "end": 63.147
+      },
+      {
+        "text": "Hause.",
+        "start": 63.187,
+        "end": 63.667
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Mach ich.",
+    "start": 63.687,
+    "end": 64.227,
+    "words": [
+      {
+        "text": "Mach",
+        "start": 63.687,
+        "end": 63.867
+      },
+      {
+        "text": "ich.",
+        "start": 63.927,
+        "end": 64.227
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Vielen Dank, dass Sie so nett zu mir sind.",
+    "start": 64.267,
+    "end": 67.608,
+    "words": [
+      {
+        "text": "Vielen",
+        "start": 64.267,
+        "end": 64.447
+      },
+      {
+        "text": "Dank,",
+        "start": 64.467,
+        "end": 64.627
+      },
+      {
+        "text": "dass",
+        "start": 64.647,
+        "end": 64.787
+      },
+      {
+        "text": "Sie",
+        "start": 64.807,
+        "end": 64.887
+      },
+      {
+        "text": "so",
+        "start": 64.907,
+        "end": 65.007
+      },
+      {
+        "text": "nett",
+        "start": 65.047,
+        "end": 65.187
+      },
+      {
+        "text": "zu",
+        "start": 65.207,
+        "end": 65.307
+      },
+      {
+        "text": "mir",
+        "start": 65.347,
+        "end": 65.467
+      },
+      {
+        "text": "sind.",
+        "start": 65.487,
+        "end": 67.608
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Also dann, bist du bereit, Pasha?",
+    "start": 67.648,
+    "end": 69.849,
+    "words": [
+      {
+        "text": "Also",
+        "start": 67.648,
+        "end": 67.928
+      },
+      {
+        "text": "dann,",
+        "start": 67.968,
+        "end": 68.188
+      },
+      {
+        "text": "bist",
+        "start": 68.208,
+        "end": 68.328
+      },
+      {
+        "text": "du",
+        "start": 68.368,
+        "end": 68.468
+      },
+      {
+        "text": "bereit,",
+        "start": 68.488,
+        "end": 68.828
+      },
+      {
+        "text": "Pasha?",
+        "start": 68.868,
+        "end": 69.849
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Ich bin sogar mehr als bereit, Natascha.",
+    "start": 69.909,
+    "end": 73.83,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 69.909,
+        "end": 70.009
+      },
+      {
+        "text": "bin",
+        "start": 70.029,
+        "end": 70.129
+      },
+      {
+        "text": "sogar",
+        "start": 70.149,
+        "end": 70.389
+      },
+      {
+        "text": "mehr",
+        "start": 70.409,
+        "end": 70.549
+      },
+      {
+        "text": "als",
+        "start": 70.589,
+        "end": 70.729
+      },
+      {
+        "text": "bereit,",
+        "start": 70.749,
+        "end": 71.049
+      },
+      {
+        "text": "Natascha.",
+        "start": 71.069,
+        "end": 73.83
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Donnerst!",
+    "start": 74.11,
+    "end": 76.47,
+    "words": [
+      {
+        "text": "Donnerst!",
+        "start": 74.11,
+        "end": 76.47
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Unglaublich.",
+    "start": 76.531,
+    "end": 77.211,
+    "words": [
+      {
+        "text": "Unglaublich.",
+        "start": 76.531,
+        "end": 77.211
+      }
+    ]
+  }
+]

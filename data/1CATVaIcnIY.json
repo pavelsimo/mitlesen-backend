@@ -1,0 +1,2185 @@
+[
+  {
+    "id": 0,
+    "text": " Wisst ihr was?",
+    "start": 0.706,
+    "end": 2.007,
+    "words": [
+      {
+        "text": "Wisst",
+        "start": 0.706,
+        "end": 0.806
+      },
+      {
+        "text": "ihr",
+        "start": 0.986,
+        "end": 1.046
+      },
+      {
+        "text": "was?",
+        "start": 1.346,
+        "end": 2.007
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich glaube, ich hätte da eine Idee.",
+    "start": 2.047,
+    "end": 4.488,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.047,
+        "end": 2.147
+      },
+      {
+        "text": "glaube,",
+        "start": 2.167,
+        "end": 2.427
+      },
+      {
+        "text": "ich",
+        "start": 2.467,
+        "end": 2.547
+      },
+      {
+        "text": "hätte",
+        "start": 2.587,
+        "end": 2.767
+      },
+      {
+        "text": "da",
+        "start": 2.787,
+        "end": 2.947
+      },
+      {
+        "text": "eine",
+        "start": 2.967,
+        "end": 3.127
+      },
+      {
+        "text": "Idee.",
+        "start": 3.167,
+        "end": 4.488
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wollen wir uns einen Namen geben?",
+    "start": 4.528,
+    "end": 6.429,
+    "words": [
+      {
+        "text": "Wollen",
+        "start": 4.528,
+        "end": 4.748
+      },
+      {
+        "text": "wir",
+        "start": 4.788,
+        "end": 4.908
+      },
+      {
+        "text": "uns",
+        "start": 4.928,
+        "end": 5.069
+      },
+      {
+        "text": "einen",
+        "start": 5.109,
+        "end": 5.309
+      },
+      {
+        "text": "Namen",
+        "start": 5.349,
+        "end": 5.589
+      },
+      {
+        "text": "geben?",
+        "start": 5.629,
+        "end": 6.429
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Einen Namen?",
+    "start": 6.509,
+    "end": 7.75,
+    "words": [
+      {
+        "text": "Einen",
+        "start": 6.509,
+        "end": 6.89
+      },
+      {
+        "text": "Namen?",
+        "start": 6.95,
+        "end": 7.75
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Wie meinst du das, Shella?",
+    "start": 7.77,
+    "end": 8.671,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 7.77,
+        "end": 7.91
+      },
+      {
+        "text": "meinst",
+        "start": 7.95,
+        "end": 8.09
+      },
+      {
+        "text": "du",
+        "start": 8.11,
+        "end": 8.19
+      },
+      {
+        "text": "das,",
+        "start": 8.23,
+        "end": 8.35
+      },
+      {
+        "text": "Shella?",
+        "start": 8.37,
+        "end": 8.671
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Naja, unsere Treffen zusammen machen uns allen doch immer so viel Spaß, deshalb will ich, dass sie etwas Besonderes sind.",
+    "start": 9.811,
+    "end": 17.156,
+    "words": [
+      {
+        "text": "Naja,",
+        "start": 9.811,
+        "end": 10.332
+      },
+      {
+        "text": "unsere",
+        "start": 10.392,
+        "end": 10.652
+      },
+      {
+        "text": "Treffen",
+        "start": 10.692,
+        "end": 11.032
+      },
+      {
+        "text": "zusammen",
+        "start": 11.072,
+        "end": 11.933
+      },
+      {
+        "text": "machen",
+        "start": 11.953,
+        "end": 12.213
+      },
+      {
+        "text": "uns",
+        "start": 12.253,
+        "end": 12.433
+      },
+      {
+        "text": "allen",
+        "start": 12.473,
+        "end": 12.693
+      },
+      {
+        "text": "doch",
+        "start": 12.733,
+        "end": 12.893
+      },
+      {
+        "text": "immer",
+        "start": 12.913,
+        "end": 13.113
+      },
+      {
+        "text": "so",
+        "start": 13.133,
+        "end": 13.233
+      },
+      {
+        "text": "viel",
+        "start": 13.253,
+        "end": 13.433
+      },
+      {
+        "text": "Spaß,",
+        "start": 13.473,
+        "end": 13.974
+      },
+      {
+        "text": "deshalb",
+        "start": 14.014,
+        "end": 14.714
+      },
+      {
+        "text": "will",
+        "start": 14.734,
+        "end": 14.914
+      },
+      {
+        "text": "ich,",
+        "start": 14.934,
+        "end": 15.094
+      },
+      {
+        "text": "dass",
+        "start": 15.114,
+        "end": 15.275
+      },
+      {
+        "text": "sie",
+        "start": 15.295,
+        "end": 15.415
+      },
+      {
+        "text": "etwas",
+        "start": 15.435,
+        "end": 15.675
+      },
+      {
+        "text": "Besonderes",
+        "start": 15.695,
+        "end": 16.155
+      },
+      {
+        "text": "sind.",
+        "start": 16.175,
+        "end": 17.156
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Und diesen besonderen Treffen würde ich gerne einen Namen geben, damit wir immer eine konkrete Erinnerung an sie haben.",
+    "start": 17.216,
+    "end": 24.48,
+    "words": [
+      {
+        "text": "Und",
+        "start": 17.216,
+        "end": 17.496
+      },
+      {
+        "text": "diesen",
+        "start": 17.516,
+        "end": 17.956
+      },
+      {
+        "text": "besonderen",
+        "start": 17.996,
+        "end": 18.677
+      },
+      {
+        "text": "Treffen",
+        "start": 18.717,
+        "end": 19.717
+      },
+      {
+        "text": "würde",
+        "start": 19.757,
+        "end": 20.077
+      },
+      {
+        "text": "ich",
+        "start": 20.117,
+        "end": 20.338
+      },
+      {
+        "text": "gerne",
+        "start": 20.378,
+        "end": 20.718
+      },
+      {
+        "text": "einen",
+        "start": 20.758,
+        "end": 20.978
+      },
+      {
+        "text": "Namen",
+        "start": 21.018,
+        "end": 21.338
+      },
+      {
+        "text": "geben,",
+        "start": 21.378,
+        "end": 21.978
+      },
+      {
+        "text": "damit",
+        "start": 22.019,
+        "end": 22.259
+      },
+      {
+        "text": "wir",
+        "start": 22.279,
+        "end": 22.459
+      },
+      {
+        "text": "immer",
+        "start": 22.499,
+        "end": 22.759
+      },
+      {
+        "text": "eine",
+        "start": 22.779,
+        "end": 22.979
+      },
+      {
+        "text": "konkrete",
+        "start": 22.999,
+        "end": 23.399
+      },
+      {
+        "text": "Erinnerung",
+        "start": 23.499,
+        "end": 23.96
+      },
+      {
+        "text": "an",
+        "start": 24.0,
+        "end": 24.1
+      },
+      {
+        "text": "sie",
+        "start": 24.14,
+        "end": 24.24
+      },
+      {
+        "text": "haben.",
+        "start": 24.28,
+        "end": 24.48
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Oder ist das seltsam?",
+    "start": 25.561,
+    "end": 27.502,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 25.561,
+        "end": 25.781
+      },
+      {
+        "text": "ist",
+        "start": 25.801,
+        "end": 25.901
+      },
+      {
+        "text": "das",
+        "start": 25.941,
+        "end": 26.081
+      },
+      {
+        "text": "seltsam?",
+        "start": 26.101,
+        "end": 27.502
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Nein, gar nicht.",
+    "start": 27.522,
+    "end": 28.462,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 27.522,
+        "end": 27.722
+      },
+      {
+        "text": "gar",
+        "start": 27.742,
+        "end": 27.882
+      },
+      {
+        "text": "nicht.",
+        "start": 27.902,
+        "end": 28.462
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Von mir aus gern.",
+    "start": 28.482,
+    "end": 29.083,
+    "words": [
+      {
+        "text": "Von",
+        "start": 28.482,
+        "end": 28.622
+      },
+      {
+        "text": "mir",
+        "start": 28.642,
+        "end": 28.762
+      },
+      {
+        "text": "aus",
+        "start": 28.802,
+        "end": 28.903
+      },
+      {
+        "text": "gern.",
+        "start": 28.943,
+        "end": 29.083
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Es klingt zwar etwas romantisch, aber ich habe nichts dagegen.",
+    "start": 30.005,
+    "end": 32.546,
+    "words": [
+      {
+        "text": "Es",
+        "start": 30.005,
+        "end": 30.105
+      },
+      {
+        "text": "klingt",
+        "start": 30.145,
+        "end": 30.365
+      },
+      {
+        "text": "zwar",
+        "start": 30.385,
+        "end": 30.545
+      },
+      {
+        "text": "etwas",
+        "start": 30.565,
+        "end": 30.705
+      },
+      {
+        "text": "romantisch,",
+        "start": 30.745,
+        "end": 31.265
+      },
+      {
+        "text": "aber",
+        "start": 31.305,
+        "end": 31.525
+      },
+      {
+        "text": "ich",
+        "start": 31.565,
+        "end": 31.645
+      },
+      {
+        "text": "habe",
+        "start": 31.685,
+        "end": 31.885
+      },
+      {
+        "text": "nichts",
+        "start": 31.905,
+        "end": 32.106
+      },
+      {
+        "text": "dagegen.",
+        "start": 32.126,
+        "end": 32.546
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Einen Namen für eine Vereinigung?",
+    "start": 32.606,
+    "end": 34.766,
+    "words": [
+      {
+        "text": "Einen",
+        "start": 32.606,
+        "end": 32.886
+      },
+      {
+        "text": "Namen",
+        "start": 32.926,
+        "end": 33.206
+      },
+      {
+        "text": "für",
+        "start": 33.226,
+        "end": 33.326
+      },
+      {
+        "text": "eine",
+        "start": 33.346,
+        "end": 33.666
+      },
+      {
+        "text": "Vereinigung?",
+        "start": 33.706,
+        "end": 34.766
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Darüber habe ich noch nie nachgedacht.",
+    "start": 34.786,
+    "end": 36.947,
+    "words": [
+      {
+        "text": "Darüber",
+        "start": 34.786,
+        "end": 35.106
+      },
+      {
+        "text": "habe",
+        "start": 35.146,
+        "end": 35.266
+      },
+      {
+        "text": "ich",
+        "start": 35.306,
+        "end": 35.406
+      },
+      {
+        "text": "noch",
+        "start": 35.446,
+        "end": 35.566
+      },
+      {
+        "text": "nie",
+        "start": 35.606,
+        "end": 35.746
+      },
+      {
+        "text": "nachgedacht.",
+        "start": 35.786,
+        "end": 36.947
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und Pete, was sagst du dazu?",
+    "start": 36.987,
+    "end": 38.827,
+    "words": [
+      {
+        "text": "Und",
+        "start": 36.987,
+        "end": 37.207
+      },
+      {
+        "text": "Pete,",
+        "start": 37.247,
+        "end": 37.727
+      },
+      {
+        "text": "was",
+        "start": 37.747,
+        "end": 37.867
+      },
+      {
+        "text": "sagst",
+        "start": 37.887,
+        "end": 38.107
+      },
+      {
+        "text": "du",
+        "start": 38.127,
+        "end": 38.267
+      },
+      {
+        "text": "dazu?",
+        "start": 38.287,
+        "end": 38.827
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Ähm, so auf die Schnelle fällt mir kein Name ein.",
+    "start": 38.887,
+    "end": 48.049,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 38.887,
+        "end": 39.427
+      },
+      {
+        "text": "so",
+        "start": 39.447,
+        "end": 39.547
+      },
+      {
+        "text": "auf",
+        "start": 39.587,
+        "end": 39.687
+      },
+      {
+        "text": "die",
+        "start": 39.727,
+        "end": 39.827
+      },
+      {
+        "text": "Schnelle",
+        "start": 39.847,
+        "end": 40.167
+      },
+      {
+        "text": "fällt",
+        "start": 40.207,
+        "end": 40.387
+      },
+      {
+        "text": "mir",
+        "start": 40.407,
+        "end": 40.587
+      },
+      {
+        "text": "kein",
+        "start": 40.607,
+        "end": 40.787
+      },
+      {
+        "text": "Name",
+        "start": 40.807,
+        "end": 41.088
+      },
+      {
+        "text": "ein.",
+        "start": 41.148,
+        "end": 48.049
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Wenn wir nun schon alle zusammen sind, würdet ihr bitte eure Klingen ziehen?",
+    "start": 48.089,
+    "end": 51.89,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 48.089,
+        "end": 48.269
+      },
+      {
+        "text": "wir",
+        "start": 48.309,
+        "end": 48.369
+      },
+      {
+        "text": "nun",
+        "start": 48.469,
+        "end": 48.629
+      },
+      {
+        "text": "schon",
+        "start": 48.669,
+        "end": 48.869
+      },
+      {
+        "text": "alle",
+        "start": 48.909,
+        "end": 49.129
+      },
+      {
+        "text": "zusammen",
+        "start": 49.169,
+        "end": 49.569
+      },
+      {
+        "text": "sind,",
+        "start": 49.609,
+        "end": 50.37
+      },
+      {
+        "text": "würdet",
+        "start": 50.39,
+        "end": 50.69
+      },
+      {
+        "text": "ihr",
+        "start": 50.73,
+        "end": 50.81
+      },
+      {
+        "text": "bitte",
+        "start": 50.85,
+        "end": 51.03
+      },
+      {
+        "text": "eure",
+        "start": 51.07,
+        "end": 51.25
+      },
+      {
+        "text": "Klingen",
+        "start": 51.29,
+        "end": 51.67
+      },
+      {
+        "text": "ziehen?",
+        "start": 51.69,
+        "end": 51.89
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Wir bilden jetzt einen Kreis und dann richtet jeder seine Klinge geradeaus, sodass sie sich alle kreuzen.",
+    "start": 58.747,
+    "end": 69.751,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 58.747,
+        "end": 58.907
+      },
+      {
+        "text": "bilden",
+        "start": 58.947,
+        "end": 59.207
+      },
+      {
+        "text": "jetzt",
+        "start": 59.247,
+        "end": 59.507
+      },
+      {
+        "text": "einen",
+        "start": 59.527,
+        "end": 59.727
+      },
+      {
+        "text": "Kreis",
+        "start": 59.767,
+        "end": 60.328
+      },
+      {
+        "text": "und",
+        "start": 60.368,
+        "end": 60.528
+      },
+      {
+        "text": "dann",
+        "start": 60.568,
+        "end": 60.748
+      },
+      {
+        "text": "richtet",
+        "start": 60.788,
+        "end": 61.168
+      },
+      {
+        "text": "jeder",
+        "start": 61.208,
+        "end": 61.468
+      },
+      {
+        "text": "seine",
+        "start": 61.508,
+        "end": 61.728
+      },
+      {
+        "text": "Klinge",
+        "start": 61.768,
+        "end": 62.088
+      },
+      {
+        "text": "geradeaus,",
+        "start": 62.128,
+        "end": 62.688
+      },
+      {
+        "text": "sodass",
+        "start": 63.569,
+        "end": 63.869
+      },
+      {
+        "text": "sie",
+        "start": 63.889,
+        "end": 64.029
+      },
+      {
+        "text": "sich",
+        "start": 64.069,
+        "end": 64.349
+      },
+      {
+        "text": "alle",
+        "start": 64.389,
+        "end": 64.609
+      },
+      {
+        "text": "kreuzen.",
+        "start": 64.669,
+        "end": 69.751
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Dieses Symbol wird in meiner Heimat als Blume der Klingen oder auch Schwertblume bezeichnet.",
+    "start": 69.791,
+    "end": 76.033,
+    "words": [
+      {
+        "text": "Dieses",
+        "start": 69.791,
+        "end": 70.111
+      },
+      {
+        "text": "Symbol",
+        "start": 70.171,
+        "end": 70.651
+      },
+      {
+        "text": "wird",
+        "start": 70.671,
+        "end": 70.831
+      },
+      {
+        "text": "in",
+        "start": 70.871,
+        "end": 70.972
+      },
+      {
+        "text": "meiner",
+        "start": 71.012,
+        "end": 71.212
+      },
+      {
+        "text": "Heimat",
+        "start": 71.252,
+        "end": 71.592
+      },
+      {
+        "text": "als",
+        "start": 71.632,
+        "end": 71.852
+      },
+      {
+        "text": "Blume",
+        "start": 71.892,
+        "end": 72.272
+      },
+      {
+        "text": "der",
+        "start": 72.312,
+        "end": 72.472
+      },
+      {
+        "text": "Klingen",
+        "start": 72.492,
+        "end": 73.452
+      },
+      {
+        "text": "oder",
+        "start": 73.492,
+        "end": 73.733
+      },
+      {
+        "text": "auch",
+        "start": 73.773,
+        "end": 74.113
+      },
+      {
+        "text": "Schwertblume",
+        "start": 74.153,
+        "end": 74.873
+      },
+      {
+        "text": "bezeichnet.",
+        "start": 74.913,
+        "end": 76.033
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Es stellt die Verbundenheit von Kriegern dar.",
+    "start": 76.073,
+    "end": 79.215,
+    "words": [
+      {
+        "text": "Es",
+        "start": 76.073,
+        "end": 76.193
+      },
+      {
+        "text": "stellt",
+        "start": 76.213,
+        "end": 76.453
+      },
+      {
+        "text": "die",
+        "start": 76.494,
+        "end": 76.594
+      },
+      {
+        "text": "Verbundenheit",
+        "start": 76.614,
+        "end": 77.274
+      },
+      {
+        "text": "von",
+        "start": 77.314,
+        "end": 77.494
+      },
+      {
+        "text": "Kriegern",
+        "start": 77.534,
+        "end": 77.954
+      },
+      {
+        "text": "dar.",
+        "start": 77.994,
+        "end": 79.215
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Wow, das kommt aus Asier.",
+    "start": 79.275,
+    "end": 81.475,
+    "words": [
+      {
+        "text": "Wow,",
+        "start": 79.275,
+        "end": 79.475
+      },
+      {
+        "text": "das",
+        "start": 79.495,
+        "end": 80.095
+      },
+      {
+        "text": "kommt",
+        "start": 80.115,
+        "end": 80.315
+      },
+      {
+        "text": "aus",
+        "start": 80.395,
+        "end": 80.555
+      },
+      {
+        "text": "Asier.",
+        "start": 80.595,
+        "end": 81.475
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Bedeutet das, man schwört sich ewige Freundschaft?",
+    "start": 81.515,
+    "end": 84.196,
+    "words": [
+      {
+        "text": "Bedeutet",
+        "start": 81.515,
+        "end": 81.996
+      },
+      {
+        "text": "das,",
+        "start": 82.036,
+        "end": 82.196
+      },
+      {
+        "text": "man",
+        "start": 82.236,
+        "end": 82.376
+      },
+      {
+        "text": "schwört",
+        "start": 82.416,
+        "end": 82.696
+      },
+      {
+        "text": "sich",
+        "start": 82.716,
+        "end": 82.916
+      },
+      {
+        "text": "ewige",
+        "start": 82.956,
+        "end": 83.376
+      },
+      {
+        "text": "Freundschaft?",
+        "start": 83.436,
+        "end": 84.196
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Nein, dafür gibt es keinen Schwur.",
+    "start": 84.256,
+    "end": 85.657,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 84.256,
+        "end": 84.576
+      },
+      {
+        "text": "dafür",
+        "start": 84.596,
+        "end": 84.837
+      },
+      {
+        "text": "gibt",
+        "start": 84.857,
+        "end": 85.017
+      },
+      {
+        "text": "es",
+        "start": 85.057,
+        "end": 85.197
+      },
+      {
+        "text": "keinen",
+        "start": 85.237,
+        "end": 85.417
+      },
+      {
+        "text": "Schwur.",
+        "start": 85.457,
+        "end": 85.657
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Es bleibt einem nur die Erinnerung an das Symbol dieser blühenden Blume.",
+    "start": 86.502,
+    "end": 94.228,
+    "words": [
+      {
+        "text": "Es",
+        "start": 86.502,
+        "end": 87.903
+      },
+      {
+        "text": "bleibt",
+        "start": 87.943,
+        "end": 88.203
+      },
+      {
+        "text": "einem",
+        "start": 88.243,
+        "end": 88.464
+      },
+      {
+        "text": "nur",
+        "start": 88.504,
+        "end": 88.664
+      },
+      {
+        "text": "die",
+        "start": 88.684,
+        "end": 88.824
+      },
+      {
+        "text": "Erinnerung",
+        "start": 88.864,
+        "end": 89.885
+      },
+      {
+        "text": "an",
+        "start": 89.945,
+        "end": 90.065
+      },
+      {
+        "text": "das",
+        "start": 90.105,
+        "end": 90.265
+      },
+      {
+        "text": "Symbol",
+        "start": 90.305,
+        "end": 90.746
+      },
+      {
+        "text": "dieser",
+        "start": 90.766,
+        "end": 91.066
+      },
+      {
+        "text": "blühenden",
+        "start": 91.086,
+        "end": 91.646
+      },
+      {
+        "text": "Blume.",
+        "start": 91.666,
+        "end": 94.228
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Wahre Krieger verlieren keine Worte über ihre Zukunft.",
+    "start": 94.268,
+    "end": 97.891,
+    "words": [
+      {
+        "text": "Wahre",
+        "start": 94.268,
+        "end": 94.569
+      },
+      {
+        "text": "Krieger",
+        "start": 94.609,
+        "end": 94.949
+      },
+      {
+        "text": "verlieren",
+        "start": 94.989,
+        "end": 95.389
+      },
+      {
+        "text": "keine",
+        "start": 95.429,
+        "end": 95.65
+      },
+      {
+        "text": "Worte",
+        "start": 95.67,
+        "end": 95.97
+      },
+      {
+        "text": "über",
+        "start": 96.01,
+        "end": 96.17
+      },
+      {
+        "text": "ihre",
+        "start": 96.21,
+        "end": 96.41
+      },
+      {
+        "text": "Zukunft.",
+        "start": 96.45,
+        "end": 97.891
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Es zählt nur die Gegenwart und die brennt sich in ihr Gedächtnis.",
+    "start": 97.931,
+    "end": 103.236,
+    "words": [
+      {
+        "text": "Es",
+        "start": 97.931,
+        "end": 98.092
+      },
+      {
+        "text": "zählt",
+        "start": 98.132,
+        "end": 98.432
+      },
+      {
+        "text": "nur",
+        "start": 98.452,
+        "end": 99.052
+      },
+      {
+        "text": "die",
+        "start": 99.072,
+        "end": 99.273
+      },
+      {
+        "text": "Gegenwart",
+        "start": 99.313,
+        "end": 99.833
+      },
+      {
+        "text": "und",
+        "start": 99.853,
+        "end": 100.033
+      },
+      {
+        "text": "die",
+        "start": 100.053,
+        "end": 100.213
+      },
+      {
+        "text": "brennt",
+        "start": 100.233,
+        "end": 100.474
+      },
+      {
+        "text": "sich",
+        "start": 100.514,
+        "end": 100.634
+      },
+      {
+        "text": "in",
+        "start": 100.674,
+        "end": 100.774
+      },
+      {
+        "text": "ihr",
+        "start": 100.814,
+        "end": 100.874
+      },
+      {
+        "text": "Gedächtnis.",
+        "start": 100.894,
+        "end": 103.236
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Was die Zukunft auch bringen mag, wir werden diesen Augenblick und diese symbolische Blume niemals in alle Winde vergehen lassen.",
+    "start": 103.276,
+    "end": 112.203,
+    "words": [
+      {
+        "text": "Was",
+        "start": 103.276,
+        "end": 103.556
+      },
+      {
+        "text": "die",
+        "start": 103.596,
+        "end": 103.776
+      },
+      {
+        "text": "Zukunft",
+        "start": 103.816,
+        "end": 104.257
+      },
+      {
+        "text": "auch",
+        "start": 104.297,
+        "end": 104.497
+      },
+      {
+        "text": "bringen",
+        "start": 104.517,
+        "end": 104.857
+      },
+      {
+        "text": "mag,",
+        "start": 104.897,
+        "end": 105.518
+      },
+      {
+        "text": "wir",
+        "start": 105.558,
+        "end": 105.698
+      },
+      {
+        "text": "werden",
+        "start": 105.738,
+        "end": 106.018
+      },
+      {
+        "text": "diesen",
+        "start": 106.058,
+        "end": 106.358
+      },
+      {
+        "text": "Augenblick",
+        "start": 106.378,
+        "end": 106.839
+      },
+      {
+        "text": "und",
+        "start": 106.859,
+        "end": 107.039
+      },
+      {
+        "text": "diese",
+        "start": 107.059,
+        "end": 107.259
+      },
+      {
+        "text": "symbolische",
+        "start": 107.299,
+        "end": 107.92
+      },
+      {
+        "text": "Blume",
+        "start": 107.96,
+        "end": 108.46
+      },
+      {
+        "text": "niemals",
+        "start": 108.5,
+        "end": 109.001
+      },
+      {
+        "text": "in",
+        "start": 109.041,
+        "end": 109.221
+      },
+      {
+        "text": "alle",
+        "start": 109.241,
+        "end": 109.441
+      },
+      {
+        "text": "Winde",
+        "start": 109.481,
+        "end": 109.821
+      },
+      {
+        "text": "vergehen",
+        "start": 109.841,
+        "end": 110.302
+      },
+      {
+        "text": "lassen.",
+        "start": 110.342,
+        "end": 112.203
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Wir nennen uns die Schwertblumen.",
+    "start": 112.223,
+    "end": 113.725,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 112.223,
+        "end": 112.363
+      },
+      {
+        "text": "nennen",
+        "start": 112.403,
+        "end": 112.704
+      },
+      {
+        "text": "uns",
+        "start": 112.744,
+        "end": 112.924
+      },
+      {
+        "text": "die",
+        "start": 112.944,
+        "end": 113.064
+      },
+      {
+        "text": "Schwertblumen.",
+        "start": 113.104,
+        "end": 113.725
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": " Ich finde, dass dieser Name zu uns passen würde.",
+    "start": 114.717,
+    "end": 118.318,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 114.717,
+        "end": 114.837
+      },
+      {
+        "text": "finde,",
+        "start": 114.877,
+        "end": 115.097
+      },
+      {
+        "text": "dass",
+        "start": 115.117,
+        "end": 115.337
+      },
+      {
+        "text": "dieser",
+        "start": 115.357,
+        "end": 115.577
+      },
+      {
+        "text": "Name",
+        "start": 115.617,
+        "end": 115.938
+      },
+      {
+        "text": "zu",
+        "start": 115.958,
+        "end": 116.058
+      },
+      {
+        "text": "uns",
+        "start": 116.098,
+        "end": 116.258
+      },
+      {
+        "text": "passen",
+        "start": 116.318,
+        "end": 116.658
+      },
+      {
+        "text": "würde.",
+        "start": 116.698,
+        "end": 118.318
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Die Schwertblume, sagt sie.",
+    "start": 118.358,
+    "end": 120.779,
+    "words": [
+      {
+        "text": "Die",
+        "start": 118.358,
+        "end": 118.578
+      },
+      {
+        "text": "Schwertblume,",
+        "start": 118.639,
+        "end": 119.539
+      },
+      {
+        "text": "sagt",
+        "start": 119.579,
+        "end": 119.859
+      },
+      {
+        "text": "sie.",
+        "start": 119.899,
+        "end": 120.779
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Das klingt zwar etwas unheimlich, aber der Name gefällt mir.",
+    "start": 120.799,
+    "end": 127.902,
+    "words": [
+      {
+        "text": "Das",
+        "start": 120.799,
+        "end": 120.979
+      },
+      {
+        "text": "klingt",
+        "start": 121.019,
+        "end": 121.259
+      },
+      {
+        "text": "zwar",
+        "start": 121.279,
+        "end": 121.44
+      },
+      {
+        "text": "etwas",
+        "start": 121.46,
+        "end": 121.72
+      },
+      {
+        "text": "unheimlich,",
+        "start": 121.76,
+        "end": 122.58
+      },
+      {
+        "text": "aber",
+        "start": 122.64,
+        "end": 122.86
+      },
+      {
+        "text": "der",
+        "start": 122.9,
+        "end": 123.02
+      },
+      {
+        "text": "Name",
+        "start": 123.06,
+        "end": 123.92
+      },
+      {
+        "text": "gefällt",
+        "start": 123.94,
+        "end": 124.361
+      },
+      {
+        "text": "mir.",
+        "start": 124.381,
+        "end": 127.902
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Keine Blume hat Angst vor dem Verwelken und ist stolz, wenn sie blüht.",
+    "start": 127.942,
+    "end": 131.923,
+    "words": [
+      {
+        "text": "Keine",
+        "start": 127.942,
+        "end": 128.202
+      },
+      {
+        "text": "Blume",
+        "start": 128.242,
+        "end": 128.542
+      },
+      {
+        "text": "hat",
+        "start": 128.582,
+        "end": 128.782
+      },
+      {
+        "text": "Angst",
+        "start": 128.842,
+        "end": 129.362
+      },
+      {
+        "text": "vor",
+        "start": 129.402,
+        "end": 129.502
+      },
+      {
+        "text": "dem",
+        "start": 129.542,
+        "end": 129.703
+      },
+      {
+        "text": "Verwelken",
+        "start": 129.743,
+        "end": 130.303
+      },
+      {
+        "text": "und",
+        "start": 130.343,
+        "end": 130.483
+      },
+      {
+        "text": "ist",
+        "start": 130.523,
+        "end": 130.723
+      },
+      {
+        "text": "stolz,",
+        "start": 130.763,
+        "end": 131.003
+      },
+      {
+        "text": "wenn",
+        "start": 131.043,
+        "end": 131.183
+      },
+      {
+        "text": "sie",
+        "start": 131.223,
+        "end": 131.303
+      },
+      {
+        "text": "blüht.",
+        "start": 131.343,
+        "end": 131.923
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Und genau so wollen wir auch sein.",
+    "start": 131.963,
+    "end": 134.344,
+    "words": [
+      {
+        "text": "Und",
+        "start": 131.963,
+        "end": 132.183
+      },
+      {
+        "text": "genau",
+        "start": 132.223,
+        "end": 132.504
+      },
+      {
+        "text": "so",
+        "start": 132.544,
+        "end": 132.684
+      },
+      {
+        "text": "wollen",
+        "start": 132.724,
+        "end": 132.884
+      },
+      {
+        "text": "wir",
+        "start": 132.924,
+        "end": 133.064
+      },
+      {
+        "text": "auch",
+        "start": 133.104,
+        "end": 133.284
+      },
+      {
+        "text": "sein.",
+        "start": 133.324,
+        "end": 134.344
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Die Erinnerung an wichtige Augenblicke ist doch viel wertvoller als die Ewigkeit.",
+    "start": 134.384,
+    "end": 139.846,
+    "words": [
+      {
+        "text": "Die",
+        "start": 134.384,
+        "end": 134.504
+      },
+      {
+        "text": "Erinnerung",
+        "start": 134.564,
+        "end": 135.185
+      },
+      {
+        "text": "an",
+        "start": 135.225,
+        "end": 135.385
+      },
+      {
+        "text": "wichtige",
+        "start": 135.405,
+        "end": 135.825
+      },
+      {
+        "text": "Augenblicke",
+        "start": 135.865,
+        "end": 136.725
+      },
+      {
+        "text": "ist",
+        "start": 136.785,
+        "end": 136.925
+      },
+      {
+        "text": "doch",
+        "start": 136.965,
+        "end": 137.165
+      },
+      {
+        "text": "viel",
+        "start": 137.205,
+        "end": 137.385
+      },
+      {
+        "text": "wertvoller",
+        "start": 137.425,
+        "end": 137.906
+      },
+      {
+        "text": "als",
+        "start": 137.946,
+        "end": 138.106
+      },
+      {
+        "text": "die",
+        "start": 138.126,
+        "end": 138.246
+      },
+      {
+        "text": "Ewigkeit.",
+        "start": 138.306,
+        "end": 139.846
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Pete, du bist ganz rot im Gesicht.",
+    "start": 139.886,
+    "end": 141.687,
+    "words": [
+      {
+        "text": "Pete,",
+        "start": 139.886,
+        "end": 140.046
+      },
+      {
+        "text": "du",
+        "start": 140.066,
+        "end": 140.206
+      },
+      {
+        "text": "bist",
+        "start": 140.226,
+        "end": 140.747
+      },
+      {
+        "text": "ganz",
+        "start": 140.787,
+        "end": 141.007
+      },
+      {
+        "text": "rot",
+        "start": 141.047,
+        "end": 141.207
+      },
+      {
+        "text": "im",
+        "start": 141.247,
+        "end": 141.407
+      },
+      {
+        "text": "Gesicht.",
+        "start": 141.427,
+        "end": 141.687
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": " Was musst du gerade sagen?",
+    "start": 142.22,
+    "end": 143.921,
+    "words": [
+      {
+        "text": "Was",
+        "start": 142.22,
+        "end": 142.56
+      },
+      {
+        "text": "musst",
+        "start": 142.6,
+        "end": 142.74
+      },
+      {
+        "text": "du",
+        "start": 142.76,
+        "end": 142.84
+      },
+      {
+        "text": "gerade",
+        "start": 142.86,
+        "end": 143.141
+      },
+      {
+        "text": "sagen?",
+        "start": 143.181,
+        "end": 143.921
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Entschuldigung.",
+    "start": 143.961,
+    "end": 145.262,
+    "words": [
+      {
+        "text": "Entschuldigung.",
+        "start": 143.961,
+        "end": 145.262
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Aus irgendeinem Grund kann ich meine Gefühle nicht zügeln.",
+    "start": 145.302,
+    "end": 148.605,
+    "words": [
+      {
+        "text": "Aus",
+        "start": 145.302,
+        "end": 145.523
+      },
+      {
+        "text": "irgendeinem",
+        "start": 145.583,
+        "end": 146.083
+      },
+      {
+        "text": "Grund",
+        "start": 146.123,
+        "end": 146.323
+      },
+      {
+        "text": "kann",
+        "start": 146.363,
+        "end": 146.523
+      },
+      {
+        "text": "ich",
+        "start": 146.543,
+        "end": 146.663
+      },
+      {
+        "text": "meine",
+        "start": 146.683,
+        "end": 146.884
+      },
+      {
+        "text": "Gefühle",
+        "start": 146.924,
+        "end": 147.324
+      },
+      {
+        "text": "nicht",
+        "start": 147.344,
+        "end": 147.504
+      },
+      {
+        "text": "zügeln.",
+        "start": 147.544,
+        "end": 148.605
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Alles in Ordnung.",
+    "start": 148.685,
+    "end": 150.246,
+    "words": [
+      {
+        "text": "Alles",
+        "start": 148.685,
+        "end": 148.985
+      },
+      {
+        "text": "in",
+        "start": 149.045,
+        "end": 149.165
+      },
+      {
+        "text": "Ordnung.",
+        "start": 149.225,
+        "end": 150.246
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Ich glaube nämlich, dass hier gerade ein unvergesslicher Moment entsteht.",
+    "start": 150.266,
+    "end": 154.93,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 150.266,
+        "end": 150.406
+      },
+      {
+        "text": "glaube",
+        "start": 150.446,
+        "end": 150.747
+      },
+      {
+        "text": "nämlich,",
+        "start": 150.767,
+        "end": 151.047
+      },
+      {
+        "text": "dass",
+        "start": 151.087,
+        "end": 151.227
+      },
+      {
+        "text": "hier",
+        "start": 151.247,
+        "end": 151.367
+      },
+      {
+        "text": "gerade",
+        "start": 151.467,
+        "end": 152.268
+      },
+      {
+        "text": "ein",
+        "start": 152.308,
+        "end": 152.528
+      },
+      {
+        "text": "unvergesslicher",
+        "start": 152.568,
+        "end": 153.449
+      },
+      {
+        "text": "Moment",
+        "start": 153.489,
+        "end": 153.849
+      },
+      {
+        "text": "entsteht.",
+        "start": 153.889,
+        "end": 154.93
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Und, Schela?",
+    "start": 154.97,
+    "end": 155.811,
+    "words": [
+      {
+        "text": "Und,",
+        "start": 154.97,
+        "end": 155.19
+      },
+      {
+        "text": "Schela?",
+        "start": 155.23,
+        "end": 155.811
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Ist dieser Moment jetzt besonders genug?",
+    "start": 155.851,
+    "end": 158.453,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 155.851,
+        "end": 156.031
+      },
+      {
+        "text": "dieser",
+        "start": 156.051,
+        "end": 156.311
+      },
+      {
+        "text": "Moment",
+        "start": 156.351,
+        "end": 156.711
+      },
+      {
+        "text": "jetzt",
+        "start": 156.751,
+        "end": 157.051
+      },
+      {
+        "text": "besonders",
+        "start": 157.072,
+        "end": 157.472
+      },
+      {
+        "text": "genug?",
+        "start": 157.492,
+        "end": 158.453
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Ja, natürlich.",
+    "start": 158.573,
+    "end": 160.434,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 158.573,
+        "end": 158.733
+      },
+      {
+        "text": "natürlich.",
+        "start": 158.773,
+        "end": 160.434
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Es ist soweit.",
+    "start": 160.494,
+    "end": 161.755,
+    "words": [
+      {
+        "text": "Es",
+        "start": 160.494,
+        "end": 160.674
+      },
+      {
+        "text": "ist",
+        "start": 160.714,
+        "end": 160.914
+      },
+      {
+        "text": "soweit.",
+        "start": 160.955,
+        "end": 161.755
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Von dieser Stunde an sind wir die Schwertblumen.",
+    "start": 161.795,
+    "end": 166.499,
+    "words": [
+      {
+        "text": "Von",
+        "start": 161.795,
+        "end": 161.975
+      },
+      {
+        "text": "dieser",
+        "start": 162.015,
+        "end": 162.296
+      },
+      {
+        "text": "Stunde",
+        "start": 162.336,
+        "end": 162.756
+      },
+      {
+        "text": "an",
+        "start": 162.816,
+        "end": 163.577
+      },
+      {
+        "text": "sind",
+        "start": 163.617,
+        "end": 163.837
+      },
+      {
+        "text": "wir",
+        "start": 163.857,
+        "end": 164.117
+      },
+      {
+        "text": "die",
+        "start": 164.137,
+        "end": 164.277
+      },
+      {
+        "text": "Schwertblumen.",
+        "start": 164.297,
+        "end": 166.499
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Wir sollten diesen Moment für immer im Gedächtnis behalten.",
+    "start": 166.539,
+    "end": 169.141,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 166.539,
+        "end": 166.699
+      },
+      {
+        "text": "sollten",
+        "start": 166.719,
+        "end": 167.039
+      },
+      {
+        "text": "diesen",
+        "start": 167.079,
+        "end": 167.299
+      },
+      {
+        "text": "Moment",
+        "start": 167.339,
+        "end": 167.66
+      },
+      {
+        "text": "für",
+        "start": 167.68,
+        "end": 167.86
+      },
+      {
+        "text": "immer",
+        "start": 167.9,
+        "end": 168.08
+      },
+      {
+        "text": "im",
+        "start": 168.14,
+        "end": 168.24
+      },
+      {
+        "text": "Gedächtnis",
+        "start": 168.28,
+        "end": 168.761
+      },
+      {
+        "text": "behalten.",
+        "start": 168.781,
+        "end": 169.141
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": " auf das seine Farben nie verblassen werden.",
+    "start": 170.855,
+    "end": 172.822,
+    "words": [
+      {
+        "text": "auf",
+        "start": 170.855,
+        "end": 170.975
+      },
+      {
+        "text": "das",
+        "start": 170.995,
+        "end": 171.176
+      },
+      {
+        "text": "seine",
+        "start": 171.216,
+        "end": 171.417
+      },
+      {
+        "text": "Farben",
+        "start": 171.457,
+        "end": 171.798
+      },
+      {
+        "text": "nie",
+        "start": 171.838,
+        "end": 172.059
+      },
+      {
+        "text": "verblassen",
+        "start": 172.099,
+        "end": 172.621
+      },
+      {
+        "text": "werden.",
+        "start": 172.641,
+        "end": 172.822
+      }
+    ]
+  }
+]

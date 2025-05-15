@@ -1,0 +1,948 @@
+[
+  {
+    "id": 0,
+    "text": " Was machst du denn hier, Sumi?",
+    "start": 3.423,
+    "end": 6.665,
+    "words": [
+      {
+        "text": "Was",
+        "start": 3.423,
+        "end": 3.564
+      },
+      {
+        "text": "machst",
+        "start": 3.604,
+        "end": 3.764
+      },
+      {
+        "text": "du",
+        "start": 3.804,
+        "end": 3.884
+      },
+      {
+        "text": "denn",
+        "start": 3.904,
+        "end": 4.024
+      },
+      {
+        "text": "hier,",
+        "start": 4.044,
+        "end": 4.244
+      },
+      {
+        "text": "Sumi?",
+        "start": 4.264,
+        "end": 6.665
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ach, wirklich?",
+    "start": 6.725,
+    "end": 7.466,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 6.725,
+        "end": 6.925
+      },
+      {
+        "text": "wirklich?",
+        "start": 6.965,
+        "end": 7.466
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Du hast geholfen, Flyer zu verteilen?",
+    "start": 7.486,
+    "end": 9.587,
+    "words": [
+      {
+        "text": "Du",
+        "start": 7.486,
+        "end": 7.566
+      },
+      {
+        "text": "hast",
+        "start": 7.586,
+        "end": 7.746
+      },
+      {
+        "text": "geholfen,",
+        "start": 7.786,
+        "end": 8.106
+      },
+      {
+        "text": "Flyer",
+        "start": 8.146,
+        "end": 8.466
+      },
+      {
+        "text": "zu",
+        "start": 8.486,
+        "end": 8.586
+      },
+      {
+        "text": "verteilen?",
+        "start": 8.626,
+        "end": 9.587
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und als du eben gesehen hast, dass ich ins Krankenhaus gegangen bin, bist du mir gefolgt, um meine Oma zu besuchen?",
+    "start": 9.627,
+    "end": 14.21,
+    "words": [
+      {
+        "text": "Und",
+        "start": 9.627,
+        "end": 9.787
+      },
+      {
+        "text": "als",
+        "start": 9.827,
+        "end": 9.947
+      },
+      {
+        "text": "du",
+        "start": 9.987,
+        "end": 10.067
+      },
+      {
+        "text": "eben",
+        "start": 10.107,
+        "end": 10.287
+      },
+      {
+        "text": "gesehen",
+        "start": 10.307,
+        "end": 10.527
+      },
+      {
+        "text": "hast,",
+        "start": 10.547,
+        "end": 10.668
+      },
+      {
+        "text": "dass",
+        "start": 10.688,
+        "end": 10.808
+      },
+      {
+        "text": "ich",
+        "start": 10.848,
+        "end": 10.948
+      },
+      {
+        "text": "ins",
+        "start": 10.988,
+        "end": 11.108
+      },
+      {
+        "text": "Krankenhaus",
+        "start": 11.128,
+        "end": 11.588
+      },
+      {
+        "text": "gegangen",
+        "start": 11.628,
+        "end": 11.928
+      },
+      {
+        "text": "bin,",
+        "start": 11.968,
+        "end": 12.328
+      },
+      {
+        "text": "bist",
+        "start": 12.348,
+        "end": 12.469
+      },
+      {
+        "text": "du",
+        "start": 12.509,
+        "end": 12.589
+      },
+      {
+        "text": "mir",
+        "start": 12.609,
+        "end": 12.729
+      },
+      {
+        "text": "gefolgt,",
+        "start": 12.769,
+        "end": 13.049
+      },
+      {
+        "text": "um",
+        "start": 13.089,
+        "end": 13.149
+      },
+      {
+        "text": "meine",
+        "start": 13.169,
+        "end": 13.429
+      },
+      {
+        "text": "Oma",
+        "start": 13.469,
+        "end": 13.749
+      },
+      {
+        "text": "zu",
+        "start": 13.769,
+        "end": 13.849
+      },
+      {
+        "text": "besuchen?",
+        "start": 13.869,
+        "end": 14.21
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Warum hat er das mir gegenüber mit deinem Wort erwähnt?",
+    "start": 14.71,
+    "end": 16.951,
+    "words": [
+      {
+        "text": "Warum",
+        "start": 14.71,
+        "end": 14.95
+      },
+      {
+        "text": "hat",
+        "start": 14.97,
+        "end": 15.13
+      },
+      {
+        "text": "er",
+        "start": 15.15,
+        "end": 15.21
+      },
+      {
+        "text": "das",
+        "start": 15.23,
+        "end": 15.39
+      },
+      {
+        "text": "mir",
+        "start": 15.41,
+        "end": 15.53
+      },
+      {
+        "text": "gegenüber",
+        "start": 15.55,
+        "end": 15.951
+      },
+      {
+        "text": "mit",
+        "start": 15.971,
+        "end": 16.091
+      },
+      {
+        "text": "deinem",
+        "start": 16.131,
+        "end": 16.371
+      },
+      {
+        "text": "Wort",
+        "start": 16.411,
+        "end": 16.591
+      },
+      {
+        "text": "erwähnt?",
+        "start": 16.611,
+        "end": 16.951
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ja, wir haben es geschafft.",
+    "start": 20.813,
+    "end": 22.194,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 20.813,
+        "end": 21.013
+      },
+      {
+        "text": "wir",
+        "start": 21.033,
+        "end": 21.113
+      },
+      {
+        "text": "haben",
+        "start": 21.154,
+        "end": 21.314
+      },
+      {
+        "text": "es",
+        "start": 21.374,
+        "end": 21.494
+      },
+      {
+        "text": "geschafft.",
+        "start": 21.534,
+        "end": 22.194
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Wir haben erst neulich die letzte Szene gedreht.",
+    "start": 22.214,
+    "end": 24.615,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 22.214,
+        "end": 22.294
+      },
+      {
+        "text": "haben",
+        "start": 22.334,
+        "end": 22.474
+      },
+      {
+        "text": "erst",
+        "start": 22.514,
+        "end": 22.634
+      },
+      {
+        "text": "neulich",
+        "start": 22.674,
+        "end": 22.975
+      },
+      {
+        "text": "die",
+        "start": 22.995,
+        "end": 23.075
+      },
+      {
+        "text": "letzte",
+        "start": 23.115,
+        "end": 23.375
+      },
+      {
+        "text": "Szene",
+        "start": 23.395,
+        "end": 23.675
+      },
+      {
+        "text": "gedreht.",
+        "start": 23.715,
+        "end": 24.615
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ein Termin für die Vorführung ist auch schon angesetzt.",
+    "start": 24.655,
+    "end": 26.937,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 24.655,
+        "end": 24.776
+      },
+      {
+        "text": "Termin",
+        "start": 24.796,
+        "end": 25.076
+      },
+      {
+        "text": "für",
+        "start": 25.096,
+        "end": 25.196
+      },
+      {
+        "text": "die",
+        "start": 25.216,
+        "end": 25.316
+      },
+      {
+        "text": "Vorführung",
+        "start": 25.336,
+        "end": 25.736
+      },
+      {
+        "text": "ist",
+        "start": 25.776,
+        "end": 25.896
+      },
+      {
+        "text": "auch",
+        "start": 25.916,
+        "end": 26.016
+      },
+      {
+        "text": "schon",
+        "start": 26.056,
+        "end": 26.236
+      },
+      {
+        "text": "angesetzt.",
+        "start": 26.256,
+        "end": 26.937
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Momentan ist der Film aber noch im Schnitt.",
+    "start": 26.957,
+    "end": 30.499,
+    "words": [
+      {
+        "text": "Momentan",
+        "start": 26.957,
+        "end": 27.297
+      },
+      {
+        "text": "ist",
+        "start": 27.337,
+        "end": 27.417
+      },
+      {
+        "text": "der",
+        "start": 27.437,
+        "end": 27.517
+      },
+      {
+        "text": "Film",
+        "start": 27.557,
+        "end": 27.737
+      },
+      {
+        "text": "aber",
+        "start": 27.757,
+        "end": 27.877
+      },
+      {
+        "text": "noch",
+        "start": 27.917,
+        "end": 28.017
+      },
+      {
+        "text": "im",
+        "start": 28.057,
+        "end": 28.137
+      },
+      {
+        "text": "Schnitt.",
+        "start": 28.177,
+        "end": 30.499
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Vielen Dank.",
+    "start": 30.539,
+    "end": 31.299,
+    "words": [
+      {
+        "text": "Vielen",
+        "start": 30.539,
+        "end": 30.819
+      },
+      {
+        "text": "Dank.",
+        "start": 30.859,
+        "end": 31.299
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Ich freue mich auch darüber.",
+    "start": 31.339,
+    "end": 32.28,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 31.339,
+        "end": 31.419
+      },
+      {
+        "text": "freue",
+        "start": 31.459,
+        "end": 31.619
+      },
+      {
+        "text": "mich",
+        "start": 31.639,
+        "end": 31.78
+      },
+      {
+        "text": "auch",
+        "start": 31.8,
+        "end": 31.98
+      },
+      {
+        "text": "darüber.",
+        "start": 32.0,
+        "end": 32.28
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Ähm, noch mehr Applaus?",
+    "start": 35.202,
+    "end": 37.323,
+    "words": [
+      {
+        "text": "Ähm,",
+        "start": 35.202,
+        "end": 36.102
+      },
+      {
+        "text": "noch",
+        "start": 36.142,
+        "end": 36.302
+      },
+      {
+        "text": "mehr",
+        "start": 36.322,
+        "end": 36.482
+      },
+      {
+        "text": "Applaus?",
+        "start": 36.522,
+        "end": 37.323
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Schon gut, danke dir.",
+    "start": 37.343,
+    "end": 46.046,
+    "words": [
+      {
+        "text": "Schon",
+        "start": 37.343,
+        "end": 37.563
+      },
+      {
+        "text": "gut,",
+        "start": 37.603,
+        "end": 38.023
+      },
+      {
+        "text": "danke",
+        "start": 38.063,
+        "end": 38.323
+      },
+      {
+        "text": "dir.",
+        "start": 38.363,
+        "end": 46.046
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich gratuliere euch.",
+    "start": 47.086,
+    "end": 47.686,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 47.086,
+        "end": 47.206
+      },
+      {
+        "text": "gratuliere",
+        "start": 47.226,
+        "end": 47.506
+      },
+      {
+        "text": "euch.",
+        "start": 47.586,
+        "end": 47.686
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Hab vielen Dank, Sumi.",
+    "start": 65.86,
+    "end": 71.063,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 65.86,
+        "end": 66.06
+      },
+      {
+        "text": "vielen",
+        "start": 66.12,
+        "end": 66.44
+      },
+      {
+        "text": "Dank,",
+        "start": 67.521,
+        "end": 67.761
+      },
+      {
+        "text": "Sumi.",
+        "start": 70.503,
+        "end": 71.063
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Darf ich vorstellen?",
+    "start": 71.103,
+    "end": 72.264,
+    "words": [
+      {
+        "text": "Darf",
+        "start": 71.103,
+        "end": 71.283
+      },
+      {
+        "text": "ich",
+        "start": 71.323,
+        "end": 71.463
+      },
+      {
+        "text": "vorstellen?",
+        "start": 71.503,
+        "end": 72.264
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Das ist Sumi Sakurasawa, eine Freundin von mir.",
+    "start": 72.304,
+    "end": 74.985,
+    "words": [
+      {
+        "text": "Das",
+        "start": 72.304,
+        "end": 72.444
+      },
+      {
+        "text": "ist",
+        "start": 72.484,
+        "end": 72.684
+      },
+      {
+        "text": "Sumi",
+        "start": 72.704,
+        "end": 72.944
+      },
+      {
+        "text": "Sakurasawa,",
+        "start": 72.964,
+        "end": 73.785
+      },
+      {
+        "text": "eine",
+        "start": 73.805,
+        "end": 73.985
+      },
+      {
+        "text": "Freundin",
+        "start": 74.005,
+        "end": 74.345
+      },
+      {
+        "text": "von",
+        "start": 74.385,
+        "end": 74.465
+      },
+      {
+        "text": "mir.",
+        "start": 74.485,
+        "end": 74.985
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Sie wollte dich gerne besuchen.",
+    "start": 75.005,
+    "end": 77.087,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 75.005,
+        "end": 75.105
+      },
+      {
+        "text": "wollte",
+        "start": 75.125,
+        "end": 75.386
+      },
+      {
+        "text": "dich",
+        "start": 75.406,
+        "end": 75.526
+      },
+      {
+        "text": "gerne",
+        "start": 75.566,
+        "end": 75.786
+      },
+      {
+        "text": "besuchen.",
+        "start": 75.806,
+        "end": 77.087
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Zieh an, wie herzallerliebst.",
+    "start": 77.127,
+    "end": 78.748,
+    "words": [
+      {
+        "text": "Zieh",
+        "start": 77.127,
+        "end": 77.287
+      },
+      {
+        "text": "an,",
+        "start": 77.327,
+        "end": 77.567
+      },
+      {
+        "text": "wie",
+        "start": 77.607,
+        "end": 77.727
+      },
+      {
+        "text": "herzallerliebst.",
+        "start": 77.747,
+        "end": 78.748
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ihr beiden kennt euch von der Uni?",
+    "start": 78.788,
+    "end": 80.509,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 78.788,
+        "end": 78.928
+      },
+      {
+        "text": "beiden",
+        "start": 78.968,
+        "end": 79.208
+      },
+      {
+        "text": "kennt",
+        "start": 79.248,
+        "end": 79.448
+      },
+      {
+        "text": "euch",
+        "start": 79.468,
+        "end": 79.688
+      },
+      {
+        "text": "von",
+        "start": 79.728,
+        "end": 79.848
+      },
+      {
+        "text": "der",
+        "start": 79.868,
+        "end": 79.988
+      },
+      {
+        "text": "Uni?",
+        "start": 80.048,
+        "end": 80.509
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ja, sowas in der Richtung.",
+    "start": 80.529,
+    "end": 82.129,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 80.529,
+        "end": 80.689
+      },
+      {
+        "text": "sowas",
+        "start": 80.709,
+        "end": 81.009
+      },
+      {
+        "text": "in",
+        "start": 81.049,
+        "end": 81.109
+      },
+      {
+        "text": "der",
+        "start": 81.149,
+        "end": 81.249
+      },
+      {
+        "text": "Richtung.",
+        "start": 81.289,
+        "end": 82.129
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Dieser Blumenstrauß kommt von Sumi.",
+    "start": 82.17,
+    "end": 84.251,
+    "words": [
+      {
+        "text": "Dieser",
+        "start": 82.17,
+        "end": 82.37
+      },
+      {
+        "text": "Blumenstrauß",
+        "start": 82.41,
+        "end": 83.23
+      },
+      {
+        "text": "kommt",
+        "start": 83.25,
+        "end": 83.45
+      },
+      {
+        "text": "von",
+        "start": 83.47,
+        "end": 83.65
+      },
+      {
+        "text": "Sumi.",
+        "start": 83.69,
+        "end": 84.251
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Verstehe.",
+    "start": 84.271,
+    "end": 84.951,
+    "words": [
+      {
+        "text": "Verstehe.",
+        "start": 84.271,
+        "end": 84.951
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Hab vielen Dank.",
+    "start": 84.971,
+    "end": 89.034,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 84.971,
+        "end": 85.211
+      },
+      {
+        "text": "vielen",
+        "start": 85.271,
+        "end": 85.571
+      },
+      {
+        "text": "Dank.",
+        "start": 85.612,
+        "end": 89.034
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Auf Wiedersehen.",
+    "start": 89.094,
+    "end": 90.114,
+    "words": [
+      {
+        "text": "Auf",
+        "start": 89.094,
+        "end": 89.234
+      },
+      {
+        "text": "Wiedersehen.",
+        "start": 89.274,
+        "end": 90.114
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Ja, bis dann.",
+    "start": 90.154,
+    "end": 90.875,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 90.154,
+        "end": 90.354
+      },
+      {
+        "text": "bis",
+        "start": 90.374,
+        "end": 90.514
+      },
+      {
+        "text": "dann.",
+        "start": 90.534,
+        "end": 90.875
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Wir sehen uns.",
+    "start": 90.895,
+    "end": 91.375,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 90.895,
+        "end": 91.015
+      },
+      {
+        "text": "sehen",
+        "start": 91.035,
+        "end": 91.215
+      },
+      {
+        "text": "uns.",
+        "start": 91.275,
+        "end": 91.375
+      }
+    ]
+  }
+]

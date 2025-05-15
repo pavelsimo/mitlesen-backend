@@ -1,0 +1,125 @@
+[
+  {
+    "id": 0,
+    "text": " Nein!",
+    "start": 0.031,
+    "end": 0.151,
+    "words": [
+      {
+        "text": "Nein!",
+        "start": 0.031,
+        "end": 0.151
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sie wird diese Tür noch in Stacke reißen!",
+    "start": 0.171,
+    "end": 11.457,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 0.171,
+        "end": 5.654
+      },
+      {
+        "text": "wird",
+        "start": 5.694,
+        "end": 10.096
+      },
+      {
+        "text": "diese",
+        "start": 10.136,
+        "end": 10.297
+      },
+      {
+        "text": "Tür",
+        "start": 10.317,
+        "end": 10.517
+      },
+      {
+        "text": "noch",
+        "start": 10.537,
+        "end": 10.697
+      },
+      {
+        "text": "in",
+        "start": 10.777,
+        "end": 10.877
+      },
+      {
+        "text": "Stacke",
+        "start": 10.897,
+        "end": 11.117
+      },
+      {
+        "text": "reißen!",
+        "start": 11.157,
+        "end": 11.457
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Wer ist Corsi?",
+    "start": 11.477,
+    "end": 12.178,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 11.477,
+        "end": 11.577
+      },
+      {
+        "text": "ist",
+        "start": 11.637,
+        "end": 11.857
+      },
+      {
+        "text": "Corsi?",
+        "start": 11.897,
+        "end": 12.178
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": " Scheiße!",
+    "start": 28.992,
+    "end": 29.252,
+    "words": [
+      {
+        "text": "Scheiße!",
+        "start": 28.992,
+        "end": 29.252
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Kass!",
+    "start": 29.272,
+    "end": 29.453,
+    "words": [
+      {
+        "text": "Kass!",
+        "start": 29.272,
+        "end": 29.453
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Mh.",
+    "start": 70.265,
+    "end": 70.345,
+    "words": [
+      {
+        "text": "Mh.",
+        "start": 70.265,
+        "end": 70.345
+      }
+    ]
+  }
+]

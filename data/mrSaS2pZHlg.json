@@ -1,0 +1,2249 @@
+[
+  {
+    "id": 0,
+    "text": " Wir präsentieren euch heute den allerersten Essenswettbewerb der Klasebene und unsere Teilnehmer haben es wirklich in sich.",
+    "start": 0.531,
+    "end": 8.638,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 0.531,
+        "end": 0.651
+      },
+      {
+        "text": "präsentieren",
+        "start": 0.692,
+        "end": 1.172
+      },
+      {
+        "text": "euch",
+        "start": 1.212,
+        "end": 1.372
+      },
+      {
+        "text": "heute",
+        "start": 1.412,
+        "end": 1.652
+      },
+      {
+        "text": "den",
+        "start": 1.692,
+        "end": 1.892
+      },
+      {
+        "text": "allerersten",
+        "start": 1.912,
+        "end": 2.513
+      },
+      {
+        "text": "Essenswettbewerb",
+        "start": 2.533,
+        "end": 3.354
+      },
+      {
+        "text": "der",
+        "start": 3.374,
+        "end": 3.514
+      },
+      {
+        "text": "Klasebene",
+        "start": 3.534,
+        "end": 4.274
+      },
+      {
+        "text": "und",
+        "start": 4.314,
+        "end": 4.474
+      },
+      {
+        "text": "unsere",
+        "start": 4.514,
+        "end": 4.755
+      },
+      {
+        "text": "Teilnehmer",
+        "start": 4.795,
+        "end": 5.275
+      },
+      {
+        "text": "haben",
+        "start": 5.295,
+        "end": 5.415
+      },
+      {
+        "text": "es",
+        "start": 5.475,
+        "end": 5.575
+      },
+      {
+        "text": "wirklich",
+        "start": 5.595,
+        "end": 5.896
+      },
+      {
+        "text": "in",
+        "start": 5.956,
+        "end": 6.136
+      },
+      {
+        "text": "sich.",
+        "start": 6.156,
+        "end": 8.638
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Gleich treten die Gewinner der Vorausscheidung an.",
+    "start": 8.658,
+    "end": 11.14,
+    "words": [
+      {
+        "text": "Gleich",
+        "start": 8.658,
+        "end": 8.998
+      },
+      {
+        "text": "treten",
+        "start": 9.018,
+        "end": 9.358
+      },
+      {
+        "text": "die",
+        "start": 9.378,
+        "end": 9.478
+      },
+      {
+        "text": "Gewinner",
+        "start": 9.518,
+        "end": 9.819
+      },
+      {
+        "text": "der",
+        "start": 9.919,
+        "end": 10.019
+      },
+      {
+        "text": "Vorausscheidung",
+        "start": 10.039,
+        "end": 10.699
+      },
+      {
+        "text": "an.",
+        "start": 10.739,
+        "end": 11.14
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Diese handerlesenen und erstklassigen Teilnehmer wurden von uns vorab in zwei Gruppen unterteilt.",
+    "start": 11.18,
+    "end": 16.023,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 11.18,
+        "end": 11.4
+      },
+      {
+        "text": "handerlesenen",
+        "start": 11.44,
+        "end": 12.18
+      },
+      {
+        "text": "und",
+        "start": 12.22,
+        "end": 12.361
+      },
+      {
+        "text": "erstklassigen",
+        "start": 12.401,
+        "end": 13.001
+      },
+      {
+        "text": "Teilnehmer",
+        "start": 13.041,
+        "end": 13.521
+      },
+      {
+        "text": "wurden",
+        "start": 13.561,
+        "end": 13.782
+      },
+      {
+        "text": "von",
+        "start": 13.802,
+        "end": 13.942
+      },
+      {
+        "text": "uns",
+        "start": 13.982,
+        "end": 14.142
+      },
+      {
+        "text": "vorab",
+        "start": 14.162,
+        "end": 14.522
+      },
+      {
+        "text": "in",
+        "start": 14.562,
+        "end": 14.702
+      },
+      {
+        "text": "zwei",
+        "start": 14.722,
+        "end": 14.923
+      },
+      {
+        "text": "Gruppen",
+        "start": 14.943,
+        "end": 15.223
+      },
+      {
+        "text": "unterteilt.",
+        "start": 15.263,
+        "end": 16.023
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Die fünf Gewinner aus jeder Gruppe werden dann im großen Finale aufeinandertreffen.",
+    "start": 16.043,
+    "end": 19.826,
+    "words": [
+      {
+        "text": "Die",
+        "start": 16.043,
+        "end": 16.204
+      },
+      {
+        "text": "fünf",
+        "start": 16.224,
+        "end": 16.464
+      },
+      {
+        "text": "Gewinner",
+        "start": 16.504,
+        "end": 16.824
+      },
+      {
+        "text": "aus",
+        "start": 16.864,
+        "end": 17.024
+      },
+      {
+        "text": "jeder",
+        "start": 17.044,
+        "end": 17.264
+      },
+      {
+        "text": "Gruppe",
+        "start": 17.284,
+        "end": 17.605
+      },
+      {
+        "text": "werden",
+        "start": 17.625,
+        "end": 17.825
+      },
+      {
+        "text": "dann",
+        "start": 17.845,
+        "end": 18.005
+      },
+      {
+        "text": "im",
+        "start": 18.045,
+        "end": 18.145
+      },
+      {
+        "text": "großen",
+        "start": 18.165,
+        "end": 18.405
+      },
+      {
+        "text": "Finale",
+        "start": 18.465,
+        "end": 18.806
+      },
+      {
+        "text": "aufeinandertreffen.",
+        "start": 18.846,
+        "end": 19.826
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Der Sieger des Wettbewerbs erhält außerdem einen legendären Preis.",
+    "start": 19.866,
+    "end": 23.309,
+    "words": [
+      {
+        "text": "Der",
+        "start": 19.866,
+        "end": 20.006
+      },
+      {
+        "text": "Sieger",
+        "start": 20.047,
+        "end": 20.347
+      },
+      {
+        "text": "des",
+        "start": 20.367,
+        "end": 20.507
+      },
+      {
+        "text": "Wettbewerbs",
+        "start": 20.547,
+        "end": 21.027
+      },
+      {
+        "text": "erhält",
+        "start": 21.067,
+        "end": 21.408
+      },
+      {
+        "text": "außerdem",
+        "start": 21.448,
+        "end": 21.868
+      },
+      {
+        "text": "einen",
+        "start": 21.888,
+        "end": 22.028
+      },
+      {
+        "text": "legendären",
+        "start": 22.068,
+        "end": 22.629
+      },
+      {
+        "text": "Preis.",
+        "start": 22.669,
+        "end": 23.309
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Freut euch drauf!",
+    "start": 23.349,
+    "end": 24.27,
+    "words": [
+      {
+        "text": "Freut",
+        "start": 23.349,
+        "end": 23.589
+      },
+      {
+        "text": "euch",
+        "start": 23.629,
+        "end": 23.829
+      },
+      {
+        "text": "drauf!",
+        "start": 23.849,
+        "end": 24.27
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Na schön, Leute, es ist soweit.",
+    "start": 27.133,
+    "end": 28.694,
+    "words": [
+      {
+        "text": "Na",
+        "start": 27.133,
+        "end": 27.273
+      },
+      {
+        "text": "schön,",
+        "start": 27.293,
+        "end": 27.533
+      },
+      {
+        "text": "Leute,",
+        "start": 27.573,
+        "end": 27.934
+      },
+      {
+        "text": "es",
+        "start": 27.974,
+        "end": 28.074
+      },
+      {
+        "text": "ist",
+        "start": 28.114,
+        "end": 28.274
+      },
+      {
+        "text": "soweit.",
+        "start": 28.314,
+        "end": 28.694
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ich möchte nun alle Teilnehmer aus der ersten Gruppe zu mir auf die Bühne bitten.",
+    "start": 28.734,
+    "end": 36.72,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 28.734,
+        "end": 28.834
+      },
+      {
+        "text": "möchte",
+        "start": 28.874,
+        "end": 29.155
+      },
+      {
+        "text": "nun",
+        "start": 29.175,
+        "end": 29.315
+      },
+      {
+        "text": "alle",
+        "start": 29.355,
+        "end": 29.535
+      },
+      {
+        "text": "Teilnehmer",
+        "start": 29.555,
+        "end": 29.955
+      },
+      {
+        "text": "aus",
+        "start": 29.995,
+        "end": 30.095
+      },
+      {
+        "text": "der",
+        "start": 30.115,
+        "end": 30.235
+      },
+      {
+        "text": "ersten",
+        "start": 30.275,
+        "end": 30.476
+      },
+      {
+        "text": "Gruppe",
+        "start": 30.496,
+        "end": 30.816
+      },
+      {
+        "text": "zu",
+        "start": 30.836,
+        "end": 30.936
+      },
+      {
+        "text": "mir",
+        "start": 30.956,
+        "end": 31.076
+      },
+      {
+        "text": "auf",
+        "start": 31.116,
+        "end": 31.216
+      },
+      {
+        "text": "die",
+        "start": 31.236,
+        "end": 31.316
+      },
+      {
+        "text": "Bühne",
+        "start": 31.356,
+        "end": 31.596
+      },
+      {
+        "text": "bitten.",
+        "start": 31.616,
+        "end": 36.72
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sobald diese Sanduhr hier komplett durchgelaufen ist, gilt die Runde als beendet.",
+    "start": 36.74,
+    "end": 40.763,
+    "words": [
+      {
+        "text": "Sobald",
+        "start": 36.74,
+        "end": 37.12
+      },
+      {
+        "text": "diese",
+        "start": 37.16,
+        "end": 37.401
+      },
+      {
+        "text": "Sanduhr",
+        "start": 37.441,
+        "end": 37.761
+      },
+      {
+        "text": "hier",
+        "start": 37.801,
+        "end": 37.961
+      },
+      {
+        "text": "komplett",
+        "start": 38.001,
+        "end": 38.361
+      },
+      {
+        "text": "durchgelaufen",
+        "start": 38.401,
+        "end": 39.002
+      },
+      {
+        "text": "ist,",
+        "start": 39.062,
+        "end": 39.302
+      },
+      {
+        "text": "gilt",
+        "start": 39.322,
+        "end": 39.502
+      },
+      {
+        "text": "die",
+        "start": 39.542,
+        "end": 39.622
+      },
+      {
+        "text": "Runde",
+        "start": 39.662,
+        "end": 39.962
+      },
+      {
+        "text": "als",
+        "start": 40.002,
+        "end": 40.163
+      },
+      {
+        "text": "beendet.",
+        "start": 40.203,
+        "end": 40.763
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Wer in dieser Zeit in der Lage war, alles aufzufuttern, wird ins große Finale einziehen.",
+    "start": 40.803,
+    "end": 44.946,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 40.803,
+        "end": 40.883
+      },
+      {
+        "text": "in",
+        "start": 40.923,
+        "end": 41.063
+      },
+      {
+        "text": "dieser",
+        "start": 41.103,
+        "end": 41.303
+      },
+      {
+        "text": "Zeit",
+        "start": 41.343,
+        "end": 41.544
+      },
+      {
+        "text": "in",
+        "start": 41.584,
+        "end": 41.664
+      },
+      {
+        "text": "der",
+        "start": 41.684,
+        "end": 41.764
+      },
+      {
+        "text": "Lage",
+        "start": 41.804,
+        "end": 42.004
+      },
+      {
+        "text": "war,",
+        "start": 42.044,
+        "end": 42.204
+      },
+      {
+        "text": "alles",
+        "start": 42.224,
+        "end": 42.464
+      },
+      {
+        "text": "aufzufuttern,",
+        "start": 42.504,
+        "end": 43.245
+      },
+      {
+        "text": "wird",
+        "start": 43.265,
+        "end": 43.405
+      },
+      {
+        "text": "ins",
+        "start": 43.465,
+        "end": 43.625
+      },
+      {
+        "text": "große",
+        "start": 43.665,
+        "end": 43.945
+      },
+      {
+        "text": "Finale",
+        "start": 43.985,
+        "end": 44.406
+      },
+      {
+        "text": "einziehen.",
+        "start": 44.446,
+        "end": 44.946
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Dann muss man also auch schnell essen.",
+    "start": 44.986,
+    "end": 46.787,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 44.986,
+        "end": 45.146
+      },
+      {
+        "text": "muss",
+        "start": 45.166,
+        "end": 45.346
+      },
+      {
+        "text": "man",
+        "start": 45.366,
+        "end": 45.526
+      },
+      {
+        "text": "also",
+        "start": 45.566,
+        "end": 45.727
+      },
+      {
+        "text": "auch",
+        "start": 45.767,
+        "end": 45.927
+      },
+      {
+        "text": "schnell",
+        "start": 45.967,
+        "end": 46.287
+      },
+      {
+        "text": "essen.",
+        "start": 46.327,
+        "end": 46.787
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Nun kommt der Moment, auf den ihr alle gewartet habt.",
+    "start": 46.827,
+    "end": 49.629,
+    "words": [
+      {
+        "text": "Nun",
+        "start": 46.827,
+        "end": 46.987
+      },
+      {
+        "text": "kommt",
+        "start": 47.007,
+        "end": 47.188
+      },
+      {
+        "text": "der",
+        "start": 47.208,
+        "end": 47.348
+      },
+      {
+        "text": "Moment,",
+        "start": 47.368,
+        "end": 47.628
+      },
+      {
+        "text": "auf",
+        "start": 47.668,
+        "end": 47.768
+      },
+      {
+        "text": "den",
+        "start": 47.788,
+        "end": 47.908
+      },
+      {
+        "text": "ihr",
+        "start": 47.948,
+        "end": 48.048
+      },
+      {
+        "text": "alle",
+        "start": 48.088,
+        "end": 48.268
+      },
+      {
+        "text": "gewartet",
+        "start": 48.308,
+        "end": 48.689
+      },
+      {
+        "text": "habt.",
+        "start": 48.709,
+        "end": 49.629
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Für unsere erste Gruppe des Esswettbewerbs geht's jetzt los!",
+    "start": 49.669,
+    "end": 53.872,
+    "words": [
+      {
+        "text": "Für",
+        "start": 49.669,
+        "end": 49.829
+      },
+      {
+        "text": "unsere",
+        "start": 49.849,
+        "end": 50.15
+      },
+      {
+        "text": "erste",
+        "start": 50.21,
+        "end": 50.49
+      },
+      {
+        "text": "Gruppe",
+        "start": 50.51,
+        "end": 50.79
+      },
+      {
+        "text": "des",
+        "start": 50.81,
+        "end": 50.95
+      },
+      {
+        "text": "Esswettbewerbs",
+        "start": 51.01,
+        "end": 51.991
+      },
+      {
+        "text": "geht's",
+        "start": 52.932,
+        "end": 53.392
+      },
+      {
+        "text": "jetzt",
+        "start": 53.432,
+        "end": 53.732
+      },
+      {
+        "text": "los!",
+        "start": 53.752,
+        "end": 53.872
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Verdammt, ist das heiß!",
+    "start": 61.912,
+    "end": 68.293,
+    "words": [
+      {
+        "text": "Verdammt,",
+        "start": 61.912,
+        "end": 62.912
+      },
+      {
+        "text": "ist",
+        "start": 62.972,
+        "end": 63.112
+      },
+      {
+        "text": "das",
+        "start": 63.152,
+        "end": 63.352
+      },
+      {
+        "text": "heiß!",
+        "start": 63.392,
+        "end": 68.293
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Tada, bin fertig!",
+    "start": 68.593,
+    "end": 70.474,
+    "words": [
+      {
+        "text": "Tada,",
+        "start": 68.593,
+        "end": 69.233
+      },
+      {
+        "text": "bin",
+        "start": 69.253,
+        "end": 69.433
+      },
+      {
+        "text": "fertig!",
+        "start": 69.473,
+        "end": 70.474
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ja, ich bin auch fertig!",
+    "start": 70.514,
+    "end": 71.694,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 70.514,
+        "end": 70.634
+      },
+      {
+        "text": "ich",
+        "start": 70.774,
+        "end": 70.934
+      },
+      {
+        "text": "bin",
+        "start": 70.974,
+        "end": 71.094
+      },
+      {
+        "text": "auch",
+        "start": 71.154,
+        "end": 71.334
+      },
+      {
+        "text": "fertig!",
+        "start": 71.374,
+        "end": 71.694
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ja, ich auch!",
+    "start": 71.734,
+    "end": 73.174,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 71.734,
+        "end": 72.014
+      },
+      {
+        "text": "ich",
+        "start": 72.074,
+        "end": 72.274
+      },
+      {
+        "text": "auch!",
+        "start": 72.374,
+        "end": 73.174
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Mein Teller ist sauberer als vorher.",
+    "start": 73.214,
+    "end": 76.315,
+    "words": [
+      {
+        "text": "Mein",
+        "start": 73.214,
+        "end": 73.394
+      },
+      {
+        "text": "Teller",
+        "start": 73.434,
+        "end": 73.694
+      },
+      {
+        "text": "ist",
+        "start": 73.734,
+        "end": 73.834
+      },
+      {
+        "text": "sauberer",
+        "start": 73.914,
+        "end": 74.274
+      },
+      {
+        "text": "als",
+        "start": 74.294,
+        "end": 74.454
+      },
+      {
+        "text": "vorher.",
+        "start": 74.494,
+        "end": 76.315
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Damit sind bereits vier Teilnehmer ins Finale eingezogen.",
+    "start": 76.335,
+    "end": 79.175,
+    "words": [
+      {
+        "text": "Damit",
+        "start": 76.335,
+        "end": 76.655
+      },
+      {
+        "text": "sind",
+        "start": 76.675,
+        "end": 76.815
+      },
+      {
+        "text": "bereits",
+        "start": 76.835,
+        "end": 77.135
+      },
+      {
+        "text": "vier",
+        "start": 77.175,
+        "end": 77.355
+      },
+      {
+        "text": "Teilnehmer",
+        "start": 77.375,
+        "end": 77.755
+      },
+      {
+        "text": "ins",
+        "start": 77.795,
+        "end": 77.955
+      },
+      {
+        "text": "Finale",
+        "start": 77.995,
+        "end": 78.315
+      },
+      {
+        "text": "eingezogen.",
+        "start": 78.355,
+        "end": 79.175
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Wer wird sich wohl den letzten Platz ins Finale sichern?",
+    "start": 79.195,
+    "end": 81.756,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 79.195,
+        "end": 79.355
+      },
+      {
+        "text": "wird",
+        "start": 79.375,
+        "end": 79.515
+      },
+      {
+        "text": "sich",
+        "start": 79.535,
+        "end": 79.655
+      },
+      {
+        "text": "wohl",
+        "start": 79.695,
+        "end": 79.795
+      },
+      {
+        "text": "den",
+        "start": 79.815,
+        "end": 79.935
+      },
+      {
+        "text": "letzten",
+        "start": 79.975,
+        "end": 80.275
+      },
+      {
+        "text": "Platz",
+        "start": 80.295,
+        "end": 80.495
+      },
+      {
+        "text": "ins",
+        "start": 80.535,
+        "end": 80.715
+      },
+      {
+        "text": "Finale",
+        "start": 80.736,
+        "end": 81.096
+      },
+      {
+        "text": "sichern?",
+        "start": 81.116,
+        "end": 81.756
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ihr, bitteschön, ich hab auch fertig gegessen.",
+    "start": 81.796,
+    "end": 83.936,
+    "words": [
+      {
+        "text": "Ihr,",
+        "start": 81.796,
+        "end": 82.096
+      },
+      {
+        "text": "bitteschön,",
+        "start": 82.136,
+        "end": 82.636
+      },
+      {
+        "text": "ich",
+        "start": 82.656,
+        "end": 82.756
+      },
+      {
+        "text": "hab",
+        "start": 82.776,
+        "end": 82.936
+      },
+      {
+        "text": "auch",
+        "start": 82.956,
+        "end": 83.136
+      },
+      {
+        "text": "fertig",
+        "start": 83.156,
+        "end": 83.456
+      },
+      {
+        "text": "gegessen.",
+        "start": 83.496,
+        "end": 83.936
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Diese Runde war schneller entschieden, als man superlecker Riesenschwecker sagen konnte.",
+    "start": 83.956,
+    "end": 87.537,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 83.956,
+        "end": 84.096
+      },
+      {
+        "text": "Runde",
+        "start": 84.116,
+        "end": 84.216
+      },
+      {
+        "text": "war",
+        "start": 84.256,
+        "end": 84.356
+      },
+      {
+        "text": "schneller",
+        "start": 84.376,
+        "end": 84.696
+      },
+      {
+        "text": "entschieden,",
+        "start": 84.776,
+        "end": 85.176
+      },
+      {
+        "text": "als",
+        "start": 85.236,
+        "end": 85.416
+      },
+      {
+        "text": "man",
+        "start": 85.436,
+        "end": 85.616
+      },
+      {
+        "text": "superlecker",
+        "start": 85.636,
+        "end": 86.237
+      },
+      {
+        "text": "Riesenschwecker",
+        "start": 86.257,
+        "end": 87.017
+      },
+      {
+        "text": "sagen",
+        "start": 87.037,
+        "end": 87.297
+      },
+      {
+        "text": "konnte.",
+        "start": 87.317,
+        "end": 87.537
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ja, toll!",
+    "start": 87.577,
+    "end": 88.057,
+    "words": [
+      {
+        "text": "Ja,",
+        "start": 87.577,
+        "end": 87.717
+      },
+      {
+        "text": "toll!",
+        "start": 87.757,
+        "end": 88.057
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": " Jetzt ist es schon vorbei?",
+    "start": 89.08,
+    "end": 90.962,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 89.08,
+        "end": 89.26
+      },
+      {
+        "text": "ist",
+        "start": 89.42,
+        "end": 89.701
+      },
+      {
+        "text": "es",
+        "start": 89.761,
+        "end": 89.941
+      },
+      {
+        "text": "schon",
+        "start": 89.961,
+        "end": 90.141
+      },
+      {
+        "text": "vorbei?",
+        "start": 90.181,
+        "end": 90.962
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Gokai ist der einzige Mensch, der noch im Rennen ist.",
+    "start": 90.982,
+    "end": 93.585,
+    "words": [
+      {
+        "text": "Gokai",
+        "start": 90.982,
+        "end": 91.222
+      },
+      {
+        "text": "ist",
+        "start": 91.262,
+        "end": 91.402
+      },
+      {
+        "text": "der",
+        "start": 91.443,
+        "end": 91.563
+      },
+      {
+        "text": "einzige",
+        "start": 91.603,
+        "end": 91.923
+      },
+      {
+        "text": "Mensch,",
+        "start": 91.963,
+        "end": 92.123
+      },
+      {
+        "text": "der",
+        "start": 92.163,
+        "end": 92.283
+      },
+      {
+        "text": "noch",
+        "start": 92.303,
+        "end": 92.424
+      },
+      {
+        "text": "im",
+        "start": 92.464,
+        "end": 92.524
+      },
+      {
+        "text": "Rennen",
+        "start": 92.584,
+        "end": 92.824
+      },
+      {
+        "text": "ist.",
+        "start": 92.884,
+        "end": 93.585
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Die kleinen Teufelchen haben ihrem Ruf wirklich alle Ehre gemacht.",
+    "start": 93.605,
+    "end": 97.209,
+    "words": [
+      {
+        "text": "Die",
+        "start": 93.605,
+        "end": 93.705
+      },
+      {
+        "text": "kleinen",
+        "start": 93.745,
+        "end": 93.985
+      },
+      {
+        "text": "Teufelchen",
+        "start": 94.025,
+        "end": 94.426
+      },
+      {
+        "text": "haben",
+        "start": 94.466,
+        "end": 94.626
+      },
+      {
+        "text": "ihrem",
+        "start": 94.646,
+        "end": 94.806
+      },
+      {
+        "text": "Ruf",
+        "start": 94.906,
+        "end": 95.126
+      },
+      {
+        "text": "wirklich",
+        "start": 95.147,
+        "end": 95.527
+      },
+      {
+        "text": "alle",
+        "start": 95.567,
+        "end": 95.747
+      },
+      {
+        "text": "Ehre",
+        "start": 95.787,
+        "end": 96.007
+      },
+      {
+        "text": "gemacht.",
+        "start": 96.047,
+        "end": 97.209
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ihr dürft selbstverständlich alles mitnehmen, was ihr nicht aufessen konntet.",
+    "start": 97.269,
+    "end": 101.033,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 97.269,
+        "end": 97.329
+      },
+      {
+        "text": "dürft",
+        "start": 97.369,
+        "end": 97.649
+      },
+      {
+        "text": "selbstverständlich",
+        "start": 97.689,
+        "end": 98.63
+      },
+      {
+        "text": "alles",
+        "start": 98.67,
+        "end": 98.931
+      },
+      {
+        "text": "mitnehmen,",
+        "start": 98.971,
+        "end": 99.331
+      },
+      {
+        "text": "was",
+        "start": 99.351,
+        "end": 99.451
+      },
+      {
+        "text": "ihr",
+        "start": 99.511,
+        "end": 99.571
+      },
+      {
+        "text": "nicht",
+        "start": 99.611,
+        "end": 99.751
+      },
+      {
+        "text": "aufessen",
+        "start": 99.791,
+        "end": 100.172
+      },
+      {
+        "text": "konntet.",
+        "start": 100.212,
+        "end": 101.033
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Also dann, jetzt geht es richtig los.",
+    "start": 101.073,
+    "end": 102.915,
+    "words": [
+      {
+        "text": "Also",
+        "start": 101.073,
+        "end": 101.313
+      },
+      {
+        "text": "dann,",
+        "start": 101.353,
+        "end": 101.633
+      },
+      {
+        "text": "jetzt",
+        "start": 101.674,
+        "end": 101.834
+      },
+      {
+        "text": "geht",
+        "start": 101.854,
+        "end": 101.994
+      },
+      {
+        "text": "es",
+        "start": 102.034,
+        "end": 102.174
+      },
+      {
+        "text": "richtig",
+        "start": 102.194,
+        "end": 102.514
+      },
+      {
+        "text": "los.",
+        "start": 102.574,
+        "end": 102.915
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Wir starten in wenigen Augenblicken mit der sehnsüchtig erwarteten zweiten Gruppe.",
+    "start": 102.955,
+    "end": 106.399,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 102.955,
+        "end": 103.075
+      },
+      {
+        "text": "starten",
+        "start": 103.095,
+        "end": 103.395
+      },
+      {
+        "text": "in",
+        "start": 103.455,
+        "end": 103.576
+      },
+      {
+        "text": "wenigen",
+        "start": 103.616,
+        "end": 103.976
+      },
+      {
+        "text": "Augenblicken",
+        "start": 103.996,
+        "end": 104.497
+      },
+      {
+        "text": "mit",
+        "start": 104.517,
+        "end": 104.617
+      },
+      {
+        "text": "der",
+        "start": 104.637,
+        "end": 104.737
+      },
+      {
+        "text": "sehnsüchtig",
+        "start": 104.777,
+        "end": 105.257
+      },
+      {
+        "text": "erwarteten",
+        "start": 105.297,
+        "end": 105.778
+      },
+      {
+        "text": "zweiten",
+        "start": 105.818,
+        "end": 106.138
+      },
+      {
+        "text": "Gruppe.",
+        "start": 106.158,
+        "end": 106.399
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": " Jawoll, ja, du schaffst es!",
+    "start": 112.907,
+    "end": 114.069,
+    "words": [
+      {
+        "text": "Jawoll,",
+        "start": 112.907,
+        "end": 113.248
+      },
+      {
+        "text": "ja,",
+        "start": 113.268,
+        "end": 113.488
+      },
+      {
+        "text": "du",
+        "start": 113.508,
+        "end": 113.588
+      },
+      {
+        "text": "schaffst",
+        "start": 113.608,
+        "end": 113.869
+      },
+      {
+        "text": "es!",
+        "start": 113.909,
+        "end": 114.069
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Gönn dir das gute Essen, Shirley!",
+    "start": 114.089,
+    "end": 115.751,
+    "words": [
+      {
+        "text": "Gönn",
+        "start": 114.089,
+        "end": 114.209
+      },
+      {
+        "text": "dir",
+        "start": 114.229,
+        "end": 114.349
+      },
+      {
+        "text": "das",
+        "start": 114.369,
+        "end": 114.509
+      },
+      {
+        "text": "gute",
+        "start": 114.529,
+        "end": 114.75
+      },
+      {
+        "text": "Essen,",
+        "start": 114.81,
+        "end": 115.07
+      },
+      {
+        "text": "Shirley!",
+        "start": 115.11,
+        "end": 115.751
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Wie war das?",
+    "start": 115.791,
+    "end": 116.292,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 115.791,
+        "end": 115.911
+      },
+      {
+        "text": "war",
+        "start": 115.931,
+        "end": 116.051
+      },
+      {
+        "text": "das?",
+        "start": 116.071,
+        "end": 116.292
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Shirley macht auch mit?",
+    "start": 116.312,
+    "end": 117.934,
+    "words": [
+      {
+        "text": "Shirley",
+        "start": 116.312,
+        "end": 116.632
+      },
+      {
+        "text": "macht",
+        "start": 116.672,
+        "end": 116.912
+      },
+      {
+        "text": "auch",
+        "start": 116.952,
+        "end": 117.113
+      },
+      {
+        "text": "mit?",
+        "start": 117.153,
+        "end": 117.934
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Hätte sie gar nicht für jemanden gehalten, der Spaß an sowas hat.",
+    "start": 117.974,
+    "end": 120.617,
+    "words": [
+      {
+        "text": "Hätte",
+        "start": 117.974,
+        "end": 118.134
+      },
+      {
+        "text": "sie",
+        "start": 118.154,
+        "end": 118.274
+      },
+      {
+        "text": "gar",
+        "start": 118.314,
+        "end": 118.434
+      },
+      {
+        "text": "nicht",
+        "start": 118.454,
+        "end": 118.574
+      },
+      {
+        "text": "für",
+        "start": 118.594,
+        "end": 118.735
+      },
+      {
+        "text": "jemanden",
+        "start": 118.755,
+        "end": 119.055
+      },
+      {
+        "text": "gehalten,",
+        "start": 119.075,
+        "end": 119.355
+      },
+      {
+        "text": "der",
+        "start": 119.395,
+        "end": 119.476
+      },
+      {
+        "text": "Spaß",
+        "start": 119.496,
+        "end": 119.716
+      },
+      {
+        "text": "an",
+        "start": 119.756,
+        "end": 119.856
+      },
+      {
+        "text": "sowas",
+        "start": 119.876,
+        "end": 120.156
+      },
+      {
+        "text": "hat.",
+        "start": 120.196,
+        "end": 120.617
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Für unsere zweite Gruppe des Esswettbewerbs geht's jetzt los!",
+    "start": 120.637,
+    "end": 124.081,
+    "words": [
+      {
+        "text": "Für",
+        "start": 120.637,
+        "end": 120.777
+      },
+      {
+        "text": "unsere",
+        "start": 120.817,
+        "end": 121.078
+      },
+      {
+        "text": "zweite",
+        "start": 121.118,
+        "end": 121.418
+      },
+      {
+        "text": "Gruppe",
+        "start": 121.438,
+        "end": 121.718
+      },
+      {
+        "text": "des",
+        "start": 121.738,
+        "end": 121.859
+      },
+      {
+        "text": "Esswettbewerbs",
+        "start": 121.899,
+        "end": 123.08
+      },
+      {
+        "text": "geht's",
+        "start": 123.12,
+        "end": 123.601
+      },
+      {
+        "text": "jetzt",
+        "start": 123.661,
+        "end": 123.941
+      },
+      {
+        "text": "los!",
+        "start": 123.981,
+        "end": 124.081
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": " Es ist echt erstaunlich, was dieses Mädchen alles runterbekommt.",
+    "start": 143.752,
+    "end": 146.413,
+    "words": [
+      {
+        "text": "Es",
+        "start": 143.752,
+        "end": 143.852
+      },
+      {
+        "text": "ist",
+        "start": 143.872,
+        "end": 143.952
+      },
+      {
+        "text": "echt",
+        "start": 144.012,
+        "end": 144.112
+      },
+      {
+        "text": "erstaunlich,",
+        "start": 144.132,
+        "end": 144.573
+      },
+      {
+        "text": "was",
+        "start": 144.613,
+        "end": 144.733
+      },
+      {
+        "text": "dieses",
+        "start": 144.773,
+        "end": 144.993
+      },
+      {
+        "text": "Mädchen",
+        "start": 145.033,
+        "end": 145.313
+      },
+      {
+        "text": "alles",
+        "start": 145.353,
+        "end": 145.513
+      },
+      {
+        "text": "runterbekommt.",
+        "start": 145.553,
+        "end": 146.413
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Das war einsam mümmelbar.",
+    "start": 146.453,
+    "end": 147.814,
+    "words": [
+      {
+        "text": "Das",
+        "start": 146.453,
+        "end": 146.574
+      },
+      {
+        "text": "war",
+        "start": 146.614,
+        "end": 146.734
+      },
+      {
+        "text": "einsam",
+        "start": 146.774,
+        "end": 147.274
+      },
+      {
+        "text": "mümmelbar.",
+        "start": 147.294,
+        "end": 147.814
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Kann ich noch einen Nachschlag haben?",
+    "start": 147.834,
+    "end": 151.456,
+    "words": [
+      {
+        "text": "Kann",
+        "start": 147.834,
+        "end": 147.994
+      },
+      {
+        "text": "ich",
+        "start": 148.034,
+        "end": 148.134
+      },
+      {
+        "text": "noch",
+        "start": 148.174,
+        "end": 148.274
+      },
+      {
+        "text": "einen",
+        "start": 148.314,
+        "end": 148.414
+      },
+      {
+        "text": "Nachschlag",
+        "start": 148.434,
+        "end": 148.835
+      },
+      {
+        "text": "haben?",
+        "start": 148.895,
+        "end": 151.456
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Ich glaub's nicht.",
+    "start": 151.536,
+    "end": 153.217,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 151.536,
+        "end": 151.636
+      },
+      {
+        "text": "glaub's",
+        "start": 151.716,
+        "end": 152.256
+      },
+      {
+        "text": "nicht.",
+        "start": 152.316,
+        "end": 153.217
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Ist sie wirklich ein Mensch?",
+    "start": 153.317,
+    "end": 160.92,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 153.317,
+        "end": 153.597
+      },
+      {
+        "text": "sie",
+        "start": 156.959,
+        "end": 157.179
+      },
+      {
+        "text": "wirklich",
+        "start": 157.219,
+        "end": 157.599
+      },
+      {
+        "text": "ein",
+        "start": 157.639,
+        "end": 157.999
+      },
+      {
+        "text": "Mensch?",
+        "start": 158.039,
+        "end": 160.92
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Ich hab es geschafft.",
+    "start": 160.96,
+    "end": 161.681,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 160.96,
+        "end": 161.041
+      },
+      {
+        "text": "hab",
+        "start": 161.061,
+        "end": 161.181
+      },
+      {
+        "text": "es",
+        "start": 161.221,
+        "end": 161.321
+      },
+      {
+        "text": "geschafft.",
+        "start": 161.341,
+        "end": 161.681
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Ich bin auch fertig mit dem Essen.",
+    "start": 161.721,
+    "end": 162.781,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 161.721,
+        "end": 161.801
+      },
+      {
+        "text": "bin",
+        "start": 161.821,
+        "end": 161.941
+      },
+      {
+        "text": "auch",
+        "start": 161.961,
+        "end": 162.101
+      },
+      {
+        "text": "fertig",
+        "start": 162.121,
+        "end": 162.361
+      },
+      {
+        "text": "mit",
+        "start": 162.381,
+        "end": 162.461
+      },
+      {
+        "text": "dem",
+        "start": 162.481,
+        "end": 162.561
+      },
+      {
+        "text": "Essen.",
+        "start": 162.601,
+        "end": 162.781
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Mann, war das gut.",
+    "start": 163.122,
+    "end": 163.742,
+    "words": [
+      {
+        "text": "Mann,",
+        "start": 163.122,
+        "end": 163.222
+      },
+      {
+        "text": "war",
+        "start": 163.262,
+        "end": 163.422
+      },
+      {
+        "text": "das",
+        "start": 163.442,
+        "end": 163.562
+      },
+      {
+        "text": "gut.",
+        "start": 163.582,
+        "end": 163.742
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Ich hab auch alles leer gefuttert.",
+    "start": 163.782,
+    "end": 165.263,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 163.782,
+        "end": 163.862
+      },
+      {
+        "text": "hab",
+        "start": 163.882,
+        "end": 164.022
+      },
+      {
+        "text": "auch",
+        "start": 164.062,
+        "end": 164.202
+      },
+      {
+        "text": "alles",
+        "start": 164.222,
+        "end": 164.422
+      },
+      {
+        "text": "leer",
+        "start": 164.462,
+        "end": 164.582
+      },
+      {
+        "text": "gefuttert.",
+        "start": 164.602,
+        "end": 165.263
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Morgen scheint bestimmt die Sonne.",
+    "start": 165.283,
+    "end": 166.403,
+    "words": [
+      {
+        "text": "Morgen",
+        "start": 165.283,
+        "end": 165.483
+      },
+      {
+        "text": "scheint",
+        "start": 165.503,
+        "end": 165.723
+      },
+      {
+        "text": "bestimmt",
+        "start": 165.743,
+        "end": 166.043
+      },
+      {
+        "text": "die",
+        "start": 166.063,
+        "end": 166.163
+      },
+      {
+        "text": "Sonne.",
+        "start": 166.183,
+        "end": 166.403
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": " Und die Zeit ist abgelaufen.",
+    "start": 169.912,
+    "end": 172.757,
+    "words": [
+      {
+        "text": "Und",
+        "start": 169.912,
+        "end": 170.813
+      },
+      {
+        "text": "die",
+        "start": 170.833,
+        "end": 170.933
+      },
+      {
+        "text": "Zeit",
+        "start": 170.994,
+        "end": 171.134
+      },
+      {
+        "text": "ist",
+        "start": 171.154,
+        "end": 171.254
+      },
+      {
+        "text": "abgelaufen.",
+        "start": 171.314,
+        "end": 172.757
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Die zweite Gruppe ist durch und wir haben alle unsere Finalteilnehmer.",
+    "start": 172.777,
+    "end": 176.003,
+    "words": [
+      {
+        "text": "Die",
+        "start": 172.777,
+        "end": 172.937
+      },
+      {
+        "text": "zweite",
+        "start": 172.977,
+        "end": 173.238
+      },
+      {
+        "text": "Gruppe",
+        "start": 173.278,
+        "end": 173.498
+      },
+      {
+        "text": "ist",
+        "start": 173.538,
+        "end": 173.658
+      },
+      {
+        "text": "durch",
+        "start": 173.698,
+        "end": 173.919
+      },
+      {
+        "text": "und",
+        "start": 173.939,
+        "end": 174.039
+      },
+      {
+        "text": "wir",
+        "start": 174.079,
+        "end": 174.159
+      },
+      {
+        "text": "haben",
+        "start": 174.179,
+        "end": 174.42
+      },
+      {
+        "text": "alle",
+        "start": 174.46,
+        "end": 174.6
+      },
+      {
+        "text": "unsere",
+        "start": 174.64,
+        "end": 174.881
+      },
+      {
+        "text": "Finalteilnehmer.",
+        "start": 174.921,
+        "end": 176.003
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Das Finale findet in zwei Stunden statt.",
+    "start": 176.043,
+    "end": 178.247,
+    "words": [
+      {
+        "text": "Das",
+        "start": 176.043,
+        "end": 176.223
+      },
+      {
+        "text": "Finale",
+        "start": 176.263,
+        "end": 176.604
+      },
+      {
+        "text": "findet",
+        "start": 176.644,
+        "end": 176.884
+      },
+      {
+        "text": "in",
+        "start": 176.924,
+        "end": 177.044
+      },
+      {
+        "text": "zwei",
+        "start": 177.084,
+        "end": 177.265
+      },
+      {
+        "text": "Stunden",
+        "start": 177.285,
+        "end": 177.565
+      },
+      {
+        "text": "statt.",
+        "start": 177.706,
+        "end": 178.247
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Gönnt euch doch bis dahin den Auftritt unserer Theatergruppe.",
+    "start": 178.267,
+    "end": 180.951,
+    "words": [
+      {
+        "text": "Gönnt",
+        "start": 178.267,
+        "end": 178.427
+      },
+      {
+        "text": "euch",
+        "start": 178.487,
+        "end": 178.627
+      },
+      {
+        "text": "doch",
+        "start": 178.647,
+        "end": 178.788
+      },
+      {
+        "text": "bis",
+        "start": 178.808,
+        "end": 178.968
+      },
+      {
+        "text": "dahin",
+        "start": 178.988,
+        "end": 179.329
+      },
+      {
+        "text": "den",
+        "start": 179.349,
+        "end": 179.509
+      },
+      {
+        "text": "Auftritt",
+        "start": 179.549,
+        "end": 179.91
+      },
+      {
+        "text": "unserer",
+        "start": 179.95,
+        "end": 180.27
+      },
+      {
+        "text": "Theatergruppe.",
+        "start": 180.29,
+        "end": 180.951
+      }
+    ]
+  }
+]

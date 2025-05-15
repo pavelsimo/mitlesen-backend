@@ -1,0 +1,1567 @@
+[
+  {
+    "id": 0,
+    "text": " Ist das etwa ein Zauberbuch?",
+    "start": 1.111,
+    "end": 2.892,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 1.111,
+        "end": 1.251
+      },
+      {
+        "text": "das",
+        "start": 1.291,
+        "end": 1.471
+      },
+      {
+        "text": "etwa",
+        "start": 1.511,
+        "end": 1.691
+      },
+      {
+        "text": "ein",
+        "start": 1.731,
+        "end": 1.872
+      },
+      {
+        "text": "Zauberbuch?",
+        "start": 1.932,
+        "end": 2.892
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Na gut, dann wollen wir mal.",
+    "start": 2.932,
+    "end": 4.692,
+    "words": [
+      {
+        "text": "Na",
+        "start": 2.932,
+        "end": 3.072
+      },
+      {
+        "text": "gut,",
+        "start": 3.092,
+        "end": 3.292
+      },
+      {
+        "text": "dann",
+        "start": 3.312,
+        "end": 3.472
+      },
+      {
+        "text": "wollen",
+        "start": 3.512,
+        "end": 3.692
+      },
+      {
+        "text": "wir",
+        "start": 3.732,
+        "end": 3.832
+      },
+      {
+        "text": "mal.",
+        "start": 3.912,
+        "end": 4.692
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich fange erst mal mit den Grundlagen an.",
+    "start": 4.732,
+    "end": 6.833,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.732,
+        "end": 4.812
+      },
+      {
+        "text": "fange",
+        "start": 4.852,
+        "end": 5.072
+      },
+      {
+        "text": "erst",
+        "start": 5.112,
+        "end": 5.213
+      },
+      {
+        "text": "mal",
+        "start": 5.293,
+        "end": 5.393
+      },
+      {
+        "text": "mit",
+        "start": 5.433,
+        "end": 5.533
+      },
+      {
+        "text": "den",
+        "start": 5.573,
+        "end": 5.693
+      },
+      {
+        "text": "Grundlagen",
+        "start": 5.713,
+        "end": 6.213
+      },
+      {
+        "text": "an.",
+        "start": 6.253,
+        "end": 6.833
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Los!",
+    "start": 6.893,
+    "end": 7.833,
+    "words": [
+      {
+        "text": "Los!",
+        "start": 6.893,
+        "end": 7.833
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "In 10 Tagen lerne ich das auf jeden Fall!",
+    "start": 7.913,
+    "end": 12.135,
+    "words": [
+      {
+        "text": "In",
+        "start": 7.913,
+        "end": 8.093
+      },
+      {
+        "text": "Tagen",
+        "start": 8.173,
+        "end": 8.513
+      },
+      {
+        "text": "lerne",
+        "start": 8.554,
+        "end": 8.834
+      },
+      {
+        "text": "ich",
+        "start": 8.874,
+        "end": 8.994
+      },
+      {
+        "text": "das",
+        "start": 9.034,
+        "end": 9.214
+      },
+      {
+        "text": "auf",
+        "start": 9.254,
+        "end": 9.434
+      },
+      {
+        "text": "jeden",
+        "start": 9.474,
+        "end": 9.874
+      },
+      {
+        "text": "Fall!",
+        "start": 9.914,
+        "end": 12.135
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Was die Wirkung vom Zaubern in Level 1 angeht.",
+    "start": 12.175,
+    "end": 15.916,
+    "words": [
+      {
+        "text": "Was",
+        "start": 12.175,
+        "end": 12.375
+      },
+      {
+        "text": "die",
+        "start": 12.395,
+        "end": 12.535
+      },
+      {
+        "text": "Wirkung",
+        "start": 12.595,
+        "end": 13.055
+      },
+      {
+        "text": "vom",
+        "start": 13.075,
+        "end": 13.315
+      },
+      {
+        "text": "Zaubern",
+        "start": 13.375,
+        "end": 13.755
+      },
+      {
+        "text": "in",
+        "start": 13.835,
+        "end": 13.935
+      },
+      {
+        "text": "Level",
+        "start": 13.975,
+        "end": 14.315
+      },
+      {
+        "text": "angeht.",
+        "start": 14.715,
+        "end": 15.916
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Während des Zauberns verlierst du jedes Mal etwas Mana.",
+    "start": 15.956,
+    "end": 20.537,
+    "words": [
+      {
+        "text": "Während",
+        "start": 15.956,
+        "end": 16.256
+      },
+      {
+        "text": "des",
+        "start": 16.296,
+        "end": 16.436
+      },
+      {
+        "text": "Zauberns",
+        "start": 16.496,
+        "end": 16.976
+      },
+      {
+        "text": "verlierst",
+        "start": 16.996,
+        "end": 17.336
+      },
+      {
+        "text": "du",
+        "start": 17.356,
+        "end": 17.536
+      },
+      {
+        "text": "jedes",
+        "start": 17.556,
+        "end": 17.916
+      },
+      {
+        "text": "Mal",
+        "start": 17.956,
+        "end": 18.256
+      },
+      {
+        "text": "etwas",
+        "start": 18.296,
+        "end": 18.676
+      },
+      {
+        "text": "Mana.",
+        "start": 18.716,
+        "end": 20.537
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Wenn du jedoch erfolgreich bist, erhöht sich dein Fähigkeitslevel.",
+    "start": 20.557,
+    "end": 23.518,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 20.557,
+        "end": 20.717
+      },
+      {
+        "text": "du",
+        "start": 20.737,
+        "end": 20.877
+      },
+      {
+        "text": "jedoch",
+        "start": 20.897,
+        "end": 21.177
+      },
+      {
+        "text": "erfolgreich",
+        "start": 21.217,
+        "end": 21.697
+      },
+      {
+        "text": "bist,",
+        "start": 21.737,
+        "end": 21.977
+      },
+      {
+        "text": "erhöht",
+        "start": 22.017,
+        "end": 22.318
+      },
+      {
+        "text": "sich",
+        "start": 22.338,
+        "end": 22.478
+      },
+      {
+        "text": "dein",
+        "start": 22.498,
+        "end": 22.658
+      },
+      {
+        "text": "Fähigkeitslevel.",
+        "start": 22.698,
+        "end": 23.518
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": " Na gut, dann wollen wir's mal versuchen.",
+    "start": 24.547,
+    "end": 27.39,
+    "words": [
+      {
+        "text": "Na",
+        "start": 24.547,
+        "end": 24.687
+      },
+      {
+        "text": "gut,",
+        "start": 24.727,
+        "end": 24.968
+      },
+      {
+        "text": "dann",
+        "start": 24.988,
+        "end": 25.128
+      },
+      {
+        "text": "wollen",
+        "start": 25.168,
+        "end": 25.328
+      },
+      {
+        "text": "wir's",
+        "start": 25.348,
+        "end": 25.508
+      },
+      {
+        "text": "mal",
+        "start": 25.588,
+        "end": 25.768
+      },
+      {
+        "text": "versuchen.",
+        "start": 25.788,
+        "end": 27.39
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Also, wie war das?",
+    "start": 27.47,
+    "end": 28.871,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 27.47,
+        "end": 27.81
+      },
+      {
+        "text": "wie",
+        "start": 27.83,
+        "end": 27.97
+      },
+      {
+        "text": "war",
+        "start": 28.01,
+        "end": 28.171
+      },
+      {
+        "text": "das?",
+        "start": 28.191,
+        "end": 28.871
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Man soll sich auf den Zauber, den man ausspricht, sehr konzentrieren.",
+    "start": 28.891,
+    "end": 32.054,
+    "words": [
+      {
+        "text": "Man",
+        "start": 28.891,
+        "end": 29.051
+      },
+      {
+        "text": "soll",
+        "start": 29.071,
+        "end": 29.251
+      },
+      {
+        "text": "sich",
+        "start": 29.272,
+        "end": 29.392
+      },
+      {
+        "text": "auf",
+        "start": 29.412,
+        "end": 29.512
+      },
+      {
+        "text": "den",
+        "start": 29.552,
+        "end": 29.712
+      },
+      {
+        "text": "Zauber,",
+        "start": 29.752,
+        "end": 30.032
+      },
+      {
+        "text": "den",
+        "start": 30.052,
+        "end": 30.232
+      },
+      {
+        "text": "man",
+        "start": 30.252,
+        "end": 30.433
+      },
+      {
+        "text": "ausspricht,",
+        "start": 30.453,
+        "end": 30.993
+      },
+      {
+        "text": "sehr",
+        "start": 31.013,
+        "end": 31.273
+      },
+      {
+        "text": "konzentrieren.",
+        "start": 31.313,
+        "end": 32.054
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Und wenn es einem gelingt, wird infolgedessen die Mana-Kontrolle verbessert.",
+    "start": 32.094,
+    "end": 35.597,
+    "words": [
+      {
+        "text": "Und",
+        "start": 32.094,
+        "end": 32.254
+      },
+      {
+        "text": "wenn",
+        "start": 32.274,
+        "end": 32.414
+      },
+      {
+        "text": "es",
+        "start": 32.454,
+        "end": 32.594
+      },
+      {
+        "text": "einem",
+        "start": 32.635,
+        "end": 32.855
+      },
+      {
+        "text": "gelingt,",
+        "start": 32.875,
+        "end": 33.215
+      },
+      {
+        "text": "wird",
+        "start": 33.235,
+        "end": 33.395
+      },
+      {
+        "text": "infolgedessen",
+        "start": 33.435,
+        "end": 34.156
+      },
+      {
+        "text": "die",
+        "start": 34.176,
+        "end": 34.316
+      },
+      {
+        "text": "Mana-Kontrolle",
+        "start": 34.336,
+        "end": 35.117
+      },
+      {
+        "text": "verbessert.",
+        "start": 35.157,
+        "end": 35.597
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Na gut.",
+    "start": 36.038,
+    "end": 37.479,
+    "words": [
+      {
+        "text": "Na",
+        "start": 36.038,
+        "end": 36.178
+      },
+      {
+        "text": "gut.",
+        "start": 36.218,
+        "end": 37.479
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ich stelle mir das so vor, dass ich dadurch Wunden heilen lassen kann.",
+    "start": 37.519,
+    "end": 40.582,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 37.519,
+        "end": 37.599
+      },
+      {
+        "text": "stelle",
+        "start": 37.619,
+        "end": 37.879
+      },
+      {
+        "text": "mir",
+        "start": 37.899,
+        "end": 38.019
+      },
+      {
+        "text": "das",
+        "start": 38.059,
+        "end": 38.2
+      },
+      {
+        "text": "so",
+        "start": 38.24,
+        "end": 38.38
+      },
+      {
+        "text": "vor,",
+        "start": 38.44,
+        "end": 38.64
+      },
+      {
+        "text": "dass",
+        "start": 38.68,
+        "end": 38.84
+      },
+      {
+        "text": "ich",
+        "start": 38.9,
+        "end": 39.0
+      },
+      {
+        "text": "dadurch",
+        "start": 39.04,
+        "end": 39.341
+      },
+      {
+        "text": "Wunden",
+        "start": 39.401,
+        "end": 39.721
+      },
+      {
+        "text": "heilen",
+        "start": 39.761,
+        "end": 40.061
+      },
+      {
+        "text": "lassen",
+        "start": 40.101,
+        "end": 40.361
+      },
+      {
+        "text": "kann.",
+        "start": 40.402,
+        "end": 40.582
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Gottheit, ich möchte diese Wunde heilen und gebe dir dafür mein Mana.",
+    "start": 42.263,
+    "end": 46.207,
+    "words": [
+      {
+        "text": "Gottheit,",
+        "start": 42.263,
+        "end": 43.044
+      },
+      {
+        "text": "ich",
+        "start": 43.084,
+        "end": 43.204
+      },
+      {
+        "text": "möchte",
+        "start": 43.244,
+        "end": 43.524
+      },
+      {
+        "text": "diese",
+        "start": 43.544,
+        "end": 43.745
+      },
+      {
+        "text": "Wunde",
+        "start": 43.785,
+        "end": 44.025
+      },
+      {
+        "text": "heilen",
+        "start": 44.065,
+        "end": 44.765
+      },
+      {
+        "text": "und",
+        "start": 44.785,
+        "end": 44.946
+      },
+      {
+        "text": "gebe",
+        "start": 44.966,
+        "end": 45.206
+      },
+      {
+        "text": "dir",
+        "start": 45.226,
+        "end": 45.366
+      },
+      {
+        "text": "dafür",
+        "start": 45.386,
+        "end": 45.706
+      },
+      {
+        "text": "mein",
+        "start": 45.726,
+        "end": 45.886
+      },
+      {
+        "text": "Mana.",
+        "start": 45.926,
+        "end": 46.207
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Heal!",
+    "start": 47.448,
+    "end": 47.608,
+    "words": [
+      {
+        "text": "Heal!",
+        "start": 47.448,
+        "end": 47.608
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": " Oh, es scheint wohl nicht funktioniert zu haben.",
+    "start": 52.684,
+    "end": 55.926,
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 52.684,
+        "end": 52.884
+      },
+      {
+        "text": "es",
+        "start": 53.164,
+        "end": 54.005
+      },
+      {
+        "text": "scheint",
+        "start": 54.025,
+        "end": 54.325
+      },
+      {
+        "text": "wohl",
+        "start": 54.365,
+        "end": 54.605
+      },
+      {
+        "text": "nicht",
+        "start": 54.645,
+        "end": 54.886
+      },
+      {
+        "text": "funktioniert",
+        "start": 54.926,
+        "end": 55.446
+      },
+      {
+        "text": "zu",
+        "start": 55.486,
+        "end": 55.646
+      },
+      {
+        "text": "haben.",
+        "start": 55.686,
+        "end": 55.926
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Na ja, ich bin ja auch nur ein ganz normaler Mensch.",
+    "start": 56.727,
+    "end": 59.409,
+    "words": [
+      {
+        "text": "Na",
+        "start": 56.727,
+        "end": 56.887
+      },
+      {
+        "text": "ja,",
+        "start": 56.947,
+        "end": 57.207
+      },
+      {
+        "text": "ich",
+        "start": 57.267,
+        "end": 57.367
+      },
+      {
+        "text": "bin",
+        "start": 57.407,
+        "end": 57.507
+      },
+      {
+        "text": "ja",
+        "start": 57.547,
+        "end": 57.647
+      },
+      {
+        "text": "auch",
+        "start": 57.688,
+        "end": 57.828
+      },
+      {
+        "text": "nur",
+        "start": 57.868,
+        "end": 57.988
+      },
+      {
+        "text": "ein",
+        "start": 58.028,
+        "end": 58.148
+      },
+      {
+        "text": "ganz",
+        "start": 58.188,
+        "end": 58.388
+      },
+      {
+        "text": "normaler",
+        "start": 58.408,
+        "end": 59.008
+      },
+      {
+        "text": "Mensch.",
+        "start": 59.048,
+        "end": 59.409
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Moment.",
+    "start": 61.69,
+    "end": 63.011,
+    "words": [
+      {
+        "text": "Moment.",
+        "start": 61.69,
+        "end": 63.011
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Es hat sich gerade so angefühlt, als ob irgendwas meinen Körper verlassen hätte.",
+    "start": 63.071,
+    "end": 67.935,
+    "words": [
+      {
+        "text": "Es",
+        "start": 63.071,
+        "end": 63.211
+      },
+      {
+        "text": "hat",
+        "start": 63.231,
+        "end": 63.371
+      },
+      {
+        "text": "sich",
+        "start": 63.391,
+        "end": 63.512
+      },
+      {
+        "text": "gerade",
+        "start": 63.532,
+        "end": 63.772
+      },
+      {
+        "text": "so",
+        "start": 63.792,
+        "end": 63.932
+      },
+      {
+        "text": "angefühlt,",
+        "start": 63.952,
+        "end": 64.412
+      },
+      {
+        "text": "als",
+        "start": 64.452,
+        "end": 64.572
+      },
+      {
+        "text": "ob",
+        "start": 64.612,
+        "end": 64.772
+      },
+      {
+        "text": "irgendwas",
+        "start": 64.812,
+        "end": 65.273
+      },
+      {
+        "text": "meinen",
+        "start": 65.313,
+        "end": 65.493
+      },
+      {
+        "text": "Körper",
+        "start": 65.533,
+        "end": 65.913
+      },
+      {
+        "text": "verlassen",
+        "start": 65.933,
+        "end": 66.374
+      },
+      {
+        "text": "hätte.",
+        "start": 66.394,
+        "end": 67.935
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich glaub's ja nicht.",
+    "start": 67.995,
+    "end": 69.196,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 67.995,
+        "end": 68.135
+      },
+      {
+        "text": "glaub's",
+        "start": 68.175,
+        "end": 68.555
+      },
+      {
+        "text": "ja",
+        "start": 68.575,
+        "end": 68.695
+      },
+      {
+        "text": "nicht.",
+        "start": 68.715,
+        "end": 69.196
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Wie's aussieht, mach ich wohl doch genau das Richtige.",
+    "start": 69.236,
+    "end": 72.138,
+    "words": [
+      {
+        "text": "Wie's",
+        "start": 69.236,
+        "end": 69.476
+      },
+      {
+        "text": "aussieht,",
+        "start": 69.516,
+        "end": 69.816
+      },
+      {
+        "text": "mach",
+        "start": 69.836,
+        "end": 69.976
+      },
+      {
+        "text": "ich",
+        "start": 69.996,
+        "end": 70.076
+      },
+      {
+        "text": "wohl",
+        "start": 70.096,
+        "end": 70.256
+      },
+      {
+        "text": "doch",
+        "start": 70.276,
+        "end": 70.476
+      },
+      {
+        "text": "genau",
+        "start": 70.496,
+        "end": 70.737
+      },
+      {
+        "text": "das",
+        "start": 70.757,
+        "end": 70.957
+      },
+      {
+        "text": "Richtige.",
+        "start": 70.997,
+        "end": 72.138
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Also, noch neunmal.",
+    "start": 72.198,
+    "end": 73.939,
+    "words": [
+      {
+        "text": "Also,",
+        "start": 72.198,
+        "end": 72.538
+      },
+      {
+        "text": "noch",
+        "start": 72.578,
+        "end": 72.738
+      },
+      {
+        "text": "neunmal.",
+        "start": 72.758,
+        "end": 73.939
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Gut, ich stell's mir noch mal vor und zaubere.",
+    "start": 73.959,
+    "end": 76.14,
+    "words": [
+      {
+        "text": "Gut,",
+        "start": 73.959,
+        "end": 74.439
+      },
+      {
+        "text": "ich",
+        "start": 74.459,
+        "end": 74.559
+      },
+      {
+        "text": "stell's",
+        "start": 74.579,
+        "end": 74.799
+      },
+      {
+        "text": "mir",
+        "start": 74.819,
+        "end": 74.92
+      },
+      {
+        "text": "noch",
+        "start": 74.94,
+        "end": 75.04
+      },
+      {
+        "text": "mal",
+        "start": 75.16,
+        "end": 75.32
+      },
+      {
+        "text": "vor",
+        "start": 75.36,
+        "end": 75.54
+      },
+      {
+        "text": "und",
+        "start": 75.58,
+        "end": 75.72
+      },
+      {
+        "text": "zaubere.",
+        "start": 75.76,
+        "end": 76.14
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Hier!",
+    "start": 76.16,
+    "end": 76.921,
+    "words": [
+      {
+        "text": "Hier!",
+        "start": 76.16,
+        "end": 76.921
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Hier!",
+    "start": 76.961,
+    "end": 77.661,
+    "words": [
+      {
+        "text": "Hier!",
+        "start": 76.961,
+        "end": 77.661
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Hier!",
+    "start": 77.802,
+    "end": 78.602,
+    "words": [
+      {
+        "text": "Hier!",
+        "start": 77.802,
+        "end": 78.602
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": " Wenn ich mich ganz normal erhole, ist nur noch ein Mana-Punkt übrig.",
+    "start": 83.434,
+    "end": 87.718,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 83.434,
+        "end": 83.594
+      },
+      {
+        "text": "ich",
+        "start": 83.634,
+        "end": 83.694
+      },
+      {
+        "text": "mich",
+        "start": 83.734,
+        "end": 83.875
+      },
+      {
+        "text": "ganz",
+        "start": 83.915,
+        "end": 84.075
+      },
+      {
+        "text": "normal",
+        "start": 84.095,
+        "end": 84.375
+      },
+      {
+        "text": "erhole,",
+        "start": 84.435,
+        "end": 84.815
+      },
+      {
+        "text": "ist",
+        "start": 84.875,
+        "end": 85.036
+      },
+      {
+        "text": "nur",
+        "start": 85.056,
+        "end": 85.176
+      },
+      {
+        "text": "noch",
+        "start": 85.196,
+        "end": 85.456
+      },
+      {
+        "text": "ein",
+        "start": 85.496,
+        "end": 85.696
+      },
+      {
+        "text": "Mana-Punkt",
+        "start": 85.736,
+        "end": 86.417
+      },
+      {
+        "text": "übrig.",
+        "start": 86.477,
+        "end": 87.718
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Ich fühle mich einfach furchtbar.",
+    "start": 87.758,
+    "end": 91.101,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 87.758,
+        "end": 87.878
+      },
+      {
+        "text": "fühle",
+        "start": 87.918,
+        "end": 88.158
+      },
+      {
+        "text": "mich",
+        "start": 88.198,
+        "end": 88.438
+      },
+      {
+        "text": "einfach",
+        "start": 88.478,
+        "end": 88.819
+      },
+      {
+        "text": "furchtbar.",
+        "start": 88.859,
+        "end": 91.101
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Es fühlt sich so an, als hätte ich mit einem Kunden so viel getrunken.",
+    "start": 91.161,
+    "end": 97.146,
+    "words": [
+      {
+        "text": "Es",
+        "start": 91.161,
+        "end": 91.261
+      },
+      {
+        "text": "fühlt",
+        "start": 91.301,
+        "end": 91.461
+      },
+      {
+        "text": "sich",
+        "start": 91.501,
+        "end": 91.621
+      },
+      {
+        "text": "so",
+        "start": 91.661,
+        "end": 91.781
+      },
+      {
+        "text": "an,",
+        "start": 91.801,
+        "end": 91.881
+      },
+      {
+        "text": "als",
+        "start": 91.901,
+        "end": 92.041
+      },
+      {
+        "text": "hätte",
+        "start": 92.061,
+        "end": 92.242
+      },
+      {
+        "text": "ich",
+        "start": 92.282,
+        "end": 92.382
+      },
+      {
+        "text": "mit",
+        "start": 92.402,
+        "end": 92.522
+      },
+      {
+        "text": "einem",
+        "start": 92.562,
+        "end": 92.802
+      },
+      {
+        "text": "Kunden",
+        "start": 92.822,
+        "end": 93.202
+      },
+      {
+        "text": "so",
+        "start": 93.222,
+        "end": 93.362
+      },
+      {
+        "text": "viel",
+        "start": 93.402,
+        "end": 93.563
+      },
+      {
+        "text": "getrunken.",
+        "start": 93.583,
+        "end": 97.146
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Endlich habe ich mich erholt.",
+    "start": 97.226,
+    "end": 99.307,
+    "words": [
+      {
+        "text": "Endlich",
+        "start": 97.226,
+        "end": 97.606
+      },
+      {
+        "text": "habe",
+        "start": 97.626,
+        "end": 97.786
+      },
+      {
+        "text": "ich",
+        "start": 97.826,
+        "end": 97.926
+      },
+      {
+        "text": "mich",
+        "start": 97.966,
+        "end": 98.106
+      },
+      {
+        "text": "erholt.",
+        "start": 98.166,
+        "end": 99.307
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Wenn es mir irgendwie gelingt, meine Mana-Kontrolle zu verbessern, dann sollte ich es irgendwann auch schaffen, den Verbrauch zu senden.",
+    "start": 99.327,
+    "end": 106.213,
+    "words": [
+      {
+        "text": "Wenn",
+        "start": 99.327,
+        "end": 99.468
+      },
+      {
+        "text": "es",
+        "start": 99.508,
+        "end": 99.588
+      },
+      {
+        "text": "mir",
+        "start": 99.628,
+        "end": 99.748
+      },
+      {
+        "text": "irgendwie",
+        "start": 99.768,
+        "end": 100.108
+      },
+      {
+        "text": "gelingt,",
+        "start": 100.128,
+        "end": 100.408
+      },
+      {
+        "text": "meine",
+        "start": 100.428,
+        "end": 100.648
+      },
+      {
+        "text": "Mana-Kontrolle",
+        "start": 100.689,
+        "end": 101.409
+      },
+      {
+        "text": "zu",
+        "start": 101.429,
+        "end": 101.549
+      },
+      {
+        "text": "verbessern,",
+        "start": 101.589,
+        "end": 102.13
+      },
+      {
+        "text": "dann",
+        "start": 102.17,
+        "end": 102.31
+      },
+      {
+        "text": "sollte",
+        "start": 102.33,
+        "end": 102.55
+      },
+      {
+        "text": "ich",
+        "start": 102.57,
+        "end": 102.67
+      },
+      {
+        "text": "es",
+        "start": 102.71,
+        "end": 102.81
+      },
+      {
+        "text": "irgendwann",
+        "start": 102.83,
+        "end": 103.151
+      },
+      {
+        "text": "auch",
+        "start": 103.171,
+        "end": 103.271
+      },
+      {
+        "text": "schaffen,",
+        "start": 103.291,
+        "end": 103.551
+      },
+      {
+        "text": "den",
+        "start": 103.591,
+        "end": 103.671
+      },
+      {
+        "text": "Verbrauch",
+        "start": 103.711,
+        "end": 104.051
+      },
+      {
+        "text": "zu",
+        "start": 104.091,
+        "end": 104.191
+      },
+      {
+        "text": "senden.",
+        "start": 104.231,
+        "end": 106.213
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Genau darauf konzentriere ich mich jetzt.",
+    "start": 106.253,
+    "end": 108.095,
+    "words": [
+      {
+        "text": "Genau",
+        "start": 106.253,
+        "end": 106.533
+      },
+      {
+        "text": "darauf",
+        "start": 106.553,
+        "end": 106.914
+      },
+      {
+        "text": "konzentriere",
+        "start": 106.934,
+        "end": 107.574
+      },
+      {
+        "text": "ich",
+        "start": 107.614,
+        "end": 107.714
+      },
+      {
+        "text": "mich",
+        "start": 107.754,
+        "end": 107.915
+      },
+      {
+        "text": "jetzt.",
+        "start": 107.955,
+        "end": 108.095
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Ich spüre das Mana in mir und lerne es für mich zu nutzen.",
+    "start": 108.975,
+    "end": 112.078,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 108.975,
+        "end": 109.136
+      },
+      {
+        "text": "spüre",
+        "start": 109.156,
+        "end": 109.596
+      },
+      {
+        "text": "das",
+        "start": 109.616,
+        "end": 109.816
+      },
+      {
+        "text": "Mana",
+        "start": 109.856,
+        "end": 110.156
+      },
+      {
+        "text": "in",
+        "start": 110.196,
+        "end": 110.276
+      },
+      {
+        "text": "mir",
+        "start": 110.317,
+        "end": 110.557
+      },
+      {
+        "text": "und",
+        "start": 110.597,
+        "end": 110.737
+      },
+      {
+        "text": "lerne",
+        "start": 110.757,
+        "end": 111.037
+      },
+      {
+        "text": "es",
+        "start": 111.097,
+        "end": 111.217
+      },
+      {
+        "text": "für",
+        "start": 111.257,
+        "end": 111.357
+      },
+      {
+        "text": "mich",
+        "start": 111.377,
+        "end": 111.538
+      },
+      {
+        "text": "zu",
+        "start": 111.578,
+        "end": 111.678
+      },
+      {
+        "text": "nutzen.",
+        "start": 111.698,
+        "end": 112.078
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": " Ich muss lernen, das Mana zu kontrollieren.",
+    "start": 113.434,
+    "end": 115.387,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 113.434,
+        "end": 113.554
+      },
+      {
+        "text": "muss",
+        "start": 113.595,
+        "end": 113.796
+      },
+      {
+        "text": "lernen,",
+        "start": 113.836,
+        "end": 114.158
+      },
+      {
+        "text": "das",
+        "start": 114.199,
+        "end": 114.36
+      },
+      {
+        "text": "Mana",
+        "start": 114.38,
+        "end": 114.722
+      },
+      {
+        "text": "zu",
+        "start": 114.742,
+        "end": 114.883
+      },
+      {
+        "text": "kontrollieren.",
+        "start": 114.904,
+        "end": 115.387
+      }
+    ]
+  }
+]

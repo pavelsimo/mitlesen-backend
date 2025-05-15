@@ -1,0 +1,740 @@
+[
+  {
+    "id": 0,
+    "text": " Bist du bereit?",
+    "start": 0.551,
+    "end": 1.472,
+    "words": [
+      {
+        "text": "Bist",
+        "start": 0.551,
+        "end": 0.871
+      },
+      {
+        "text": "du",
+        "start": 0.891,
+        "end": 1.051
+      },
+      {
+        "text": "bereit?",
+        "start": 1.071,
+        "end": 1.472
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Dann zaubern wir mal ein Lächeln auf dieses düstere Gesicht.",
+    "start": 1.512,
+    "end": 5.253,
+    "words": [
+      {
+        "text": "Dann",
+        "start": 1.512,
+        "end": 1.732
+      },
+      {
+        "text": "zaubern",
+        "start": 1.752,
+        "end": 2.032
+      },
+      {
+        "text": "wir",
+        "start": 2.052,
+        "end": 2.132
+      },
+      {
+        "text": "mal",
+        "start": 2.152,
+        "end": 2.252
+      },
+      {
+        "text": "ein",
+        "start": 2.272,
+        "end": 2.412
+      },
+      {
+        "text": "Lächeln",
+        "start": 2.432,
+        "end": 2.732
+      },
+      {
+        "text": "auf",
+        "start": 2.772,
+        "end": 2.892
+      },
+      {
+        "text": "dieses",
+        "start": 2.932,
+        "end": 3.172
+      },
+      {
+        "text": "düstere",
+        "start": 3.192,
+        "end": 3.652
+      },
+      {
+        "text": "Gesicht.",
+        "start": 3.692,
+        "end": 5.253
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Als erstes im Programm haben wir... ...der gute Portions-Lobstick!",
+    "start": 5.313,
+    "end": 10.835,
+    "words": [
+      {
+        "text": "Als",
+        "start": 5.313,
+        "end": 5.693
+      },
+      {
+        "text": "erstes",
+        "start": 5.733,
+        "end": 6.033
+      },
+      {
+        "text": "im",
+        "start": 6.093,
+        "end": 6.193
+      },
+      {
+        "text": "Programm",
+        "start": 6.213,
+        "end": 6.633
+      },
+      {
+        "text": "haben",
+        "start": 6.653,
+        "end": 6.953
+      },
+      {
+        "text": "wir...",
+        "start": 6.973,
+        "end": 8.134
+      },
+      {
+        "text": "...der",
+        "start": 8.174,
+        "end": 8.354
+      },
+      {
+        "text": "gute",
+        "start": 8.374,
+        "end": 8.634
+      },
+      {
+        "text": "Portions-Lobstick!",
+        "start": 8.674,
+        "end": 10.835
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Und darauf folgt dann... ...eine Spongebob-Bombe!",
+    "start": 10.895,
+    "end": 14.016,
+    "words": [
+      {
+        "text": "Und",
+        "start": 10.895,
+        "end": 11.075
+      },
+      {
+        "text": "darauf",
+        "start": 11.095,
+        "end": 11.515
+      },
+      {
+        "text": "folgt",
+        "start": 11.535,
+        "end": 11.795
+      },
+      {
+        "text": "dann...",
+        "start": 11.815,
+        "end": 12.596
+      },
+      {
+        "text": "...eine",
+        "start": 12.676,
+        "end": 12.936
+      },
+      {
+        "text": "Spongebob-Bombe!",
+        "start": 12.956,
+        "end": 14.016
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Hier, bitteschön!",
+    "start": 14.056,
+    "end": 14.916,
+    "words": [
+      {
+        "text": "Hier,",
+        "start": 14.056,
+        "end": 14.336
+      },
+      {
+        "text": "bitteschön!",
+        "start": 14.376,
+        "end": 14.916
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Was? !",
+    "start": 14.956,
+    "end": 15.076,
+    "words": [
+      {
+        "text": "Was?!",
+        "start": 14.956,
+        "end": 15.076
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Heldin Sai, das war's.",
+    "start": 31.555,
+    "end": 33.556,
+    "words": [
+      {
+        "text": "Heldin",
+        "start": 31.555,
+        "end": 31.975
+      },
+      {
+        "text": "Sai,",
+        "start": 31.995,
+        "end": 32.756
+      },
+      {
+        "text": "das",
+        "start": 32.796,
+        "end": 33.056
+      },
+      {
+        "text": "war's.",
+        "start": 33.116,
+        "end": 33.556
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Du hast mich besiegt.",
+    "start": 33.576,
+    "end": 36.398,
+    "words": [
+      {
+        "text": "Du",
+        "start": 33.576,
+        "end": 33.876
+      },
+      {
+        "text": "hast",
+        "start": 33.916,
+        "end": 34.097
+      },
+      {
+        "text": "mich",
+        "start": 34.217,
+        "end": 34.437
+      },
+      {
+        "text": "besiegt.",
+        "start": 34.457,
+        "end": 36.398
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Du hast... du hast gewonnen.",
+    "start": 36.438,
+    "end": 39.259,
+    "words": [
+      {
+        "text": "Du",
+        "start": 36.438,
+        "end": 36.578
+      },
+      {
+        "text": "hast...",
+        "start": 36.638,
+        "end": 37.538
+      },
+      {
+        "text": "du",
+        "start": 37.578,
+        "end": 37.738
+      },
+      {
+        "text": "hast",
+        "start": 37.778,
+        "end": 38.039
+      },
+      {
+        "text": "gewonnen.",
+        "start": 38.079,
+        "end": 39.259
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Bitte kümmere dich gut um sie.",
+    "start": 39.299,
+    "end": 40.78,
+    "words": [
+      {
+        "text": "Bitte",
+        "start": 39.299,
+        "end": 39.579
+      },
+      {
+        "text": "kümmere",
+        "start": 39.599,
+        "end": 40.06
+      },
+      {
+        "text": "dich",
+        "start": 40.08,
+        "end": 40.26
+      },
+      {
+        "text": "gut",
+        "start": 40.3,
+        "end": 40.5
+      },
+      {
+        "text": "um",
+        "start": 40.54,
+        "end": 40.66
+      },
+      {
+        "text": "sie.",
+        "start": 40.68,
+        "end": 40.78
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Sprich es mir, ja?",
+    "start": 41.68,
+    "end": 44.542,
+    "words": [
+      {
+        "text": "Sprich",
+        "start": 41.68,
+        "end": 41.981
+      },
+      {
+        "text": "es",
+        "start": 42.021,
+        "end": 42.161
+      },
+      {
+        "text": "mir,",
+        "start": 42.201,
+        "end": 42.321
+      },
+      {
+        "text": "ja?",
+        "start": 42.341,
+        "end": 44.542
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Was?",
+    "start": 44.582,
+    "end": 45.102,
+    "words": [
+      {
+        "text": "Was?",
+        "start": 44.582,
+        "end": 45.102
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Mich kümmern?",
+    "start": 45.142,
+    "end": 45.843,
+    "words": [
+      {
+        "text": "Mich",
+        "start": 45.142,
+        "end": 45.362
+      },
+      {
+        "text": "kümmern?",
+        "start": 45.402,
+        "end": 45.843
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Um wen?",
+    "start": 45.903,
+    "end": 46.263,
+    "words": [
+      {
+        "text": "Um",
+        "start": 45.903,
+        "end": 46.123
+      },
+      {
+        "text": "wen?",
+        "start": 46.163,
+        "end": 46.263
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Na, wie fandest du's?",
+    "start": 53.365,
+    "end": 54.546,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 53.365,
+        "end": 53.585
+      },
+      {
+        "text": "wie",
+        "start": 53.605,
+        "end": 53.725
+      },
+      {
+        "text": "fandest",
+        "start": 53.745,
+        "end": 54.066
+      },
+      {
+        "text": "du's?",
+        "start": 54.086,
+        "end": 54.546
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Das war alles Teil meines Comedy-Programms.",
+    "start": 54.586,
+    "end": 57.247,
+    "words": [
+      {
+        "text": "Das",
+        "start": 54.586,
+        "end": 54.706
+      },
+      {
+        "text": "war",
+        "start": 54.746,
+        "end": 54.846
+      },
+      {
+        "text": "alles",
+        "start": 54.906,
+        "end": 55.086
+      },
+      {
+        "text": "Teil",
+        "start": 55.206,
+        "end": 55.406
+      },
+      {
+        "text": "meines",
+        "start": 55.426,
+        "end": 55.626
+      },
+      {
+        "text": "Comedy-Programms.",
+        "start": 55.686,
+        "end": 57.247
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Was... was stimmt nicht mit ihr?",
+    "start": 57.287,
+    "end": 59.308,
+    "words": [
+      {
+        "text": "Was...",
+        "start": 57.287,
+        "end": 57.807
+      },
+      {
+        "text": "was",
+        "start": 57.847,
+        "end": 57.967
+      },
+      {
+        "text": "stimmt",
+        "start": 58.107,
+        "end": 58.348
+      },
+      {
+        "text": "nicht",
+        "start": 58.428,
+        "end": 58.648
+      },
+      {
+        "text": "mit",
+        "start": 58.668,
+        "end": 58.808
+      },
+      {
+        "text": "ihr?",
+        "start": 58.888,
+        "end": 59.308
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ich hab keine Ahnung, was sie als nächstes vorhat.",
+    "start": 59.368,
+    "end": 61.809,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 59.368,
+        "end": 59.488
+      },
+      {
+        "text": "hab",
+        "start": 59.528,
+        "end": 59.688
+      },
+      {
+        "text": "keine",
+        "start": 59.728,
+        "end": 60.068
+      },
+      {
+        "text": "Ahnung,",
+        "start": 60.108,
+        "end": 60.348
+      },
+      {
+        "text": "was",
+        "start": 60.368,
+        "end": 60.488
+      },
+      {
+        "text": "sie",
+        "start": 60.509,
+        "end": 60.609
+      },
+      {
+        "text": "als",
+        "start": 60.669,
+        "end": 60.809
+      },
+      {
+        "text": "nächstes",
+        "start": 60.829,
+        "end": 61.189
+      },
+      {
+        "text": "vorhat.",
+        "start": 61.209,
+        "end": 61.809
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Guck doch mal, was ich Tolles kann!",
+    "start": 64.05,
+    "end": 66.211,
+    "words": [
+      {
+        "text": "Guck",
+        "start": 64.05,
+        "end": 64.19
+      },
+      {
+        "text": "doch",
+        "start": 64.25,
+        "end": 64.49
+      },
+      {
+        "text": "mal,",
+        "start": 64.51,
+        "end": 64.69
+      },
+      {
+        "text": "was",
+        "start": 64.73,
+        "end": 64.871
+      },
+      {
+        "text": "ich",
+        "start": 64.931,
+        "end": 65.051
+      },
+      {
+        "text": "Tolles",
+        "start": 65.071,
+        "end": 65.371
+      },
+      {
+        "text": "kann!",
+        "start": 65.471,
+        "end": 66.211
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Ich habe magische Taschen, aus denen viele lustige Dinge rausfallen.",
+    "start": 66.371,
+    "end": 69.793,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 66.371,
+        "end": 66.491
+      },
+      {
+        "text": "habe",
+        "start": 66.511,
+        "end": 66.811
+      },
+      {
+        "text": "magische",
+        "start": 66.851,
+        "end": 67.292
+      },
+      {
+        "text": "Taschen,",
+        "start": 67.352,
+        "end": 67.592
+      },
+      {
+        "text": "aus",
+        "start": 67.652,
+        "end": 67.772
+      },
+      {
+        "text": "denen",
+        "start": 67.792,
+        "end": 68.132
+      },
+      {
+        "text": "viele",
+        "start": 68.152,
+        "end": 68.292
+      },
+      {
+        "text": "lustige",
+        "start": 68.312,
+        "end": 68.712
+      },
+      {
+        "text": "Dinge",
+        "start": 68.732,
+        "end": 68.992
+      },
+      {
+        "text": "rausfallen.",
+        "start": 69.012,
+        "end": 69.793
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Aus diesem Grund bin ich auch unter dem Namen die menschliche Spielzeugkiste bekannt!",
+    "start": 69.833,
+    "end": 75.175,
+    "words": [
+      {
+        "text": "Aus",
+        "start": 69.833,
+        "end": 70.033
+      },
+      {
+        "text": "diesem",
+        "start": 70.053,
+        "end": 70.413
+      },
+      {
+        "text": "Grund",
+        "start": 70.433,
+        "end": 70.713
+      },
+      {
+        "text": "bin",
+        "start": 70.773,
+        "end": 70.873
+      },
+      {
+        "text": "ich",
+        "start": 70.913,
+        "end": 71.013
+      },
+      {
+        "text": "auch",
+        "start": 71.093,
+        "end": 72.174
+      },
+      {
+        "text": "unter",
+        "start": 72.214,
+        "end": 72.474
+      },
+      {
+        "text": "dem",
+        "start": 72.514,
+        "end": 72.674
+      },
+      {
+        "text": "Namen",
+        "start": 72.714,
+        "end": 72.954
+      },
+      {
+        "text": "die",
+        "start": 73.214,
+        "end": 73.395
+      },
+      {
+        "text": "menschliche",
+        "start": 73.415,
+        "end": 73.935
+      },
+      {
+        "text": "Spielzeugkiste",
+        "start": 73.955,
+        "end": 74.835
+      },
+      {
+        "text": "bekannt!",
+        "start": 74.875,
+        "end": 75.175
+      }
+    ]
+  }
+]

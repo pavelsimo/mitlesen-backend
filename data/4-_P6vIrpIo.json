@@ -1,0 +1,901 @@
+[
+  {
+    "id": 0,
+    "text": " Ich wusste, dass du noch lebst.",
+    "start": 2.763,
+    "end": 5.045,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 2.763,
+        "end": 2.863
+      },
+      {
+        "text": "wusste,",
+        "start": 2.883,
+        "end": 3.104
+      },
+      {
+        "text": "dass",
+        "start": 3.124,
+        "end": 3.244
+      },
+      {
+        "text": "du",
+        "start": 3.264,
+        "end": 3.324
+      },
+      {
+        "text": "noch",
+        "start": 3.364,
+        "end": 3.504
+      },
+      {
+        "text": "lebst.",
+        "start": 3.524,
+        "end": 5.045
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Vesh.",
+    "start": 5.085,
+    "end": 6.966,
+    "words": [
+      {
+        "text": "Vesh.",
+        "start": 5.085,
+        "end": 6.966
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ihre Stimmen haben dich hergeführt, oder?",
+    "start": 7.026,
+    "end": 8.988,
+    "words": [
+      {
+        "text": "Ihre",
+        "start": 7.026,
+        "end": 7.207
+      },
+      {
+        "text": "Stimmen",
+        "start": 7.247,
+        "end": 7.507
+      },
+      {
+        "text": "haben",
+        "start": 7.547,
+        "end": 7.707
+      },
+      {
+        "text": "dich",
+        "start": 7.727,
+        "end": 7.907
+      },
+      {
+        "text": "hergeführt,",
+        "start": 7.927,
+        "end": 8.428
+      },
+      {
+        "text": "oder?",
+        "start": 8.488,
+        "end": 8.988
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ihre Schreie.",
+    "start": 9.028,
+    "end": 9.648,
+    "words": [
+      {
+        "text": "Ihre",
+        "start": 9.028,
+        "end": 9.208
+      },
+      {
+        "text": "Schreie.",
+        "start": 9.248,
+        "end": 9.648
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Du hast sie gehört.",
+    "start": 9.708,
+    "end": 12.671,
+    "words": [
+      {
+        "text": "Du",
+        "start": 9.708,
+        "end": 10.189
+      },
+      {
+        "text": "hast",
+        "start": 10.249,
+        "end": 10.449
+      },
+      {
+        "text": "sie",
+        "start": 10.469,
+        "end": 10.589
+      },
+      {
+        "text": "gehört.",
+        "start": 10.629,
+        "end": 12.671
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Nun kennst du sie.",
+    "start": 12.731,
+    "end": 14.632,
+    "words": [
+      {
+        "text": "Nun",
+        "start": 12.731,
+        "end": 12.991
+      },
+      {
+        "text": "kennst",
+        "start": 13.031,
+        "end": 13.351
+      },
+      {
+        "text": "du",
+        "start": 13.371,
+        "end": 13.491
+      },
+      {
+        "text": "sie.",
+        "start": 13.531,
+        "end": 14.632
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Die wahre Natur der Menschheit.",
+    "start": 14.672,
+    "end": 18.775,
+    "words": [
+      {
+        "text": "Die",
+        "start": 14.672,
+        "end": 14.872
+      },
+      {
+        "text": "wahre",
+        "start": 14.932,
+        "end": 15.273
+      },
+      {
+        "text": "Natur",
+        "start": 15.333,
+        "end": 15.653
+      },
+      {
+        "text": "der",
+        "start": 15.673,
+        "end": 15.833
+      },
+      {
+        "text": "Menschheit.",
+        "start": 15.853,
+        "end": 18.775
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Sie existieren, um uns Menschen zu dienen.",
+    "start": 18.815,
+    "end": 21.237,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 18.815,
+        "end": 18.975
+      },
+      {
+        "text": "existieren,",
+        "start": 19.015,
+        "end": 19.536
+      },
+      {
+        "text": "um",
+        "start": 19.576,
+        "end": 19.696
+      },
+      {
+        "text": "uns",
+        "start": 19.736,
+        "end": 19.916
+      },
+      {
+        "text": "Menschen",
+        "start": 19.936,
+        "end": 20.296
+      },
+      {
+        "text": "zu",
+        "start": 20.316,
+        "end": 20.436
+      },
+      {
+        "text": "dienen.",
+        "start": 20.477,
+        "end": 21.237
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Zu sonst nichts.",
+    "start": 21.277,
+    "end": 22.498,
+    "words": [
+      {
+        "text": "Zu",
+        "start": 21.277,
+        "end": 21.397
+      },
+      {
+        "text": "sonst",
+        "start": 21.417,
+        "end": 21.737
+      },
+      {
+        "text": "nichts.",
+        "start": 21.757,
+        "end": 22.498
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Und ich bin sicher, sie erfreuen sich ihres Nutzens.",
+    "start": 22.538,
+    "end": 25.34,
+    "words": [
+      {
+        "text": "Und",
+        "start": 22.538,
+        "end": 22.638
+      },
+      {
+        "text": "ich",
+        "start": 22.678,
+        "end": 22.758
+      },
+      {
+        "text": "bin",
+        "start": 22.798,
+        "end": 22.938
+      },
+      {
+        "text": "sicher,",
+        "start": 22.978,
+        "end": 23.219
+      },
+      {
+        "text": "sie",
+        "start": 23.239,
+        "end": 23.339
+      },
+      {
+        "text": "erfreuen",
+        "start": 23.379,
+        "end": 23.719
+      },
+      {
+        "text": "sich",
+        "start": 23.759,
+        "end": 23.919
+      },
+      {
+        "text": "ihres",
+        "start": 23.939,
+        "end": 24.199
+      },
+      {
+        "text": "Nutzens.",
+        "start": 24.259,
+        "end": 25.34
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Also dann.",
+    "start": 25.38,
+    "end": 26.281,
+    "words": [
+      {
+        "text": "Also",
+        "start": 25.38,
+        "end": 25.6
+      },
+      {
+        "text": "dann.",
+        "start": 25.64,
+        "end": 26.281
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Wir haben hier jetzt wirklich einiges zu tun.",
+    "start": 26.301,
+    "end": 28.462,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 26.301,
+        "end": 26.401
+      },
+      {
+        "text": "haben",
+        "start": 26.421,
+        "end": 26.601
+      },
+      {
+        "text": "hier",
+        "start": 26.641,
+        "end": 26.761
+      },
+      {
+        "text": "jetzt",
+        "start": 26.781,
+        "end": 26.921
+      },
+      {
+        "text": "wirklich",
+        "start": 26.941,
+        "end": 27.282
+      },
+      {
+        "text": "einiges",
+        "start": 27.322,
+        "end": 27.682
+      },
+      {
+        "text": "zu",
+        "start": 27.702,
+        "end": 27.822
+      },
+      {
+        "text": "tun.",
+        "start": 27.862,
+        "end": 28.462
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich muss euch bitten, diesen Bereich zu verlassen.",
+    "start": 28.502,
+    "end": 30.204,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 28.502,
+        "end": 28.563
+      },
+      {
+        "text": "muss",
+        "start": 28.583,
+        "end": 28.723
+      },
+      {
+        "text": "euch",
+        "start": 28.763,
+        "end": 28.943
+      },
+      {
+        "text": "bitten,",
+        "start": 28.983,
+        "end": 29.223
+      },
+      {
+        "text": "diesen",
+        "start": 29.263,
+        "end": 29.423
+      },
+      {
+        "text": "Bereich",
+        "start": 29.463,
+        "end": 29.723
+      },
+      {
+        "text": "zu",
+        "start": 29.743,
+        "end": 29.843
+      },
+      {
+        "text": "verlassen.",
+        "start": 29.884,
+        "end": 30.204
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": " Los!",
+    "start": 32.296,
+    "end": 32.916,
+    "words": [
+      {
+        "text": "Los!",
+        "start": 32.296,
+        "end": 32.916
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Beeilung jetzt!",
+    "start": 32.936,
+    "end": 33.637,
+    "words": [
+      {
+        "text": "Beeilung",
+        "start": 32.936,
+        "end": 33.196
+      },
+      {
+        "text": "jetzt!",
+        "start": 33.236,
+        "end": 33.637
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Aufhören!",
+    "start": 33.697,
+    "end": 34.757,
+    "words": [
+      {
+        "text": "Aufhören!",
+        "start": 33.697,
+        "end": 34.757
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Lasst ihn sofort los!",
+    "start": 34.797,
+    "end": 38.319,
+    "words": [
+      {
+        "text": "Lasst",
+        "start": 34.797,
+        "end": 34.957
+      },
+      {
+        "text": "ihn",
+        "start": 35.017,
+        "end": 35.158
+      },
+      {
+        "text": "sofort",
+        "start": 35.178,
+        "end": 35.478
+      },
+      {
+        "text": "los!",
+        "start": 35.538,
+        "end": 38.319
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Ihr könnt sie nicht hören in eurem Unvermögen!",
+    "start": 38.379,
+    "end": 41.101,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 38.379,
+        "end": 38.519
+      },
+      {
+        "text": "könnt",
+        "start": 38.559,
+        "end": 38.779
+      },
+      {
+        "text": "sie",
+        "start": 38.819,
+        "end": 38.899
+      },
+      {
+        "text": "nicht",
+        "start": 38.939,
+        "end": 39.08
+      },
+      {
+        "text": "hören",
+        "start": 39.12,
+        "end": 39.36
+      },
+      {
+        "text": "in",
+        "start": 39.4,
+        "end": 39.5
+      },
+      {
+        "text": "eurem",
+        "start": 39.54,
+        "end": 39.78
+      },
+      {
+        "text": "Unvermögen!",
+        "start": 39.82,
+        "end": 41.101
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ihre Todesschreie, ihre Qualen!",
+    "start": 41.161,
+    "end": 47.864,
+    "words": [
+      {
+        "text": "Ihre",
+        "start": 41.161,
+        "end": 41.401
+      },
+      {
+        "text": "Todesschreie,",
+        "start": 41.441,
+        "end": 42.141
+      },
+      {
+        "text": "ihre",
+        "start": 42.201,
+        "end": 42.481
+      },
+      {
+        "text": "Qualen!",
+        "start": 42.521,
+        "end": 47.864
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Hol an dann!",
+    "start": 47.904,
+    "end": 49.745,
+    "words": [
+      {
+        "text": "Hol",
+        "start": 47.904,
+        "end": 48.164
+      },
+      {
+        "text": "an",
+        "start": 48.204,
+        "end": 48.304
+      },
+      {
+        "text": "dann!",
+        "start": 48.344,
+        "end": 49.745
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Genug der Wort.",
+    "start": 49.785,
+    "end": 52.947,
+    "words": [
+      {
+        "text": "Genug",
+        "start": 49.785,
+        "end": 50.205
+      },
+      {
+        "text": "der",
+        "start": 50.225,
+        "end": 50.345
+      },
+      {
+        "text": "Wort.",
+        "start": 50.386,
+        "end": 52.947
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Und lasst mich eure Schreie hören.",
+    "start": 52.987,
+    "end": 54.888,
+    "words": [
+      {
+        "text": "Und",
+        "start": 52.987,
+        "end": 53.147
+      },
+      {
+        "text": "lasst",
+        "start": 53.207,
+        "end": 53.527
+      },
+      {
+        "text": "mich",
+        "start": 53.547,
+        "end": 53.727
+      },
+      {
+        "text": "eure",
+        "start": 53.787,
+        "end": 54.087
+      },
+      {
+        "text": "Schreie",
+        "start": 54.127,
+        "end": 54.668
+      },
+      {
+        "text": "hören.",
+        "start": 54.688,
+        "end": 54.888
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": " Nein, hör auf damit!",
+    "start": 62.03,
+    "end": 68.233,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 62.03,
+        "end": 62.951
+      },
+      {
+        "text": "hör",
+        "start": 63.151,
+        "end": 63.691
+      },
+      {
+        "text": "auf",
+        "start": 64.251,
+        "end": 64.411
+      },
+      {
+        "text": "damit!",
+        "start": 64.431,
+        "end": 68.233
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Nein, ne?",
+    "start": 68.314,
+    "end": 71.415,
+    "words": [
+      {
+        "text": "Nein,",
+        "start": 68.314,
+        "end": 71.055
+      },
+      {
+        "text": "ne?",
+        "start": 71.255,
+        "end": 71.415
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Den Namen hab ich lange nicht gehört.",
+    "start": 71.455,
+    "end": 74.017,
+    "words": [
+      {
+        "text": "Den",
+        "start": 71.455,
+        "end": 71.555
+      },
+      {
+        "text": "Namen",
+        "start": 71.575,
+        "end": 71.755
+      },
+      {
+        "text": "hab",
+        "start": 71.795,
+        "end": 71.956
+      },
+      {
+        "text": "ich",
+        "start": 71.996,
+        "end": 72.116
+      },
+      {
+        "text": "lange",
+        "start": 72.156,
+        "end": 72.396
+      },
+      {
+        "text": "nicht",
+        "start": 72.436,
+        "end": 72.636
+      },
+      {
+        "text": "gehört.",
+        "start": 72.656,
+        "end": 74.017
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Denn ich bin nun ein anderer.",
+    "start": 74.037,
+    "end": 76.158,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 74.037,
+        "end": 74.237
+      },
+      {
+        "text": "ich",
+        "start": 74.277,
+        "end": 74.377
+      },
+      {
+        "text": "bin",
+        "start": 74.417,
+        "end": 74.557
+      },
+      {
+        "text": "nun",
+        "start": 74.597,
+        "end": 74.737
+      },
+      {
+        "text": "ein",
+        "start": 74.797,
+        "end": 74.937
+      },
+      {
+        "text": "anderer.",
+        "start": 74.997,
+        "end": 76.158
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Im Namen unserer Brüder, alle über diesen Planeten verstreut, vernichte ich die Menschheit.",
+    "start": 76.218,
+    "end": 83.222,
+    "words": [
+      {
+        "text": "Im",
+        "start": 76.218,
+        "end": 76.398
+      },
+      {
+        "text": "Namen",
+        "start": 76.438,
+        "end": 76.798
+      },
+      {
+        "text": "unserer",
+        "start": 76.838,
+        "end": 77.218
+      },
+      {
+        "text": "Brüder,",
+        "start": 77.279,
+        "end": 77.579
+      },
+      {
+        "text": "alle",
+        "start": 77.799,
+        "end": 78.119
+      },
+      {
+        "text": "über",
+        "start": 78.179,
+        "end": 78.339
+      },
+      {
+        "text": "diesen",
+        "start": 78.379,
+        "end": 78.619
+      },
+      {
+        "text": "Planeten",
+        "start": 78.679,
+        "end": 79.24
+      },
+      {
+        "text": "verstreut,",
+        "start": 79.28,
+        "end": 79.96
+      },
+      {
+        "text": "vernichte",
+        "start": 80.0,
+        "end": 80.54
+      },
+      {
+        "text": "ich",
+        "start": 80.58,
+        "end": 80.821
+      },
+      {
+        "text": "die",
+        "start": 80.861,
+        "end": 80.981
+      },
+      {
+        "text": "Menschheit.",
+        "start": 81.021,
+        "end": 83.222
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Man nennt mich jetzt Millions Knives.",
+    "start": 83.262,
+    "end": 85.063,
+    "words": [
+      {
+        "text": "Man",
+        "start": 83.262,
+        "end": 83.402
+      },
+      {
+        "text": "nennt",
+        "start": 83.442,
+        "end": 83.662
+      },
+      {
+        "text": "mich",
+        "start": 83.682,
+        "end": 83.842
+      },
+      {
+        "text": "jetzt",
+        "start": 83.882,
+        "end": 84.082
+      },
+      {
+        "text": "Millions",
+        "start": 84.122,
+        "end": 84.663
+      },
+      {
+        "text": "Knives.",
+        "start": 84.683,
+        "end": 85.063
+      }
+    ]
+  }
+]

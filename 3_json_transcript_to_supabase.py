@@ -6,7 +6,7 @@ from typing import Dict, List, Any, Optional, Union, Tuple
 
 from dotenv import load_dotenv
 from ai import CompletionClient
-from db import MitLesenDatabase
+from mitlesen.db import Database, Video
 from mitlesen.logger import logger
 
 load_dotenv()
@@ -34,7 +34,7 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
         is_premium: Boolean indicating if video is premium
     """
     DATA_FOLDER = 'data'
-    MAX_WORDS_PER_BATCH = 25  # Maximum number of words per batch
+    MAX_WORDS_PER_BATCH = 30  # Maximum number of words per batch
     MAX_RETRIES = 10  # Maximum number of retries for a failed batch
 
     schema = """
@@ -91,7 +91,7 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
     }
     """
 
-    db = MitLesenDatabase()
+    db = Database()
 
     transcript_path = os.path.join(DATA_FOLDER, youtube_id + '.json')
 
@@ -100,6 +100,11 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
         transcript: List[Dict[str, Any]] = json.loads(text)
         client = CompletionClient(backend='gemini')
         try:
+            # Check if video already exists
+            if Video.exists(db.client, youtube_id):
+                logger.info(f"Video {youtube_id} already exists in database, skipping...")
+                return
+
             total_sentences = len(transcript)
             
             # Process in batches based on word count
@@ -152,7 +157,7 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                        - use concise, literal translations.
 
                     # Constraints
-                    - Do not output any explanatory text—only the JSON array.
+                    - Only return the JSON output. Do not include any explanations, comments, or additional text.
                     - Do not use markdown formatting or code blocks (e.g., do not use triple backticks or any syntax highlighting).
                     - Follow this sample schema exactly for each sentence: {schema}
                     - Make sure the words appears in the same order that are given in the transcript.
@@ -232,19 +237,20 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 if success:
                     time.sleep(2)
 
-            db.insert(
+            # Insert the processed transcript into the database
+            Video.insert(
+                client=db.client,
                 title=title,
                 youtube_id=youtube_id,
                 is_premium=is_premium,
-                transcript=json.dumps(transcript),
+                transcript=json.dumps(transcript)
             )
 
-            logger.info(f"✅ Inserted in videos table")
+            logger.info(f"✅ Transcript inserted successfully")
         except Exception as err:
-            logger.info(f"❌ Error for {youtube_id}: {err}")
-
-    db.close()
-
+            logger.error(f"❌ Error processing {youtube_id}: {err}")
+        finally:
+            db.close()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process YouTube transcript and add to database')

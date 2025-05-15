@@ -1,0 +1,976 @@
+[
+  {
+    "id": 0,
+    "text": " Und wenn die beiden Engel zu uns herabsteigen, tut sich eine Brücke des Lichts im Himmel auf.",
+    "start": 1.933,
+    "end": 7.82,
+    "words": [
+      {
+        "text": "Und",
+        "start": 1.933,
+        "end": 2.094
+      },
+      {
+        "text": "wenn",
+        "start": 2.114,
+        "end": 2.254
+      },
+      {
+        "text": "die",
+        "start": 2.294,
+        "end": 2.434
+      },
+      {
+        "text": "beiden",
+        "start": 2.454,
+        "end": 2.754
+      },
+      {
+        "text": "Engel",
+        "start": 2.814,
+        "end": 2.954
+      },
+      {
+        "text": "zu",
+        "start": 3.095,
+        "end": 3.235
+      },
+      {
+        "text": "uns",
+        "start": 3.275,
+        "end": 3.435
+      },
+      {
+        "text": "herabsteigen,",
+        "start": 3.455,
+        "end": 4.516
+      },
+      {
+        "text": "tut",
+        "start": 4.556,
+        "end": 4.816
+      },
+      {
+        "text": "sich",
+        "start": 4.836,
+        "end": 5.017
+      },
+      {
+        "text": "eine",
+        "start": 5.057,
+        "end": 5.277
+      },
+      {
+        "text": "Brücke",
+        "start": 5.297,
+        "end": 5.637
+      },
+      {
+        "text": "des",
+        "start": 5.657,
+        "end": 5.797
+      },
+      {
+        "text": "Lichts",
+        "start": 5.918,
+        "end": 6.138
+      },
+      {
+        "text": "im",
+        "start": 6.218,
+        "end": 6.338
+      },
+      {
+        "text": "Himmel",
+        "start": 6.358,
+        "end": 6.819
+      },
+      {
+        "text": "auf.",
+        "start": 6.919,
+        "end": 7.82
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Und wir werden endlich und ewiglich ins Heilige Reich Gottes geführt.",
+    "start": 7.86,
+    "end": 12.705,
+    "words": [
+      {
+        "text": "Und",
+        "start": 7.86,
+        "end": 8.0
+      },
+      {
+        "text": "wir",
+        "start": 8.04,
+        "end": 8.16
+      },
+      {
+        "text": "werden",
+        "start": 8.18,
+        "end": 8.4
+      },
+      {
+        "text": "endlich",
+        "start": 8.6,
+        "end": 9.021
+      },
+      {
+        "text": "und",
+        "start": 9.061,
+        "end": 9.261
+      },
+      {
+        "text": "ewiglich",
+        "start": 9.321,
+        "end": 10.402
+      },
+      {
+        "text": "ins",
+        "start": 10.462,
+        "end": 10.703
+      },
+      {
+        "text": "Heilige",
+        "start": 10.783,
+        "end": 11.183
+      },
+      {
+        "text": "Reich",
+        "start": 11.303,
+        "end": 11.604
+      },
+      {
+        "text": "Gottes",
+        "start": 11.644,
+        "end": 12.024
+      },
+      {
+        "text": "geführt.",
+        "start": 12.044,
+        "end": 12.705
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Diese Hitze.",
+    "start": 13.085,
+    "end": 15.468,
+    "words": [
+      {
+        "text": "Diese",
+        "start": 13.085,
+        "end": 14.246
+      },
+      {
+        "text": "Hitze.",
+        "start": 14.286,
+        "end": 15.468
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Sag mal, stört's dich, wenn ich den Sender wechsle?",
+    "start": 15.488,
+    "end": 21.554,
+    "words": [
+      {
+        "text": "Sag",
+        "start": 15.488,
+        "end": 15.768
+      },
+      {
+        "text": "mal,",
+        "start": 15.888,
+        "end": 16.409
+      },
+      {
+        "text": "stört's",
+        "start": 16.489,
+        "end": 16.829
+      },
+      {
+        "text": "dich,",
+        "start": 16.849,
+        "end": 16.989
+      },
+      {
+        "text": "wenn",
+        "start": 17.009,
+        "end": 17.129
+      },
+      {
+        "text": "ich",
+        "start": 17.169,
+        "end": 17.27
+      },
+      {
+        "text": "den",
+        "start": 17.31,
+        "end": 17.43
+      },
+      {
+        "text": "Sender",
+        "start": 17.47,
+        "end": 17.79
+      },
+      {
+        "text": "wechsle?",
+        "start": 17.83,
+        "end": 21.554
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Was war'n das eigentlich für'n Beitrag?",
+    "start": 21.594,
+    "end": 23.216,
+    "words": [
+      {
+        "text": "Was",
+        "start": 21.594,
+        "end": 21.754
+      },
+      {
+        "text": "war'n",
+        "start": 21.774,
+        "end": 22.035
+      },
+      {
+        "text": "das",
+        "start": 22.055,
+        "end": 22.215
+      },
+      {
+        "text": "eigentlich",
+        "start": 22.255,
+        "end": 22.575
+      },
+      {
+        "text": "für'n",
+        "start": 22.595,
+        "end": 22.815
+      },
+      {
+        "text": "Beitrag?",
+        "start": 22.855,
+        "end": 23.216
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": " Ein Sender, der hochreligiös ist.",
+    "start": 25.938,
+    "end": 28.42,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 25.938,
+        "end": 26.038
+      },
+      {
+        "text": "Sender,",
+        "start": 26.078,
+        "end": 26.439
+      },
+      {
+        "text": "der",
+        "start": 26.459,
+        "end": 26.639
+      },
+      {
+        "text": "hochreligiös",
+        "start": 26.679,
+        "end": 27.559
+      },
+      {
+        "text": "ist.",
+        "start": 27.619,
+        "end": 28.42
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Eine planverehrende Gemeinde produziert die Sendungen und leitet ihn.",
+    "start": 28.48,
+    "end": 32.463,
+    "words": [
+      {
+        "text": "Eine",
+        "start": 28.48,
+        "end": 28.74
+      },
+      {
+        "text": "planverehrende",
+        "start": 28.78,
+        "end": 29.721
+      },
+      {
+        "text": "Gemeinde",
+        "start": 29.761,
+        "end": 30.301
+      },
+      {
+        "text": "produziert",
+        "start": 30.341,
+        "end": 30.922
+      },
+      {
+        "text": "die",
+        "start": 30.942,
+        "end": 31.042
+      },
+      {
+        "text": "Sendungen",
+        "start": 31.062,
+        "end": 31.582
+      },
+      {
+        "text": "und",
+        "start": 31.602,
+        "end": 31.702
+      },
+      {
+        "text": "leitet",
+        "start": 31.782,
+        "end": 32.103
+      },
+      {
+        "text": "ihn.",
+        "start": 32.203,
+        "end": 32.463
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Du könntest sie allerdings auch einfach als Sekte bezeichnen.",
+    "start": 32.503,
+    "end": 38.207,
+    "words": [
+      {
+        "text": "Du",
+        "start": 32.503,
+        "end": 33.303
+      },
+      {
+        "text": "könntest",
+        "start": 33.343,
+        "end": 33.764
+      },
+      {
+        "text": "sie",
+        "start": 33.784,
+        "end": 33.904
+      },
+      {
+        "text": "allerdings",
+        "start": 33.924,
+        "end": 34.344
+      },
+      {
+        "text": "auch",
+        "start": 34.404,
+        "end": 34.624
+      },
+      {
+        "text": "einfach",
+        "start": 34.664,
+        "end": 34.965
+      },
+      {
+        "text": "als",
+        "start": 35.005,
+        "end": 35.145
+      },
+      {
+        "text": "Sekte",
+        "start": 35.205,
+        "end": 35.605
+      },
+      {
+        "text": "bezeichnen.",
+        "start": 35.645,
+        "end": 38.207
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Hab gehört, ihr Hauptquartier liegt in Julai.",
+    "start": 38.247,
+    "end": 46.313,
+    "words": [
+      {
+        "text": "Hab",
+        "start": 38.247,
+        "end": 38.427
+      },
+      {
+        "text": "gehört,",
+        "start": 38.447,
+        "end": 38.847
+      },
+      {
+        "text": "ihr",
+        "start": 38.887,
+        "end": 39.068
+      },
+      {
+        "text": "Hauptquartier",
+        "start": 39.088,
+        "end": 39.748
+      },
+      {
+        "text": "liegt",
+        "start": 39.768,
+        "end": 39.968
+      },
+      {
+        "text": "in",
+        "start": 40.028,
+        "end": 40.188
+      },
+      {
+        "text": "Julai.",
+        "start": 40.228,
+        "end": 46.313
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Unerträglich!",
+    "start": 46.353,
+    "end": 47.674,
+    "words": [
+      {
+        "text": "Unerträglich!",
+        "start": 46.353,
+        "end": 47.674
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Die Hitze macht mich echt fertig.",
+    "start": 47.694,
+    "end": 49.275,
+    "words": [
+      {
+        "text": "Die",
+        "start": 47.694,
+        "end": 47.854
+      },
+      {
+        "text": "Hitze",
+        "start": 47.874,
+        "end": 48.154
+      },
+      {
+        "text": "macht",
+        "start": 48.174,
+        "end": 48.334
+      },
+      {
+        "text": "mich",
+        "start": 48.374,
+        "end": 48.494
+      },
+      {
+        "text": "echt",
+        "start": 48.554,
+        "end": 48.795
+      },
+      {
+        "text": "fertig.",
+        "start": 48.835,
+        "end": 49.275
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": " Also eigentlich hatte dieser Wüstenstreifen die Farbe des Sandes, früher jedenfalls.",
+    "start": 50.46,
+    "end": 57.804,
+    "words": [
+      {
+        "text": "Also",
+        "start": 50.46,
+        "end": 50.7
+      },
+      {
+        "text": "eigentlich",
+        "start": 50.72,
+        "end": 51.581
+      },
+      {
+        "text": "hatte",
+        "start": 51.621,
+        "end": 51.921
+      },
+      {
+        "text": "dieser",
+        "start": 51.941,
+        "end": 52.221
+      },
+      {
+        "text": "Wüstenstreifen",
+        "start": 52.241,
+        "end": 53.762
+      },
+      {
+        "text": "die",
+        "start": 53.782,
+        "end": 53.902
+      },
+      {
+        "text": "Farbe",
+        "start": 53.942,
+        "end": 54.222
+      },
+      {
+        "text": "des",
+        "start": 54.262,
+        "end": 54.382
+      },
+      {
+        "text": "Sandes,",
+        "start": 54.422,
+        "end": 54.903
+      },
+      {
+        "text": "früher",
+        "start": 54.943,
+        "end": 55.323
+      },
+      {
+        "text": "jedenfalls.",
+        "start": 55.343,
+        "end": 57.804
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Bis in einer finsteren Nacht plötzlich aus dem Nichts eine Gestalt hervortrat.",
+    "start": 57.844,
+    "end": 64.548,
+    "words": [
+      {
+        "text": "Bis",
+        "start": 57.844,
+        "end": 58.004
+      },
+      {
+        "text": "in",
+        "start": 58.064,
+        "end": 58.165
+      },
+      {
+        "text": "einer",
+        "start": 58.205,
+        "end": 58.385
+      },
+      {
+        "text": "finsteren",
+        "start": 58.425,
+        "end": 58.825
+      },
+      {
+        "text": "Nacht",
+        "start": 58.865,
+        "end": 60.306
+      },
+      {
+        "text": "plötzlich",
+        "start": 60.326,
+        "end": 61.426
+      },
+      {
+        "text": "aus",
+        "start": 61.466,
+        "end": 61.667
+      },
+      {
+        "text": "dem",
+        "start": 61.687,
+        "end": 61.907
+      },
+      {
+        "text": "Nichts",
+        "start": 61.947,
+        "end": 62.247
+      },
+      {
+        "text": "eine",
+        "start": 62.287,
+        "end": 62.487
+      },
+      {
+        "text": "Gestalt",
+        "start": 62.507,
+        "end": 63.007
+      },
+      {
+        "text": "hervortrat.",
+        "start": 63.047,
+        "end": 64.548
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Ob es ein Mensch oder eine Bestie war, das weiß bis heute niemand.",
+    "start": 64.608,
+    "end": 69.751,
+    "words": [
+      {
+        "text": "Ob",
+        "start": 64.608,
+        "end": 64.748
+      },
+      {
+        "text": "es",
+        "start": 64.788,
+        "end": 64.928
+      },
+      {
+        "text": "ein",
+        "start": 64.968,
+        "end": 65.128
+      },
+      {
+        "text": "Mensch",
+        "start": 65.169,
+        "end": 66.049
+      },
+      {
+        "text": "oder",
+        "start": 66.129,
+        "end": 66.369
+      },
+      {
+        "text": "eine",
+        "start": 66.409,
+        "end": 66.629
+      },
+      {
+        "text": "Bestie",
+        "start": 66.669,
+        "end": 67.03
+      },
+      {
+        "text": "war,",
+        "start": 67.05,
+        "end": 67.35
+      },
+      {
+        "text": "das",
+        "start": 67.37,
+        "end": 67.59
+      },
+      {
+        "text": "weiß",
+        "start": 67.63,
+        "end": 67.95
+      },
+      {
+        "text": "bis",
+        "start": 67.99,
+        "end": 68.19
+      },
+      {
+        "text": "heute",
+        "start": 68.21,
+        "end": 68.63
+      },
+      {
+        "text": "niemand.",
+        "start": 68.65,
+        "end": 69.751
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Denn alle, deren Augen es erblickten, alle, deren Augen es sahen, wurden bis auf den Letzten massakriert.",
+    "start": 69.771,
+    "end": 78.056,
+    "words": [
+      {
+        "text": "Denn",
+        "start": 69.771,
+        "end": 70.051
+      },
+      {
+        "text": "alle,",
+        "start": 70.111,
+        "end": 70.391
+      },
+      {
+        "text": "deren",
+        "start": 70.411,
+        "end": 70.812
+      },
+      {
+        "text": "Augen",
+        "start": 70.852,
+        "end": 71.152
+      },
+      {
+        "text": "es",
+        "start": 71.252,
+        "end": 71.432
+      },
+      {
+        "text": "erblickten,",
+        "start": 71.472,
+        "end": 73.513
+      },
+      {
+        "text": "alle,",
+        "start": 73.573,
+        "end": 73.913
+      },
+      {
+        "text": "deren",
+        "start": 73.953,
+        "end": 74.394
+      },
+      {
+        "text": "Augen",
+        "start": 74.434,
+        "end": 74.714
+      },
+      {
+        "text": "es",
+        "start": 74.774,
+        "end": 74.934
+      },
+      {
+        "text": "sahen,",
+        "start": 74.974,
+        "end": 75.634
+      },
+      {
+        "text": "wurden",
+        "start": 75.654,
+        "end": 75.875
+      },
+      {
+        "text": "bis",
+        "start": 75.915,
+        "end": 76.175
+      },
+      {
+        "text": "auf",
+        "start": 76.195,
+        "end": 76.355
+      },
+      {
+        "text": "den",
+        "start": 76.395,
+        "end": 76.555
+      },
+      {
+        "text": "Letzten",
+        "start": 76.595,
+        "end": 77.115
+      },
+      {
+        "text": "massakriert.",
+        "start": 77.155,
+        "end": 78.056
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": " Über Nacht färbte also das Blut der Opfer die Wüste rot, tiefpurpurn, wie sie es immer noch ist.",
+    "start": 81.337,
+    "end": 87.305,
+    "words": [
+      {
+        "text": "Über",
+        "start": 81.337,
+        "end": 81.457
+      },
+      {
+        "text": "Nacht",
+        "start": 81.497,
+        "end": 81.857
+      },
+      {
+        "text": "färbte",
+        "start": 81.917,
+        "end": 82.298
+      },
+      {
+        "text": "also",
+        "start": 82.358,
+        "end": 82.578
+      },
+      {
+        "text": "das",
+        "start": 82.619,
+        "end": 82.779
+      },
+      {
+        "text": "Blut",
+        "start": 82.799,
+        "end": 83.099
+      },
+      {
+        "text": "der",
+        "start": 83.139,
+        "end": 83.34
+      },
+      {
+        "text": "Opfer",
+        "start": 83.4,
+        "end": 83.68
+      },
+      {
+        "text": "die",
+        "start": 83.7,
+        "end": 83.82
+      },
+      {
+        "text": "Wüste",
+        "start": 83.86,
+        "end": 84.221
+      },
+      {
+        "text": "rot,",
+        "start": 84.261,
+        "end": 84.822
+      },
+      {
+        "text": "tiefpurpurn,",
+        "start": 84.862,
+        "end": 85.923
+      },
+      {
+        "text": "wie",
+        "start": 85.963,
+        "end": 86.084
+      },
+      {
+        "text": "sie",
+        "start": 86.124,
+        "end": 86.264
+      },
+      {
+        "text": "es",
+        "start": 86.304,
+        "end": 86.524
+      },
+      {
+        "text": "immer",
+        "start": 86.564,
+        "end": 86.765
+      },
+      {
+        "text": "noch",
+        "start": 86.805,
+        "end": 87.045
+      },
+      {
+        "text": "ist.",
+        "start": 87.105,
+        "end": 87.305
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Na, war dir das denn gruselig genug?",
+    "start": 90.29,
+    "end": 94.295,
+    "words": [
+      {
+        "text": "Na,",
+        "start": 90.29,
+        "end": 91.171
+      },
+      {
+        "text": "war",
+        "start": 91.211,
+        "end": 91.451
+      },
+      {
+        "text": "dir",
+        "start": 91.471,
+        "end": 91.692
+      },
+      {
+        "text": "das",
+        "start": 91.712,
+        "end": 91.972
+      },
+      {
+        "text": "denn",
+        "start": 91.992,
+        "end": 92.212
+      },
+      {
+        "text": "gruselig",
+        "start": 92.232,
+        "end": 92.994
+      },
+      {
+        "text": "genug?",
+        "start": 93.034,
+        "end": 94.295
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Mich hat nur dein Geschrei erschreckt.",
+    "start": 94.336,
+    "end": 95.858,
+    "words": [
+      {
+        "text": "Mich",
+        "start": 94.336,
+        "end": 94.476
+      },
+      {
+        "text": "hat",
+        "start": 94.496,
+        "end": 94.596
+      },
+      {
+        "text": "nur",
+        "start": 94.656,
+        "end": 94.756
+      },
+      {
+        "text": "dein",
+        "start": 94.776,
+        "end": 94.976
+      },
+      {
+        "text": "Geschrei",
+        "start": 94.997,
+        "end": 95.317
+      },
+      {
+        "text": "erschreckt.",
+        "start": 95.357,
+        "end": 95.858
+      }
+    ]
+  }
+]
