@@ -1,0 +1,858 @@
+[
+  {
+    "id": 0,
+    "text": " Ey, sag mal, hast du das auch schon gewusst?",
+    "start": 1.303,
+    "end": 3.804,
+    "words": [
+      {
+        "text": "Ey,",
+        "start": 1.303,
+        "end": 1.403
+      },
+      {
+        "text": "sag",
+        "start": 1.423,
+        "end": 1.583
+      },
+      {
+        "text": "mal,",
+        "start": 1.643,
+        "end": 1.763
+      },
+      {
+        "text": "hast",
+        "start": 1.803,
+        "end": 1.923
+      },
+      {
+        "text": "du",
+        "start": 1.943,
+        "end": 2.023
+      },
+      {
+        "text": "das",
+        "start": 2.063,
+        "end": 2.163
+      },
+      {
+        "text": "auch",
+        "start": 2.183,
+        "end": 2.303
+      },
+      {
+        "text": "schon",
+        "start": 2.323,
+        "end": 2.483
+      },
+      {
+        "text": "gewusst?",
+        "start": 2.523,
+        "end": 3.804
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Wir beide sind offenbar der Sondergefahrenstufe zugeordnet worden.",
+    "start": 3.824,
+    "end": 6.884,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 3.824,
+        "end": 3.984
+      },
+      {
+        "text": "beide",
+        "start": 4.004,
+        "end": 4.224
+      },
+      {
+        "text": "sind",
+        "start": 4.264,
+        "end": 4.424
+      },
+      {
+        "text": "offenbar",
+        "start": 4.464,
+        "end": 4.784
+      },
+      {
+        "text": "der",
+        "start": 4.804,
+        "end": 4.944
+      },
+      {
+        "text": "Sondergefahrenstufe",
+        "start": 4.984,
+        "end": 5.944
+      },
+      {
+        "text": "zugeordnet",
+        "start": 6.004,
+        "end": 6.504
+      },
+      {
+        "text": "worden.",
+        "start": 6.544,
+        "end": 6.884
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Krasse Sache, oder?",
+    "start": 6.904,
+    "end": 8.504,
+    "words": [
+      {
+        "text": "Krasse",
+        "start": 6.904,
+        "end": 7.324
+      },
+      {
+        "text": "Sache,",
+        "start": 7.364,
+        "end": 7.624
+      },
+      {
+        "text": "oder?",
+        "start": 7.684,
+        "end": 8.504
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wir beide sind also ebenbürtig.",
+    "start": 8.544,
+    "end": 24.287,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 8.544,
+        "end": 8.924
+      },
+      {
+        "text": "beide",
+        "start": 8.964,
+        "end": 9.705
+      },
+      {
+        "text": "sind",
+        "start": 9.725,
+        "end": 9.965
+      },
+      {
+        "text": "also",
+        "start": 10.005,
+        "end": 10.285
+      },
+      {
+        "text": "ebenbürtig.",
+        "start": 10.365,
+        "end": 24.287
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Weiter so, mein Sonderling.",
+    "start": 24.327,
+    "end": 26.168,
+    "words": [
+      {
+        "text": "Weiter",
+        "start": 24.327,
+        "end": 24.747
+      },
+      {
+        "text": "so,",
+        "start": 24.787,
+        "end": 24.947
+      },
+      {
+        "text": "mein",
+        "start": 24.967,
+        "end": 25.167
+      },
+      {
+        "text": "Sonderling.",
+        "start": 25.187,
+        "end": 26.168
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Häng dich rein, du schaffst das.",
+    "start": 26.208,
+    "end": 27.448,
+    "words": [
+      {
+        "text": "Häng",
+        "start": 26.208,
+        "end": 26.368
+      },
+      {
+        "text": "dich",
+        "start": 26.388,
+        "end": 26.568
+      },
+      {
+        "text": "rein,",
+        "start": 26.628,
+        "end": 26.848
+      },
+      {
+        "text": "du",
+        "start": 26.868,
+        "end": 26.968
+      },
+      {
+        "text": "schaffst",
+        "start": 26.988,
+        "end": 27.328
+      },
+      {
+        "text": "das.",
+        "start": 27.368,
+        "end": 27.448
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Da freust du dich, was?",
+    "start": 32.387,
+    "end": 33.747,
+    "words": [
+      {
+        "text": "Da",
+        "start": 32.387,
+        "end": 32.487
+      },
+      {
+        "text": "freust",
+        "start": 32.527,
+        "end": 32.767
+      },
+      {
+        "text": "du",
+        "start": 32.787,
+        "end": 32.907
+      },
+      {
+        "text": "dich,",
+        "start": 32.927,
+        "end": 33.147
+      },
+      {
+        "text": "was?",
+        "start": 33.207,
+        "end": 33.747
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Willst du jetzt gelobt werden?",
+    "start": 33.767,
+    "end": 36.168,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 33.767,
+        "end": 33.987
+      },
+      {
+        "text": "du",
+        "start": 34.007,
+        "end": 34.147
+      },
+      {
+        "text": "jetzt",
+        "start": 34.167,
+        "end": 34.367
+      },
+      {
+        "text": "gelobt",
+        "start": 34.407,
+        "end": 34.788
+      },
+      {
+        "text": "werden?",
+        "start": 34.808,
+        "end": 36.168
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Aber anders als Menschen ist es für Fluchgeister wie uns nicht sonderlich schwierig, sich mittels Fluchkraft wieder zu regenerieren.",
+    "start": 36.208,
+    "end": 44.51,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 36.208,
+        "end": 36.468
+      },
+      {
+        "text": "anders",
+        "start": 36.508,
+        "end": 36.788
+      },
+      {
+        "text": "als",
+        "start": 36.828,
+        "end": 37.028
+      },
+      {
+        "text": "Menschen",
+        "start": 37.048,
+        "end": 37.388
+      },
+      {
+        "text": "ist",
+        "start": 37.428,
+        "end": 37.548
+      },
+      {
+        "text": "es",
+        "start": 37.588,
+        "end": 37.688
+      },
+      {
+        "text": "für",
+        "start": 37.728,
+        "end": 37.908
+      },
+      {
+        "text": "Fluchgeister",
+        "start": 37.948,
+        "end": 38.568
+      },
+      {
+        "text": "wie",
+        "start": 38.588,
+        "end": 38.788
+      },
+      {
+        "text": "uns",
+        "start": 38.828,
+        "end": 39.469
+      },
+      {
+        "text": "nicht",
+        "start": 39.509,
+        "end": 39.709
+      },
+      {
+        "text": "sonderlich",
+        "start": 39.729,
+        "end": 40.169
+      },
+      {
+        "text": "schwierig,",
+        "start": 40.209,
+        "end": 40.589
+      },
+      {
+        "text": "sich",
+        "start": 40.609,
+        "end": 40.769
+      },
+      {
+        "text": "mittels",
+        "start": 40.789,
+        "end": 41.089
+      },
+      {
+        "text": "Fluchkraft",
+        "start": 41.129,
+        "end": 41.549
+      },
+      {
+        "text": "wieder",
+        "start": 41.589,
+        "end": 41.789
+      },
+      {
+        "text": "zu",
+        "start": 41.809,
+        "end": 41.889
+      },
+      {
+        "text": "regenerieren.",
+        "start": 41.929,
+        "end": 44.51
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Weder du noch dieser Bengel begreifen, was Flüche wirklich sind.",
+    "start": 44.57,
+    "end": 51.191,
+    "words": [
+      {
+        "text": "Weder",
+        "start": 44.57,
+        "end": 45.01
+      },
+      {
+        "text": "du",
+        "start": 45.07,
+        "end": 46.09
+      },
+      {
+        "text": "noch",
+        "start": 46.13,
+        "end": 46.37
+      },
+      {
+        "text": "dieser",
+        "start": 46.39,
+        "end": 46.77
+      },
+      {
+        "text": "Bengel",
+        "start": 46.81,
+        "end": 47.71
+      },
+      {
+        "text": "begreifen,",
+        "start": 47.73,
+        "end": 48.23
+      },
+      {
+        "text": "was",
+        "start": 48.25,
+        "end": 48.41
+      },
+      {
+        "text": "Flüche",
+        "start": 48.45,
+        "end": 48.891
+      },
+      {
+        "text": "wirklich",
+        "start": 48.931,
+        "end": 49.351
+      },
+      {
+        "text": "sind.",
+        "start": 49.391,
+        "end": 51.191
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Willst du, dass ich es dir demonstriere?",
+    "start": 51.231,
+    "end": 54.232,
+    "words": [
+      {
+        "text": "Willst",
+        "start": 51.231,
+        "end": 51.511
+      },
+      {
+        "text": "du,",
+        "start": 51.531,
+        "end": 51.631
+      },
+      {
+        "text": "dass",
+        "start": 51.651,
+        "end": 51.791
+      },
+      {
+        "text": "ich",
+        "start": 51.831,
+        "end": 51.911
+      },
+      {
+        "text": "es",
+        "start": 51.951,
+        "end": 52.071
+      },
+      {
+        "text": "dir",
+        "start": 52.091,
+        "end": 52.251
+      },
+      {
+        "text": "demonstriere?",
+        "start": 52.291,
+        "end": 54.232
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Du brennst doch förmlich darauf.",
+    "start": 54.252,
+    "end": 55.552,
+    "words": [
+      {
+        "text": "Du",
+        "start": 54.252,
+        "end": 54.432
+      },
+      {
+        "text": "brennst",
+        "start": 54.452,
+        "end": 54.732
+      },
+      {
+        "text": "doch",
+        "start": 54.772,
+        "end": 54.892
+      },
+      {
+        "text": "förmlich",
+        "start": 54.932,
+        "end": 55.272
+      },
+      {
+        "text": "darauf.",
+        "start": 55.292,
+        "end": 55.552
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Ich zeig es dir.",
+    "start": 55.612,
+    "end": 57.092,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 55.612,
+        "end": 55.752
+      },
+      {
+        "text": "zeig",
+        "start": 55.792,
+        "end": 56.012
+      },
+      {
+        "text": "es",
+        "start": 56.052,
+        "end": 56.192
+      },
+      {
+        "text": "dir.",
+        "start": 56.232,
+        "end": 57.092
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Gleich siehst du, was echtes Choo-Choo zu ist, mein Lieber.",
+    "start": 57.112,
+    "end": 59.853,
+    "words": [
+      {
+        "text": "Gleich",
+        "start": 57.112,
+        "end": 57.392
+      },
+      {
+        "text": "siehst",
+        "start": 57.412,
+        "end": 57.632
+      },
+      {
+        "text": "du,",
+        "start": 57.652,
+        "end": 57.792
+      },
+      {
+        "text": "was",
+        "start": 57.832,
+        "end": 58.073
+      },
+      {
+        "text": "echtes",
+        "start": 58.133,
+        "end": 58.453
+      },
+      {
+        "text": "Choo-Choo",
+        "start": 58.493,
+        "end": 58.933
+      },
+      {
+        "text": "zu",
+        "start": 58.953,
+        "end": 59.133
+      },
+      {
+        "text": "ist,",
+        "start": 59.153,
+        "end": 59.313
+      },
+      {
+        "text": "mein",
+        "start": 59.393,
+        "end": 59.633
+      },
+      {
+        "text": "Lieber.",
+        "start": 59.673,
+        "end": 59.853
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": " Sphärenentfaltung.",
+    "start": 62.604,
+    "end": 72.49,
+    "words": [
+      {
+        "text": "Sphärenentfaltung.",
+        "start": 62.604,
+        "end": 72.49
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Pandemoniums Schrei.",
+    "start": 72.51,
+    "end": 81.016,
+    "words": [
+      {
+        "text": "Pandemoniums",
+        "start": 72.51,
+        "end": 73.411
+      },
+      {
+        "text": "Schrei.",
+        "start": 73.451,
+        "end": 81.016
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Wie seltsam.",
+    "start": 81.056,
+    "end": 81.896,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 81.056,
+        "end": 81.256
+      },
+      {
+        "text": "seltsam.",
+        "start": 81.296,
+        "end": 81.896
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Eigentlich wollte ich dich bloß filetieren, aber du leistest ja null Widerstand.",
+    "start": 81.936,
+    "end": 85.979,
+    "words": [
+      {
+        "text": "Eigentlich",
+        "start": 81.936,
+        "end": 82.297
+      },
+      {
+        "text": "wollte",
+        "start": 82.317,
+        "end": 82.517
+      },
+      {
+        "text": "ich",
+        "start": 82.537,
+        "end": 82.637
+      },
+      {
+        "text": "dich",
+        "start": 82.677,
+        "end": 82.817
+      },
+      {
+        "text": "bloß",
+        "start": 82.837,
+        "end": 83.057
+      },
+      {
+        "text": "filetieren,",
+        "start": 83.077,
+        "end": 84.018
+      },
+      {
+        "text": "aber",
+        "start": 84.078,
+        "end": 84.298
+      },
+      {
+        "text": "du",
+        "start": 84.318,
+        "end": 84.418
+      },
+      {
+        "text": "leistest",
+        "start": 84.458,
+        "end": 84.798
+      },
+      {
+        "text": "ja",
+        "start": 84.818,
+        "end": 84.978
+      },
+      {
+        "text": "null",
+        "start": 85.018,
+        "end": 85.259
+      },
+      {
+        "text": "Widerstand.",
+        "start": 85.299,
+        "end": 85.979
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Fast hätte ich's vergessen.",
+    "start": 87.28,
+    "end": 88.941,
+    "words": [
+      {
+        "text": "Fast",
+        "start": 87.28,
+        "end": 87.46
+      },
+      {
+        "text": "hätte",
+        "start": 87.48,
+        "end": 87.64
+      },
+      {
+        "text": "ich's",
+        "start": 87.66,
+        "end": 87.82
+      },
+      {
+        "text": "vergessen.",
+        "start": 87.86,
+        "end": 88.941
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Das hier wollte ich noch mitnehmen.",
+    "start": 88.961,
+    "end": 90.862,
+    "words": [
+      {
+        "text": "Das",
+        "start": 88.961,
+        "end": 89.141
+      },
+      {
+        "text": "hier",
+        "start": 89.181,
+        "end": 89.341
+      },
+      {
+        "text": "wollte",
+        "start": 89.361,
+        "end": 89.541
+      },
+      {
+        "text": "ich",
+        "start": 89.561,
+        "end": 89.661
+      },
+      {
+        "text": "noch",
+        "start": 89.701,
+        "end": 89.841
+      },
+      {
+        "text": "mitnehmen.",
+        "start": 89.881,
+        "end": 90.862
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Das Teil gehört jetzt mir.",
+    "start": 90.902,
+    "end": 91.943,
+    "words": [
+      {
+        "text": "Das",
+        "start": 90.902,
+        "end": 91.062
+      },
+      {
+        "text": "Teil",
+        "start": 91.102,
+        "end": 91.262
+      },
+      {
+        "text": "gehört",
+        "start": 91.302,
+        "end": 91.523
+      },
+      {
+        "text": "jetzt",
+        "start": 91.563,
+        "end": 91.823
+      },
+      {
+        "text": "mir.",
+        "start": 91.843,
+        "end": 91.943
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": " Was ist das denn?",
+    "start": 95.29,
+    "end": 96.134,
+    "words": [
+      {
+        "text": "Was",
+        "start": 95.29,
+        "end": 95.431
+      },
+      {
+        "text": "ist",
+        "start": 95.531,
+        "end": 95.813
+      },
+      {
+        "text": "das",
+        "start": 95.853,
+        "end": 96.014
+      },
+      {
+        "text": "denn?",
+        "start": 96.034,
+        "end": 96.134
+      }
+    ]
+  }
+]

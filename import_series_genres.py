@@ -29,13 +29,16 @@ def get_series_by_title(db: Database, title: str) -> Optional[Series]:
         logger.error(f"Error fetching series {title}: {str(e)}")
         return None
 
-def create_series(db: Database, title: str) -> Optional[Series]:
+def create_series(db: Database, title: str, series_id: int) -> Optional[Series]:
     """
-    Create a new series in the database.
+    Create a new series in the database with the specified ID.
     Returns None if creation fails.
     """
     try:
-        response = db.client.table('series').insert({'title': title}).execute()
+        response = db.client.table('series').insert({
+            'id': series_id,
+            'title': title
+        }).execute()
         if not response.data or len(response.data) == 0:
             logger.error(f"Failed to create series: {title}")
             return None
@@ -111,7 +114,7 @@ def get_or_create_genre(db: Database, name: str) -> Optional[Genre]:
 def import_series_genres(csv_path: str) -> None:
     """
     Import series and genres from a CSV file into the database.
-    The CSV should have two columns: Serie and Genres (comma-separated).
+    The CSV should have three columns: Id, Serie, and Genres (comma-separated).
     """
     if not os.path.exists(csv_path):
         logger.error(f"❌ CSV file not found: {csv_path}")
@@ -126,12 +129,18 @@ def import_series_genres(csv_path: str) -> None:
             next(reader)  # Skip header row
             
             for row in reader:
-                if len(row) != 2:
+                if len(row) != 3:
                     logger.error(f"❌ Invalid row format: {row}")
                     continue
                     
-                series_title = row[0].strip()
-                genres_str = row[1].strip()
+                try:
+                    series_id = int(row[0].strip())
+                except ValueError:
+                    logger.error(f"❌ Invalid series ID: {row[0]}")
+                    continue
+                    
+                series_title = row[1].strip()
+                genres_str = row[2].strip()
                 
                 if not series_title or not genres_str:
                     logger.error(f"❌ Empty series title or genres: {row}")
@@ -140,11 +149,11 @@ def import_series_genres(csv_path: str) -> None:
                 # Try to get existing series first
                 series = get_series_by_title(db, series_title)
                 if series is None:  # Series doesn't exist, create it
-                    series = create_series(db, series_title)
+                    series = create_series(db, series_title, series_id)
                     if series is None:
                         logger.error(f"❌ Failed to insert series: {series_title}")
                         continue
-                    logger.info(f"✨ Created new series: {series_title}")
+                    logger.info(f"✨ Created new series: {series_title} (ID: {series_id})")
                 else:
                     logger.info(f"📺 Using existing series: {series_title}")
                 

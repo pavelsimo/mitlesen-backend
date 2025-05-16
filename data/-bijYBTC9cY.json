@@ -1,0 +1,910 @@
+[
+  {
+    "id": 0,
+    "text": " Wurdest du versorgt?",
+    "start": 0.63,
+    "end": 1.45,
+    "words": [
+      {
+        "text": "Wurdest",
+        "start": 0.63,
+        "end": 0.87
+      },
+      {
+        "text": "du",
+        "start": 0.89,
+        "end": 1.05
+      },
+      {
+        "text": "versorgt?",
+        "start": 1.09,
+        "end": 1.45
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Ich hab Medizin bekommen.",
+    "start": 1.53,
+    "end": 11.554,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 1.53,
+        "end": 2.211
+      },
+      {
+        "text": "hab",
+        "start": 2.231,
+        "end": 2.411
+      },
+      {
+        "text": "Medizin",
+        "start": 2.451,
+        "end": 2.871
+      },
+      {
+        "text": "bekommen.",
+        "start": 2.911,
+        "end": 11.554
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Du riechst nach Alkohol.",
+    "start": 11.594,
+    "end": 13.395,
+    "words": [
+      {
+        "text": "Du",
+        "start": 11.594,
+        "end": 11.734
+      },
+      {
+        "text": "riechst",
+        "start": 11.754,
+        "end": 11.994
+      },
+      {
+        "text": "nach",
+        "start": 12.034,
+        "end": 12.214
+      },
+      {
+        "text": "Alkohol.",
+        "start": 12.254,
+        "end": 13.395
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Ich hatte ja auch... Was hattest du?",
+    "start": 13.455,
+    "end": 16.236,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 13.455,
+        "end": 13.575
+      },
+      {
+        "text": "hatte",
+        "start": 13.615,
+        "end": 13.895
+      },
+      {
+        "text": "ja",
+        "start": 13.915,
+        "end": 14.035
+      },
+      {
+        "text": "auch...",
+        "start": 14.095,
+        "end": 14.375
+      },
+      {
+        "text": "Was",
+        "start": 14.415,
+        "end": 14.555
+      },
+      {
+        "text": "hattest",
+        "start": 14.575,
+        "end": 14.935
+      },
+      {
+        "text": "du?",
+        "start": 14.955,
+        "end": 16.236
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Gideon.",
+    "start": 16.296,
+    "end": 17.316,
+    "words": [
+      {
+        "text": "Gideon.",
+        "start": 16.296,
+        "end": 17.316
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Cocktail.",
+    "start": 17.356,
+    "end": 18.277,
+    "words": [
+      {
+        "text": "Cocktail.",
+        "start": 17.356,
+        "end": 18.277
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Der ist äußerst wirkungsvoll.",
+    "start": 18.297,
+    "end": 20.277,
+    "words": [
+      {
+        "text": "Der",
+        "start": 18.297,
+        "end": 18.517
+      },
+      {
+        "text": "ist",
+        "start": 18.577,
+        "end": 18.817
+      },
+      {
+        "text": "äußerst",
+        "start": 18.877,
+        "end": 19.297
+      },
+      {
+        "text": "wirkungsvoll.",
+        "start": 19.337,
+        "end": 20.277
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Ach so, Gideon hat dir seinen Spezialkocktail gemacht.",
+    "start": 20.337,
+    "end": 23.038,
+    "words": [
+      {
+        "text": "Ach",
+        "start": 20.337,
+        "end": 20.538
+      },
+      {
+        "text": "so,",
+        "start": 20.578,
+        "end": 20.998
+      },
+      {
+        "text": "Gideon",
+        "start": 21.038,
+        "end": 21.338
+      },
+      {
+        "text": "hat",
+        "start": 21.378,
+        "end": 21.478
+      },
+      {
+        "text": "dir",
+        "start": 21.518,
+        "end": 21.638
+      },
+      {
+        "text": "seinen",
+        "start": 21.658,
+        "end": 21.858
+      },
+      {
+        "text": "Spezialkocktail",
+        "start": 21.878,
+        "end": 22.738
+      },
+      {
+        "text": "gemacht.",
+        "start": 22.778,
+        "end": 23.038
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Und unterwegs hatte ich auch das eine oder andere Schlückchen.",
+    "start": 23.679,
+    "end": 27.4,
+    "words": [
+      {
+        "text": "Und",
+        "start": 23.679,
+        "end": 23.959
+      },
+      {
+        "text": "unterwegs",
+        "start": 24.019,
+        "end": 24.399
+      },
+      {
+        "text": "hatte",
+        "start": 24.439,
+        "end": 24.579
+      },
+      {
+        "text": "ich",
+        "start": 24.619,
+        "end": 24.679
+      },
+      {
+        "text": "auch",
+        "start": 24.779,
+        "end": 24.899
+      },
+      {
+        "text": "das",
+        "start": 24.919,
+        "end": 25.059
+      },
+      {
+        "text": "eine",
+        "start": 25.119,
+        "end": 25.239
+      },
+      {
+        "text": "oder",
+        "start": 25.279,
+        "end": 25.479
+      },
+      {
+        "text": "andere",
+        "start": 25.499,
+        "end": 25.739
+      },
+      {
+        "text": "Schlückchen.",
+        "start": 25.779,
+        "end": 27.4
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Ich nehme an, deshalb kommst du nicht mehr vom Sessel hoch?",
+    "start": 27.44,
+    "end": 29.761,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 27.44,
+        "end": 27.54
+      },
+      {
+        "text": "nehme",
+        "start": 27.6,
+        "end": 27.88
+      },
+      {
+        "text": "an,",
+        "start": 27.92,
+        "end": 28.08
+      },
+      {
+        "text": "deshalb",
+        "start": 28.1,
+        "end": 28.5
+      },
+      {
+        "text": "kommst",
+        "start": 28.52,
+        "end": 28.721
+      },
+      {
+        "text": "du",
+        "start": 28.741,
+        "end": 28.821
+      },
+      {
+        "text": "nicht",
+        "start": 28.861,
+        "end": 29.001
+      },
+      {
+        "text": "mehr",
+        "start": 29.021,
+        "end": 29.141
+      },
+      {
+        "text": "vom",
+        "start": 29.181,
+        "end": 29.341
+      },
+      {
+        "text": "Sessel",
+        "start": 29.361,
+        "end": 29.621
+      },
+      {
+        "text": "hoch?",
+        "start": 29.661,
+        "end": 29.761
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Ich würde sagen, so ungefähr kann man das ausdrücken, so ungefähr.",
+    "start": 30.56,
+    "end": 34.743,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 30.56,
+        "end": 30.66
+      },
+      {
+        "text": "würde",
+        "start": 30.68,
+        "end": 30.84
+      },
+      {
+        "text": "sagen,",
+        "start": 30.86,
+        "end": 30.98
+      },
+      {
+        "text": "so",
+        "start": 31.02,
+        "end": 31.121
+      },
+      {
+        "text": "ungefähr",
+        "start": 31.141,
+        "end": 31.481
+      },
+      {
+        "text": "kann",
+        "start": 31.501,
+        "end": 31.681
+      },
+      {
+        "text": "man",
+        "start": 31.721,
+        "end": 31.841
+      },
+      {
+        "text": "das",
+        "start": 31.881,
+        "end": 32.041
+      },
+      {
+        "text": "ausdrücken,",
+        "start": 32.061,
+        "end": 32.541
+      },
+      {
+        "text": "so",
+        "start": 32.561,
+        "end": 32.662
+      },
+      {
+        "text": "ungefähr.",
+        "start": 32.702,
+        "end": 34.743
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Genauso, nicht ungefähr.",
+    "start": 34.783,
+    "end": 38.785,
+    "words": [
+      {
+        "text": "Genauso,",
+        "start": 34.783,
+        "end": 35.343
+      },
+      {
+        "text": "nicht",
+        "start": 35.363,
+        "end": 35.503
+      },
+      {
+        "text": "ungefähr.",
+        "start": 35.543,
+        "end": 38.785
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Halt!",
+    "start": 44.869,
+    "end": 45.549,
+    "words": [
+      {
+        "text": "Halt!",
+        "start": 44.869,
+        "end": 45.549
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Stopp!",
+    "start": 45.609,
+    "end": 46.17,
+    "words": [
+      {
+        "text": "Stopp!",
+        "start": 45.609,
+        "end": 46.17
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Wie entscheide ich?",
+    "start": 46.21,
+    "end": 47.971,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 46.21,
+        "end": 46.33
+      },
+      {
+        "text": "entscheide",
+        "start": 46.37,
+        "end": 46.89
+      },
+      {
+        "text": "ich?",
+        "start": 46.93,
+        "end": 47.971
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Verfall nicht gleich in Panik.",
+    "start": 48.011,
+    "end": 50.192,
+    "words": [
+      {
+        "text": "Verfall",
+        "start": 48.011,
+        "end": 48.391
+      },
+      {
+        "text": "nicht",
+        "start": 48.411,
+        "end": 48.591
+      },
+      {
+        "text": "gleich",
+        "start": 48.631,
+        "end": 48.831
+      },
+      {
+        "text": "in",
+        "start": 48.872,
+        "end": 49.032
+      },
+      {
+        "text": "Panik.",
+        "start": 49.052,
+        "end": 50.192
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Ist es in deinem Liebesroman nicht genauso?",
+    "start": 50.232,
+    "end": 52.694,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 50.232,
+        "end": 50.352
+      },
+      {
+        "text": "es",
+        "start": 50.412,
+        "end": 50.513
+      },
+      {
+        "text": "in",
+        "start": 50.553,
+        "end": 50.673
+      },
+      {
+        "text": "deinem",
+        "start": 50.693,
+        "end": 50.893
+      },
+      {
+        "text": "Liebesroman",
+        "start": 50.913,
+        "end": 51.473
+      },
+      {
+        "text": "nicht",
+        "start": 51.493,
+        "end": 51.673
+      },
+      {
+        "text": "genauso?",
+        "start": 51.713,
+        "end": 52.694
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Da hat der Ritter die Prinzessin auch getragen.",
+    "start": 52.734,
+    "end": 56.156,
+    "words": [
+      {
+        "text": "Da",
+        "start": 52.734,
+        "end": 52.874
+      },
+      {
+        "text": "hat",
+        "start": 52.894,
+        "end": 53.034
+      },
+      {
+        "text": "der",
+        "start": 53.054,
+        "end": 53.134
+      },
+      {
+        "text": "Ritter",
+        "start": 53.174,
+        "end": 53.374
+      },
+      {
+        "text": "die",
+        "start": 53.394,
+        "end": 53.494
+      },
+      {
+        "text": "Prinzessin",
+        "start": 53.514,
+        "end": 54.055
+      },
+      {
+        "text": "auch",
+        "start": 54.075,
+        "end": 54.235
+      },
+      {
+        "text": "getragen.",
+        "start": 54.275,
+        "end": 56.156
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Ich bin die Ruhe selbst.",
+    "start": 56.196,
+    "end": 57.637,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 56.196,
+        "end": 56.596
+      },
+      {
+        "text": "bin",
+        "start": 56.616,
+        "end": 56.816
+      },
+      {
+        "text": "die",
+        "start": 56.856,
+        "end": 56.997
+      },
+      {
+        "text": "Ruhe",
+        "start": 57.037,
+        "end": 57.317
+      },
+      {
+        "text": "selbst.",
+        "start": 57.357,
+        "end": 57.637
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": " Du musst schon ziemlich betrunken sein, so wie du rumlalzt.",
+    "start": 58.96,
+    "end": 61.563,
+    "words": [
+      {
+        "text": "Du",
+        "start": 58.96,
+        "end": 59.06
+      },
+      {
+        "text": "musst",
+        "start": 59.08,
+        "end": 59.22
+      },
+      {
+        "text": "schon",
+        "start": 59.24,
+        "end": 59.441
+      },
+      {
+        "text": "ziemlich",
+        "start": 59.461,
+        "end": 59.761
+      },
+      {
+        "text": "betrunken",
+        "start": 59.801,
+        "end": 60.222
+      },
+      {
+        "text": "sein,",
+        "start": 60.242,
+        "end": 60.382
+      },
+      {
+        "text": "so",
+        "start": 60.402,
+        "end": 60.482
+      },
+      {
+        "text": "wie",
+        "start": 60.502,
+        "end": 60.582
+      },
+      {
+        "text": "du",
+        "start": 60.602,
+        "end": 60.682
+      },
+      {
+        "text": "rumlalzt.",
+        "start": 60.702,
+        "end": 61.563
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Halt dich an mir fest.",
+    "start": 61.583,
+    "end": 63.085,
+    "words": [
+      {
+        "text": "Halt",
+        "start": 61.583,
+        "end": 61.764
+      },
+      {
+        "text": "dich",
+        "start": 61.784,
+        "end": 61.904
+      },
+      {
+        "text": "an",
+        "start": 61.944,
+        "end": 62.044
+      },
+      {
+        "text": "mir",
+        "start": 62.064,
+        "end": 62.244
+      },
+      {
+        "text": "fest.",
+        "start": 62.284,
+        "end": 63.085
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Und übergib dich nicht.",
+    "start": 63.145,
+    "end": 64.207,
+    "words": [
+      {
+        "text": "Und",
+        "start": 63.145,
+        "end": 63.406
+      },
+      {
+        "text": "übergib",
+        "start": 63.446,
+        "end": 63.806
+      },
+      {
+        "text": "dich",
+        "start": 63.826,
+        "end": 64.006
+      },
+      {
+        "text": "nicht.",
+        "start": 64.046,
+        "end": 64.207
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ich übergebe mich doch nicht.",
+    "start": 64.307,
+    "end": 65.728,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 64.307,
+        "end": 64.387
+      },
+      {
+        "text": "übergebe",
+        "start": 64.407,
+        "end": 64.827
+      },
+      {
+        "text": "mich",
+        "start": 64.867,
+        "end": 65.028
+      },
+      {
+        "text": "doch",
+        "start": 65.068,
+        "end": 65.248
+      },
+      {
+        "text": "nicht.",
+        "start": 65.308,
+        "end": 65.728
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Ich hab mich noch nie in meinem ganzen Leben übergeben.",
+    "start": 65.768,
+    "end": 68.252,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 65.768,
+        "end": 65.849
+      },
+      {
+        "text": "hab",
+        "start": 65.889,
+        "end": 66.009
+      },
+      {
+        "text": "mich",
+        "start": 66.029,
+        "end": 66.149
+      },
+      {
+        "text": "noch",
+        "start": 66.169,
+        "end": 66.309
+      },
+      {
+        "text": "nie",
+        "start": 66.329,
+        "end": 66.489
+      },
+      {
+        "text": "in",
+        "start": 66.529,
+        "end": 66.589
+      },
+      {
+        "text": "meinem",
+        "start": 66.61,
+        "end": 66.81
+      },
+      {
+        "text": "ganzen",
+        "start": 66.85,
+        "end": 67.09
+      },
+      {
+        "text": "Leben",
+        "start": 67.13,
+        "end": 67.431
+      },
+      {
+        "text": "übergeben.",
+        "start": 67.471,
+        "end": 68.252
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Ist alles nur deine Schuld.",
+    "start": 68.312,
+    "end": 71.936,
+    "words": [
+      {
+        "text": "Ist",
+        "start": 68.312,
+        "end": 68.372
+      },
+      {
+        "text": "alles",
+        "start": 68.412,
+        "end": 68.612
+      },
+      {
+        "text": "nur",
+        "start": 68.652,
+        "end": 68.972
+      },
+      {
+        "text": "deine",
+        "start": 68.992,
+        "end": 69.233
+      },
+      {
+        "text": "Schuld.",
+        "start": 69.253,
+        "end": 71.936
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Na klar, wie immer.",
+    "start": 71.996,
+    "end": 72.977,
+    "words": [
+      {
+        "text": "Na",
+        "start": 71.996,
+        "end": 72.156
+      },
+      {
+        "text": "klar,",
+        "start": 72.196,
+        "end": 72.577
+      },
+      {
+        "text": "wie",
+        "start": 72.597,
+        "end": 72.757
+      },
+      {
+        "text": "immer.",
+        "start": 72.797,
+        "end": 72.977
+      }
+    ]
+  }
+]

@@ -79,7 +79,14 @@ def download_audio(youtube_id: str) -> bool:
         logger.warning(f"⚠️ Audio file already exists: {audio_file}. Skipping download.")
         return True
     
-    cmd = [sys.executable, "1_download_youtube_audio.py", youtube_id, DATA_DIR]
+    # Use a list for command arguments to properly handle YouTube IDs starting with "-"
+    cmd = [
+        sys.executable,
+        "1_download_youtube_audio.py",
+        "--",
+        youtube_id,
+        DATA_DIR
+    ]
     result = run_command(cmd, "Audio download")
     
     if result:
@@ -109,7 +116,7 @@ def generate_transcript(youtube_id: str) -> bool:
     
     cmd = [
         sys.executable, 
-        "2_audio_to_json_transcript.py", 
+        "2_audio_to_json_transcript.py",
         audio_file, 
         "--model", "large-v2", 
         "--device", "cuda"
@@ -143,9 +150,9 @@ def process_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
     cmd = [
         sys.executable,
         "3_json_transcript_to_supabase.py",
-        "--youtube_id", youtube_id,
-        "--title", title,
-        "--is_premium", is_premium
+        f"--youtube_id={youtube_id}",
+        f"--title={title}",
+        f"--is_premium={is_premium}",
     ]
     result = run_command(cmd, "Transcript processing and upload")
     if result:

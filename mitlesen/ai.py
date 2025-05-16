@@ -1,12 +1,15 @@
 import os
-from typing import Iterator, Optional
+from typing import Iterator, Optional, Type, TypeVar, Generic, Any
 from openai import OpenAI
 from google import genai
 from dotenv import load_dotenv
+from pydantic import BaseModel
 
 load_dotenv()
 
 BACKEND = 'gemini' # openai, gemini
+
+T = TypeVar('T', bound=BaseModel)
 
 class CompletionClient:
     def __init__(
@@ -20,18 +23,13 @@ class CompletionClient:
         self.model_gemini = model_gemini
         self.backend = backend.lower()
         self.system_instruction = system_instruction
-        # TODO(Pavel): Gemini models are accessible using the OpenAI libraries
-        # https://ai.google.dev/gemini-api/docs/openai
-        # https://github.com/google-gemini/cookbook/blob/main/quickstarts/rest/JSON_mode_REST.ipynb
+        
         if self.backend == "openai":
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
             self.model = model_openai
-            # start with just the system message
             self._messages = [{"role": "system", "content": self.system_instruction}]
         elif self.backend == "gemini":
-            client = genai.Client(api_key=os.getenv("GEMINI_KEY"))
-            # start a persistent chat session
-            self.chat = client.chats.create(model=model_gemini)
+            self.client = genai.Client(api_key=os.getenv("GEMINI_KEY"))
         else:
             raise ValueError(f"Unsupported backend: {backend}")
 
@@ -39,15 +37,14 @@ class CompletionClient:
         """Clear conversation history (but keep the system instruction)."""
         if self.backend == "openai":
             self._messages = [{"role": "system", "content": self.system_instruction}]
-        elif self.backend == "gemini":
-            # start a fresh Gemini chat
-            client = genai.Client(api_key=os.getenv("GEMINI_KEY"))
-            self.chat = client.chats.create(model=self.chat.model)
 
-    def complete(self, prompt: str) -> str:
+    def complete(self, prompt: str, response_schema: Optional[Type[T]] = None) -> str:
         """
         Send one non-streaming request and get the full reply.
-        Appends the user prompt to history under the hood.
+        
+        Args:
+            prompt: The prompt to send to the model
+            response_schema: Optional Pydantic model class that defines the expected response schema
         """
         if self.backend == "openai":
             self._messages.append({"role": "user", "content": prompt})
@@ -59,17 +56,20 @@ class CompletionClient:
             return resp.choices[0].message.content
 
         else:  # gemini
-            # for Gemini, just send into the existing chat session
-            chunk = self.chat.send_message(
-                prompt,
-                config={
-                    'response_mime_type': 'application/json',
-                    # 'generation_config': {
-                    #     'response_format': {'type': 'json_object'}
-                    # }
-                }
+            config = {
+                'response_mime_type': 'application/json',
+            }
+            
+            if response_schema:
+                config['response_schema'] = response_schema
+            
+            response = self.client.models.generate_content(
+                model=self.model_gemini,
+                contents=prompt,
+                config=config
             )
-            return chunk.text
+            
+            return response.text
 
 
 class CompletionStreamClient:

@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from mitlesen.ai import CompletionClient
 from mitlesen.db import Database, Video
 from mitlesen.logger import logger
+from mitlesen.schema import Sentence, Transcript
 
 load_dotenv()
 
@@ -37,60 +38,6 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
     MAX_WORDS_PER_BATCH = 30  # Maximum number of words per batch
     MAX_RETRIES = 10  # Maximum number of retries for a failed batch
 
-    schema = """
-    {
-      "$schema": "http://json-schema.org/draft-07/schema#",
-      "type": "object",
-      "properties": {
-        "id": {
-          "type": "integer"
-        },
-        "text": {
-          "type": "string"
-        },
-        "translation": {
-          "type": "string"
-        },
-        "start": {
-          "type": "number"
-        },
-        "end": {
-          "type": "number"
-        },
-        "words": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "properties": {
-              "text": {
-                "type": "string"
-              },
-              "start": {
-                "type": "number"
-              },
-              "end": {
-                "type": "number"
-              },
-              "translation": {
-                "type": "string"
-              },
-              "type": {
-                "type": "string"
-              },
-              "case": {
-                "type": "string"
-              }
-            },
-            "required": ["text", "start", "end", "type", "case"],
-            "additionalProperties": false
-          }
-        }
-      },
-      "required": ["id", "text", "translation", "start", "end", "words"],
-      "additionalProperties": false
-    }
-    """
-
     db = Database()
 
     transcript_path = os.path.join(DATA_FOLDER, youtube_id + '.json')
@@ -119,15 +66,11 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 # Build batch until we hit the word limit or run out of sentences
                 while current_idx < total_sentences and word_count < MAX_WORDS_PER_BATCH:
                     current_sentence = transcript[current_idx]
-                    # Count words in the sentence text
                     sentence_word_count = len(current_sentence["text"].split())
                     
-                    # If adding this sentence would exceed the limit and batch isn't empty, 
-                    # don't add it (unless it's the first sentence in the batch)
                     if word_count + sentence_word_count > MAX_WORDS_PER_BATCH and batch_sentences:
                         break
                     
-                    # Add sentence to batch
                     batch_sentences.append(current_sentence)
                     word_count += sentence_word_count
                     current_idx += 1
@@ -158,37 +101,9 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
 
                     # Constraints
                     - Only return the JSON output. Do not include any explanations, comments, or additional text.
-                    - Do not use markdown formatting or code blocks (e.g., do not use triple backticks or any syntax highlighting).
-                    - Follow this sample schema exactly for each sentence: {schema}
-                    - Make sure the words appears in the same order that are given in the transcript.
+                    - Do not use markdown formatting or code blocks.
+                    - Make sure the words appear in the same order that are given in the transcript.
                     - Return an array of JSON objects, one for each input sentence.
-
-                    # Example for One Sentence
-                      {{
-                        "id": 0,
-                        "text": "Wenn wir",
-                        "translation": "When we",
-                        "start": 0.16,
-                        "end": 1.48,
-                        "words": [
-                          {{
-                            "text": "Wenn",
-                            "start": 0.16,
-                            "end": 1.3,
-                            "translation": "when",
-                            "type": "conjunction",
-                            "case": ""                                
-                          }},
-                          {{
-                            "text": "wir",
-                            "start": 1.3,
-                            "end": 1.48,
-                            "translation": "we",
-                            "type": "pronoun",
-                            "case": "nominativ"
-                          }}
-                        ]
-                      }}                                                 
                     
                     # Input JSON Array
                     {sentences_json}
@@ -199,20 +114,19 @@ def process_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 
                 while retry_count < MAX_RETRIES and not success:
                     try:
-                        completion = client.complete(prompt)
-                        logger.info(completion)
-                        processed_batch: List[Dict[str, Any]] = json.loads(completion)
+                        # Use the new schema-based completion
+                        completion = client.complete(prompt, response_schema=Transcript)
+                        processed_batch: List[Dict[str, Any]] = Transcript.model_validate_json(completion).root
                         
                         # Update the original transcript with processed data
                         for i, sentence in enumerate(processed_batch):
                             original_idx = batch_start_idx + i
                             if original_idx < total_sentences:
                                 # Add translation to original sentence
-                                transcript[original_idx]["translation"] = sentence["translation"]
-                                
+                                transcript[original_idx]["translation"] = sentence.translation
                                 # Update word data in original sentence
                                 for j, (orig_word, proc_word) in enumerate(
-                                    zip(transcript[original_idx]["words"], sentence["words"])
+                                    zip(transcript[original_idx]["words"], [w.model_dump() for w in sentence.words])
                                 ):
                                     # Merge the processed word info with original word data
                                     transcript[original_idx]["words"][j] = proc_word | orig_word

@@ -1,0 +1,896 @@
+[
+  {
+    "id": 0,
+    "text": " Ich hab Durst.",
+    "start": 4.272,
+    "end": 6.253,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.272,
+        "end": 4.412
+      },
+      {
+        "text": "hab",
+        "start": 4.452,
+        "end": 4.632
+      },
+      {
+        "text": "Durst.",
+        "start": 4.652,
+        "end": 6.253
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Und du bist sicher, dass er hier ist?",
+    "start": 6.313,
+    "end": 8.533,
+    "words": [
+      {
+        "text": "Und",
+        "start": 6.313,
+        "end": 6.433
+      },
+      {
+        "text": "du",
+        "start": 6.473,
+        "end": 6.553
+      },
+      {
+        "text": "bist",
+        "start": 6.573,
+        "end": 6.813
+      },
+      {
+        "text": "sicher,",
+        "start": 6.853,
+        "end": 7.073
+      },
+      {
+        "text": "dass",
+        "start": 7.113,
+        "end": 7.233
+      },
+      {
+        "text": "er",
+        "start": 7.293,
+        "end": 7.393
+      },
+      {
+        "text": "hier",
+        "start": 7.433,
+        "end": 7.613
+      },
+      {
+        "text": "ist?",
+        "start": 7.673,
+        "end": 8.533
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Dieser humanoide Taifun?",
+    "start": 8.573,
+    "end": 10.714,
+    "words": [
+      {
+        "text": "Dieser",
+        "start": 8.573,
+        "end": 8.833
+      },
+      {
+        "text": "humanoide",
+        "start": 8.873,
+        "end": 9.553
+      },
+      {
+        "text": "Taifun?",
+        "start": 9.573,
+        "end": 10.714
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Oder so ähnlich.",
+    "start": 10.754,
+    "end": 12.634,
+    "words": [
+      {
+        "text": "Oder",
+        "start": 10.754,
+        "end": 10.974
+      },
+      {
+        "text": "so",
+        "start": 10.994,
+        "end": 11.154
+      },
+      {
+        "text": "ähnlich.",
+        "start": 11.234,
+        "end": 12.634
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Was denn, was denn?",
+    "start": 12.694,
+    "end": 13.634,
+    "words": [
+      {
+        "text": "Was",
+        "start": 12.694,
+        "end": 12.894
+      },
+      {
+        "text": "denn,",
+        "start": 12.934,
+        "end": 13.094
+      },
+      {
+        "text": "was",
+        "start": 13.134,
+        "end": 13.354
+      },
+      {
+        "text": "denn?",
+        "start": 13.394,
+        "end": 13.634
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Hast du echt nie von ihm gehört?",
+    "start": 13.694,
+    "end": 15.955,
+    "words": [
+      {
+        "text": "Hast",
+        "start": 13.694,
+        "end": 13.874
+      },
+      {
+        "text": "du",
+        "start": 13.894,
+        "end": 14.074
+      },
+      {
+        "text": "echt",
+        "start": 14.114,
+        "end": 14.334
+      },
+      {
+        "text": "nie",
+        "start": 14.374,
+        "end": 14.514
+      },
+      {
+        "text": "von",
+        "start": 14.554,
+        "end": 14.634
+      },
+      {
+        "text": "ihm",
+        "start": 14.675,
+        "end": 14.815
+      },
+      {
+        "text": "gehört?",
+        "start": 14.855,
+        "end": 15.955
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Wer es mit ihm zu tun kriegt, ist so gut wie erledigt.",
+    "start": 15.995,
+    "end": 18.915,
+    "words": [
+      {
+        "text": "Wer",
+        "start": 15.995,
+        "end": 16.115
+      },
+      {
+        "text": "es",
+        "start": 16.155,
+        "end": 16.255
+      },
+      {
+        "text": "mit",
+        "start": 16.295,
+        "end": 16.415
+      },
+      {
+        "text": "ihm",
+        "start": 16.475,
+        "end": 16.655
+      },
+      {
+        "text": "zu",
+        "start": 16.695,
+        "end": 16.835
+      },
+      {
+        "text": "tun",
+        "start": 16.875,
+        "end": 17.075
+      },
+      {
+        "text": "kriegt,",
+        "start": 17.115,
+        "end": 17.355
+      },
+      {
+        "text": "ist",
+        "start": 17.395,
+        "end": 17.595
+      },
+      {
+        "text": "so",
+        "start": 17.615,
+        "end": 17.735
+      },
+      {
+        "text": "gut",
+        "start": 17.775,
+        "end": 17.915
+      },
+      {
+        "text": "wie",
+        "start": 17.955,
+        "end": 18.075
+      },
+      {
+        "text": "erledigt.",
+        "start": 18.115,
+        "end": 18.915
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Der Typ ist eine Naturkatastrophe auf zwei Beinen.",
+    "start": 18.935,
+    "end": 21.776,
+    "words": [
+      {
+        "text": "Der",
+        "start": 18.935,
+        "end": 19.076
+      },
+      {
+        "text": "Typ",
+        "start": 19.136,
+        "end": 19.296
+      },
+      {
+        "text": "ist",
+        "start": 19.316,
+        "end": 19.416
+      },
+      {
+        "text": "eine",
+        "start": 19.436,
+        "end": 19.636
+      },
+      {
+        "text": "Naturkatastrophe",
+        "start": 19.676,
+        "end": 20.556
+      },
+      {
+        "text": "auf",
+        "start": 20.576,
+        "end": 20.736
+      },
+      {
+        "text": "zwei",
+        "start": 20.776,
+        "end": 20.976
+      },
+      {
+        "text": "Beinen.",
+        "start": 21.016,
+        "end": 21.776
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Deswegen nennt man ihn auch so.",
+    "start": 21.816,
+    "end": 23.577,
+    "words": [
+      {
+        "text": "Deswegen",
+        "start": 21.816,
+        "end": 22.216
+      },
+      {
+        "text": "nennt",
+        "start": 22.256,
+        "end": 22.496
+      },
+      {
+        "text": "man",
+        "start": 22.516,
+        "end": 22.636
+      },
+      {
+        "text": "ihn",
+        "start": 22.676,
+        "end": 22.776
+      },
+      {
+        "text": "auch",
+        "start": 22.796,
+        "end": 22.936
+      },
+      {
+        "text": "so.",
+        "start": 22.976,
+        "end": 23.577
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Humanoider Taifun?",
+    "start": 23.637,
+    "end": 25.117,
+    "words": [
+      {
+        "text": "Humanoider",
+        "start": 23.637,
+        "end": 24.557
+      },
+      {
+        "text": "Taifun?",
+        "start": 24.597,
+        "end": 25.117
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": " Ach, ich bitte dich, wer glaubt denn sowas?",
+    "start": 27.541,
+    "end": 29.482,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 27.541,
+        "end": 27.721
+      },
+      {
+        "text": "ich",
+        "start": 27.741,
+        "end": 27.861
+      },
+      {
+        "text": "bitte",
+        "start": 27.881,
+        "end": 28.121
+      },
+      {
+        "text": "dich,",
+        "start": 28.161,
+        "end": 28.261
+      },
+      {
+        "text": "wer",
+        "start": 28.281,
+        "end": 28.441
+      },
+      {
+        "text": "glaubt",
+        "start": 28.481,
+        "end": 28.681
+      },
+      {
+        "text": "denn",
+        "start": 28.701,
+        "end": 28.901
+      },
+      {
+        "text": "sowas?",
+        "start": 28.941,
+        "end": 29.482
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Als ob's so ein menschliches Monster gäbe.",
+    "start": 29.522,
+    "end": 31.482,
+    "words": [
+      {
+        "text": "Als",
+        "start": 29.522,
+        "end": 29.682
+      },
+      {
+        "text": "ob's",
+        "start": 29.722,
+        "end": 29.822
+      },
+      {
+        "text": "so",
+        "start": 29.862,
+        "end": 29.962
+      },
+      {
+        "text": "ein",
+        "start": 29.982,
+        "end": 30.102
+      },
+      {
+        "text": "menschliches",
+        "start": 30.122,
+        "end": 30.542
+      },
+      {
+        "text": "Monster",
+        "start": 30.582,
+        "end": 30.922
+      },
+      {
+        "text": "gäbe.",
+        "start": 30.962,
+        "end": 31.482
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Aber egal wie unlogisch der Auftrag, ich zieh's voll durch.",
+    "start": 31.562,
+    "end": 35.443,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 31.562,
+        "end": 32.022
+      },
+      {
+        "text": "egal",
+        "start": 32.062,
+        "end": 32.363
+      },
+      {
+        "text": "wie",
+        "start": 32.403,
+        "end": 32.543
+      },
+      {
+        "text": "unlogisch",
+        "start": 32.583,
+        "end": 32.983
+      },
+      {
+        "text": "der",
+        "start": 33.003,
+        "end": 33.123
+      },
+      {
+        "text": "Auftrag,",
+        "start": 33.163,
+        "end": 33.643
+      },
+      {
+        "text": "ich",
+        "start": 33.703,
+        "end": 33.823
+      },
+      {
+        "text": "zieh's",
+        "start": 33.863,
+        "end": 34.123
+      },
+      {
+        "text": "voll",
+        "start": 34.163,
+        "end": 34.363
+      },
+      {
+        "text": "durch.",
+        "start": 34.403,
+        "end": 35.443
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Und irgendwann krieg ich dann endlich meine Super-Exklusiv-Story.",
+    "start": 35.503,
+    "end": 40.345,
+    "words": [
+      {
+        "text": "Und",
+        "start": 35.503,
+        "end": 35.724
+      },
+      {
+        "text": "irgendwann",
+        "start": 35.764,
+        "end": 36.204
+      },
+      {
+        "text": "krieg",
+        "start": 36.224,
+        "end": 36.384
+      },
+      {
+        "text": "ich",
+        "start": 36.404,
+        "end": 36.484
+      },
+      {
+        "text": "dann",
+        "start": 36.504,
+        "end": 36.684
+      },
+      {
+        "text": "endlich",
+        "start": 36.724,
+        "end": 37.024
+      },
+      {
+        "text": "meine",
+        "start": 37.044,
+        "end": 37.264
+      },
+      {
+        "text": "Super-Exklusiv-Story.",
+        "start": 37.304,
+        "end": 40.345
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Roberto?",
+    "start": 40.425,
+    "end": 41.185,
+    "words": [
+      {
+        "text": "Roberto?",
+        "start": 40.425,
+        "end": 41.185
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ich glaube, wir haben ihn.",
+    "start": 41.265,
+    "end": 45.847,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 41.265,
+        "end": 41.425
+      },
+      {
+        "text": "glaube,",
+        "start": 41.465,
+        "end": 41.905
+      },
+      {
+        "text": "wir",
+        "start": 41.965,
+        "end": 42.966
+      },
+      {
+        "text": "haben",
+        "start": 44.886,
+        "end": 45.647
+      },
+      {
+        "text": "ihn.",
+        "start": 45.727,
+        "end": 45.847
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Sieht aus wie die Handschrift der Bad Lads Gang.",
+    "start": 45.867,
+    "end": 51.308,
+    "words": [
+      {
+        "text": "Sieht",
+        "start": 45.867,
+        "end": 46.067
+      },
+      {
+        "text": "aus",
+        "start": 46.167,
+        "end": 46.347
+      },
+      {
+        "text": "wie",
+        "start": 46.387,
+        "end": 46.487
+      },
+      {
+        "text": "die",
+        "start": 46.507,
+        "end": 46.627
+      },
+      {
+        "text": "Handschrift",
+        "start": 46.647,
+        "end": 47.047
+      },
+      {
+        "text": "der",
+        "start": 47.067,
+        "end": 47.207
+      },
+      {
+        "text": "Bad",
+        "start": 47.227,
+        "end": 47.547
+      },
+      {
+        "text": "Lads",
+        "start": 47.567,
+        "end": 47.907
+      },
+      {
+        "text": "Gang.",
+        "start": 48.027,
+        "end": 51.308
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Die Leiche sieht schon mitgenommen aus.",
+    "start": 51.328,
+    "end": 53.089,
+    "words": [
+      {
+        "text": "Die",
+        "start": 51.328,
+        "end": 51.468
+      },
+      {
+        "text": "Leiche",
+        "start": 51.508,
+        "end": 51.888
+      },
+      {
+        "text": "sieht",
+        "start": 51.908,
+        "end": 52.049
+      },
+      {
+        "text": "schon",
+        "start": 52.089,
+        "end": 52.309
+      },
+      {
+        "text": "mitgenommen",
+        "start": 52.349,
+        "end": 52.929
+      },
+      {
+        "text": "aus.",
+        "start": 53.009,
+        "end": 53.089
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": " Hallo, freut mich.",
+    "start": 62.063,
+    "end": 66.125,
+    "words": [
+      {
+        "text": "Hallo,",
+        "start": 62.063,
+        "end": 65.605
+      },
+      {
+        "text": "freut",
+        "start": 65.645,
+        "end": 65.885
+      },
+      {
+        "text": "mich.",
+        "start": 65.905,
+        "end": 66.125
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Creepy.",
+    "start": 66.405,
+    "end": 66.905,
+    "words": [
+      {
+        "text": "Creepy.",
+        "start": 66.405,
+        "end": 66.905
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Jetzt gehen wir weiter.",
+    "start": 66.925,
+    "end": 67.846,
+    "words": [
+      {
+        "text": "Jetzt",
+        "start": 66.925,
+        "end": 67.065
+      },
+      {
+        "text": "gehen",
+        "start": 67.085,
+        "end": 67.245
+      },
+      {
+        "text": "wir",
+        "start": 67.285,
+        "end": 67.465
+      },
+      {
+        "text": "weiter.",
+        "start": 67.485,
+        "end": 67.846
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Los, komm.",
+    "start": 67.886,
+    "end": 68.366,
+    "words": [
+      {
+        "text": "Los,",
+        "start": 67.886,
+        "end": 67.986
+      },
+      {
+        "text": "komm.",
+        "start": 68.166,
+        "end": 68.366
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Nein!",
+    "start": 68.386,
+    "end": 68.766,
+    "words": [
+      {
+        "text": "Nein!",
+        "start": 68.386,
+        "end": 68.766
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Halt!",
+    "start": 68.786,
+    "end": 68.886,
+    "words": [
+      {
+        "text": "Halt!",
+        "start": 68.786,
+        "end": 68.886
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Wartet!",
+    "start": 68.906,
+    "end": 69.106,
+    "words": [
+      {
+        "text": "Wartet!",
+        "start": 68.906,
+        "end": 69.106
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Aber... Wir können die nicht so hängen lassen.",
+    "start": 69.126,
+    "end": 71.347,
+    "words": [
+      {
+        "text": "Aber...",
+        "start": 69.126,
+        "end": 69.246
+      },
+      {
+        "text": "Wir",
+        "start": 69.286,
+        "end": 69.746
+      },
+      {
+        "text": "können",
+        "start": 69.767,
+        "end": 69.947
+      },
+      {
+        "text": "die",
+        "start": 69.967,
+        "end": 70.287
+      },
+      {
+        "text": "nicht",
+        "start": 70.467,
+        "end": 70.687
+      },
+      {
+        "text": "so",
+        "start": 70.707,
+        "end": 70.807
+      },
+      {
+        "text": "hängen",
+        "start": 70.827,
+        "end": 71.067
+      },
+      {
+        "text": "lassen.",
+        "start": 71.087,
+        "end": 71.347
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Ach, Mädchen.",
+    "start": 71.407,
+    "end": 72.008,
+    "words": [
+      {
+        "text": "Ach,",
+        "start": 71.407,
+        "end": 71.507
+      },
+      {
+        "text": "Mädchen.",
+        "start": 71.547,
+        "end": 72.008
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Dankeschön.",
+    "start": 72.028,
+    "end": 72.448,
+    "words": [
+      {
+        "text": "Dankeschön.",
+        "start": 72.028,
+        "end": 72.448
+      }
+    ]
+  }
+]
