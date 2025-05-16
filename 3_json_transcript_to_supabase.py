@@ -5,7 +5,7 @@ import argparse
 from typing import Dict, List, Any, Optional, Union, Tuple
 
 from dotenv import load_dotenv
-from ai import CompletionClient
+from mitlesen.ai import CompletionClient
 from mitlesen.db import Database, Video
 from mitlesen.logger import logger
 

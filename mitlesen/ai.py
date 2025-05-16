@@ -22,6 +22,7 @@ class CompletionClient:
         self.system_instruction = system_instruction
         # TODO(Pavel): Gemini models are accessible using the OpenAI libraries
         # https://ai.google.dev/gemini-api/docs/openai
+        # https://github.com/google-gemini/cookbook/blob/main/quickstarts/rest/JSON_mode_REST.ipynb
         if self.backend == "openai":
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
             self.model = model_openai
@@ -63,9 +64,9 @@ class CompletionClient:
                 prompt,
                 config={
                     'response_mime_type': 'application/json',
-                    'generation_config': {
-                        'response_format': {'type': 'json_object'}
-                    }
+                    # 'generation_config': {
+                    #     'response_format': {'type': 'json_object'}
+                    # }
                 }
             )
             return chunk.text
@@ -126,9 +127,9 @@ class CompletionStreamClient:
                 prompt,
                 config={
                     'response_mime_type': 'application/json',
-                    'generation_config': {
-                        'response_format': {'type': 'json_object'}
-                    }
+                    # 'generation_config': {
+                    #     'response_format': {'type': 'json_object'}
+                    # }
                 }
             ):
                 if chunk.text:

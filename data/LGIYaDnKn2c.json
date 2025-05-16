@@ -1,0 +1,1483 @@
+[
+  {
+    "id": 0,
+    "text": " Was sagen Sie dazu?",
+    "start": 0.031,
+    "end": 2.212,
+    "words": [
+      {
+        "text": "Was",
+        "start": 0.031,
+        "end": 0.211
+      },
+      {
+        "text": "sagen",
+        "start": 0.331,
+        "end": 0.491
+      },
+      {
+        "text": "Sie",
+        "start": 0.571,
+        "end": 0.831
+      },
+      {
+        "text": "dazu?",
+        "start": 1.031,
+        "end": 2.212
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Hörst du?",
+    "start": 2.332,
+    "end": 4.892,
+    "words": [
+      {
+        "text": "Hörst",
+        "start": 2.332,
+        "end": 2.492
+      },
+      {
+        "text": "du?",
+        "start": 2.532,
+        "end": 4.892
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Ich stimme dagegen, das Dorf der Iger anzugreifen.",
+    "start": 4.932,
+    "end": 9.874,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 4.932,
+        "end": 5.052
+      },
+      {
+        "text": "stimme",
+        "start": 5.092,
+        "end": 6.073
+      },
+      {
+        "text": "dagegen,",
+        "start": 6.093,
+        "end": 6.513
+      },
+      {
+        "text": "das",
+        "start": 6.553,
+        "end": 6.733
+      },
+      {
+        "text": "Dorf",
+        "start": 6.753,
+        "end": 6.933
+      },
+      {
+        "text": "der",
+        "start": 6.953,
+        "end": 7.073
+      },
+      {
+        "text": "Iger",
+        "start": 7.113,
+        "end": 7.313
+      },
+      {
+        "text": "anzugreifen.",
+        "start": 7.333,
+        "end": 9.874
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wir alle stimmen ihm zu und unterstützen Hosen bei dieser Ansicht.",
+    "start": 9.894,
+    "end": 12.894,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 9.894,
+        "end": 10.054
+      },
+      {
+        "text": "alle",
+        "start": 10.074,
+        "end": 10.274
+      },
+      {
+        "text": "stimmen",
+        "start": 10.314,
+        "end": 10.514
+      },
+      {
+        "text": "ihm",
+        "start": 10.554,
+        "end": 10.694
+      },
+      {
+        "text": "zu",
+        "start": 10.734,
+        "end": 10.854
+      },
+      {
+        "text": "und",
+        "start": 10.874,
+        "end": 11.034
+      },
+      {
+        "text": "unterstützen",
+        "start": 11.074,
+        "end": 11.654
+      },
+      {
+        "text": "Hosen",
+        "start": 11.694,
+        "end": 12.014
+      },
+      {
+        "text": "bei",
+        "start": 12.034,
+        "end": 12.154
+      },
+      {
+        "text": "dieser",
+        "start": 12.174,
+        "end": 12.374
+      },
+      {
+        "text": "Ansicht.",
+        "start": 12.414,
+        "end": 12.894
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Verräter!",
+    "start": 12.934,
+    "end": 14.015,
+    "words": [
+      {
+        "text": "Verräter!",
+        "start": 12.934,
+        "end": 14.015
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ihr miesen Schweine habt euch die ganze Zeit hinter unserem Rücken verschworen.",
+    "start": 14.055,
+    "end": 17.035,
+    "words": [
+      {
+        "text": "Ihr",
+        "start": 14.055,
+        "end": 14.235
+      },
+      {
+        "text": "miesen",
+        "start": 14.255,
+        "end": 14.535
+      },
+      {
+        "text": "Schweine",
+        "start": 14.555,
+        "end": 14.855
+      },
+      {
+        "text": "habt",
+        "start": 14.895,
+        "end": 15.035
+      },
+      {
+        "text": "euch",
+        "start": 15.055,
+        "end": 15.235
+      },
+      {
+        "text": "die",
+        "start": 15.275,
+        "end": 15.375
+      },
+      {
+        "text": "ganze",
+        "start": 15.395,
+        "end": 15.615
+      },
+      {
+        "text": "Zeit",
+        "start": 15.655,
+        "end": 15.835
+      },
+      {
+        "text": "hinter",
+        "start": 15.855,
+        "end": 16.095
+      },
+      {
+        "text": "unserem",
+        "start": 16.135,
+        "end": 16.415
+      },
+      {
+        "text": "Rücken",
+        "start": 16.455,
+        "end": 16.715
+      },
+      {
+        "text": "verschworen.",
+        "start": 16.735,
+        "end": 17.035
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Wovor habt ihr so einen verdammten Schiss?",
+    "start": 17.175,
+    "end": 18.936,
+    "words": [
+      {
+        "text": "Wovor",
+        "start": 17.175,
+        "end": 17.435
+      },
+      {
+        "text": "habt",
+        "start": 17.455,
+        "end": 17.576
+      },
+      {
+        "text": "ihr",
+        "start": 17.616,
+        "end": 17.676
+      },
+      {
+        "text": "so",
+        "start": 17.736,
+        "end": 17.856
+      },
+      {
+        "text": "einen",
+        "start": 17.876,
+        "end": 17.976
+      },
+      {
+        "text": "verdammten",
+        "start": 18.016,
+        "end": 18.416
+      },
+      {
+        "text": "Schiss?",
+        "start": 18.436,
+        "end": 18.936
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Also erst einmal sind die Asura noch nicht fertiggestellt.",
+    "start": 18.976,
+    "end": 21.537,
+    "words": [
+      {
+        "text": "Also",
+        "start": 18.976,
+        "end": 19.216
+      },
+      {
+        "text": "erst",
+        "start": 19.236,
+        "end": 19.396
+      },
+      {
+        "text": "einmal",
+        "start": 19.436,
+        "end": 19.676
+      },
+      {
+        "text": "sind",
+        "start": 19.716,
+        "end": 19.816
+      },
+      {
+        "text": "die",
+        "start": 19.836,
+        "end": 19.936
+      },
+      {
+        "text": "Asura",
+        "start": 19.956,
+        "end": 20.316
+      },
+      {
+        "text": "noch",
+        "start": 20.336,
+        "end": 20.456
+      },
+      {
+        "text": "nicht",
+        "start": 20.476,
+        "end": 20.676
+      },
+      {
+        "text": "fertiggestellt.",
+        "start": 20.696,
+        "end": 21.537
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Sie an vorderster Front einzusetzen, während wir einen Krieg mit den Iger anzetteln, ohne sie getestet zu haben, wäre viel zu überstürmend.",
+    "start": 21.577,
+    "end": 27.038,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 21.577,
+        "end": 21.677
+      },
+      {
+        "text": "an",
+        "start": 21.717,
+        "end": 21.837
+      },
+      {
+        "text": "vorderster",
+        "start": 21.857,
+        "end": 22.237
+      },
+      {
+        "text": "Front",
+        "start": 22.277,
+        "end": 22.517
+      },
+      {
+        "text": "einzusetzen,",
+        "start": 22.537,
+        "end": 23.117
+      },
+      {
+        "text": "während",
+        "start": 23.137,
+        "end": 23.317
+      },
+      {
+        "text": "wir",
+        "start": 23.337,
+        "end": 23.457
+      },
+      {
+        "text": "einen",
+        "start": 23.497,
+        "end": 23.677
+      },
+      {
+        "text": "Krieg",
+        "start": 23.697,
+        "end": 23.897
+      },
+      {
+        "text": "mit",
+        "start": 23.937,
+        "end": 24.017
+      },
+      {
+        "text": "den",
+        "start": 24.037,
+        "end": 24.157
+      },
+      {
+        "text": "Iger",
+        "start": 24.217,
+        "end": 24.417
+      },
+      {
+        "text": "anzetteln,",
+        "start": 24.457,
+        "end": 24.917
+      },
+      {
+        "text": "ohne",
+        "start": 24.937,
+        "end": 25.137
+      },
+      {
+        "text": "sie",
+        "start": 25.157,
+        "end": 25.257
+      },
+      {
+        "text": "getestet",
+        "start": 25.277,
+        "end": 25.698
+      },
+      {
+        "text": "zu",
+        "start": 25.718,
+        "end": 25.798
+      },
+      {
+        "text": "haben,",
+        "start": 25.818,
+        "end": 26.018
+      },
+      {
+        "text": "wäre",
+        "start": 26.058,
+        "end": 26.278
+      },
+      {
+        "text": "viel",
+        "start": 26.318,
+        "end": 26.458
+      },
+      {
+        "text": "zu",
+        "start": 26.478,
+        "end": 26.578
+      },
+      {
+        "text": "überstürmend.",
+        "start": 26.618,
+        "end": 27.038
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": " Wie viele Jahre sollen wir noch verschwenden für den ganzen Bürokratie-Scheiß?",
+    "start": 27.558,
+    "end": 30.762,
+    "words": [
+      {
+        "text": "Wie",
+        "start": 27.558,
+        "end": 27.698
+      },
+      {
+        "text": "viele",
+        "start": 27.718,
+        "end": 27.939
+      },
+      {
+        "text": "Jahre",
+        "start": 27.959,
+        "end": 28.199
+      },
+      {
+        "text": "sollen",
+        "start": 28.219,
+        "end": 28.399
+      },
+      {
+        "text": "wir",
+        "start": 28.439,
+        "end": 28.559
+      },
+      {
+        "text": "noch",
+        "start": 28.579,
+        "end": 28.74
+      },
+      {
+        "text": "verschwenden",
+        "start": 28.76,
+        "end": 29.2
+      },
+      {
+        "text": "für",
+        "start": 29.24,
+        "end": 29.36
+      },
+      {
+        "text": "den",
+        "start": 29.4,
+        "end": 29.48
+      },
+      {
+        "text": "ganzen",
+        "start": 29.521,
+        "end": 29.761
+      },
+      {
+        "text": "Bürokratie-Scheiß?",
+        "start": 29.801,
+        "end": 30.762
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Wir sind ihn zahlenmäßig überlegen.",
+    "start": 30.802,
+    "end": 32.324,
+    "words": [
+      {
+        "text": "Wir",
+        "start": 30.802,
+        "end": 30.922
+      },
+      {
+        "text": "sind",
+        "start": 30.942,
+        "end": 31.122
+      },
+      {
+        "text": "ihn",
+        "start": 31.162,
+        "end": 31.263
+      },
+      {
+        "text": "zahlenmäßig",
+        "start": 31.283,
+        "end": 31.863
+      },
+      {
+        "text": "überlegen.",
+        "start": 31.883,
+        "end": 32.324
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Ein heruntergekommenes Dorfideal.",
+    "start": 32.384,
+    "end": 34.807,
+    "words": [
+      {
+        "text": "Ein",
+        "start": 32.384,
+        "end": 32.624
+      },
+      {
+        "text": "heruntergekommenes",
+        "start": 32.664,
+        "end": 33.525
+      },
+      {
+        "text": "Dorfideal.",
+        "start": 33.565,
+        "end": 34.807
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Du darfst die Yiga trotz allem nicht unterschätzen.",
+    "start": 34.827,
+    "end": 37.169,
+    "words": [
+      {
+        "text": "Du",
+        "start": 34.827,
+        "end": 34.927
+      },
+      {
+        "text": "darfst",
+        "start": 34.967,
+        "end": 35.187
+      },
+      {
+        "text": "die",
+        "start": 35.207,
+        "end": 35.307
+      },
+      {
+        "text": "Yiga",
+        "start": 35.347,
+        "end": 35.568
+      },
+      {
+        "text": "trotz",
+        "start": 35.588,
+        "end": 35.868
+      },
+      {
+        "text": "allem",
+        "start": 35.888,
+        "end": 36.148
+      },
+      {
+        "text": "nicht",
+        "start": 36.168,
+        "end": 36.348
+      },
+      {
+        "text": "unterschätzen.",
+        "start": 36.388,
+        "end": 37.169
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Das ist nicht irgendeine Mission.",
+    "start": 37.189,
+    "end": 38.851,
+    "words": [
+      {
+        "text": "Das",
+        "start": 37.189,
+        "end": 37.33
+      },
+      {
+        "text": "ist",
+        "start": 37.37,
+        "end": 37.53
+      },
+      {
+        "text": "nicht",
+        "start": 37.57,
+        "end": 37.79
+      },
+      {
+        "text": "irgendeine",
+        "start": 37.83,
+        "end": 38.271
+      },
+      {
+        "text": "Mission.",
+        "start": 38.331,
+        "end": 38.851
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Es wird unvermeidbar sein, dass wir auch auf unserer Seite Verluste erleiden.",
+    "start": 38.891,
+    "end": 41.614,
+    "words": [
+      {
+        "text": "Es",
+        "start": 38.891,
+        "end": 38.971
+      },
+      {
+        "text": "wird",
+        "start": 39.011,
+        "end": 39.192
+      },
+      {
+        "text": "unvermeidbar",
+        "start": 39.212,
+        "end": 39.772
+      },
+      {
+        "text": "sein,",
+        "start": 39.792,
+        "end": 39.933
+      },
+      {
+        "text": "dass",
+        "start": 39.953,
+        "end": 40.073
+      },
+      {
+        "text": "wir",
+        "start": 40.093,
+        "end": 40.213
+      },
+      {
+        "text": "auch",
+        "start": 40.253,
+        "end": 40.353
+      },
+      {
+        "text": "auf",
+        "start": 40.393,
+        "end": 40.533
+      },
+      {
+        "text": "unserer",
+        "start": 40.573,
+        "end": 40.834
+      },
+      {
+        "text": "Seite",
+        "start": 40.854,
+        "end": 41.134
+      },
+      {
+        "text": "Verluste",
+        "start": 41.154,
+        "end": 41.434
+      },
+      {
+        "text": "erleiden.",
+        "start": 41.454,
+        "end": 41.614
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Es geht hier um Rache für Meister Kishinmaru.",
+    "start": 41.634,
+    "end": 43.717,
+    "words": [
+      {
+        "text": "Es",
+        "start": 41.634,
+        "end": 41.675
+      },
+      {
+        "text": "geht",
+        "start": 41.715,
+        "end": 41.835
+      },
+      {
+        "text": "hier",
+        "start": 41.855,
+        "end": 41.955
+      },
+      {
+        "text": "um",
+        "start": 41.995,
+        "end": 42.155
+      },
+      {
+        "text": "Rache",
+        "start": 42.195,
+        "end": 42.475
+      },
+      {
+        "text": "für",
+        "start": 42.516,
+        "end": 42.636
+      },
+      {
+        "text": "Meister",
+        "start": 42.656,
+        "end": 42.996
+      },
+      {
+        "text": "Kishinmaru.",
+        "start": 43.036,
+        "end": 43.717
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Uns allen ist das Risiko bewusst, dass wir auch Leute verlieren werden.",
+    "start": 43.777,
+    "end": 46.981,
+    "words": [
+      {
+        "text": "Uns",
+        "start": 43.777,
+        "end": 43.977
+      },
+      {
+        "text": "allen",
+        "start": 44.017,
+        "end": 44.197
+      },
+      {
+        "text": "ist",
+        "start": 44.237,
+        "end": 44.378
+      },
+      {
+        "text": "das",
+        "start": 44.418,
+        "end": 44.618
+      },
+      {
+        "text": "Risiko",
+        "start": 44.638,
+        "end": 44.978
+      },
+      {
+        "text": "bewusst,",
+        "start": 45.018,
+        "end": 45.319
+      },
+      {
+        "text": "dass",
+        "start": 45.339,
+        "end": 45.479
+      },
+      {
+        "text": "wir",
+        "start": 45.519,
+        "end": 45.699
+      },
+      {
+        "text": "auch",
+        "start": 45.719,
+        "end": 46.1
+      },
+      {
+        "text": "Leute",
+        "start": 46.16,
+        "end": 46.44
+      },
+      {
+        "text": "verlieren",
+        "start": 46.48,
+        "end": 46.76
+      },
+      {
+        "text": "werden.",
+        "start": 46.78,
+        "end": 46.981
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": " Rache zeugt von einem Mangel an jeglicher Rationalität.",
+    "start": 48.415,
+    "end": 50.877,
+    "words": [
+      {
+        "text": "Rache",
+        "start": 48.415,
+        "end": 48.655
+      },
+      {
+        "text": "zeugt",
+        "start": 48.695,
+        "end": 48.876
+      },
+      {
+        "text": "von",
+        "start": 48.916,
+        "end": 49.036
+      },
+      {
+        "text": "einem",
+        "start": 49.076,
+        "end": 49.216
+      },
+      {
+        "text": "Mangel",
+        "start": 49.256,
+        "end": 49.456
+      },
+      {
+        "text": "an",
+        "start": 49.496,
+        "end": 49.596
+      },
+      {
+        "text": "jeglicher",
+        "start": 49.636,
+        "end": 50.037
+      },
+      {
+        "text": "Rationalität.",
+        "start": 50.077,
+        "end": 50.877
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Sie bringt einen nicht weiter und ändert nichts.",
+    "start": 50.897,
+    "end": 52.999,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 50.897,
+        "end": 50.997
+      },
+      {
+        "text": "bringt",
+        "start": 51.017,
+        "end": 51.258
+      },
+      {
+        "text": "einen",
+        "start": 51.278,
+        "end": 51.458
+      },
+      {
+        "text": "nicht",
+        "start": 51.498,
+        "end": 51.698
+      },
+      {
+        "text": "weiter",
+        "start": 51.718,
+        "end": 52.038
+      },
+      {
+        "text": "und",
+        "start": 52.058,
+        "end": 52.258
+      },
+      {
+        "text": "ändert",
+        "start": 52.298,
+        "end": 52.579
+      },
+      {
+        "text": "nichts.",
+        "start": 52.599,
+        "end": 52.999
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Für so etwas sollten wir nicht riskieren, die Koga zu gefährden.",
+    "start": 53.039,
+    "end": 56.282,
+    "words": [
+      {
+        "text": "Für",
+        "start": 53.039,
+        "end": 53.159
+      },
+      {
+        "text": "so",
+        "start": 53.179,
+        "end": 53.299
+      },
+      {
+        "text": "etwas",
+        "start": 53.339,
+        "end": 53.519
+      },
+      {
+        "text": "sollten",
+        "start": 53.539,
+        "end": 53.72
+      },
+      {
+        "text": "wir",
+        "start": 53.76,
+        "end": 53.86
+      },
+      {
+        "text": "nicht",
+        "start": 53.88,
+        "end": 54.02
+      },
+      {
+        "text": "riskieren,",
+        "start": 54.06,
+        "end": 54.44
+      },
+      {
+        "text": "die",
+        "start": 54.46,
+        "end": 54.56
+      },
+      {
+        "text": "Koga",
+        "start": 54.58,
+        "end": 54.82
+      },
+      {
+        "text": "zu",
+        "start": 54.84,
+        "end": 54.961
+      },
+      {
+        "text": "gefährden.",
+        "start": 54.981,
+        "end": 56.282
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Ich bin davon ausgegangen, dass ein kleiner Kampf zwischen uns und den Yiga für die Entwicklung von uns Koga unvermeidbar sein wird.",
+    "start": 56.322,
+    "end": 62.166,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 56.322,
+        "end": 56.422
+      },
+      {
+        "text": "bin",
+        "start": 56.462,
+        "end": 56.602
+      },
+      {
+        "text": "davon",
+        "start": 56.622,
+        "end": 56.862
+      },
+      {
+        "text": "ausgegangen,",
+        "start": 56.882,
+        "end": 57.322
+      },
+      {
+        "text": "dass",
+        "start": 57.362,
+        "end": 57.543
+      },
+      {
+        "text": "ein",
+        "start": 57.563,
+        "end": 57.703
+      },
+      {
+        "text": "kleiner",
+        "start": 57.743,
+        "end": 58.043
+      },
+      {
+        "text": "Kampf",
+        "start": 58.083,
+        "end": 58.323
+      },
+      {
+        "text": "zwischen",
+        "start": 58.363,
+        "end": 58.644
+      },
+      {
+        "text": "uns",
+        "start": 58.684,
+        "end": 58.804
+      },
+      {
+        "text": "und",
+        "start": 58.844,
+        "end": 58.944
+      },
+      {
+        "text": "den",
+        "start": 58.964,
+        "end": 59.084
+      },
+      {
+        "text": "Yiga",
+        "start": 59.104,
+        "end": 59.384
+      },
+      {
+        "text": "für",
+        "start": 59.404,
+        "end": 59.504
+      },
+      {
+        "text": "die",
+        "start": 59.524,
+        "end": 59.624
+      },
+      {
+        "text": "Entwicklung",
+        "start": 59.664,
+        "end": 60.025
+      },
+      {
+        "text": "von",
+        "start": 60.065,
+        "end": 60.185
+      },
+      {
+        "text": "uns",
+        "start": 60.245,
+        "end": 60.385
+      },
+      {
+        "text": "Koga",
+        "start": 60.425,
+        "end": 60.745
+      },
+      {
+        "text": "unvermeidbar",
+        "start": 60.765,
+        "end": 61.406
+      },
+      {
+        "text": "sein",
+        "start": 61.426,
+        "end": 61.606
+      },
+      {
+        "text": "wird.",
+        "start": 61.646,
+        "end": 62.166
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Aber ich bin mir jetzt sicher, dass wir mit diesem Angriff die Zukunft der Koga ruinieren werden.",
+    "start": 62.226,
+    "end": 70.193,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 62.226,
+        "end": 63.247
+      },
+      {
+        "text": "ich",
+        "start": 63.287,
+        "end": 63.407
+      },
+      {
+        "text": "bin",
+        "start": 63.427,
+        "end": 63.568
+      },
+      {
+        "text": "mir",
+        "start": 63.588,
+        "end": 63.728
+      },
+      {
+        "text": "jetzt",
+        "start": 63.748,
+        "end": 64.008
+      },
+      {
+        "text": "sicher,",
+        "start": 64.048,
+        "end": 64.608
+      },
+      {
+        "text": "dass",
+        "start": 64.628,
+        "end": 64.789
+      },
+      {
+        "text": "wir",
+        "start": 64.809,
+        "end": 64.949
+      },
+      {
+        "text": "mit",
+        "start": 64.969,
+        "end": 65.109
+      },
+      {
+        "text": "diesem",
+        "start": 65.129,
+        "end": 65.349
+      },
+      {
+        "text": "Angriff",
+        "start": 65.389,
+        "end": 65.729
+      },
+      {
+        "text": "die",
+        "start": 65.749,
+        "end": 65.889
+      },
+      {
+        "text": "Zukunft",
+        "start": 65.929,
+        "end": 66.23
+      },
+      {
+        "text": "der",
+        "start": 66.25,
+        "end": 66.39
+      },
+      {
+        "text": "Koga",
+        "start": 66.43,
+        "end": 66.65
+      },
+      {
+        "text": "ruinieren",
+        "start": 66.71,
+        "end": 67.21
+      },
+      {
+        "text": "werden.",
+        "start": 67.251,
+        "end": 70.193
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Ich bitte Sie, bedenken Sie das.",
+    "start": 70.253,
+    "end": 74.677,
+    "words": [
+      {
+        "text": "Ich",
+        "start": 70.253,
+        "end": 70.393
+      },
+      {
+        "text": "bitte",
+        "start": 70.433,
+        "end": 70.713
+      },
+      {
+        "text": "Sie,",
+        "start": 70.753,
+        "end": 71.314
+      },
+      {
+        "text": "bedenken",
+        "start": 71.354,
+        "end": 71.974
+      },
+      {
+        "text": "Sie",
+        "start": 72.014,
+        "end": 72.175
+      },
+      {
+        "text": "das.",
+        "start": 72.215,
+        "end": 74.677
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Sie haben Recht.",
+    "start": 74.717,
+    "end": 75.637,
+    "words": [
+      {
+        "text": "Sie",
+        "start": 74.717,
+        "end": 74.917
+      },
+      {
+        "text": "haben",
+        "start": 74.977,
+        "end": 75.357
+      },
+      {
+        "text": "Recht.",
+        "start": 75.417,
+        "end": 75.637
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": " Glauben Sie mir, dass ich... Hussein, du hast ja immer so recht mit dem, was du sagst.",
+    "start": 78.994,
+    "end": 94.539,
+    "words": [
+      {
+        "text": "Glauben",
+        "start": 78.994,
+        "end": 79.294
+      },
+      {
+        "text": "Sie",
+        "start": 79.314,
+        "end": 79.414
+      },
+      {
+        "text": "mir,",
+        "start": 79.454,
+        "end": 79.554
+      },
+      {
+        "text": "dass",
+        "start": 79.574,
+        "end": 79.714
+      },
+      {
+        "text": "ich...",
+        "start": 79.774,
+        "end": 79.914
+      },
+      {
+        "text": "Hussein,",
+        "start": 79.934,
+        "end": 86.576
+      },
+      {
+        "text": "du",
+        "start": 86.636,
+        "end": 90.377
+      },
+      {
+        "text": "hast",
+        "start": 90.477,
+        "end": 90.657
+      },
+      {
+        "text": "ja",
+        "start": 90.697,
+        "end": 90.817
+      },
+      {
+        "text": "immer",
+        "start": 90.857,
+        "end": 91.078
+      },
+      {
+        "text": "so",
+        "start": 91.138,
+        "end": 91.358
+      },
+      {
+        "text": "recht",
+        "start": 91.398,
+        "end": 91.678
+      },
+      {
+        "text": "mit",
+        "start": 91.698,
+        "end": 91.818
+      },
+      {
+        "text": "dem,",
+        "start": 91.858,
+        "end": 92.038
+      },
+      {
+        "text": "was",
+        "start": 92.078,
+        "end": 92.238
+      },
+      {
+        "text": "du",
+        "start": 92.258,
+        "end": 92.438
+      },
+      {
+        "text": "sagst.",
+        "start": 92.478,
+        "end": 94.539
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Und wie sonst liegst du auch bei dieser Sache genau richtig.",
+    "start": 94.579,
+    "end": 98.68,
+    "words": [
+      {
+        "text": "Und",
+        "start": 94.579,
+        "end": 94.799
+      },
+      {
+        "text": "wie",
+        "start": 94.819,
+        "end": 94.919
+      },
+      {
+        "text": "sonst",
+        "start": 94.999,
+        "end": 95.359
+      },
+      {
+        "text": "liegst",
+        "start": 95.379,
+        "end": 95.559
+      },
+      {
+        "text": "du",
+        "start": 95.599,
+        "end": 95.679
+      },
+      {
+        "text": "auch",
+        "start": 95.699,
+        "end": 95.879
+      },
+      {
+        "text": "bei",
+        "start": 95.919,
+        "end": 96.079
+      },
+      {
+        "text": "dieser",
+        "start": 96.119,
+        "end": 96.399
+      },
+      {
+        "text": "Sache",
+        "start": 96.439,
+        "end": 96.759
+      },
+      {
+        "text": "genau",
+        "start": 96.799,
+        "end": 97.219
+      },
+      {
+        "text": "richtig.",
+        "start": 97.279,
+        "end": 98.68
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Aber bei den Koga gibt es keinen Platz für Feiglinge.",
+    "start": 98.76,
+    "end": 102.601,
+    "words": [
+      {
+        "text": "Aber",
+        "start": 98.76,
+        "end": 99.8
+      },
+      {
+        "text": "bei",
+        "start": 99.82,
+        "end": 99.96
+      },
+      {
+        "text": "den",
+        "start": 99.98,
+        "end": 100.2
+      },
+      {
+        "text": "Koga",
+        "start": 100.26,
+        "end": 100.68
+      },
+      {
+        "text": "gibt",
+        "start": 100.72,
+        "end": 100.88
+      },
+      {
+        "text": "es",
+        "start": 100.94,
+        "end": 101.12
+      },
+      {
+        "text": "keinen",
+        "start": 101.14,
+        "end": 101.361
+      },
+      {
+        "text": "Platz",
+        "start": 101.401,
+        "end": 101.761
+      },
+      {
+        "text": "für",
+        "start": 101.801,
+        "end": 102.061
+      },
+      {
+        "text": "Feiglinge.",
+        "start": 102.101,
+        "end": 102.601
+      }
+    ]
+  }
+]

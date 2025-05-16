@@ -132,6 +132,7 @@ def generate_transcript(youtube_id: str) -> bool:
         logger.error(f"❌ Step 2 failed: Transcript generation failed with exception: {str(e)}")
         return False
 
+
 def process_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
     """Step 3: Process transcript and upload to database."""
     logger.info(f"📝 Starting Step 3: Process transcript and upload for {youtube_id}")
@@ -139,29 +140,19 @@ def process_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
     if not os.path.exists(transcript_file):
         logger.error(f"❌ Transcript file not found: {transcript_file}")
         return False
-    
-    try:
-        # Read the transcript file
-        with open(transcript_file, 'r', encoding='utf-8') as f:
-            transcript = f.read()
-        
-        # Insert into database
-        db = Database()
-        Video.insert(
-            client=db.client,
-            title=title,
-            youtube_id=youtube_id,
-            is_premium=is_premium.lower() == 'true',
-            transcript=transcript
-        )
-        db.close()
-        
+    cmd = [
+        sys.executable,
+        "3_json_transcript_to_supabase.py",
+        "--youtube_id", youtube_id,
+        "--title", title,
+        "--is_premium", is_premium
+    ]
+    result = run_command(cmd, "Transcript processing and upload")
+    if result:
         logger.info(f"✅ Step 3 completed: Transcript processed and uploaded for {youtube_id}")
-        return True
-        
-    except Exception as e:
-        logger.error(f"❌ Step 3 failed: Transcript processing failed for {youtube_id}: {str(e)}")
-        return False
+    else:
+        logger.error(f"❌ Step 3 failed: Transcript processing failed for {youtube_id}")
+    return result
 
 def process_video(video: Dict[str, str]) -> bool:
     """Process a single video through the entire pipeline."""

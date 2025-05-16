@@ -83,14 +83,14 @@ def get_or_create_genre(db: Database, name: str) -> Optional[Genre]:
     # Try to get existing genre first
     genre = get_genre_by_name(db, name)
     if genre is not None:
-        logger.info(f"Using existing genre: {name}")
+        logger.info(f"📚 Using existing genre: {name}")
         return genre
     
     # Genre doesn't exist, try to create it
     try:
         response = db.client.table('genres').insert({'name': name}).execute()
         if not response.data or len(response.data) == 0:
-            logger.error(f"Failed to create genre: {name}")
+            logger.error(f"❌ Failed to create genre: {name}")
             return None
         
         row = response.data[0]
@@ -99,13 +99,13 @@ def get_or_create_genre(db: Database, name: str) -> Optional[Genre]:
             name=row['name'],
             created_at=row['created_at']
         )
-        logger.info(f"Created new genre: {name}")
+        logger.info(f"✨ Created new genre: {name}")
         return genre
     except Exception as e:
         if 'duplicate key value' in str(e).lower():
             # If we got a duplicate key error, try fetching again
             return get_genre_by_name(db, name)
-        logger.error(f"Error creating genre {name}: {str(e)}")
+        logger.error(f"❌ Error creating genre {name}: {str(e)}")
         return None
 
 def import_series_genres(csv_path: str) -> None:
@@ -142,11 +142,11 @@ def import_series_genres(csv_path: str) -> None:
                 if series is None:  # Series doesn't exist, create it
                     series = create_series(db, series_title)
                     if series is None:
-                        logger.error(f"Failed to insert series: {series_title}")
+                        logger.error(f"❌ Failed to insert series: {series_title}")
                         continue
-                    logger.info(f"Created new series: {series_title}")
+                    logger.info(f"✨ Created new series: {series_title}")
                 else:
-                    logger.info(f"Using existing series: {series_title}")
+                    logger.info(f"📺 Using existing series: {series_title}")
                 
                 # Process each genre
                 genres = [genre.strip() for genre in genres_str.split(',')]
@@ -157,7 +157,7 @@ def import_series_genres(csv_path: str) -> None:
                     # Get or create genre
                     genre = get_or_create_genre(db, genre_name)
                     if genre is None:
-                        logger.error(f"Failed to get or create genre: {genre_name}")
+                        logger.error(f"❌ Failed to get or create genre: {genre_name}")
                         continue
                     
                     # Create series-genre relationship
@@ -168,23 +168,23 @@ def import_series_genres(csv_path: str) -> None:
                         }).execute()
                         
                         if not response.data:
-                            logger.error(f"Failed to create relationship between {series_title} and {genre_name}")
+                            logger.error(f"❌ Failed to create relationship between {series_title} and {genre_name}")
                             continue
                             
-                        logger.info(f"Created relationship: {series_title} - {genre_name}")
+                        logger.info(f"🔗 Created relationship: {series_title} - {genre_name}")
                     except Exception as e:
                         if 'duplicate key value' in str(e).lower():
-                            logger.info(f"Relationship already exists: {series_title} - {genre_name}")
+                            logger.info(f"ℹ️ Relationship already exists: {series_title} - {genre_name}")
                             continue
-                        logger.error(f"Error creating relationship between {series_title} and {genre_name}: {str(e)}")
+                        logger.error(f"❌ Error creating relationship between {series_title} and {genre_name}: {str(e)}")
                         continue
                 
-                logger.info(f"Processed series: {series_title}")
+                logger.info(f"✅ Processed series: {series_title}")
         
-        logger.info("✅ Import completed successfully!")
+        logger.info("🎉 Import completed successfully!")
         
     except Exception as e:
-        logger.error(f"Error during import: {str(e)}")
+        logger.error(f"❌ Error during import: {str(e)}")
         raise  # Re-raise the exception to see the full traceback
     finally:
         db.close()
