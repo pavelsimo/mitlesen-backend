@@ -1,9 +1,35 @@
 import csv
 import os
 import urllib.parse
+import base64
 from typing import List, Set, Optional
 from mitlesen.db import Database, Series, Genre, SeriesGenre
 from mitlesen.logger import logger
+
+def get_image_base64(image_path: str) -> Optional[str]:
+    """
+    Convert an image file to base64 string.
+    Returns None if the file doesn't exist or can't be read.
+    """
+    if not os.path.exists(image_path):
+        logger.error(f"❌ Image file not found: {image_path}")
+        return None
+        
+    try:
+        # Determine the image type from extension
+        ext = os.path.splitext(image_path)[1].lower()
+        if ext not in ['.jpg', '.jpeg', '.png']:
+            logger.error(f"❌ Unsupported image format: {ext}")
+            return None
+            
+        mime_type = 'image/jpeg' if ext in ['.jpg', '.jpeg'] else 'image/png'
+        
+        with open(image_path, 'rb') as image_file:
+            encoded_string = base64.b64encode(image_file.read()).decode('utf-8')
+            return f"data:{mime_type};base64,{encoded_string}"
+    except Exception as e:
+        logger.error(f"❌ Error converting image to base64: {str(e)}")
+        return None
 
 def get_series_by_title(db: Database, title: str) -> Optional[Series]:
     """
@@ -29,16 +55,20 @@ def get_series_by_title(db: Database, title: str) -> Optional[Series]:
         logger.error(f"Error fetching series {title}: {str(e)}")
         return None
 
-def create_series(db: Database, title: str, series_id: int) -> Optional[Series]:
+def create_series(db: Database, title: str, series_id: int, cover_image: Optional[str] = None) -> Optional[Series]:
     """
-    Create a new series in the database with the specified ID.
+    Create a new series in the database with the specified ID and optional cover image.
     Returns None if creation fails.
     """
     try:
-        response = db.client.table('series').insert({
+        data = {
             'id': series_id,
             'title': title
-        }).execute()
+        }
+        if cover_image:
+            data['cover_image'] = cover_image
+            
+        response = db.client.table('series').insert(data).execute()
         if not response.data or len(response.data) == 0:
             logger.error(f"Failed to create series: {title}")
             return None
@@ -111,13 +141,18 @@ def get_or_create_genre(db: Database, name: str) -> Optional[Genre]:
         logger.error(f"❌ Error creating genre {name}: {str(e)}")
         return None
 
-def import_series_genres(csv_path: str) -> None:
+def import_series_genres(csv_path: str, covers_dir: str = "covers") -> None:
     """
     Import series and genres from a CSV file into the database.
     The CSV should have three columns: Id, Serie, and Genres (comma-separated).
+    Also imports cover images from the covers directory.
     """
     if not os.path.exists(csv_path):
         logger.error(f"❌ CSV file not found: {csv_path}")
+        return
+
+    if not os.path.exists(covers_dir):
+        logger.error(f"❌ Covers directory not found: {covers_dir}")
         return
 
     db = Database()
@@ -146,15 +181,35 @@ def import_series_genres(csv_path: str) -> None:
                     logger.error(f"❌ Empty series title or genres: {row}")
                     continue
                 
+                # Try to find cover image
+                cover_image = None
+                for ext in ['.jpg', '.png']:
+                    image_path = os.path.join(covers_dir, f"{series_id}{ext}")
+                    if os.path.exists(image_path):
+                        cover_image = get_image_base64(image_path)
+                        if cover_image:
+                            logger.info(f"🖼️ Found cover image for series {series_title}")
+                        break
+                
                 # Try to get existing series first
                 series = get_series_by_title(db, series_title)
                 if series is None:  # Series doesn't exist, create it
-                    series = create_series(db, series_title, series_id)
+                    series = create_series(db, series_title, series_id, cover_image)
                     if series is None:
                         logger.error(f"❌ Failed to insert series: {series_title}")
                         continue
                     logger.info(f"✨ Created new series: {series_title} (ID: {series_id})")
                 else:
+                    # Update existing series with cover image if found
+                    if cover_image:
+                        try:
+                            response = db.client.table('series').update({
+                                'cover_image': cover_image
+                            }).eq('id', series.id).execute()
+                            if response.data:
+                                logger.info(f"🖼️ Updated cover image for series: {series_title}")
+                        except Exception as e:
+                            logger.error(f"❌ Error updating cover image for {series_title}: {str(e)}")
                     logger.info(f"📺 Using existing series: {series_title}")
                 
                 # Process each genre
