@@ -139,26 +139,52 @@ def generate_transcript(youtube_id: str) -> bool:
         logger.error(f"❌ Step 2 failed: Transcript generation failed with exception: {str(e)}")
         return False
 
-
-def process_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
-    """Step 3: Process transcript and upload to database."""
-    logger.info(f"📝 Starting Step 3: Process transcript and upload for {youtube_id}")
+def augment_transcript(youtube_id: str) -> bool:
+    """Step 3: Augment transcript with AI-generated translations and word-level information."""
+    logger.info(f"🤖 Starting Step 3: Augment transcript for {youtube_id}")
     transcript_file = os.path.join(DATA_DIR, f"{youtube_id}.json")
     if not os.path.exists(transcript_file):
         logger.error(f"❌ Transcript file not found: {transcript_file}")
         return False
+
+    # Check if augmented transcript already exists
+    augmented_file = os.path.join(DATA_DIR, f"{youtube_id}.json.2")
+    if os.path.exists(augmented_file):
+        logger.warning(f"⚠️ Augmented transcript file already exists: {augmented_file}. Skipping augmentation.")
+        return True
+
     cmd = [
         sys.executable,
-        "3_json_transcript_to_supabase.py",
+        "3_augment_transcript.py",
+        f"--youtube_id={youtube_id}"
+    ]
+    result = run_command(cmd, "Transcript augmentation")
+    if result:
+        logger.info(f"✅ Step 3 completed: Transcript augmented for {youtube_id}")
+    else:
+        logger.error(f"❌ Step 3 failed: Transcript augmentation failed for {youtube_id}")
+    return result
+
+def insert_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
+    """Step 4: Insert augmented transcript into database."""
+    logger.info(f"💾 Starting Step 4: Insert transcript for {youtube_id}")
+    augmented_file = os.path.join(DATA_DIR, f"{youtube_id}.json.2")
+    if not os.path.exists(augmented_file):
+        logger.error(f"❌ Augmented transcript file not found: {augmented_file}")
+        return False
+
+    cmd = [
+        sys.executable,
+        "4_transcript_to_supabase.py",
         f"--youtube_id={youtube_id}",
         f"--title={title}",
         f"--is_premium={is_premium}",
     ]
-    result = run_command(cmd, "Transcript processing and upload")
+    result = run_command(cmd, "Transcript database insertion")
     if result:
-        logger.info(f"✅ Step 3 completed: Transcript processed and uploaded for {youtube_id}")
+        logger.info(f"✅ Step 4 completed: Transcript inserted for {youtube_id}")
     else:
-        logger.error(f"❌ Step 3 failed: Transcript processing failed for {youtube_id}")
+        logger.error(f"❌ Step 4 failed: Transcript insertion failed for {youtube_id}")
     return result
 
 def process_video(video: Dict[str, str]) -> bool:
@@ -184,9 +210,14 @@ def process_video(video: Dict[str, str]) -> bool:
         logger.error(f"❌ Pipeline failed at step 2 for video: {youtube_id}")
         return False
     
-    # Step 3: Process transcript and upload
-    if not process_transcript(youtube_id, title, is_premium):
+    # Step 3: Augment transcript
+    if not augment_transcript(youtube_id):
         logger.error(f"❌ Pipeline failed at step 3 for video: {youtube_id}")
+        return False
+    
+    # Step 4: Insert transcript into database
+    if not insert_transcript(youtube_id, title, is_premium):
+        logger.error(f"❌ Pipeline failed at step 4 for video: {youtube_id}")
         return False
     
     logger.info(f"🏁 Pipeline completed successfully for video: {youtube_id}")
