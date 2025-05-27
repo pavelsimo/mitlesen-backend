@@ -3,8 +3,6 @@ import os
 import argparse
 from yt_dlp import YoutubeDL
 
-
-
 def download_audio(youtube_id: str, output_dir: str):
     """
     Download the audio of a YouTube video as an MP3 file.

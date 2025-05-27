@@ -1,7 +1,31 @@
 """Prompts used for AI operations in the mitlesen package."""
 
-def aug_transcript_prompt(sentences_json: str) -> str:
-    """Generate prompt for augmenting transcript with translations and word-level information.
+from typing import Dict
+
+# Language-specific system prompts for AI models
+LANGUAGE_SYSTEM_PROMPTS: Dict[str, str] = {
+    'de': "You are a precise language-processing assistant. You will receive a raw transcript from a German video.",
+    'ja': "You are a professional Japanese-to-English translator specializing in natural, emotionally authentic translations, particularly for dialogue and anime-style content.",
+}
+
+def get_system_instruction(language: str) -> str:
+    """Get language-specific system instruction for the AI model.
+    
+    Args:
+        language: Language code ('de' for German, 'ja' for Japanese)
+        
+    Returns:
+        System instruction string appropriate for the language
+        
+    Raises:
+        ValueError: If the language is not supported
+    """
+    if language not in LANGUAGE_SYSTEM_PROMPTS:
+        raise ValueError(f"Unsupported language: {language}")
+    return LANGUAGE_SYSTEM_PROMPTS[language]
+
+def get_german_transcript_prompt(sentences_json: str) -> str:
+    """Generate prompt for augmenting German transcript with translations and word-level information.
     
     Args:
         sentences_json: JSON string containing the sentences to process
@@ -10,30 +34,112 @@ def aug_transcript_prompt(sentences_json: str) -> str:
         Formatted prompt string for the AI model
     """
     return f"""
-          You will be given multiple sentences in JSON format to translate.
+          You will be given multiple German sentences in JSON format to translate.
           
           # Task
           Your task is to add the missing translation for both sentences and words:
            For each Sentence:
-           - An English translation.                        
+           - An English translation (natural, fluent English that preserves the original meaning)
+                        
            For each Word within the sentences: 
-           - An English translation.
-           - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle).
-           - If applicable (German nouns and pronouns), include grammatical case (nominativ, akkusativ, dativ, genitiv).
+           - An English translation
+           - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle)
+           - If applicable (nouns and pronouns), include grammatical case (nominativ, akkusativ, dativ, genitiv)
 
         # Guidelines
-        - For each sentence, include its translation
-           - non-literal translation, natural sounding english translation 
-        - For each word, 
-           - include its text, translation, and grammatical information.
-           - use concise, literal translations.
+        - For each sentence, provide a natural, fluent English translation
+        - For each word, use concise, literal translations
+        - Maintain grammatical accuracy in word-level information
 
         # Constraints
         - Only return the JSON output. Do not include any explanations, comments, or additional text.
         - Do not use markdown formatting or code blocks.
-        - Make sure the words appear in the same order that are given in the transcript.
+        - Make sure the words appear in the same order as given in the transcript.
         - Return an array of JSON objects, one for each input sentence.
         
         # Input JSON Array
         {sentences_json}
-    """ 
+    """
+
+def get_japanese_transcript_prompt(sentences_json: str) -> str:
+    """Generate prompt for augmenting Japanese transcript with translations and word-level information.
+    
+    Args:
+        sentences_json: JSON string containing the sentences to process
+        
+    Returns:
+        Formatted prompt string for the AI model
+    """
+    return f"""
+          You are a professional Japanese-to-English translator. Your goal is to provide natural, emotionally authentic translations 
+          that capture the true meaning and tone of Japanese dialogue, especially for anime-style content.
+
+          # Task
+          For each sentence in the input, you will provide:
+          1. A natural English translation that captures the emotional intent and tone
+          2. For each word within the sentence:
+             - An English translation
+             - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle)
+             - Romaji (phonetic transcription) of the word
+
+          # Translation Guidelines
+          For each sentence:
+          - First, understand the literal meaning
+          - Consider the emotional context and speaker's intent
+          - Provide a natural English translation that:
+            * Maintains the emotional impact of the original
+            * Uses appropriate English expressions for the context
+            * Preserves the speaker's personality and tone
+            * Feels natural and authentic in English
+          - Prioritize emotional authenticity over literal accuracy when needed
+
+          For each word:
+          - Provide accurate romaji transcription
+          - Use concise, literal translations
+          - Include correct part-of-speech tags
+
+          # Example
+          Japanese: とてもプロの彼女ができてるとは思えませんし、こんな形でお題をいただくわけには...
+          Natural English: "No way anyone would believe you're just pretending to be some pro girlfriend. And seriously, how can you even bring up something like this?"
+
+          # Constraints
+          - Only return the JSON output. Do not include any explanations, comments, or additional text.
+          - Do not use markdown formatting or code blocks.
+          - Make sure the words appear in the same order as given in the transcript.
+          - Return an array of JSON objects, one for each input sentence.
+          
+          # Input JSON Array
+          {sentences_json}
+    """
+
+def aug_transcript_prompt(sentences_json: str, language: str = 'de') -> str:
+    """Generate prompt for augmenting transcript with translations and word-level information.
+    
+    Args:
+        sentences_json: JSON string containing the sentences to process
+        language: Language code ('de' for German, 'ja' for Japanese)
+        
+    Returns:
+        Formatted prompt string for the AI model
+    """
+    if language == 'ja':
+        return get_japanese_transcript_prompt(sentences_json)
+    else:
+        return get_german_transcript_prompt(sentences_json)
+
+def jp_word_split_prompt(sentence: str) -> str:
+    """Generate prompt for splitting Japanese text into words.
+    
+    Args:
+        sentence: Japanese sentence to split into words
+        
+    Returns:
+        Formatted prompt string for the AI model
+    """
+    return f"""Please return a JSON array of the surface-forms (words) in order for the Japanese sentence below.
+IMPORTANT: Only include words that exactly match the characters in the sentence. Do not add any punctuation or special characters.
+
+Sentence:  
+{sentence}
+
+Respond with a JSON array of words only, like: ["とても", "プロの彼女", "ができてる", "とは", "思えませんし"]""" 

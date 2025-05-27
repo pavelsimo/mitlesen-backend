@@ -18,6 +18,8 @@ def ensure_data_dir():
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
         logger.info(f"📁 Created data directory: {DATA_DIR}")
+
+        
     else:
         logger.info(f"📁 Using existing data directory: {DATA_DIR}")
 
@@ -96,7 +98,7 @@ def download_audio(youtube_id: str) -> bool:
     
     return result
 
-def generate_transcript(youtube_id: str) -> bool:
+def generate_transcript(youtube_id: str, language: str) -> bool:
     """Step 2: Generate transcript from audio."""
     logger.info(f"🔊 Starting Step 2: Generate transcript for {youtube_id}")
     audio_file = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
@@ -119,7 +121,8 @@ def generate_transcript(youtube_id: str) -> bool:
         "2_audio_to_json_transcript.py",
         audio_file, 
         "--model", "large-v2", 
-        "--device", "cuda"
+        "--device", "cuda",
+        "--language", language
     ]
     
     # Pass the environment to the subprocess
@@ -139,7 +142,7 @@ def generate_transcript(youtube_id: str) -> bool:
         logger.error(f"❌ Step 2 failed: Transcript generation failed with exception: {str(e)}")
         return False
 
-def augment_transcript(youtube_id: str) -> bool:
+def augment_transcript(youtube_id: str, language: str) -> bool:
     """Step 3: Augment transcript with AI-generated translations and word-level information."""
     logger.info(f"🤖 Starting Step 3: Augment transcript for {youtube_id}")
     transcript_file = os.path.join(DATA_DIR, f"{youtube_id}.json")
@@ -156,7 +159,8 @@ def augment_transcript(youtube_id: str) -> bool:
     cmd = [
         sys.executable,
         "3_augment_transcript.py",
-        f"--youtube_id={youtube_id}"
+        f"--youtube_id={youtube_id}",
+        f"--language={language}"
     ]
     result = run_command(cmd, "Transcript augmentation")
     if result:
@@ -165,7 +169,7 @@ def augment_transcript(youtube_id: str) -> bool:
         logger.error(f"❌ Step 3 failed: Transcript augmentation failed for {youtube_id}")
     return result
 
-def insert_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
+def insert_transcript(youtube_id: str, title: str, is_premium: str, language: str) -> bool:
     """Step 4: Insert augmented transcript into database."""
     logger.info(f"💾 Starting Step 4: Insert transcript for {youtube_id}")
     augmented_file = os.path.join(DATA_DIR, f"{youtube_id}.json.2")
@@ -179,6 +183,7 @@ def insert_transcript(youtube_id: str, title: str, is_premium: str) -> bool:
         f"--youtube_id={youtube_id}",
         f"--title={title}",
         f"--is_premium={is_premium}",
+        f"--language={language}"
     ]
     result = run_command(cmd, "Transcript database insertion")
     if result:
@@ -192,6 +197,7 @@ def process_video(video: Dict[str, str]) -> bool:
     youtube_id = video["youtube_id"]
     title = video["title"]
     is_premium = video["is_premium"]
+    language = video.get("language", "de")  # Default to German if language not specified
     
     # Check if video already exists in database
     if video_exists_in_database(youtube_id):
@@ -206,17 +212,17 @@ def process_video(video: Dict[str, str]) -> bool:
         return False
     
     # Step 2: Generate transcript
-    if not generate_transcript(youtube_id):
+    if not generate_transcript(youtube_id, language):
         logger.error(f"❌ Pipeline failed at step 2 for video: {youtube_id}")
         return False
     
     # Step 3: Augment transcript
-    if not augment_transcript(youtube_id):
+    if not augment_transcript(youtube_id, language):
         logger.error(f"❌ Pipeline failed at step 3 for video: {youtube_id}")
         return False
     
     # Step 4: Insert transcript into database
-    if not insert_transcript(youtube_id, title, is_premium):
+    if not insert_transcript(youtube_id, title, is_premium, language):
         logger.error(f"❌ Pipeline failed at step 4 for video: {youtube_id}")
         return False
     

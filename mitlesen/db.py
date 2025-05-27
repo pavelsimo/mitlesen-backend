@@ -17,6 +17,7 @@ class Video:
         youtube_id: str,
         is_premium: bool,
         transcript: str,
+        language: str = 'de',
         vocabulary: str = None
     ):
         self.id = id
@@ -24,6 +25,7 @@ class Video:
         self.youtube_id = youtube_id
         self.is_premium = is_premium
         self.transcript = transcript
+        self.language = language
         self.vocabulary = vocabulary
 
     def to_dict(self) -> dict:
@@ -33,11 +35,12 @@ class Video:
             "youtube_id": self.youtube_id,
             "is_premium": self.is_premium,
             "transcript": self.transcript,
+            "language": self.language,
             "vocabulary": self.vocabulary
         }
 
     @classmethod
-    def insert(cls, client: Client, title: str, youtube_id: str, is_premium: bool, transcript: str, vocabulary: str = None) -> None:
+    def insert(cls, client: Client, title: str, youtube_id: str, is_premium: bool, transcript: str, language: str = 'de', vocabulary: str = None) -> None:
         """
         Insert a new video record.
 
@@ -47,13 +50,15 @@ class Video:
             youtube_id: YouTube video ID.
             is_premium: Whether the video is premium.
             transcript: Transcript JSON as a string.
+            language: Language code of the video (e.g., 'de', 'ja').
             vocabulary: Vocabulary JSON as a string (optional).
         """
         record = {
             'title': title,
             'youtube_id': youtube_id,
             'is_premium': is_premium,
-            'transcript': transcript
+            'transcript': transcript,
+            'language': language
         }
         
         if vocabulary:
@@ -104,6 +109,7 @@ class Video:
                 youtube_id=row['youtube_id'],
                 is_premium=row['is_premium'],
                 transcript=row['transcript'],
+                language=row.get('language', 'de'),
                 vocabulary=row.get('vocabulary')
             )
             records.append(record)
@@ -126,6 +132,7 @@ class Video:
             youtube_id=row['youtube_id'],
             is_premium=row['is_premium'],
             transcript=row['transcript'],
+            language=row.get('language', 'de'),
             vocabulary=row.get('vocabulary')
         )
 

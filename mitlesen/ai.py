@@ -4,6 +4,7 @@ from openai import OpenAI
 from google import genai
 from dotenv import load_dotenv
 from pydantic import BaseModel
+from .prompts import get_system_instruction
 
 load_dotenv()
 
@@ -15,19 +16,20 @@ class CompletionClient:
     def __init__(
         self,
         backend: str,
+        language: str = 'de',
         model_openai: str = "gpt-4o-mini",
         model_gemini: str = "gemini-2.0-flash",
-        system_instruction: str = "You are a precise language-processing assistant. You will receive a raw transcript from a German video",
+        system_prompt: Optional[str] = None,
     ):
         self.model_openai = model_openai
         self.model_gemini = model_gemini
         self.backend = backend.lower()
-        self.system_instruction = system_instruction
+        self.system_prompt = system_prompt or get_system_instruction(language)
         
         if self.backend == "openai":
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
             self.model = model_openai
-            self._messages = [{"role": "system", "content": self.system_instruction}]
+            self._messages = [{"role": "system", "content": self.system_prompt}]
         elif self.backend == "gemini":
             self.client = genai.Client(api_key=os.getenv("GEMINI_KEY"))
         else:
@@ -36,7 +38,7 @@ class CompletionClient:
     def reset(self):
         """Clear conversation history (but keep the system instruction)."""
         if self.backend == "openai":
-            self._messages = [{"role": "system", "content": self.system_instruction}]
+            self._messages = [{"role": "system", "content": self.system_prompt}]
 
     def complete(self, prompt: str, response_schema: Optional[Type[T]] = None) -> str:
         """
@@ -76,22 +78,23 @@ class CompletionStreamClient:
     def __init__(
         self,
         backend: str,
+        language: str = 'de',
         page_size: int = 10,
         model_openai: str = "gpt-4o-mini",
         model_gemini: str = "gemini-2.0-flash",
-        system_instruction: str = "You are a precise language-processing assistant. You will receive a raw transcript from a German video",
+        system_prompt: Optional[str] = None,
     ):
         self.backend = backend
         self.page_size = page_size
         self.openai_client: Optional[OpenAI] = None
         self.gemini_chat = None
-        self.system_instruction = system_instruction
+        self.system_prompt = system_prompt or get_system_instruction(language)
         self.model_openai = model_openai
         self.model_gemini = model_gemini
 
         if backend == "openai":
             self.openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-            self._messages = [{"role": "system", "content": self.system_instruction}]
+            self._messages = [{"role": "system", "content": self.system_prompt}]
         elif backend == "gemini":
             client = genai.Client(api_key=os.getenv("GEMINI_KEY"))
             self.gemini_chat = client.chats.create(model=self.model_gemini)

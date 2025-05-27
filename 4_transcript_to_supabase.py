@@ -10,7 +10,7 @@ from mitlesen.logger import logger
 
 load_dotenv()
 
-def insert_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
+def insert_transcript(youtube_id: str, title: str, is_premium: bool, language: str) -> None:
     """
     Insert an augmented transcript into the database.
     
@@ -18,12 +18,12 @@ def insert_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
         youtube_id: YouTube video ID
         title: Title of the YouTube video
         is_premium: Boolean indicating if video is premium
+        language: Language code of the video (e.g., 'de', 'ja')
     """
     DATA_FOLDER = 'data'
     db = Database()
 
     transcript_path = os.path.join(DATA_FOLDER, youtube_id + '.json.2')
-
     try:
         # Check if video already exists
         if Video.exists(db.client, youtube_id):
@@ -39,6 +39,7 @@ def insert_transcript(youtube_id: str, title: str, is_premium: bool) -> None:
                 title=title,
                 youtube_id=youtube_id,
                 is_premium=is_premium,
+                language=language,
                 transcript=json.dumps(transcript)
             )
 
@@ -55,10 +56,12 @@ if __name__ == "__main__":
     parser.add_argument('--title', type=str, required=True, help='Title of the YouTube video')
     parser.add_argument('--is_premium', type=str, choices=['true', 'false'], default='false', 
                        help='Whether the video is premium or not (true/false)')
+    parser.add_argument('--language', type=str, choices=['de', 'ja'], default='de',
+                       help='Language code of the video (de/ja)')
     
     args = parser.parse_args()
     
     # Convert string to boolean
     is_premium_bool = args.is_premium.lower() == "true"
     
-    insert_transcript(args.youtube_id, args.title, is_premium_bool) 
+    insert_transcript(args.youtube_id, args.title, is_premium_bool, args.language) 

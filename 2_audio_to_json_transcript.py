@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 import whisperx
+
 from mitlesen.logger import logger
 
 # IMPORTANT: cudnn libs
@@ -17,7 +18,7 @@ def transcribe(
     compute_type = "float16" if device.startswith("cuda") else "float32"
     batch_size = 4
     model = whisperx.load_model(model_name, device, compute_type=compute_type, language=language)
-    result = model.transcribe(audio, batch_size=batch_size)
+    result = model.transcribe(audio, batch_size=batch_size, chunk_size=30)
 
     align_model, metadata = whisperx.load_align_model(
         language_code=language,
