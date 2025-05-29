@@ -1,6 +1,7 @@
 """Prompts used for AI operations in the mitlesen package."""
 
-from typing import Dict
+from typing import Dict, List
+import json
 
 # Language-specific system prompts for AI models
 LANGUAGE_SYSTEM_PROMPTS: Dict[str, str] = {
@@ -127,19 +128,238 @@ def aug_transcript_prompt(sentences_json: str, language: str = 'de') -> str:
     else:
         return get_german_transcript_prompt(sentences_json)
 
-def jp_word_split_prompt(sentence: str) -> str:
-    """Generate prompt for splitting Japanese text into words.
+def jp_word_split_prompt(sentences_json: str) -> str:
+    """
+    Build a prompt that asks a large-language model to
+      1. segment Japanese sentences into words, and
+      2. output a per-word list of romaji syllables.
+    The prompt is designed to prevent the most common LLM errors.
+    """
+    return f"""
+You are a meticulous Japanese tokenizer and phonetic transcriber.
+
+TASK
+-----
+For **each** sentence in the JSON array below, return a JSON object with:
+
+  "words"     : the sentence split into words  
+  "phonetics" : an array where the i-th element is an **array of romaji
+                syllables** for the i-th word
+
+Return **one valid JSON array** only — no headings, comments, code fences,
+or extra keys.
+
+STRICT OUTPUT CONTRACT
+----------------------
+1. Output *valid JSON* (UTF-8), never wrapped in ``` and with no trailing commas.  
+2. Preserve every original character exactly as written.  
+3. Skip punctuation, emoji, numbers, and symbols; they do **not** become words.
+
+WORD-SEGMENTATION RULES
+-----------------------
+▪ A word is a continuous span of the original string (keep characters contiguous).  
+▪ Preserve order.  
+▪ Do **not** fuse particles with neighbouring words.  
+▪ Treat katakana loan-words (アイロン, コーヒー, etc.) as single words.
+
+ROMAJI RULES
+------------
+Romanisation scheme: **Modified Hepburn**, lower-case ASCII, *no* macrons  
+(おう → "ou", えい → "ei").
+
+**A. Kanji** — *one character → one token*  
+1. Output **exactly one** romaji token **per kanji character**, even if that
+   reading contains several morae or a long vowel.  
+   • 本当 → ["hon", "tou"] ✅ NOT ["hon", "to", "u"] ❌  
+   • 見下り → ["mi", "kuda", "ri"] ✅ NOT ["mi", "ku", "da", "ri"] ❌  
+   • 話 → ["hanashi"] (single kanji, multi-mora reading)  
+2. If a word contains several kanji, still obey the one-kanji-one-token rule.  
+   • 電話 → ["den", "wa"]  
+3. When kanji are followed by okurigana, treat the okurigana with the kana
+   rules (section B).  
+   • 話す → ["hana", "su"] (話 = “hana”, す = “su”)
+
+**B. Pure kana words** — list **every kana separately**  
+   • ある → ["a", "ru"]  
+   • わかれた → ["wa", "ka", "re", "ta"]
+
+**C. Digraphs, small っ/ッ, ー, ん, small vowels**  
+1. **Digraphs (拗音)** – base kana + small ゃ/ゅ/ょ is *one* syllable.  
+   • しょっぱい → ["sho", "p", "pa", "i"]  
+2. **Geminate consonant っ/ッ** – output "xtsu" as its own token.  
+   • がっこう → ["ga", "xtsu", "ko", "u"]  
+3. **Prolonged-sound mark ー** – repeat the preceding vowel.  
+   • コーヒー → ["ko", "o", "hi", "i"]  
+4. **Syllabic ん/ン** – always its own token "n"; **never** fuse it with the
+   preceding syllable, even after a digraph.  
+   • ばあちゃん → ["ba", "a", "cha", "n"]  
+5. **Small vowels ぁぃぅぇぉ** – merge with the preceding consonant.  
+   • むずかしぃ → ["mu", "zu", "ka", "shi", "i"]
+
+QUICK KANA→ROMAJI CHEAT-SHEET
+-----------------------------
+あ a   い i   う u   え e   お o  
+か ka  き ki  く ku  け ke  こ ko  
+さ sa  し shi す su  せ se  そ so  
+た ta  ち chi つ tsu て te  と to  
+な na  に ni  ぬ nu  ね ne  の no  
+は ha  ひ hi  ふ fu  へ he  ほ ho  
+ま ma  み mi  む mu  め me  も mo  
+や ya      ゆ yu      よ yo  
+ら ra  り ri  る ru  れ re  ろ ro  
+わ wa      を wo  
+ん n  
+(Apply dakuten/handakuten normally: が ga, ぱ pa, etc.)
+
+COMMON PITFALLS TO AVOID
+------------------------
+✗ Never split a single kanji reading into multiple tokens  
+  ("tou" → "to","u" ✗; "kuda" → "ku","da" ✗).  
+✗ Never collapse multiple kana into one romaji token ("sore" ✗).  
+✗ Never split digraphs ("shi", "sho" must stay whole).  
+✗ Never fuse ん/ン with the previous syllable ("chan" ✗).  
+✗ Never assign readings to punctuation or emojis.  
+✗ Never invent macrons or capital letters.
+
+EXAMPLES
+--------
+Input: ["本当のことも切り出せず見苦しく取り付け",
+        "ばあちゃんに話す",
+        "地堕落なお前に愛想をつかして見下り範"]  
+Output:
+[
+  {{
+    "words": ["本当", "の", "こと", "も", "切り出せ", "ず", "見苦しく", "取り付け"],
+    "phonetics": [
+      ["hon", "tou"],
+      ["no"],
+      ["ko", "to"],
+      ["mo"],
+      ["ki", "ri", "da", "se"],
+      ["zu"],
+      ["mi", "gu", "ru", "shi", "ku"],
+      ["to", "ri", "tsu", "ke"]
+    ]
+  }},
+  {{
+    "words": ["ばあちゃん", "に", "話", "す"],
+    "phonetics": [
+      ["ba", "a", "cha", "n"],
+      ["ni"],
+      ["hanashi"],
+      ["su"]
+    ]
+  }},
+  {{
+    "words": ["地堕落", "な", "お前", "に", "愛想", "を", "つかし", "て", "見下り", "範"],
+    "phonetics": [
+      ["ji", "da", "raku"],
+      ["na"],
+      ["o", "mae"],
+      ["ni"],
+      ["ai", "so"],
+      ["wo"],
+      ["tsu", "ka", "shi"],
+      ["te"],
+      ["mi", "kuda", "ri"],
+      ["han"]
+    ]
+  }}
+]
+
+SENTENCES
+---------
+{sentences_json}
+""".strip()
+
+
+def jp_word_split_fix_prompt(sentence: str, error_msg: str, current_words: List[str]) -> str:
+    """Generate prompt for fixing word splits that failed validation.
     
     Args:
-        sentence: Japanese sentence to split into words
+        sentence: Original Japanese sentence
+        error_msg: Error message explaining what went wrong
+        current_words: Current (incorrect) word splits
         
     Returns:
         Formatted prompt string for the AI model
     """
-    return f"""Please return a JSON array of the surface-forms (words) in order for the Japanese sentence below.
-IMPORTANT: Only include words that exactly match the characters in the sentence. Do not add any punctuation or special characters.
+    return f"""The previous attempt to split the Japanese sentence failed validation. Please fix the word splits.
 
-Sentence:  
+Error message: {error_msg}
+
+Current (incorrect) word splits: {json.dumps(current_words, ensure_ascii=False)}
+
+TASK
+-----
+Return a single JSON object (not an array) with:
+
+  "words"     : the sentence split into words  
+  "phonetics" : an array where the i-th element is an array of romaji syllables for the i-th word
+
+STRICT OUTPUT CONTRACT
+----------------------
+1. Output *valid JSON* (UTF-8), never wrapped in ``` and with no trailing commas.  
+2. Preserve every original character exactly as written.  
+3. Skip punctuation, emoji, numbers, and symbols; they do **not** become words.
+4. Return a single object, not an array, since this is a fix for a single sentence.
+
+WORD-SEGMENTATION RULES
+-----------------------
+▪ A word is a continuous span of the original string (keep characters contiguous).  
+▪ Preserve order.  
+▪ Do **not** fuse particles with neighbouring words.  
+▪ Treat katakana loan-words (アイロン, コーヒー, etc.) as single words.
+
+ROMAJI RULES
+------------
+Romanisation scheme: **Modified Hepburn**, lower-case ASCII, *no* macrons  
+(おう → "ou", えい → "ei").
+
+**A. Kanji** — *one character → one token*  
+1. Output **exactly one** romaji token **per kanji character**, even if that
+   reading contains several morae or a long vowel.  
+   • 本当 → ["hon", "tou"] ✅ NOT ["hon", "to", "u"] ❌  
+   • 見下り → ["mi", "kuda", "ri"] ✅ NOT ["mi", "ku", "da", "ri"] ❌  
+   • 話 → ["hanashi"] (single kanji, multi-mora reading)  
+2. If a word contains several kanji, still obey the one-kanji-one-token rule.  
+   • 電話 → ["den", "wa"]  
+3. When kanji are followed by okurigana, treat the okurigana with the kana
+   rules (section B).  
+   • 話す → ["hana", "su"] (話 = "hana", す = "su")
+
+**B. Pure kana words** — list **every kana separately**  
+   • ある → ["a", "ru"]  
+   • わかれた → ["wa", "ka", "re", "ta"]
+
+**C. Digraphs, small っ/ッ, ー, ん, small vowels**  
+1. **Digraphs (拗音)** – base kana + small ゃ/ゅ/ょ is *one* syllable.  
+   • しょっぱい → ["sho", "p", "pa", "i"]  
+2. **Geminate consonant っ/ッ** – output "xtsu" as its own token.  
+   • がっこう → ["ga", "xtsu", "ko", "u"]  
+3. **Prolonged-sound mark ー** – repeat the preceding vowel.  
+   • コーヒー → ["ko", "o", "hi", "i"]  
+4. **Syllabic ん/ン** – always its own token "n"; **never** fuse it with the
+   preceding syllable, even after a digraph.  
+   • ばあちゃん → ["ba", "a", "cha", "n"]  
+5. **Small vowels ぁぃぅぇぉ** – merge with the preceding consonant.  
+   • むずかしぃ → ["mu", "zu", "ka", "shi", "i"]
+
+EXAMPLE
+-------
+Input: "ばあちゃんに話す"
+Output:
+{{
+  "words": ["ばあちゃん", "に", "話", "す"],
+  "phonetics": [
+    ["ba", "a", "cha", "n"],
+    ["ni"],
+    ["hanashi"],
+    ["su"]
+  ]
+}}
+
+SENTENCE TO FIX
+--------------
 {sentence}
-
-Respond with a JSON array of words only, like: ["とても", "プロの彼女", "ができてる", "とは", "思えませんし"]""" 
+""".strip() 

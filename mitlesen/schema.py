@@ -8,7 +8,7 @@ class Word(BaseModel):
     translation: str
     type: str  # verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle
     case: str  # nominativ, akkusativ, dativ, genitiv, or empty string
-    phonetic: Optional[str] = None  # romaji for Japanese words, None for other languages
+    phonetic: Optional[List[str]] = None  # list of romaji for each character in Japanese words, None for other languages
 
 class Sentence(BaseModel):
     id: int
