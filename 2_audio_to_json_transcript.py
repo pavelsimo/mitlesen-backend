@@ -7,6 +7,7 @@ from mitlesen.logger import logger
 
 # IMPORTANT: cudnn libs
 # export LD_LIBRARY_PATH=/home/ubuntu/.virtualenvs/mitlesen-backend/lib/python3.12/site-packages/nvidia/cudnn/lib/
+
 def transcribe(
     audio_path: str,
     model_name: str = "large-v2",
@@ -14,16 +15,26 @@ def transcribe(
     language: str = "de",
 ) -> str:
 
+    # load audio & Whisper model
     audio = whisperx.load_audio(audio_path)
     compute_type = "float16" if device.startswith("cuda") else "float32"
-    batch_size = 4
     model = whisperx.load_model(model_name, device, compute_type=compute_type, language=language)
-    result = model.transcribe(audio, batch_size=batch_size, chunk_size=30)
+    # pick a custom aligner for Japanese
+    if language.lower() == "ja":
+        result = model.transcribe(audio, batch_size=4, chunk_size=6)
+        align_model_name = "jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+    else:
+        result = model.transcribe(audio, batch_size=4, chunk_size=30)
+        align_model_name = None  # use WhisperX default
 
+    # load the align model (custom or default)
     align_model, metadata = whisperx.load_align_model(
+        model_name=align_model_name,
         language_code=language,
         device=device
     )
+
+    # forced alignment
     aligned = whisperx.align(
         result["segments"],
         align_model,
@@ -33,21 +44,17 @@ def transcribe(
         return_char_alignments=False,
     )
 
+    # build word-level JSON
     segments = []
-
     for idx, seg in enumerate(aligned["segments"]):
         words = []
         for w in seg["words"]:
-            print(w)
-            w_start = w.get("start", -1)
-            w_end = w.get("end", -1)
-            if w_start == -1 or w_end == -1:
-                pass
-            else:
+            start, end = w.get("start", None), w.get("end", None)
+            if start is not None and end is not None:
                 words.append({
                     "text": w["word"],
-                    "start": w_start,
-                    "end": w_end,
+                    "start": start,
+                    "end": end,
                 })
         segments.append({
             "id": idx,
@@ -81,7 +88,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--language",
         default="de",
-        help="Language code for transcription (e.g., 'de' for German)",
+        help="Language code for transcription (e.g., 'de' for German, 'ja' for Japanese)",
     )
     parser.add_argument(
         "--output-json",
@@ -99,11 +106,7 @@ if __name__ == "__main__":
     logger.info(transcription)
 
     # Determine output path
-    if args.output_json:
-        out_path = args.output_json
-    else:
-        base, _ = os.path.splitext(args.audio)
-        out_path = base + ".json"
+    out_path = args.output_json or os.path.splitext(args.audio)[0] + ".json"
 
     # Write to file
     with open(out_path, "w", encoding="utf-8") as f:

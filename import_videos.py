@@ -18,8 +18,6 @@ def ensure_data_dir():
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
         logger.info(f"📁 Created data directory: {DATA_DIR}")
-
-        
     else:
         logger.info(f"📁 Using existing data directory: {DATA_DIR}")
 
@@ -75,10 +73,15 @@ def run_command(cmd: List[str], step_name: str) -> bool:
 def download_audio(youtube_id: str) -> bool:
     """Step 1: Download audio from YouTube."""
     logger.info(f"🎵 Starting Step 1: Download audio for {youtube_id}")
-    audio_file = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
+    audio_file_mp3 = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
+    audio_file_wav = os.path.join(DATA_DIR, f"{youtube_id}.wav")
     
-    if os.path.exists(audio_file):
-        logger.warning(f"⚠️ Audio file already exists: {audio_file}. Skipping download.")
+    # Check if either audio file already exists
+    if os.path.exists(audio_file_mp3):
+        logger.info(f"ℹ️ MP3 file already exists: {audio_file_mp3}")
+        return True
+    if os.path.exists(audio_file_wav):
+        logger.info(f"ℹ️ WAV file already exists: {audio_file_wav}")
         return True
     
     # Use a list for command arguments to properly handle YouTube IDs starting with "-"
@@ -101,9 +104,21 @@ def download_audio(youtube_id: str) -> bool:
 def generate_transcript(youtube_id: str, language: str) -> bool:
     """Step 2: Generate transcript from audio."""
     logger.info(f"🔊 Starting Step 2: Generate transcript for {youtube_id}")
-    audio_file = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
-    if not os.path.exists(audio_file):
-        logger.error(f"❌ Audio file not found: {audio_file}")
+    
+    # Check for both audio file formats
+    audio_file_mp3 = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
+    audio_file_wav = os.path.join(DATA_DIR, f"{youtube_id}.wav")
+    
+    # Determine which audio file to use
+    audio_file = None
+    if os.path.exists(audio_file_mp3):
+        audio_file = audio_file_mp3
+        logger.info(f"ℹ️ Using MP3 file: {audio_file}")
+    elif os.path.exists(audio_file_wav):
+        audio_file = audio_file_wav
+        logger.info(f"ℹ️ Using WAV file: {audio_file}")
+    else:
+        logger.error(f"❌ No audio file found for {youtube_id} (checked both .mp3 and .wav)")
         return False
     
     # Set the required environment variable for CUDA libraries
