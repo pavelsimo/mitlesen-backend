@@ -5,3 +5,6 @@ dotenv
 whisperx
 ctranslate2
 yt-dlp
+janome>=0.5.0
+pykakasi>=2.2.1
+python-dotenv>=1.0.0
