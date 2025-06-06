@@ -137,13 +137,14 @@ def generate_transcript(youtube_id: str, language: str) -> bool:
         audio_file, 
         "--model", "large-v2", 
         "--device", "cuda",
-        "--language", language
+        "--language", language,
+        "--split-sentences"  # Enable sentence splitting
     ]
     
     # Pass the environment to the subprocess
     try:
         logger.info(f"⚙️ Running Transcript generation: {' '.join(cmd)}")
-        result = subprocess.run(cmd, check=True, text=True, capture_output=True, env=env)
+        result = subprocess.run(cmd, check=True, text=True, capture_output=False, env=env)
         logger.info("✅ Step 2 completed: Transcript generation successful")
         if result.stdout:
             logger.debug(f"📄 Transcript generation output: {result.stdout}")

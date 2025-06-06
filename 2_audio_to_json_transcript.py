@@ -2,8 +2,10 @@ import argparse
 import json
 import os
 import whisperx
+from typing import List, Dict, Any
 
 from mitlesen.logger import logger
+from mitlesen.german import split_german_segments
 
 # IMPORTANT: cudnn libs
 # export LD_LIBRARY_PATH=/home/ubuntu/.virtualenvs/mitlesen-backend/lib/python3.12/site-packages/nvidia/cudnn/lib/
@@ -13,6 +15,7 @@ def transcribe(
     model_name: str = "large-v2",
     device: str = "cpu",
     language: str = "de",
+    split_sentences: bool = False,
 ) -> str:
 
     # load audio & Whisper model
@@ -64,6 +67,13 @@ def transcribe(
             "words": words,
         })
 
+    # After creating segments, add sentence splitting if requested
+    if split_sentences:
+        if language.lower() == "ja":
+            logger.info("Japanese text detected - skipping sentence splitting")
+        else:
+            segments = split_german_segments(segments)
+    
     return json.dumps(segments, indent=2, ensure_ascii=False)
 
 
@@ -94,6 +104,11 @@ if __name__ == "__main__":
         "--output-json",
         help="Path to save the transcription JSON (defaults to <audio_basename>.json)",
     )
+    parser.add_argument(
+        "--split-sentences",
+        action="store_true",
+        help="Split transcription into sentences using wtpsplit"
+    )
     args = parser.parse_args()
 
     # Run transcription
@@ -102,6 +117,7 @@ if __name__ == "__main__":
         model_name=args.model,
         device=args.device,
         language=args.language,
+        split_sentences=args.split_sentences,
     )
     logger.info(transcription)
 
