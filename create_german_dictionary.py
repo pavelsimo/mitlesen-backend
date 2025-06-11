@@ -3,8 +3,8 @@ import hashlib
 import json
 
 # Define database path and input file
-db_path = "dict/german_dictionary.sqlite"
-jsonl_path = "dict/kaikki.org-dictionary-German.jsonl"
+db_path = "dict/output/german_dictionary.sqlite"
+jsonl_path = "dict/input/kaikki.org-dictionary-German.jsonl"
 
 # Schema: similar to the Japanese one, but no kana/romaji/furigana
 schema = """

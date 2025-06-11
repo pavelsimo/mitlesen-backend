@@ -12,3 +12,4 @@ spacy
 jamdict
 jamdict-data
 pykakasi
+coqui-tts

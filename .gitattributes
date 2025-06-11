@@ -4,3 +4,6 @@ data/*.json filter=lfs diff=lfs merge=lfs -text
 data/*.json.2 filter=lfs diff=lfs merge=lfs -text
 backups/*.csv filter=lfs diff=lfs merge=lfs -text
 backups/*.sql filter=lfs diff=lfs merge=lfs -text
+dict/input/*.xml filter=lfs diff=lfs merge=lfs -text
+dict/output/*.sqlite filter=lfs diff=lfs merge=lfs -text
+dict/input/*.jsonl filter=lfs diff=lfs merge=lfs -text
