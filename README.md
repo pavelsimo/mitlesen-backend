@@ -16,3 +16,12 @@
 ## Japanese Full-Text-Search in SQLITE
 
 - https://elianiva.my.id/posts/japanese-fts-using-sqlite/
+
+
+# New Data Structure
+
+data/videos
+data/dictionaries
+data/speeches
+data/covers
+data/backups

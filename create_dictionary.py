@@ -1,9 +1,10 @@
+import os
 from mitlesen.dictionary import Dictionary, GermanDictionary, JapaneseDictionary
 
 def main():
-    db_path = "dict/output/dictionary.sqlite"
-    german_jsonl = "dict/input/kaikki.org-dictionary-German.jsonl"
-    japanese_xml = "dict/input/JMdict_e.xml"
+    db_path = os.path.join("dict", "output", "dictionary.sqlite")
+    german_jsonl = os.path.join("dict", "input", "kaikki.org-dictionary-German.jsonl")
+    japanese_xml = os.path.join("dict", "input", "JMdict_e.xml")
 
     db = Dictionary(db_path)
     db.add_dictionary(GermanDictionary(db_path, german_jsonl))

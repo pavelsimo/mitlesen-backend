@@ -20,8 +20,6 @@ class BaseDictionary(ABC):
         gender TEXT,
         meanings TEXT,
         furigana TEXT,
-        ogg_url TEXT,
-        mp3_url TEXT,
         level TEXT
     );
     """
@@ -56,17 +54,25 @@ class BaseDictionary(ABC):
         print(f"✅ Indexes created in: {self.output_path}")
 
 class GermanDictionary(BaseDictionary):
+    # Allowed subset: {noun, verb, adjective, adverb, pronoun, conjunction, interjection, number}
     POS_MAP = {
         "noun": "noun",
-        "verb": "verb",
+        "name": "noun",
+        "adj": "adjective",
         "adjective": "adjective",
+        "adv": "adverb",
         "adverb": "adverb",
+        "pron": "pronoun",
         "pronoun": "pronoun",
+        "conj": "conjunction",
         "conjunction": "conjunction",
+        "intj": "interjection",
         "interjection": "interjection",
-        "particle": "particle",
-        "numeral": "number",
-        "letter": "letter"
+        "num": "number",
+        "number": "number",
+        "verb": "verb",
+        "prep": "preposition",
+        # All others will be mapped to 'other' below
     }
 
     def __init__(self, output_path: str, jsonl_path: str):
@@ -114,26 +120,19 @@ class GermanDictionary(BaseDictionary):
                     glosses = sense.get("glosses", [])
                     if glosses:
                         meanings.append("; ".join(glosses))
-                meaning_text = "; ".join(meanings) if meanings else None
-                sounds = entry.get("sounds", [])
-                ogg_url = None
-                mp3_url = None
-                for s in sounds:
-                    if not ogg_url and "ogg_url" in s:
-                        ogg_url = s["ogg_url"]
-                    if not mp3_url and "mp3_url" in s:
-                        mp3_url = s["mp3_url"]
+                # Store meanings as a JSON array of strings
+                meanings_json = json.dumps(meanings, ensure_ascii=True) if meanings else None
                 id_ = self.make_id(lang, lemma, pos)
                 conn.execute(
                     """
                     INSERT OR REPLACE INTO dictionary (
                         id, lang, word, kana, romaji, lemma, pos, pos_remarks, gender,
-                        meanings, furigana, ogg_url, mp3_url, level
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        meanings, furigana, level
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (
                         id_, lang, word, None, None, lemma, pos, pos_remarks, gender,
-                        meaning_text, None, ogg_url, mp3_url, None
+                        meanings_json, None, None
                     )
                 )
         conn.commit()
@@ -247,7 +246,7 @@ class JapaneseDictionary(BaseDictionary):
 
     def extract_meanings(self, ent):
         glosses = ent.findall("sense/gloss")
-        return "; ".join(g.text for g in glosses if g is not None and g.text)
+        return [g.text for g in glosses if g is not None and g.text]
 
     def create(self):
         conn = sqlite3.connect(self.output_path)
@@ -264,6 +263,7 @@ class JapaneseDictionary(BaseDictionary):
             lemma = word_text
             pos, pos_remarks = self.extract_pos_and_remarks(ent)
             meanings = self.extract_meanings(ent)
+            meanings_json = json.dumps(meanings, ensure_ascii=True) if meanings else None
             furigana = str(self.extract_furigana(ent))
             level = self.extract_level(ent)
             id_ = self.make_id(lang, lemma, pos)
@@ -271,11 +271,11 @@ class JapaneseDictionary(BaseDictionary):
                 '''
                 INSERT OR REPLACE INTO dictionary (
                     id, lang, word, kana, romaji, lemma, pos, pos_remarks, gender,
-                    meanings, furigana, ogg_url, mp3_url, level
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',
+                    meanings, furigana, level
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',
                 (
                     id_, lang, word_text, kana_text, romaji, lemma, pos, pos_remarks, None,
-                    meanings, furigana, None, None, level
+                    meanings_json, furigana, level
                 )
             )
         conn.commit()
