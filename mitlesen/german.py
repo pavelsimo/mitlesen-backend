@@ -67,7 +67,7 @@ def split_long_sentence(sent: spacy.tokens.Span, max_len: int = 100) -> List[str
 
     current: List[str] = []
     current_len = 0
-    last_punct_pos = None                      # position of last “safe” split
+    last_punct_pos = None                      # position of last "safe" split
 
     def flush(upto: int | None = None) -> None:
         """Emit current[:upto] and keep the rest for the next round."""
@@ -197,3 +197,8 @@ def split_german_segments(
             current_segment_id += 1
 
     return new_segments
+
+
+def get_german_segmenter():
+    """Get a callable for splitting German segments (for migration compatibility)."""
+    return split_german_segments

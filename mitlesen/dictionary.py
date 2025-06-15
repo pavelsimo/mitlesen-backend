@@ -8,8 +8,7 @@ from dataclasses import dataclass
 
 from pykakasi import kakasi
 
-import logging
-logger = logging.getLogger(__name__)
+from mitlesen.logger import logger
 
 POS_CANON = {
     "noun": "noun",
@@ -106,6 +105,11 @@ class BaseDictionary(ABC):
 
     def create_indexes(self):
         cursor = self.conn.cursor()
+        # Composite indexes for search_japanese_word
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lang_lemma_pos ON dictionaries(lang, lemma, pos);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lang_lemma ON dictionaries(lang, lemma);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lang_kana ON dictionaries(lang, kana);")
+        # Existing single-column indexes (optional, keep if used elsewhere)
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_word ON dictionaries(word);")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lemma ON dictionaries(lemma);")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_kana ON dictionaries(kana);")
@@ -362,7 +366,9 @@ class JapaneseJMDictParser:
             lemma = word_text
             pos, pos_remarks = self.extract_pos_and_remarks(ent)
             meanings = self.extract_meanings(ent)
-            furigana = str(self.extract_furigana(ent))
+            furigana = self.extract_furigana(ent)
+            if furigana is not None:
+                furigana = json.dumps(furigana, ensure_ascii=False)
             level = self.extract_level(ent)
             id_ = make_id(lang, lemma, pos)
             yield DictRow(
@@ -475,7 +481,7 @@ class JapaneseWiktionaryParser:
                     kana = lemma
                 romaji = self.extract_romaji(target_entry)
                 furigana_val = self.extract_furigana(target_entry)
-                furigana = str(furigana_val) if furigana_val is not None else None
+                furigana = json.dumps(furigana_val, ensure_ascii=False) if furigana_val is not None else None
                 meanings = self.extract_meanings(target_entry)
                 level = self.extract_level(target_entry)
                 id_ = make_id(lang, lemma, pos)
@@ -491,7 +497,7 @@ class JapaneseWiktionaryParser:
                     kana = lemma
                 romaji = self.extract_romaji(entry)
                 furigana_val = self.extract_furigana(entry)
-                furigana = str(furigana_val) if furigana_val is not None else None
+                furigana = json.dumps(furigana_val, ensure_ascii=False) if furigana_val is not None else None
                 meanings = self.extract_meanings(entry)
                 level = self.extract_level(entry)
                 id_ = make_id(lang, lemma, pos)

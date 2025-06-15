@@ -137,3 +137,7 @@ class CompletionStreamClient:
             ):
                 if chunk.text:
                     yield chunk.text
+
+def get_ai_client(backend: str, **kwargs) -> CompletionClient:
+    """Get an AI client for the specified backend (openai or gemini)."""
+    return CompletionClient(backend=backend, **kwargs)

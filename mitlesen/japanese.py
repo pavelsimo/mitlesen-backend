@@ -239,3 +239,7 @@ if __name__ == "__main__":
     print("Romaji  :", romaji)
     print("Hiragana:", hiragana)
     print("POS     :", pos_tags)
+
+def get_japanese_splitter() -> JapaneseWordSplitter:
+    """Get a JapaneseWordSplitter instance (for migration compatibility)."""
+    return JapaneseWordSplitter()
