@@ -1,7 +1,9 @@
-from dotenv import load_dotenv
 import os
 from typing import Optional, List
+
+from dotenv import load_dotenv
 from supabase import create_client, Client
+
 from mitlesen.logger import logger
 
 load_dotenv()
@@ -292,3 +294,145 @@ class Database:
         Close any resources if needed (Supabase uses HTTP so no persistent connection).
         """
         pass
+
+class Dictionary:
+    """
+    Data model for a dictionary entry (Supabase version).
+    """
+    def __init__(
+        self,
+        id: str,
+        lang: str,
+        word: str = None,
+        kana: str = None,
+        romaji: str = None,
+        lemma: str = None,
+        pos: str = None,
+        pos_remarks: str = "",
+        gender: str = None,
+        meanings: list = None,
+        furigana: str = None,
+        level: str = None
+    ):
+        self.id = id
+        self.lang = lang
+        self.word = word
+        self.kana = kana
+        self.romaji = romaji
+        self.lemma = lemma
+        self.pos = pos
+        self.pos_remarks = pos_remarks
+        self.gender = gender
+        self.meanings = meanings
+        self.furigana = furigana
+        self.level = level
+
+    def to_dict(self) -> dict:
+        import json
+        return {
+            "id": self.id,
+            "lang": self.lang,
+            "word": self.word,
+            "kana": self.kana,
+            "romaji": self.romaji,
+            "lemma": self.lemma,
+            "pos": self.pos,
+            "pos_remarks": self.pos_remarks,
+            "gender": self.gender,
+            "meanings": json.dumps(self.meanings, ensure_ascii=False) if self.meanings else None,
+            "furigana": self.furigana,
+            "level": self.level
+        }
+
+    @classmethod
+    def insert(cls, client: Client, entry: dict) -> None:
+        """
+        Insert a new dictionary record.
+        Args:
+            client: Supabase client instance
+            entry: Dictionary entry as a dict (use to_dict())
+        """
+        response = client.table('dictionaries').insert(entry).execute()
+        if response.error:
+            raise RuntimeError(f"Failed to insert dictionary entry {entry.get('id')}: {response.error.message}")
+        logger.info(f"✅ Dictionary entry {entry.get('id')} inserted successfully.")
+
+    @classmethod
+    def exists(cls, client: Client, entry_id: str) -> bool:
+        """
+        Check if a dictionary entry with the given id exists in the database.
+        Args:
+            client: Supabase client instance
+            entry_id: Dictionary entry ID to check
+        Returns:
+            bool: True if the entry exists, False otherwise
+        """
+        response = client.table('dictionaries').select('id').eq('id', entry_id).execute()
+        return len(response.data) > 0
+
+    @classmethod
+    def delete(cls, client: Client, entry_id: str) -> None:
+        """
+        Delete a dictionary entry by ID.
+        """
+        response = client.table('dictionaries').delete().eq('id', entry_id).execute()
+        if response.error:
+            raise RuntimeError(f"Failed to delete dictionary entry {entry_id}: {response.error.message}")
+        logger.info(f"🗑️ Dictionary entry {entry_id} deleted.")
+
+    @classmethod
+    def fetch_all(cls, client: Client) -> List['Dictionary']:
+        """
+        Fetch all dictionary records.
+        """
+        import json
+        response = client.table('dictionaries').select('*').execute()
+        if response.error:
+            raise RuntimeError(f"Failed to fetch dictionary records: {response.error.message}")
+        records: List[Dictionary] = []
+        for row in response.data:
+            meanings = json.loads(row['meanings']) if row.get('meanings') else None
+            record = cls(
+                id=row['id'],
+                lang=row['lang'],
+                word=row.get('word'),
+                kana=row.get('kana'),
+                romaji=row.get('romaji'),
+                lemma=row.get('lemma'),
+                pos=row.get('pos'),
+                pos_remarks=row.get('pos_remarks', ''),
+                gender=row.get('gender'),
+                meanings=meanings,
+                furigana=row.get('furigana'),
+                level=row.get('level')
+            )
+            records.append(record)
+        return records
+
+    @classmethod
+    def fetch_by_id(cls, client: Client, entry_id: str) -> Optional['Dictionary']:
+        """
+        Fetch a dictionary record by its ID.
+        """
+        import json
+        response = client.table('dictionaries').select('*').eq('id', entry_id).single().execute()
+        if response.error and 'no rows found' in response.error.message.lower():
+            return None
+        if response.error:
+            raise RuntimeError(f"Failed to fetch dictionary entry {entry_id}: {response.error.message}")
+        row = response.data
+        meanings = json.loads(row['meanings']) if row.get('meanings') else None
+        return cls(
+            id=row['id'],
+            lang=row['lang'],
+            word=row.get('word'),
+            kana=row.get('kana'),
+            romaji=row.get('romaji'),
+            lemma=row.get('lemma'),
+            pos=row.get('pos'),
+            pos_remarks=row.get('pos_remarks', ''),
+            gender=row.get('gender'),
+            meanings=meanings,
+            furigana=row.get('furigana'),
+            level=row.get('level')
+        )

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import csv
 from typing import Dict, List
+
 from mitlesen.db import Database
 from mitlesen.logger import logger
 

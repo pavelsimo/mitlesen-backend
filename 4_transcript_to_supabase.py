@@ -7,6 +7,7 @@ from typing import Dict, List, Any
 from dotenv import load_dotenv
 from mitlesen.db import Database, Video
 from mitlesen.logger import logger
+from mitlesen import VIDEOS_DIR
 
 load_dotenv()
 
@@ -20,10 +21,9 @@ def insert_transcript(youtube_id: str, title: str, is_premium: bool, language: s
         is_premium: Boolean indicating if video is premium
         language: Language code of the video (e.g., 'de', 'ja')
     """
-    DATA_FOLDER = 'data'
     db = Database()
 
-    transcript_path = os.path.join(DATA_FOLDER, youtube_id + '.json.2')
+    transcript_path = os.path.join(VIDEOS_DIR, youtube_id + '.json.2')
     try:
         # Check if video already exists
         if Video.exists(db.client, youtube_id):

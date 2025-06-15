@@ -5,7 +5,7 @@ try:
     from TTS.api import TTS          # Coqui-TTS main entry-point
 except ImportError as exc:           # Fail fast if the library is missing
     raise ImportError(
-        "Coqui-TTS is not installed. Install it with `pip install TTS`."
+        "coqui-tts is not installed. Install it with `pip install coqui-tts`."
     ) from exc
 
 

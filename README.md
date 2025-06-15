@@ -18,10 +18,8 @@
 - https://elianiva.my.id/posts/japanese-fts-using-sqlite/
 
 
-# New Data Structure
+# Libraries
 
-data/videos
-data/dictionaries
-data/speeches
-data/covers
-data/backups
+
+- https://wanakana.com/
+- https://github.com/Starwort/wanakana-py

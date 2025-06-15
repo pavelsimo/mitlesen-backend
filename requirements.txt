@@ -13,3 +13,5 @@ jamdict
 jamdict-data
 pykakasi
 coqui-tts
+fugashi[unidic-lite]
+jamdict

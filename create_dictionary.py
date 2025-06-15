@@ -1,14 +1,15 @@
 import os
-from mitlesen.dictionary import Dictionary, GermanDictionary, JapaneseDictionary
+from mitlesen import DICTIONARIES_DIR
+from mitlesen.dictionary import SqliteDictionary, GermanWiktionaryParser, JapaneseJMDictParser
 
 def main():
-    db_path = os.path.join("dict", "output", "dictionary.sqlite")
-    german_jsonl = os.path.join("dict", "input", "kaikki.org-dictionary-German.jsonl")
-    japanese_xml = os.path.join("dict", "input", "JMdict_e.xml")
+    db_path = os.path.join(DICTIONARIES_DIR, "output", "dictionary.sqlite")
+    german_jsonl = os.path.join(DICTIONARIES_DIR, "input", "kaikki.org-dictionary-German.jsonl")
+    japanese_xml = os.path.join(DICTIONARIES_DIR, "input", "JMdict_e.xml")
 
-    db = Dictionary(db_path)
-    db.add_dictionary(GermanDictionary(db_path, german_jsonl))
-    db.add_dictionary(JapaneseDictionary(db_path, japanese_xml))
+    db = SqliteDictionary(db_path)
+    db.add_parser(JapaneseJMDictParser(japanese_xml))
+    db.add_parser(GermanWiktionaryParser(german_jsonl))
     print("Creating dictionary entries...")
     db.create_db()
     print(f"✅ Combined dictionary created at: {db_path}")

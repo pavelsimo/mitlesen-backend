@@ -1,14 +1,73 @@
-import sqlite3
-from abc import ABC, abstractmethod
-from typing import List
 import hashlib
 import json
+import sqlite3
+from abc import ABC
+from typing import List, Optional, Iterable
 import xml.etree.ElementTree as ET
+from dataclasses import dataclass
+
 from pykakasi import kakasi
+
+import logging
+logger = logging.getLogger(__name__)
+
+POS_CANON = {
+    "noun": "noun",
+    "name": "noun",
+    "adj": "adjective",
+    "adjective": "adjective",
+    "adv": "adverb",
+    "adverb": "adverb",
+    "pron": "pronoun",
+    "pronoun": "pronoun",
+    "conj": "conjunction",
+    "conjunction": "conjunction",
+    "intj": "interjection",
+    "interjection": "interjection",
+    "num": "number",
+    "number": "number",
+    "verb": "verb",
+    "counter": "counter",
+    "romanization": "romanization",
+    "character": "character",
+    "particle": "particle"
+}
+
+_pos_cache: dict[str, tuple[str, str]] = {}
+
+def canonicalise_pos(raw: str) -> tuple[str, str]:
+    raw = raw.lower().strip()
+    if raw in _pos_cache:
+        return _pos_cache[raw]
+    head, *tail = raw.replace("(", "").replace(")", "").split()
+    mapped = POS_CANON.get(head, "other")
+    remarks = "" if mapped != "other" else raw
+    _pos_cache[raw] = (mapped, " ".join(tail) if tail else remarks)
+    return _pos_cache[raw]
+
+def make_id(lang: str, lemma: str, pos: str) -> str:
+    return hashlib.sha1(f"{lang}:{lemma}:{pos}".encode()).hexdigest()
+
+KKS = kakasi()
+
+@dataclass
+class DictRow:
+    id: str
+    lang: str
+    word: str
+    kana: Optional[str] = None
+    romaji: Optional[str] = None
+    lemma: Optional[str] = None
+    pos: Optional[str] = None
+    pos_remarks: str = ""
+    gender: Optional[str] = None
+    meanings: Optional[list[str]] = None
+    furigana: Optional[str] = None
+    level: Optional[str] = None
 
 class BaseDictionary(ABC):
     schema = """
-    CREATE TABLE IF NOT EXISTS dictionary (
+    CREATE TABLE IF NOT EXISTS dictionaries (
         id TEXT PRIMARY KEY,
         lang TEXT NOT NULL,
         word TEXT,
@@ -23,68 +82,142 @@ class BaseDictionary(ABC):
         level TEXT
     );
     """
+    _INSERT_SQL = """
+        INSERT OR REPLACE INTO dictionaries (
+            id, lang, word, kana, romaji, lemma, pos, pos_remarks,
+            gender, meanings, furigana, level
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    """
 
     def __init__(self, output_path: str):
         self.output_path = output_path
+        self.conn = sqlite3.connect(self.output_path)
+        self.conn.row_factory = sqlite3.Row
 
-    @abstractmethod
-    def create(self):
-        """Create or update the dictionary in the output_path database."""
-        pass
+    def close(self):
+        if self.conn:
+            self.conn.close()
+            self.conn = None
 
     def create_schema(self):
-        """Create the dictionary table schema in the output_path database."""
-        conn = sqlite3.connect(self.output_path)
-        conn.execute(self.schema)
-        conn.commit()
-        conn.close()
+        self.conn.execute(self.schema)
+        self.conn.commit()
         print(f"✅ Schema created in: {self.output_path}")
 
     def create_indexes(self):
-        """Add indexes to relevant fields for search. Call on demand only."""
-        conn = sqlite3.connect(self.output_path)
-        cursor = conn.cursor()
-        # Add indexes for search-relevant fields
-        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionary_word ON dictionary(word);")
-        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionary_lemma ON dictionary(lemma);")
-        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionary_lang ON dictionary(lang);")
-        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionary_pos ON dictionary(pos);")
-        conn.commit()
-        conn.close()
+        cursor = self.conn.cursor()
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_word ON dictionaries(word);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lemma ON dictionaries(lemma);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_kana ON dictionaries(kana);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lang ON dictionaries(lang);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_pos ON dictionaries(pos);")
+        self.conn.commit()
         print(f"✅ Indexes created in: {self.output_path}")
 
-class GermanDictionary(BaseDictionary):
-    # Allowed subset: {noun, verb, adjective, adverb, pronoun, conjunction, interjection, number}
-    POS_MAP = {
-        "noun": "noun",
-        "name": "noun",
-        "adj": "adjective",
-        "adjective": "adjective",
-        "adv": "adverb",
-        "adverb": "adverb",
-        "pron": "pronoun",
-        "pronoun": "pronoun",
-        "conj": "conjunction",
-        "conjunction": "conjunction",
-        "intj": "interjection",
-        "interjection": "interjection",
-        "num": "number",
-        "number": "number",
-        "verb": "verb",
-        "prep": "preposition",
-        # All others will be mapped to 'other' below
-    }
+    def _bulk_insert(self, rows: Iterable[DictRow], batch_size: int = 1000):
+        self.conn.execute("PRAGMA journal_mode=WAL")
+        self.conn.execute("PRAGMA synchronous=OFF")
+        buf = []
+        for r in rows:
+            buf.append((
+                r.id, r.lang, r.word, r.kana, r.romaji, r.lemma,
+                r.pos, r.pos_remarks, r.gender,
+                json.dumps(r.meanings, ensure_ascii=False) if r.meanings else None,
+                r.furigana, r.level
+            ))
+            if len(buf) >= batch_size:
+                self.conn.executemany(self._INSERT_SQL, buf)
+                buf.clear()
+        if buf:
+            self.conn.executemany(self._INSERT_SQL, buf)
+        self.conn.commit()
 
-    def __init__(self, output_path: str, jsonl_path: str):
+    def search_by_lemma(self, lemma: str, lang: Optional[str] = None) -> list[dict]:
+        """Search for dictionary entries by lemma (and optionally language)."""
+        cursor = self.conn.cursor()
+        if lang:
+            cursor.execute("SELECT * FROM dictionaries WHERE lemma = ? AND lang = ?", (lemma, lang))
+        else:
+            cursor.execute("SELECT * FROM dictionaries WHERE lemma = ?", (lemma,))
+        rows = cursor.fetchall()
+        return [dict(row) for row in rows]
+
+class SqliteDictionary(BaseDictionary):
+    def __init__(self, output_path: str):
         super().__init__(output_path)
+        self._parsers: List = []
+
+    def add_parser(self, parser):
+        self._parsers.append(parser)
+
+    def create_db(self):
+        self.create_schema()
+        for parser in self._parsers:
+            self._bulk_insert(parser.parse())
+
+    def create_indexes(self):
+        super().create_indexes()
+
+    def search_japanese_word(self, word: dict) -> dict | None:
+        """Search for a Japanese dictionary entry by word dict using a prioritized matching logic. Returns a single record or None."""
+        lemma_kana = word.get('base_form')
+        lemma_kanji = word.get('base_form2')
+        pos = word.get('pos')
+        kana = word.get('text')
+        logger.info(f"Searching for Japanese word: lemma_kana={lemma_kana}, lemma_kanji={lemma_kanji}, pos={pos}, kana={kana}")
+        cursor = self.conn.cursor()
+        # 1. Try to match by (lang='ja', lemma_kana, pos)
+        if lemma_kana and pos:
+            logger.info(f"Attempting match by (lang='ja', lemma_kana={lemma_kana}, pos={pos})")
+            cursor.execute(
+                "SELECT * FROM dictionaries WHERE lang = ? AND lemma = ? AND pos = ?",
+                ('ja', lemma_kana, pos)
+            )
+            row = cursor.fetchone()
+            if row:
+                logger.info(f"Found a match by lemma_kana and pos")
+                return dict(row)
+        # 2. Try to match by (lang='ja', lemma_kanji, pos)
+        if lemma_kanji and pos:
+            logger.info(f"Attempting match by (lang='ja', lemma_kanji={lemma_kanji}, pos={pos})")
+            cursor.execute(
+                "SELECT * FROM dictionaries WHERE lang = ? AND lemma = ? AND pos = ?",
+                ('ja', lemma_kanji, pos)
+            )
+            row = cursor.fetchone()
+            if row:
+                logger.info(f"Found a match by lemma_kanji and pos")
+                return dict(row)
+        # 3. Try to match by (lang='ja', lemma_kana)
+        if lemma_kana:
+            logger.info(f"Attempting match by (lang='ja', lemma_kana={lemma_kana})")
+            cursor.execute(
+                "SELECT * FROM dictionaries WHERE lang = ? AND lemma = ?",
+                ('ja', lemma_kana)
+            )
+            row = cursor.fetchone()
+            if row:
+                logger.info(f"Found a match by lemma_kana")
+                return dict(row)
+        # 4. Try to match by (lang='ja', kana)
+        if kana:
+            logger.info(f"Attempting match by (lang='ja', kana={kana})")
+            cursor.execute(
+                "SELECT * FROM dictionaries WHERE lang = ? AND kana = ?",
+                ('ja', kana)
+            )
+            row = cursor.fetchone()
+            if row:
+                logger.info(f"Found a match by kana")
+                return dict(row)
+        logger.info("No matches found for any search criteria")
+        return None
+    
+class GermanWiktionaryParser:
+    def __init__(self, jsonl_path: str):
         self.jsonl_path = jsonl_path
 
-    @staticmethod
-    def make_id(lang, lemma, pos):
-        return hashlib.sha1(f"{lang}:{lemma}:{pos}".encode("utf-8")).hexdigest()
-
-    def create(self):
-        conn = sqlite3.connect(self.output_path)
+    def parse(self) -> Iterable[DictRow]:
         with open(self.jsonl_path, "r", encoding="utf-8") as f:
             for line in f:
                 entry = json.loads(line)
@@ -94,9 +227,8 @@ class GermanDictionary(BaseDictionary):
                 lang = "de"
                 lemma = word
                 gender = None
-                pos_raw = entry.get("pos", "").lower()
-                pos = self.POS_MAP.get(pos_raw, "other")
-                pos_remarks = pos_raw if pos == "other" else ""
+                pos_raw = entry.get("pos", "")
+                pos, pos_remarks = canonicalise_pos(pos_raw)
                 for sense in entry.get("senses", []):
                     tags = sense.get("tags", [])
                     gender_tags = [t for t in tags if t in {"masculine", "feminine", "neuter"}]
@@ -120,39 +252,13 @@ class GermanDictionary(BaseDictionary):
                     glosses = sense.get("glosses", [])
                     if glosses:
                         meanings.append("; ".join(glosses))
-                # Store meanings as a JSON array of strings
-                meanings_json = json.dumps(meanings, ensure_ascii=True) if meanings else None
-                id_ = self.make_id(lang, lemma, pos)
-                conn.execute(
-                    """
-                    INSERT OR REPLACE INTO dictionary (
-                        id, lang, word, kana, romaji, lemma, pos, pos_remarks, gender,
-                        meanings, furigana, level
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    """,
-                    (
-                        id_, lang, word, None, None, lemma, pos, pos_remarks, gender,
-                        meanings_json, None, None
-                    )
+                id_ = make_id(lang, lemma, pos)
+                yield DictRow(
+                    id=id_, lang=lang, word=word, lemma=lemma, pos=pos, pos_remarks=pos_remarks,
+                    gender=gender, meanings=meanings if meanings else None
                 )
-        conn.commit()
-        conn.close()
-        print(f"✅ Created database: {self.output_path}")
 
-class JapaneseDictionary(BaseDictionary):
-    POS_MAP = {
-        "noun": "noun",
-        "nouns": "noun",
-        "verb": "verb",
-        "adjective": "adjective",
-        "adjectival": "adjective",
-        "adverb": "adverb",
-        "pronoun": "pronoun",
-        "conjunction": "conjunction",
-        "interjection": "interjection",
-        "numeric": "number",
-        "counter": "number"
-    }
+class JapaneseJMDictParser:
     POS_REMARK_MAP = {
         "common futsuumeishi": "common noun (futsuumeishi)",
         "phrases clauses etc.": "phrase or clause",
@@ -197,17 +303,11 @@ class JapaneseDictionary(BaseDictionary):
         "suffix": "used as a suffix",
         "archaic/formal": "archaic/formal usage"
     }
-    def __init__(self, output_path: str, jmdict_path: str):
-        super().__init__(output_path)
+    def __init__(self, jmdict_path: str):
         self.jmdict_path = jmdict_path
-        self.kks = kakasi()
-
-    @staticmethod
-    def make_id(lang, lemma, pos):
-        return hashlib.sha1(f"{lang}:{lemma}:{pos}".encode('utf-8')).hexdigest()
 
     def to_romaji(self, text):
-        items = self.kks.convert(text)
+        items = KKS.convert(text)
         return ''.join(item['hepburn'] for item in items)
 
     def normalize_pos_remarks(self, remark_raw):
@@ -225,7 +325,7 @@ class JapaneseDictionary(BaseDictionary):
             raw = full_pos.lower().replace("(", "").replace(")", "").replace(",", "").strip()
             parts = raw.split()
             main = parts[0]
-            simplified = self.POS_MAP.get(main, "other")
+            simplified, _ = canonicalise_pos(main)
             if simplified == "other":
                 return "other", self.normalize_pos_remarks(raw)
             else:
@@ -248,56 +348,155 @@ class JapaneseDictionary(BaseDictionary):
         glosses = ent.findall("sense/gloss")
         return [g.text for g in glosses if g is not None and g.text]
 
-    def create(self):
-        conn = sqlite3.connect(self.output_path)
-        tree = ET.parse(self.jmdict_path)
-        root = tree.getroot()
-        entries = root.findall("entry")
-        for ent in entries:
+    def parse(self) -> Iterable[DictRow]:
+        # Stream parse XML
+        for event, ent in ET.iterparse(self.jmdict_path, events=("end",)):
+            if ent.tag != "entry":
+                continue
             lang = "ja"
             kanji = ent.find("k_ele/keb")
             kana = ent.find("r_ele/reb")
-            word_text = kanji.text if kanji is not None else kana.text
+            word_text = kanji.text if kanji is not None else (kana.text if kana is not None else None)
             kana_text = kana.text if kana is not None else ""
             romaji = self.to_romaji(kana_text) if kana_text else ""
             lemma = word_text
             pos, pos_remarks = self.extract_pos_and_remarks(ent)
             meanings = self.extract_meanings(ent)
-            meanings_json = json.dumps(meanings, ensure_ascii=True) if meanings else None
             furigana = str(self.extract_furigana(ent))
             level = self.extract_level(ent)
-            id_ = self.make_id(lang, lemma, pos)
-            conn.execute(
-                '''
-                INSERT OR REPLACE INTO dictionary (
-                    id, lang, word, kana, romaji, lemma, pos, pos_remarks, gender,
-                    meanings, furigana, level
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',
-                (
-                    id_, lang, word_text, kana_text, romaji, lemma, pos, pos_remarks, None,
-                    meanings_json, furigana, level
-                )
+            id_ = make_id(lang, lemma, pos)
+            yield DictRow(
+                id=id_, lang=lang, word=word_text, kana=kana_text, romaji=romaji, lemma=lemma,
+                pos=pos, pos_remarks=pos_remarks, meanings=meanings if meanings else None,
+                furigana=furigana, level=level
             )
-        conn.commit()
-        print(f"Inserted {len(entries)} entries.")
-        conn.close()
+            ent.clear()
 
-class Dictionary:
-    def __init__(self, output_path: str):
-        self.output_path = output_path
-        self._builders: List[BaseDictionary] = []
+class JapaneseWiktionaryParser:
+    def __init__(self, jsonl_path: str, pos_filter=None):
+        self.jsonl_path = jsonl_path
+        self.pos_filter = pos_filter if pos_filter is not None else []
 
-    def add_dictionary(self, builder: BaseDictionary):
-        self._builders.append(builder)
+    def extract_kana(self, entry):
+        if "forms" in entry:
+            for form in entry["forms"]:
+                if "tags" in form and ("hiragana" in form["tags"] or "katakana" in form["tags"]):
+                    return form.get("form")
+                if "ruby" in form:
+                    return ''.join([r[1] for r in form["ruby"] if len(r) > 1])
+        if "head_templates" in entry:
+            for ht in entry["head_templates"]:
+                kana = ht["args"].get("2")
+                if kana and kana in ["hiragana", "katakana"]:
+                    return ht["args"].get("1")
+        return None
 
-    def create_db(self):
-        if self._builders:
-            self._builders[0].create_schema()
-            
-        for builder in self._builders:
-            builder.create()
+    def extract_romaji(self, entry):
+        if "forms" in entry:
+            for form in entry["forms"]:
+                if "tags" in form and "romanization" in form["tags"]:
+                    return form.get("form")
+                if "roman" in form:
+                    return form["roman"]
+        if "head_templates" in entry:
+            for ht in entry["head_templates"]:
+                if ht["args"].get("sc") == "Latn":
+                    return entry.get("word")
+        return None
 
-    def create_indexes(self):
-        # Only need to create indexes once, use the first builder
-        if self._builders:
-            self._builders[0].create_indexes() 
+    def extract_furigana(self, entry):
+        if "forms" in entry:
+            for form in entry["forms"]:
+                if "ruby" in form:
+                    return form["ruby"]
+        return None
+
+    def extract_lemma(self, entry):
+        if "forms" in entry:
+            for form in entry["forms"]:
+                if "tags" in form and "canonical" in form["tags"]:
+                    return form.get("form")
+        return entry.get("word")
+
+    def extract_meanings(self, entry):
+        meanings = []
+        for sense in entry.get("senses", []):
+            glosses = sense.get("glosses", [])
+            if glosses:
+                meanings.append('; '.join(glosses))
+        return meanings
+
+    def extract_level(self, entry):
+        if "categories" in entry:
+            for cat in entry["categories"]:
+                if "jlpt" in cat["name"].lower():
+                    return cat["name"].upper()
+        return None
+
+    def parse(self) -> Iterable[DictRow]:
+        # First pass: build a lookup table of non-redirect entries by (word, pos)
+        entry_lookup = {}
+        entries_to_process = []
+        with open(self.jsonl_path, "r", encoding="utf-8") as f:
+            for line in f:
+                entry = json.loads(line)
+                if entry.get("lang") != "Japanese":
+                    continue
+                pos_raw = entry.get("pos", "")
+                pos, pos_remarks = canonicalise_pos(pos_raw)
+                if pos in self.pos_filter:
+                    continue
+                entries_to_process.append(entry)
+                if not (pos_raw == "soft-redirect" or entry.get("redirect") or entry.get("redirects")):
+                    key = (entry.get("word"), pos_raw)
+                    entry_lookup[key] = entry
+        for entry in entries_to_process:
+            word = entry.get("word")
+            lang = "ja"
+            pos_raw = entry.get("pos", "")
+            pos, pos_remarks = canonicalise_pos(pos_raw)
+            if pos in self.pos_filter:
+                continue
+            is_soft_redirect = (
+                pos_raw == "soft-redirect" or entry.get("redirect") or entry.get("redirects")
+            )
+            if is_soft_redirect:
+                target_word = entry.get("redirect") or entry.get("redirects")
+                if isinstance(target_word, list):
+                    target_word = target_word[0] if target_word else None
+                if not target_word:
+                    continue
+                target_entry = entry_lookup.get((target_word, pos_raw)) or entry_lookup.get((target_word, ""))
+                if not target_entry:
+                    continue
+                lemma = word
+                kana = self.extract_kana(target_entry)
+                if kana is None:
+                    kana = lemma
+                romaji = self.extract_romaji(target_entry)
+                furigana_val = self.extract_furigana(target_entry)
+                furigana = str(furigana_val) if furigana_val is not None else None
+                meanings = self.extract_meanings(target_entry)
+                level = self.extract_level(target_entry)
+                id_ = make_id(lang, lemma, pos)
+                yield DictRow(
+                    id=id_, lang=lang, word=word, kana=kana, romaji=romaji, lemma=lemma, pos=pos,
+                    pos_remarks=pos_remarks, meanings=meanings if meanings else None,
+                    furigana=furigana, level=level
+                )
+            else:
+                lemma = self.extract_lemma(entry)
+                kana = self.extract_kana(entry)
+                if kana is None:
+                    kana = lemma
+                romaji = self.extract_romaji(entry)
+                furigana_val = self.extract_furigana(entry)
+                furigana = str(furigana_val) if furigana_val is not None else None
+                meanings = self.extract_meanings(entry)
+                level = self.extract_level(entry)
+                id_ = make_id(lang, lemma, pos)
+                yield DictRow(
+                    id=id_, lang=lang, word=word, kana=kana, romaji=romaji, lemma=lemma, pos=pos,
+                    pos_remarks=pos_remarks, meanings=meanings if meanings else None,
+                    furigana=furigana, level=level
+                )

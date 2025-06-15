@@ -6,11 +6,15 @@ import argparse
 from typing import Dict, List, Any, Tuple
 
 from dotenv import load_dotenv
+
+from mitlesen import VIDEOS_DIR
 from mitlesen.ai import CompletionClient
 from mitlesen.logger import logger
 from mitlesen.prompts import aug_transcript_prompt
 from mitlesen.schema import Transcript
 from mitlesen.japanese import JapaneseWordSplitter
+from mitlesen.dictionary import SqliteDictionary
+from mitlesen import DICTIONARIES_DIR
 
 load_dotenv()
 
@@ -73,13 +77,13 @@ def merge_timestamps(words: List[Dict[str, Any]], splitter: JapaneseWordSplitter
     new_sentence = ''.join(word['text'] for word in words)
     
     # Step 2: Split the new sentence using the splitter
-    split_words, romaji_phonetics, hiragana_phonetics = splitter.split_sentence(new_sentence)
+    split_words, lemmas_kana, lemmas_kanji, romaji_phonetics, hiragana_phonetics, pos_tags = splitter.split_sentence(new_sentence)
     
     # Step 3: Create new words with timestamps and phonetics
     new_words = []
     current_pos = 0
     
-    for word_text, romaji_phonetic, hiragana_phonetic in zip(split_words, romaji_phonetics, hiragana_phonetics):
+    for word_text, lemma_kana, lemma_kanji, romaji_phonetic, hiragana_phonetic, pos_tag in zip(split_words, lemmas_kana, lemmas_kanji, romaji_phonetics, hiragana_phonetics, pos_tags):
         # Find the original words that make up this new word
         word_chars = []
         start_time = None
@@ -97,6 +101,9 @@ def merge_timestamps(words: List[Dict[str, Any]], splitter: JapaneseWordSplitter
         # Create new word object
         new_word = {
             'text': word_text,
+            'base_form': lemma_kana,
+            'base_form2': lemma_kanji,
+            'pos': pos_tag,
             'start': start_time,
             'end': end_time,
             'phonetic_romaji': romaji_phonetic,
@@ -107,28 +114,33 @@ def merge_timestamps(words: List[Dict[str, Any]], splitter: JapaneseWordSplitter
     return new_words
 
 def preprocess_japanese_transcript(transcript: List[Dict[str, Any]], batch_config: BatchConfig) -> List[Dict[str, Any]]:
-    """Preprocess Japanese transcript to add phonetic transcriptions to existing word timestamps.
-    
-    Args:
-        transcript: List of transcript segments
-        batch_config: Batch processing configuration
+    """Preprocess Japanese transcript to add phonetic transcriptions to existing word timestamps and enrich with dictionary entries."""
+    # Path to the Japanese dictionary
+    dict_path = os.path.join(DICTIONARIES_DIR, 'output', 'dictionary.sqlite')
+    dictionary = SqliteDictionary(dict_path)
+    try:
+        # Initialize the Japanese word splitter
+        splitter = JapaneseWordSplitter()
         
-    Returns:
-        Preprocessed transcript with phonetic transcriptions added to words
-    """
-    # Initialize the Japanese word splitter
-    splitter = JapaneseWordSplitter()
-    
-    # Process each segment
-    for segment in transcript:
-        if 'words' in segment:
-            # Get new words with phonetics and adjusted timestamps
-            new_words = merge_timestamps(segment['words'], splitter)
-            
-            # Update segment with new sentence and words
-            segment['text'] = ''.join(word['text'] for word in new_words)
-            segment['words'] = new_words
-    
+        # Process each segment
+        for segment in transcript:
+            if 'words' in segment:
+                # Get new words with phonetics and adjusted timestamps
+                new_words = merge_timestamps(segment['words'], splitter)
+                
+                # For each word, look up its base_form (lemma) in the dictionary
+                for word in new_words:
+                    entry = dictionary.search_japanese_word(word)
+                    if entry:
+                        # Attach the id of the matching dictionary entry
+                        word['id'] = entry['id']
+                
+                # Update segment with new sentence and words
+                segment['text'] = ''.join(word['text'] for word in new_words)
+                segment['words'] = new_words
+    finally:
+        dictionary.close()
+
     return transcript
 
 def augment_transcript(youtube_id: str, language: str = 'de', batch_config: BatchConfig = None) -> None:
@@ -142,11 +154,9 @@ def augment_transcript(youtube_id: str, language: str = 'de', batch_config: Batc
     """
     if batch_config is None:
         batch_config = BatchConfig()
-        
-    DATA_FOLDER = 'data'
-    transcript_path = os.path.join(DATA_FOLDER, youtube_id + '.json')
-    output_path = os.path.join(DATA_FOLDER, youtube_id + '.json.2')
 
+    transcript_path = os.path.join(VIDEOS_DIR, youtube_id + '.json')
+    output_path = os.path.join(VIDEOS_DIR, youtube_id + '.json.2')
     with open(transcript_path, 'r', encoding='utf-8') as file:
         text = file.read()
         transcript: List[Dict[str, Any]] = json.loads(text)

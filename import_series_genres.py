@@ -3,6 +3,8 @@ import os
 import urllib.parse
 import base64
 from typing import List, Set, Optional
+
+from mitlesen import COVERS_DIR
 from mitlesen.db import Database, Series, Genre, SeriesGenre
 from mitlesen.logger import logger
 
@@ -141,7 +143,7 @@ def get_or_create_genre(db: Database, name: str) -> Optional[Genre]:
         logger.error(f"❌ Error creating genre {name}: {str(e)}")
         return None
 
-def import_series_genres(csv_path: str, covers_dir: str = "covers") -> None:
+def import_series_genres(csv_path: str, covers_dir: str = COVERS_DIR) -> None:
     """
     Import series and genres from a CSV file into the database.
     The CSV should have three columns: Id, Serie, and Genres (comma-separated).

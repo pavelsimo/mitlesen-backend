@@ -5,21 +5,20 @@ import subprocess
 import csv
 from typing import List, Dict
 
+from mitlesen import VIDEOS_DIR
 from mitlesen.db import Video, Database
 from mitlesen.logger import logger
 
-# Define data directory and CSV file
-DATA_DIR = "data"
 VIDEOS_CSV = "videos.csv"
 CUDA_LIBRARY_PATH = "/home/ubuntu/.virtualenvs/mitlesen-backend/lib/python3.12/site-packages/nvidia/cudnn/lib/"
 
 def ensure_data_dir():
     """Ensure data directory exists."""
-    if not os.path.exists(DATA_DIR):
-        os.makedirs(DATA_DIR)
-        logger.info(f"📁 Created data directory: {DATA_DIR}")
+    if not os.path.exists(VIDEOS_DIR):
+        os.makedirs(VIDEOS_DIR)
+        logger.info(f"📁 Created data directory: {VIDEOS_DIR}")
     else:
-        logger.info(f"📁 Using existing data directory: {DATA_DIR}")
+        logger.info(f"📁 Using existing data directory: {VIDEOS_DIR}")
 
 def read_videos_from_csv() -> List[Dict[str, str]]:
     """Read videos from the CSV file."""
@@ -73,8 +72,8 @@ def run_command(cmd: List[str], step_name: str) -> bool:
 def download_audio(youtube_id: str) -> bool:
     """Step 1: Download audio from YouTube."""
     logger.info(f"🎵 Starting Step 1: Download audio for {youtube_id}")
-    audio_file_mp3 = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
-    audio_file_wav = os.path.join(DATA_DIR, f"{youtube_id}.wav")
+    audio_file_mp3 = os.path.join(VIDEOS_DIR, f"{youtube_id}.mp3")
+    audio_file_wav = os.path.join(VIDEOS_DIR, f"{youtube_id}.wav")
     
     # Check if either audio file already exists
     if os.path.exists(audio_file_mp3):
@@ -90,7 +89,7 @@ def download_audio(youtube_id: str) -> bool:
         "1_download_youtube_audio.py",
         "--",
         youtube_id,
-        DATA_DIR
+        VIDEOS_DIR
     ]
     result = run_command(cmd, "Audio download")
     
@@ -106,8 +105,8 @@ def generate_transcript(youtube_id: str, language: str) -> bool:
     logger.info(f"🔊 Starting Step 2: Generate transcript for {youtube_id}")
     
     # Check for both audio file formats
-    audio_file_mp3 = os.path.join(DATA_DIR, f"{youtube_id}.mp3")
-    audio_file_wav = os.path.join(DATA_DIR, f"{youtube_id}.wav")
+    audio_file_mp3 = os.path.join(VIDEOS_DIR, f"{youtube_id}.mp3")
+    audio_file_wav = os.path.join(VIDEOS_DIR, f"{youtube_id}.wav")
     
     # Determine which audio file to use
     audio_file = None
@@ -126,7 +125,7 @@ def generate_transcript(youtube_id: str, language: str) -> bool:
     env["LD_LIBRARY_PATH"] = CUDA_LIBRARY_PATH
     
     # Check if transcript file already exists
-    transcript_file = os.path.join(DATA_DIR, f"{youtube_id}.json")
+    transcript_file = os.path.join(VIDEOS_DIR, f"{youtube_id}.json")
     if os.path.exists(transcript_file):
         logger.warning(f"⚠️ Transcript file already exists: {transcript_file}. Skipping generation.")
         return True
@@ -161,13 +160,13 @@ def generate_transcript(youtube_id: str, language: str) -> bool:
 def augment_transcript(youtube_id: str, language: str) -> bool:
     """Step 3: Augment transcript with AI-generated translations and word-level information."""
     logger.info(f"🤖 Starting Step 3: Augment transcript for {youtube_id}")
-    transcript_file = os.path.join(DATA_DIR, f"{youtube_id}.json")
+    transcript_file = os.path.join(VIDEOS_DIR, f"{youtube_id}.json")
     if not os.path.exists(transcript_file):
         logger.error(f"❌ Transcript file not found: {transcript_file}")
         return False
 
     # Check if augmented transcript already exists
-    augmented_file = os.path.join(DATA_DIR, f"{youtube_id}.json.2")
+    augmented_file = os.path.join(VIDEOS_DIR, f"{youtube_id}.json.2")
     if os.path.exists(augmented_file):
         logger.warning(f"⚠️ Augmented transcript file already exists: {augmented_file}. Skipping augmentation.")
         return True
@@ -188,7 +187,7 @@ def augment_transcript(youtube_id: str, language: str) -> bool:
 def insert_transcript(youtube_id: str, title: str, is_premium: str, language: str) -> bool:
     """Step 4: Insert augmented transcript into database."""
     logger.info(f"💾 Starting Step 4: Insert transcript for {youtube_id}")
-    augmented_file = os.path.join(DATA_DIR, f"{youtube_id}.json.2")
+    augmented_file = os.path.join(VIDEOS_DIR, f"{youtube_id}.json.2")
     if not os.path.exists(augmented_file):
         logger.error(f"❌ Augmented transcript file not found: {augmented_file}")
         return False
