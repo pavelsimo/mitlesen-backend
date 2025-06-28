@@ -1,5 +1,6 @@
 import json
 import time
+import re
 from mitlesen.pipeline.base import PipelineStep, PipelineContext
 from mitlesen.logger import logger
 from mitlesen.ai import get_ai_client
@@ -49,6 +50,9 @@ class AugmentStep(PipelineStep):
             if context.language == 'ja':
                 logger.info("Preprocessing Japanese transcript...")
                 transcript = self.preprocess_japanese_transcript(transcript)
+            elif context.language == 'de':
+                logger.info("Preprocessing German transcript...")
+                transcript = self.preprocess_german_transcript(transcript)
             total_sentences = len(transcript)
             current_idx = 0
             batch_number = 1
@@ -127,6 +131,34 @@ class AugmentStep(PipelineStep):
                             word['id'] = entry['id']
                     segment['text'] = ''.join(word['text'] for word in new_words)
                     segment['words'] = new_words
+        finally:
+            dictionary.close()
+        return transcript
+
+    def preprocess_german_transcript(self, transcript):
+        dict_path = DICTIONARIES_DIR + '/output/dictionary.sqlite'
+        dictionary = SqliteDictionary(dict_path)
+        try:
+            for segment in transcript:
+                if 'words' in segment:
+                    for word in segment['words']:
+                        text = word.get('text', '')
+                        # Remove any non-German text symbols except spaces (keep only letters, umlauts, ß, and spaces)
+                        cleaned_text = re.sub(r'[^a-zA-ZäöüÄÖÜß ]', '', text)
+                        cleaned_text = cleaned_text.lower()
+                        lemma = word.get('base_form') or cleaned_text
+                        pos = word.get('pos')
+                        if lemma:
+                            entries = dictionary.search_by_lemma(lemma.lower(), lang='de')
+                            entry = None
+                            for e in entries:
+                                if e.get('pos') == pos:
+                                    entry = e
+                                    break
+                            if not entry and entries:
+                                entry = entries[0]  # fallback: just use first
+                            if entry:
+                                word['id'] = entry['id']
         finally:
             dictionary.close()
         return transcript

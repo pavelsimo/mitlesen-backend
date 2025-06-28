@@ -115,6 +115,9 @@ class BaseDictionary(ABC):
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_kana ON dictionaries(kana);")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lang ON dictionaries(lang);")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_pos ON dictionaries(pos);")
+        # Functional indexes for case-insensitive lemma search
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lower_lemma ON dictionaries(LOWER(lemma));")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_dictionaries_lang_lower_lemma ON dictionaries(lang, LOWER(lemma));")
         self.conn.commit()
         print(f"✅ Indexes created in: {self.output_path}")
 
@@ -139,10 +142,11 @@ class BaseDictionary(ABC):
     def search_by_lemma(self, lemma: str, lang: Optional[str] = None) -> list[dict]:
         """Search for dictionary entries by lemma (and optionally language)."""
         cursor = self.conn.cursor()
+        lemma = lemma.lower()
         if lang:
-            cursor.execute("SELECT * FROM dictionaries WHERE lemma = ? AND lang = ?", (lemma, lang))
+            cursor.execute("SELECT * FROM dictionaries WHERE LOWER(lemma) = ? AND lang = ?", (lemma, lang))
         else:
-            cursor.execute("SELECT * FROM dictionaries WHERE lemma = ?", (lemma,))
+            cursor.execute("SELECT * FROM dictionaries WHERE LOWER(lemma) = ?", (lemma,))
         rows = cursor.fetchall()
         return [dict(row) for row in rows]
 
