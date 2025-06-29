@@ -1,9 +1,38 @@
 import json
 import whisperx
+from dataclasses import dataclass
+from typing import Optional
 
 from mitlesen.pipeline.base import PipelineStep, PipelineContext
 from mitlesen.logger import logger
 from mitlesen.nlp import get_segmenter
+
+@dataclass
+class WhisperConfig:
+    """Configuration for WhisperX transcription parameters."""
+    chunk_size: int
+    align_model_name: Optional[str]
+
+# Language-specific WhisperX configurations
+WHISPER_CONFIGS = {
+    'ja': WhisperConfig(chunk_size=6, align_model_name="jonatasgrosman/wav2vec2-large-xlsr-53-japanese"),
+    'de': WhisperConfig(chunk_size=30, align_model_name=None),
+}
+
+def get_whisper_config(language: str) -> WhisperConfig:
+    """Get WhisperX configuration for the specified language.
+    
+    Args:
+        language: Language code ('de' for German, 'ja' for Japanese)
+        
+    Returns:
+        WhisperConfig instance with language-specific settings
+    """
+    config = WHISPER_CONFIGS.get(language.lower())
+    if config is None:
+        # Default to German config for unsupported languages
+        config = WHISPER_CONFIGS['de']
+    return config
 
 class TranscribeStep(PipelineStep):
     def __init__(self, name: str, model_name: str = "large-v2", device: str = "cuda"):
@@ -18,19 +47,22 @@ class TranscribeStep(PipelineStep):
             return self.run_next(context)
         try:
             audio = whisperx.load_audio(str(context.audio_path))
-            compute_type = "float16" if self.device.startswith("cuda") else "float32"
+            #compute_type = "float16" if self.device.startswith("cuda") else "float32"
+            # --------- DEBUG ---------
+            compute_type = "float32"
+            batch_size = 8
+            self.device = "cpu"
+            # --------- END DEBUG ---------
             model = whisperx.load_model(
                 self.model_name,
                 self.device,
                 compute_type=compute_type,
                 language=context.language
             )
-            if context.language.lower() == "ja":
-                result = model.transcribe(audio, batch_size=batch_size, chunk_size=6)
-                align_model_name = "jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
-            else:
-                result = model.transcribe(audio, batch_size=batch_size, chunk_size=30)
-                align_model_name = None
+            # Get language-specific WhisperX configuration
+            whisper_config = get_whisper_config(context.language)
+            result = model.transcribe(audio, batch_size=batch_size, chunk_size=whisper_config.chunk_size)
+            align_model_name = whisper_config.align_model_name
             align_model, metadata = whisperx.load_align_model(
                 model_name=align_model_name,
                 language_code=context.language,

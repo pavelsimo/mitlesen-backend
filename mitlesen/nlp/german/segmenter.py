@@ -2,24 +2,10 @@
 
 import spacy
 import re
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
 from mitlesen.logger import logger
-from mitlesen.nlp.base import BaseSegmenter
+from mitlesen.nlp.base import BaseSegmenter, SentenceMatchError
 from .normalizer import normalize_text
-
-# ──────────────────────────────────────────────────────────────────────────────
-# EXCEPTIONS
-# ──────────────────────────────────────────────────────────────────────────────
-class SentenceMatchError(Exception):
-    """Raised when a sentence cannot be matched exactly in the original text."""
-    def __init__(self, sentence: str, original_text: str, reason: str):
-        super().__init__(
-            f"Failed to match sentence '{sentence}' in text '{original_text}': "
-            f"{reason}"
-        )
-        self.sentence = sentence
-        self.original_text = original_text
-        self.reason = reason
 
 class GermanSentenceSegmenter(BaseSegmenter):
     """German sentence segmenter using spaCy for natural language processing."""
@@ -110,80 +96,57 @@ class GermanSentenceSegmenter(BaseSegmenter):
             sentences.extend(self.split_long_sentence(sent, max_len=max_len))
         return sentences
 
-    def segment_transcripts(
-        self,
-        segments: List[Dict[str, Any]],
-        max_len: int = 60,
-    ) -> List[Dict[str, Any]]:
+    def _extract_text_from_words(self, words: List[Dict[str, Any]]) -> str:
+        """Extract text using German space-separated concatenation."""
+        return " ".join(w["text"] for w in words)
+
+    def _align_words_to_sentence(self, sentence: str, words: List[Dict[str, Any]], start_idx: int) -> Tuple[List[Dict[str, Any]], int]:
         """
-        Take whisper-like `segments` (each with a *words* list) and cut them into
-        smaller sentence-level segments whose *word* sub-lists line up exactly with
-        the emitted sentences.
+        Align words to sentence using German normalization-based matching.
+        
+        Uses normalize_text() for fuzzy matching to handle spacing and punctuation differences.
         """
-        new_segments: List[Dict[str, Any]] = []
-        current_segment_id = 0
+        target_norm = normalize_text(sentence)
+        sentence_start_idx = None
 
-        for segment in segments:
-            words = segment["words"]
-            text = " ".join(w["text"] for w in words)
+        # Locate sentence start
+        for i in range(start_idx, len(words)):
+            if normalize_text(" ".join(w["text"] for w in words[i:])).startswith(target_norm):
+                sentence_start_idx = i
+                break
 
-            logger.info(f"\nProcessing segment: '{text}'")
-            sentences = self.segment_text(text, max_len=max_len)
-            logger.info(f"Split into sentences: {sentences}")
+        if sentence_start_idx is None:
+            raise SentenceMatchError(
+                sentence, 
+                " ".join(w["text"] for w in words), 
+                "Could not locate sentence start"
+            )
 
-            current_word_idx = 0
-            for sentence in sentences:
-                target_norm = normalize_text(sentence)
-                start_idx = None
+        # Walk tokens until we hit the exact sentence
+        sentence_words = []
+        running_norm = ""
 
-                # locate sentence start
-                for i in range(current_word_idx, len(words)):
-                    if normalize_text(" ".join(w["text"] for w in words[i:])).startswith(
-                        target_norm
-                    ):
-                        start_idx = i
-                        break
-
-                if start_idx is None:
-                    raise SentenceMatchError(
-                        sentence, text, "Could not locate sentence start"
-                    )
-
-                # walk tokens until we hit the *exact* sentence
-                sentence_words = []
-                running_norm = ""
-
-                for j in range(start_idx, len(words)):
-                    word = words[j]["text"]
-                    running_norm = normalize_text(
-                        (running_norm + " " + word).strip()
-                    )
-                    if running_norm == target_norm:
-                        sentence_words = words[start_idx : j + 1]
-                        current_word_idx = j + 1
-                        break
-                    if len(running_norm) > len(target_norm):
-                        raise SentenceMatchError(
-                            sentence,
-                            text,
-                            f"Ran past target while matching "
-                            f"(got '{running_norm}' vs '{target_norm}')",
-                        )
-
-                if not sentence_words:
-                    raise SentenceMatchError(
-                        sentence, text, "Could not find matching word sequence"
-                    )
-
-                new_segments.append(
-                    {
-                        "id": current_segment_id,
-                        "text": sentence,
-                        "start": sentence_words[0]["start"],
-                        "end": sentence_words[-1]["end"],
-                        "words": sentence_words,
-                    }
+        for j in range(sentence_start_idx, len(words)):
+            word = words[j]["text"]
+            running_norm = normalize_text((running_norm + " " + word).strip())
+            
+            if running_norm == target_norm:
+                sentence_words = words[sentence_start_idx : j + 1]
+                return sentence_words, j + 1
+                
+            if len(running_norm) > len(target_norm):
+                raise SentenceMatchError(
+                    sentence,
+                    " ".join(w["text"] for w in words),
+                    f"Ran past target while matching (got '{running_norm}' vs '{target_norm}')",
                 )
-                current_segment_id += 1
 
-        return new_segments
+        raise SentenceMatchError(
+            sentence, 
+            " ".join(w["text"] for w in words), 
+            "Could not find matching word sequence"
+        )
+
+    def _get_processing_log_prefix(self) -> str:
+        """Get German-specific log prefix."""
+        return "Processing "

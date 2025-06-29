@@ -1,14 +1,11 @@
 import json
 import time
-import re
 from mitlesen.pipeline.base import PipelineStep, PipelineContext
 from mitlesen.logger import logger
 from mitlesen.ai import get_ai_client
 from mitlesen.prompts import aug_transcript_prompt
 from mitlesen.schema import Transcript
-from mitlesen.nlp import get_word_splitter
-from mitlesen.dictionary import SqliteDictionary
-from mitlesen import DICTIONARIES_DIR
+from mitlesen.nlp import get_transcript_processor
 
 # BatchConfig from 3_augment_transcript.py
 class BatchConfig:
@@ -35,163 +32,240 @@ class AugmentStep(PipelineStep):
         self.batch_config = batch_config or BatchConfig()
 
     def execute(self, context: PipelineContext) -> bool:
+        """Execute the augmentation pipeline with simplified batch processing logic."""
         logger.info(f"🤖 Starting augmentation for {context.youtube_id}")
         logger.info(f"Transcript path: {context.transcript_path}")
         logger.info(f"Augmented transcript path: {context.augmented_transcript_path}")
+
         if context.augmented_transcript_path.exists():
             logger.warning(f"⚠️ Augmented transcript already exists: {context.augmented_transcript_path}")
             return self.run_next(context)
+
         try:
-            logger.info(f"Opening transcript file: {context.transcript_path}")
-            with open(context.transcript_path, 'r', encoding='utf-8') as file:
-                transcript = json.load(file)
-            logger.info(f"Loaded transcript with {len(transcript)} segments.")
+            # Load and preprocess transcript
+            transcript = self._load_and_preprocess_transcript(context)
+
+            # Get AI client
             client = get_ai_client('gemini', language=context.language)
-            if context.language == 'ja':
-                logger.info("Preprocessing Japanese transcript...")
-                transcript = self.preprocess_japanese_transcript(transcript)
-            elif context.language == 'de':
-                logger.info("Preprocessing German transcript...")
-                transcript = self.preprocess_german_transcript(transcript)
-            total_sentences = len(transcript)
-            current_idx = 0
-            batch_number = 1
-            while current_idx < total_sentences:
-                batch_sentences = []
-                word_count = 0
-                batch_start_idx = current_idx
-                while current_idx < total_sentences and word_count < self.batch_config.max_words_per_translation_batch:
-                    current_sentence = transcript[current_idx]
-                    sentence_word_count = len(current_sentence["words"])
-                    if word_count + sentence_word_count > self.batch_config.max_words_per_translation_batch and batch_sentences:
-                        break
-                    batch_sentences.append(current_sentence)
-                    word_count += sentence_word_count
-                    current_idx += 1
-                batch_end_idx = current_idx - 1
-                sentences_json = json.dumps(batch_sentences, ensure_ascii=False)
-                logger.info(f"About to process batch {batch_number} with {word_count} words (sentences {batch_start_idx} to {batch_end_idx})")
-                prompt = aug_transcript_prompt(sentences_json, language=context.language)
-                api_retry_count = 0
-                success = False
-                while not success:
-                    try:
-                        logger.debug(f"Sending batch {batch_number} to AI client...")
-                        completion = client.complete(prompt, response_schema=Transcript)
-                        processed_batch = Transcript.model_validate_json(completion).root
-                        for i, sentence in enumerate(processed_batch):
-                            original_idx = batch_start_idx + i
-                            if original_idx < total_sentences:
-                                transcript[original_idx]["translation"] = sentence.translation
-                                for j, (orig_word, proc_word) in enumerate(
-                                    zip(transcript[original_idx]["words"], [w.model_dump() for w in sentence.words])
-                                ):
-                                    transcript[original_idx]["words"][j] = proc_word | orig_word
-                        logger.info(f"Processed batch {batch_number} (sentences {batch_start_idx} to {batch_end_idx}, {word_count} words)")
-                        success = True
-                        batch_number += 1
-                    except Exception as err:
-                        api_retry_count += 1
-                        logger.error(f"Exception in batch {batch_number}: {err}")
-                        if api_retry_count > self.batch_config.max_api_retries:
-                            logger.error(f"Failed to process batch after {api_retry_count} API retries. Moving to next batch.")
-                            batch_number += 1
-                            break
-                        logger.info(f"❌ Error processing batch with sentences {batch_start_idx}-{batch_end_idx}: {err}")
-                        delay = get_retry_delay(api_retry_count)
-                        logger.info(f"Waiting {delay} seconds before retry {api_retry_count}...")
-                        time.sleep(delay)
-                if success:
-                    logger.debug(f"Sleeping {self.batch_config.delay_between_batches} seconds after batch {batch_number-1}...")
-                    time.sleep(self.batch_config.delay_between_batches)
-            # Ensure parent directory exists
-            logger.info(f"Ensuring parent directory exists for: {context.augmented_transcript_path.parent}")
-            context.augmented_transcript_path.parent.mkdir(parents=True, exist_ok=True)
-            logger.info(f"Writing augmented transcript to: {context.augmented_transcript_path}")
-            with open(context.augmented_transcript_path, 'w', encoding='utf-8') as f:
-                json.dump(transcript, f, ensure_ascii=False, indent=2)
+
+                        # Create and process batches
+            batches = self._create_batches(transcript)
+            processed_transcript = self._process_batches(batches, transcript, client, context.language)
+
+            # Clean up any remaining segments that might not have been processed
+            cleaned_transcript = self._cleanup_transcript_format(processed_transcript)
+
+            # Save augmented transcript
+            self._save_augmented_transcript(cleaned_transcript, context.augmented_transcript_path)
+
             logger.info(f"✅ Augmentation completed for {context.youtube_id}")
             return self.run_next(context)
+
         except Exception as e:
             logger.error(f"❌ Augmentation failed: {str(e)}")
             logger.exception(e)
             return False
 
-    def preprocess_japanese_transcript(self, transcript):
-        dict_path = DICTIONARIES_DIR + '/output/dictionary.sqlite'
-        dictionary = SqliteDictionary(dict_path)
+    def _load_and_preprocess_transcript(self, context: PipelineContext) -> list:
+        """Load transcript from file and apply language-specific preprocessing."""
+        logger.info(f"Opening transcript file: {context.transcript_path}")
+        with open(context.transcript_path, 'r', encoding='utf-8') as file:
+            transcript = json.load(file)
+
+        logger.info(f"Loaded transcript with {len(transcript)} segments.")
+
+        # Use factory pattern instead of language-specific branching
         try:
-            # Use new NLP structure for Japanese word splitting
-            splitter = get_word_splitter('ja')
-            for segment in transcript:
-                if 'words' in segment:
-                    # Don't reconstruct the sentence - work with already-segmented text
-                    segment_text = segment.get('text', ''.join(word['text'] for word in segment['words']))
-                    new_words = self.merge_timestamps(segment['words'], splitter)
-                    for word in new_words:
-                        entry = dictionary.search_japanese_word(word)
-                        if entry:
-                            word['id'] = entry['id']
-                    # Keep the existing segmented text, don't reconstruct
-                    segment['text'] = segment_text
-                    segment['words'] = new_words
-        finally:
-            dictionary.close()
+            processor = get_transcript_processor(context.language)
+            logger.info(f"Preprocessing {context.language} transcript...")
+            transcript = processor.preprocess_transcript(transcript)
+        except ValueError as e:
+            logger.warning(f"No transcript processor available for {context.language}: {e}")
+            # Continue without preprocessing for unsupported languages
+
         return transcript
 
-    def preprocess_german_transcript(self, transcript):
-        dict_path = DICTIONARIES_DIR + '/output/dictionary.sqlite'
-        dictionary = SqliteDictionary(dict_path)
-        try:
-            for segment in transcript:
-                if 'words' in segment:
-                    for word in segment['words']:
-                        text = word.get('text', '')
-                        # Remove any non-German text symbols except spaces (keep only letters, umlauts, ß, and spaces)
-                        cleaned_text = re.sub(r'[^a-zA-ZäöüÄÖÜß ]', '', text)
-                        cleaned_text = cleaned_text.lower()
-                        lemma = word.get('base_form') or cleaned_text
-                        pos = word.get('pos')
-                        if lemma:
-                            entries = dictionary.search_by_lemma(lemma.lower(), lang='de')
-                            entry = None
-                            for e in entries:
-                                if e.get('pos') == pos:
-                                    entry = e
-                                    break
-                            if not entry and entries:
-                                entry = entries[0]  # fallback: just use first
-                            if entry:
-                                word['id'] = entry['id']
-        finally:
-            dictionary.close()
+    def _create_batches(self, transcript: list) -> list:
+        """Create batches of sentences respecting word count limits."""
+        batches = []
+        total_sentences = len(transcript)
+        current_idx = 0
+
+        while current_idx < total_sentences:
+            batch = self._create_single_batch(transcript, current_idx, total_sentences)
+            batches.append(batch)
+            current_idx = batch['end_idx'] + 1
+
+        logger.info(f"Created {len(batches)} batches for processing")
+        return batches
+
+    def _create_single_batch(self, transcript: list, start_idx: int, total_sentences: int) -> dict:
+        """Create a single batch starting from the given index."""
+        batch_sentences = []
+        word_count = 0
+        current_idx = start_idx
+
+        while (current_idx < total_sentences and
+               word_count < self.batch_config.max_words_per_translation_batch):
+
+            current_sentence = transcript[current_idx]
+            sentence_word_count = len(current_sentence["words"])
+
+            # Check if adding this sentence would exceed the limit
+            if (word_count + sentence_word_count > self.batch_config.max_words_per_translation_batch
+                and batch_sentences):
+                break
+
+            batch_sentences.append(current_sentence)
+            word_count += sentence_word_count
+            current_idx += 1
+
+        return {
+            'sentences': batch_sentences,
+            'start_idx': start_idx,
+            'end_idx': current_idx - 1,
+            'word_count': word_count
+        }
+
+    def _process_batches(self, batches: list, transcript: list, client, language: str) -> list:
+        """Process all batches with retry logic."""
+        for batch_number, batch in enumerate(batches, 1):
+            logger.info(f"About to process batch {batch_number} with {batch['word_count']} words "
+                       f"(sentences {batch['start_idx']} to {batch['end_idx']})")
+
+            success = self._process_batch_with_retry(batch, transcript, client, language, batch_number)
+
+            if success:
+                logger.debug(f"Sleeping {self.batch_config.delay_between_batches} seconds after batch {batch_number}...")
+                time.sleep(self.batch_config.delay_between_batches)
+            else:
+                logger.warning(f"Batch {batch_number} failed after all retries, continuing with next batch")
+
         return transcript
 
-    def merge_timestamps(self, words, splitter):
-        new_sentence = ''.join(word['text'] for word in words)
-        split_words, lemmas_kana, lemmas_kanji, romaji_phonetics, hiragana_phonetics, pos_tags = splitter.split_sentence(new_sentence)
-        new_words = []
-        current_pos = 0
-        for word_text, lemma_kana, lemma_kanji, romaji_phonetic, hiragana_phonetic, pos_tag in zip(split_words, lemmas_kana, lemmas_kanji, romaji_phonetics, hiragana_phonetics, pos_tags):
-            word_chars = []
-            start_time = None
-            end_time = None
-            while current_pos < len(words) and len(''.join(word_chars)) < len(word_text):
-                current_word = words[current_pos]
-                word_chars.append(current_word['text'])
-                if start_time is None:
-                    start_time = current_word['start']
-                end_time = current_word['end']
-                current_pos += 1
-            new_word = {
-                'text': word_text,
-                'base_form': lemma_kana,
-                'base_form2': lemma_kanji,
-                'pos': pos_tag,
-                'start': start_time,
-                'end': end_time,
-                'phonetic_romaji': romaji_phonetic,
-                'phonetic_hiragana': hiragana_phonetic
-            }
-            new_words.append(new_word)
-        return new_words
+    def _process_batch_with_retry(self, batch: dict, transcript: list, client, language: str, batch_number: int) -> bool:
+        """Process a single batch with retry mechanism."""
+        sentences_json = json.dumps(batch['sentences'], ensure_ascii=False)
+        prompt = aug_transcript_prompt(sentences_json, language=language)
+
+        for retry_count in range(self.batch_config.max_api_retries + 1):
+            try:
+                logger.debug(f"Sending batch {batch_number} to AI client (attempt {retry_count + 1})...")
+
+                completion = client.complete(prompt, response_schema=Transcript)
+                processed_batch = Transcript.model_validate_json(completion).root
+
+                # Apply processed results to original transcript
+                self._apply_batch_results(batch, processed_batch, transcript)
+
+                logger.info(f"Processed batch {batch_number} (sentences {batch['start_idx']} to {batch['end_idx']}, {batch['word_count']} words)")
+                return True
+
+            except Exception as err:
+                logger.error(f"Exception in batch {batch_number} (attempt {retry_count + 1}): {err}")
+
+                if retry_count >= self.batch_config.max_api_retries:
+                    logger.error(f"Failed to process batch {batch_number} after {retry_count + 1} attempts")
+                    return False
+
+                delay = get_retry_delay(retry_count + 1)
+                logger.info(f"Waiting {delay} seconds before retry {retry_count + 2}...")
+                time.sleep(delay)
+
+        return False
+
+    def _apply_batch_results(self, batch: dict, processed_batch: list, transcript: list) -> None:
+        """Apply processed batch results to the original transcript."""
+        for i, sentence in enumerate(processed_batch):
+            original_idx = batch['start_idx'] + i
+            if original_idx <= batch['end_idx'] and original_idx < len(transcript):
+                # Clean up segment-level fields - only keep essential ones
+                cleaned_segment = {
+                    "id": transcript[original_idx]["id"],
+                    "text": transcript[original_idx]["text"],
+                    "start": transcript[original_idx]["start"],
+                    "end": transcript[original_idx]["end"],
+                    "words": [],
+                    "translation": sentence.translation
+                }
+
+                                # Merge word-level annotations - preserve original timestamps, add AI annotations
+                orig_words = transcript[original_idx]["words"]
+                proc_words = [w.model_dump() for w in sentence.words]
+
+                # Safety check: ensure word counts match to prevent timestamp corruption
+                if len(orig_words) != len(proc_words):
+                    logger.warning(f"Word count mismatch in segment {original_idx}: "
+                                 f"original={len(orig_words)}, processed={len(proc_words)}. "
+                                 f"Using original words without AI annotations.")
+                    # Use original words without AI annotations to preserve timestamps
+                    for orig_word in orig_words:
+                        cleaned_word = {
+                            "text": orig_word["text"],
+                            "start": orig_word["start"],
+                            "end": orig_word["end"]
+                        }
+                        cleaned_segment["words"].append(cleaned_word)
+                else:
+                    # Safe to merge when word counts match
+                    for j, (orig_word, proc_word) in enumerate(zip(orig_words, proc_words)):
+                        # Start with original word (preserving timestamps)
+                        cleaned_word = {
+                            "text": orig_word["text"],
+                            "start": orig_word["start"],  # Always use original Whisper timestamps
+                            "end": orig_word["end"],      # Always use original Whisper timestamps
+                        }
+
+                        # Add only linguistic annotations from AI (never timestamps)
+                        ai_annotations = {k: v for k, v in proc_word.items()
+                                        if k not in ["text", "start", "end"]}
+                        cleaned_word.update(ai_annotations)
+
+                        cleaned_segment["words"].append(cleaned_word)
+
+                # Replace the original segment with the cleaned version
+                transcript[original_idx] = cleaned_segment
+
+    def _cleanup_transcript_format(self, transcript: list) -> list:
+        """Ensure all segments have the correct format, even if not processed by AI."""
+        cleaned_transcript = []
+
+        for segment in transcript:
+            # Check if segment already has the correct format (processed by AI)
+            if "translation" in segment and len(segment.keys()) <= 6:
+                cleaned_transcript.append(segment)
+            else:
+                # Clean up segment that wasn't processed by AI
+                cleaned_segment = {
+                    "id": segment["id"],
+                    "text": segment["text"],
+                    "start": segment["start"],
+                    "end": segment["end"],
+                    "words": [],
+                    "translation": ""  # Empty translation for unprocessed segments
+                }
+
+                # Clean up words if they exist
+                if "words" in segment:
+                    for word in segment["words"]:
+                        cleaned_word = {
+                            "text": word["text"],
+                            "start": word["start"],
+                            "end": word["end"]
+                            # No AI annotations for unprocessed words
+                        }
+                        cleaned_segment["words"].append(cleaned_word)
+
+                cleaned_transcript.append(cleaned_segment)
+
+        return cleaned_transcript
+
+    def _save_augmented_transcript(self, transcript: list, output_path) -> None:
+        """Save the augmented transcript to file."""
+        logger.info(f"Ensuring parent directory exists for: {output_path.parent}")
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        logger.info(f"Writing augmented transcript to: {output_path}")
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(transcript, f, ensure_ascii=False, indent=2)
+

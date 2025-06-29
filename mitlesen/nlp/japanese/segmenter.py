@@ -1,24 +1,10 @@
 """Japanese sentence segmentation using Janome."""
 
 import re
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
 from janome.tokenizer import Tokenizer
 from mitlesen.logger import logger
-from mitlesen.nlp.base import BaseSegmenter
-
-# ──────────────────────────────────────────────────────────────────────────────
-# EXCEPTIONS
-# ──────────────────────────────────────────────────────────────────────────────
-class SentenceMatchError(Exception):
-    """Raised when a sentence cannot be matched exactly in the original text."""
-    def __init__(self, sentence: str, original_text: str, reason: str):
-        super().__init__(
-            f"Failed to match sentence '{sentence}' in text '{original_text}': "
-            f"{reason}"
-        )
-        self.sentence = sentence
-        self.original_text = original_text
-        self.reason = reason
+from mitlesen.nlp.base import BaseSegmenter, SentenceMatchError
 
 class JapaneseSentenceSegmenter(BaseSegmenter):
     """Japanese sentence segmenter using Janome for natural language processing."""
@@ -160,75 +146,55 @@ class JapaneseSentenceSegmenter(BaseSegmenter):
 
         return [s for s in final_sentences if s.strip()]
 
-    def segment_transcripts(
-        self,
-        segments: List[Dict[str, Any]],
-        max_len: int = 15,
-    ) -> List[Dict[str, Any]]:
+    def _extract_text_from_words(self, words: List[Dict[str, Any]]) -> str:
+        """Extract text using Japanese concatenation (no spaces)."""
+        return "".join(w["text"] for w in words)
+
+    def _align_words_to_sentence(self, sentence: str, words: List[Dict[str, Any]], start_idx: int) -> Tuple[List[Dict[str, Any]], int]:
         """
-        Take whisper-like segments and cut them into smaller sentence-level segments
-        whose word sub-lists line up exactly with the emitted sentences.
+        Align words to sentence using Japanese character-by-character matching.
+        
+        Uses exact character matching since Japanese text doesn't use spaces between words.
         """
-        new_segments: List[Dict[str, Any]] = []
-        current_segment_id = 0
+        sentence_chars = list(sentence)
+        sentence_words = []
+        chars_matched = 0
+        current_word_idx = start_idx
 
-        for segment in segments:
-            words = segment["words"]
-            text = "".join(w["text"] for w in words)  # Japanese typically has no spaces
+        # Walk through words until we've matched all characters in the sentence
+        while chars_matched < len(sentence_chars) and current_word_idx < len(words):
+            word = words[current_word_idx]
+            word_chars = list(word["text"])
 
-            logger.info(f"\nProcessing Japanese segment: '{text}'")
-            sentences = self.segment_text(text, max_len=max_len)
-            logger.info(f"Split into sentences: {sentences}")
+            # Check if this word contributes to our sentence
+            remaining_sentence_chars = sentence_chars[chars_matched:]
 
-            current_word_idx = 0
-            for sentence in sentences:
-                # For Japanese, we need to match character by character
-                # since words might not have clear boundaries
-                sentence_chars = list(sentence)
-                sentence_words = []
-                chars_matched = 0
+            if len(word_chars) <= len(remaining_sentence_chars):
+                # Check if word chars match the beginning of remaining sentence chars
+                if word_chars == remaining_sentence_chars[:len(word_chars)]:
+                    sentence_words.append(word)
+                    chars_matched += len(word_chars)
+                    current_word_idx += 1
+                else:
+                    # Character mismatch - this shouldn't happen with proper alignment
+                    logger.warning(f"Character mismatch in Japanese segmentation: "
+                                 f"word='{word['text']}', expected='{remaining_sentence_chars[:len(word_chars)]}'")
+                    break
+            else:
+                # Word is longer than remaining sentence - this shouldn't happen
+                logger.warning(f"Word longer than remaining sentence: "
+                             f"word='{word['text']}', remaining='{remaining_sentence_chars}'")
+                break
 
-                start_idx = current_word_idx
+        if not sentence_words:
+            raise SentenceMatchError(
+                sentence, 
+                "".join(w["text"] for w in words), 
+                "Could not find matching word sequence"
+            )
 
-                # Walk through words until we've matched all characters in the sentence
-                while chars_matched < len(sentence_chars) and current_word_idx < len(words):
-                    word = words[current_word_idx]
-                    word_chars = list(word["text"])
+        return sentence_words, current_word_idx
 
-                    # Check if this word contributes to our sentence
-                    remaining_sentence_chars = sentence_chars[chars_matched:]
-
-                    if len(word_chars) <= len(remaining_sentence_chars):
-                        # Check if word chars match the beginning of remaining sentence chars
-                        if word_chars == remaining_sentence_chars[:len(word_chars)]:
-                            sentence_words.append(word)
-                            chars_matched += len(word_chars)
-                            current_word_idx += 1
-                        else:
-                            # Character mismatch - this shouldn't happen with proper alignment
-                            logger.warning(f"Character mismatch in Japanese segmentation: "
-                                         f"word='{word['text']}', expected='{remaining_sentence_chars[:len(word_chars)]}'")
-                            break
-                    else:
-                        # Word is longer than remaining sentence - this shouldn't happen
-                        logger.warning(f"Word longer than remaining sentence: "
-                                     f"word='{word['text']}', remaining='{remaining_sentence_chars}'")
-                        break
-
-                if not sentence_words:
-                    raise SentenceMatchError(
-                        sentence, text, "Could not find matching word sequence"
-                    )
-
-                new_segments.append(
-                    {
-                        "id": current_segment_id,
-                        "text": sentence,
-                        "start": sentence_words[0]["start"],
-                        "end": sentence_words[-1]["end"],
-                        "words": sentence_words,
-                    }
-                )
-                current_segment_id += 1
-
-        return new_segments
+    def _get_processing_log_prefix(self) -> str:
+        """Get Japanese-specific log prefix."""
+        return "Processing Japanese "

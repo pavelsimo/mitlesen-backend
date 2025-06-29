@@ -10,7 +10,7 @@ from mitlesen import VIDEOS_DIR
 from mitlesen.pipeline.runner import PipelineRunner
 from mitlesen.logger import logger
 
-VIDEOS_CSV = "videos.csv"
+VIDEOS_CSV = "videos2.csv"
 
 def read_videos_from_csv():
     if not os.path.exists(VIDEOS_CSV):

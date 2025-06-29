@@ -9,6 +9,7 @@ LANGUAGE_SYSTEM_PROMPTS: Dict[str, str] = {
     'ja': "You are a professional Japanese-to-English translator specializing in natural, emotionally authentic translations, particularly for dialogue and anime-style content.",
 }
 
+
 def get_system_instruction(language: str) -> str:
     """Get language-specific system instruction for the AI model.
     
@@ -113,6 +114,12 @@ def get_japanese_transcript_prompt(sentences_json: str) -> str:
           {sentences_json}
     """
 
+# Language-specific transcript prompt factories (defined after functions)
+TRANSCRIPT_PROMPT_FACTORIES = {
+    'de': get_german_transcript_prompt,
+    'ja': get_japanese_transcript_prompt,
+}
+
 def aug_transcript_prompt(sentences_json: str, language: str = 'de') -> str:
     """Generate prompt for augmenting transcript with translations and word-level information.
     
@@ -122,8 +129,11 @@ def aug_transcript_prompt(sentences_json: str, language: str = 'de') -> str:
         
     Returns:
         Formatted prompt string for the AI model
+        
+    Raises:
+        ValueError: If the language is not supported
     """
-    if language == 'ja':
-        return get_japanese_transcript_prompt(sentences_json)
-    else:
-        return get_german_transcript_prompt(sentences_json) 
+    prompt_factory = TRANSCRIPT_PROMPT_FACTORIES.get(language)
+    if prompt_factory is None:
+        raise ValueError(f"Unsupported language for transcript prompts: {language}")
+    return prompt_factory(sentences_json) 

@@ -1,13 +1,205 @@
 import os
-from typing import Optional, List
+from typing import Optional, List, Dict, Any, Type, TypeVar
+from abc import ABC, abstractmethod
 from dotenv import load_dotenv
 from supabase import create_client, Client
+from postgrest.exceptions import APIError
 
 from mitlesen.logger import logger
 
 load_dotenv()
 
-class Video:
+# Type variable for BaseSupabaseModel subclasses
+T = TypeVar('T', bound='BaseSupabaseModel')
+
+
+def get_supabase_client() -> Client:
+    """Get a Supabase client instance."""
+    url: str = os.getenv('SUPABASE_URL')
+    key: str = os.getenv('SUPABASE_KEY')
+    if not url or not key:
+        raise ValueError("SUPABASE_URL and SUPABASE_KEY must be set in environment")
+    return create_client(url, key)
+
+
+class BaseSupabaseModel(ABC):
+    """Base class for Supabase models with common CRUD operations."""
+
+    @classmethod
+    @abstractmethod
+    def get_table_name(cls) -> str:
+        """Return the Supabase table name for this model."""
+        pass
+
+    @classmethod
+    @abstractmethod
+    def from_row(cls: Type[T], row: Dict[str, Any]) -> T:
+        """Create an instance from a database row."""
+        pass
+
+    @abstractmethod
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert instance to dictionary."""
+        pass
+
+    @classmethod
+    def _get_client(cls) -> Client:
+        """Get Supabase client (can be overridden for testing)."""
+        return get_supabase_client()
+
+    @classmethod
+    def _insert_with_duplicate_handling(
+        cls: Type[T],
+        data: Dict[str, Any],
+        unique_fields: List[str],
+        client: Optional[Client] = None
+    ) -> Optional[T]:
+        """
+        Insert record with duplicate handling.
+
+        Args:
+            data: Data to insert
+            unique_fields: Fields to check for existing records
+            client: Optional client (uses default if None)
+
+        Returns:
+            Created or existing record, None if error
+        """
+        if client is None:
+            client = cls._get_client()
+
+        try:
+            # Try to insert
+            response = client.table(cls.get_table_name()).insert(data).execute()
+
+            # Return created record
+            row = response.data[0]
+            return cls.from_row(row)
+
+        except APIError as e:
+            # Check if it's a duplicate key error
+            if 'duplicate key value' in str(e).lower():
+                # If duplicate, fetch existing record
+                return cls._fetch_by_fields(unique_fields, data, client)
+            else:
+                raise RuntimeError(f"Failed to insert into {cls.get_table_name()}: {str(e)}")
+        except Exception as e:
+            logger.error(f"Error inserting into {cls.get_table_name()}: {str(e)}")
+            return None
+
+    @classmethod
+    def _fetch_by_fields(
+        cls: Type[T],
+        field_names: List[str],
+        field_values: Dict[str, Any],
+        client: Optional[Client] = None
+    ) -> Optional[T]:
+        """
+        Fetch record by specific field values.
+
+        Args:
+            field_names: List of field names to match
+            field_values: Dictionary containing field values
+            client: Optional client (uses default if None)
+
+        Returns:
+            Found record or None
+        """
+        if client is None:
+            client = cls._get_client()
+
+        try:
+            query = client.table(cls.get_table_name()).select('*')
+
+            # Apply eq filters for each field
+            for field_name in field_names:
+                if field_name in field_values:
+                    query = query.eq(field_name, field_values[field_name])
+
+            response = query.single().execute()
+            return cls.from_row(response.data)
+
+        except APIError as e:
+            # Check if it's a "no rows found" error
+            if 'no rows found' in str(e).lower():
+                return None
+            logger.error(f"Error fetching from {cls.get_table_name()}: {str(e)}")
+            return None
+        except Exception as e:
+            logger.error(f"Error fetching from {cls.get_table_name()}: {str(e)}")
+            return None
+
+    @classmethod
+    def _fetch_by_field(
+        cls: Type[T],
+        field_name: str,
+        field_value: Any,
+        client: Optional[Client] = None
+    ) -> Optional[T]:
+        """
+        Fetch record by a single field value.
+
+        Args:
+            field_name: Name of the field to match
+            field_value: Value to match
+            client: Optional client (uses default if None)
+
+        Returns:
+            Found record or None
+        """
+        return cls._fetch_by_fields([field_name], {field_name: field_value}, client)
+
+    @classmethod
+    def _fetch_all(cls: Type[T], client: Optional[Client] = None) -> List[T]:
+        """
+        Fetch all records from the table.
+
+        Args:
+            client: Optional client (uses default if None)
+
+        Returns:
+            List of all records
+        """
+        if client is None:
+            client = cls._get_client()
+
+        try:
+            response = client.table(cls.get_table_name()).select('*').execute()
+            return [cls.from_row(row) for row in response.data]
+
+        except Exception as e:
+            logger.error(f"Error fetching all from {cls.get_table_name()}: {str(e)}")
+            return []
+
+    @classmethod
+    def _exists_by_field(
+        cls,
+        field_name: str,
+        field_value: Any,
+        client: Optional[Client] = None
+    ) -> bool:
+        """
+        Check if a record exists by field value.
+
+        Args:
+            field_name: Name of the field to check
+            field_value: Value to check for
+            client: Optional client (uses default if None)
+
+        Returns:
+            True if record exists, False otherwise
+        """
+        if client is None:
+            client = cls._get_client()
+
+        try:
+            response = client.table(cls.get_table_name()).select('id').eq(field_name, field_value).execute()
+            return len(response.data) > 0
+        except Exception as e:
+            logger.error(f"Error checking existence in {cls.get_table_name()}: {str(e)}")
+            return False
+
+class Video(BaseSupabaseModel):
     """
     Data model for a video entry.
     """
@@ -29,6 +221,22 @@ class Video:
         self.language = language
         self.vocabulary = vocabulary
 
+    @classmethod
+    def get_table_name(cls) -> str:
+        return 'videos'
+
+    @classmethod
+    def from_row(cls, row: Dict[str, Any]) -> 'Video':
+        return cls(
+            id=row['id'],
+            title=row['title'],
+            youtube_id=row['youtube_id'],
+            is_premium=row['is_premium'],
+            transcript=row['transcript'],
+            language=row.get('language', 'de'),
+            vocabulary=row.get('vocabulary')
+        )
+
     def to_dict(self) -> dict:
         return {
             "id": self.id,
@@ -41,18 +249,20 @@ class Video:
         }
 
     @classmethod
-    def insert(cls, client: Client, title: str, youtube_id: str, is_premium: bool, transcript: str, language: str = 'de', vocabulary: str = None) -> None:
+    def insert(cls, title: str, youtube_id: str, is_premium: bool, transcript: str, language: str = 'de', vocabulary: str = None) -> Optional['Video']:
         """
         Insert a new video record.
 
         Args:
-            client: Supabase client instance
             title: Title of the video.
             youtube_id: YouTube video ID.
             is_premium: Whether the video is premium.
             transcript: Transcript JSON as a string.
             language: Language code of the video (e.g., 'de', 'ja').
             vocabulary: Vocabulary JSON as a string (optional).
+
+        Returns:
+            Created or existing Video record, None if error
         """
         record = {
             'title': title,
@@ -61,83 +271,44 @@ class Video:
             'transcript': transcript,
             'language': language
         }
-        
+
         if vocabulary:
             record['vocabulary'] = vocabulary
-            
-        response = client.table('videos').insert(record).execute()
-        logger.info("✅ Transcript inserted successfully.")
+
+        result = cls._insert_with_duplicate_handling(record, ['youtube_id'])
+        if result:
+            logger.info("✅ Video inserted successfully.")
+        return result
 
     @classmethod
-    def exists(cls, client: Client, youtube_id: str) -> bool:
+    def get_by_youtube_id(cls, youtube_id: str) -> Optional['Video']:
+        """Get video by YouTube ID."""
+        return cls._fetch_by_field('youtube_id', youtube_id)
+
+    @classmethod
+    def exists(cls, youtube_id: str) -> bool:
         """
         Check if a video with the given youtube_id exists in the database.
-        
+
         Args:
-            client: Supabase client instance
             youtube_id: YouTube video ID to check
-            
+
         Returns:
             bool: True if the video exists, False otherwise
         """
-        response = client.table('videos').select('id').eq('youtube_id', youtube_id).execute()
-        # If there are any rows in the response, the video exists
-        return len(response.data) > 0
+        return cls._exists_by_field('youtube_id', youtube_id)
 
     @classmethod
-    def delete(cls, client: Client, record_id: int) -> None:
-        """
-        Delete a video record by ID.
-        """
-        response = client.table('videos').delete().eq('id', record_id).execute()
-        if response.error:
-            raise RuntimeError(f"Failed to delete record {record_id}: {response.error.message}")
-        logger.info(f"🗑️ Record {record_id} deleted.")
+    def fetch_all(cls) -> List['Video']:
+        """Fetch all video records."""
+        return cls._fetch_all()
 
     @classmethod
-    def fetch_all(cls, client: Client) -> List['Video']:
-        """
-        Fetch all transcript records.
-        """
-        response = client.table('videos').select('*').execute()
-        if response.error:
-            raise RuntimeError(f"Failed to fetch records: {response.error.message}")
-        records: List[Video] = []
-        for row in response.data:
-            record = cls(
-                id=row['id'],
-                title=row['title'],
-                youtube_id=row['youtube_id'],
-                is_premium=row['is_premium'],
-                transcript=row['transcript'],
-                language=row.get('language', 'de'),
-                vocabulary=row.get('vocabulary')
-            )
-            records.append(record)
-        return records
+    def fetch_by_id(cls, record_id: int) -> Optional['Video']:
+        """Fetch a video record by its ID."""
+        return cls._fetch_by_field('id', record_id)
 
-    @classmethod
-    def fetch_by_id(cls, client: Client, record_id: int) -> Optional['Video']:
-        """
-        Fetch a transcript record by its ID.
-        """
-        response = client.table('videos').select('*').eq('id', record_id).single().execute()
-        if response.error and 'no rows found' in response.error.message.lower():
-            return None
-        if response.error:
-            raise RuntimeError(f"Failed to fetch record {record_id}: {response.error.message}")
-        row = response.data
-        return cls(
-            id=row['id'],
-            title=row['title'],
-            youtube_id=row['youtube_id'],
-            is_premium=row['is_premium'],
-            transcript=row['transcript'],
-            language=row.get('language', 'de'),
-            vocabulary=row.get('vocabulary')
-        )
-
-class Genre:
+class Genre(BaseSupabaseModel):
     """
     Data model for a genre entry.
     """
@@ -151,6 +322,18 @@ class Genre:
         self.name = name
         self.created_at = created_at
 
+    @classmethod
+    def get_table_name(cls) -> str:
+        return 'genres'
+
+    @classmethod
+    def from_row(cls, row: Dict[str, Any]) -> 'Genre':
+        return cls(
+            id=row['id'],
+            name=row['name'],
+            created_at=row.get('created_at')
+        )
+
     def to_dict(self) -> dict:
         return {
             "id": self.id,
@@ -159,30 +342,19 @@ class Genre:
         }
 
     @classmethod
-    def insert(cls, client: Client, name: str) -> Optional['Genre']:
+    def insert(cls, name: str) -> Optional['Genre']:
         """
         Insert a new genre record if it doesn't exist.
         Returns the genre record if successful.
         """
-        try:
-            response = client.table('genres').insert({'name': name}).execute()
-            if response.error:
-                if 'duplicate key value' in response.error.message.lower():
-                    # If genre exists, fetch it
-                    response = client.table('genres').select('*').eq('name', name).single().execute()
-                    if response.error:
-                        raise RuntimeError(f"Failed to fetch existing genre {name}: {response.error.message}")
-                    row = response.data
-                    return cls(id=row['id'], name=row['name'], created_at=row['created_at'])
-                raise RuntimeError(f"Failed to insert genre {name}: {response.error.message}")
-            
-            row = response.data[0]
-            return cls(id=row['id'], name=row['name'], created_at=row['created_at'])
-        except Exception as e:
-            logger.error(f"Error inserting genre {name}: {str(e)}")
-            return None
+        return cls._insert_with_duplicate_handling({'name': name}, ['name'])
 
-class Series:
+    @classmethod
+    def get_by_name(cls, name: str) -> Optional['Genre']:
+        """Get genre by name."""
+        return cls._fetch_by_field('name', name)
+
+class Series(BaseSupabaseModel):
     """
     Data model for a series entry.
     """
@@ -196,6 +368,18 @@ class Series:
         self.title = title
         self.created_at = created_at
 
+    @classmethod
+    def get_table_name(cls) -> str:
+        return 'series'
+
+    @classmethod
+    def from_row(cls, row: Dict[str, Any]) -> 'Series':
+        return cls(
+            id=row['id'],
+            title=row['title'],
+            created_at=row.get('created_at')
+        )
+
     def to_dict(self) -> dict:
         return {
             "id": self.id,
@@ -204,30 +388,19 @@ class Series:
         }
 
     @classmethod
-    def insert(cls, client: Client, title: str) -> Optional['Series']:
+    def insert(cls, title: str) -> Optional['Series']:
         """
         Insert a new series record if it doesn't exist.
         Returns the series record if successful.
         """
-        try:
-            response = client.table('series').insert({'title': title}).execute()
-            if response.error:
-                if 'duplicate key value' in response.error.message.lower():
-                    # If series exists, fetch it
-                    response = client.table('series').select('*').eq('title', title).single().execute()
-                    if response.error:
-                        raise RuntimeError(f"Failed to fetch existing series {title}: {response.error.message}")
-                    row = response.data
-                    return cls(id=row['id'], title=row['title'], created_at=row['created_at'])
-                raise RuntimeError(f"Failed to insert series {title}: {response.error.message}")
-            
-            row = response.data[0]
-            return cls(id=row['id'], title=row['title'], created_at=row['created_at'])
-        except Exception as e:
-            logger.error(f"Error inserting series {title}: {str(e)}")
-            return None
+        return cls._insert_with_duplicate_handling({'title': title}, ['title'])
 
-class SeriesGenre:
+    @classmethod
+    def get_by_name(cls, title: str) -> Optional['Series']:
+        """Get series by title."""
+        return cls._fetch_by_field('title', title)
+
+class SeriesGenre(BaseSupabaseModel):
     """
     Data model for a series-genre relationship entry.
     """
@@ -241,6 +414,18 @@ class SeriesGenre:
         self.genre_id = genre_id
         self.created_at = created_at
 
+    @classmethod
+    def get_table_name(cls) -> str:
+        return 'series_genres'
+
+    @classmethod
+    def from_row(cls, row: Dict[str, Any]) -> 'SeriesGenre':
+        return cls(
+            series_id=row['series_id'],
+            genre_id=row['genre_id'],
+            created_at=row.get('created_at')
+        )
+
     def to_dict(self) -> dict:
         return {
             "series_id": self.series_id,
@@ -249,32 +434,13 @@ class SeriesGenre:
         }
 
     @classmethod
-    def insert(cls, client: Client, series_id: int, genre_id: int) -> Optional['SeriesGenre']:
+    def insert(cls, series_id: int, genre_id: int) -> Optional['SeriesGenre']:
         """
         Insert a new series-genre relationship record if it doesn't exist.
         Returns the relationship record if successful.
         """
-        try:
-            response = client.table('series_genres').insert({
-                'series_id': series_id,
-                'genre_id': genre_id
-            }).execute()
-            
-            if response.error:
-                if 'duplicate key value' in response.error.message.lower():
-                    # If relationship exists, fetch it
-                    response = client.table('series_genres').select('*').eq('series_id', series_id).eq('genre_id', genre_id).single().execute()
-                    if response.error:
-                        raise RuntimeError(f"Failed to fetch existing series-genre relationship: {response.error.message}")
-                    row = response.data
-                    return cls(series_id=row['series_id'], genre_id=row['genre_id'], created_at=row['created_at'])
-                raise RuntimeError(f"Failed to insert series-genre relationship: {response.error.message}")
-            
-            row = response.data[0]
-            return cls(series_id=row['series_id'], genre_id=row['genre_id'], created_at=row['created_at'])
-        except Exception as e:
-            logger.error(f"Error inserting series-genre relationship: {str(e)}")
-            return None
+        data = {'series_id': series_id, 'genre_id': genre_id}
+        return cls._insert_with_duplicate_handling(data, ['series_id', 'genre_id'])
 
 class Database:
     """
@@ -351,10 +517,11 @@ class Dictionary:
             client: Supabase client instance
             entry: Dictionary entry as a dict (use to_dict())
         """
-        response = client.table('dictionaries').insert(entry).execute()
-        if response.error:
-            raise RuntimeError(f"Failed to insert dictionary entry {entry.get('id')}: {response.error.message}")
-        logger.info(f"✅ Dictionary entry {entry.get('id')} inserted successfully.")
+        try:
+            response = client.table('dictionaries').insert(entry).execute()
+            logger.info(f"✅ Dictionary entry {entry.get('id')} inserted successfully.")
+        except Exception as e:
+            raise RuntimeError(f"Failed to insert dictionary entry {entry.get('id')}: {str(e)}")
 
     @classmethod
     def exists(cls, client: Client, entry_id: str) -> bool:
@@ -374,10 +541,11 @@ class Dictionary:
         """
         Delete a dictionary entry by ID.
         """
-        response = client.table('dictionaries').delete().eq('id', entry_id).execute()
-        if response.error:
-            raise RuntimeError(f"Failed to delete dictionary entry {entry_id}: {response.error.message}")
-        logger.info(f"🗑️ Dictionary entry {entry_id} deleted.")
+        try:
+            response = client.table('dictionaries').delete().eq('id', entry_id).execute()
+            logger.info(f"🗑️ Dictionary entry {entry_id} deleted.")
+        except Exception as e:
+            raise RuntimeError(f"Failed to delete dictionary entry {entry_id}: {str(e)}")
 
     @classmethod
     def fetch_all(cls, client: Client) -> List['Dictionary']:
@@ -385,13 +553,41 @@ class Dictionary:
         Fetch all dictionary records.
         """
         import json
-        response = client.table('dictionaries').select('*').execute()
-        if response.error:
-            raise RuntimeError(f"Failed to fetch dictionary records: {response.error.message}")
-        records: List[Dictionary] = []
-        for row in response.data:
+        try:
+            response = client.table('dictionaries').select('*').execute()
+            records: List[Dictionary] = []
+            for row in response.data:
+                meanings = json.loads(row['meanings']) if row.get('meanings') else None
+                record = cls(
+                    id=row['id'],
+                    lang=row['lang'],
+                    word=row.get('word'),
+                    kana=row.get('kana'),
+                    romaji=row.get('romaji'),
+                    lemma=row.get('lemma'),
+                    pos=row.get('pos'),
+                    pos_remarks=row.get('pos_remarks', ''),
+                    gender=row.get('gender'),
+                    meanings=meanings,
+                    furigana=row.get('furigana'),
+                    level=row.get('level')
+                )
+                records.append(record)
+            return records
+        except Exception as e:
+            raise RuntimeError(f"Failed to fetch dictionary records: {str(e)}")
+
+    @classmethod
+    def fetch_by_id(cls, client: Client, entry_id: str) -> Optional['Dictionary']:
+        """
+        Fetch a dictionary record by its ID.
+        """
+        import json
+        try:
+            response = client.table('dictionaries').select('*').eq('id', entry_id).single().execute()
+            row = response.data
             meanings = json.loads(row['meanings']) if row.get('meanings') else None
-            record = cls(
+            return cls(
                 id=row['id'],
                 lang=row['lang'],
                 word=row.get('word'),
@@ -405,33 +601,157 @@ class Dictionary:
                 furigana=row.get('furigana'),
                 level=row.get('level')
             )
-            records.append(record)
-        return records
+        except APIError as e:
+            if 'no rows found' in str(e).lower():
+                return None
+            raise RuntimeError(f"Failed to fetch dictionary entry {entry_id}: {str(e)}")
+        except Exception as e:
+            raise RuntimeError(f"Failed to fetch dictionary entry {entry_id}: {str(e)}")
 
-    @classmethod
-    def fetch_by_id(cls, client: Client, entry_id: str) -> Optional['Dictionary']:
+
+class SupabaseDictionary:
+    """
+    Unified interface wrapper for Supabase-based Dictionary operations.
+
+    This class implements the BaseDictionaryInterface to provide a consistent API
+    for dictionary operations across SQLite and Supabase implementations.
+    """
+
+    def __init__(self, client: Client):
+        """Initialize with a Supabase client."""
+        self.client = client
+
+    def search_by_lemma(self, lemma: str, lang: Optional[str] = None) -> List[Dict[str, Any]]:
+        """Search for dictionary entries by lemma (and optionally language)."""
+        import json
+
+        query = self.client.table('dictionaries').select('*')
+
+        # Case-insensitive lemma search
+        if lang:
+            query = query.ilike('lemma', lemma.lower()).eq('lang', lang)
+        else:
+            query = query.ilike('lemma', lemma.lower())
+
+        try:
+            response = query.execute()
+
+                        # Convert meanings from JSON strings to lists
+            results = []
+            for row in response.data:
+                row_copy = row.copy()
+                if row_copy.get('meanings'):
+                    try:
+                        row_copy['meanings'] = json.loads(row_copy['meanings'])
+                    except json.JSONDecodeError:
+                        row_copy['meanings'] = None
+                results.append(row_copy)
+
+            return results
+        except Exception as e:
+            logger.error(f"Failed to search dictionary by lemma: {str(e)}")
+            return []
+
+    def search_japanese_word(self, word: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         """
-        Fetch a dictionary record by its ID.
+        Search for a Japanese dictionary entry by word dict using prioritized matching logic.
+
+        This implements the same prioritized search logic as SqliteDictionary.
         """
         import json
-        response = client.table('dictionaries').select('*').eq('id', entry_id).single().execute()
-        if response.error and 'no rows found' in response.error.message.lower():
-            return None
-        if response.error:
-            raise RuntimeError(f"Failed to fetch dictionary entry {entry_id}: {response.error.message}")
-        row = response.data
-        meanings = json.loads(row['meanings']) if row.get('meanings') else None
-        return cls(
-            id=row['id'],
-            lang=row['lang'],
-            word=row.get('word'),
-            kana=row.get('kana'),
-            romaji=row.get('romaji'),
-            lemma=row.get('lemma'),
-            pos=row.get('pos'),
-            pos_remarks=row.get('pos_remarks', ''),
-            gender=row.get('gender'),
-            meanings=meanings,
-            furigana=row.get('furigana'),
-            level=row.get('level')
-        )
+
+        lemma_kana = word.get('base_form')
+        lemma_kanji = word.get('base_form2')
+        pos = word.get('pos')
+        kana = word.get('text')
+
+        logger.info(f"Searching for Japanese word: lemma_kana={lemma_kana}, lemma_kanji={lemma_kanji}, pos={pos}, kana={kana}")
+
+        # 1. Try to match by (lang='ja', lemma_kana, pos)
+        if lemma_kana and pos:
+            logger.info(f"Attempting match by (lang='ja', lemma_kana={lemma_kana}, pos={pos})")
+            response = self.client.table('dictionaries') \
+                .select('*') \
+                .eq('lang', 'ja') \
+                .eq('lemma', lemma_kana) \
+                .eq('pos', pos) \
+                .limit(1) \
+                .execute()
+
+            if response.data:
+                row = response.data[0]
+                logger.info("Found a match by lemma_kana and pos")
+                if row.get('meanings'):
+                    try:
+                        row['meanings'] = json.loads(row['meanings'])
+                    except json.JSONDecodeError:
+                        row['meanings'] = None
+                return row
+
+        # 2. Try to match by (lang='ja', lemma_kanji, pos)
+        if lemma_kanji and pos:
+            logger.info(f"Attempting match by (lang='ja', lemma_kanji={lemma_kanji}, pos={pos})")
+            response = self.client.table('dictionaries') \
+                .select('*') \
+                .eq('lang', 'ja') \
+                .eq('lemma', lemma_kanji) \
+                .eq('pos', pos) \
+                .limit(1) \
+                .execute()
+
+            if response.data:
+                row = response.data[0]
+                logger.info("Found a match by lemma_kanji and pos")
+                if row.get('meanings'):
+                    try:
+                        row['meanings'] = json.loads(row['meanings'])
+                    except json.JSONDecodeError:
+                        row['meanings'] = None
+                return row
+
+        # 3. Try to match by (lang='ja', lemma_kana)
+        if lemma_kana:
+            logger.info(f"Attempting match by (lang='ja', lemma_kana={lemma_kana})")
+            response = self.client.table('dictionaries') \
+                .select('*') \
+                .eq('lang', 'ja') \
+                .eq('lemma', lemma_kana) \
+                .limit(1) \
+                .execute()
+
+            if response.data:
+                row = response.data[0]
+                logger.info("Found a match by lemma_kana")
+                if row.get('meanings'):
+                    try:
+                        row['meanings'] = json.loads(row['meanings'])
+                    except json.JSONDecodeError:
+                        row['meanings'] = None
+                return row
+
+        # 4. Try to match by (lang='ja', kana)
+        if kana:
+            logger.info(f"Attempting match by (lang='ja', kana={kana})")
+            response = self.client.table('dictionaries') \
+                .select('*') \
+                .eq('lang', 'ja') \
+                .eq('kana', kana) \
+                .limit(1) \
+                .execute()
+
+            if response.data:
+                row = response.data[0]
+                logger.info("Found a match by kana")
+                if row.get('meanings'):
+                    try:
+                        row['meanings'] = json.loads(row['meanings'])
+                    except json.JSONDecodeError:
+                        row['meanings'] = None
+                return row
+
+        logger.info("No match found for Japanese word")
+        return None
+
+    def close(self) -> None:
+        """Close database connection - no-op for Supabase as it manages connections."""
+        pass
