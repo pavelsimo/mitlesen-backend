@@ -146,6 +146,19 @@ class JapaneseSentenceSegmenter(BaseSegmenter):
 
         return [s for s in final_sentences if s.strip()]
 
+    def segment_transcripts(self, segments: List[Dict[str, Any]], max_len: int = 15) -> List[Dict[str, Any]]:
+        """
+        Override to use Japanese-specific default max_len of 15 characters.
+
+        Args:
+            segments: List of transcript segments to process
+            max_len: Maximum length for sentence segments (default 15 for Japanese)
+
+        Returns:
+            List of segmented transcript segments
+        """
+        return super().segment_transcripts(segments, max_len)
+
     def _extract_text_from_words(self, words: List[Dict[str, Any]]) -> str:
         """Extract text using Japanese concatenation (no spaces)."""
         return "".join(w["text"] for w in words)
@@ -153,7 +166,7 @@ class JapaneseSentenceSegmenter(BaseSegmenter):
     def _align_words_to_sentence(self, sentence: str, words: List[Dict[str, Any]], start_idx: int) -> Tuple[List[Dict[str, Any]], int]:
         """
         Align words to sentence using Japanese character-by-character matching.
-        
+
         Uses exact character matching since Japanese text doesn't use spaces between words.
         """
         sentence_chars = list(sentence)
@@ -188,8 +201,8 @@ class JapaneseSentenceSegmenter(BaseSegmenter):
 
         if not sentence_words:
             raise SentenceMatchError(
-                sentence, 
-                "".join(w["text"] for w in words), 
+                sentence,
+                "".join(w["text"] for w in words),
                 "Could not find matching word sequence"
             )
 

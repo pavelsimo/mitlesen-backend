@@ -189,7 +189,7 @@ class AugmentStep(PipelineStep):
                     "translation": sentence.translation
                 }
 
-                                # Merge word-level annotations - preserve original timestamps, add AI annotations
+                # Merge word-level annotations - preserve original timestamps, add AI annotations
                 orig_words = transcript[original_idx]["words"]
                 proc_words = [w.model_dump() for w in sentence.words]
 

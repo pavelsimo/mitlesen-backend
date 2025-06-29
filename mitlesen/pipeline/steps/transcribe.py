@@ -47,12 +47,8 @@ class TranscribeStep(PipelineStep):
             return self.run_next(context)
         try:
             audio = whisperx.load_audio(str(context.audio_path))
-            #compute_type = "float16" if self.device.startswith("cuda") else "float32"
-            # --------- DEBUG ---------
-            compute_type = "float32"
-            batch_size = 8
-            self.device = "cpu"
-            # --------- END DEBUG ---------
+            compute_type = "float16" if self.device.startswith("cuda") else "float32"
+            batch_size = 4
             model = whisperx.load_model(
                 self.model_name,
                 self.device,
