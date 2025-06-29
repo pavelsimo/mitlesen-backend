@@ -153,7 +153,7 @@ class AugmentStep(PipelineStep):
                 processed_batch = Transcript.model_validate_json(completion).root
 
                 # Apply processed results to original transcript
-                self._apply_batch_results(batch, processed_batch, transcript)
+                self._apply_batch_results(batch, processed_batch, transcript, language)
 
                 logger.info(f"Processed batch {batch_number} (sentences {batch['start_idx']} to {batch['end_idx']}, {batch['word_count']} words)")
                 return True
@@ -171,7 +171,7 @@ class AugmentStep(PipelineStep):
 
         return False
 
-    def _apply_batch_results(self, batch: dict, processed_batch: list, transcript: list) -> None:
+    def _apply_batch_results(self, batch: dict, processed_batch: list, transcript: list, language: str) -> None:
         """Apply processed batch results to the original transcript."""
         for i, sentence in enumerate(processed_batch):
             original_idx = batch['start_idx'] + i
@@ -219,7 +219,7 @@ class AugmentStep(PipelineStep):
                         cleaned_word.update(ai_annotations)
 
                         # For Japanese, ensure case field is empty
-                        if context.language == 'ja' and 'case' in cleaned_word:
+                        if language == 'ja' and 'case' in cleaned_word:
                             cleaned_word['case'] = ""
 
                         cleaned_segment["words"].append(cleaned_word)
