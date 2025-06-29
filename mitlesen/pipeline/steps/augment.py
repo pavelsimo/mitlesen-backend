@@ -195,25 +195,18 @@ class AugmentStep(PipelineStep):
                     logger.warning(f"Word count mismatch in segment {original_idx}: "
                                  f"original={len(orig_words)}, processed={len(proc_words)}. "
                                  f"Using original words without AI annotations.")
-                    # Use original words without AI annotations to preserve timestamps
+                    # Use original words without AI annotations to preserve timestamps and preprocessing fields
                     for orig_word in orig_words:
-                        cleaned_word = {
-                            "text": orig_word["text"],
-                            "start": orig_word["start"],
-                            "end": orig_word["end"]
-                        }
+                        # Keep ALL original fields, not just text/start/end
+                        cleaned_word = orig_word.copy()
                         cleaned_segment["words"].append(cleaned_word)
                 else:
                     # Safe to merge when word counts match
                     for j, (orig_word, proc_word) in enumerate(zip(orig_words, proc_words)):
-                        # Start with original word (preserving timestamps)
-                        cleaned_word = {
-                            "text": orig_word["text"],
-                            "start": orig_word["start"],  # Always use original Whisper timestamps
-                            "end": orig_word["end"],      # Always use original Whisper timestamps
-                        }
+                        # Start with ALL original fields (preserving preprocessing data like romanji/hiragana)
+                        cleaned_word = orig_word.copy()
 
-                        # Add only linguistic annotations from AI (never timestamps)
+                        # Override with AI annotations, but preserve original timestamps and preprocessing fields
                         ai_annotations = {k: v for k, v in proc_word.items()
                                         if k not in ["text", "start", "end"]}
                         cleaned_word.update(ai_annotations)
