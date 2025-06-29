@@ -2,8 +2,7 @@ openai
 supabase
 google-genai
 dotenv
-whisperx
-ctranslate2
+whisperx>=3.1.1
 yt-dlp
 janome>=0.5.0
 pykakasi>=2.2.1
@@ -11,7 +10,5 @@ python-dotenv>=1.0.0
 spacy
 jamdict
 jamdict-data
-pykakasi
-coqui-tts
+jaconv>=0.3.4
 fugashi[unidic-lite]
-jamdict

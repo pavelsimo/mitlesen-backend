@@ -6,7 +6,7 @@ from mitlesen.logger import logger
 from mitlesen.ai import get_ai_client
 from mitlesen.prompts import aug_transcript_prompt
 from mitlesen.schema import Transcript
-from mitlesen.japanese import get_japanese_splitter
+from mitlesen.nlp import get_word_splitter
 from mitlesen.dictionary import SqliteDictionary
 from mitlesen import DICTIONARIES_DIR
 
@@ -121,15 +121,19 @@ class AugmentStep(PipelineStep):
         dict_path = DICTIONARIES_DIR + '/output/dictionary.sqlite'
         dictionary = SqliteDictionary(dict_path)
         try:
-            splitter = get_japanese_splitter()
+            # Use new NLP structure for Japanese word splitting
+            splitter = get_word_splitter('ja')
             for segment in transcript:
                 if 'words' in segment:
+                    # Don't reconstruct the sentence - work with already-segmented text
+                    segment_text = segment.get('text', ''.join(word['text'] for word in segment['words']))
                     new_words = self.merge_timestamps(segment['words'], splitter)
                     for word in new_words:
                         entry = dictionary.search_japanese_word(word)
                         if entry:
                             word['id'] = entry['id']
-                    segment['text'] = ''.join(word['text'] for word in new_words)
+                    # Keep the existing segmented text, don't reconstruct
+                    segment['text'] = segment_text
                     segment['words'] = new_words
         finally:
             dictionary.close()
@@ -190,4 +194,4 @@ class AugmentStep(PipelineStep):
                 'phonetic_hiragana': hiragana_phonetic
             }
             new_words.append(new_word)
-        return new_words 
+        return new_words

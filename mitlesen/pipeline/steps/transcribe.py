@@ -3,7 +3,7 @@ import whisperx
 
 from mitlesen.pipeline.base import PipelineStep, PipelineContext
 from mitlesen.logger import logger
-from mitlesen.german import get_german_segmenter
+from mitlesen.nlp import get_segmenter
 
 class TranscribeStep(PipelineStep):
     def __init__(self, name: str, model_name: str = "large-v2", device: str = "cuda"):
@@ -26,10 +26,10 @@ class TranscribeStep(PipelineStep):
                 language=context.language
             )
             if context.language.lower() == "ja":
-                result = model.transcribe(audio, batch_size=4, chunk_size=6)
+                result = model.transcribe(audio, batch_size=batch_size, chunk_size=6)
                 align_model_name = "jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
             else:
-                result = model.transcribe(audio, batch_size=4, chunk_size=30)
+                result = model.transcribe(audio, batch_size=batch_size, chunk_size=30)
                 align_model_name = None
             align_model, metadata = whisperx.load_align_model(
                 model_name=align_model_name,
@@ -62,9 +62,16 @@ class TranscribeStep(PipelineStep):
                     "end": seg["end"],
                     "words": words,
                 })
-            if context.language.lower() != "ja":
-                segmenter = get_german_segmenter()  # TODO: Use a generic language processor in the future
-                segments = segmenter(segments)
+
+            # Apply sentence segmentation for supported languages
+            try:
+                segmenter = get_segmenter(context.language)
+                segments = segmenter.segment_transcripts(segments)
+                logger.info(f"Applied {context.language} sentence segmentation")
+            except ValueError as e:
+                logger.info(f"No segmentation available for {context.language}: {e}")
+                # Continue without segmentation for unsupported languages
+
             context.transcript_path.write_text(
                 json.dumps(segments, indent=2, ensure_ascii=False),
                 encoding='utf-8'
@@ -73,4 +80,4 @@ class TranscribeStep(PipelineStep):
             return self.run_next(context)
         except Exception as e:
             logger.error(f"❌ Transcription failed: {str(e)}")
-            return False 
+            return False

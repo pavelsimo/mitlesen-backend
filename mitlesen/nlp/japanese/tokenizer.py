@@ -1,14 +1,12 @@
-from __future__ import annotations
+"""Japanese tokenization and word splitting."""
 
 import json
-import re
 from typing import List, Dict, Tuple
-
 from janome.tokenizer import Tokenizer
-import pykakasi
-import jaconv
-from jamdict import Jamdict
+from mitlesen.nlp.base import BaseWordSplitter
 from mitlesen.dictionary import canonicalise_pos
+from .phonetics import JapanesePhonetics
+from .romanizer import JapaneseRomanizer
 
 # Mapping from Janome Japanese POS tags to canonical English tags
 JANOME_POS_MAP = {
@@ -28,71 +26,15 @@ JANOME_POS_MAP = {
     "名詞,代名詞": "pronoun",
 }
 
-class JapaneseWordSplitter:
+class JapaneseWordSplitter(BaseWordSplitter):
     """High-accuracy word splitter with phonetic transcription
     and multiple lemma representations (kana/kanji)."""
 
-    _tokenizer = Tokenizer()
-    _kks = pykakasi.kakasi()
-    _jam = Jamdict()  # heavy-weight but cached for the life of the process
-
-    @classmethod
-    def _to_romaji(cls, kata: str) -> List[str]:
-        """Convert *kata* (katakana string) to a list of Hepburn syllables
-        **aligned 1-to-1 with the corresponding hiragana characters**.
-
-        Long-vowel mark "ー" is expanded into the preceding vowel so that
-        Romaji and Hiragana stay the same length.
-        """
-        hira = jaconv.kata2hira(kata)
-        romaji: List[str] = []
-
-        for i, ch in enumerate(hira):
-            if ch == "ー":
-                # Prolong the previous vowel; default to a bare hyphen if
-                # this is the first char (degenerate case).
-                prev = romaji[-1] if romaji else "-"
-                match = re.search(r"[aeiou]$", prev)
-                romaji.append(match.group(0) if match else "-")
-                continue
-
-            # pykakasi on a single character returns a list with one dict
-            ro = cls._kks.convert(ch)[0]["hepburn"]
-            romaji.append(ro)
-
-        return romaji
-
-    @staticmethod
-    def _to_hiragana(kata: str) -> List[str]:
-        """Convert *kata* to a list of individual hiragana characters."""
-        return list(jaconv.kata2hira(kata))
-
-    _kana_only_re = re.compile(r"^[ぁ-んゔゕゖァ-ヴー]+$")
-
-    @classmethod
-    def _kana_to_kanji(cls, lemma_kana: str) -> str:
-        """Return a plausible kanji representation of *lemma_kana*.
-
-        We consult **Jamdict**; if multiple entries match, we choose the first
-        available kanji form of the first hit.  If no kanji is found, the
-        original kana string is returned untouched.
-        """
-
-        try:
-            result = cls._jam.lookup(lemma_kana)
-        except Exception:
-            # Any Jamdict I/O/parsing hiccup → graceful degradation.
-            return lemma_kana
-
-        if result.entries:
-            entry = result.entries[0]
-            if entry.kanji_forms:
-                return entry.kanji_forms[0].text
-        return lemma_kana
-
-    # ---------------------------------------------------------------------
-    # ――― public API -------------------------------------------------------
-    # ---------------------------------------------------------------------
+    def __init__(self):
+        """Initialize the Japanese word splitter."""
+        self._tokenizer = Tokenizer()
+        self.phonetics = JapanesePhonetics()
+        self.romanizer = JapaneseRomanizer()
 
     def split_sentence(
         self, sentence: str
@@ -166,20 +108,20 @@ class JapaneseWordSplitter:
             lemmas.append(lemma_raw)
 
             # If lemma is pure kana, consult Jamdict for a kanji form.
-            if self._kana_only_re.match(lemma_raw):
-                lemma_kanji = self._kana_to_kanji(lemma_raw)
+            if self.romanizer.is_kana_only(lemma_raw):
+                lemma_kanji = self.romanizer.kana_to_kanji(lemma_raw)
             else:
                 lemma_kanji = lemma_raw
             lemmas_kanji.append(lemma_kanji)
 
-            hiragana_chars = self._to_hiragana(reading_kata)
-            romaji_chars = self._to_romaji(reading_kata)
+            hiragana_chars = self.phonetics.to_hiragana(reading_kata)
+            romaji_chars = self.phonetics.to_romaji(reading_kata)
 
             # Safety check: keep them aligned in case of exotic edge cases
             if len(hiragana_chars) != len(romaji_chars):
                 # Fallback: regenerate using pykakasi in bulk
                 romaji_chars = [
-                    frag["hepburn"] for frag in self._kks.convert(reading_kata)
+                    frag["hepburn"] for frag in self.phonetics._kks.convert(reading_kata)
                 ]
 
             hiragana_phonetics.append(hiragana_chars)
@@ -195,51 +137,22 @@ class JapaneseWordSplitter:
         )
 
     def split_sentences(self, sentences: List[str]) -> List[Dict[str, List]]:
+        """Split multiple sentences and return structured results."""
         results: List[Dict[str, List]] = []
         for sent in sentences:
             w, l, lk, r, h, p = self.split_sentence(sent)
-            results.append(
-                {
-                    "words": w,
-                    "lemmas": l,
-                    "lemma_kanji": lk,
-                    "phonetic_romaji": r,
-                    "phonetic_hiragana": h,
-                    "pos": p,
-                }
-            )
+            results.append({
+                "words": w,
+                "lemmas": l,
+                "lemmas_kanji": lk,
+                "romaji_phonetics": r,
+                "hiragana_phonetics": h,
+                "pos_tags": p,
+            })
         return results
 
     def split_sentences_json(self, sentences_json: str) -> str:
+        """Split sentences from JSON input and return JSON output."""
         sentences = json.loads(sentences_json)
         enriched = self.split_sentences(sentences)
         return json.dumps(enriched, ensure_ascii=False, indent=2)
-
-
-# -------------------------------------------------------------------------
-# ――― demo ----------------------------------------------------------------
-# -------------------------------------------------------------------------
-
-if __name__ == "__main__":
-    splitter = JapaneseWordSplitter()
-
-    sample = "私たちもそのあたりでトレーニングしてる"
-    (
-        words,
-        lemmas,
-        lemmas_kanji,
-        romaji,
-        hiragana,
-        pos_tags,
-    ) = splitter.split_sentence(sample)
-
-    print("Surface :", words)
-    print("Lemmas  :", lemmas)
-    print("Lemmas⚡ :", lemmas_kanji)
-    print("Romaji  :", romaji)
-    print("Hiragana:", hiragana)
-    print("POS     :", pos_tags)
-
-def get_japanese_splitter() -> JapaneseWordSplitter:
-    """Get a JapaneseWordSplitter instance (for migration compatibility)."""
-    return JapaneseWordSplitter()
