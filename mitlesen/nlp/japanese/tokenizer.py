@@ -119,10 +119,10 @@ class JapaneseWordSplitter(BaseWordSplitter):
 
             # Safety check: keep them aligned in case of exotic edge cases
             if len(hiragana_chars) != len(romaji_chars):
-                # Fallback: regenerate using pykakasi in bulk
-                romaji_chars = [
-                    frag["hepburn"] for frag in self.phonetics._kks.convert(reading_kata)
-                ]
+                # Fallback: regenerate both using pykakasi in bulk to keep them aligned
+                kakasi_results = self.phonetics._kks.convert(reading_kata)
+                romaji_chars = [frag["hepburn"] for frag in kakasi_results]
+                hiragana_chars = [frag["hiragana"] for frag in kakasi_results]
 
             hiragana_phonetics.append(hiragana_chars)
             romaji_phonetics.append(romaji_chars)
