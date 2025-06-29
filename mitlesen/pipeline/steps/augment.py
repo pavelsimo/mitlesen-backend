@@ -209,6 +209,14 @@ class AugmentStep(PipelineStep):
                         # Override with AI annotations, but preserve original timestamps and preprocessing fields
                         ai_annotations = {k: v for k, v in proc_word.items()
                                         if k not in ["text", "start", "end"]}
+
+                        # For Japanese: exclude phonetic fields from AI annotations - these should only come from preprocessing
+                        if language == 'ja':
+                            # Remove hiragana and romanji from AI annotations to preserve preprocessing data
+                            for field in ['hiragana', 'romanji']:
+                                if field in ai_annotations:
+                                    del ai_annotations[field]
+
                         cleaned_word.update(ai_annotations)
 
                         # For Japanese, ensure case field is empty

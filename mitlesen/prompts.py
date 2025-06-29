@@ -82,7 +82,6 @@ def get_japanese_transcript_prompt(sentences_json: str) -> str:
           2. For each word within the sentence:
              - An English translation
              - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle)
-             - Romaji (phonetic transcription) of the word
 
           # Translation Guidelines
           For each sentence:
@@ -96,7 +95,6 @@ def get_japanese_transcript_prompt(sentences_json: str) -> str:
           - Prioritize emotional authenticity over literal accuracy when needed
 
           For each word:
-          - Provide accurate romaji transcription
           - Use concise, literal translations
           - Include correct part-of-speech tags
 
