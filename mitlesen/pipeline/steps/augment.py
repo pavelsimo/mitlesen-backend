@@ -52,11 +52,8 @@ class AugmentStep(PipelineStep):
             batches = self._create_batches(transcript)
             processed_transcript = self._process_batches(batches, transcript, client, context.language)
 
-            # Clean up any remaining segments that might not have been processed
-            cleaned_transcript = self._cleanup_transcript_format(processed_transcript)
-
             # Save augmented transcript
-            self._save_augmented_transcript(cleaned_transcript, context.augmented_transcript_path)
+            self._save_augmented_transcript(processed_transcript, context.augmented_transcript_path)
 
             logger.info(f"✅ Augmentation completed for {context.youtube_id}")
             return self.run_next(context)
@@ -221,44 +218,14 @@ class AugmentStep(PipelineStep):
                                         if k not in ["text", "start", "end"]}
                         cleaned_word.update(ai_annotations)
 
+                        # For Japanese, ensure case field is empty
+                        if context.language == 'ja' and 'case' in cleaned_word:
+                            cleaned_word['case'] = ""
+
                         cleaned_segment["words"].append(cleaned_word)
 
                 # Replace the original segment with the cleaned version
                 transcript[original_idx] = cleaned_segment
-
-    def _cleanup_transcript_format(self, transcript: list) -> list:
-        """Ensure all segments have the correct format, even if not processed by AI."""
-        cleaned_transcript = []
-
-        for segment in transcript:
-            # Check if segment already has the correct format (processed by AI)
-            if "translation" in segment and len(segment.keys()) <= 6:
-                cleaned_transcript.append(segment)
-            else:
-                # Clean up segment that wasn't processed by AI
-                cleaned_segment = {
-                    "id": segment["id"],
-                    "text": segment["text"],
-                    "start": segment["start"],
-                    "end": segment["end"],
-                    "words": [],
-                    "translation": ""  # Empty translation for unprocessed segments
-                }
-
-                # Clean up words if they exist
-                if "words" in segment:
-                    for word in segment["words"]:
-                        cleaned_word = {
-                            "text": word["text"],
-                            "start": word["start"],
-                            "end": word["end"]
-                            # No AI annotations for unprocessed words
-                        }
-                        cleaned_segment["words"].append(cleaned_word)
-
-                cleaned_transcript.append(cleaned_segment)
-
-        return cleaned_transcript
 
     def _save_augmented_transcript(self, transcript: list, output_path) -> None:
         """Save the augmented transcript to file."""

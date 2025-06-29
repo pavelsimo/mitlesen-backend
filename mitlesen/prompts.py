@@ -12,13 +12,13 @@ LANGUAGE_SYSTEM_PROMPTS: Dict[str, str] = {
 
 def get_system_instruction(language: str) -> str:
     """Get language-specific system instruction for the AI model.
-    
+
     Args:
         language: Language code ('de' for German, 'ja' for Japanese)
-        
+
     Returns:
         System instruction string appropriate for the language
-        
+
     Raises:
         ValueError: If the language is not supported
     """
@@ -28,22 +28,22 @@ def get_system_instruction(language: str) -> str:
 
 def get_german_transcript_prompt(sentences_json: str) -> str:
     """Generate prompt for augmenting German transcript with translations and word-level information.
-    
+
     Args:
         sentences_json: JSON string containing the sentences to process
-        
+
     Returns:
         Formatted prompt string for the AI model
     """
     return f"""
           You will be given multiple German sentences in JSON format to translate.
-          
+
           # Task
           Your task is to add the missing translation for both sentences and words:
            For each Sentence:
            - An English translation (natural, fluent English that preserves the original meaning)
-                        
-           For each Word within the sentences: 
+
+           For each Word within the sentences:
            - An English translation
            - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle)
            - If applicable (nouns and pronouns), include grammatical case (nominativ, akkusativ, dativ, genitiv)
@@ -58,22 +58,22 @@ def get_german_transcript_prompt(sentences_json: str) -> str:
         - Do not use markdown formatting or code blocks.
         - Make sure the words appear in the same order as given in the transcript.
         - Return an array of JSON objects, one for each input sentence.
-        
+
         # Input JSON Array
         {sentences_json}
     """
 
 def get_japanese_transcript_prompt(sentences_json: str) -> str:
     """Generate prompt for augmenting Japanese transcript with translations and word-level information.
-    
+
     Args:
         sentences_json: JSON string containing the sentences to process
-        
+
     Returns:
         Formatted prompt string for the AI model
     """
     return f"""
-          You are a professional Japanese-to-English translator. Your goal is to provide natural, emotionally authentic translations 
+          You are a professional Japanese-to-English translator. Your goal is to provide natural, emotionally authentic translations
           that capture the true meaning and tone of Japanese dialogue, especially for anime-style content.
 
           # Task
@@ -109,7 +109,7 @@ def get_japanese_transcript_prompt(sentences_json: str) -> str:
           - Do not use markdown formatting or code blocks.
           - Make sure the words appear in the same order as given in the transcript.
           - Return an array of JSON objects, one for each input sentence.
-          
+
           # Input JSON Array
           {sentences_json}
     """
@@ -122,18 +122,18 @@ TRANSCRIPT_PROMPT_FACTORIES = {
 
 def aug_transcript_prompt(sentences_json: str, language: str = 'de') -> str:
     """Generate prompt for augmenting transcript with translations and word-level information.
-    
+
     Args:
         sentences_json: JSON string containing the sentences to process
         language: Language code ('de' for German, 'ja' for Japanese)
-        
+
     Returns:
         Formatted prompt string for the AI model
-        
+
     Raises:
         ValueError: If the language is not supported
     """
     prompt_factory = TRANSCRIPT_PROMPT_FACTORIES.get(language)
     if prompt_factory is None:
         raise ValueError(f"Unsupported language for transcript prompts: {language}")
-    return prompt_factory(sentences_json) 
+    return prompt_factory(sentences_json)

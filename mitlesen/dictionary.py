@@ -67,30 +67,30 @@ class DictRow:
 
 class BaseDictionaryParser(ABC):
     """Abstract base class for dictionary parsers to reduce code duplication."""
-    
+
     def __init__(self, source_path: str):
         self.source_path = source_path
-    
+
     @abstractmethod
     def parse(self) -> Iterable[DictRow]:
         """Parse the dictionary source and yield DictRow objects."""
         pass
-    
+
     def make_entry_id(self, lang: str, lemma: str, pos: str) -> str:
         """Generate a unique ID for a dictionary entry."""
         return make_id(lang, lemma, pos)
-    
+
     def canonicalize_pos(self, pos_raw: str) -> tuple[str, str]:
         """Canonicalize part-of-speech using shared logic."""
         return canonicalise_pos(pos_raw)
-    
+
     def extract_gender_from_tags(self, tags: List[str]) -> Optional[str]:
         """Extract gender information from tags (common for German entries)."""
         gender_tags = [t for t in tags if t in {"masculine", "feminine", "neuter"}]
         if gender_tags:
             return gender_tags[0][0]  # Return first letter: m, f, n
         return None
-    
+
     def extract_gender_from_templates(self, head_templates: List[Dict]) -> Optional[str]:
         """Extract gender from head templates (common pattern)."""
         for ht in head_templates:
@@ -105,7 +105,7 @@ class BaseDictionaryParser(ABC):
                     elif "neuter" in tag:
                         return "n"
         return None
-    
+
     def extract_meanings_from_senses(self, senses: List[Dict]) -> List[str]:
         """Extract meanings from sense data (common pattern)."""
         meanings = []
@@ -114,7 +114,7 @@ class BaseDictionaryParser(ABC):
             if glosses:
                 meanings.append("; ".join(glosses))
         return meanings if meanings else None
-    
+
     def clean_text_content(self, text: str) -> str:
         """Clean and normalize text content."""
         if not text:
@@ -124,11 +124,11 @@ class BaseDictionaryParser(ABC):
 
 class XMLParserMixin:
     """Mixin for XML parsing utilities."""
-    
+
     def extract_xml_text_list(self, parent_element, xpath: str) -> List[str]:
         """Extract list of text content from XML elements."""
         return [elem.text for elem in parent_element.findall(xpath) if elem.text]
-    
+
     def extract_xml_text_single(self, parent_element, xpath: str) -> Optional[str]:
         """Extract single text content from XML element."""
         elem = parent_element.find(xpath)
@@ -137,7 +137,7 @@ class XMLParserMixin:
 
 class JSONLParserMixin:
     """Mixin for JSONL parsing utilities."""
-    
+
     def parse_jsonl_file(self, file_path: str, lang_filter: Optional[str] = None):
         """Parse JSONL file and yield entries, optionally filtering by language."""
         with open(file_path, "r", encoding="utf-8") as f:
@@ -150,17 +150,12 @@ class JSONLParserMixin:
 
 class BaseDictionaryInterface(ABC):
     """Abstract interface for dictionary operations (unified API)."""
-    
+
     @abstractmethod
     def search_by_lemma(self, lemma: str, lang: Optional[str] = None) -> List[Dict[str, Any]]:
         """Search for dictionary entries by lemma."""
         pass
-    
-    @abstractmethod
-    def search_japanese_word(self, word: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-        """Search for a Japanese dictionary entry by word dict."""
-        pass
-    
+
     @abstractmethod
     def close(self) -> None:
         """Close database connection or cleanup resources."""
@@ -252,10 +247,6 @@ class BaseDictionary(BaseDictionaryInterface):
             cursor.execute("SELECT * FROM dictionaries WHERE LOWER(lemma) = ?", (lemma,))
         rows = cursor.fetchall()
         return [dict(row) for row in rows]
-    
-    def search_japanese_word(self, word: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-        """Abstract method for Japanese word search - to be implemented by subclasses."""
-        raise NotImplementedError("Subclasses must implement search_japanese_word")
 
 class SqliteDictionary(BaseDictionary):
     def __init__(self, output_path: str):
@@ -275,9 +266,10 @@ class SqliteDictionary(BaseDictionary):
 
     def search_japanese_word(self, word: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         """Search for a Japanese dictionary entry by word dict using a prioritized matching logic. Returns a single record or None."""
-        lemma_kana = word.get('base_form')
-        lemma_kanji = word.get('base_form2')
-        pos = word.get('pos')
+        # Look for underscore-prefixed field names used for temporary dictionary search
+        lemma_kana = word.get('_base_form')
+        lemma_kanji = word.get('_base_form2')
+        pos = word.get('_pos')
         kana = word.get('text')
         logger.info(f"Searching for Japanese word: lemma_kana={lemma_kana}, lemma_kanji={lemma_kanji}, pos={pos}, kana={kana}")
         cursor = self.conn.cursor()
@@ -327,7 +319,7 @@ class SqliteDictionary(BaseDictionary):
                 return dict(row)
         logger.info("No matches found for any search criteria")
         return None
-    
+
 class GermanWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
     def __init__(self, jsonl_path: str):
         super().__init__(jsonl_path)
@@ -337,23 +329,23 @@ class GermanWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
             word = entry.get("word")
             lang = "de"
             lemma = word
-            
+
             # Extract POS and remarks using base class method
             pos_raw = entry.get("pos", "")
             pos, pos_remarks = self.canonicalize_pos(pos_raw)
-            
+
             # Extract gender using base class methods
             gender = self._extract_gender(entry)
-            
+
             # Extract meanings using base class method
             meanings = self.extract_meanings_from_senses(entry.get("senses", []))
-            
+
             id_ = self.make_entry_id(lang, lemma, pos)
             yield DictRow(
                 id=id_, lang=lang, word=word, lemma=lemma, pos=pos, pos_remarks=pos_remarks,
                 gender=gender, meanings=meanings
             )
-    
+
     def _extract_gender(self, entry: Dict) -> Optional[str]:
         """Extract gender information from German entry."""
         # Try to extract from sense tags first
@@ -362,11 +354,11 @@ class GermanWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
             gender = self.extract_gender_from_tags(tags)
             if gender:
                 return gender
-        
+
         # Try to extract from head templates
         if "head_templates" in entry:
             return self.extract_gender_from_templates(entry["head_templates"])
-        
+
         return None
 
 class JapaneseJMDictParser(BaseDictionaryParser, XMLParserMixin):
@@ -465,14 +457,14 @@ class JapaneseJMDictParser(BaseDictionaryParser, XMLParserMixin):
             if ent.tag != "entry":
                 continue
             lang = "ja"
-            
+
             # Extract word text using helper methods
-            word_text = (self.extract_xml_text_single(ent, "k_ele/keb") or 
+            word_text = (self.extract_xml_text_single(ent, "k_ele/keb") or
                         self.extract_xml_text_single(ent, "r_ele/reb"))
             kana_text = self.extract_xml_text_single(ent, "r_ele/reb") or ""
             romaji = self.to_romaji(kana_text) if kana_text else ""
             lemma = word_text
-            
+
             # Extract structured data using helper methods
             pos, pos_remarks = self.extract_pos_and_remarks(ent)
             meanings = self.extract_meanings(ent)
@@ -480,7 +472,7 @@ class JapaneseJMDictParser(BaseDictionaryParser, XMLParserMixin):
             if furigana is not None:
                 furigana = json.dumps(furigana, ensure_ascii=False)
             level = self.extract_level(ent)
-            
+
             id_ = self.make_entry_id(lang, lemma, pos)
             yield DictRow(
                 id=id_, lang=lang, word=word_text, kana=kana_text, romaji=romaji, lemma=lemma,
@@ -554,50 +546,50 @@ class JapaneseWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
         """Parse Japanese Wiktionary data with redirect resolution."""
         # Build lookup table and collect entries to process
         entry_lookup, entries_to_process = self._build_entry_lookup()
-        
+
         # Process all entries
         for entry in entries_to_process:
             word = entry.get("word")
             lang = "ja"
             pos_raw = entry.get("pos", "")
             pos, pos_remarks = self.canonicalize_pos(pos_raw)
-            
+
             if pos in self.pos_filter:
                 continue
-            
+
             # Handle redirects vs direct entries
             if self._is_redirect_entry(entry, pos_raw):
                 yield from self._process_redirect_entry(entry, entry_lookup, word, lang, pos, pos_remarks, pos_raw)
             else:
                 yield from self._process_direct_entry(entry, word, lang, pos, pos_remarks)
-    
+
     def _build_entry_lookup(self):
         """Build lookup table for non-redirect entries."""
         entry_lookup = {}
         entries_to_process = []
-        
+
         for entry in self.parse_jsonl_file(self.source_path, lang_filter="Japanese"):
             pos_raw = entry.get("pos", "")
             pos, _ = self.canonicalize_pos(pos_raw)
-            
+
             if pos in self.pos_filter:
                 continue
-                
+
             entries_to_process.append(entry)
-            
+
             # Add to lookup if not a redirect
             if not self._is_redirect_entry(entry, pos_raw):
                 key = (entry.get("word"), pos_raw)
                 entry_lookup[key] = entry
-        
+
         return entry_lookup, entries_to_process
-    
+
     def _is_redirect_entry(self, entry, pos_raw):
         """Check if entry is a redirect."""
-        return (pos_raw == "soft-redirect" or 
-                entry.get("redirect") or 
+        return (pos_raw == "soft-redirect" or
+                entry.get("redirect") or
                 entry.get("redirects"))
-    
+
     def _process_redirect_entry(self, entry, entry_lookup, word, lang, pos, pos_remarks, pos_raw):
         """Process a redirect entry by finding its target."""
         target_word = entry.get("redirect") or entry.get("redirects")
@@ -605,31 +597,31 @@ class JapaneseWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
             target_word = target_word[0] if target_word else None
         if not target_word:
             return
-            
-        target_entry = (entry_lookup.get((target_word, pos_raw)) or 
+
+        target_entry = (entry_lookup.get((target_word, pos_raw)) or
                        entry_lookup.get((target_word, "")))
         if not target_entry:
             return
-            
+
         yield self._create_dict_row(target_entry, word, lang, pos, pos_remarks, lemma=word)
-    
+
     def _process_direct_entry(self, entry, word, lang, pos, pos_remarks):
         """Process a direct (non-redirect) entry."""
         lemma = self.extract_lemma(entry)
         yield self._create_dict_row(entry, word, lang, pos, pos_remarks, lemma=lemma)
-    
+
     def _create_dict_row(self, entry, word, lang, pos, pos_remarks, lemma=None):
         """Create a DictRow from entry data (eliminates duplication)."""
         if lemma is None:
             lemma = word
-            
+
         kana = self.extract_kana(entry) or lemma
         romaji = self.extract_romaji(entry)
         furigana_val = self.extract_furigana(entry)
         furigana = json.dumps(furigana_val, ensure_ascii=False) if furigana_val is not None else None
         meanings = self.extract_meanings(entry)
         level = self.extract_level(entry)
-        
+
         id_ = self.make_entry_id(lang, lemma, pos)
         return DictRow(
             id=id_, lang=lang, word=word, kana=kana, romaji=romaji, lemma=lemma, pos=pos,

@@ -21,10 +21,10 @@ WHISPER_CONFIGS = {
 
 def get_whisper_config(language: str) -> WhisperConfig:
     """Get WhisperX configuration for the specified language.
-    
+
     Args:
         language: Language code ('de' for German, 'ja' for Japanese)
-        
+
     Returns:
         WhisperConfig instance with language-specific settings
     """

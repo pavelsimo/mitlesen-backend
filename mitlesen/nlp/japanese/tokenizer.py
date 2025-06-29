@@ -56,9 +56,9 @@ class JapaneseWordSplitter(BaseWordSplitter):
             Dictionary (base) forms in kana/kanji as provided by *Janome*.
         lemma_kanji : list[str]
             Kanji-only representation (best-effort) looked up via *Jamdict*.
-        phonetic_romaji : list[list[str]]
+        romanji : list[list[str]]
             **Romaji syllables for each word, one per hiragana character.**
-        phonetic_hiragana : list[list[str]]
+        hiragana : list[list[str]]
             Hiragana syllables for each word (one character each).
         pos : list[str]
             Normalized part-of-speech for each word.

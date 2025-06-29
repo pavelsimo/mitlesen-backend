@@ -660,9 +660,10 @@ class SupabaseDictionary:
         """
         import json
 
-        lemma_kana = word.get('base_form')
-        lemma_kanji = word.get('base_form2')
-        pos = word.get('pos')
+        # Look for underscore-prefixed field names used for temporary dictionary search
+        lemma_kana = word.get('_base_form')
+        lemma_kanji = word.get('_base_form2')
+        pos = word.get('_pos')
         kana = word.get('text')
 
         logger.info(f"Searching for Japanese word: lemma_kana={lemma_kana}, lemma_kanji={lemma_kanji}, pos={pos}, kana={kana}")
