@@ -3,7 +3,7 @@ from typing import List, Dict
 from mitlesen.logger import logger
 from mitlesen.pipeline.base import PipelineContext
 from mitlesen.pipeline.steps.download import DownloadStep
-from mitlesen.pipeline.steps.transcribe import TranscribeStep
+from mitlesen.pipeline.steps.elevenlabs_transcribe import ElevenLabsTranscribeStep
 from mitlesen.pipeline.steps.augment import AugmentStep
 from mitlesen.pipeline.steps.upload import UploadStep
 import signal
@@ -29,7 +29,7 @@ class PipelineRunner:
     def _setup_pipeline(self):
         """Setup the pipeline steps in the correct order"""
         download = DownloadStep("download")
-        transcribe = TranscribeStep("transcribe")
+        transcribe = ElevenLabsTranscribeStep("transcribe")
         augment = AugmentStep("augment")
         upload = UploadStep("upload")
         download.set_next(transcribe).set_next(augment).set_next(upload)
