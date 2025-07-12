@@ -6,236 +6,59 @@ from elevenlabs.client import ElevenLabs
 
 from mitlesen.pipeline.base import PipelineStep, PipelineContext
 from mitlesen.logger import logger
-from mitlesen.nlp import get_segmenter
 
 
-# Language code mapping from 2-letter to 3-letter codes for ElevenLabs
-LANGUAGE_CODE_MAPPING = {
-    'ja': 'jpn',
-    'de': 'deu',
-    'en': 'eng',
-    'es': 'spa',
-    'fr': 'fra',
-    'it': 'ita',
-    'pt': 'por',
-    'ru': 'rus',
-    'zh': 'zho',
-    'ko': 'kor',
-    'ar': 'ara',
-    'hi': 'hin',
-    'th': 'tha',
-    'vi': 'vie',
-    'pl': 'pol',
-    'nl': 'nld',
-    'tr': 'tur',
-    'sv': 'swe',
-    'da': 'dan',
-    'no': 'nor',
-    'fi': 'fin',
-    'hu': 'hun',
-    'cs': 'ces',
-    'sk': 'slk',
-    'uk': 'ukr',
-    'bg': 'bul',
-    'hr': 'hrv',
-    'sr': 'srp',
-    'sl': 'slv',
-    'et': 'est',
-    'lv': 'lav',
-    'lt': 'lit',
-    'ro': 'ron',
-    'el': 'ell',
-    'he': 'heb',
-    'fa': 'fas',
-    'ur': 'urd',
-    'bn': 'ben',
-    'ta': 'tam',
-    'te': 'tel',
-    'ml': 'mal',
-    'kn': 'kan',
-    'gu': 'guj',
-    'pa': 'pan',
-    'mr': 'mar',
-    'ne': 'nep',
-    'si': 'sin',
-    'my': 'mya',
-    'km': 'khm',
-    'lo': 'lao',
-    'ka': 'kat',
-    'am': 'amh',
-    'sw': 'swa',
-    'zu': 'zul',
-    'af': 'afr',
-    'is': 'isl',
-    'mt': 'mlt',
-    'cy': 'cym',
-    'ga': 'gle',
-    'gd': 'gla',
-    'br': 'bre',
-    'eu': 'eus',
-    'ca': 'cat',
-    'gl': 'glg',
-    'oc': 'oci',
-    'co': 'cos',
-    'rm': 'roh',
-    'lb': 'ltz',
-    'fo': 'fao',
-    'kl': 'kal',
-    'se': 'sme',
-    'yo': 'yor',
-    'ig': 'ibo',
-    'ha': 'hau',
-    'xh': 'xho',
-    'st': 'sot',
-    'tn': 'tsn',
-    'ts': 'tso',
-    'ss': 'ssw',
-    'nr': 'nbl',
-    've': 'ven',
-    'nd': 'nde',
-    'lg': 'lug',
-    'rw': 'kin',
-    'rn': 'run',
-    'ny': 'nya',
-    'sn': 'sna',
-    'mg': 'mlg',
-    'ti': 'tir',
-    'so': 'som',
-    'or': 'ori',
-    'as': 'asm',
-    'ks': 'kas',
-    'sd': 'snd',
-    'ps': 'pus',
-    'dv': 'div',
-    'bo': 'bod',
-    'ug': 'uig',
-    'mn': 'mon',
-    'hy': 'hye',
-    'az': 'aze',
-    'kk': 'kaz',
-    'ky': 'kir',
-    'tg': 'tgk',
-    'tk': 'tuk',
-    'uz': 'uzb',
-    'tt': 'tat',
-    'ba': 'bak',
-    'cv': 'chv',
-    'sah': 'sah',
-    'ce': 'che',
-    'av': 'ava',
-    'lez': 'lez',
-    'kbd': 'kbd',
-    'ady': 'ady',
-    'krc': 'krc',
-    'kum': 'kum',
-    'nog': 'nog',
-    'kv': 'kom',
-    'udm': 'udm',
-    'mdf': 'mdf',
-    'myv': 'myv',
-    'mhr': 'mhr',
-    'mrj': 'mrj',
-    'chm': 'chm',
-    'kpv': 'kpv',
-    'koi': 'koi',
-    'mns': 'mns',
-    'kca': 'kca',
-    'nio': 'nio',
-    'yrk': 'yrk',
-    'eve': 'eve',
-    'evn': 'evn',
-    'nan': 'nan',
-    'chg': 'chg',
-    'cjs': 'cjs',
-    'kjh': 'kjh',
-    'alt': 'alt',
-    'tuv': 'tuv',
-    'tyv': 'tyv',
-    'bua': 'bua',
-    'xal': 'xal',
-    'kha': 'kha',
-    'lus': 'lus',
-    'grt': 'grt',
-    'sat': 'sat',
-    'brx': 'brx',
-    'kok': 'kok',
-    'mai': 'mai',
-    'mag': 'mag',
-    'bho': 'bho',
-    'awa': 'awa',
-    'raj': 'raj',
-    'hne': 'hne',
-    'gom': 'gom',
-    'sa': 'san',
-    'pi': 'pli',
-    'pra': 'pra',
-    'new': 'new',
-    'bpy': 'bpy',
-    'mni': 'mni',
-    'lep': 'lep',
-    'dz': 'dzo',
-    'ii': 'iii',
-    'za': 'zha',
-    'iu': 'iku',
-    'kl': 'kal',
-    'mi': 'mri',
-    'haw': 'haw',
-    'ty': 'tah',
-    'sm': 'smo',
-    'to': 'ton',
-    'fj': 'fij',
-    'bi': 'bis',
-    'ho': 'hmo',
-    'kg': 'kon',
-    'ak': 'aka',
-    'tw': 'twi',
-    'bm': 'bam',
-    'dyu': 'dyu',
-    'ff': 'ful',
-    'wo': 'wol',
-    'sg': 'sag',
-    'ln': 'lin',
-    'lua': 'lua',
-    'luo': 'luo',
-    'gaa': 'gaa',
-    'ee': 'ewe',
-    'kr': 'kau',
-    'din': 'din',
-    'nus': 'nus',
-    'teo': 'teo',
-    'lgg': 'lgg',
-    'acholi': 'ach',
-    'mas': 'mas',
-    'kik': 'kik',
-    'kam': 'kam',
-    'mer': 'mer',
-    'luy': 'luy',
-    'guz': 'guz',
-    'kln': 'kln',
-    'luo': 'luo',
-}
-
-
-def get_elevenlabs_language_code(language: str) -> str:
-    """Convert 2-letter language code to 3-letter code for ElevenLabs API.
+def _should_split_segment(current_words, word_text, language, total_segment_length=None):
+    """Check if we should split the current segment after adding this word."""
+    import re
     
-    Args:
-        language: 2-letter language code (e.g., 'ja', 'de')
+    # Always split on sentence endings (but not ellipsis)
+    if word_text.endswith(('!', '?', '。', '！', '？')) or (word_text.endswith('.') and word_text != '...'):
+        return True
+    
+    # Split on commas if the total segment would be long enough to warrant splitting
+    comma_ending = re.compile(r'[,、]$')
+    if comma_ending.search(word_text):
+        char_threshold = 15 if language == 'ja' else 80
         
-    Returns:
-        3-letter language code for ElevenLabs API (e.g., 'jpn', 'deu')
-    """
-    return LANGUAGE_CODE_MAPPING.get(language.lower(), 'eng')  # Default to English
+        # If we have total segment length info, use that for decision
+        if total_segment_length is not None:
+            return total_segment_length >= char_threshold
+        
+        # Fallback: check current accumulated segment length
+        segment_text = ''.join(w.get('text', '') for w in current_words)
+        return len(segment_text) >= char_threshold
+    
+    return False
 
 
-def transform_elevenlabs_to_transcript(elevenlabs_response) -> List[Dict[str, Any]]:
+def _create_segment(words, segment_id):
+    """Create a segment from a list of words."""
+    if not words:
+        return None
+    
+    # Filter out spacing words for the words array, but keep them for text
+    content_words = [w for w in words if w.get('type') != 'spacing']
+    
+    return {
+        'id': segment_id,
+        'text': ''.join(w.get('text', '') for w in words).strip(),
+        'start': words[0].get('start', 0.0),
+        'end': words[-1].get('end', 0.0),
+        'words': [{'text': w.get('text', ''), 'start': w.get('start', 0.0), 'end': w.get('end', 0.0)} 
+                 for w in content_words],
+    }
+
+
+def transform_elevenlabs_to_transcript(elevenlabs_response, language: str = 'de') -> List[Dict[str, Any]]:
     """Transform ElevenLabs API response to match TranscribeStep output format.
     
     Args:
         elevenlabs_response: Raw response from ElevenLabs API
+        language: Language code ('de' for German, 'ja' for Japanese) for character thresholds
         
     Returns:
-        List of segments in the format expected by the pipeline
+        List of segments split by sentences (punctuation) and speaker changes
     """
     # Convert response object to dictionary if needed
     if hasattr(elevenlabs_response, 'dict'):
@@ -246,58 +69,98 @@ def transform_elevenlabs_to_transcript(elevenlabs_response) -> List[Dict[str, An
         response_dict = dict(elevenlabs_response)
     
     words = response_dict.get('words', [])
+    if not words:
+        return []
     
-    # Group words into segments based on speaker changes and pauses
-    segments = []
-    current_segment = []
+    # Step 1: Group words into sentence-level segments first
+    sentence_segments = _group_into_sentences(words)
+    
+    # Step 2: Split long sentences at commas if needed
+    final_segments = []
+    for sentence_words in sentence_segments:
+        sub_segments = _split_long_sentence_at_commas(sentence_words, language)
+        for sub_segment in sub_segments:
+            segment = _create_segment(sub_segment, len(final_segments))
+            if segment:
+                final_segments.append(segment)
+    
+    return final_segments
+
+
+def _group_into_sentences(words):
+    """Group words into sentence-level segments based on punctuation and speaker changes."""
+    sentences = []
+    current_sentence = []
     current_speaker = None
-    segment_start = None
     
     for word in words:
-        word_start = word.get('start', 0.0)
-        word_end = word.get('end', 0.0)
-        word_text = word.get('text', '')
+        word_text = word.get('text', '').strip()
         speaker_id = word.get('speaker_id', 'speaker_0')
         
-        # Start new segment if speaker changes or if there's a long pause
-        if current_speaker is None:
-            current_speaker = speaker_id
-            segment_start = word_start
-        elif current_speaker != speaker_id or (current_segment and word_start - current_segment[-1]['end'] > 2.0):
-            # Finish current segment
-            if current_segment:
-                segment_text = ' '.join([w['text'] for w in current_segment])
-                segments.append({
-                    'id': len(segments),
-                    'text': segment_text,
-                    'start': segment_start,
-                    'end': current_segment[-1]['end'],
-                    'words': current_segment,
-                })
-            # Start new segment
-            current_segment = []
-            current_speaker = speaker_id
-            segment_start = word_start
+        # Handle speaker changes (only for content words)
+        if word.get('type') != 'spacing':
+            if current_speaker is None:
+                current_speaker = speaker_id
+            elif current_speaker != speaker_id:
+                # Speaker change - finish current sentence
+                if current_sentence:
+                    sentences.append(current_sentence)
+                    current_sentence = []
+                current_speaker = speaker_id
         
-        # Add word to current segment
-        current_segment.append({
-            'text': word_text,
-            'start': word_start,
-            'end': word_end,
-        })
+        # Add word to current sentence
+        current_sentence.append(word)
+        
+        # Check for sentence endings
+        if word.get('type') != 'spacing' and _is_sentence_ending(word_text):
+            sentences.append(current_sentence)
+            current_sentence = []
+            current_speaker = None
     
-    # Add final segment
+    # Add final sentence if remaining
+    if current_sentence:
+        sentences.append(current_sentence)
+    
+    return sentences
+
+
+def _is_sentence_ending(word_text):
+    """Check if word ends a sentence."""
+    return (word_text.endswith(('!', '?', '。', '！', '？')) or 
+            (word_text.endswith('.') and word_text != '...'))
+
+
+def _split_long_sentence_at_commas(sentence_words, language):
+    """Split a sentence at commas if it's long enough."""
+    if not sentence_words:
+        return []
+    
+    # Calculate total sentence length
+    total_text = ''.join(w.get('text', '') for w in sentence_words)
+    char_threshold = 15 if language == 'ja' else 80
+    
+    # If sentence is short enough, don't split
+    if len(total_text) < char_threshold:
+        return [sentence_words]
+    
+    # Split at commas
+    segments = []
+    current_segment = []
+    
+    for word in sentence_words:
+        word_text = word.get('text', '').strip()
+        current_segment.append(word)
+        
+        # Split at comma (now we know the total sentence is long enough)
+        if word_text.endswith((',', '、')):
+            segments.append(current_segment)
+            current_segment = []
+    
+    # Add remaining words as final segment
     if current_segment:
-        segment_text = ' '.join([w['text'] for w in current_segment])
-        segments.append({
-            'id': len(segments),
-            'text': segment_text,
-            'start': segment_start,
-            'end': current_segment[-1]['end'],
-            'words': current_segment,
-        })
+        segments.append(current_segment)
     
-    return segments
+    return segments if segments else [sentence_words]
 
 
 class ElevenLabsTranscribeStep(PipelineStep):
@@ -315,49 +178,55 @@ class ElevenLabsTranscribeStep(PipelineStep):
             logger.warning(f"⚠️ Transcript already exists: {context.transcript_path}")
             return self.run_next(context)
         
-        try:
-            # Read audio file
-            with open(context.audio_path, 'rb') as audio_file:
-                audio_data = BytesIO(audio_file.read())
-            
-            # Get ElevenLabs language code
-            elevenlabs_language = get_elevenlabs_language_code(context.language)
-            
-            # Transcribe using ElevenLabs
-            logger.info(f"Transcribing with ElevenLabs (language: {elevenlabs_language})")
-            transcription = self.client.speech_to_text.convert(
-                file=audio_data,
-                model_id=self.model_id,
-                tag_audio_events=False,
-                language_code=elevenlabs_language,
-                diarize=True
-            )
-            
-            # Convert response object to dictionary for JSON serialization
-            if hasattr(transcription, 'dict'):
-                transcription_dict = transcription.dict()
-            elif hasattr(transcription, 'model_dump'):
-                transcription_dict = transcription.model_dump()
-            else:
-                # Fallback: convert to dict manually
-                transcription_dict = dict(transcription)
-            
-            # Save raw ElevenLabs response for debugging
-            raw_response_path = context.transcript_path.with_suffix('.elevenlabs.json')
-            with open(raw_response_path, 'w', encoding='utf-8') as f:
-                json.dump(transcription_dict, f, indent=2, ensure_ascii=False)
-            
-            # Transform to expected format
-            segments = transform_elevenlabs_to_transcript(transcription)
-            
-            # Apply sentence segmentation for supported languages
+        # check if raw elevenlabs response already exists to avoid expensive API calls
+        raw_response_path = context.transcript_path.with_suffix('.elevenlabs.json')
+        transcription_dict = None
+        if raw_response_path.exists():
+            logger.info(f"📄 Raw ElevenLabs response already exists: {raw_response_path}")
             try:
-                segmenter = get_segmenter(context.language)
-                segments = segmenter.segment_transcripts(segments)
-                logger.info(f"Applied {context.language} sentence segmentation")
-            except ValueError as e:
-                logger.info(f"No segmentation available for {context.language}: {e}")
-                # Continue without segmentation for unsupported languages
+                with open(raw_response_path, 'r', encoding='utf-8') as f:
+                    transcription_dict = json.load(f)
+            except Exception as e:
+                logger.warning(f"⚠️ Failed to load cached response: {str(e)}, calling API")
+                transcription_dict = None
+
+        # call API if we don't have cached response
+        if transcription_dict is None:
+            try:
+                # Read audio file
+                with open(context.audio_path, 'rb') as audio_file:
+                    audio_data = BytesIO(audio_file.read())
+                
+                # Transcribe using ElevenLabs (supports 2-letter language codes directly)
+                logger.info(f"Transcribing with ElevenLabs (language: {context.language})")
+                transcription = self.client.speech_to_text.convert(
+                    file=audio_data,
+                    model_id=self.model_id,
+                    tag_audio_events=False,
+                    language_code=context.language,
+                    diarize=True
+                )
+                
+                # Convert response object to dictionary for JSON serialization
+                if hasattr(transcription, 'dict'):
+                    transcription_dict = transcription.dict()
+                elif hasattr(transcription, 'model_dump'):
+                    transcription_dict = transcription.model_dump()
+                else:
+                    # fallback: convert to dict manually
+                    transcription_dict = dict(transcription)
+                
+                # save raw ElevenLabs response for caching
+                with open(raw_response_path, 'w', encoding='utf-8') as f:
+                    json.dump(transcription_dict, f, indent=2, ensure_ascii=False)
+            except Exception as e:
+                logger.error(f"❌ ElevenLabs API call failed: {str(e)}")
+                return False
+        
+        try:
+            # Transform to expected format with built-in sentence segmentation
+            segments = transform_elevenlabs_to_transcript(transcription_dict, context.language)
+            logger.info(f"ElevenLabs transcript transformed into {len(segments)} sentence segments")
             
             # Save in expected format
             context.transcript_path.write_text(
@@ -369,5 +238,5 @@ class ElevenLabsTranscribeStep(PipelineStep):
             return self.run_next(context)
             
         except Exception as e:
-            logger.error(f"❌ ElevenLabs transcription failed: {str(e)}")
+            logger.error(f"❌ ElevenLabs transcription processing failed: {str(e)}")
             return False

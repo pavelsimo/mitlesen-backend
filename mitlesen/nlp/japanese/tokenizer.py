@@ -72,10 +72,6 @@ class JapaneseWordSplitter(BaseWordSplitter):
         pos_tags: List[str] = []
 
         for token in self._tokenizer.tokenize(sentence, wakati=False):
-            # Skip punctuation marks (Janome tags them as 記号, "symbols").
-            if token.part_of_speech.startswith("記号"):
-                continue
-
             surface = token.surface
             lemma_raw = (
                 token.base_form if token.base_form != "*" else surface
