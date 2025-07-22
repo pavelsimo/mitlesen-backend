@@ -1,128 +1,200 @@
-# Code Simplification TODO
+# Spanish Language Support Implementation Plan
 
-This document outlines areas where the Mitlesen backend codebase can be simplified and refactored for better maintainability.
+This document outlines the comprehensive plan to add Spanish language support to the Mitlesen backend system.
 
-## 1. Duplicate Exception Classes [DONE]
+## Overview
 
-**Issue**: Both `mitlesen/nlp/german/segmenter.py:13-22` and `mitlesen/nlp/japanese/segmenter.py:12-21` define identical `SentenceMatchError` classes.
+The goal is to add Spanish ('es') as a supported language alongside the existing German ('de') and Japanese ('ja'/'jp') support. This will enable the system to:
 
-**Solution**: 
-- [DONE] Move `SentenceMatchError` to `mitlesen/nlp/base.py` as a shared exception
-- [DONE] Update imports in both segmenter files
+- Process Spanish YouTube videos
+- Generate Spanish transcripts using WhisperX
+- Provide Spanish linguistic analysis and vocabulary extraction
+- Support Spanish dictionary lookups
+- Generate Spanish audio using ElevenLabs
 
-**Files affected**:
-- [DONE] `mitlesen/nlp/base.py` (add exception)
-- [DONE] `mitlesen/nlp/german/segmenter.py` (remove duplicate, import from base)
-- [DONE] `mitlesen/nlp/japanese/segmenter.py` (remove duplicate, import from base)
+## Current Architecture Analysis
 
-## 2. Redundant Dictionary Classes [DONE]
+### Language Support Framework
+The Mitlesen backend uses a well-architected factory pattern for language-specific processing:
 
-**Issue**: Two separate dictionary implementations serve similar purposes:
-- `mitlesen/db.py:297-437` - Supabase-based Dictionary class
-- `mitlesen/dictionary.py:67-222` - SQLite-based BaseDictionary/SqliteDictionary
+- **Base Classes**: Abstract interfaces (`BaseSegmenter`, `BaseTranscriptProcessor`, etc.)
+- **Factory Functions**: Language resolution via `get_segmenter(language)`, `get_transcript_processor(language)`
+- **Pipeline Integration**: Language-aware steps in the processing pipeline
+- **AI Integration**: Language-specific prompts and processing instructions
 
-**Solution**:
-- [DONE] Create a common interface/abstract base class for dictionary operations (`BaseDictionaryInterface`)
-- [DONE] Unify the API between both implementations with consistent method signatures
-- [DONE] Add `SupabaseDictionary` wrapper class that implements the unified interface
-- [DONE] Update type annotations to use consistent types (`List[Dict[str, Any]]`)
-- [DONE] Preserve backward compatibility with existing `Dictionary` class
+### Existing Language Implementations
 
-**Files affected**:
-- [DONE] `mitlesen/db.py` (added `SupabaseDictionary` class)
-- [DONE] `mitlesen/dictionary.py` (added `BaseDictionaryInterface`, updated type annotations)
-- [DONE] Any files importing these classes (can now use either implementation interchangeably)
+**German ('de')**:
+- `GermanSentenceSegmenter` - spaCy-based sentence segmentation
+- `GermanTranscriptProcessor` - dictionary lookups and text analysis
+- Text normalization and linguistic preprocessing
 
-## 3. Complex Batch Processing Logic [DONE]
+**Japanese ('ja'/'jp')**:
+- `JapaneseSentenceSegmenter` - Janome tokenization
+- `JapaneseWordSplitter` - morphological analysis with phonetics
+- `JapaneseTranscriptProcessor` - comprehensive Japanese text processing
+- Romanization and phonetic analysis modules
 
-**Issue**: The `AugmentStep.execute()` method in `mitlesen/pipeline/steps/augment.py:37-118` has overly complex nested loops and retry logic.
+## Implementation Plan
 
-**Solution**:
-- [DONE] Extract batch creation logic into `_create_batches()` method
-- [DONE] Extract retry mechanism into `_process_batch_with_retry()` method
-- [DONE] Simplify the main processing loop
-- [DONE] Consider using a state machine pattern for retry logic
+### Phase 1: Core NLP Infrastructure (High Priority)
 
-**Files affected**:
-- [DONE] `mitlesen/pipeline/steps/augment.py`
+#### 1.1 Create Spanish NLP Module Structure
+**Target**: `mitlesen/nlp/spanish/`
+```
+spanish/
+├── __init__.py
+├── segmenter.py      # SpanishSentenceSegmenter
+├── transcript_processor.py  # SpanishTranscriptProcessor
+└── normalizer.py     # Spanish text normalization utilities
+```
 
-## 4. Repeated Database Connection Patterns [DONE]
+#### 1.2 Implement SpanishSentenceSegmenter
+**File**: `mitlesen/nlp/spanish/segmenter.py`
+- Inherit from `BaseSegmenter` 
+- Handle Spanish sentence boundaries and punctuation rules
+- Support Spanish question marks (¿?) and exclamation marks (¡!)
+- Handle abbreviations and Spanish-specific sentence structures
 
-**Issue**: Multiple classes in `mitlesen/db.py` repeat the same pattern for database operations (insert with duplicate handling, fetch operations).
+#### 1.3 Implement SpanishTranscriptProcessor  
+**File**: `mitlesen/nlp/spanish/transcript_processor.py`
+- Inherit from `BaseTranscriptProcessor`
+- Spanish text preprocessing and cleaning
+- Integration with Spanish dictionary lookups
+- Handle Spanish-specific text normalization
 
-**Solution**:
-- [DONE] Create a `BaseSupabaseModel` class with common CRUD operations
-- [DONE] Implement methods like `_insert_with_duplicate_handling()`, `_fetch_by_field()`, etc.
-- [DONE] Refactor Video, Genre, Series, SeriesGenre, Dictionary classes to inherit from base
+#### 1.4 Update Factory Functions
+**File**: `mitlesen/nlp/__init__.py`
+- Add 'es' support to `get_segmenter()` function
+- Add 'es' support to `get_transcript_processor()` function
+- Spanish doesn't need complex word splitting like Japanese
 
-**Files affected**:
-- [DONE] `mitlesen/db.py`
+#### 1.5 Add Spanish AI Prompts
+**File**: `mitlesen/prompts.py`
+- Add Spanish entry to `LANGUAGE_SYSTEM_PROMPTS` dictionary
+- Add Spanish function to `TRANSCRIPT_PROMPT_FACTORIES`
+- Include Spanish grammatical features (gender, verb conjugation)
+- Provide proper Spanish linguistic context for AI processing
 
-## 5. Large Segmenter Classes
+### Phase 2: Pipeline Integration (Medium Priority)
 
-**Issue**: Both `GermanSentenceSegmenter` and `JapaneseSentenceSegmenter` have very similar `split_long_sentence` and `segment_transcripts` methods with only language-specific differences.
+#### 2.1 Configure Spanish WhisperX Settings
+**File**: `mitlesen/pipeline/steps/transcribe.py`
+- Add Spanish configuration to `WHISPER_CONFIGS` dictionary
+- Set appropriate model and language parameters for Spanish
+- Configure Spanish-specific transcription settings
 
-**Solution**:
-- Move common logic to `BaseSegmenter` class
-- Create abstract methods for language-specific operations:
-  - `_get_sentence_endings()`
-  - `_get_safe_split_chars()`
-  - `_normalize_for_matching()`
-- Implement template method pattern for `segment_transcripts()`
+#### 2.2 Update ElevenLabs Integration
+**File**: `mitlesen/pipeline/steps/elevenlabs_transcribe.py`
+- Add Spanish character count thresholds
+- Configure Spanish-specific text segmentation for speech synthesis
+- Ensure proper handling of Spanish accents and special characters
 
-**Files affected**:
-- `mitlesen/nlp/base.py`
-- `mitlesen/nlp/german/segmenter.py`
-- `mitlesen/nlp/japanese/segmenter.py`
+#### 2.3 Spanish Text Normalizer
+**File**: `mitlesen/nlp/spanish/normalizer.py`
+- Handle Spanish accents and diacritics (á, é, í, ó, ú, ñ)
+- Process Spanish contractions and elisions
+- Normalize punctuation and whitespace
+- Handle Spanish-specific text cleaning requirements
 
-## 6. Dictionary Parser Complexity [DONE]
+### Phase 3: Dictionary & Advanced Features (Medium/Low Priority)
 
-**Issue**: The `mitlesen/dictionary.py` file contains three large parser classes (424+ lines total) with complex methods.
+#### 3.1 Source Spanish Dictionary Data
+**Research and Integration**:
+- Identify reliable Spanish linguistic resources:
+  - Spanish Wiktionary dumps
+  - OpenCorpora Spanish corpus
+  - FreeLing Spanish dictionary
+  - Other open-source Spanish lexical resources
+- Analyze data format and structure for integration
 
-**Solution**:
-- [DONE] Extract common parsing patterns into `BaseDictionaryParser` abstract base class
-- [DONE] Create `XMLParserMixin` and `JSONLParserMixin` for shared XML/JSON processing utilities
-- [DONE] Break down large methods in `JapaneseJMDictParser` and `JapaneseWiktionaryParser`:
-  - [DONE] Refactor `JapaneseWiktionaryParser.parse()` into smaller helper methods
-  - [DONE] Extract `_build_entry_lookup()`, `_process_redirect_entry()`, `_process_direct_entry()`, `_create_dict_row()`
-  - [DONE] Use base class utilities for common operations (ID generation, POS canonicalization, text cleaning)
-- [DONE] Simplify XML and JSONL processing using mixin utilities
-- [DONE] Eliminate code duplication across all three parser classes
+#### 3.2 Update Dictionary Processing
+**File**: `create_dictionary.py`
+- Add Spanish dictionary parser class
+- Integrate Spanish dictionary data processing
+- Handle Spanish-specific dictionary entry formats
+- Support Spanish morphological information
 
-**Files affected**:
-- [DONE] `mitlesen/dictionary.py` (added base classes and mixins, refactored all parser classes)
+#### 3.3 Spanish Morphological Analysis
+**Enhancement Goals**:
+- **Gender Agreement**: Noun and adjective gender marking (masculino/femenino)
+- **Verb Conjugation**: Tense, mood, person analysis
+- **Number Agreement**: Singular/plural forms
+- **Lemmatization**: Reduce words to their base forms
+- **Part-of-Speech**: Spanish-specific POS tagging
 
-## 7. AI Client Redundancy [DONE]
+#### 3.4 Schema Considerations
+**Database/Model Updates**:
+- Current schema supports Spanish well (no special fields like Japanese romanji)
+- Consider adding Spanish-specific grammatical fields:
+  - Gender information for nouns/adjectives
+  - Verb tense and mood information
+  - Formality level (tú/usted distinctions)
 
-**Issue**: The `CompletionClient` and `CompletionStreamClient` in `mitlesen/ai.py:15-143` have overlapping initialization logic.
+### Phase 4: Testing & Validation (High Priority)
 
-**Solution**:
-- [DONE] Create a `BaseAIClient` class with shared initialization
-- [DONE] Extract common backend setup logic
-- [DONE] Consider using composition over inheritance for backend-specific behavior
-- [DONE] Unify configuration management
+#### 4.1 End-to-End Pipeline Testing
+- Test complete Spanish video processing pipeline
+- Validate transcript quality and accuracy
+- Verify linguistic analysis correctness
+- Test dictionary integration and lookups
 
-**Files affected**:
-- [DONE] `mitlesen/ai.py`
+#### 4.2 Integration Testing
+- Test Spanish language detection and routing
+- Verify AI prompt effectiveness for Spanish content
+- Test ElevenLabs Spanish speech synthesis
+- Validate database storage and retrieval
+
+## Technical Implementation Details
+
+### Language Code Support
+- Primary code: `'es'` (Spanish)
+- Ensure compatibility with existing language detection logic
+- Update all language enumeration and validation code
+
+### Dependencies
+- **spaCy Spanish Model**: For advanced NLP processing (`es_core_news_sm`)
+- **Spanish Tokenization**: Consider NLTK Spanish punkt or spaCy
+- **Dictionary Resources**: Integration with chosen Spanish lexical database
+
+### Configuration Updates
+- Environment variables for Spanish-specific settings
+- Configuration files for Spanish processing parameters
+- Language-specific logging and error handling
+
+## Files to Create/Modify
+
+### New Files
+- `mitlesen/nlp/spanish/__init__.py`
+- `mitlesen/nlp/spanish/segmenter.py`
+- `mitlesen/nlp/spanish/transcript_processor.py`
+- `mitlesen/nlp/spanish/normalizer.py`
+
+### Modified Files
+- `mitlesen/nlp/__init__.py` (factory functions)
+- `mitlesen/prompts.py` (Spanish AI prompts)
+- `mitlesen/pipeline/steps/transcribe.py` (WhisperX config)
+- `mitlesen/pipeline/steps/elevenlabs_transcribe.py` (ElevenLabs config)
+- `create_dictionary.py` (Spanish dictionary processing)
+
+### Testing Files
+- Unit tests for all Spanish NLP components
+- Integration tests for Spanish pipeline
+- Sample Spanish video processing tests
+
+## Success Criteria
+
+1. **Functional**: Complete Spanish video processing from YouTube URL to database storage
+2. **Quality**: Accurate Spanish transcription and linguistic analysis
+3. **Performance**: Spanish processing performance comparable to German/Japanese
+4. **Maintainability**: Clean, well-documented code following existing patterns
+5. **Extensibility**: Easy to add additional Spanish-specific features in the future
 
 ## Implementation Priority
 
-1. **High Priority** (Quick wins):
-   - Duplicate Exception Classes (#1)
-   - AI Client Redundancy (#7)
+**Phase 1** (Immediate): Core NLP infrastructure for basic Spanish support
+**Phase 2** (Next): Pipeline integration for complete processing workflow  
+**Phase 3** (Future): Advanced dictionary and morphological features
+**Phase 4** (Ongoing): Comprehensive testing and validation
 
-2. **Medium Priority** (Moderate effort):
-   - Complex Batch Processing Logic (#3)
-   - Repeated Database Connection Patterns (#4)
-
-3. **Low Priority** (Larger refactoring):
-   - Redundant Dictionary Classes (#2)
-   - Large Segmenter Classes (#5)
-   - Dictionary Parser Complexity (#6)
-
-## Notes
-
-- [DONE] All changes should include proper unit tests
-- Consider backward compatibility when refactoring public APIs
-- Update documentation after implementing changes
-- Run full test suite after each refactoring to ensure no regression
+This plan provides a systematic approach to adding robust Spanish language support while maintaining the existing architecture's integrity and extensibility.

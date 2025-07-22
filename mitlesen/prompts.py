@@ -11,30 +11,11 @@ LANGUAGE_SYSTEM_PROMPTS: Dict[str, str] = {
 
 
 def get_system_instruction(language: str) -> str:
-    """Get language-specific system instruction for the AI model.
-
-    Args:
-        language: Language code ('de' for German, 'ja' for Japanese)
-
-    Returns:
-        System instruction string appropriate for the language
-
-    Raises:
-        ValueError: If the language is not supported
-    """
     if language not in LANGUAGE_SYSTEM_PROMPTS:
         raise ValueError(f"Unsupported language: {language}")
     return LANGUAGE_SYSTEM_PROMPTS[language]
 
 def get_german_transcript_prompt(sentences_json: str) -> str:
-    """Generate prompt for augmenting German transcript with translations and word-level information.
-
-    Args:
-        sentences_json: JSON string containing the sentences to process
-
-    Returns:
-        Formatted prompt string for the AI model
-    """
     return f"""
           You will be given multiple German sentences in JSON format to translate.
 
@@ -64,14 +45,6 @@ def get_german_transcript_prompt(sentences_json: str) -> str:
     """
 
 def get_japanese_transcript_prompt(sentences_json: str) -> str:
-    """Generate prompt for augmenting Japanese transcript with translations and word-level information.
-
-    Args:
-        sentences_json: JSON string containing the sentences to process
-
-    Returns:
-        Formatted prompt string for the AI model
-    """
     return f"""
           You are a professional Japanese-to-English translator. Your goal is to provide natural, emotionally authentic translations
           that capture the true meaning and tone of Japanese dialogue, especially for anime-style content.
@@ -119,18 +92,6 @@ TRANSCRIPT_PROMPT_FACTORIES = {
 }
 
 def aug_transcript_prompt(sentences_json: str, language: str = 'de') -> str:
-    """Generate prompt for augmenting transcript with translations and word-level information.
-
-    Args:
-        sentences_json: JSON string containing the sentences to process
-        language: Language code ('de' for German, 'ja' for Japanese)
-
-    Returns:
-        Formatted prompt string for the AI model
-
-    Raises:
-        ValueError: If the language is not supported
-    """
     prompt_factory = TRANSCRIPT_PROMPT_FACTORIES.get(language)
     if prompt_factory is None:
         raise ValueError(f"Unsupported language for transcript prompts: {language}")
