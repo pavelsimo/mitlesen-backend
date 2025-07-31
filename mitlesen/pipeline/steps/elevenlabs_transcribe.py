@@ -13,13 +13,20 @@ def _should_split_segment(current_words, word_text, language, total_segment_leng
     import re
     
     # Always split on sentence endings (but not ellipsis)
-    if word_text.endswith(('!', '?', '。', '！', '？')) or (word_text.endswith('.') and word_text != '...'):
+    # Includes Spanish inverted punctuation: ¡! and ¿?
+    if word_text.endswith(('!', '?', '¡', '¿', '。', '！', '？')) or (word_text.endswith('.') and word_text != '...'):
         return True
     
     # Split on commas if the total segment would be long enough to warrant splitting
     comma_ending = re.compile(r'[,、]$')
     if comma_ending.search(word_text):
-        char_threshold = 15 if language == 'ja' else 80
+        # Language-specific character thresholds
+        if language == 'ja':
+            char_threshold = 15
+        elif language == 'es':
+            char_threshold = 85  # Spanish tends to be slightly more verbose than German
+        else:
+            char_threshold = 80  # Default for German and other languages
         
         # If we have total segment length info, use that for decision
         if total_segment_length is not None:
@@ -55,7 +62,7 @@ def transform_elevenlabs_to_transcript(elevenlabs_response, language: str = 'de'
     
     Args:
         elevenlabs_response: Raw response from ElevenLabs API
-        language: Language code ('de' for German, 'ja' for Japanese) for character thresholds
+        language: Language code ('de' for German, 'es' for Spanish, 'ja' for Japanese) for character thresholds
         
     Returns:
         List of segments split by sentences (punctuation) and speaker changes
@@ -126,7 +133,8 @@ def _group_into_sentences(words):
 
 def _is_sentence_ending(word_text):
     """Check if word ends a sentence."""
-    return (word_text.endswith(('!', '?', '。', '！', '？')) or 
+    # Includes Spanish inverted punctuation: ¡! and ¿?
+    return (word_text.endswith(('!', '?', '¡', '¿', '。', '！', '？')) or 
             (word_text.endswith('.') and word_text != '...'))
 
 
@@ -137,7 +145,13 @@ def _split_long_sentence_at_commas(sentence_words, language):
     
     # Calculate total sentence length
     total_text = ''.join(w.get('text', '') for w in sentence_words)
-    char_threshold = 15 if language == 'ja' else 80
+    # Language-specific character thresholds for long sentence splitting
+    if language == 'ja':
+        char_threshold = 15
+    elif language == 'es':
+        char_threshold = 85  # Spanish tends to be slightly more verbose than German
+    else:
+        char_threshold = 80  # Default for German and other languages
     
     # If sentence is short enough, don't split
     if len(total_text) < char_threshold:

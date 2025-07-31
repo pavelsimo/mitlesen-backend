@@ -166,3 +166,4 @@ cython_debug/
 venv
 .aider*
 .env
+.mcp.json

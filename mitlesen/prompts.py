@@ -6,6 +6,7 @@ import json
 # Language-specific system prompts for AI models
 LANGUAGE_SYSTEM_PROMPTS: Dict[str, str] = {
     'de': "You are a precise language-processing assistant. You will receive a raw transcript from a German video.",
+    'es': "You are a precise language-processing assistant specializing in Spanish linguistics. You will receive a raw transcript from a Spanish video.",
     'ja': "You are a professional Japanese-to-English translator specializing in natural, emotionally authentic translations, particularly for dialogue and anime-style content.",
 }
 
@@ -85,9 +86,48 @@ def get_japanese_transcript_prompt(sentences_json: str) -> str:
           {sentences_json}
     """
 
+def get_spanish_transcript_prompt(sentences_json: str) -> str:
+    return f"""
+          You will be given multiple Spanish sentences in JSON format to translate and analyze.
+
+          # Task
+          Your task is to add the missing translation and linguistic analysis for both sentences and words:
+           For each Sentence:
+           - An English translation (natural, fluent English that preserves the original meaning and tone)
+
+           For each Word within the sentences:
+           - An English translation (concise and contextually appropriate)
+           - Its part‑of‑speech tag (use exactly: verb, noun, pronoun, adjective, adverb, preposition, conjunction, article, numeral, particle)
+           - If applicable (nouns, adjectives, pronouns), include grammatical gender (masculino, femenino, neutro)
+           - If applicable (verbs), include tense information when contextually relevant
+
+        # Guidelines
+        - For each sentence, provide a natural, fluent English translation that captures Spanish nuances
+        - Consider Spanish-specific grammatical features: gender agreement, verb conjugation, formal/informal address (tú/usted)
+        - For each word, use concise, contextually appropriate translations
+        - Handle Spanish contractions and elisions appropriately (del, al, etc.)
+        - Account for Spanish accent variations and regional differences
+
+        # Spanish Language Considerations
+        - Respect gendered nouns and adjectives (el/la, -o/-a endings)
+        - Handle Spanish verb tenses accurately (presente, pretérito, imperfecto, etc.)
+        - Consider formal vs informal speech patterns (tú vs usted)
+        - Handle Spanish-specific punctuation (¿?, ¡!) in context
+
+        # Constraints
+        - Only return the JSON output. Do not include any explanations, comments, or additional text.
+        - Do not use markdown formatting or code blocks.
+        - Make sure the words appear in the same order as given in the transcript.
+        - Return an array of JSON objects, one for each input sentence.
+
+        # Input JSON Array
+        {sentences_json}
+    """
+
 # Language-specific transcript prompt factories (defined after functions)
 TRANSCRIPT_PROMPT_FACTORIES = {
     'de': get_german_transcript_prompt,
+    'es': get_spanish_transcript_prompt,
     'ja': get_japanese_transcript_prompt,
 }
 

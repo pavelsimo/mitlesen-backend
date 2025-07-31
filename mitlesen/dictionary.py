@@ -361,6 +361,47 @@ class GermanWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
 
         return None
 
+class SpanishWiktionaryParser(BaseDictionaryParser, JSONLParserMixin):
+    def __init__(self, jsonl_path: str):
+        super().__init__(jsonl_path)
+
+    def parse(self) -> Iterable[DictRow]:
+        for entry in self.parse_jsonl_file(self.source_path, lang_filter="Spanish"):
+            word = entry.get("word")
+            lang = "es"
+            lemma = word
+
+            # Extract POS and remarks using base class method
+            pos_raw = entry.get("pos", "")
+            pos, pos_remarks = self.canonicalize_pos(pos_raw)
+
+            # Extract gender using base class methods
+            gender = self._extract_gender(entry)
+
+            # Extract meanings using base class method
+            meanings = self.extract_meanings_from_senses(entry.get("senses", []))
+
+            id_ = self.make_entry_id(lang, lemma, pos)
+            yield DictRow(
+                id=id_, lang=lang, word=word, lemma=lemma, pos=pos, pos_remarks=pos_remarks,
+                gender=gender, meanings=meanings
+            )
+
+    def _extract_gender(self, entry: Dict) -> Optional[str]:
+        """Extract gender information from Spanish entry."""
+        # Try to extract from sense tags first
+        for sense in entry.get("senses", []):
+            tags = sense.get("tags", [])
+            gender = self.extract_gender_from_tags(tags)
+            if gender:
+                return gender
+
+        # Try to extract from head templates
+        if "head_templates" in entry:
+            return self.extract_gender_from_templates(entry["head_templates"])
+
+        return None
+
 class JapaneseJMDictParser(BaseDictionaryParser, XMLParserMixin):
     POS_REMARK_MAP = {
         "common futsuumeishi": "common noun (futsuumeishi)",

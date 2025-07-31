@@ -10,7 +10,7 @@ def get_segmenter(language: str) -> BaseSegmenter:
     """Get a sentence segmenter for the specified language.
 
     Args:
-        language: Language code ('de' for German, 'ja'/'jp' for Japanese)
+        language: Language code ('de' for German, 'es' for Spanish, 'ja'/'jp' for Japanese)
 
     Returns:
         Language-specific sentence segmenter instance
@@ -23,6 +23,9 @@ def get_segmenter(language: str) -> BaseSegmenter:
     if language == 'de':
         from .german.segmenter import GermanSentenceSegmenter
         return GermanSentenceSegmenter()
+    elif language == 'es':
+        from .spanish.segmenter import SpanishSentenceSegmenter
+        return SpanishSentenceSegmenter()
     elif language in ['ja', 'jp']:
         from .japanese.segmenter import JapaneseSentenceSegmenter
         return JapaneseSentenceSegmenter()
@@ -53,7 +56,7 @@ def get_transcript_processor(language: str) -> BaseTranscriptProcessor:
     """Get a transcript processor for the specified language.
 
     Args:
-        language: Language code ('de' for German, 'ja'/'jp' for Japanese)
+        language: Language code ('de' for German, 'es' for Spanish, 'ja'/'jp' for Japanese)
 
     Returns:
         Language-specific transcript processor instance
@@ -66,6 +69,9 @@ def get_transcript_processor(language: str) -> BaseTranscriptProcessor:
     if language == 'de':
         from .german.transcript_processor import GermanTranscriptProcessor
         return GermanTranscriptProcessor()
+    elif language == 'es':
+        from .spanish.transcript_processor import SpanishTranscriptProcessor
+        return SpanishTranscriptProcessor()
     elif language in ['ja', 'jp']:
         from .japanese.transcript_processor import JapaneseTranscriptProcessor
         return JapaneseTranscriptProcessor()
@@ -76,7 +82,7 @@ def get_language_processor(language: str, processor_type: str):
     """Get a language processor instance (backward compatibility).
 
     Args:
-        language: Language code ('de' for German, 'ja' for Japanese)
+        language: Language code ('de' for German, 'es' for Spanish, 'ja' for Japanese)
         processor_type: Type of processor ('segmenter', 'splitter', or 'transcript_processor')
 
     Returns:

@@ -17,13 +17,14 @@ class WhisperConfig:
 WHISPER_CONFIGS = {
     'ja': WhisperConfig(chunk_size=6, align_model_name="jonatasgrosman/wav2vec2-large-xlsr-53-japanese"),
     'de': WhisperConfig(chunk_size=30, align_model_name=None),
+    'es': WhisperConfig(chunk_size=30, align_model_name=None),
 }
 
 def get_whisper_config(language: str) -> WhisperConfig:
     """Get WhisperX configuration for the specified language.
 
     Args:
-        language: Language code ('de' for German, 'ja' for Japanese)
+        language: Language code ('de' for German, 'es' for Spanish, 'ja' for Japanese)
 
     Returns:
         WhisperConfig instance with language-specific settings
