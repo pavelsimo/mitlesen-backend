@@ -12,5 +12,4 @@ DICTIONARIES_DIR = os.path.abspath(os.path.join(DATA_DIR, 'dictionaries'))
 SPEECHES_DIR = os.path.abspath(os.path.join(DATA_DIR, 'speeches'))
 
 # Video CSV files
-#VIDEOS_CSV_FILES = ["videos_es.csv", "videos_de.csv", "videos_ja.csv"]
-VIDEOS_CSV_FILES = ["videos_es.csv"]
+VIDEOS_CSV_FILES = ["videos_es.csv", "videos_de.csv", "videos_ja.csv"]
