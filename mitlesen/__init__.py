@@ -13,3 +13,7 @@ SPEECHES_DIR = os.path.abspath(os.path.join(DATA_DIR, 'speeches'))
 
 # Video CSV files
 VIDEOS_CSV_FILES = ["videos_es.csv", "videos_de.csv", "videos_ja.csv"]
+
+# Enable language-specific audio track selection
+# When True, attempts to download audio in the language specified in CSV
+ENABLE_LANGUAGE_AUDIO_SELECTION = False

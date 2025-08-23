@@ -2,6 +2,7 @@ import time
 import random
 from mitlesen.pipeline.base import PipelineStep, PipelineContext
 from mitlesen.logger import logger
+from mitlesen import ENABLE_LANGUAGE_AUDIO_SELECTION
 from yt_dlp import YoutubeDL
 from yt_dlp.utils import DownloadError, ExtractorError
 
@@ -50,11 +51,50 @@ class DownloadStep(PipelineStep):
                     
         return False
 
+    def _get_available_audio_languages(self, info: dict) -> list:
+        """Extract available audio language codes from video info"""
+        languages = set()
+        for fmt in info.get('formats', []):
+            # Check for audio-only formats (no video codec)
+            if fmt.get('acodec') != 'none' and fmt.get('vcodec') == 'none':
+                if lang := fmt.get('language'):
+                    languages.add(lang)
+        return sorted(languages)
+
     def _attempt_download(self, url: str, context: PipelineContext) -> bool:
         """Attempt a single download with robust yt-dlp options."""
+        
+        # First, extract info to check available audio tracks
+        info_opts = {
+            "quiet": True,
+            "no_warnings": True,
+        }
+        
+        # Determine format string based on language selection settings
+        format_string = "bestaudio/best"  # Default format
+        video_info = None
+        
+        if ENABLE_LANGUAGE_AUDIO_SELECTION:
+            try:
+                with YoutubeDL(info_opts) as info_ydl:
+                    video_info = info_ydl.extract_info(url, download=False)
+                    available_langs = self._get_available_audio_languages(video_info)
+                    
+                    if available_langs:
+                        logger.info(f"🎵 Available audio tracks: {available_langs}")
+                        if context.language in available_langs:
+                            format_string = f"bestaudio[language={context.language}]/bestaudio/best"
+                            logger.info(f"🎯 Selecting '{context.language}' audio track")
+                        else:
+                            logger.warning(f"⚠️ Language '{context.language}' not available. Using default audio.")
+                    else:
+                        logger.info("ℹ️ No language-specific audio tracks found. Using default audio.")
+            except Exception as e:
+                logger.warning(f"⚠️ Failed to check audio languages: {str(e)}. Using default format.")
+        
         ydl_opts = {
             # Basic options
-            "format": "bestaudio/best",
+            "format": format_string,
             "outtmpl": str(context.working_dir / context.youtube_id),
             
             # Audio processing
@@ -94,16 +134,18 @@ class DownloadStep(PipelineStep):
         
         try:
             with YoutubeDL(ydl_opts) as ydl:
-                # First, try to extract info to check if video is accessible
-                info = ydl.extract_info(url, download=False)
-                logger.info(f"📋 Video info extracted: {info.get('title', 'Unknown Title')}")
+                # Use already extracted info if available, otherwise extract it
+                if video_info is None:
+                    video_info = ydl.extract_info(url, download=False)
+                
+                logger.info(f"📋 Video info extracted: {video_info.get('title', 'Unknown Title')}")
                 
                 # Check for potential issues
-                if info.get('is_live'):
+                if video_info.get('is_live'):
                     logger.warning(f"⚠️ Video {context.youtube_id} is a live stream")
                     
-                if info.get('age_limit', 0) > 0:
-                    logger.warning(f"⚠️ Video {context.youtube_id} has age restriction: {info.get('age_limit')}")
+                if video_info.get('age_limit', 0) > 0:
+                    logger.warning(f"⚠️ Video {context.youtube_id} has age restriction: {video_info.get('age_limit')}")
                 
                 # Proceed with download
                 ydl.download([url])
