@@ -21,7 +21,8 @@ class BaseAIClient:
         backend: str,
         language: str = 'de',
         model_openai: str = "gpt-4o-mini",
-        model_gemini: str = "gemini-2.0-flash",
+        #model_gemini: str = "gemini-2.0-flash",
+        model_gemini: str = "gemini-2.0-flash-lite",
         system_prompt: Optional[str] = None,
     ):
         self.model_openai = model_openai
@@ -73,7 +74,8 @@ class CompletionClient(BaseAIClient):
         backend: str,
         language: str = 'de',
         model_openai: str = "gpt-4o-mini",
-        model_gemini: str = "gemini-2.0-flash",
+        #model_gemini: str = "gemini-2.0-flash",
+        model_gemini: str = "gemini-2.0-flash-lite",
         system_prompt: Optional[str] = None,
     ):
         # Use parent class initialization

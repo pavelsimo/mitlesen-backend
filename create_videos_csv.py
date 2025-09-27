@@ -39,10 +39,7 @@ CHANNEL_LANGUAGE_MAP = {
 }
 
 # Default YouTube URLs to process (can be overridden by command line)
-DEFAULT_YOUTUBE_URLS = [
-    "https://www.youtube.com/watch?v=Oz04oXzyN2Q",
-    "https://www.youtube.com/watch?v=lYVFOSWbhmI"
-]
+DEFAULT_YOUTUBE_URLS = []
 
 def extract_video_id(url: str) -> Optional[str]:
     """Extract YouTube video ID from URL."""
