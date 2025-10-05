@@ -16,4 +16,4 @@ VIDEOS_CSV_FILES = ["videos_ja.csv", "videos_de.csv", "videos_es.csv"]
 
 # Enable language-specific audio track selection
 # When True, attempts to download audio in the language specified in CSV
-ENABLE_LANGUAGE_AUDIO_SELECTION = False
+ENABLE_LANGUAGE_AUDIO_SELECTION = True
